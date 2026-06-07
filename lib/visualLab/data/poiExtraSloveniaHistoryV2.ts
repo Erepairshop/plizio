@@ -728,6 +728,24 @@ imageHint: "Small fortified church with ancient stone wall and tower",
                         14.300464,
                         46.190481
                   ]
+            },
+            {
+                  "name": "playground Zamorc",
+                  "text": "playground Zamorc ist ein Spielplatz in Skofja Loka Medieval Town. Ein unterhaltsamer Ort für Kinder zum Spielen während eines Familienbesuchs in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        14.306165,
+                        46.163936
+                  ]
+            },
+            {
+                  "name": "Športni park Livada Žovšče",
+                  "text": "Športni park Livada Žovšče ist ein Spielplatz in Skofja Loka Medieval Town. Er bietet verschiedene Möglichkeiten für Spiel und sportliche Betätigung.",
+                  "category": "family",
+                  "coords": [
+                        14.310843,
+                        46.155942
+                  ]
             }
       ],
       "hu": [
@@ -810,6 +828,24 @@ imageHint: "Small fortified church with ancient stone wall and tower",
                   "coords": [
                         14.300464,
                         46.190481
+                  ]
+            },
+            {
+                  "name": "playground Zamorc",
+                  "text": "A playground Zamorc egy játszótér Skofja Loka középkori városában. Szórakoztató helyszín a gyerekeknek a játékra a városlátogatás során.",
+                  "category": "family",
+                  "coords": [
+                        14.306165,
+                        46.163936
+                  ]
+            },
+            {
+                  "name": "Športni park Livada Žovšče",
+                  "text": "A Športni park Livada Žovšče egy játszótér Skofja Loka középkori városában. Különféle lehetőségeket kínál a játékra és sportolásra.",
+                  "category": "family",
+                  "coords": [
+                        14.310843,
+                        46.155942
                   ]
             }
       ],
@@ -894,6 +930,24 @@ imageHint: "Small fortified church with ancient stone wall and tower",
                         14.300464,
                         46.190481
                   ]
+            },
+            {
+                  "name": "playground Zamorc",
+                  "text": "playground Zamorc este un teren de joacă în orașul medieval Skofja Loka. Un loc distractiv pentru copii pentru joacă în timpul unei vizite cu familia în oraș.",
+                  "category": "family",
+                  "coords": [
+                        14.306165,
+                        46.163936
+                  ]
+            },
+            {
+                  "name": "Športni park Livada Žovšče",
+                  "text": "Športni park Livada Žovšče este un teren de joacă în orașul medieval Skofja Loka. Oferă diverse posibilități pentru joacă și activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        14.310843,
+                        46.155942
+                  ]
             }
       ],
       "en": [
@@ -976,6 +1030,24 @@ imageHint: "Small fortified church with ancient stone wall and tower",
                   "coords": [
                         14.300464,
                         46.190481
+                  ]
+            },
+            {
+                  "name": "playground Zamorc",
+                  "text": "playground Zamorc is a playground in Skofja Loka Medieval Town. A fun spot for children to play during a family visit to the town.",
+                  "category": "family",
+                  "coords": [
+                        14.306165,
+                        46.163936
+                  ]
+            },
+            {
+                  "name": "Športni park Livada Žovšče",
+                  "text": "Športni park Livada Žovšče is a playground in Skofja Loka Medieval Town. It offers various opportunities for play and sports activities.",
+                  "category": "family",
+                  "coords": [
+                        14.310843,
+                        46.155942
                   ]
             }
       ]

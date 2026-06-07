@@ -5808,6 +5808,96 @@ export const maltaPoi: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Ein malerischer See in Mosta Dome, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Ein lokaler Spielplatz in Mosta Dome, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Ein lokaler Spielplatz in Mosta Dome, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Ein lokaler Spielplatz in Mosta Dome, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "hu": [
@@ -6160,6 +6250,96 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.452406,
                         35.923542
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Festői tó Mosta Dome területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Helyi játszótér Mosta Dome városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Helyi játszótér Mosta Dome városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Helyi játszótér Mosta Dome városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ],
@@ -6514,6 +6694,96 @@ export const maltaPoi: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Un lac pitoresc în Mosta Dome, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Un loc de joacă local în Mosta Dome, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Un loc de joacă local în Mosta Dome, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Un loc de joacă local în Mosta Dome, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "en": [
@@ -6866,6 +7136,96 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.452406,
                         35.923542
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A scenic lake in Mosta Dome, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "A local playground in Mosta Dome, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "A local playground in Mosta Dome, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "A local playground in Mosta Dome, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ]
@@ -7471,6 +7831,96 @@ export const maltaPoi: POI[] = [
                         14.400356,
                         35.884092
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein Gewässer in Mdina, das einen ruhigen Punkt in der historischen Stadt bildet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Dieser Speicher in Mdina bietet einen Einblick in die lokale Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ein lokales Reservoir in Mdina, das sich in die Umgebung der Stadt einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Wasserreservoir bietet einen funktionalen und ruhigen Aspekt der Gegend um Mdina.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein weiteres Reservoir in Mdina, das zur Wasserinfrastruktur und Kulisse gehört.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Dieses Gewässer in Mdina ist ein einfacher Ort der Ruhe innerhalb der Stadtgrenzen.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Diese Gegend in Mdina bietet eine weite Sicht und eine besondere Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ein kleiner Spielplatz in Mdina, ideal für eine kurze Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Ein Abenteuerpark in Mdina, der verschiedene Aktivitäten für aktive Familien bereithält.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Dieser Spielbereich in Mdina ist ein freundlicher Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "hu": [
@@ -7715,6 +8165,96 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.400356,
                         35.884092
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Vízfelület Mdinában, amely nyugodt pontot képez a történelmi városban.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Ez a Mdinában található tározó betekintést nyújt a helyi vízgazdálkodási tájba.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Helyi tározó Mdinában, amely illeszkedik a város környezetébe.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a víztározó a Mdina környéki terület funkcionális és nyugodt arcát mutatja.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Egy újabb tározó Mdinában, amely a vízi infrastruktúra és a környezet része.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ez a Mdinában található vízfelület a nyugalom egyszerű helyszíne a városhatáron belül.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ez a Mdinában található terület tágas kilátást és különleges hangulatot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Kisméretű játszótér Mdinában, ideális egy rövid szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Kalandpark Mdinában, amely különféle tevékenységeket kínál az aktív családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Ez a Mdinában található játszóhely barátságos találkozópont a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ],
@@ -7961,6 +8501,96 @@ export const maltaPoi: POI[] = [
                         14.400356,
                         35.884092
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Un corp de apă din Mdina care formează un punct liniștit în orașul istoric.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Acest rezervor din Mdina oferă o privire asupra peisajului local al apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Un rezervor local din Mdina, care se integrează în mediul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor de apă oferă un aspect funcțional și liniștit zonei din jurul Mdinei.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un alt rezervor din Mdina, parte a infrastructurii de apă și a decorului local.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Acest corp de apă din Mdina este un loc simplu de liniște în limitele orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Această zonă din Mdina oferă o vedere largă și o atmosferă deosebită.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Un mic teren de joacă în Mdina, ideal pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Un parc de aventură în Mdina care oferă diverse activități pentru familiile active.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Această zonă de joacă din Mdina este un punct de întâlnire prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "en": [
@@ -8205,6 +8835,96 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.400356,
                         35.884092
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A body of water in Mdina forming a quiet point in the historic city.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "This reservoir in Mdina offers a glimpse into the local water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "A local reservoir in Mdina that blends into the city's surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This water reservoir offers a functional and calm aspect to the area around Mdina.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Another reservoir in Mdina, part of the water infrastructure and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "This body of water in Mdina is a simple spot of calm within the city limits.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "This area in Mdina offers a wide view and a special atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "A small playground in Mdina, ideal for a short break with children.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "An adventure park in Mdina offering various activities for active families.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "This play area in Mdina is a friendly meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ]

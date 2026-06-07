@@ -148,6 +148,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                         21.240861,
                         41.37519
                   ]
+            },
+            {
+                  "name": "Крушевско Езеро",
+                  "text": "Ein malerischer See in City Krusevo, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
             }
       ],
       "hu": [
@@ -293,6 +302,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                   "coords": [
                         21.240861,
                         41.37519
+                  ]
+            },
+            {
+                  "name": "Крушевско Езеро",
+                  "text": "Festői tó City Krusevo területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
                   ]
             }
       ],
@@ -440,6 +458,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                         21.240861,
                         41.37519
                   ]
+            },
+            {
+                  "name": "Крушевско Езеро",
+                  "text": "Un lac pitoresc în City Krusevo, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
             }
       ],
       "en": [
@@ -585,6 +612,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                   "coords": [
                         21.240861,
                         41.37519
+                  ]
+            },
+            {
+                  "name": "Lake of Krushevo",
+                  "text": "A scenic lake in City Krusevo, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
                   ]
             }
       ]
@@ -903,7 +939,52 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-pehcovo-cities-v2.webp",
   },
   {
-    id: "northmacedonia-berovo-cities-v2",
+    id: "northmacedonia-berovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Беровско Езеро",
+                  "text": "Der Berovo-See ist ein malerischer See in der Nähe von Berovo. Er ist ein friedliches Ziel für Spaziergänge und zum Genießen der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Беровско Езеро",
+                  "text": "A Berovói-tó egy festői tó Berovo közelében. Nyugodt úti cél sétákhoz és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Беровско Езеро",
+                  "text": "Lacul Berovo este un lac pitoresc situat lângă Berovo. Este o destinație liniștită pentru plimbări și aer curat.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berovo Lake",
+                  "text": "Berovo Lake is a scenic lake located near Berovo. It is a peaceful destination for walking and enjoying the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Berowo", hu: "Berovo", ro: "Berovo", en: "Berovo" },
@@ -1147,6 +1228,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                         22.510603,
                         41.878908
                   ]
+            },
+            {
+                  "name": "Истибањско Езеро",
+                  "text": "Ein See in Vinica, der als ruhiger Ort für lokale Erholung dient.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
             }
       ],
       "hu": [
@@ -1184,6 +1274,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                   "coords": [
                         22.510603,
                         41.878908
+                  ]
+            },
+            {
+                  "name": "Истибањско Езеро",
+                  "text": "Tó Vinica területén, amely nyugodt helyszínként szolgál a helyi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
                   ]
             }
       ],
@@ -1223,6 +1322,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                         22.510603,
                         41.878908
                   ]
+            },
+            {
+                  "name": "Истибањско Езеро",
+                  "text": "Un lac din Vinica, care servește ca loc liniștit pentru recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
             }
       ],
       "en": [
@@ -1260,6 +1368,15 @@ export const northmacedoniaCitiesV2: POI[] = [
                   "coords": [
                         22.510603,
                         41.878908
+                  ]
+            },
+            {
+                  "name": "Istibanja Lake",
+                  "text": "A lake in Vinica serving as a quiet spot for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
                   ]
             }
       ]
@@ -1353,7 +1470,52 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-demirkapija-cities-v2.webp",
   },
   {
-    id: "northmacedonia-kratovo-cities-v2",
+    id: "northmacedonia-kratovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Кундиско Езеро",
+                  "text": "Ein malerischer See in Kratovo, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кундиско Езеро",
+                  "text": "Festői tó Kratovo területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кундиско Езеро",
+                  "text": "Un lac pitoresc în Kratovo, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kundino Lake",
+                  "text": "A scenic lake in Kratovo, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Kratowo", hu: "Kratovo", ro: "Kratovo", en: "Kratovo" },

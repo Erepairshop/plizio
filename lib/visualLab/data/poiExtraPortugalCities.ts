@@ -436,6 +436,222 @@ export const poiExtraPortugalCities: POI[] = [
                         -9.148003,
                         38.715842
                   ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "Das Gewässer ETAR da Mutela in Lissabon bietet einen Ausblick auf die Wasserflächen der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Der Lago Duque de Lafões in Lissabon ist ein angenehmer Ort für eine kurze Pause am Wasser während einer Stadttour.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Die Lagoa in Lissabon ist ein ruhiger Wasserpunkt, der zur Entspannung inmitten der städtischen Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Dieser See in Lissabon bietet eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Ein lokales Gewässer in Lissabon, das sich für einen kurzen Aufenthalt im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Der Hauptsee in Lissabon lädt Besucher zu einer entspannten Pause am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Santo Estêvão",
+                  "text": "Ein Spielplatz in Lissabon, der Kindern eine sichere Umgebung für Aktivitäten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.126921,
+                        38.712536
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Filipe da Mata",
+                  "text": "Dieser Spielplatz in Lissabon ist ein idealer Ort für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -9.159049,
+                        38.740822
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praça Flores",
+                  "text": "Ein kleiner Spielplatz in Lissabon, der eine familienfreundliche Atmosphäre im Viertel bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.1519,
+                        38.715058
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Capelão",
+                  "text": "Dieser Spielbereich in Lissabon ermöglicht Kindern sicheres Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -9.134841,
+                        38.716287
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta da Bela Flor",
+                  "text": "Ein Spielplatz in Lissabon, der als Treffpunkt für Familien und Kinder dient.",
+                  "category": "family",
+                  "coords": [
+                        -9.171449,
+                        38.723924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Gomes Amorim",
+                  "text": "Dieser Spielplatz in Lissabon bietet verschiedene Spielgeräte für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -9.143477,
+                        38.73776
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua General Justiniano Padrel",
+                  "text": "Ein sicherer Spielplatz in Lissabon, ideal für die tägliche Bewegung von Kindern an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        -9.123169,
+                        38.721919
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Quinta dos Ourives",
+                  "text": "Ein familienfreundlicher Bereich in Lissabon, der speziell für das Spielen im Freien gestaltet wurde.",
+                  "category": "family",
+                  "coords": [
+                        -9.115449,
+                        38.734595
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Carlos Botelho",
+                  "text": "Ein öffentlicher Spielplatz in Lissabon, der Kindern Raum zum Toben und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.120178,
+                        38.735578
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Braamcamp Freire",
+                  "text": "Dieser Spielplatz in Lissabon liegt in einer Parkanlage und ist ideal für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -9.139764,
+                        38.72292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Avenida Marquês de Tomar",
+                  "text": "Ein moderner Spielbereich in Lissabon für Kinder, der zur aktiven Erholung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -9.150747,
+                        38.739016
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Bulhão Pato",
+                  "text": "Dieser Spielplatz in Lissabon bietet eine angenehme Umgebung für Kinder und ihre Begleitpersonen.",
+                  "category": "family",
+                  "coords": [
+                        -9.127438,
+                        38.734874
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Cruzado Osberno",
+                  "text": "Ein gut zugänglicher Spielplatz in Lissabon für die lokale Gemeinschaft und ihre Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -9.116342,
+                        38.725134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo de Santos o Novo",
+                  "text": "Ein Spielbereich in Lissabon, der einen sicheren Ort für das Spiel von Kleinkindern bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.117028,
+                        38.721494
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Mata da Madre Deus",
+                  "text": "Dieser Spielplatz in Lissabon ist Teil einer Waldanlage und bietet viel Schatten zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -9.115549,
+                        38.732848
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Botto Machado",
+                  "text": "Ein Spielplatz in Lissabon, der eine schöne Aussicht und Spielmöglichkeiten für Familien kombiniert.",
+                  "category": "family",
+                  "coords": [
+                        -9.12352,
+                        38.716036
+                  ]
+            },
+            {
+                  "name": "Parque Infantil e de Lazer do Recolhimento",
+                  "text": "Ein Freizeit- und Spielplatz in Lissabon, der zur Entspannung und zum Spiel einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -9.131846,
+                        38.71252
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Marcelino Mesquita",
+                  "text": "Ein Spielplatz in Lissabon, der Kindern eine abwechslungsreiche Umgebung für Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.156688,
+                        38.722197
+                  ]
             }
       ],
       "hu": [
@@ -869,6 +1085,222 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -9.148003,
                         38.715842
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "A lisszaboni ETAR da Mutela vízfelülete kilátást nyújt a város vizes területeire.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "A lisszaboni Lago Duque de Lafões kellemes helyszín egy rövid vízparti pihenőhöz a városnézés során.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "A lisszaboni Lagoa egy nyugodt vízi pont, amely kikapcsolódásra hív a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Ez a Lisszabonban található tó nyugodt környezetet biztosít a sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Egy helyi vízfelület Lisszabonban, amely alkalmas egy rövid szabadtéri pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lisszabon fő tava vízi kikapcsolódásra és pihenésre hívja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Santo Estêvão",
+                  "text": "Egy játszótér Lisszabonban, amely biztonságos környezetet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.126921,
+                        38.712536
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Filipe da Mata",
+                  "text": "Ez a lisszaboni játszótér ideális hely a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.159049,
+                        38.740822
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praça Flores",
+                  "text": "Egy kis játszótér Lisszabonban, amely családbarát hangulatot biztosít a környéken.",
+                  "category": "family",
+                  "coords": [
+                        -9.1519,
+                        38.715058
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Capelão",
+                  "text": "Ez a lisszaboni játszórész lehetővé teszi a gyermekek számára a biztonságos szabadtéri játékot.",
+                  "category": "family",
+                  "coords": [
+                        -9.134841,
+                        38.716287
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta da Bela Flor",
+                  "text": "Egy játszótér Lisszabonban, amely a családok és gyermekek találkozóhelyeként szolgál.",
+                  "category": "family",
+                  "coords": [
+                        -9.171449,
+                        38.723924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Gomes Amorim",
+                  "text": "Ez a lisszaboni játszótér különböző játéklehetőségeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.143477,
+                        38.73776
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua General Justiniano Padrel",
+                  "text": "Biztonságos játszótér Lisszabonban, ideális a gyermekek napi szabadtéri mozgásához.",
+                  "category": "family",
+                  "coords": [
+                        -9.123169,
+                        38.721919
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Quinta dos Ourives",
+                  "text": "Családbarát terület Lisszabonban, amelyet kifejezetten szabadtéri játékra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -9.115449,
+                        38.734595
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Carlos Botelho",
+                  "text": "Nyilvános játszótér Lisszabonban, amely teret biztosít a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        -9.120178,
+                        38.735578
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Braamcamp Freire",
+                  "text": "Ez a lisszaboni játszótér egy parkban található, és ideális családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.139764,
+                        38.72292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Avenida Marquês de Tomar",
+                  "text": "Egy modern játszórész Lisszabonban gyerekeknek, amely aktív kikapcsolódásra hív.",
+                  "category": "family",
+                  "coords": [
+                        -9.150747,
+                        38.739016
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Bulhão Pato",
+                  "text": "Ez a lisszaboni játszótér kellemes környezetet biztosít a gyermekek és kísérőik számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.127438,
+                        38.734874
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Cruzado Osberno",
+                  "text": "Könnyen megközelíthető játszótér Lisszabonban a helyi közösség és gyermekeik számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.116342,
+                        38.725134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo de Santos o Novo",
+                  "text": "Játszórész Lisszabonban, amely biztonságos helyet kínál a kisgyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        -9.117028,
+                        38.721494
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Mata da Madre Deus",
+                  "text": "Ez a lisszaboni játszótér egy erdős terület része, és sok árnyékot kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.115549,
+                        38.732848
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Botto Machado",
+                  "text": "Egy játszótér Lisszabonban, amely szép kilátást és játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -9.12352,
+                        38.716036
+                  ]
+            },
+            {
+                  "name": "Parque Infantil e de Lazer do Recolhimento",
+                  "text": "Szabadidős és játszótér Lisszabonban, amely pihenésre és játékra invitál.",
+                  "category": "family",
+                  "coords": [
+                        -9.131846,
+                        38.71252
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Marcelino Mesquita",
+                  "text": "Egy játszótér Lisszabonban, amely változatos környezetet biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.156688,
+                        38.722197
                   ]
             }
       ],
@@ -1304,6 +1736,222 @@ export const poiExtraPortugalCities: POI[] = [
                         -9.148003,
                         38.715842
                   ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "Luciul de apă ETAR da Mutela din Lisabona oferă o perspectivă asupra zonelor acvatice ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões din Lisabona este un loc plăcut pentru o scurtă pauză lângă apă în timpul unei plimbări prin oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa din Lisabona este un punct acvatic liniștit care invită la relaxare în mijlocul mediului urban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Acest lac din Lisabona oferă un mediu liniștit pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "O mică acumulare de apă din Lisabona, potrivită pentru o scurtă oprire în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lacul principal din Lisabona invită vizitatorii la o pauză relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Santo Estêvão",
+                  "text": "Un loc de joacă în Lisabona care oferă copiilor un mediu sigur pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.126921,
+                        38.712536
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Filipe da Mata",
+                  "text": "Acest loc de joacă din Lisabona este un loc ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -9.159049,
+                        38.740822
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praça Flores",
+                  "text": "Un mic loc de joacă în Lisabona, oferind o atmosferă primitoare pentru familii în cartier.",
+                  "category": "family",
+                  "coords": [
+                        -9.1519,
+                        38.715058
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Capelão",
+                  "text": "Această zonă de joacă din Lisabona permite copiilor să se joace în siguranță în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.134841,
+                        38.716287
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta da Bela Flor",
+                  "text": "Un loc de joacă în Lisabona care servește ca punct de întâlnire pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -9.171449,
+                        38.723924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Gomes Amorim",
+                  "text": "Acest loc de joacă din Lisabona oferă diverse echipamente de joacă pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -9.143477,
+                        38.73776
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua General Justiniano Padrel",
+                  "text": "Un loc de joacă sigur în Lisabona, ideal pentru mișcarea zilnică a copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.123169,
+                        38.721919
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Quinta dos Ourives",
+                  "text": "O zonă prietenoasă pentru familii în Lisabona, concepută special pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.115449,
+                        38.734595
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Carlos Botelho",
+                  "text": "Un loc de joacă public în Lisabona care oferă copiilor spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        -9.120178,
+                        38.735578
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Braamcamp Freire",
+                  "text": "Acest loc de joacă din Lisabona este situat într-un parc și este ideal pentru ieșiri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -9.139764,
+                        38.72292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Avenida Marquês de Tomar",
+                  "text": "O zonă de joacă modernă în Lisabona pentru copii, care invită la recreere activă.",
+                  "category": "family",
+                  "coords": [
+                        -9.150747,
+                        38.739016
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Bulhão Pato",
+                  "text": "Acest loc de joacă din Lisabona oferă un mediu plăcut pentru copii și însoțitorii lor.",
+                  "category": "family",
+                  "coords": [
+                        -9.127438,
+                        38.734874
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Cruzado Osberno",
+                  "text": "Un loc de joacă ușor accesibil în Lisabona pentru comunitatea locală și copiii acestora.",
+                  "category": "family",
+                  "coords": [
+                        -9.116342,
+                        38.725134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo de Santos o Novo",
+                  "text": "O zonă de joacă în Lisabona care oferă un loc sigur pentru joaca copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        -9.117028,
+                        38.721494
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Mata da Madre Deus",
+                  "text": "Acest loc de joacă din Lisabona face parte dintr-o zonă împădurită și oferă multă umbră pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -9.115549,
+                        38.732848
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Botto Machado",
+                  "text": "Un loc de joacă în Lisabona care îmbină o vedere frumoasă cu posibilități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -9.12352,
+                        38.716036
+                  ]
+            },
+            {
+                  "name": "Parque Infantil e de Lazer do Recolhimento",
+                  "text": "Un loc de agrement și joacă în Lisabona care invită la relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -9.131846,
+                        38.71252
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Marcelino Mesquita",
+                  "text": "Un loc de joacă în Lisabona care oferă copiilor un mediu variat pentru activități.",
+                  "category": "family",
+                  "coords": [
+                        -9.156688,
+                        38.722197
+                  ]
             }
       ],
       "en": [
@@ -1737,6 +2385,222 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -9.148003,
                         38.715842
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "The water feature ETAR da Mutela in Lisbon offers a view of the city's water areas.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões in Lisbon is a pleasant spot for a short break by the water during a city tour.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa in Lisbon is a calm water point that invites relaxation amidst the urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "This lake in Lisbon provides a peaceful setting for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "A local water feature in Lisbon suitable for a short outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "The main lake in Lisbon invites visitors for a relaxing break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Santo Estêvão",
+                  "text": "A playground in Lisbon offering children a safe environment for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -9.126921,
+                        38.712536
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Filipe da Mata",
+                  "text": "This playground in Lisbon is an ideal spot for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        -9.159049,
+                        38.740822
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praça Flores",
+                  "text": "A small playground in Lisbon providing a family-friendly atmosphere in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -9.1519,
+                        38.715058
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Capelão",
+                  "text": "This play area in Lisbon allows children to play safely outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -9.134841,
+                        38.716287
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta da Bela Flor",
+                  "text": "A playground in Lisbon serving as a gathering spot for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -9.171449,
+                        38.723924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Gomes Amorim",
+                  "text": "This playground in Lisbon offers various play equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -9.143477,
+                        38.73776
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua General Justiniano Padrel",
+                  "text": "A safe playground in Lisbon, ideal for children's daily outdoor exercise.",
+                  "category": "family",
+                  "coords": [
+                        -9.123169,
+                        38.721919
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Quinta dos Ourives",
+                  "text": "A family-friendly area in Lisbon specifically designed for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -9.115449,
+                        38.734595
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Carlos Botelho",
+                  "text": "A public playground in Lisbon providing children with space to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        -9.120178,
+                        38.735578
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Braamcamp Freire",
+                  "text": "This playground in Lisbon is located within a park and is ideal for family outings.",
+                  "category": "family",
+                  "coords": [
+                        -9.139764,
+                        38.72292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Avenida Marquês de Tomar",
+                  "text": "A modern play area in Lisbon for children, inviting active recreation.",
+                  "category": "family",
+                  "coords": [
+                        -9.150747,
+                        38.739016
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Bulhão Pato",
+                  "text": "This playground in Lisbon offers a pleasant environment for children and their companions.",
+                  "category": "family",
+                  "coords": [
+                        -9.127438,
+                        38.734874
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua do Cruzado Osberno",
+                  "text": "An easily accessible playground in Lisbon for the local community and their children.",
+                  "category": "family",
+                  "coords": [
+                        -9.116342,
+                        38.725134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo de Santos o Novo",
+                  "text": "A play area in Lisbon offering a safe place for young children to play.",
+                  "category": "family",
+                  "coords": [
+                        -9.117028,
+                        38.721494
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Mata da Madre Deus",
+                  "text": "This playground in Lisbon is part of a wooded area and offers plenty of shade for playing.",
+                  "category": "family",
+                  "coords": [
+                        -9.115549,
+                        38.732848
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Botto Machado",
+                  "text": "A playground in Lisbon combining a nice view with play opportunities for families.",
+                  "category": "family",
+                  "coords": [
+                        -9.12352,
+                        38.716036
+                  ]
+            },
+            {
+                  "name": "Parque Infantil e de Lazer do Recolhimento",
+                  "text": "A leisure and playground in Lisbon inviting relaxation and play.",
+                  "category": "family",
+                  "coords": [
+                        -9.131846,
+                        38.71252
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Marcelino Mesquita",
+                  "text": "A playground in Lisbon providing children with a varied environment for activities.",
+                  "category": "family",
+                  "coords": [
+                        -9.156688,
+                        38.722197
                   ]
             }
       ]
@@ -2207,6 +3071,150 @@ export const poiExtraPortugalCities: POI[] = [
                         -8.604625,
                         41.16738
                   ]
+            },
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Der Lago da Pasteleira ist ein kleiner See im Stadtgebiet von Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Der Lago Grande ist ein markantes Gewässer im Stadtpark von Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca ist ein kleiner, naturnaher Teich in Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Der Lago III ist Teil der Seenlandschaft in einem der Parks von Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Presa de Contumil",
+                  "text": "Die Presa de Contumil ist ein ruhiges Gewässer in Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.578242,
+                        41.169813
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Lago II ist ein See in Porto, der eine malerische Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Lago I ist ein See in Porto, der zu ruhigen Beobachtungen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Jumpers",
+                  "text": "Jumpers ist ein Trampolinpark in Porto, der aktiven Hallenspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.646672,
+                        41.176004
+                  ]
+            },
+            {
+                  "name": "5 Estrelas",
+                  "text": "5 Estrelas ist eine Spielhalle in Porto mit verschiedenen Unterhaltungsmöglichkeiten für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        -8.636447,
+                        41.15932
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Bessa Leite",
+                  "text": "Der Parque Infantil Bessa Leite ist ein schöner Spielplatz in Porto für die tägliche Freizeitgestaltung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -8.646072,
+                        41.158924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Inatel",
+                  "text": "Der Parque Infantil do Inatel bietet Kindern in Porto einen sicheren Raum zum Spielen und Bewegen.",
+                  "category": "family",
+                  "coords": [
+                        -8.658527,
+                        41.167315
+                  ]
+            },
+            {
+                  "name": "Lockers & Games",
+                  "text": "Lockers & Games ist eine moderne Spielhalle in Porto, die Familienspaß mit verschiedenen Spielautomaten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.617156,
+                        41.150829
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Cervantes",
+                  "text": "Der Parque Infantil de Cervantes ist ein örtlicher Spielplatz in Porto, ideal für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -8.614537,
+                        41.157269
+                  ]
+            },
+            {
+                  "name": "Parque infantil do Monte dos Burgos",
+                  "text": "Dieser Spielplatz am Monte dos Burgos in Porto bietet eine freundliche Umgebung für das Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -8.629998,
+                        41.182397
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Azenha",
+                  "text": "Der Parque Infantil da Azenha ist ein beliebter Treffpunkt für Kinder in Porto zum Toben und Klettern.",
+                  "category": "family",
+                  "coords": [
+                        -8.611432,
+                        41.179621
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Foco",
+                  "text": "Der Parque Infantil do Foco ist eine gepflegte Anlage in Porto, die Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.647728,
+                        41.162411
+                  ]
             }
       ],
       "hu": [
@@ -2622,6 +3630,150 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.604625,
                         41.16738
+                  ]
+            },
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "A Lago da Pasteleira egy kis tó Porto városi területén.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "A Lago Grande egy jelentős vízfelület Porto városi parkjában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "A Charca egy kicsi, természetközeli tavacska Portóban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "A Lago III a tavak egyikének része Porto egyik parkjában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Presa de Contumil",
+                  "text": "A Presa de Contumil egy nyugodt vízfelület Portóban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.578242,
+                        41.169813
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "A Lago II egy tó Portóban, amely festői környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "A Lago I egy tó Portóban, amely nyugodt természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Jumpers",
+                  "text": "A Jumpers egy trambulinpark Portóban, amely aktív beltéri szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -8.646672,
+                        41.176004
+                  ]
+            },
+            {
+                  "name": "5 Estrelas",
+                  "text": "Az 5 Estrelas egy játékterem Portóban, különféle szórakozási lehetőségekkel gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        -8.636447,
+                        41.15932
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Bessa Leite",
+                  "text": "A Parque Infantil Bessa Leite egy szép játszótér Portóban a napi szabadtéri kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.646072,
+                        41.158924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Inatel",
+                  "text": "A Parque Infantil do Inatel biztonságos helyet kínál a gyerekeknek Portóban a játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.658527,
+                        41.167315
+                  ]
+            },
+            {
+                  "name": "Lockers & Games",
+                  "text": "A Lockers & Games egy modern játékterem Portóban, amely különféle játékgépekkel várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -8.617156,
+                        41.150829
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Cervantes",
+                  "text": "A Parque Infantil de Cervantes egy helyi játszótér Portóban, amely ideális kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.614537,
+                        41.157269
+                  ]
+            },
+            {
+                  "name": "Parque infantil do Monte dos Burgos",
+                  "text": "Ez a játszótér a portói Monte dos Burgosnál barátságos környezetet biztosít a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.629998,
+                        41.182397
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Azenha",
+                  "text": "A Parque Infantil da Azenha népszerű találkozóhely a gyerekeknek Portóban a hancúrozáshoz és mászáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.611432,
+                        41.179621
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Foco",
+                  "text": "A Parque Infantil do Foco egy gondozott létesítmény Portóban, amely tágas helyet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.647728,
+                        41.162411
                   ]
             }
       ],
@@ -3039,6 +4191,150 @@ export const poiExtraPortugalCities: POI[] = [
                         -8.604625,
                         41.16738
                   ]
+            },
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Lago da Pasteleira este un lac mic în zona urbană a orașului Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Lago Grande este o zonă cu apă importantă în parcul orașului Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca este un iaz mic și natural în Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Lago III face parte dintr-un sistem de lacuri într-unul din parcurile din Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Presa de Contumil",
+                  "text": "Presa de Contumil este o zonă cu apă liniștită în Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.578242,
+                        41.169813
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Lago II este un lac din Porto ce oferă un mediu pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Lago I este un lac din Porto ce invită la observarea liniștită a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Jumpers",
+                  "text": "Jumpers este un parc de trambuline din Porto ce oferă distracție activă în interior pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.646672,
+                        41.176004
+                  ]
+            },
+            {
+                  "name": "5 Estrelas",
+                  "text": "5 Estrelas este o sală de jocuri din Porto cu diverse opțiuni de divertisment pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        -8.636447,
+                        41.15932
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Bessa Leite",
+                  "text": "Parque Infantil Bessa Leite este un loc de joacă frumos din Porto pentru recreere zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.646072,
+                        41.158924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Inatel",
+                  "text": "Parque Infantil do Inatel oferă copiilor din Porto un spațiu sigur pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -8.658527,
+                        41.167315
+                  ]
+            },
+            {
+                  "name": "Lockers & Games",
+                  "text": "Lockers & Games este o sală de jocuri modernă din Porto ce oferă distracție în familie cu diverse automate.",
+                  "category": "family",
+                  "coords": [
+                        -8.617156,
+                        41.150829
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Cervantes",
+                  "text": "Parque Infantil de Cervantes este un loc de joacă local din Porto, ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -8.614537,
+                        41.157269
+                  ]
+            },
+            {
+                  "name": "Parque infantil do Monte dos Burgos",
+                  "text": "Acest loc de joacă de la Monte dos Burgos din Porto oferă un mediu prietenos pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.629998,
+                        41.182397
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Azenha",
+                  "text": "Parque Infantil da Azenha este un loc de întâlnire popular pentru copiii din Porto pentru zbânțuială și cățărat.",
+                  "category": "family",
+                  "coords": [
+                        -8.611432,
+                        41.179621
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Foco",
+                  "text": "Parque Infantil do Foco este o amenajare îngrijită din Porto ce oferă copiilor mult spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -8.647728,
+                        41.162411
+                  ]
             }
       ],
       "en": [
@@ -3454,6 +4750,150 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.604625,
                         41.16738
+                  ]
+            },
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Lago da Pasteleira is a small lake in the urban area of Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Lago Grande is a prominent water body in Porto's city park.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca is a small, natural pond in Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Lago III is part of the lake landscape in one of Porto's parks.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Presa de Contumil",
+                  "text": "Presa de Contumil is a calm water body in Porto.",
+                  "category": "natural",
+                  "coords": [
+                        -8.578242,
+                        41.169813
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Lago II is a lake in Porto providing a scenic environment for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Lago I is a lake in Porto that invites peaceful nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Jumpers",
+                  "text": "Jumpers is a trampoline park in Porto offering active indoor fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -8.646672,
+                        41.176004
+                  ]
+            },
+            {
+                  "name": "5 Estrelas",
+                  "text": "5 Estrelas is an amusement arcade in Porto with various entertainment options for children and youth.",
+                  "category": "family",
+                  "coords": [
+                        -8.636447,
+                        41.15932
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Bessa Leite",
+                  "text": "Parque Infantil Bessa Leite is a nice playground in Porto for daily outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        -8.646072,
+                        41.158924
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Inatel",
+                  "text": "Parque Infantil do Inatel offers children in Porto a safe space for play and movement.",
+                  "category": "family",
+                  "coords": [
+                        -8.658527,
+                        41.167315
+                  ]
+            },
+            {
+                  "name": "Lockers & Games",
+                  "text": "Lockers & Games is a modern amusement arcade in Porto offering family fun with various gaming machines.",
+                  "category": "family",
+                  "coords": [
+                        -8.617156,
+                        41.150829
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Cervantes",
+                  "text": "Parque Infantil de Cervantes is a local playground in Porto, ideal for families with small children.",
+                  "category": "family",
+                  "coords": [
+                        -8.614537,
+                        41.157269
+                  ]
+            },
+            {
+                  "name": "Parque infantil do Monte dos Burgos",
+                  "text": "This playground at Monte dos Burgos in Porto offers a friendly environment for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -8.629998,
+                        41.182397
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Azenha",
+                  "text": "Parque Infantil da Azenha is a popular meeting spot for children in Porto to romp and climb.",
+                  "category": "family",
+                  "coords": [
+                        -8.611432,
+                        41.179621
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Foco",
+                  "text": "Parque Infantil do Foco is a well-maintained facility in Porto providing plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -8.647728,
+                        41.162411
                   ]
             }
       ]

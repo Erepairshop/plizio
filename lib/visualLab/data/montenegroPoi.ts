@@ -880,6 +880,15 @@ export const montenegroAllPoi: POI[] = [
                         20.16965,
                         42.844851
                   ]
+            },
+            {
+                  "name": "Igralište Voli",
+                  "text": "Ein lokaler Spielplatz in Rozaje, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.157373,
+                        42.836012
+                  ]
             }
       ],
       "hu": [
@@ -926,6 +935,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         20.16965,
                         42.844851
+                  ]
+            },
+            {
+                  "name": "Igralište Voli",
+                  "text": "Helyi játszótér Rozaje városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.157373,
+                        42.836012
                   ]
             }
       ],
@@ -974,6 +992,15 @@ export const montenegroAllPoi: POI[] = [
                         20.16965,
                         42.844851
                   ]
+            },
+            {
+                  "name": "Igralište Voli",
+                  "text": "Un loc de joacă local în Rozaje, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.157373,
+                        42.836012
+                  ]
             }
       ],
       "en": [
@@ -1020,6 +1047,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         20.16965,
                         42.844851
+                  ]
+            },
+            {
+                  "name": "Igralište Voli",
+                  "text": "A local playground in Rozaje, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.157373,
+                        42.836012
                   ]
             }
       ]
@@ -1560,6 +1596,42 @@ export const montenegroAllPoi: POI[] = [
                         19.944151,
                         42.597418
                   ]
+            },
+            {
+                  "name": "Plavsko jezero",
+                  "text": "Der Plavsko jezero in Plav ist ein majestätischer Bergsee, der beeindruckende Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.925265,
+                        42.594834
+                  ]
+            },
+            {
+                  "name": "Malo blato",
+                  "text": "Malo blato in Plav ist ein ruhiger See, der eine unberührte Naturkulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.912934,
+                        42.587454
+                  ]
+            },
+            {
+                  "name": "Hridsko Jezero",
+                  "text": "Der Hridsko Jezero ist ein malerischer See bei Plav. Er ist ein schönes Ziel für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        20.034724,
+                        42.571645
+                  ]
+            },
+            {
+                  "name": "Visitorsko Jezero",
+                  "text": "Der Visitorsko Jezero ist ein natürlicher See in der Region Plav. Er bietet eine friedliche Umgebung, um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        19.879734,
+                        42.625135
+                  ]
             }
       ],
       "hu": [
@@ -1624,6 +1696,42 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         19.944151,
                         42.597418
+                  ]
+            },
+            {
+                  "name": "Plavsko jezero",
+                  "text": "A Plavsko jezero Plav városában egy fenséges hegyi tó, amely lenyűgöző kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        19.925265,
+                        42.594834
+                  ]
+            },
+            {
+                  "name": "Malo blato",
+                  "text": "A Malo blato Plav közelében egy nyugodt tó, amely érintetlen természeti környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.912934,
+                        42.587454
+                  ]
+            },
+            {
+                  "name": "Hridsko Jezero",
+                  "text": "A Plav közelében található Hridsko Jezero egy festői tó. Szép úti cél sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.034724,
+                        42.571645
+                  ]
+            },
+            {
+                  "name": "Visitorsko Jezero",
+                  "text": "A Visitorsko Jezero egy természetes tó Plav környékén. Nyugodt környezetet kínál a táj felfedezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.879734,
+                        42.625135
                   ]
             }
       ],
@@ -1690,6 +1798,42 @@ export const montenegroAllPoi: POI[] = [
                         19.944151,
                         42.597418
                   ]
+            },
+            {
+                  "name": "Plavsko jezero",
+                  "text": "Lacul Plavsko jezero din Plav este un lac montan maiestuos care oferă priveliști impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        19.925265,
+                        42.594834
+                  ]
+            },
+            {
+                  "name": "Malo blato",
+                  "text": "Malo blato din Plav este un lac liniștit care oferă un cadru natural nealterat pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        19.912934,
+                        42.587454
+                  ]
+            },
+            {
+                  "name": "Hridsko Jezero",
+                  "text": "Lacul Hridsko Jezero este situat lângă Plav. Este o destinație frumoasă pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.034724,
+                        42.571645
+                  ]
+            },
+            {
+                  "name": "Visitorsko Jezero",
+                  "text": "Lacul Visitorsko Jezero este situat în zona Plav. Oferă un mediu liniștit pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        19.879734,
+                        42.625135
+                  ]
             }
       ],
       "en": [
@@ -1754,6 +1898,42 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         19.944151,
                         42.597418
+                  ]
+            },
+            {
+                  "name": "Plavsko jezero",
+                  "text": "Plavsko jezero in Plav is a majestic mountain lake offering impressive views.",
+                  "category": "natural",
+                  "coords": [
+                        19.925265,
+                        42.594834
+                  ]
+            },
+            {
+                  "name": "Malo blato",
+                  "text": "Malo blato in Plav is a calm lake providing an untouched natural backdrop for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        19.912934,
+                        42.587454
+                  ]
+            },
+            {
+                  "name": "Hridsko Jezero",
+                  "text": "Hridsko Jezero is a scenic lake near Plav. It is a beautiful destination for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.034724,
+                        42.571645
+                  ]
+            },
+            {
+                  "name": "Visitorsko Jezero",
+                  "text": "Visitorsko Jezero is a natural lake in the Plav area. It offers a peaceful environment for visitors to enjoy the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.879734,
+                        42.625135
                   ]
             }
       ]
@@ -2329,7 +2509,88 @@ export const montenegroAllPoi: POI[] = [
   // ME-007: Žabljak
   // ME-008: Plužine
   {
-    id: "me-008-city",
+    id: "me-008-city", "sights": {
+      "de": [
+            {
+                  "name": "Džudov do",
+                  "text": "Džudov do ist ein See in der Region Pluzine. Er ist ein ruhiger Ort für Naturspaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        18.75466,
+                        43.18225
+                  ]
+            },
+            {
+                  "name": "Piva-See",
+                  "text": "Der Pivsko-See ist ein großer Stausee in Pluzine, der für sein markantes blaues Wasser bekannt ist. Er ist ein beliebter Ort für Bootsfahrten und malerische Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.832913,
+                        43.184477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Džudov do",
+                  "text": "A Pluzine régióban található Džudov do egy tó. Csendes hely a természetjáráshoz és a szép kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.75466,
+                        43.18225
+                  ]
+            },
+            {
+                  "name": "Pivsko jezero",
+                  "text": "A Pluzine-ban található Piva-tó egy nagy víztározó, amely jellegzetes kék vizéről ismert. Népszerű hely hajókirándulásokhoz és festői sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.832913,
+                        43.184477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Džudov do",
+                  "text": "Džudov do este un lac situat în regiunea Pluzine. Este un loc liniștit pentru plimbări în natură și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        18.75466,
+                        43.18225
+                  ]
+            },
+            {
+                  "name": "Pivsko jezero",
+                  "text": "Lacul Piva este un rezervuar mare în Pluzine, cunoscut pentru apa sa albastră. Este un loc popular pentru excursii cu barca și plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        18.832913,
+                        43.184477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Džudov do",
+                  "text": "Džudov do is a lake located in the Pluzine region. It is a quiet spot for nature walks and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        18.75466,
+                        43.18225
+                  ]
+            },
+            {
+                  "name": "Lake Piva",
+                  "text": "Lake Piva is a large reservoir in Pluzine known for its striking blue water. It is a popular spot for boat trips and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.832913,
+                        43.184477
+                  ]
+            }
+      ]
+},
     name: { de: "Plužine", hu: "Plužine", ro: "Plužine", en: "Plužine" },
     type: "city",
     coords: [18.8394, 43.1544],
@@ -2471,6 +2732,15 @@ export const montenegroAllPoi: POI[] = [
                         18.695659,
                         42.487935
                   ]
+            },
+            {
+                  "name": "Izvor Trstenik (water source)",
+                  "text": "Ein ruhiger Wasserort in Perast, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.712151,
+                        42.428838
+                  ]
             }
       ],
       "hu": [
@@ -2481,6 +2751,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.695659,
                         42.487935
+                  ]
+            },
+            {
+                  "name": "Izvor Trstenik (water source)",
+                  "text": "Nyugodt vízparti hely Perast területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.712151,
+                        42.428838
                   ]
             }
       ],
@@ -2493,6 +2772,15 @@ export const montenegroAllPoi: POI[] = [
                         18.695659,
                         42.487935
                   ]
+            },
+            {
+                  "name": "Izvor Trstenik (water source)",
+                  "text": "Un loc liniștit la apă în Perast, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.712151,
+                        42.428838
+                  ]
             }
       ],
       "en": [
@@ -2503,6 +2791,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.695659,
                         42.487935
+                  ]
+            },
+            {
+                  "name": "Izvor Trstenik (water source)",
+                  "text": "A calm water site in Perast, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.712151,
+                        42.428838
                   ]
             }
       ]

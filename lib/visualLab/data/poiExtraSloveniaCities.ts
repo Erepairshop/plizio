@@ -464,6 +464,60 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.525945,
                         46.037431
                   ]
+            },
+            {
+                  "name": "Vodni hram Debeli hrib",
+                  "text": "Vodni hram Debeli hrib ist ein Wasserreservoir oder See in Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.481379,
+                        46.06606
+                  ]
+            },
+            {
+                  "name": "Koseški bajer",
+                  "text": "Koseški bajer ist ein See in Ljubljana, beliebt für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        14.46864,
+                        46.067297
+                  ]
+            },
+            {
+                  "name": "plačljivo igrišče",
+                  "text": "Dies ist ein Spielplatz in Ljubljana, auf dem Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        14.470649,
+                        46.054911
+                  ]
+            },
+            {
+                  "name": "igrišče Žabji skok",
+                  "text": "Playground Frog hop ist ein unterhaltsamer Bereich für Kinder in Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.471228,
+                        46.053665
+                  ]
+            },
+            {
+                  "name": "Začarani gozd",
+                  "text": "Magic forest ist ein Spielplatz in Ljubljana, der Kindern einen fantasievollen Raum bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.472586,
+                        46.054562
+                  ]
+            },
+            {
+                  "name": "Pod skakalnico",
+                  "text": "Pod skakalnico ist ein Spielplatz in Ljubljana, ideal für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        14.488297,
+                        46.066168
+                  ]
             }
       ],
       "hu": [
@@ -924,6 +978,60 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.525945,
                         46.037431
+                  ]
+            },
+            {
+                  "name": "Vodni hram Debeli hrib",
+                  "text": "A Vodni hram Debeli hrib egy víztározó vagy tó Ljubljanában.",
+                  "category": "natural",
+                  "coords": [
+                        14.481379,
+                        46.06606
+                  ]
+            },
+            {
+                  "name": "Koseški bajer",
+                  "text": "A Koseški bajer egy tó Ljubljanában, amely népszerű sétákhoz és természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.46864,
+                        46.067297
+                  ]
+            },
+            {
+                  "name": "plačljivo igrišče",
+                  "text": "Ez egy játszótér Ljubljanában, ahol a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        14.470649,
+                        46.054911
+                  ]
+            },
+            {
+                  "name": "igrišče Žabji skok",
+                  "text": "A Playground Frog hop egy szórakoztató terület gyerekeknek Ljubljanában.",
+                  "category": "family",
+                  "coords": [
+                        14.471228,
+                        46.053665
+                  ]
+            },
+            {
+                  "name": "Začarani gozd",
+                  "text": "A Magic forest egy játszótér Ljubljanában, amely fantáziadús teret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.472586,
+                        46.054562
+                  ]
+            },
+            {
+                  "name": "Pod skakalnico",
+                  "text": "A Pod skakalnico egy játszótér Ljubljana területén, amely ideális családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        14.488297,
+                        46.066168
                   ]
             }
       ],
@@ -1386,6 +1494,60 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.525945,
                         46.037431
                   ]
+            },
+            {
+                  "name": "Vodni hram Debeli hrib",
+                  "text": "Vodni hram Debeli hrib este un rezervor de apă sau lac în Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.481379,
+                        46.06606
+                  ]
+            },
+            {
+                  "name": "Koseški bajer",
+                  "text": "Koseški bajer este un lac din Ljubljana, popular pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.46864,
+                        46.067297
+                  ]
+            },
+            {
+                  "name": "plačljivo igrišče",
+                  "text": "Acesta este un teren de joacă în Ljubljana, unde familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        14.470649,
+                        46.054911
+                  ]
+            },
+            {
+                  "name": "igrišče Žabji skok",
+                  "text": "Playground Frog hop este o zonă distractivă pentru copii în Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.471228,
+                        46.053665
+                  ]
+            },
+            {
+                  "name": "Začarani gozd",
+                  "text": "Magic forest este un teren de joacă în Ljubljana care oferă un spațiu plin de imaginație pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.472586,
+                        46.054562
+                  ]
+            },
+            {
+                  "name": "Pod skakalnico",
+                  "text": "Pod skakalnico este un teren de joacă situat în Ljubljana, ideal pentru activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        14.488297,
+                        46.066168
+                  ]
             }
       ],
       "en": [
@@ -1846,6 +2008,60 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.525945,
                         46.037431
+                  ]
+            },
+            {
+                  "name": "Vodni hram Debeli hrib",
+                  "text": "Vodni hram Debeli hrib is a water reservoir or lake in Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.481379,
+                        46.06606
+                  ]
+            },
+            {
+                  "name": "Koseški bajer",
+                  "text": "Koseški bajer is a lake in Ljubljana, popular for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        14.46864,
+                        46.067297
+                  ]
+            },
+            {
+                  "name": "plačljivo igrišče",
+                  "text": "This is a playground in Ljubljana where families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        14.470649,
+                        46.054911
+                  ]
+            },
+            {
+                  "name": "Playground Frog hop",
+                  "text": "Playground Frog hop is a fun area for children in Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.471228,
+                        46.053665
+                  ]
+            },
+            {
+                  "name": "Magic forest",
+                  "text": "Magic forest is a playground in Ljubljana offering an imaginative space for kids.",
+                  "category": "family",
+                  "coords": [
+                        14.472586,
+                        46.054562
+                  ]
+            },
+            {
+                  "name": "Pod skakalnico",
+                  "text": "Pod skakalnico is a playground located in Ljubljana, ideal for family activities.",
+                  "category": "family",
+                  "coords": [
+                        14.488297,
+                        46.066168
                   ]
             }
       ]
@@ -3395,6 +3611,33 @@ export const poiExtraSloveniaCities: POI[] = [
                         15.268469,
                         46.230215
                   ]
+            },
+            {
+                  "name": "Šmartinsko jezero",
+                  "text": "Šmartinsko jezero ist ein See bei Celje. Er ist ein beliebtes Naherholungsgebiet für Spaziergänge und Aktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.267689,
+                        46.281146
+                  ]
+            },
+            {
+                  "name": "Pump track Celje",
+                  "text": "Pump track Celje ist ein Spielplatz in Celje. Er bietet Kindern und Jugendlichen eine aktive Fläche für Spaß auf Rädern.",
+                  "category": "family",
+                  "coords": [
+                        15.260644,
+                        46.247223
+                  ]
+            },
+            {
+                  "name": "Otroška igrala Flamingo bar",
+                  "text": "Otroška igrala Flamingo bar ist ein Spielplatz in Celje. Ein familienfreundlicher Bereich, in dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        15.248462,
+                        46.233746
+                  ]
             }
       ],
       "hu": [
@@ -3522,6 +3765,33 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         15.268469,
                         46.230215
+                  ]
+            },
+            {
+                  "name": "Šmartinsko jezero",
+                  "text": "A Šmartinsko jezero egy tó Celje mellett. Kedvelt kirándulóhely sétákhoz és vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.267689,
+                        46.281146
+                  ]
+            },
+            {
+                  "name": "Pump track Celje",
+                  "text": "A Pump track Celje egy játszótér Celje városában. Aktív felületet kínál a gyerekeknek és fiataloknak a kerekes szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.260644,
+                        46.247223
+                  ]
+            },
+            {
+                  "name": "Otroška igrala Flamingo bar",
+                  "text": "Az Otroška igrala Flamingo bar egy játszótér Celje városában. Családbarát terület, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        15.248462,
+                        46.233746
                   ]
             }
       ],
@@ -3651,6 +3921,33 @@ export const poiExtraSloveniaCities: POI[] = [
                         15.268469,
                         46.230215
                   ]
+            },
+            {
+                  "name": "Šmartinsko jezero",
+                  "text": "Šmartinsko jezero este un lac lângă Celje. Este o zonă populară de recreere pentru plimbări și activități pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        15.267689,
+                        46.281146
+                  ]
+            },
+            {
+                  "name": "Pump track Celje",
+                  "text": "Pump track Celje este un teren de joacă în Celje. Oferă copiilor și tinerilor o suprafață activă pentru distracție pe roți.",
+                  "category": "family",
+                  "coords": [
+                        15.260644,
+                        46.247223
+                  ]
+            },
+            {
+                  "name": "Otroška igrala Flamingo bar",
+                  "text": "Otroška igrala Flamingo bar este un teren de joacă în Celje. O zonă prietenoasă pentru familii, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        15.248462,
+                        46.233746
+                  ]
             }
       ],
       "en": [
@@ -3778,6 +4075,33 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         15.268469,
                         46.230215
+                  ]
+            },
+            {
+                  "name": "Šmartinsko jezero",
+                  "text": "Šmartinsko jezero is a lake near Celje. It is a popular recreation area for walks and activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.267689,
+                        46.281146
+                  ]
+            },
+            {
+                  "name": "Pump track Celje",
+                  "text": "Pump track Celje is a playground in Celje. It offers children and youth an active surface for fun on wheels.",
+                  "category": "family",
+                  "coords": [
+                        15.260644,
+                        46.247223
+                  ]
+            },
+            {
+                  "name": "Otroška igrala Flamingo bar",
+                  "text": "Otroška igrala Flamingo bar is a playground in Celje. A family-friendly area where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        15.248462,
+                        46.233746
                   ]
             }
       ]
@@ -3938,6 +4262,33 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.340503,
                         46.236161
                   ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "Lake Trboje ist ein See in Kranj, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Stražišče",
+                  "text": "Stražišče ist ein Spielplatz in Kranj für die Nutzung durch Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.346154,
+                        46.234286
+                  ]
+            },
+            {
+                  "name": "Pungert",
+                  "text": "Pungert ist ein Spielplatz in Kranj, der Kindern Raum für Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.356133,
+                        46.236331
+                  ]
             }
       ],
       "hu": [
@@ -4056,6 +4407,33 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.340503,
                         46.236161
+                  ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "A Lake Trboje egy tó Kranj városában, amely nyugodt légkört áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Stražišče",
+                  "text": "A Stražišče egy játszótér Kranj területén, családi használatra.",
+                  "category": "family",
+                  "coords": [
+                        14.346154,
+                        46.234286
+                  ]
+            },
+            {
+                  "name": "Pungert",
+                  "text": "A Pungert egy játszótér Kranj városában, amely teret biztosít a gyerekeknek az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.356133,
+                        46.236331
                   ]
             }
       ],
@@ -4176,6 +4554,33 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.340503,
                         46.236161
                   ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "Lake Trboje este un lac din Kranj, oferind o atmosferă senină.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Stražišče",
+                  "text": "Stražišče este un teren de joacă situat în Kranj pentru uz familial.",
+                  "category": "family",
+                  "coords": [
+                        14.346154,
+                        46.234286
+                  ]
+            },
+            {
+                  "name": "Pungert",
+                  "text": "Pungert este un teren de joacă din Kranj, oferind un spațiu în care copiii pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        14.356133,
+                        46.236331
+                  ]
             }
       ],
       "en": [
@@ -4294,6 +4699,33 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.340503,
                         46.236161
+                  ]
+            },
+            {
+                  "name": "Lake Trboje",
+                  "text": "Lake Trboje is a lake in Kranj, offering a serene atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Stražišče",
+                  "text": "Stražišče is a playground located in Kranj for family use.",
+                  "category": "family",
+                  "coords": [
+                        14.346154,
+                        46.234286
+                  ]
+            },
+            {
+                  "name": "Pungert",
+                  "text": "Pungert is a playground in Kranj, providing a space for kids to be active.",
+                  "category": "family",
+                  "coords": [
+                        14.356133,
+                        46.236331
                   ]
             }
       ]
@@ -4499,6 +4931,24 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.726042,
                         45.546147
                   ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Der Vanganelsko jezero in Koper ist ein schöner Ort für einen gemütlichen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Family Fun",
+                  "text": "Family Fun in Koper ist ein Spielplatz, der Unterhaltung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.726848,
+                        45.545107
+                  ]
             }
       ],
       "hu": [
@@ -4662,6 +5112,24 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.726042,
                         45.546147
+                  ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "A koperi Vanganelsko jezero szép hely egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Family Fun",
+                  "text": "A koperi Family Fun egy játszótér, amely szórakozást nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.726848,
+                        45.545107
                   ]
             }
       ],
@@ -4827,6 +5295,24 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.726042,
                         45.546147
                   ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Vanganelsko jezero din Koper este un loc frumos pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Family Fun",
+                  "text": "Family Fun din Koper este un loc de joacă care oferă divertisment pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.726848,
+                        45.545107
+                  ]
             }
       ],
       "en": [
@@ -4990,6 +5476,24 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.726042,
                         45.546147
+                  ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Vanganelsko jezero in Koper is a nice spot for a leisurely lakeside walk.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Family Fun",
+                  "text": "Family Fun in Koper is a playground area providing entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        13.726848,
+                        45.545107
                   ]
             }
       ]

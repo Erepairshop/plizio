@@ -5919,6 +5919,42 @@ export const polandHistoryV2: POI[] = [
                         19.674886,
                         51.423615
                   ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj ist ein See in Piotrkow Trybunalski Old Town, ideal für eine Pause vom Stadtleben.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "oczy doliny",
+                  "text": "oczy doliny ist ein See in Piotrkow Trybunalski Old Town, der eine ruhige Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.615661,
+                        51.423649
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" ist ein Spielplatz in Piotrkow Trybunalski Old Town, der Kindern Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów ist ein Spielplatz in Piotrkow Trybunalski Old Town, der zu Abenteuern im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
+                  ]
             }
       ],
       "hu": [
@@ -6118,6 +6154,42 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.674886,
                         51.423615
+                  ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "A Zalew Bugaj egy tó Piotrkow Trybunalski Old Town területén, ideális a városi életből való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "oczy doliny",
+                  "text": "Az oczy doliny egy tó Piotrkow Trybunalski Old Town területén, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        19.615661,
+                        51.423649
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "A Smart Club \"gry i zabawy\" egy játszótér Piotrkow Trybunalski Old Town területén, amely örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "A Wioska Wikingów egy játszótér Piotrkow Trybunalski Old Town területén, amely szabadtéri kalandokra hív.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
                   ]
             }
       ],
@@ -6319,6 +6391,42 @@ export const polandHistoryV2: POI[] = [
                         19.674886,
                         51.423615
                   ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj este un lac în Piotrkow Trybunalski Old Town, ideal pentru o pauză de la viața urbană.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "oczy doliny",
+                  "text": "oczy doliny este un lac în Piotrkow Trybunalski Old Town, oferind un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.615661,
+                        51.423649
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" este un loc de joacă în Piotrkow Trybunalski Old Town, oferind bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów este un loc de joacă în Piotrkow Trybunalski Old Town, invitând la aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
+                  ]
             }
       ],
       "en": [
@@ -6518,6 +6626,42 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.674886,
                         51.423615
+                  ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj is a lake in Piotrkow Trybunalski Old Town, ideal for a break from city life.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "oczy doliny",
+                  "text": "oczy doliny is a lake in Piotrkow Trybunalski Old Town, providing a peaceful backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        19.615661,
+                        51.423649
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" is a playground in Piotrkow Trybunalski Old Town, bringing joy to children.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów is a playground in Piotrkow Trybunalski Old Town, inviting outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
                   ]
             }
       ]
@@ -10598,7 +10742,124 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-nysa-old-town-history-v2.webp",
   },
   {
-    id: "poland-legnica-old-town-history-v2",
+    id: "poland-legnica-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Ein lokales Freibad oder See in Legnica, perfekt für sommerliche Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Ein markanter Spielplatz in Legnica, der Kindern vielseitige Klettermöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Ein großzügiger Spielplatz in Legnica, der zum Toben und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Egy helyi strand vagy tó Legnicában, amely tökéletes a nyári kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Egy jellegzetes játszótér Legnicában, amely sokoldalú mászási lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Egy tágas játszótér Legnicában, amely hancúrozásra és felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Un ștrand sau lac local în Legnica, perfect pentru recreere estivală.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Un loc de joacă distinctiv în Legnica care oferă copiilor posibilități variate de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Un loc de joacă generos în Legnica care invită la zburdălnicie și explorare.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "A local swimming area or lake in Legnica, perfect for summer recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "A distinctive playground in Legnica offering children versatile climbing possibilities.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "A spacious playground in Legnica inviting running around and discovery.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Legnica", hu: "Legnica óvárosa", ro: "Centrul vechi din Legnica", en: "Legnica Old Town" },
@@ -11796,6 +12057,78 @@ export const polandHistoryV2: POI[] = [
                         18.91143,
                         50.338539
                   ]
+            },
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Der Staw Pod Topolami ist ein ruhiger See in Bytom Old Town, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Der Staw Smrodlok ist ein See in Bytom Old Town, der einen ruhigen Rückzugsort im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Der Staw Glombik ist ein Gewässer in Bytom Old Town, ideal für einen entspannten Moment in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Pod Kasztanami ist ein malerischer See in Bytom Old Town, der zu einem kurzen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Źródełko ist ein friedlicher See in Bytom Old Town, der eine natürliche Kulisse für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "Der Staw Zapadliskowy ist ein interessanter See in Bytom Old Town, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "Brantka ist ein kleiner See in Bytom Old Town, der eine ruhige Atmosphäre für Besucher ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Getto ist ein Spielplatz in Bytom Old Town, der Kindern einen Ort zum gemeinsamen Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
             }
       ],
       "hu": [
@@ -12193,6 +12526,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.91143,
                         50.338539
+                  ]
+            },
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "A Staw Pod Topolami egy nyugodt tó Bytom óvárosában, gyönyörű természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "A Staw Smrodlok egy tó Bytom óvárosában, amely nyugodt szabadtéri menedéket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "A Staw Glombik egy vízfelület Bytom óvárosában, ideális egy pihentető pillanatra a városban.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "A Pod Kasztanami egy festői tó Bytom óvárosában, amely egy rövid sétára hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "A Źródełko egy békés tó Bytom óvárosában, amely természetes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "A Staw Zapadliskowy egy érdekes tó Bytom óvárosában, a helyi tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "A Brantka egy kis tó Bytom óvárosában, amely nyugodt légkört áraszt a látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "A Getto egy játszótér Bytom óvárosában, amely helyet biztosít a gyerekeknek a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
                   ]
             }
       ],
@@ -12592,6 +12997,78 @@ export const polandHistoryV2: POI[] = [
                         18.91143,
                         50.338539
                   ]
+            },
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Staw Pod Topolami este un lac liniștit în Centrul Vechi din Bytom, înconjurat de o natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Staw Smrodlok este un lac din Centrul Vechi din Bytom, oferind un refugiu liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Staw Glombik este o apă în Centrul Vechi din Bytom, ideală pentru un moment de relaxare în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Pod Kasztanami este un lac pitoresc în Centrul Vechi din Bytom, care invită la o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Źródełko este un lac liniștit în Centrul Vechi din Bytom, oferind un cadru natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "Staw Zapadliskowy este un lac interesant în Centrul Vechi din Bytom, integrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "Brantka este un lac mic în Centrul Vechi din Bytom, care emană o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Getto este un loc de joacă în Centrul Vechi din Bytom, oferind copiilor un spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
             }
       ],
       "en": [
@@ -12989,6 +13466,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.91143,
                         50.338539
+                  ]
+            },
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Staw Pod Topolami is a peaceful lake in Bytom Old Town, surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Staw Smrodlok is a lake in Bytom Old Town, offering a quiet outdoor retreat.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Staw Glombik is a body of water in Bytom Old Town, ideal for a relaxed moment in the city.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Pod Kasztanami is a scenic lake in Bytom Old Town, perfect for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Źródełko is a peaceful lake in Bytom Old Town, providing a natural setting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "Staw Zapadliskowy is an interesting lake in Bytom Old Town, nestled in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "Brantka is a small lake in Bytom Old Town, radiating a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Getto is a playground in Bytom Old Town, providing children with a place for shared play.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
                   ]
             }
       ]
@@ -14712,6 +15261,60 @@ export const polandHistoryV2: POI[] = [
                         18.003644,
                         53.126257
                   ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Ein Rückhaltebecken in Bydgoszcz, das eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Ein charmanter Spielplatz in Bydgoszcz, der Kindern eine bunte Welt zum Spielen eröffnet.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Ein musikalischer Spielplatz in Bydgoszcz, der Kinder zum kreativen Experimentieren anregt.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Ein lokaler Spielplatz in Bydgoszcz, ideal für eine aktive Pause im Wohnviertel.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Ein Stadtteilspielplatz in Bydgoszcz, der ein beliebter Treffpunkt für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Ein schuleigener Spielplatz in Bydgoszcz mit verschiedenen Bewegungsmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
+                  ]
             }
       ],
       "hu": [
@@ -15100,6 +15703,60 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.003644,
                         53.126257
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Egy víztározó Bydgoszczban, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Egy bájos játszótér Bydgoszczban, amely színes világot nyit meg a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Egy zenei játszótér Bydgoszczban, amely kreatív kísérletezésre ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Egy helyi játszótér Bydgoszczban, amely ideális egy aktív szünetre a lakónegyedben.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Egy környékbeli játszótér Bydgoszczban, amely népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Egy iskolai játszótér Bydgoszczban, különféle mozgási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
                   ]
             }
       ],
@@ -15490,6 +16147,60 @@ export const polandHistoryV2: POI[] = [
                         18.003644,
                         53.126257
                   ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Un bazin de retenție în Bydgoszcz care oferă un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Un loc de joacă fermecător în Bydgoszcz care deschide o lume colorată pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Un loc de joacă muzical în Bydgoszcz care încurajează copiii la experimente creative.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Un loc de joacă local în Bydgoszcz, ideal pentru o pauză activă în cartier.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Un loc de joacă de cartier în Bydgoszcz, care este un punct de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Un loc de joacă școlar în Bydgoszcz, cu diverse posibilități de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
+                  ]
             }
       ],
       "en": [
@@ -15878,6 +16589,60 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.003644,
                         53.126257
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "A retention reservoir in Bydgoszcz offering a quiet environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "A charming playground in Bydgoszcz opening a colorful world for children's play.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "A musical playground in Bydgoszcz encouraging children to experiment creatively.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "A local playground in Bydgoszcz, ideal for an active break in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "A neighborhood playground in Bydgoszcz that is a popular meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "A school playground in Bydgoszcz with various movement possibilities.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
                   ]
             }
       ]

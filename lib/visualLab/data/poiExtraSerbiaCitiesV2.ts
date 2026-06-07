@@ -246,7 +246,52 @@ export const serbiaCitiesV2: POI[] = [
     image: "/poi-images/serbia-loznica-cities-v2.webp",
   },
   {
-    id: "serbia-vladicin-han-cities-v2",
+    id: "serbia-vladicin-han-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Игралиште основне школе „Бранко Радичевић”",
+                  "text": "Der Spielplatz der Grundschule „Branko Radičević“ in Vladicin Han bietet Kindern einen sicheren Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Игралиште основне школе „Бранко Радичевић”",
+                  "text": "A Vladičin Han-i „Branko Radičević” általános iskola játszótere biztonságos helyet nyújt a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Игралиште основне школе „Бранко Радичевић”",
+                  "text": "Locul de joacă al școlii primare „Branko Radičević” din Vladicin Han oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Игралиште основне школе „Бранко Радичевић”",
+                  "text": "The playground of the \"Branko Radičević\" primary school in Vladicin Han provides a safe place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Vladičin Han", hu: "Vladičin Han", ro: "Vladičin Han", en: "Vladičin Han" },

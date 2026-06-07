@@ -481,6 +481,213 @@ export const luxembourgExtraCities: POI[] = [
                         6.138071,
                         49.613388
                   ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Ein malerischer See in Luxemburg, ideal für einen ruhigen Spaziergang in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Ein ruhiger See in Luxemburg, der eine grüne Oase für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Ein schöner kleiner See in Luxemburg, perfekt für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Ein interessanter See in Luxemburg, der sich gut für eine kurze Pause im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Ein lokaler See in Luxemburg, ideal für Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "Ein beliebter Spielplatz in Luxemburg mit modernen Geräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Scheiwisschen",
+                  "text": "Ein schöner Spielplatz in Luxemburg, der Familien einen sicheren Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.101446,
+                        49.607769
+                  ]
+            },
+            {
+                  "name": "Parc Tony Neuman",
+                  "text": "Ein gepflegter Spielplatz im Parc Tony Neuman, ideal für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.112269,
+                        49.621236
+                  ]
+            },
+            {
+                  "name": "Antoine Jans",
+                  "text": "Ein freundlicher Spielplatz in Luxemburg, perfekt für einen Nachmittag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.113612,
+                        49.619906
+                  ]
+            },
+            {
+                  "name": "Carlitos Comedy Club",
+                  "text": "Ein Unterhaltungszentrum in Luxemburg, das Spaß und Aktivitäten für Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.134382,
+                        49.601477
+                  ]
+            },
+            {
+                  "name": "Spillplaz Bambësch",
+                  "text": "Ein großer Waldspielplatz in Luxemburg, ideal für Abenteuer in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        6.11426,
+                        49.6325
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "Ein kleiner, charmanter Spielplatz in Luxemburg für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Place Nicolas Philippe",
+                  "text": "Ein zentraler Spielplatz in Luxemburg, der ein schöner Treffpunkt für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        6.112288,
+                        49.609279
+                  ]
+            },
+            {
+                  "name": "Artisans",
+                  "text": "Ein gut ausgestatteter Spielplatz in Luxemburg, ideal für aktives Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.109609,
+                        49.595149
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "Ein kleiner Spielplatz in Luxemburg, der für Kinder in der Nähe leicht zugänglich ist.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Place du Centaure",
+                  "text": "Ein öffentlicher Spielbereich in Luxemburg, ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.129788,
+                        49.612612
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "Ein lokaler Spielplatz in Luxemburg, der zu Spiel und Spaß im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Barrière Nord",
+                  "text": "Ein Spielplatz in Luxemburg, der eine gute Auswahl an Spielgeräten bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.097571,
+                        49.603068
+                  ]
+            },
+            {
+                  "name": "Anvers",
+                  "text": "Ein freundlicher Stadtspielplatz in Luxemburg für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.12383,
+                        49.603109
+                  ]
+            },
+            {
+                  "name": "Rue Chevalier",
+                  "text": "Ein kleinerer Spielplatz in Luxemburg, ideal für Kinder zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        6.120928,
+                        49.591529
+                  ]
+            },
+            {
+                  "name": "Tony Neuman",
+                  "text": "Ein schöner Spielplatz in Luxemburg, der Kindern eine angenehme Spielumgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.107812,
+                        49.620893
+                  ]
+            },
+            {
+                  "name": "Saint-Willibrord",
+                  "text": "Ein gut besuchter Spielplatz in Luxemburg, ideal für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        6.140201,
+                        49.593686
+                  ]
+            },
+            {
+                  "name": "Jardin anglais",
+                  "text": "Ein Spielplatz im Jardin Anglais, der eine ruhige und sichere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.12072,
+                        49.594714
+                  ]
             }
       ],
       "hu": [
@@ -959,6 +1166,213 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.138071,
                         49.613388
+                  ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Festői tó Luxembourg városában, amely ideális egy nyugodt városi sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Csendes tó Luxembourg városában, amely zöld oázist nyújt a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Szép kis tó Luxembourg városában, amely tökéletes természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Érdekes tó Luxembourg városában, amely alkalmas egy rövid szabadtéri pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Helyi tó Luxembourg városában, amely ideális a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "Népszerű játszótér Luxembourg városában, modern játékokkal a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Scheiwisschen",
+                  "text": "Szép játszótér Luxembourg városában, amely biztonságos helyet nyújt a családoknak a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.101446,
+                        49.607769
+                  ]
+            },
+            {
+                  "name": "Parc Tony Neuman",
+                  "text": "Gondozott játszótér a Parc Tony Neuman területén, amely ideális gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.112269,
+                        49.621236
+                  ]
+            },
+            {
+                  "name": "Antoine Jans",
+                  "text": "Barátságos játszótér Luxembourg városában, amely tökéletes egy szabadtéri délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.113612,
+                        49.619906
+                  ]
+            },
+            {
+                  "name": "Carlitos Comedy Club",
+                  "text": "Szórakoztató központ Luxembourg városában, amely vidám tevékenységeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        6.134382,
+                        49.601477
+                  ]
+            },
+            {
+                  "name": "Spillplaz Bambësch",
+                  "text": "Nagy erdei játszótér Luxembourg városában, amely ideális erdei kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.11426,
+                        49.6325
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "Kicsi, bájos játszótér Luxembourg városában a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Place Nicolas Philippe",
+                  "text": "Központi játszótér Luxembourg városában, amely szép találkozóhely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.112288,
+                        49.609279
+                  ]
+            },
+            {
+                  "name": "Artisans",
+                  "text": "Jól felszerelt játszótér Luxembourg városában, amely ideális az aktív szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.109609,
+                        49.595149
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "Kisebb játszótér Luxembourg városában, amely könnyen elérhető a közelben lakó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Place du Centaure",
+                  "text": "Nyilvános játszóhely Luxembourg városában, amely ideális egy pihenőre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        6.129788,
+                        49.612612
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "Helyi játszótér Luxembourg városában, amely szabadtéri játékra és szórakozásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Barrière Nord",
+                  "text": "Játszótér Luxembourg városában, amely jó választékot kínál játékokból.",
+                  "category": "family",
+                  "coords": [
+                        6.097571,
+                        49.603068
+                  ]
+            },
+            {
+                  "name": "Anvers",
+                  "text": "Barátságos városi játszótér Luxembourg városában családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.12383,
+                        49.603109
+                  ]
+            },
+            {
+                  "name": "Rue Chevalier",
+                  "text": "Kisebb játszótér Luxembourg városában, amely ideális a gyerekeknek mászásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        6.120928,
+                        49.591529
+                  ]
+            },
+            {
+                  "name": "Tony Neuman",
+                  "text": "Szép játszótér Luxembourg városában, amely kellemes környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.107812,
+                        49.620893
+                  ]
+            },
+            {
+                  "name": "Saint-Willibrord",
+                  "text": "Kedvelt játszótér Luxembourg városában, amely ideális minden korosztályú gyermeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.140201,
+                        49.593686
+                  ]
+            },
+            {
+                  "name": "Jardin anglais",
+                  "text": "Játszótér a Jardin Anglais területén, amely nyugodt és biztonságos környezetet nyújt a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.12072,
+                        49.594714
                   ]
             }
       ],
@@ -1439,6 +1853,213 @@ export const luxembourgExtraCities: POI[] = [
                         6.138071,
                         49.613388
                   ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Un lac pitoresc în Luxemburg, ideal pentru o plimbare liniștită în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Un lac liniștit în Luxemburg, oferind o oază verde pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Un lac mic și frumos în Luxemburg, perfect pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Un lac interesant în Luxemburg, potrivit pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Un lac local în Luxemburg, ideal pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "Un loc de joacă popular în Luxemburg, cu echipamente moderne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Scheiwisschen",
+                  "text": "Un loc de joacă frumos în Luxemburg, oferind familiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.101446,
+                        49.607769
+                  ]
+            },
+            {
+                  "name": "Parc Tony Neuman",
+                  "text": "Un loc de joacă bine întreținut în Parcul Tony Neuman, ideal pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        6.112269,
+                        49.621236
+                  ]
+            },
+            {
+                  "name": "Antoine Jans",
+                  "text": "Un loc de joacă primitor în Luxemburg, perfect pentru o după-amiază în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.113612,
+                        49.619906
+                  ]
+            },
+            {
+                  "name": "Carlitos Comedy Club",
+                  "text": "Un centru de divertisment în Luxemburg, oferind activități distractive pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        6.134382,
+                        49.601477
+                  ]
+            },
+            {
+                  "name": "Spillplaz Bambësch",
+                  "text": "Un loc de joacă mare în pădure în Luxemburg, ideal pentru aventuri în natură.",
+                  "category": "family",
+                  "coords": [
+                        6.11426,
+                        49.6325
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "Un loc de joacă mic și fermecător în Luxemburg pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Place Nicolas Philippe",
+                  "text": "Un loc de joacă central în Luxemburg, fiind un loc de întâlnire frumos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.112288,
+                        49.609279
+                  ]
+            },
+            {
+                  "name": "Artisans",
+                  "text": "Un loc de joacă bine echipat în Luxemburg, ideal pentru joacă activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.109609,
+                        49.595149
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "Un mic loc de joacă în Luxemburg, ușor accesibil pentru copiii din apropiere.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Place du Centaure",
+                  "text": "O zonă de joacă publică în Luxemburg, ideală pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        6.129788,
+                        49.612612
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "Un loc de joacă local în Luxemburg, care invită la joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Barrière Nord",
+                  "text": "Un loc de joacă în Luxemburg, oferind o selecție bună de echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.097571,
+                        49.603068
+                  ]
+            },
+            {
+                  "name": "Anvers",
+                  "text": "Un loc de joacă urban prietenos în Luxemburg pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        6.12383,
+                        49.603109
+                  ]
+            },
+            {
+                  "name": "Rue Chevalier",
+                  "text": "Un loc de joacă mai mic în Luxemburg, ideal pentru copii pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.120928,
+                        49.591529
+                  ]
+            },
+            {
+                  "name": "Tony Neuman",
+                  "text": "Un loc de joacă frumos în Luxemburg, oferind copiilor un mediu de joacă plăcut.",
+                  "category": "family",
+                  "coords": [
+                        6.107812,
+                        49.620893
+                  ]
+            },
+            {
+                  "name": "Saint-Willibrord",
+                  "text": "Un loc de joacă bine vizitat în Luxemburg, ideal pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.140201,
+                        49.593686
+                  ]
+            },
+            {
+                  "name": "Jardin anglais",
+                  "text": "Un loc de joacă în Jardin Anglais, oferind un mediu liniștit și sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.12072,
+                        49.594714
+                  ]
             }
       ],
       "en": [
@@ -1917,6 +2538,213 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.138071,
                         49.613388
+                  ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "A scenic lake in Luxembourg City, ideal for a quiet walk in the city.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "A quiet lake in Luxembourg City, offering a green oasis for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "A beautiful small lake in Luxembourg City, perfect for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "An interesting lake in Luxembourg City, suitable for a short outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "A local lake in Luxembourg City, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "A popular playground in Luxembourg City with modern equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Scheiwisschen",
+                  "text": "A lovely playground in Luxembourg City, offering families a safe space for play.",
+                  "category": "family",
+                  "coords": [
+                        6.101446,
+                        49.607769
+                  ]
+            },
+            {
+                  "name": "Parc Tony Neuman",
+                  "text": "A well-maintained playground in Parc Tony Neuman, ideal for children and families.",
+                  "category": "family",
+                  "coords": [
+                        6.112269,
+                        49.621236
+                  ]
+            },
+            {
+                  "name": "Antoine Jans",
+                  "text": "A friendly playground in Luxembourg City, perfect for an afternoon outdoors.",
+                  "category": "family",
+                  "coords": [
+                        6.113612,
+                        49.619906
+                  ]
+            },
+            {
+                  "name": "Carlitos Comedy Club",
+                  "text": "An entertainment venue in Luxembourg City, providing fun activities for visitors.",
+                  "category": "family",
+                  "coords": [
+                        6.134382,
+                        49.601477
+                  ]
+            },
+            {
+                  "name": "Spillplaz Bambësch",
+                  "text": "A large forest playground in Luxembourg City, ideal for adventures in nature.",
+                  "category": "family",
+                  "coords": [
+                        6.11426,
+                        49.6325
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "A small, charming playground in Luxembourg City for local children.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Place Nicolas Philippe",
+                  "text": "A central playground in Luxembourg City, serving as a nice meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        6.112288,
+                        49.609279
+                  ]
+            },
+            {
+                  "name": "Artisans",
+                  "text": "A well-equipped playground in Luxembourg City, ideal for active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        6.109609,
+                        49.595149
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "A small playground in Luxembourg City, easily accessible for children nearby.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Place du Centaure",
+                  "text": "A public play area in Luxembourg City, ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        6.129788,
+                        49.612612
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "A local playground in Luxembourg City, inviting outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Barrière Nord",
+                  "text": "A playground in Luxembourg City, offering a good selection of play equipment.",
+                  "category": "family",
+                  "coords": [
+                        6.097571,
+                        49.603068
+                  ]
+            },
+            {
+                  "name": "Anvers",
+                  "text": "A friendly urban playground in Luxembourg City for families and children.",
+                  "category": "family",
+                  "coords": [
+                        6.12383,
+                        49.603109
+                  ]
+            },
+            {
+                  "name": "Rue Chevalier",
+                  "text": "A smaller playground in Luxembourg City, ideal for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        6.120928,
+                        49.591529
+                  ]
+            },
+            {
+                  "name": "Tony Neuman",
+                  "text": "A lovely playground in Luxembourg City, offering children a pleasant play environment.",
+                  "category": "family",
+                  "coords": [
+                        6.107812,
+                        49.620893
+                  ]
+            },
+            {
+                  "name": "Saint-Willibrord",
+                  "text": "A popular playground in Luxembourg City, ideal for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.140201,
+                        49.593686
+                  ]
+            },
+            {
+                  "name": "Jardin anglais",
+                  "text": "A playground in Jardin Anglais, providing a quiet and safe environment for play.",
+                  "category": "family",
+                  "coords": [
+                        6.12072,
+                        49.594714
                   ]
             }
       ]

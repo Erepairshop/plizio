@@ -211,6 +211,132 @@ export const netherlandsCitiesV2: POI[] = [
                         5.231785,
                         52.361092
                   ]
+            },
+            {
+                  "name": "Bospoel",
+                  "text": "Bospoel in Almere ist ein See in ruhiger Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        5.210025,
+                        52.349755
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Markermeer in Almere ist ein großer See mit weiter Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Weerwater",
+                  "text": "Weerwater in Almere ist ein See, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.227426,
+                        52.361169
+                  ]
+            },
+            {
+                  "name": "Gooimeer",
+                  "text": "Gooimeer in Almere ist ein See mit Möglichkeiten zur Freizeitgestaltung.",
+                  "category": "natural",
+                  "coords": [
+                        5.226447,
+                        52.316508
+                  ]
+            },
+            {
+                  "name": "IJmeer",
+                  "text": "IJmeer in Almere ist ein See mit einer natürlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.05984,
+                        52.379786
+                  ]
+            },
+            {
+                  "name": "Noorderplassen",
+                  "text": "Noorderplassen in Almere ist ein Seegebiet für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        5.197204,
+                        52.39483
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "The Game Box in Almere bietet Spiele für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.21868,
+                        52.368496
+                  ]
+            },
+            {
+                  "name": "Glijbaan",
+                  "text": "Glijbaan in Almere ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.253921,
+                        52.374188
+                  ]
+            },
+            {
+                  "name": "Beatrixpark",
+                  "text": "Beatrixpark in Almere verfügt über einen Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.200359,
+                        52.376982
+                  ]
+            },
+            {
+                  "name": "De Wiebelbrug",
+                  "text": "De Wiebelbrug in Almere ist ein Spielplatz für aktiven Spaß.",
+                  "category": "family",
+                  "coords": [
+                        5.197684,
+                        52.385047
+                  ]
+            },
+            {
+                  "name": "'De Spin'",
+                  "text": "'De Spin' in Almere ist ein Spielplatz mit Outdoor-Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.198617,
+                        52.381563
+                  ]
+            },
+            {
+                  "name": "Klimrek",
+                  "text": "Klimrek in Almere ist ein Spielplatz zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.246087,
+                        52.376225
+                  ]
+            },
+            {
+                  "name": "Tafeltennis",
+                  "text": "Tafeltennis in Almere bietet Freizeitspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.230189,
+                        52.347744
+                  ]
+            },
+            {
+                  "name": "Natuurlijke speeltuin",
+                  "text": "Natuurlijke speeltuin in Almere ist ein Spielplatz in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        5.212967,
+                        52.350456
+                  ]
             }
       ],
       "hu": [
@@ -419,6 +545,132 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.231785,
                         52.361092
+                  ]
+            },
+            {
+                  "name": "Bospoel",
+                  "text": "Az almerei Bospoel egy tó nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        5.210025,
+                        52.349755
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Az almerei Markermeer egy nagy tó, tágas kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Weerwater",
+                  "text": "Az almerei Weerwater egy tó, amely alkalmas a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        5.227426,
+                        52.361169
+                  ]
+            },
+            {
+                  "name": "Gooimeer",
+                  "text": "Az almerei Gooimeer egy tó szabadidős lehetőségekkel.",
+                  "category": "natural",
+                  "coords": [
+                        5.226447,
+                        52.316508
+                  ]
+            },
+            {
+                  "name": "IJmeer",
+                  "text": "Az almerei IJmeer egy természetes tájjal rendelkező tó.",
+                  "category": "natural",
+                  "coords": [
+                        5.05984,
+                        52.379786
+                  ]
+            },
+            {
+                  "name": "Noorderplassen",
+                  "text": "Az almerei Noorderplassen egy tóvidék természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.197204,
+                        52.39483
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "Az almerei The Game Box játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        5.21868,
+                        52.368496
+                  ]
+            },
+            {
+                  "name": "Glijbaan",
+                  "text": "Az almerei Glijbaan egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.253921,
+                        52.374188
+                  ]
+            },
+            {
+                  "name": "Beatrixpark",
+                  "text": "Az almerei Beatrixpark egy játszótérrel rendelkezik családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.200359,
+                        52.376982
+                  ]
+            },
+            {
+                  "name": "De Wiebelbrug",
+                  "text": "Az almerei De Wiebelbrug egy játszótér az aktív szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.197684,
+                        52.385047
+                  ]
+            },
+            {
+                  "name": "'De Spin'",
+                  "text": "Az almerei 'De Spin' egy játszótér szabadtéri tevékenységekkel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.198617,
+                        52.381563
+                  ]
+            },
+            {
+                  "name": "Klimrek",
+                  "text": "Az almerei Klimrek egy játszótér a mászáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.246087,
+                        52.376225
+                  ]
+            },
+            {
+                  "name": "Tafeltennis",
+                  "text": "Az almerei Tafeltennis szabadidős szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.230189,
+                        52.347744
+                  ]
+            },
+            {
+                  "name": "Natuurlijke speeltuin",
+                  "text": "Az almerei Natuurlijke speeltuin egy játszótér a természetben.",
+                  "category": "family",
+                  "coords": [
+                        5.212967,
+                        52.350456
                   ]
             }
       ],
@@ -629,6 +881,132 @@ export const netherlandsCitiesV2: POI[] = [
                         5.231785,
                         52.361092
                   ]
+            },
+            {
+                  "name": "Bospoel",
+                  "text": "Bospoel din Almere este un lac într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        5.210025,
+                        52.349755
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Markermeer din Almere este un lac mare cu o priveliște largă.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Weerwater",
+                  "text": "Weerwater din Almere este un lac potrivit pentru recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.227426,
+                        52.361169
+                  ]
+            },
+            {
+                  "name": "Gooimeer",
+                  "text": "Gooimeer din Almere este un lac cu posibilități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        5.226447,
+                        52.316508
+                  ]
+            },
+            {
+                  "name": "IJmeer",
+                  "text": "IJmeer din Almere este un lac cu un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        5.05984,
+                        52.379786
+                  ]
+            },
+            {
+                  "name": "Noorderplassen",
+                  "text": "Noorderplassen din Almere este o zonă de lacuri pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.197204,
+                        52.39483
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "The Game Box din Almere oferă jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.21868,
+                        52.368496
+                  ]
+            },
+            {
+                  "name": "Glijbaan",
+                  "text": "Glijbaan din Almere este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.253921,
+                        52.374188
+                  ]
+            },
+            {
+                  "name": "Beatrixpark",
+                  "text": "Beatrixpark din Almere dispune de un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.200359,
+                        52.376982
+                  ]
+            },
+            {
+                  "name": "De Wiebelbrug",
+                  "text": "De Wiebelbrug din Almere este un loc de joacă pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        5.197684,
+                        52.385047
+                  ]
+            },
+            {
+                  "name": "'De Spin'",
+                  "text": "„De Spin” din Almere este un loc de joacă cu activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.198617,
+                        52.381563
+                  ]
+            },
+            {
+                  "name": "Klimrek",
+                  "text": "Klimrek din Almere este un loc de joacă pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.246087,
+                        52.376225
+                  ]
+            },
+            {
+                  "name": "Tafeltennis",
+                  "text": "Tafeltennis din Almere oferă distracție recreativă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.230189,
+                        52.347744
+                  ]
+            },
+            {
+                  "name": "Natuurlijke speeltuin",
+                  "text": "Natuurlijke speeltuin din Almere este un loc de joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        5.212967,
+                        52.350456
+                  ]
             }
       ],
       "en": [
@@ -837,6 +1215,132 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.231785,
                         52.361092
+                  ]
+            },
+            {
+                  "name": "Bospoel",
+                  "text": "Bospoel in Almere is a lake in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        5.210025,
+                        52.349755
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Markermeer in Almere is a large lake with a wide view.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Weerwater",
+                  "text": "Weerwater in Almere is a lake suitable for waterside recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.227426,
+                        52.361169
+                  ]
+            },
+            {
+                  "name": "Gooimeer",
+                  "text": "Gooimeer in Almere is a lake with recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        5.226447,
+                        52.316508
+                  ]
+            },
+            {
+                  "name": "IJmeer",
+                  "text": "IJmeer in Almere is a lake with a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.05984,
+                        52.379786
+                  ]
+            },
+            {
+                  "name": "Noorderplassen",
+                  "text": "Noorderplassen in Almere is a lake area for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.197204,
+                        52.39483
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "The Game Box in Almere offers games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.21868,
+                        52.368496
+                  ]
+            },
+            {
+                  "name": "Glijbaan",
+                  "text": "Glijbaan in Almere is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.253921,
+                        52.374188
+                  ]
+            },
+            {
+                  "name": "Beatrixpark",
+                  "text": "Beatrixpark in Almere features a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        5.200359,
+                        52.376982
+                  ]
+            },
+            {
+                  "name": "De Wiebelbrug",
+                  "text": "De Wiebelbrug in Almere is a playground for active fun.",
+                  "category": "family",
+                  "coords": [
+                        5.197684,
+                        52.385047
+                  ]
+            },
+            {
+                  "name": "'De Spin'",
+                  "text": "'De Spin' in Almere is a playground with outdoor activities for kids.",
+                  "category": "family",
+                  "coords": [
+                        5.198617,
+                        52.381563
+                  ]
+            },
+            {
+                  "name": "Klimrek",
+                  "text": "Klimrek in Almere is a playground for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        5.246087,
+                        52.376225
+                  ]
+            },
+            {
+                  "name": "Tafeltennis",
+                  "text": "Tafeltennis in Almere offers recreational fun for families.",
+                  "category": "family",
+                  "coords": [
+                        5.230189,
+                        52.347744
+                  ]
+            },
+            {
+                  "name": "Natuurlijke speeltuin",
+                  "text": "Natuurlijke speeltuin in Almere is a playground in nature.",
+                  "category": "family",
+                  "coords": [
+                        5.212967,
+                        52.350456
                   ]
             }
       ]
@@ -1111,6 +1615,132 @@ export const netherlandsCitiesV2: POI[] = [
                         5.967283,
                         52.211051
                   ]
+            },
+            {
+                  "name": "FunZone Apeldoorn",
+                  "text": "Dieser Trampolinpark in Apeldoorn bietet lustige Aktivitäten und aktives Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.983617,
+                        52.236129
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "Diese Spielhalle in Apeldoorn bietet eine Vielzahl von Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        5.959247,
+                        52.216072
+                  ]
+            },
+            {
+                  "name": "Street Jump Apeldoorn",
+                  "text": "Dieser Trampolinpark in Apeldoorn bietet lustige Aktivitäten und aktives Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.953944,
+                        52.204446
+                  ]
+            },
+            {
+                  "name": "De Voetbalfabriek",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.980969,
+                        52.213701
+                  ]
+            },
+            {
+                  "name": "De Buitenhorst",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.993401,
+                        52.205078
+                  ]
+            },
+            {
+                  "name": "De Zoemer",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.96854,
+                        52.199548
+                  ]
+            },
+            {
+                  "name": "Waterspeelplaats Orderbeek",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.942102,
+                        52.203006
+                  ]
+            },
+            {
+                  "name": "De hooimijt",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.976146,
+                        52.214216
+                  ]
+            },
+            {
+                  "name": "Matenschans",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.999727,
+                        52.19495
+                  ]
+            },
+            {
+                  "name": "Speeltuin Componistenkwartier",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.968414,
+                        52.192061
+                  ]
+            },
+            {
+                  "name": "'t Speelhofje",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.969284,
+                        52.189932
+                  ]
+            },
+            {
+                  "name": "De Speeldoos",
+                  "text": "Dieser Spielplatz in Apeldoorn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.964271,
+                        52.189405
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Ein schöner Spielplatz in Apeldoorn für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        5.937199,
+                        52.198546
+                  ]
+            },
+            {
+                  "name": "Vlindertuin",
+                  "text": "Dieser Spielplatz in Apeldoorn bietet Kindern viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        6.003073,
+                        52.214295
+                  ]
             }
       ],
       "hu": [
@@ -1337,6 +1967,132 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.967283,
                         52.211051
+                  ]
+            },
+            {
+                  "name": "FunZone Apeldoorn",
+                  "text": "Ez a Apeldoorn városában található trambulinpark szórakoztató tevékenységeket és aktív játékot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        5.983617,
+                        52.236129
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "Ez a Apeldoorn városában található játékterem különféle játékokat kínál a család szórakoztatására.",
+                  "category": "family",
+                  "coords": [
+                        5.959247,
+                        52.216072
+                  ]
+            },
+            {
+                  "name": "Street Jump Apeldoorn",
+                  "text": "Ez a Apeldoorn városában található trambulinpark szórakoztató tevékenységeket és aktív játékot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        5.953944,
+                        52.204446
+                  ]
+            },
+            {
+                  "name": "De Voetbalfabriek",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.980969,
+                        52.213701
+                  ]
+            },
+            {
+                  "name": "De Buitenhorst",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.993401,
+                        52.205078
+                  ]
+            },
+            {
+                  "name": "De Zoemer",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.96854,
+                        52.199548
+                  ]
+            },
+            {
+                  "name": "Waterspeelplaats Orderbeek",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.942102,
+                        52.203006
+                  ]
+            },
+            {
+                  "name": "De hooimijt",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.976146,
+                        52.214216
+                  ]
+            },
+            {
+                  "name": "Matenschans",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.999727,
+                        52.19495
+                  ]
+            },
+            {
+                  "name": "Speeltuin Componistenkwartier",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.968414,
+                        52.192061
+                  ]
+            },
+            {
+                  "name": "'t Speelhofje",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.969284,
+                        52.189932
+                  ]
+            },
+            {
+                  "name": "De Speeldoos",
+                  "text": "Ez a Apeldoorn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.964271,
+                        52.189405
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Egy szép játszótér Apeldoornban, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        5.937199,
+                        52.198546
+                  ]
+            },
+            {
+                  "name": "Vlindertuin",
+                  "text": "Ez az apeldooroni játszótér bőséges helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.003073,
+                        52.214295
                   ]
             }
       ],
@@ -1565,6 +2321,132 @@ export const netherlandsCitiesV2: POI[] = [
                         5.967283,
                         52.211051
                   ]
+            },
+            {
+                  "name": "FunZone Apeldoorn",
+                  "text": "Acest parc de trambuline din Apeldoorn oferă activități distractive și joacă activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.983617,
+                        52.236129
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "Această sală de jocuri din Apeldoorn oferă o varietate de jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        5.959247,
+                        52.216072
+                  ]
+            },
+            {
+                  "name": "Street Jump Apeldoorn",
+                  "text": "Acest parc de trambuline din Apeldoorn oferă activități distractive și joacă activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.953944,
+                        52.204446
+                  ]
+            },
+            {
+                  "name": "De Voetbalfabriek",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.980969,
+                        52.213701
+                  ]
+            },
+            {
+                  "name": "De Buitenhorst",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.993401,
+                        52.205078
+                  ]
+            },
+            {
+                  "name": "De Zoemer",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.96854,
+                        52.199548
+                  ]
+            },
+            {
+                  "name": "Waterspeelplaats Orderbeek",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.942102,
+                        52.203006
+                  ]
+            },
+            {
+                  "name": "De hooimijt",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.976146,
+                        52.214216
+                  ]
+            },
+            {
+                  "name": "Matenschans",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.999727,
+                        52.19495
+                  ]
+            },
+            {
+                  "name": "Speeltuin Componistenkwartier",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.968414,
+                        52.192061
+                  ]
+            },
+            {
+                  "name": "'t Speelhofje",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.969284,
+                        52.189932
+                  ]
+            },
+            {
+                  "name": "De Speeldoos",
+                  "text": "Acest loc de joacă din Apeldoorn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.964271,
+                        52.189405
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Un loc de joacă frumos în Apeldoorn, unde copiii se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        5.937199,
+                        52.198546
+                  ]
+            },
+            {
+                  "name": "Vlindertuin",
+                  "text": "Acest loc de joacă din Apeldoorn oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.003073,
+                        52.214295
+                  ]
             }
       ],
       "en": [
@@ -1791,6 +2673,132 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.967283,
                         52.211051
+                  ]
+            },
+            {
+                  "name": "FunZone Apeldoorn",
+                  "text": "This trampoline park in Apeldoorn offers fun activities and active play for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.983617,
+                        52.236129
+                  ]
+            },
+            {
+                  "name": "The Game Box",
+                  "text": "This amusement arcade in Apeldoorn provides a variety of games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        5.959247,
+                        52.216072
+                  ]
+            },
+            {
+                  "name": "Street Jump Apeldoorn",
+                  "text": "This trampoline park in Apeldoorn offers fun activities and active play for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.953944,
+                        52.204446
+                  ]
+            },
+            {
+                  "name": "De Voetbalfabriek",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.980969,
+                        52.213701
+                  ]
+            },
+            {
+                  "name": "De Buitenhorst",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.993401,
+                        52.205078
+                  ]
+            },
+            {
+                  "name": "De Zoemer",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.96854,
+                        52.199548
+                  ]
+            },
+            {
+                  "name": "Waterspeelplaats Orderbeek",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.942102,
+                        52.203006
+                  ]
+            },
+            {
+                  "name": "De hooimijt",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.976146,
+                        52.214216
+                  ]
+            },
+            {
+                  "name": "Matenschans",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.999727,
+                        52.19495
+                  ]
+            },
+            {
+                  "name": "Speeltuin Componistenkwartier",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.968414,
+                        52.192061
+                  ]
+            },
+            {
+                  "name": "'t Speelhofje",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.969284,
+                        52.189932
+                  ]
+            },
+            {
+                  "name": "De Speeldoos",
+                  "text": "This playground in Apeldoorn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.964271,
+                        52.189405
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "A nice playground in Apeldoorn for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        5.937199,
+                        52.198546
+                  ]
+            },
+            {
+                  "name": "Vlindertuin",
+                  "text": "This playground in Apeldoorn offers children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        6.003073,
+                        52.214295
                   ]
             }
       ]
@@ -2164,6 +3172,123 @@ export const netherlandsCitiesV2: POI[] = [
                         4.460305,
                         52.049087
                   ]
+            },
+            {
+                  "name": "Plas van Poot",
+                  "text": "Plas van Poot in Zoetermeer ist ein See in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        4.519001,
+                        52.046448
+                  ]
+            },
+            {
+                  "name": "Noordhovense Plas",
+                  "text": "Noordhovense Plas in Zoetermeer ist ein See für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.521697,
+                        52.081069
+                  ]
+            },
+            {
+                  "name": "Benthuizer Plas",
+                  "text": "Benthuizer Plas in Zoetermeer ist ein See mit einer ruhigen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        4.530391,
+                        52.076302
+                  ]
+            },
+            {
+                  "name": "Zoetermeerse Plas",
+                  "text": "Zoetermeerse Plas in Zoetermeer ist ein See für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        4.508146,
+                        52.084314
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "Vlietland in Zoetermeer ist ein Seegebiet zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Rottemeren in Zoetermeer ist ein See mit einer schönen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Ackerswoudse Plas",
+                  "text": "Ackerswoudse Plas in Zoetermeer ist ein See in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        4.446342,
+                        52.018397
+                  ]
+            },
+            {
+                  "name": "Jump One",
+                  "text": "Jump One in Zoetermeer ist ein Trampolinpark für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.498572,
+                        52.065327
+                  ]
+            },
+            {
+                  "name": "Speelbos De Balij",
+                  "text": "Speelbos De Balij in Zoetermeer ist ein Waldspielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.456567,
+                        52.045908
+                  ]
+            },
+            {
+                  "name": "M.G.C. Zoetermeer",
+                  "text": "M.G.C. Zoetermeer bietet Minigolf für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.487251,
+                        52.048099
+                  ]
+            },
+            {
+                  "name": "\"Het Pleintje\"",
+                  "text": "\"Het Pleintje\" in Zoetermeer ist ein lokaler Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.479882,
+                        52.070743
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin De Vrijbuiter",
+                  "text": "Natuurspeeltuin De Vrijbuiter in Zoetermeer ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.535054,
+                        52.056344
+                  ]
+            },
+            {
+                  "name": "Het Gat in de Markt",
+                  "text": "Het Gat in de Markt in Zoetermeer ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.494046,
+                        52.060441
+                  ]
             }
       ],
       "hu": [
@@ -2444,6 +3569,123 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.460305,
                         52.049087
+                  ]
+            },
+            {
+                  "name": "Plas van Poot",
+                  "text": "A zoetermeeri Plas van Poot egy tó természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        4.519001,
+                        52.046448
+                  ]
+            },
+            {
+                  "name": "Noordhovense Plas",
+                  "text": "A zoetermeeri Noordhovense Plas egy tó vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.521697,
+                        52.081069
+                  ]
+            },
+            {
+                  "name": "Benthuizer Plas",
+                  "text": "A zoetermeeri Benthuizer Plas egy nyugodt légkörű tó.",
+                  "category": "natural",
+                  "coords": [
+                        4.530391,
+                        52.076302
+                  ]
+            },
+            {
+                  "name": "Zoetermeerse Plas",
+                  "text": "A zoetermeeri Zoetermeerse Plas egy tó szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.508146,
+                        52.084314
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "A zoetermeeri Vlietland egy tóvidék a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "A zoetermeeri Rottemeren egy szép tájjal rendelkező tó.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Ackerswoudse Plas",
+                  "text": "A zoetermeeri Ackerswoudse Plas egy nyugodt fekvésű tó.",
+                  "category": "natural",
+                  "coords": [
+                        4.446342,
+                        52.018397
+                  ]
+            },
+            {
+                  "name": "Jump One",
+                  "text": "A zoetermeeri Jump One egy trambulinpark a család szórakozására.",
+                  "category": "family",
+                  "coords": [
+                        4.498572,
+                        52.065327
+                  ]
+            },
+            {
+                  "name": "Speelbos De Balij",
+                  "text": "A zoetermeeri Speelbos De Balij egy erdei játszótér gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.456567,
+                        52.045908
+                  ]
+            },
+            {
+                  "name": "M.G.C. Zoetermeer",
+                  "text": "A zoetermeeri M.G.C. Zoetermeer minigolfot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.487251,
+                        52.048099
+                  ]
+            },
+            {
+                  "name": "\"Het Pleintje\"",
+                  "text": "A zoetermeeri \"Het Pleintje\" egy helyi játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.479882,
+                        52.070743
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin De Vrijbuiter",
+                  "text": "A zoetermeeri Natuurspeeltuin De Vrijbuiter egy játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.535054,
+                        52.056344
+                  ]
+            },
+            {
+                  "name": "Het Gat in de Markt",
+                  "text": "A zoetermeeri Het Gat in de Markt egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.494046,
+                        52.060441
                   ]
             }
       ],
@@ -2726,6 +3968,123 @@ export const netherlandsCitiesV2: POI[] = [
                         4.460305,
                         52.049087
                   ]
+            },
+            {
+                  "name": "Plas van Poot",
+                  "text": "Plas van Poot din Zoetermeer este un lac într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        4.519001,
+                        52.046448
+                  ]
+            },
+            {
+                  "name": "Noordhovense Plas",
+                  "text": "Noordhovense Plas din Zoetermeer este un lac pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.521697,
+                        52.081069
+                  ]
+            },
+            {
+                  "name": "Benthuizer Plas",
+                  "text": "Benthuizer Plas din Zoetermeer este un lac cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        4.530391,
+                        52.076302
+                  ]
+            },
+            {
+                  "name": "Zoetermeerse Plas",
+                  "text": "Zoetermeerse Plas din Zoetermeer este un lac pentru activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        4.508146,
+                        52.084314
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "Vlietland din Zoetermeer este o zonă de lacuri pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Rottemeren din Zoetermeer este un lac cu un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Ackerswoudse Plas",
+                  "text": "Ackerswoudse Plas din Zoetermeer este un lac situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        4.446342,
+                        52.018397
+                  ]
+            },
+            {
+                  "name": "Jump One",
+                  "text": "Jump One din Zoetermeer este un parc de trambuline pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        4.498572,
+                        52.065327
+                  ]
+            },
+            {
+                  "name": "Speelbos De Balij",
+                  "text": "Speelbos De Balij din Zoetermeer este un loc de joacă în pădure pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.456567,
+                        52.045908
+                  ]
+            },
+            {
+                  "name": "M.G.C. Zoetermeer",
+                  "text": "M.G.C. Zoetermeer oferă minigolf pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.487251,
+                        52.048099
+                  ]
+            },
+            {
+                  "name": "\"Het Pleintje\"",
+                  "text": "„Het Pleintje” din Zoetermeer este un loc de joacă local pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.479882,
+                        52.070743
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin De Vrijbuiter",
+                  "text": "Natuurspeeltuin De Vrijbuiter din Zoetermeer este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.535054,
+                        52.056344
+                  ]
+            },
+            {
+                  "name": "Het Gat in de Markt",
+                  "text": "Het Gat in de Markt din Zoetermeer este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.494046,
+                        52.060441
+                  ]
             }
       ],
       "en": [
@@ -3006,6 +4365,123 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.460305,
                         52.049087
+                  ]
+            },
+            {
+                  "name": "Plas van Poot",
+                  "text": "Plas van Poot in Zoetermeer is a lake in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        4.519001,
+                        52.046448
+                  ]
+            },
+            {
+                  "name": "Noordhovense Plas",
+                  "text": "Noordhovense Plas in Zoetermeer is a lake for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.521697,
+                        52.081069
+                  ]
+            },
+            {
+                  "name": "Benthuizer Plas",
+                  "text": "Benthuizer Plas in Zoetermeer is a lake with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        4.530391,
+                        52.076302
+                  ]
+            },
+            {
+                  "name": "Zoetermeerse Plas",
+                  "text": "Zoetermeerse Plas in Zoetermeer is a lake for recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        4.508146,
+                        52.084314
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "Vlietland in Zoetermeer is a lake area for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Rottemeren in Zoetermeer is a lake with a beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Ackerswoudse Plas",
+                  "text": "Ackerswoudse Plas in Zoetermeer is a lake in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        4.446342,
+                        52.018397
+                  ]
+            },
+            {
+                  "name": "Jump One",
+                  "text": "Jump One in Zoetermeer is a trampoline park for family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.498572,
+                        52.065327
+                  ]
+            },
+            {
+                  "name": "Speelbos De Balij",
+                  "text": "Speelbos De Balij in Zoetermeer is a forest playground for children.",
+                  "category": "family",
+                  "coords": [
+                        4.456567,
+                        52.045908
+                  ]
+            },
+            {
+                  "name": "M.G.C. Zoetermeer",
+                  "text": "M.G.C. Zoetermeer offers miniature golf for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.487251,
+                        52.048099
+                  ]
+            },
+            {
+                  "name": "\"Het Pleintje\"",
+                  "text": "\"Het Pleintje\" in Zoetermeer is a local playground for children.",
+                  "category": "family",
+                  "coords": [
+                        4.479882,
+                        52.070743
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin De Vrijbuiter",
+                  "text": "Natuurspeeltuin De Vrijbuiter in Zoetermeer is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        4.535054,
+                        52.056344
+                  ]
+            },
+            {
+                  "name": "Het Gat in de Markt",
+                  "text": "Het Gat in de Markt in Zoetermeer is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        4.494046,
+                        52.060441
                   ]
             }
       ]
@@ -4585,6 +6061,123 @@ export const netherlandsCitiesV2: POI[] = [
                         4.692668,
                         52.305543
                   ]
+            },
+            {
+                  "name": "Meerwijkplas",
+                  "text": "Der Meerwijkplas in Hoofddorp ist ein schöner See zum Spazierengehen und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        4.664268,
+                        52.349201
+                  ]
+            },
+            {
+                  "name": "Molenplas",
+                  "text": "Der Molenplas in Hoofddorp bietet eine malerische Kulisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.655242,
+                        52.34506
+                  ]
+            },
+            {
+                  "name": "Koddespoel",
+                  "text": "Der Koddespoel in Hoofddorp ist ein ruhiges Gewässer inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.72347,
+                        52.252849
+                  ]
+            },
+            {
+                  "name": "Verdonken plas",
+                  "text": "Der Verdonken plas in Hoofddorp ist ein naturbelassener See mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        4.669293,
+                        52.374134
+                  ]
+            },
+            {
+                  "name": "Grote Poel",
+                  "text": "Der Grote Poel in Hoofddorp ist ein weitläufiger See, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.24365
+                  ]
+            },
+            {
+                  "name": "Blauwe Beugel",
+                  "text": "Der Blauwe Beugel in Hoofddorp bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.71279,
+                        52.251291
+                  ]
+            },
+            {
+                  "name": "Zwet",
+                  "text": "Zwet in Hoofddorp ist ein friedliches Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.720782,
+                        52.255781
+                  ]
+            },
+            {
+                  "name": "Kleine Poel",
+                  "text": "Der Kleine Poel in Hoofddorp ist ein ruhiger See in schöner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        4.737783,
+                        52.259875
+                  ]
+            },
+            {
+                  "name": "Westeinderplassen",
+                  "text": "Die Westeinderplassen bei Hoofddorp sind ein großes Seengebiet mit vielfältiger Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.246435
+                  ]
+            },
+            {
+                  "name": "Jeugdland",
+                  "text": "Jeugdland in Hoofddorp ist ein Paradies für Kinder mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        4.655993,
+                        52.300105
+                  ]
+            },
+            {
+                  "name": "GO-Esports",
+                  "text": "GO-Esports in Hoofddorp bietet moderne Spielunterhaltung für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        4.694854,
+                        52.312972
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Der Castle Playground in Hoofddorp ist ein fantasievoller Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.67568,
+                        52.3275
+                  ]
+            },
+            {
+                  "name": "Speelparcour Haarlemmeerse Bos",
+                  "text": "Der Speelparcour Haarlemmeerse Bos bietet abwechslungsreiche Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.675433,
+                        52.328464
+                  ]
             }
       ],
       "hu": [
@@ -4730,6 +6323,123 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.692668,
                         52.305543
+                  ]
+            },
+            {
+                  "name": "Meerwijkplas",
+                  "text": "A hoofddorpi Meerwijkplas egy szép tó sétáláshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        4.664268,
+                        52.349201
+                  ]
+            },
+            {
+                  "name": "Molenplas",
+                  "text": "A hoofddorpi Molenplas festői környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        4.655242,
+                        52.34506
+                  ]
+            },
+            {
+                  "name": "Koddespoel",
+                  "text": "A hoofddorpi Koddespoel egy nyugodt vízfelület a természet lágyán.",
+                  "category": "natural",
+                  "coords": [
+                        4.72347,
+                        52.252849
+                  ]
+            },
+            {
+                  "name": "Verdonken plas",
+                  "text": "A hoofddorpi Verdonken plas egy természetközeli tó szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        4.669293,
+                        52.374134
+                  ]
+            },
+            {
+                  "name": "Grote Poel",
+                  "text": "A hoofddorpi Grote Poel egy tágas tó, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.24365
+                  ]
+            },
+            {
+                  "name": "Blauwe Beugel",
+                  "text": "A hoofddorpi Blauwe Beugel pihentető hangulatot kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        4.71279,
+                        52.251291
+                  ]
+            },
+            {
+                  "name": "Zwet",
+                  "text": "A hoofddorpi Zwet egy békés vízfelület, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        4.720782,
+                        52.255781
+                  ]
+            },
+            {
+                  "name": "Kleine Poel",
+                  "text": "A hoofddorpi Kleine Poel egy nyugodt tó szép környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        4.737783,
+                        52.259875
+                  ]
+            },
+            {
+                  "name": "Westeinderplassen",
+                  "text": "A Hoofddorp melletti Westeinderplassen egy nagy tórendszer változatos tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.246435
+                  ]
+            },
+            {
+                  "name": "Jeugdland",
+                  "text": "A hoofddorpi Jeugdland a gyerekek paradicsoma, számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        4.655993,
+                        52.300105
+                  ]
+            },
+            {
+                  "name": "GO-Esports",
+                  "text": "A hoofddorpi GO-Esports modern játékélményt kínál gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        4.694854,
+                        52.312972
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "A hoofddorpi Castle Playground egy fantáziadús hely a játékra.",
+                  "category": "family",
+                  "coords": [
+                        4.67568,
+                        52.3275
+                  ]
+            },
+            {
+                  "name": "Speelparcour Haarlemmeerse Bos",
+                  "text": "A Speelparcour Haarlemmeerse Bos változatos tevékenységeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.675433,
+                        52.328464
                   ]
             }
       ],
@@ -4877,6 +6587,123 @@ export const netherlandsCitiesV2: POI[] = [
                         4.692668,
                         52.305543
                   ]
+            },
+            {
+                  "name": "Meerwijkplas",
+                  "text": "Meerwijkplas din Hoofddorp este un lac frumos pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.664268,
+                        52.349201
+                  ]
+            },
+            {
+                  "name": "Molenplas",
+                  "text": "Molenplas din Hoofddorp oferă un cadru pitoresc pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.655242,
+                        52.34506
+                  ]
+            },
+            {
+                  "name": "Koddespoel",
+                  "text": "Koddespoel din Hoofddorp este o apă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.72347,
+                        52.252849
+                  ]
+            },
+            {
+                  "name": "Verdonken plas",
+                  "text": "Verdonken plas din Hoofddorp este un lac natural cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        4.669293,
+                        52.374134
+                  ]
+            },
+            {
+                  "name": "Grote Poel",
+                  "text": "Grote Poel din Hoofddorp este un lac întins, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.24365
+                  ]
+            },
+            {
+                  "name": "Blauwe Beugel",
+                  "text": "Blauwe Beugel din Hoofddorp oferă o atmosferă relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        4.71279,
+                        52.251291
+                  ]
+            },
+            {
+                  "name": "Zwet",
+                  "text": "Zwet din Hoofddorp este o apă pașnică ce invită la momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.720782,
+                        52.255781
+                  ]
+            },
+            {
+                  "name": "Kleine Poel",
+                  "text": "Kleine Poel din Hoofddorp este un lac liniștit într-un cadru plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        4.737783,
+                        52.259875
+                  ]
+            },
+            {
+                  "name": "Westeinderplassen",
+                  "text": "Westeinderplassen de lângă Hoofddorp este o zonă vastă de lacuri cu un peisaj divers.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.246435
+                  ]
+            },
+            {
+                  "name": "Jeugdland",
+                  "text": "Jeugdland din Hoofddorp este un paradis pentru copii, oferind multe opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.655993,
+                        52.300105
+                  ]
+            },
+            {
+                  "name": "GO-Esports",
+                  "text": "GO-Esports din Hoofddorp oferă divertisment modern prin jocuri pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        4.694854,
+                        52.312972
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Locul de joacă Castle din Hoofddorp este un spațiu plin de imaginație pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.67568,
+                        52.3275
+                  ]
+            },
+            {
+                  "name": "Speelparcour Haarlemmeerse Bos",
+                  "text": "Speelparcour Haarlemmeerse Bos oferă activități variate pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.675433,
+                        52.328464
+                  ]
             }
       ],
       "en": [
@@ -5022,6 +6849,123 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.692668,
                         52.305543
+                  ]
+            },
+            {
+                  "name": "Meerwijkplas",
+                  "text": "Meerwijkplas in Hoofddorp is a lovely lake for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        4.664268,
+                        52.349201
+                  ]
+            },
+            {
+                  "name": "Molenplas",
+                  "text": "Molenplas in Hoofddorp offers a scenic setting by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.655242,
+                        52.34506
+                  ]
+            },
+            {
+                  "name": "Koddespoel",
+                  "text": "Koddespoel in Hoofddorp is a peaceful body of water surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.72347,
+                        52.252849
+                  ]
+            },
+            {
+                  "name": "Verdonken plas",
+                  "text": "Verdonken plas in Hoofddorp is a natural lake with a nice view.",
+                  "category": "natural",
+                  "coords": [
+                        4.669293,
+                        52.374134
+                  ]
+            },
+            {
+                  "name": "Grote Poel",
+                  "text": "Grote Poel in Hoofddorp is a large lake, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.24365
+                  ]
+            },
+            {
+                  "name": "Blauwe Beugel",
+                  "text": "Blauwe Beugel in Hoofddorp offers a relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.71279,
+                        52.251291
+                  ]
+            },
+            {
+                  "name": "Zwet",
+                  "text": "Zwet in Hoofddorp is a peaceful body of water that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        4.720782,
+                        52.255781
+                  ]
+            },
+            {
+                  "name": "Kleine Poel",
+                  "text": "Kleine Poel in Hoofddorp is a calm lake in a lovely setting.",
+                  "category": "natural",
+                  "coords": [
+                        4.737783,
+                        52.259875
+                  ]
+            },
+            {
+                  "name": "Westeinderplassen",
+                  "text": "Westeinderplassen near Hoofddorp is a large lake area with a diverse landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.718701,
+                        52.246435
+                  ]
+            },
+            {
+                  "name": "Jeugdland",
+                  "text": "Jeugdland in Hoofddorp is a paradise for children with many play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        4.655993,
+                        52.300105
+                  ]
+            },
+            {
+                  "name": "GO-Esports",
+                  "text": "GO-Esports in Hoofddorp provides modern gaming entertainment for children and teenagers.",
+                  "category": "family",
+                  "coords": [
+                        4.694854,
+                        52.312972
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Castle Playground in Hoofddorp is an imaginative place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.67568,
+                        52.3275
+                  ]
+            },
+            {
+                  "name": "Speelparcour Haarlemmeerse Bos",
+                  "text": "Speelparcour Haarlemmeerse Bos offers diverse activities for families.",
+                  "category": "family",
+                  "coords": [
+                        4.675433,
+                        52.328464
                   ]
             }
       ]
@@ -5332,6 +7276,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.636706,
                         52.039699
                   ]
+            },
+            {
+                  "name": "De Drie Essen",
+                  "text": "De Drie Essen in Ede ist ein lokaler Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.648507,
+                        52.047878
+                  ]
+            },
+            {
+                  "name": "You Jump by Boaz",
+                  "text": "You Jump by Boaz in Ede ist ein Trampolinpark für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.668747,
+                        52.020115
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging de Korenbloem",
+                  "text": "Speeltuinvereniging de Korenbloem in Ede ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.659972,
+                        52.035571
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klauterlust",
+                  "text": "Speeltuin Klauterlust in Ede ist ein Spielplatz für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.66138,
+                        52.045279
+                  ]
+            },
+            {
+                  "name": "Hof van Ede",
+                  "text": "Hof van Ede in Ede bietet Minigolf für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.645389,
+                        52.057015
+                  ]
             }
       ],
       "hu": [
@@ -5594,6 +7583,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.636706,
                         52.039699
+                  ]
+            },
+            {
+                  "name": "De Drie Essen",
+                  "text": "Az edei De Drie Essen egy helyi játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.648507,
+                        52.047878
+                  ]
+            },
+            {
+                  "name": "You Jump by Boaz",
+                  "text": "Az edei You Jump by Boaz egy trambulinpark a család szórakozására.",
+                  "category": "family",
+                  "coords": [
+                        5.668747,
+                        52.020115
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging de Korenbloem",
+                  "text": "Az edei Speeltuinvereniging de Korenbloem egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.659972,
+                        52.035571
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klauterlust",
+                  "text": "Az edei Speeltuin Klauterlust egy játszótér aktív gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.66138,
+                        52.045279
+                  ]
+            },
+            {
+                  "name": "Hof van Ede",
+                  "text": "Az edei Hof van Ede minigolfot kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.645389,
+                        52.057015
                   ]
             }
       ],
@@ -5858,6 +7892,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.636706,
                         52.039699
                   ]
+            },
+            {
+                  "name": "De Drie Essen",
+                  "text": "De Drie Essen din Ede este un loc de joacă local pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.648507,
+                        52.047878
+                  ]
+            },
+            {
+                  "name": "You Jump by Boaz",
+                  "text": "You Jump by Boaz din Ede este un parc de trambuline pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        5.668747,
+                        52.020115
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging de Korenbloem",
+                  "text": "Speeltuinvereniging de Korenbloem din Ede este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.659972,
+                        52.035571
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klauterlust",
+                  "text": "Speeltuin Klauterlust din Ede este un loc de joacă pentru copii activi.",
+                  "category": "family",
+                  "coords": [
+                        5.66138,
+                        52.045279
+                  ]
+            },
+            {
+                  "name": "Hof van Ede",
+                  "text": "Hof van Ede din Ede oferă minigolf pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.645389,
+                        52.057015
+                  ]
             }
       ],
       "en": [
@@ -6120,6 +8199,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.636706,
                         52.039699
+                  ]
+            },
+            {
+                  "name": "De Drie Essen",
+                  "text": "De Drie Essen in Ede is a local playground for families.",
+                  "category": "family",
+                  "coords": [
+                        5.648507,
+                        52.047878
+                  ]
+            },
+            {
+                  "name": "You Jump by Boaz",
+                  "text": "You Jump by Boaz in Ede is a trampoline park for family fun.",
+                  "category": "family",
+                  "coords": [
+                        5.668747,
+                        52.020115
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging de Korenbloem",
+                  "text": "Speeltuinvereniging de Korenbloem in Ede is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.659972,
+                        52.035571
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klauterlust",
+                  "text": "Speeltuin Klauterlust in Ede is a playground for active children.",
+                  "category": "family",
+                  "coords": [
+                        5.66138,
+                        52.045279
+                  ]
+            },
+            {
+                  "name": "Hof van Ede",
+                  "text": "Hof van Ede in Ede offers miniature golf for families.",
+                  "category": "family",
+                  "coords": [
+                        5.645389,
+                        52.057015
                   ]
             }
       ]
@@ -8505,6 +10629,150 @@ export const netherlandsCitiesV2: POI[] = [
                         4.678228,
                         52.135035
                   ]
+            },
+            {
+                  "name": "Braassemermeer",
+                  "text": "Ein malerischer See bei Alphen Aan Den Rijn, ideal für Spaziergänge und Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        4.648951,
+                        52.19519
+                  ]
+            },
+            {
+                  "name": "Zuideinderplas",
+                  "text": "Ein ruhiger See in Alphen Aan Den Rijn, der zu einer erholsamen Auszeit einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.77009,
+                        52.124704
+                  ]
+            },
+            {
+                  "name": "Zegerplas",
+                  "text": "Ein beliebter See in Alphen Aan Den Rijn, ideal für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.68345,
+                        52.135718
+                  ]
+            },
+            {
+                  "name": "Langeraarsche Plassen",
+                  "text": "Diese Seenlandschaft bei Alphen Aan Den Rijn bietet eine schöne Kulisse für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        4.714861,
+                        52.191044
+                  ]
+            },
+            {
+                  "name": "Wije achter 't Dorp",
+                  "text": "Ein lokaler See in Alphen Aan Den Rijn, der sich gut für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        4.7717,
+                        52.13941
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Ein naturnaher Spielplatz in Alphen Aan Den Rijn für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.654411,
+                        52.117091
+                  ]
+            },
+            {
+                  "name": "Klimpark Alphen",
+                  "text": "Ein spannendes Ziel in Alphen Aan Den Rijn für kletterbegeisterte Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.689076,
+                        52.140617
+                  ]
+            },
+            {
+                  "name": "S.B.V. Bloemhof",
+                  "text": "Ein gut ausgestatteter Spielplatz in Alphen Aan Den Rijn für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        4.670016,
+                        52.13037
+                  ]
+            },
+            {
+                  "name": "Bij Hen",
+                  "text": "Eine unterhaltsame Minigolfanlage in Alphen Aan Den Rijn für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.68777,
+                        52.141893
+                  ]
+            },
+            {
+                  "name": "Speeltuin Ruisdaelstraat",
+                  "text": "Ein freundlicher Nachbarschaftsspielplatz in Alphen Aan Den Rijn für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.665995,
+                        52.138245
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "Ein fantasievoller Spielbereich in Alphen Aan Den Rijn für junge Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        4.689862,
+                        52.142812
+                  ]
+            },
+            {
+                  "name": "Speelhal",
+                  "text": "Eine Spielhalle in Alphen Aan Den Rijn mit verschiedenen Spielen für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        4.64749,
+                        52.139438
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vreugdeoord",
+                  "text": "Ein familienfreundlicher Spielplatz in Alphen Aan Den Rijn mit vielfältigen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        4.661687,
+                        52.122029
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Eine weitläufige Spielwiese in Alphen Aan Den Rijn für Spiele im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.64879,
+                        52.115371
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Kindervreugd",
+                  "text": "Ein engagierter Spielplatz in Alphen Aan Den Rijn für sicheren Kinderspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.65817,
+                        52.136796
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Ein Waldspielplatz in Alphen Aan Den Rijn für Abenteuer in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        4.69109,
+                        52.14259
+                  ]
             }
       ],
       "hu": [
@@ -8515,6 +10783,150 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.678228,
                         52.135035
+                  ]
+            },
+            {
+                  "name": "Braassemermeer",
+                  "text": "Festői tó Alphen Aan Den Rijn közelében, amely ideális sétákhoz és a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        4.648951,
+                        52.19519
+                  ]
+            },
+            {
+                  "name": "Zuideinderplas",
+                  "text": "Nyugodt tó Alphen Aan Den Rijnben, amely pihentető kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        4.77009,
+                        52.124704
+                  ]
+            },
+            {
+                  "name": "Zegerplas",
+                  "text": "Népszerű tó Alphen Aan Den Rijnben, amely ideális vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.68345,
+                        52.135718
+                  ]
+            },
+            {
+                  "name": "Langeraarsche Plassen",
+                  "text": "Ez a tóvidék Alphen Aan Den Rijn közelében szép környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.714861,
+                        52.191044
+                  ]
+            },
+            {
+                  "name": "Wije achter 't Dorp",
+                  "text": "Egy helyi tó Alphen Aan Den Rijnben, amely alkalmas egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.7717,
+                        52.13941
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Természetközeli játszótér Alphen Aan Den Rijnben az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.654411,
+                        52.117091
+                  ]
+            },
+            {
+                  "name": "Klimpark Alphen",
+                  "text": "Izgalmas úti cél Alphen Aan Den Rijnben a mászni szerető családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.689076,
+                        52.140617
+                  ]
+            },
+            {
+                  "name": "S.B.V. Bloemhof",
+                  "text": "Jól felszerelt játszótér Alphen Aan Den Rijnben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.670016,
+                        52.13037
+                  ]
+            },
+            {
+                  "name": "Bij Hen",
+                  "text": "Szórakoztató minigolfpálya Alphen Aan Den Rijnben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        4.68777,
+                        52.141893
+                  ]
+            },
+            {
+                  "name": "Speeltuin Ruisdaelstraat",
+                  "text": "Barátságos szomszédsági játszótér Alphen Aan Den Rijnben gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.665995,
+                        52.138245
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "Fantáziadús játszóhely Alphen Aan Den Rijnben a kis kalandorok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.689862,
+                        52.142812
+                  ]
+            },
+            {
+                  "name": "Speelhal",
+                  "text": "Játékterem Alphen Aan Den Rijnben különféle játékokkal fiataloknak és idősebbeknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        4.64749,
+                        52.139438
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vreugdeoord",
+                  "text": "Családbarát játszótér Alphen Aan Den Rijnben változatos játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        4.661687,
+                        52.122029
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Tágas játszórét Alphen Aan Den Rijnben szabadtéri játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.64879,
+                        52.115371
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Kindervreugd",
+                  "text": "Elhivatott játszótér Alphen Aan Den Rijnben a biztonságos gyermekszórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.65817,
+                        52.136796
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Erdei játszótér Alphen Aan Den Rijnben a természetbeni kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.69109,
+                        52.14259
                   ]
             }
       ],
@@ -8527,6 +10939,150 @@ export const netherlandsCitiesV2: POI[] = [
                         4.678228,
                         52.135035
                   ]
+            },
+            {
+                  "name": "Braassemermeer",
+                  "text": "Un lac pitoresc lângă Alphen Aan Den Rijn, ideal pentru plimbări și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.648951,
+                        52.19519
+                  ]
+            },
+            {
+                  "name": "Zuideinderplas",
+                  "text": "Un lac liniștit în Alphen Aan Den Rijn, care invită la o pauză relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        4.77009,
+                        52.124704
+                  ]
+            },
+            {
+                  "name": "Zegerplas",
+                  "text": "Un lac popular în Alphen Aan Den Rijn, ideal pentru activități de agrement pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.68345,
+                        52.135718
+                  ]
+            },
+            {
+                  "name": "Langeraarsche Plassen",
+                  "text": "Acest peisaj de lacuri de lângă Alphen Aan Den Rijn oferă un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.714861,
+                        52.191044
+                  ]
+            },
+            {
+                  "name": "Wije achter 't Dorp",
+                  "text": "Un lac local în Alphen Aan Den Rijn, potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        4.7717,
+                        52.13941
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Un loc de joacă natural în Alphen Aan Den Rijn pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.654411,
+                        52.117091
+                  ]
+            },
+            {
+                  "name": "Klimpark Alphen",
+                  "text": "O destinație interesantă în Alphen Aan Den Rijn pentru familiile care iubesc cățăratul.",
+                  "category": "family",
+                  "coords": [
+                        4.689076,
+                        52.140617
+                  ]
+            },
+            {
+                  "name": "S.B.V. Bloemhof",
+                  "text": "Un loc de joacă bine echipat în Alphen Aan Den Rijn pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.670016,
+                        52.13037
+                  ]
+            },
+            {
+                  "name": "Bij Hen",
+                  "text": "Un teren de minigolf distractiv în Alphen Aan Den Rijn pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.68777,
+                        52.141893
+                  ]
+            },
+            {
+                  "name": "Speeltuin Ruisdaelstraat",
+                  "text": "Un loc de joacă prietenos în cartierul Alphen Aan Den Rijn pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.665995,
+                        52.138245
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "O zonă de joacă plină de imaginație în Alphen Aan Den Rijn pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        4.689862,
+                        52.142812
+                  ]
+            },
+            {
+                  "name": "Speelhal",
+                  "text": "O sală de jocuri în Alphen Aan Den Rijn cu diverse jocuri pentru tineri și bătrâni.",
+                  "category": "family",
+                  "coords": [
+                        4.64749,
+                        52.139438
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vreugdeoord",
+                  "text": "Un loc de joacă pentru familii în Alphen Aan Den Rijn, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.661687,
+                        52.122029
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "O pajiște de joacă spațioasă în Alphen Aan Den Rijn pentru jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.64879,
+                        52.115371
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Kindervreugd",
+                  "text": "Un loc de joacă dedicat în Alphen Aan Den Rijn pentru distracția în siguranță a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.65817,
+                        52.136796
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Un loc de joacă în pădure în Alphen Aan Den Rijn pentru aventuri în natură.",
+                  "category": "family",
+                  "coords": [
+                        4.69109,
+                        52.14259
+                  ]
             }
       ],
       "en": [
@@ -8537,6 +11093,150 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.678228,
                         52.135035
+                  ]
+            },
+            {
+                  "name": "Braassemermeer",
+                  "text": "A picturesque lake near Alphen Aan Den Rijn, ideal for walks and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        4.648951,
+                        52.19519
+                  ]
+            },
+            {
+                  "name": "Zuideinderplas",
+                  "text": "A calm lake in Alphen Aan Den Rijn, perfect for a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        4.77009,
+                        52.124704
+                  ]
+            },
+            {
+                  "name": "Zegerplas",
+                  "text": "A popular lake in Alphen Aan Den Rijn, ideal for recreational activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.68345,
+                        52.135718
+                  ]
+            },
+            {
+                  "name": "Langeraarsche Plassen",
+                  "text": "This lake area near Alphen Aan Den Rijn offers a beautiful setting for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        4.714861,
+                        52.191044
+                  ]
+            },
+            {
+                  "name": "Wije achter 't Dorp",
+                  "text": "A local lake in Alphen Aan Den Rijn, suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        4.7717,
+                        52.13941
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "A nature-oriented playground in Alphen Aan Den Rijn for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.654411,
+                        52.117091
+                  ]
+            },
+            {
+                  "name": "Klimpark Alphen",
+                  "text": "An exciting destination in Alphen Aan Den Rijn for families who love climbing.",
+                  "category": "family",
+                  "coords": [
+                        4.689076,
+                        52.140617
+                  ]
+            },
+            {
+                  "name": "S.B.V. Bloemhof",
+                  "text": "A well-equipped playground in Alphen Aan Den Rijn for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.670016,
+                        52.13037
+                  ]
+            },
+            {
+                  "name": "Bij Hen",
+                  "text": "An entertaining miniature golf course in Alphen Aan Den Rijn for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.68777,
+                        52.141893
+                  ]
+            },
+            {
+                  "name": "Speeltuin Ruisdaelstraat",
+                  "text": "A friendly neighborhood playground in Alphen Aan Den Rijn for children.",
+                  "category": "family",
+                  "coords": [
+                        4.665995,
+                        52.138245
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "An imaginative play area in Alphen Aan Den Rijn for young adventurers.",
+                  "category": "family",
+                  "coords": [
+                        4.689862,
+                        52.142812
+                  ]
+            },
+            {
+                  "name": "Speelhal",
+                  "text": "An amusement arcade in Alphen Aan Den Rijn with various games for young and old.",
+                  "category": "family",
+                  "coords": [
+                        4.64749,
+                        52.139438
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vreugdeoord",
+                  "text": "A family-friendly playground in Alphen Aan Den Rijn with a variety of play equipment.",
+                  "category": "family",
+                  "coords": [
+                        4.661687,
+                        52.122029
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "A spacious play meadow in Alphen Aan Den Rijn for outdoor games.",
+                  "category": "family",
+                  "coords": [
+                        4.64879,
+                        52.115371
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Kindervreugd",
+                  "text": "A dedicated playground in Alphen Aan Den Rijn for safe children's fun.",
+                  "category": "family",
+                  "coords": [
+                        4.65817,
+                        52.136796
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "A forest playground in Alphen Aan Den Rijn for adventures in nature.",
+                  "category": "family",
+                  "coords": [
+                        4.69109,
+                        52.14259
                   ]
             }
       ]
@@ -10728,6 +13428,69 @@ export const netherlandsCitiesV2: POI[] = [
                         4.946182,
                         52.499232
                   ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Das Markermeer bei Purmerend ist ein bedeutendes Binnengewässer mit weiter Sicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Das Gouwzee bei Purmerend ist ein ruhiges Wassergebiet, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Go!Gaming",
+                  "text": "Go!Gaming in Purmerend bietet spannende Videospiel-Erlebnisse für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.973107,
+                        52.519088
+                  ]
+            },
+            {
+                  "name": "Speeltuin Damiettastraat",
+                  "text": "Der Spielplatz Damiettastraat in Purmerend ist ein schöner Ort für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        4.930047,
+                        52.491481
+                  ]
+            },
+            {
+                  "name": "De Spelemei",
+                  "text": "De Spelemei in Purmerend lädt Kinder zu aktivem Spiel im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.940956,
+                        52.518782
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "Das Kinderparadijs in Purmerend bietet vielfältige Spielgeräte für kleine Gäste.",
+                  "category": "family",
+                  "coords": [
+                        4.979373,
+                        52.511905
+                  ]
+            },
+            {
+                  "name": "De Speelkraam",
+                  "text": "De Speelkraam in Purmerend ist ein beliebter Abenteuerspielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.969501,
+                        52.501452
+                  ]
             }
       ],
       "hu": [
@@ -10810,6 +13573,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.946182,
                         52.499232
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "A Purmerend melletti Markermeer egy jelentős beltenger tágas kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "A Purmerend melletti Gouwzee egy nyugodt vízfelület, ideális a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Go!Gaming",
+                  "text": "A purmerendi Go!Gaming izgalmas videojáték-élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.973107,
+                        52.519088
+                  ]
+            },
+            {
+                  "name": "Speeltuin Damiettastraat",
+                  "text": "A purmerendi Damiettastraat játszótér remek hely a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.930047,
+                        52.491481
+                  ]
+            },
+            {
+                  "name": "De Spelemei",
+                  "text": "A purmerendi De Spelemei aktív szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.940956,
+                        52.518782
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "A purmerendi Kinderparadijs változatos játékokkal várja a legkisebbeket is.",
+                  "category": "family",
+                  "coords": [
+                        4.979373,
+                        52.511905
+                  ]
+            },
+            {
+                  "name": "De Speelkraam",
+                  "text": "A purmerendi De Speelkraam egy népszerű kalandjátszótér a családok körében.",
+                  "category": "family",
+                  "coords": [
+                        4.969501,
+                        52.501452
                   ]
             }
       ],
@@ -10894,6 +13720,69 @@ export const netherlandsCitiesV2: POI[] = [
                         4.946182,
                         52.499232
                   ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Markermeer de lângă Purmerend este o întindere de apă importantă, cu vederi largi.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Gouwzee de lângă Purmerend este o zonă cu apă liniștită, ideală pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Go!Gaming",
+                  "text": "Go!Gaming din Purmerend oferă experiențe captivante de jocuri video pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.973107,
+                        52.519088
+                  ]
+            },
+            {
+                  "name": "Speeltuin Damiettastraat",
+                  "text": "Locul de joacă Damiettastraat din Purmerend este un spațiu plăcut pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        4.930047,
+                        52.491481
+                  ]
+            },
+            {
+                  "name": "De Spelemei",
+                  "text": "De Spelemei din Purmerend îi invită pe copii la joacă activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.940956,
+                        52.518782
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "Kinderparadijs din Purmerend oferă diverse echipamente de joacă pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        4.979373,
+                        52.511905
+                  ]
+            },
+            {
+                  "name": "De Speelkraam",
+                  "text": "De Speelkraam din Purmerend este un loc de joacă de aventură popular printre familii.",
+                  "category": "family",
+                  "coords": [
+                        4.969501,
+                        52.501452
+                  ]
             }
       ],
       "en": [
@@ -10976,6 +13865,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.946182,
                         52.499232
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Markermeer near Purmerend is a significant inland sea with wide views.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Gouwzee near Purmerend is a calm water area, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Go!Gaming",
+                  "text": "Go!Gaming in Purmerend offers exciting video game experiences for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.973107,
+                        52.519088
+                  ]
+            },
+            {
+                  "name": "Speeltuin Damiettastraat",
+                  "text": "Speeltuin Damiettastraat in Purmerend is a nice spot for neighborhood children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.930047,
+                        52.491481
+                  ]
+            },
+            {
+                  "name": "De Spelemei",
+                  "text": "De Spelemei in Purmerend invites children to enjoy active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.940956,
+                        52.518782
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "Kinderparadijs in Purmerend offers a variety of play equipment for young guests.",
+                  "category": "family",
+                  "coords": [
+                        4.979373,
+                        52.511905
+                  ]
+            },
+            {
+                  "name": "De Speelkraam",
+                  "text": "De Speelkraam in Purmerend is a popular adventure playground for families.",
+                  "category": "family",
+                  "coords": [
+                        4.969501,
+                        52.501452
                   ]
             }
       ]
@@ -16017,6 +18969,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.653707,
                         51.473684
                   ]
+            },
+            {
+                  "name": "Leonardus",
+                  "text": "Leonardus in Helmond ist ein Spielplatz für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.669383,
+                        51.487358
+                  ]
+            },
+            {
+                  "name": "Speeltuin Helmond - West",
+                  "text": "Speeltuin Helmond - West ist ein Spielplatz für den Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.642235,
+                        51.471587
+                  ]
+            },
+            {
+                  "name": "De Renne",
+                  "text": "De Renne in Helmond ist ein lokaler Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.648886,
+                        51.474651
+                  ]
+            },
+            {
+                  "name": "Kindervreugde",
+                  "text": "Kindervreugde in Helmond ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.660555,
+                        51.484479
+                  ]
             }
       ],
       "hu": [
@@ -16333,6 +19321,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.653707,
                         51.473684
+                  ]
+            },
+            {
+                  "name": "Leonardus",
+                  "text": "A helmondi Leonardus egy játszótér gyermekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.669383,
+                        51.487358
+                  ]
+            },
+            {
+                  "name": "Speeltuin Helmond - West",
+                  "text": "A Speeltuin Helmond - West egy játszótér a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.642235,
+                        51.471587
+                  ]
+            },
+            {
+                  "name": "De Renne",
+                  "text": "A helmondi De Renne egy helyi játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.648886,
+                        51.474651
+                  ]
+            },
+            {
+                  "name": "Kindervreugde",
+                  "text": "A helmondi Kindervreugde egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.660555,
+                        51.484479
                   ]
             }
       ],
@@ -16651,6 +19675,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.653707,
                         51.473684
                   ]
+            },
+            {
+                  "name": "Leonardus",
+                  "text": "Leonardus din Helmond este un loc de joacă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        5.669383,
+                        51.487358
+                  ]
+            },
+            {
+                  "name": "Speeltuin Helmond - West",
+                  "text": "Speeltuin Helmond - West este un loc de joacă pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        5.642235,
+                        51.471587
+                  ]
+            },
+            {
+                  "name": "De Renne",
+                  "text": "De Renne din Helmond este un loc de joacă local pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.648886,
+                        51.474651
+                  ]
+            },
+            {
+                  "name": "Kindervreugde",
+                  "text": "Kindervreugde din Helmond este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.660555,
+                        51.484479
+                  ]
             }
       ],
       "en": [
@@ -16967,6 +20027,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.653707,
                         51.473684
+                  ]
+            },
+            {
+                  "name": "Leonardus",
+                  "text": "Leonardus in Helmond is a playground for children and families.",
+                  "category": "family",
+                  "coords": [
+                        5.669383,
+                        51.487358
+                  ]
+            },
+            {
+                  "name": "Speeltuin Helmond - West",
+                  "text": "Speeltuin Helmond - West is a playground for family fun.",
+                  "category": "family",
+                  "coords": [
+                        5.642235,
+                        51.471587
+                  ]
+            },
+            {
+                  "name": "De Renne",
+                  "text": "De Renne in Helmond is a local playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.648886,
+                        51.474651
+                  ]
+            },
+            {
+                  "name": "Kindervreugde",
+                  "text": "Kindervreugde in Helmond is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.660555,
+                        51.484479
                   ]
             }
       ]
@@ -18012,7 +21108,520 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-bergen-op-zoom-cities-v2.webp",
   },
   {
-    id: "netherlands-capelle-aan-den-ijssel-cities-v2",
+    id: "netherlands-capelle-aan-den-ijssel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Der Meer der Stilte in Capelle aan den IJssel ist ein friedvolles Gewässer zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "Zevenhuizerplas",
+                  "text": "Der Zevenhuizerplas bei Capelle aan den IJssel bietet eine schöne Kulisse für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        4.56847,
+                        51.980928
+                  ]
+            },
+            {
+                  "name": "Kralingse Plas",
+                  "text": "Die Kralingse Plas bei Capelle aan den IJssel ist ein bekanntes Naherholungsgebiet am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.514601,
+                        51.934698
+                  ]
+            },
+            {
+                  "name": "Bergsche Achterplas",
+                  "text": "Die Bergsche Achterplas bietet eine ruhige Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.483131,
+                        51.952089
+                  ]
+            },
+            {
+                  "name": "Bergsche Voorplas",
+                  "text": "Die Bergsche Voorplas ist ein malerischer See, ideal für entspannte Momente.",
+                  "category": "natural",
+                  "coords": [
+                        4.496238,
+                        51.951458
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Die Rottemeren bei Capelle aan den IJssel sind ein weitläufiges Seengebiet mit schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Avonturenspeeltuin Pietje Bell",
+                  "text": "Der Avonturenspeeltuin Pietje Bell bietet spannende Erlebnisse für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        4.550248,
+                        51.932972
+                  ]
+            },
+            {
+                  "name": "Rollebollebos",
+                  "text": "Das Rollebollebos in Capelle aan den IJssel ist ein natürlicher Spielort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.585865,
+                        51.950661
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kralingseveer",
+                  "text": "Die Speeltuin Kralingseveer bietet vielfältige Spielmöglichkeiten in einer freundlichen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        4.555314,
+                        51.911825
+                  ]
+            },
+            {
+                  "name": "B.S.V. Het Lageland",
+                  "text": "B.S.V. Het Lageland in Capelle aan den IJssel ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.548823,
+                        51.943913
+                  ]
+            },
+            {
+                  "name": "Osloplein",
+                  "text": "Osloplein in Capelle aan den IJssel bietet Platz zum Spielen und Verweilen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.597716,
+                        51.936375
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Die Kinderboerderij in Capelle aan den IJssel verbindet Naturerlebnisse mit Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.59291,
+                        51.941251
+                  ]
+            },
+            {
+                  "name": "Avonturenspeelbos Ravottia",
+                  "text": "Der Avonturenspeelbos Ravottia lädt Kinder zu Entdeckungstouren im Wald ein.",
+                  "category": "family",
+                  "coords": [
+                        4.58788,
+                        51.943596
+                  ]
+            },
+            {
+                  "name": "Wilgenplein",
+                  "text": "Ein Spielplatz in Capelle Aan Den Ijssel, der Freizeitspaß für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.567319,
+                        51.935955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meer der Stilte",
+                  "text": "A Capelle aan den IJssel-i Meer der Stilte egy békés tó a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "Zevenhuizerplas",
+                  "text": "A Capelle aan den IJssel melletti Zevenhuizerplas szép környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.56847,
+                        51.980928
+                  ]
+            },
+            {
+                  "name": "Kralingse Plas",
+                  "text": "A Capelle aan den IJssel melletti Kralingse Plas egy ismert vízparti üdülőhely.",
+                  "category": "natural",
+                  "coords": [
+                        4.514601,
+                        51.934698
+                  ]
+            },
+            {
+                  "name": "Bergsche Achterplas",
+                  "text": "A Bergsche Achterplas nyugodt hangulatot kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        4.483131,
+                        51.952089
+                  ]
+            },
+            {
+                  "name": "Bergsche Voorplas",
+                  "text": "A Bergsche Voorplas egy festői tó, ideális a pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.496238,
+                        51.951458
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "A Capelle aan den IJssel melletti Rottemeren egy tágas tóvidék szép tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Avonturenspeeltuin Pietje Bell",
+                  "text": "Az Avonturenspeeltuin Pietje Bell izgalmas élményeket kínál a kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        4.550248,
+                        51.932972
+                  ]
+            },
+            {
+                  "name": "Rollebollebos",
+                  "text": "A Capelle aan den IJssel-i Rollebollebos egy természetes játszóhely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.585865,
+                        51.950661
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kralingseveer",
+                  "text": "A Speeltuin Kralingseveer változatos játéklehetőségeket kínál barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        4.555314,
+                        51.911825
+                  ]
+            },
+            {
+                  "name": "B.S.V. Het Lageland",
+                  "text": "A Capelle aan den IJssel-i B.S.V. Het Lageland a családok népszerű találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        4.548823,
+                        51.943913
+                  ]
+            },
+            {
+                  "name": "Osloplein",
+                  "text": "A Capelle aan den IJssel-i Osloplein helyet biztosít a játékhoz és a szabadtéri pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        4.597716,
+                        51.936375
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A Capelle aan den IJssel-i Kinderboerderij a természet közelségét ötvözi a játékkal.",
+                  "category": "family",
+                  "coords": [
+                        4.59291,
+                        51.941251
+                  ]
+            },
+            {
+                  "name": "Avonturenspeelbos Ravottia",
+                  "text": "Az Avonturenspeelbos Ravottia felfedezőutakra hívja a gyerekeket az erdőbe.",
+                  "category": "family",
+                  "coords": [
+                        4.58788,
+                        51.943596
+                  ]
+            },
+            {
+                  "name": "Wilgenplein",
+                  "text": "Családbarát játszótér Capelle Aan Den Ijssel városában, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.567319,
+                        51.935955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Meer der Stilte din Capelle aan den IJssel este o apă liniștită pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "Zevenhuizerplas",
+                  "text": "Zevenhuizerplas de lângă Capelle aan den IJssel oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        4.56847,
+                        51.980928
+                  ]
+            },
+            {
+                  "name": "Kralingse Plas",
+                  "text": "Kralingse Plas de lângă Capelle aan den IJssel este o zonă de recreere populară lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        4.514601,
+                        51.934698
+                  ]
+            },
+            {
+                  "name": "Bergsche Achterplas",
+                  "text": "Bergsche Achterplas oferă o atmosferă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.483131,
+                        51.952089
+                  ]
+            },
+            {
+                  "name": "Bergsche Voorplas",
+                  "text": "Bergsche Voorplas este un lac pitoresc, ideal pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.496238,
+                        51.951458
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Rottemeren de lângă Capelle aan den IJssel este o zonă vastă de lacuri cu un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Avonturenspeeltuin Pietje Bell",
+                  "text": "Locul de joacă de aventură Pietje Bell oferă experiențe captivante pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        4.550248,
+                        51.932972
+                  ]
+            },
+            {
+                  "name": "Rollebollebos",
+                  "text": "Rollebollebos din Capelle aan den IJssel este un spațiu de joacă natural pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.585865,
+                        51.950661
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kralingseveer",
+                  "text": "Locul de joacă Kralingseveer oferă diverse posibilități de joacă într-un mediu prietenos.",
+                  "category": "family",
+                  "coords": [
+                        4.555314,
+                        51.911825
+                  ]
+            },
+            {
+                  "name": "B.S.V. Het Lageland",
+                  "text": "B.S.V. Het Lageland din Capelle aan den IJssel este un punct de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.548823,
+                        51.943913
+                  ]
+            },
+            {
+                  "name": "Osloplein",
+                  "text": "Osloplein din Capelle aan den IJssel oferă spațiu pentru joacă și relaxare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.597716,
+                        51.936375
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ferma de animale pentru copii din Capelle aan den IJssel îmbină natura cu distracția la joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.59291,
+                        51.941251
+                  ]
+            },
+            {
+                  "name": "Avonturenspeelbos Ravottia",
+                  "text": "Pădurea de joacă și aventură Ravottia îi invită pe copii la explorare în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        4.58788,
+                        51.943596
+                  ]
+            },
+            {
+                  "name": "Wilgenplein",
+                  "text": "Un loc de joacă în Capelle Aan Den Ijssel, care oferă distracție pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        4.567319,
+                        51.935955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Meer der Stilte in Capelle aan den IJssel is a peaceful body of water for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "Zevenhuizerplas",
+                  "text": "Zevenhuizerplas near Capelle aan den IJssel offers a beautiful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.56847,
+                        51.980928
+                  ]
+            },
+            {
+                  "name": "Kralingse Plas",
+                  "text": "Kralingse Plas near Capelle aan den IJssel is a well-known recreational area by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.514601,
+                        51.934698
+                  ]
+            },
+            {
+                  "name": "Bergsche Achterplas",
+                  "text": "Bergsche Achterplas offers a calm atmosphere in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        4.483131,
+                        51.952089
+                  ]
+            },
+            {
+                  "name": "Bergsche Voorplas",
+                  "text": "Bergsche Voorplas is a scenic lake, ideal for relaxed moments.",
+                  "category": "natural",
+                  "coords": [
+                        4.496238,
+                        51.951458
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Rottemeren near Capelle aan den IJssel is an extensive lake area with beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "Avonturenspeeltuin Pietje Bell",
+                  "text": "Avonturenspeeltuin Pietje Bell offers exciting experiences for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        4.550248,
+                        51.932972
+                  ]
+            },
+            {
+                  "name": "Rollebollebos",
+                  "text": "Rollebollebos in Capelle aan den IJssel is a natural play area for children.",
+                  "category": "family",
+                  "coords": [
+                        4.585865,
+                        51.950661
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kralingseveer",
+                  "text": "Speeltuin Kralingseveer offers diverse play opportunities in a friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        4.555314,
+                        51.911825
+                  ]
+            },
+            {
+                  "name": "B.S.V. Het Lageland",
+                  "text": "B.S.V. Het Lageland in Capelle aan den IJssel is a popular meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        4.548823,
+                        51.943913
+                  ]
+            },
+            {
+                  "name": "Osloplein",
+                  "text": "Osloplein in Capelle aan den IJssel offers space for playing and relaxing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.597716,
+                        51.936375
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Kinderboerderij in Capelle aan den IJssel combines nature experiences with play for children.",
+                  "category": "family",
+                  "coords": [
+                        4.59291,
+                        51.941251
+                  ]
+            },
+            {
+                  "name": "Avonturenspeelbos Ravottia",
+                  "text": "Avonturenspeelbos Ravottia invites children to explore and play in a forest setting.",
+                  "category": "family",
+                  "coords": [
+                        4.58788,
+                        51.943596
+                  ]
+            },
+            {
+                  "name": "Wilgenplein",
+                  "text": "A playground in Capelle Aan Den Ijssel offering recreational fun for children and families.",
+                  "category": "family",
+                  "coords": [
+                        4.567319,
+                        51.935955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Capelle aan den IJssel", hu: "Capelle aan den IJssel", ro: "Capelle aan den IJssel", en: "Capelle aan den IJssel" },
@@ -18247,6 +21856,69 @@ export const netherlandsCitiesV2: POI[] = [
                         5.547548,
                         52.015275
                   ]
+            },
+            {
+                  "name": "Speelotheek Veenendaal",
+                  "text": "Speelotheek Veenendaal ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.544868,
+                        52.026081
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Pol",
+                  "text": "Speeltuin De Pol in Veenendaal ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.557007,
+                        52.034797
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Hoorntje",
+                  "text": "Speeltuin 't Hoorntje in Veenendaal ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.544206,
+                        52.0321
+                  ]
+            },
+            {
+                  "name": "Linge",
+                  "text": "Linge in Veenendaal ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.530946,
+                        52.02325
+                  ]
+            },
+            {
+                  "name": "Koenestraat",
+                  "text": "Koenestraat in Veenendaal ist ein lokaler Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.585309,
+                        52.021576
+                  ]
+            },
+            {
+                  "name": "Stadsstrand",
+                  "text": "Stadsstrand in Veenendaal ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.558008,
+                        52.027296
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Natuurspeeltuin in Veenendaal ist ein Spielplatz in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        5.536641,
+                        52.012019
+                  ]
             }
       ],
       "hu": [
@@ -18437,6 +22109,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.547548,
                         52.015275
+                  ]
+            },
+            {
+                  "name": "Speelotheek Veenendaal",
+                  "text": "A veenendaali Speelotheek Veenendaal egy játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.544868,
+                        52.026081
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Pol",
+                  "text": "A veenendaali Speeltuin De Pol egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.557007,
+                        52.034797
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Hoorntje",
+                  "text": "A veenendaali Speeltuin 't Hoorntje egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.544206,
+                        52.0321
+                  ]
+            },
+            {
+                  "name": "Linge",
+                  "text": "A veenendaali Linge egy játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.530946,
+                        52.02325
+                  ]
+            },
+            {
+                  "name": "Koenestraat",
+                  "text": "A veenendaali Koenestraat egy helyi játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.585309,
+                        52.021576
+                  ]
+            },
+            {
+                  "name": "Stadsstrand",
+                  "text": "A veenendaali Stadsstrand egy játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.558008,
+                        52.027296
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "A veenendaali Natuurspeeltuin egy játszótér a természetben.",
+                  "category": "family",
+                  "coords": [
+                        5.536641,
+                        52.012019
                   ]
             }
       ],
@@ -18629,6 +22364,69 @@ export const netherlandsCitiesV2: POI[] = [
                         5.547548,
                         52.015275
                   ]
+            },
+            {
+                  "name": "Speelotheek Veenendaal",
+                  "text": "Speelotheek Veenendaal este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.544868,
+                        52.026081
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Pol",
+                  "text": "Speeltuin De Pol din Veenendaal este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.557007,
+                        52.034797
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Hoorntje",
+                  "text": "Speeltuin 't Hoorntje din Veenendaal este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.544206,
+                        52.0321
+                  ]
+            },
+            {
+                  "name": "Linge",
+                  "text": "Linge din Veenendaal este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.530946,
+                        52.02325
+                  ]
+            },
+            {
+                  "name": "Koenestraat",
+                  "text": "Koenestraat din Veenendaal este un loc de joacă local pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.585309,
+                        52.021576
+                  ]
+            },
+            {
+                  "name": "Stadsstrand",
+                  "text": "Stadsstrand din Veenendaal este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.558008,
+                        52.027296
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Natuurspeeltuin din Veenendaal este un loc de joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        5.536641,
+                        52.012019
+                  ]
             }
       ],
       "en": [
@@ -18819,6 +22617,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.547548,
                         52.015275
+                  ]
+            },
+            {
+                  "name": "Speelotheek Veenendaal",
+                  "text": "Speelotheek Veenendaal is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        5.544868,
+                        52.026081
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Pol",
+                  "text": "Speeltuin De Pol in Veenendaal is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.557007,
+                        52.034797
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Hoorntje",
+                  "text": "Speeltuin 't Hoorntje in Veenendaal is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.544206,
+                        52.0321
+                  ]
+            },
+            {
+                  "name": "Linge",
+                  "text": "Linge in Veenendaal is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        5.530946,
+                        52.02325
+                  ]
+            },
+            {
+                  "name": "Koenestraat",
+                  "text": "Koenestraat in Veenendaal is a local playground for children.",
+                  "category": "family",
+                  "coords": [
+                        5.585309,
+                        52.021576
+                  ]
+            },
+            {
+                  "name": "Stadsstrand",
+                  "text": "Stadsstrand in Veenendaal is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        5.558008,
+                        52.027296
+                  ]
+            },
+            {
+                  "name": "Natuurspeeltuin",
+                  "text": "Natuurspeeltuin in Veenendaal is a playground in nature.",
+                  "category": "family",
+                  "coords": [
+                        5.536641,
+                        52.012019
                   ]
             }
       ]
@@ -19075,6 +22936,96 @@ export const netherlandsCitiesV2: POI[] = [
                         4.425141,
                         52.193796
                   ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "Ein ruhiger See bei Katwijk, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Ein schöner See in der Nähe von Katwijk, der zu Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Ein Gewässer bei Katwijk, das eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Ein kleiner See in Katwijk für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Ein lokaler See bei Katwijk, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Ein beliebter See bei Katwijk für Erholung und Freizeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Ein großer See bei Katwijk, der viel Platz für Aktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Ein kleinerer See in Katwijk für eine kurze Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Speeltuin Valkenburg",
+                  "text": "Ein schöner Spielplatz in Katwijk für den täglichen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.426933,
+                        52.180963
+                  ]
+            },
+            {
+                  "name": "De Krokobil",
+                  "text": "Ein fantasievoller Ort in Katwijk zum Spielen und Entdecken für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.446377,
+                        52.196183
+                  ]
             }
       ],
       "hu": [
@@ -19283,6 +23234,96 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "Nyugodt tó Katwijk közelében, amely ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Szép tó Katwijk környékén, amely vízparti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Katwijk közeli vízfelület, amely pihentető légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Egy kis tó Katwijkban a természetbeni nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Helyi tó Katwijk közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Népszerű tó Katwijk környékén a vízparti kikapcsolódáshoz és szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Nagy tó Katwijk közelében, amely tágas helyet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Kisebb tó Katwijkban egy rövid vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Speeltuin Valkenburg",
+                  "text": "Szép játszótér Katwijkban a mindennapi családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.426933,
+                        52.180963
+                  ]
+            },
+            {
+                  "name": "De Krokobil",
+                  "text": "Fantáziadús hely Katwijkban a gyerekek számára a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        4.446377,
+                        52.196183
                   ]
             }
       ],
@@ -19493,6 +23534,96 @@ export const netherlandsCitiesV2: POI[] = [
                         4.425141,
                         52.193796
                   ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "Un lac liniștit lângă Katwijk, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Un lac frumos lângă Katwijk, care invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Un ochi de apă lângă Katwijk, care oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Un mic lac în Katwijk pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Un lac local lângă Katwijk, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Un lac popular lângă Katwijk pentru recreere și petrecerea timpului liber pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Un lac mare lângă Katwijk, care oferă mult spațiu pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Un lac mai mic în Katwijk pentru o scurtă pauză pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Speeltuin Valkenburg",
+                  "text": "Un loc de joacă frumos în Katwijk pentru distracția zilnică a familiei.",
+                  "category": "family",
+                  "coords": [
+                        4.426933,
+                        52.180963
+                  ]
+            },
+            {
+                  "name": "De Krokobil",
+                  "text": "Un loc plin de imaginație în Katwijk pentru copii, unde se pot juca și explora.",
+                  "category": "family",
+                  "coords": [
+                        4.446377,
+                        52.196183
+                  ]
             }
       ],
       "en": [
@@ -19701,6 +23832,96 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "A peaceful lake near Katwijk, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "A lovely lake near Katwijk, perfect for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "A body of water near Katwijk offering a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "A small lake in Katwijk for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "A local lake near Katwijk, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "A popular lake near Katwijk for recreation and leisure by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "A large lake near Katwijk offering plenty of space for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "A smaller lake in Katwijk for a short break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Speeltuin Valkenburg",
+                  "text": "A nice playground in Katwijk for daily family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.426933,
+                        52.180963
+                  ]
+            },
+            {
+                  "name": "De Krokobil",
+                  "text": "An imaginative place in Katwijk for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        4.446377,
+                        52.196183
                   ]
             }
       ]
@@ -25708,6 +29929,78 @@ export const netherlandsCitiesV2: POI[] = [
                         3.837652,
                         51.327034
                   ]
+            },
+            {
+                  "name": "Grote Kil",
+                  "text": "Ein See in Terneuzen, der sich zum Spazierengehen und zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        3.777626,
+                        51.258678
+                  ]
+            },
+            {
+                  "name": "Kleine Kil",
+                  "text": "Ein See in Terneuzen, ideal für Naturbeobachtungen und ruhige Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        3.789832,
+                        51.256067
+                  ]
+            },
+            {
+                  "name": "Spaarbekkens",
+                  "text": "Ein See in Terneuzen, der eine ruhige Umgebung für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.734653,
+                        51.304803
+                  ]
+            },
+            {
+                  "name": "Hollands Gat",
+                  "text": "Ein lokaler See in Terneuzen, geeignet für Erholung und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        3.775763,
+                        51.26149
+                  ]
+            },
+            {
+                  "name": "Otheensche Kreek",
+                  "text": "Ein Gewässer in Terneuzen, das sich gut für entspannte Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        3.874459,
+                        51.315729
+                  ]
+            },
+            {
+                  "name": "Braakmankreek",
+                  "text": "Ein See in Terneuzen, der zu Ausflügen in die Natur und zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.745834,
+                        51.322603
+                  ]
+            },
+            {
+                  "name": "Oranjekwartier",
+                  "text": "Ein familienfreundlicher Spielplatz in Terneuzen für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        3.840419,
+                        51.332792
+                  ]
+            },
+            {
+                  "name": "Wikado speeltuin",
+                  "text": "Ein Spielplatz in Terneuzen, der verschiedene Spielmöglichkeiten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.822934,
+                        51.340723
+                  ]
             }
       ],
       "hu": [
@@ -25799,6 +30092,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         3.837652,
                         51.327034
+                  ]
+            },
+            {
+                  "name": "Grote Kil",
+                  "text": "Egy tó Terneuzen közelében, amely alkalmas sétákra és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        3.777626,
+                        51.258678
+                  ]
+            },
+            {
+                  "name": "Kleine Kil",
+                  "text": "Egy tó Terneuzen területén, amely ideális a természet megfigyelésére és csendes sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        3.789832,
+                        51.256067
+                  ]
+            },
+            {
+                  "name": "Spaarbekkens",
+                  "text": "Egy tó Terneuzen városában, amely nyugodt környezetet biztosít a szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.734653,
+                        51.304803
+                  ]
+            },
+            {
+                  "name": "Hollands Gat",
+                  "text": "Helyi tó Terneuzen közelében, amely alkalmas kikapcsolódásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        3.775763,
+                        51.26149
+                  ]
+            },
+            {
+                  "name": "Otheensche Kreek",
+                  "text": "Egy vízfelület Terneuzenben, amely kiválóan alkalmas pihentető vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        3.874459,
+                        51.315729
+                  ]
+            },
+            {
+                  "name": "Braakmankreek",
+                  "text": "Egy tó Terneuzen területén, amely természeti kirándulásokra és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        3.745834,
+                        51.322603
+                  ]
+            },
+            {
+                  "name": "Oranjekwartier",
+                  "text": "Családbarát játszótér Terneuzen városában, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        3.840419,
+                        51.332792
+                  ]
+            },
+            {
+                  "name": "Wikado speeltuin",
+                  "text": "Játszótér Terneuzenben, amely különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.822934,
+                        51.340723
                   ]
             }
       ],
@@ -25892,6 +30257,78 @@ export const netherlandsCitiesV2: POI[] = [
                         3.837652,
                         51.327034
                   ]
+            },
+            {
+                  "name": "Grote Kil",
+                  "text": "Un lac în Terneuzen, potrivit pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        3.777626,
+                        51.258678
+                  ]
+            },
+            {
+                  "name": "Kleine Kil",
+                  "text": "Un lac în Terneuzen, ideal pentru observarea naturii și plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        3.789832,
+                        51.256067
+                  ]
+            },
+            {
+                  "name": "Spaarbekkens",
+                  "text": "Un lac în Terneuzen, care oferă un mediu liniștit pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        3.734653,
+                        51.304803
+                  ]
+            },
+            {
+                  "name": "Hollands Gat",
+                  "text": "Un lac local în Terneuzen, potrivit pentru recreere și bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.775763,
+                        51.26149
+                  ]
+            },
+            {
+                  "name": "Otheensche Kreek",
+                  "text": "O întindere de apă în Terneuzen, potrivită pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        3.874459,
+                        51.315729
+                  ]
+            },
+            {
+                  "name": "Braakmankreek",
+                  "text": "Un lac în Terneuzen, care invită la excursii în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        3.745834,
+                        51.322603
+                  ]
+            },
+            {
+                  "name": "Oranjekwartier",
+                  "text": "Un loc de joacă pentru familii în Terneuzen, unde copiii se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        3.840419,
+                        51.332792
+                  ]
+            },
+            {
+                  "name": "Wikado speeltuin",
+                  "text": "Un loc de joacă în Terneuzen, care oferă diverse facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.822934,
+                        51.340723
+                  ]
             }
       ],
       "en": [
@@ -25983,6 +30420,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         3.837652,
                         51.327034
+                  ]
+            },
+            {
+                  "name": "Grote Kil",
+                  "text": "A lake in Terneuzen suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        3.777626,
+                        51.258678
+                  ]
+            },
+            {
+                  "name": "Kleine Kil",
+                  "text": "A lake in Terneuzen ideal for nature observation and quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        3.789832,
+                        51.256067
+                  ]
+            },
+            {
+                  "name": "Spaarbekkens",
+                  "text": "A lake in Terneuzen providing a calm environment for outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        3.734653,
+                        51.304803
+                  ]
+            },
+            {
+                  "name": "Hollands Gat",
+                  "text": "A local lake in Terneuzen suitable for recreation and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.775763,
+                        51.26149
+                  ]
+            },
+            {
+                  "name": "Otheensche Kreek",
+                  "text": "A body of water in Terneuzen well-suited for relaxed walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        3.874459,
+                        51.315729
+                  ]
+            },
+            {
+                  "name": "Braakmankreek",
+                  "text": "A lake in Terneuzen that invites nature excursions and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        3.745834,
+                        51.322603
+                  ]
+            },
+            {
+                  "name": "Oranjekwartier",
+                  "text": "A family-friendly playground in Terneuzen for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        3.840419,
+                        51.332792
+                  ]
+            },
+            {
+                  "name": "Wikado speeltuin",
+                  "text": "A playground in Terneuzen offering various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        3.822934,
+                        51.340723
                   ]
             }
       ]
@@ -26150,6 +30659,51 @@ export const netherlandsCitiesV2: POI[] = [
                         6.10086,
                         53.106249
                   ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien ist ein malerischer See bei Drachten, der sich ideal für entspannte Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel in Drachten ist ein schöner Spielplatz, der Kindern sicheren Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp in Drachten ist ein beliebter Abenteuerspielplatz für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Der Verkeerstuin in Drachten bietet Kindern eine spielerische Umgebung, um sich im Freien zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh in Drachten ist ein lokaler Spielplatz, der zum Verweilen und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
             }
       ],
       "hu": [
@@ -26268,6 +30822,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.10086,
                         53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "A De Leien egy festői tó Drachten közelében, amely ideális választás a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "A drachteni Speeltuin de Peppel egy kedves játszótér, amely biztonságos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "A drachteni Spijkerdorp egy népszerű kalandjátszótér a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "A drachteni Verkeerstuin játékos környezetet biztosít a gyerekeknek a szabadtéri mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "A drachteni Speeltuin Vrijburgh egy helyi játszótér, amely játékra és kikapcsolódásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
                   ]
             }
       ],
@@ -26388,6 +30987,51 @@ export const netherlandsCitiesV2: POI[] = [
                         6.10086,
                         53.106249
                   ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien este un lac pitoresc de lângă Drachten, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel din Drachten este un loc de joacă frumos, care oferă copiilor un spațiu sigur de distracție.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp din Drachten este un teren de joacă de aventură popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Verkeerstuin din Drachten oferă copiilor un mediu jucăuș pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh din Drachten este un loc de joacă local care invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
             }
       ],
       "en": [
@@ -26506,6 +31150,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.10086,
                         53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien is a scenic lake near Drachten, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel in Drachten is a lovely playground offering children a safe space to play.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp in Drachten is a popular adventure playground for families with children.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Verkeerstuin in Drachten provides a playful environment for children to enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh in Drachten is a local playground that invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
                   ]
             }
       ]
@@ -26681,6 +31370,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.066002,
                         51.657951
                   ]
+            },
+            {
+                  "name": "'t Blauwe Meer",
+                  "text": "Ein klarer See bei Waalwijk, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.060014,
+                        51.614523
+                  ]
+            },
+            {
+                  "name": "Vlindervennen",
+                  "text": "Ein ruhiges Gewässer in Waalwijk, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.055255,
+                        51.612342
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Ein moderner Trampolinpark in Waalwijk für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.059365,
+                        51.679371
+                  ]
+            },
+            {
+                  "name": "High Score",
+                  "text": "Eine unterhaltsame Spielhalle in Waalwijk mit vielen verschiedenen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.053805,
+                        51.67671
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Eine klassische Minigolfanlage in Waalwijk für ein Vergnügen mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.063158,
+                        51.660523
+                  ]
             }
       ],
       "hu": [
@@ -26808,6 +31542,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.066002,
                         51.657951
+                  ]
+            },
+            {
+                  "name": "'t Blauwe Meer",
+                  "text": "Tiszta vizű tó Waalwijk közelében, ideális egy természetbeni kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.060014,
+                        51.614523
+                  ]
+            },
+            {
+                  "name": "Vlindervennen",
+                  "text": "Nyugodt vízfelület Waalwijkban, amely időzésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.055255,
+                        51.612342
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Modern trambulinpark Waalwijkban az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.059365,
+                        51.679371
+                  ]
+            },
+            {
+                  "name": "High Score",
+                  "text": "Szórakoztató játékterem Waalwijkban sokféle játékkal.",
+                  "category": "family",
+                  "coords": [
+                        5.053805,
+                        51.67671
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Klasszikus minigolfpálya Waalwijkban a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.063158,
+                        51.660523
                   ]
             }
       ],
@@ -26937,6 +31716,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.066002,
                         51.657951
                   ]
+            },
+            {
+                  "name": "'t Blauwe Meer",
+                  "text": "Un lac cu apă limpede lângă Waalwijk, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.060014,
+                        51.614523
+                  ]
+            },
+            {
+                  "name": "Vlindervennen",
+                  "text": "Un ochi de apă liniștit în Waalwijk, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.055255,
+                        51.612342
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Un parc de trambuline modern în Waalwijk pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.059365,
+                        51.679371
+                  ]
+            },
+            {
+                  "name": "High Score",
+                  "text": "O sală de jocuri distractivă în Waalwijk, cu multe jocuri diferite.",
+                  "category": "family",
+                  "coords": [
+                        5.053805,
+                        51.67671
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Un teren de minigolf clasic în Waalwijk pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.063158,
+                        51.660523
+                  ]
             }
       ],
       "en": [
@@ -27065,6 +31889,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.066002,
                         51.657951
                   ]
+            },
+            {
+                  "name": "'t Blauwe Meer",
+                  "text": "A clear lake near Waalwijk, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.060014,
+                        51.614523
+                  ]
+            },
+            {
+                  "name": "Vlindervennen",
+                  "text": "A peaceful body of water in Waalwijk that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        5.055255,
+                        51.612342
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "A modern trampoline park in Waalwijk for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        5.059365,
+                        51.679371
+                  ]
+            },
+            {
+                  "name": "High Score",
+                  "text": "An entertaining amusement arcade in Waalwijk with many different games.",
+                  "category": "family",
+                  "coords": [
+                        5.053805,
+                        51.67671
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "A classic miniature golf course in Waalwijk for family enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        5.063158,
+                        51.660523
+                  ]
             }
       ]
 },
@@ -27112,7 +31981,160 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-waalwijk-cities-v2.webp",
   },
   {
-    id: "netherlands-hoogeveen-cities-v2",
+    id: "netherlands-hoogeveen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vlinderdijk",
+                  "text": "Ein Spielplatz in Hoogeveen, der Freizeitspaß für Familien im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.448202,
+                        52.713418
+                  ]
+            },
+            {
+                  "name": "Mantingerplein",
+                  "text": "Ein zentral gelegener Spielplatz in Hoogeveen für Kinder aller Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        6.455926,
+                        52.722003
+                  ]
+            },
+            {
+                  "name": "Het Eksternest",
+                  "text": "Ein Spielplatz in Hoogeveen, der zu aktiven Spielstunden für Kinder einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.507694,
+                        52.717469
+                  ]
+            },
+            {
+                  "name": "Plein 20",
+                  "text": "Ein öffentlicher Spielplatz in Hoogeveen, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        6.487385,
+                        52.725438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vlinderdijk",
+                  "text": "Játszótér Hoogeveen városában, amely szabadtéri szórakozást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.448202,
+                        52.713418
+                  ]
+            },
+            {
+                  "name": "Mantingerplein",
+                  "text": "Központi fekvésű játszótér Hoogeveenben, minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        6.455926,
+                        52.722003
+                  ]
+            },
+            {
+                  "name": "Het Eksternest",
+                  "text": "Játszótér Hoogeveen területén, amely aktív játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        6.507694,
+                        52.717469
+                  ]
+            },
+            {
+                  "name": "Plein 20",
+                  "text": "Nyilvános játszótér Hoogeveenben, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.487385,
+                        52.725438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vlinderdijk",
+                  "text": "Un loc de joacă în Hoogeveen, care oferă distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.448202,
+                        52.713418
+                  ]
+            },
+            {
+                  "name": "Mantingerplein",
+                  "text": "Un loc de joacă situat central în Hoogeveen pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.455926,
+                        52.722003
+                  ]
+            },
+            {
+                  "name": "Het Eksternest",
+                  "text": "Un loc de joacă în Hoogeveen, care invită copiii la ore de joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        6.507694,
+                        52.717469
+                  ]
+            },
+            {
+                  "name": "Plein 20",
+                  "text": "Un loc de joacă public în Hoogeveen, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        6.487385,
+                        52.725438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vlinderdijk",
+                  "text": "A playground in Hoogeveen offering outdoor recreational fun for families.",
+                  "category": "family",
+                  "coords": [
+                        6.448202,
+                        52.713418
+                  ]
+            },
+            {
+                  "name": "Mantingerplein",
+                  "text": "A centrally located playground in Hoogeveen for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.455926,
+                        52.722003
+                  ]
+            },
+            {
+                  "name": "Het Eksternest",
+                  "text": "A playground in Hoogeveen that invites children to active play sessions.",
+                  "category": "family",
+                  "coords": [
+                        6.507694,
+                        52.717469
+                  ]
+            },
+            {
+                  "name": "Plein 20",
+                  "text": "A public playground in Hoogeveen ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        6.487385,
+                        52.725438
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Hoogeveen", hu: "Hoogeveen", ro: "Hoogeveen", en: "Hoogeveen" },
@@ -27157,7 +32179,160 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-hoogeveen-cities-v2.webp",
   },
   {
-    id: "netherlands-wageningen-cities-v2",
+    id: "netherlands-wageningen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grebbeplas",
+                  "text": "Die Grebbeplas in Wageningen ist ein ruhiger See, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Tuindorp",
+                  "text": "Tuindorp in Wageningen ist ein familienfreundlicher Spielplatz mit verschiedenen Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.669335,
+                        51.97502
+                  ]
+            },
+            {
+                  "name": "Speelplein pleintje boven",
+                  "text": "Der Speelplein pleintje boven in Wageningen ist ein einladender Ort für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.671342,
+                        51.969934
+                  ]
+            },
+            {
+                  "name": "Prof. Quanjerstraat",
+                  "text": "Der Spielplatz in der Prof. Quanjerstraat in Wageningen bietet eine sichere Umgebung für den täglichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.643032,
+                        51.969472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grebbeplas",
+                  "text": "A wageningeni Grebbeplas egy nyugodt tó, amely kellemes kikapcsolódást nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Tuindorp",
+                  "text": "A wageningeni Tuindorp egy családbarát játszótér különféle játéklehetőségekkel a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.669335,
+                        51.97502
+                  ]
+            },
+            {
+                  "name": "Speelplein pleintje boven",
+                  "text": "A wageningeni Speelplein pleintje boven egy barátságos helyszín a gyerekek szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        5.671342,
+                        51.969934
+                  ]
+            },
+            {
+                  "name": "Prof. Quanjerstraat",
+                  "text": "A wageningeni Prof. Quanjerstraat játszótere biztonságos környezetet nyújt a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.643032,
+                        51.969472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grebbeplas",
+                  "text": "Grebbeplas din Wageningen este un lac liniștit, care oferă momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Tuindorp",
+                  "text": "Tuindorp din Wageningen este un loc de joacă prietenos pentru familii, cu diverse dotări pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.669335,
+                        51.97502
+                  ]
+            },
+            {
+                  "name": "Speelplein pleintje boven",
+                  "text": "Speelplein pleintje boven din Wageningen este un loc primitor pentru joaca în aer liber a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        5.671342,
+                        51.969934
+                  ]
+            },
+            {
+                  "name": "Prof. Quanjerstraat",
+                  "text": "Locul de joacă din Prof. Quanjerstraat, Wageningen, oferă un mediu sigur pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        5.643032,
+                        51.969472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grebbeplas",
+                  "text": "Grebbeplas in Wageningen is a peaceful lake, perfect for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Tuindorp",
+                  "text": "Tuindorp in Wageningen is a family-friendly playground with various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        5.669335,
+                        51.97502
+                  ]
+            },
+            {
+                  "name": "Speelplein pleintje boven",
+                  "text": "Speelplein pleintje boven in Wageningen is a welcoming spot for children's outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.671342,
+                        51.969934
+                  ]
+            },
+            {
+                  "name": "Prof. Quanjerstraat",
+                  "text": "The playground at Prof. Quanjerstraat in Wageningen offers a safe environment for daily play.",
+                  "category": "family",
+                  "coords": [
+                        5.643032,
+                        51.969472
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Wageningen", hu: "Wageningen", ro: "Wageningen", en: "Wageningen" },
@@ -27293,6 +32468,33 @@ export const netherlandsCitiesV2: POI[] = [
                         5.452997,
                         51.903482
                   ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Ein schöner See bei Tiel, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
+            },
+            {
+                  "name": "GlowGolf",
+                  "text": "Ein besonderes Minigolf-Erlebnis in Tiel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.449795,
+                        51.898317
+                  ]
+            },
+            {
+                  "name": "speeltuin Maurikstraat",
+                  "text": "Ein kinderfreundlicher Spielplatz in Tiel für tägliches Vergnügen.",
+                  "category": "family",
+                  "coords": [
+                        5.418117,
+                        51.880781
+                  ]
             }
       ],
       "hu": [
@@ -27384,6 +32586,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.452997,
                         51.903482
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Szép tó Tiel közelében, amely alkalmas vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
+            },
+            {
+                  "name": "GlowGolf",
+                  "text": "Különleges minigolf élmény Tielben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        5.449795,
+                        51.898317
+                  ]
+            },
+            {
+                  "name": "speeltuin Maurikstraat",
+                  "text": "Gyerekbarát játszótér Tielben a mindennapi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.418117,
+                        51.880781
                   ]
             }
       ],
@@ -27477,6 +32706,33 @@ export const netherlandsCitiesV2: POI[] = [
                         5.452997,
                         51.903482
                   ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Un lac frumos lângă Tiel, potrivit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
+            },
+            {
+                  "name": "GlowGolf",
+                  "text": "O experiență deosebită de minigolf în Tiel pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.449795,
+                        51.898317
+                  ]
+            },
+            {
+                  "name": "speeltuin Maurikstraat",
+                  "text": "Un loc de joacă prietenos pentru copii în Tiel pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        5.418117,
+                        51.880781
+                  ]
             }
       ],
       "en": [
@@ -27568,6 +32824,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.452997,
                         51.903482
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "A lovely lake near Tiel, suitable for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
+            },
+            {
+                  "name": "GlowGolf",
+                  "text": "A special miniature golf experience in Tiel for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.449795,
+                        51.898317
+                  ]
+            },
+            {
+                  "name": "speeltuin Maurikstraat",
+                  "text": "A child-friendly playground in Tiel for daily enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        5.418117,
+                        51.880781
                   ]
             }
       ]
@@ -27661,7 +32944,196 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-winterswijk-cities-v2.webp",
   },
   {
-    id: "netherlands-hardinxveld-giessendam-cities-v2",
+    id: "netherlands-hardinxveld-giessendam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petrusplaat",
+                  "text": "Die Petrusplaat bei Hardinxveld Giessendam ist ein weitläufiges Gewässer, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        4.774608,
+                        51.757452
+                  ]
+            },
+            {
+                  "name": "Klompéstraat Playground",
+                  "text": "Der Klompéstraat Playground in Hardinxveld Giessendam bietet Kindern Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        4.828841,
+                        51.82551
+                  ]
+            },
+            {
+                  "name": "Het Weitje",
+                  "text": "Het Weitje in Hardinxveld Giessendam ist ein charmanter Spielplatz für den Familienausflug im Ort.",
+                  "category": "family",
+                  "coords": [
+                        4.856623,
+                        51.827268
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morel",
+                  "text": "Speeltuin Morel in Hardinxveld Giessendam ist ein beliebter Treffpunkt für Kinder zum gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.814195,
+                        51.826382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bederode",
+                  "text": "Speeltuin Bederode in Hardinxveld Giessendam bietet vielfältige Möglichkeiten für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.812284,
+                        51.827913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petrusplaat",
+                  "text": "A Hardinxveld Giessendam melletti Petrusplaat egy tágas vízfelület, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        4.774608,
+                        51.757452
+                  ]
+            },
+            {
+                  "name": "Klompéstraat Playground",
+                  "text": "A Hardinxveld Giessendam-i Klompéstraat játszótér teret biztosít a gyerekeknek a mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.828841,
+                        51.82551
+                  ]
+            },
+            {
+                  "name": "Het Weitje",
+                  "text": "A Hardinxveld Giessendam-i Het Weitje egy bájos játszótér a helyi családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.856623,
+                        51.827268
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morel",
+                  "text": "A Hardinxveld Giessendam-i Speeltuin Morel népszerű találkozóhely a gyerekek közös játékához.",
+                  "category": "family",
+                  "coords": [
+                        4.814195,
+                        51.826382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bederode",
+                  "text": "A Hardinxveld Giessendam-i Speeltuin Bederode változatos lehetőségeket kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.812284,
+                        51.827913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petrusplaat",
+                  "text": "Petrusplaat de lângă Hardinxveld Giessendam este o întindere mare de apă, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.774608,
+                        51.757452
+                  ]
+            },
+            {
+                  "name": "Klompéstraat Playground",
+                  "text": "Locul de joacă Klompéstraat din Hardinxveld Giessendam oferă spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.828841,
+                        51.82551
+                  ]
+            },
+            {
+                  "name": "Het Weitje",
+                  "text": "Het Weitje din Hardinxveld Giessendam este un loc de joacă fermecător pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.856623,
+                        51.827268
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morel",
+                  "text": "Speeltuin Morel din Hardinxveld Giessendam este un punct de întâlnire popular pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.814195,
+                        51.826382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bederode",
+                  "text": "Speeltuin Bederode din Hardinxveld Giessendam oferă diverse oportunități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.812284,
+                        51.827913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petrusplaat",
+                  "text": "Petrusplaat near Hardinxveld Giessendam is a large body of water, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        4.774608,
+                        51.757452
+                  ]
+            },
+            {
+                  "name": "Klompéstraat Playground",
+                  "text": "Klompéstraat Playground in Hardinxveld Giessendam provides space for children to exercise and play.",
+                  "category": "family",
+                  "coords": [
+                        4.828841,
+                        51.82551
+                  ]
+            },
+            {
+                  "name": "Het Weitje",
+                  "text": "Het Weitje in Hardinxveld Giessendam is a charming playground for local family outings.",
+                  "category": "family",
+                  "coords": [
+                        4.856623,
+                        51.827268
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morel",
+                  "text": "Speeltuin Morel in Hardinxveld Giessendam is a popular gathering spot for children to play together.",
+                  "category": "family",
+                  "coords": [
+                        4.814195,
+                        51.826382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bederode",
+                  "text": "Speeltuin Bederode in Hardinxveld Giessendam offers diverse opportunities for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        4.812284,
+                        51.827913
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Hardinxveld-Giessendam", hu: "Hardinxveld-Giessendam", ro: "Hardinxveld-Giessendam", en: "Hardinxveld-Giessendam" },
@@ -27770,6 +33242,33 @@ export const netherlandsCitiesV2: POI[] = [
                         6.638909,
                         52.346756
                   ]
+            },
+            {
+                  "name": "Leemslagenplas",
+                  "text": "Ein See in Wierden, der sich zum Wandern und für die schöne Aussicht eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.614818,
+                        52.33688
+                  ]
+            },
+            {
+                  "name": "Waterbuffer Dakhorst",
+                  "text": "Ein Gewässer in Wierden, ideal für Naturfreunde und ruhige Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        6.586129,
+                        52.328941
+                  ]
+            },
+            {
+                  "name": "De Klimkuil",
+                  "text": "Ein Spielplatz in Wierden, der Kindern Raum zum Klettern und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.583665,
+                        52.353943
+                  ]
             }
       ],
       "hu": [
@@ -27789,6 +33288,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.638909,
                         52.346756
+                  ]
+            },
+            {
+                  "name": "Leemslagenplas",
+                  "text": "Egy tó Wierden közelében, amely alkalmas sétákra és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        6.614818,
+                        52.33688
+                  ]
+            },
+            {
+                  "name": "Waterbuffer Dakhorst",
+                  "text": "Egy vízfelület Wierden területén, amely ideális a természet kedvelőinek és a nyugodt pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        6.586129,
+                        52.328941
+                  ]
+            },
+            {
+                  "name": "De Klimkuil",
+                  "text": "Játszótér Wierden városában, amely mászási és játéklehetőséget biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.583665,
+                        52.353943
                   ]
             }
       ],
@@ -27810,6 +33336,33 @@ export const netherlandsCitiesV2: POI[] = [
                         6.638909,
                         52.346756
                   ]
+            },
+            {
+                  "name": "Leemslagenplas",
+                  "text": "Un lac în Wierden, potrivit pentru plimbări și oferind o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        6.614818,
+                        52.33688
+                  ]
+            },
+            {
+                  "name": "Waterbuffer Dakhorst",
+                  "text": "O întindere de apă în Wierden, ideală pentru iubitorii de natură și recreere liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        6.586129,
+                        52.328941
+                  ]
+            },
+            {
+                  "name": "De Klimkuil",
+                  "text": "Un loc de joacă în Wierden, care oferă copiilor spațiu pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.583665,
+                        52.353943
+                  ]
             }
       ],
       "en": [
@@ -27829,6 +33382,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.638909,
                         52.346756
+                  ]
+            },
+            {
+                  "name": "Leemslagenplas",
+                  "text": "A lake in Wierden suitable for walking and offering a nice view.",
+                  "category": "natural",
+                  "coords": [
+                        6.614818,
+                        52.33688
+                  ]
+            },
+            {
+                  "name": "Waterbuffer Dakhorst",
+                  "text": "A body of water in Wierden ideal for nature lovers and quiet recreation.",
+                  "category": "natural",
+                  "coords": [
+                        6.586129,
+                        52.328941
+                  ]
+            },
+            {
+                  "name": "De Klimkuil",
+                  "text": "A playground in Wierden providing space for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        6.583665,
+                        52.353943
                   ]
             }
       ]
@@ -27877,7 +33457,196 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-wierden-cities-v2.webp",
   },
   {
-    id: "netherlands-ijsselstein-cities-v2",
+    id: "netherlands-ijsselstein-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nova Zembla",
+                  "text": "Nova Zembla in Ijsselstein ist ein lebendiger Spielplatz, der Kindern abwechslungsreiche Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.05536,
+                        52.019035
+                  ]
+            },
+            {
+                  "name": "Schatkaart",
+                  "text": "Schatkaart in Ijsselstein ist ein fantasievoll gestalteter Spielplatz für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        5.046459,
+                        52.012394
+                  ]
+            },
+            {
+                  "name": "Hazenveld",
+                  "text": "Hazenveld in Ijsselstein bietet eine angenehme Atmosphäre für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.051317,
+                        52.02055
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kloosterplantsoen",
+                  "text": "Speeltuin Kloosterplantsoen in Ijsselstein ist eine schöne Anlage für Familien inmitten der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        5.047813,
+                        52.019209
+                  ]
+            },
+            {
+                  "name": "Merwedestraat",
+                  "text": "Der Spielplatz in der Merwedestraat in Ijsselstein bietet sichere Klettermöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.037825,
+                        52.01282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nova Zembla",
+                  "text": "Az ijsselsteini Nova Zembla egy élettel teli játszótér, amely változatos tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.05536,
+                        52.019035
+                  ]
+            },
+            {
+                  "name": "Schatkaart",
+                  "text": "Az ijsselsteini Schatkaart egy fantáziadúsan kialakított játszótér a kis felfedezők számára.",
+                  "category": "family",
+                  "coords": [
+                        5.046459,
+                        52.012394
+                  ]
+            },
+            {
+                  "name": "Hazenveld",
+                  "text": "Az ijsselsteini Hazenveld kellemes környezetet biztosít a gyerekek önfeledt játékához.",
+                  "category": "family",
+                  "coords": [
+                        5.051317,
+                        52.02055
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kloosterplantsoen",
+                  "text": "Az ijsselsteini Speeltuin Kloosterplantsoen egy szép családi játszótér a város szívében.",
+                  "category": "family",
+                  "coords": [
+                        5.047813,
+                        52.019209
+                  ]
+            },
+            {
+                  "name": "Merwedestraat",
+                  "text": "Az ijsselsteini Merwedestraat játszótere biztonságos mászólehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.037825,
+                        52.01282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nova Zembla",
+                  "text": "Nova Zembla din Ijsselstein este un loc de joacă plin de viață, care oferă activități variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.05536,
+                        52.019035
+                  ]
+            },
+            {
+                  "name": "Schatkaart",
+                  "text": "Schatkaart din Ijsselstein este un loc de joacă creativ pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        5.046459,
+                        52.012394
+                  ]
+            },
+            {
+                  "name": "Hazenveld",
+                  "text": "Hazenveld din Ijsselstein oferă o atmosferă plăcută pentru ca micii vizitatori să se joace.",
+                  "category": "family",
+                  "coords": [
+                        5.051317,
+                        52.02055
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kloosterplantsoen",
+                  "text": "Speeltuin Kloosterplantsoen din Ijsselstein este un spațiu frumos pentru familii în centrul orașului.",
+                  "category": "family",
+                  "coords": [
+                        5.047813,
+                        52.019209
+                  ]
+            },
+            {
+                  "name": "Merwedestraat",
+                  "text": "Locul de joacă din Merwedestraat, Ijsselstein, oferă opțiuni sigure de cățărare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.037825,
+                        52.01282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nova Zembla",
+                  "text": "Nova Zembla in Ijsselstein is a lively playground offering varied activities for children.",
+                  "category": "family",
+                  "coords": [
+                        5.05536,
+                        52.019035
+                  ]
+            },
+            {
+                  "name": "Schatkaart",
+                  "text": "Schatkaart in Ijsselstein is an imaginatively designed playground for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        5.046459,
+                        52.012394
+                  ]
+            },
+            {
+                  "name": "Hazenveld",
+                  "text": "Hazenveld in Ijsselstein offers a pleasant atmosphere for children to romp and play.",
+                  "category": "family",
+                  "coords": [
+                        5.051317,
+                        52.02055
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kloosterplantsoen",
+                  "text": "Speeltuin Kloosterplantsoen in Ijsselstein is a beautiful facility for families in the city.",
+                  "category": "family",
+                  "coords": [
+                        5.047813,
+                        52.019209
+                  ]
+            },
+            {
+                  "name": "Merwedestraat",
+                  "text": "The playground at Merwedestraat in Ijsselstein offers safe climbing options for children.",
+                  "category": "family",
+                  "coords": [
+                        5.037825,
+                        52.01282
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "IJsselstein", hu: "IJsselstein", ro: "IJsselstein", en: "IJsselstein" },
@@ -28121,6 +33890,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.952092,
                         52.935746
                   ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Das Tsjûkemar bei Heerenveen ist ein großer See, der für seine schöne Aussicht und Wassersport bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille in Heerenveen ist ein attraktiver Spielplatz, der Freude und Bewegung an die frische Luft bringt.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden in Heerenveen bietet Kindern zahlreiche Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Das Westindiëplein in Heerenveen ist ein öffentlicher Ort mit Spielbereichen für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille in Heerenveen ist ein freundlicher Spielplatz für Kinder jeder Altersgruppe.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
             }
       ],
       "hu": [
@@ -28230,6 +34044,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.952092,
                         52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "A Heerenveen melletti Tsjûkemar egy nagy tó, amely szép kilátásáról és vízi sportjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "A Heerenveen-i Meer Wille egy vonzó játszótér, amely vidámságot és mozgást kínál a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "A Heerenveen-i Speeltuin De Greiden számos mászó- és játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "A Heerenveen-i Westindiëplein egy közösségi tér játszóterületekkel a környékbeliek számára.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "A Heerenveen-i Berne Wille egy barátságos játszótér minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
                   ]
             }
       ],
@@ -28341,6 +34200,51 @@ export const netherlandsCitiesV2: POI[] = [
                         5.952092,
                         52.935746
                   ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Tsjûkemar de lângă Heerenveen este un lac mare, cunoscut pentru priveliștile frumoase și sporturile nautice.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille din Heerenveen este un loc de joacă atractiv, care aduce bucurie și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden din Heerenveen oferă copiilor numeroase posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Westindiëplein din Heerenveen este un spațiu public cu zone de joacă pentru comunitate.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille din Heerenveen este un loc de joacă prietenos pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
             }
       ],
       "en": [
@@ -28450,6 +34354,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.952092,
                         52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Tsjûkemar near Heerenveen is a large lake known for its beautiful views and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille in Heerenveen is an attractive playground that brings joy and movement outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden in Heerenveen offers many opportunities for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Westindiëplein in Heerenveen is a public space with play areas for the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille in Heerenveen is a friendly playground suitable for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
                   ]
             }
       ]
@@ -29471,6 +35420,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.60179,
                         51.866937
                   ]
+            },
+            {
+                  "name": "Maalkom Lorregat",
+                  "text": "Ein ruhiger See in Ridderkerk, ideal für eine kleine Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        4.575005,
+                        51.803281
+                  ]
+            },
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Ein beschaulicher See in Ridderkerk für entspannte Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "De Hole Ridders",
+                  "text": "Eine familienfreundliche Minigolfanlage in Ridderkerk für gemeinsamen Spaß.",
+                  "category": "family",
+                  "coords": [
+                        4.623303,
+                        51.859877
+                  ]
+            },
+            {
+                  "name": "Speeltuin Slikkerveer",
+                  "text": "Ein beliebter Spielplatz in Ridderkerk für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        4.603231,
+                        51.880475
+                  ]
+            },
+            {
+                  "name": "Crocustuin",
+                  "text": "Ein schöner Spielbereich in Ridderkerk für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        4.59615,
+                        51.861864
+                  ]
             }
       ],
       "hu": [
@@ -29607,6 +35601,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
+                  ]
+            },
+            {
+                  "name": "Maalkom Lorregat",
+                  "text": "Nyugodt tó Ridderkerkben, amely ideális egy kis szabadtéri pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        4.575005,
+                        51.803281
+                  ]
+            },
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Békés tó Ridderkerkben a természetbeni pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "De Hole Ridders",
+                  "text": "Családbarát minigolfpálya Ridderkerkben a közös szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.623303,
+                        51.859877
+                  ]
+            },
+            {
+                  "name": "Speeltuin Slikkerveer",
+                  "text": "Népszerű játszótér Ridderkerkben a környékbeli gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.603231,
+                        51.880475
+                  ]
+            },
+            {
+                  "name": "Crocustuin",
+                  "text": "Szép játszóhely Ridderkerkben a kis felfedezők számára.",
+                  "category": "family",
+                  "coords": [
+                        4.59615,
+                        51.861864
                   ]
             }
       ],
@@ -29745,6 +35784,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.60179,
                         51.866937
                   ]
+            },
+            {
+                  "name": "Maalkom Lorregat",
+                  "text": "Un lac liniștit în Ridderkerk, ideal pentru o mică pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        4.575005,
+                        51.803281
+                  ]
+            },
+            {
+                  "name": "Meer der Stilte",
+                  "text": "Un lac liniștit în Ridderkerk pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "De Hole Ridders",
+                  "text": "Un teren de minigolf pentru familii în Ridderkerk pentru distracție împreună.",
+                  "category": "family",
+                  "coords": [
+                        4.623303,
+                        51.859877
+                  ]
+            },
+            {
+                  "name": "Speeltuin Slikkerveer",
+                  "text": "Un loc de joacă popular în Ridderkerk pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        4.603231,
+                        51.880475
+                  ]
+            },
+            {
+                  "name": "Crocustuin",
+                  "text": "O zonă de joacă frumoasă în Ridderkerk pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        4.59615,
+                        51.861864
+                  ]
             }
       ],
       "en": [
@@ -29881,6 +35965,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
+                  ]
+            },
+            {
+                  "name": "Maalkom Lorregat",
+                  "text": "A peaceful lake in Ridderkerk, ideal for a small outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        4.575005,
+                        51.803281
+                  ]
+            },
+            {
+                  "name": "Meer der Stilte",
+                  "text": "A serene lake in Ridderkerk for relaxed moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.628873,
+                        51.870761
+                  ]
+            },
+            {
+                  "name": "De Hole Ridders",
+                  "text": "A family-friendly miniature golf course in Ridderkerk for fun together.",
+                  "category": "family",
+                  "coords": [
+                        4.623303,
+                        51.859877
+                  ]
+            },
+            {
+                  "name": "Speeltuin Slikkerveer",
+                  "text": "A popular playground in Ridderkerk for children from the area.",
+                  "category": "family",
+                  "coords": [
+                        4.603231,
+                        51.880475
+                  ]
+            },
+            {
+                  "name": "Crocustuin",
+                  "text": "A lovely play area in Ridderkerk for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        4.59615,
+                        51.861864
                   ]
             }
       ]
@@ -30065,6 +36194,33 @@ export const netherlandsCitiesV2: POI[] = [
                         6.117983,
                         52.786996
                   ]
+            },
+            {
+                  "name": "Eesermeer",
+                  "text": "Das Eesermeer bei Steenwijk ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.142222,
+                        52.802907
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Die Speelweide in Steenwijk bietet eine große Grünfläche zum Rennen und Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.147996,
+                        52.792558
+                  ]
+            },
+            {
+                  "name": "Residence de Eese",
+                  "text": "Residence de Eese in Steenwijk verfügt über Spielbereiche, die ideal für einen Familienbesuch sind.",
+                  "category": "family",
+                  "coords": [
+                        6.119324,
+                        52.814226
+                  ]
             }
       ],
       "hu": [
@@ -30156,6 +36312,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.117983,
                         52.786996
+                  ]
+            },
+            {
+                  "name": "Eesermeer",
+                  "text": "A Steenwijk melletti Eesermeer egy nyugodt vízfelület, amely pihenésre hívogat a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.142222,
+                        52.802907
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "A Steenwijk-i Speelweide tágas zöld területet biztosít a gyerekeknek a futkározáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.147996,
+                        52.792558
+                  ]
+            },
+            {
+                  "name": "Residence de Eese",
+                  "text": "A Steenwijk-i Residence de Eese játszóterületei ideálisak egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.119324,
+                        52.814226
                   ]
             }
       ],
@@ -30249,6 +36432,33 @@ export const netherlandsCitiesV2: POI[] = [
                         6.117983,
                         52.786996
                   ]
+            },
+            {
+                  "name": "Eesermeer",
+                  "text": "Eesermeer de lângă Steenwijk este o zonă liniștită de apă, ideală pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.142222,
+                        52.802907
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Speelweide din Steenwijk oferă o zonă verde generoasă pentru fuga și joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        6.147996,
+                        52.792558
+                  ]
+            },
+            {
+                  "name": "Residence de Eese",
+                  "text": "Residence de Eese din Steenwijk dispune de zone de joacă ideale pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.119324,
+                        52.814226
+                  ]
             }
       ],
       "en": [
@@ -30340,6 +36550,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.117983,
                         52.786996
+                  ]
+            },
+            {
+                  "name": "Eesermeer",
+                  "text": "Eesermeer near Steenwijk is a calm body of water, inviting for a quiet time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.142222,
+                        52.802907
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Speelweide in Steenwijk offers a large green area for children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        6.147996,
+                        52.792558
+                  ]
+            },
+            {
+                  "name": "Residence de Eese",
+                  "text": "Residence de Eese in Steenwijk features play areas that are perfect for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        6.119324,
+                        52.814226
                   ]
             }
       ]
@@ -32045,6 +38282,96 @@ export const netherlandsCitiesV2: POI[] = [
                         4.675101,
                         52.512171
                   ]
+            },
+            {
+                  "name": "Baggerdepot Averijhaven",
+                  "text": "Ein See in Heemskerk, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.576776,
+                        52.471101
+                  ]
+            },
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Ein weitläufiger See in Heemskerk, ideal für Wassersport und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Ein lokaler See in Heemskerk, der eine ruhige Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Westbroekplas",
+                  "text": "Ein See in Heemskerk, der sich gut für Freizeitaktivitäten am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        4.670707,
+                        52.426026
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "Ein Gewässer in Heemskerk, das zur Beobachtung der lokalen Flora und Fauna einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Ein großer See bei Heemskerk, der für seine schöne Landschaft und Erholungsmöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "PA-Driehoek",
+                  "text": "Ein Spielplatz in Heemskerk, der einen sicheren Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.654273,
+                        52.484621
+                  ]
+            },
+            {
+                  "name": "Speeltuin Jeugd en Vreugd",
+                  "text": "Ein beliebter Spielplatz in Heemskerk, ideal für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.681159,
+                        52.491567
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Ein familienorientierter Spielplatz in Heemskerk für täglichen Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.654997,
+                        52.490092
+                  ]
+            },
+            {
+                  "name": "Speeltuin Moby Dick",
+                  "text": "Ein thematisch gestalteter Spielplatz in Heemskerk, der zum kreativen Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        4.652523,
+                        52.484508
+                  ]
             }
       ],
       "hu": [
@@ -32307,6 +38634,96 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.675101,
                         52.512171
+                  ]
+            },
+            {
+                  "name": "Baggerdepot Averijhaven",
+                  "text": "Egy tó Heemskerk területén, amely természeti kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.576776,
+                        52.471101
+                  ]
+            },
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Kiterjedt tó Heemskerk közelében, amely ideális vízi sportokhoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Helyi tó Heemskerkben, amely nyugodt hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Westbroekplas",
+                  "text": "Egy tó Heemskerk területén, amely kiválóan alkalmas vízparti szabadidős tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        4.670707,
+                        52.426026
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "Egy vízfelület Heemskerkben, amely a helyi növény- és állatvilág megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Nagy tó Heemskerk közelében, amely szép tájáról és kikapcsolódási lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "PA-Driehoek",
+                  "text": "Játszótér Heemskerkben, amely biztonságos területet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.654273,
+                        52.484621
+                  ]
+            },
+            {
+                  "name": "Speeltuin Jeugd en Vreugd",
+                  "text": "Népszerű játszótér Heemskerkben, amely ideális kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.681159,
+                        52.491567
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Családközpontú játszótér Heemskerkben a napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.654997,
+                        52.490092
+                  ]
+            },
+            {
+                  "name": "Speeltuin Moby Dick",
+                  "text": "Tematikus játszótér Heemskerkben, amely kreatív játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        4.652523,
+                        52.484508
                   ]
             }
       ],
@@ -32571,6 +38988,96 @@ export const netherlandsCitiesV2: POI[] = [
                         4.675101,
                         52.512171
                   ]
+            },
+            {
+                  "name": "Baggerdepot Averijhaven",
+                  "text": "Un lac în Heemskerk, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.576776,
+                        52.471101
+                  ]
+            },
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Un lac întins în Heemskerk, ideal pentru sporturi nautice și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Un lac local în Heemskerk, care oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Westbroekplas",
+                  "text": "Un lac în Heemskerk, potrivit pentru activități de recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.670707,
+                        52.426026
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "O întindere de apă în Heemskerk, care invită la observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Un lac mare lângă Heemskerk, cunoscut pentru peisajul frumos și posibilitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "PA-Driehoek",
+                  "text": "Un loc de joacă în Heemskerk, care oferă o zonă sigură pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.654273,
+                        52.484621
+                  ]
+            },
+            {
+                  "name": "Speeltuin Jeugd en Vreugd",
+                  "text": "Un loc de joacă popular în Heemskerk, ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        4.681159,
+                        52.491567
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "Un loc de joacă orientat spre familie în Heemskerk pentru distracție zilnică.",
+                  "category": "family",
+                  "coords": [
+                        4.654997,
+                        52.490092
+                  ]
+            },
+            {
+                  "name": "Speeltuin Moby Dick",
+                  "text": "Un loc de joacă tematic în Heemskerk, care încurajează jocul creativ.",
+                  "category": "family",
+                  "coords": [
+                        4.652523,
+                        52.484508
+                  ]
             }
       ],
       "en": [
@@ -32834,6 +39341,96 @@ export const netherlandsCitiesV2: POI[] = [
                         4.675101,
                         52.512171
                   ]
+            },
+            {
+                  "name": "Baggerdepot Averijhaven",
+                  "text": "A lake in Heemskerk that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.576776,
+                        52.471101
+                  ]
+            },
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "An extensive lake in Heemskerk ideal for water sports and walking.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "A local lake in Heemskerk providing a quiet backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Westbroekplas",
+                  "text": "A lake in Heemskerk well-suited for recreational activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.670707,
+                        52.426026
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "A body of water in Heemskerk inviting observation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "A large lake near Heemskerk known for its beautiful scenery and recreation possibilities.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "PA-Driehoek",
+                  "text": "A playground in Heemskerk providing a safe area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.654273,
+                        52.484621
+                  ]
+            },
+            {
+                  "name": "Speeltuin Jeugd en Vreugd",
+                  "text": "A popular playground in Heemskerk ideal for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        4.681159,
+                        52.491567
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kindervreugd",
+                  "text": "A family-oriented playground in Heemskerk for daily recreational fun.",
+                  "category": "family",
+                  "coords": [
+                        4.654997,
+                        52.490092
+                  ]
+            },
+            {
+                  "name": "Speeltuin Moby Dick",
+                  "text": "A themed playground in Heemskerk that encourages creative play.",
+                  "category": "family",
+                  "coords": [
+                        4.652523,
+                        52.484508
+                  ]
             }
       ]
 },
@@ -32881,7 +39478,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-heemskerk-cities-v2.webp",
   },
   {
-    id: "netherlands-wieringermeer-cities-v2",
+    id: "netherlands-wieringermeer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "IJsselmeer",
+                  "text": "Das IJsselmeer bei Middenmeer ist ein beeindruckender See, der weite Ausblicke über das Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.377001,
+                        52.809442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IJssel-tó",
+                  "text": "A Middenmeer melletti IJsselmeer egy lenyűgöző tó, amely tágas kilátást nyújt a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        5.377001,
+                        52.809442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IJsselmeer",
+                  "text": "IJsselmeer de lângă Middenmeer este un lac impresionant, care oferă vederi largi asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.377001,
+                        52.809442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IJsselmeer",
+                  "text": "IJsselmeer near Middenmeer is an impressive lake offering expansive views over the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.377001,
+                        52.809442
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Middenmeer", hu: "Middenmeer", ro: "Middenmeer", en: "Middenmeer" },
@@ -34223,6 +40865,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.51631,
                         52.117843
                   ]
+            },
+            {
+                  "name": "Meren van Borculo",
+                  "text": "Die Meren van Borculo sind malerische Seen, die eine entspannte Atmosphäre für Spaziergänger bieten.",
+                  "category": "natural",
+                  "coords": [
+                        6.540987,
+                        52.112769
+                  ]
             }
       ],
       "hu": [
@@ -34305,6 +40956,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.51631,
                         52.117843
+                  ]
+            },
+            {
+                  "name": "Meren van Borculo",
+                  "text": "A Meren van Borculo festői tavak, amelyek nyugodt környezetet biztosítanak a sétálók számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.540987,
+                        52.112769
                   ]
             }
       ],
@@ -34389,6 +41049,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.51631,
                         52.117843
                   ]
+            },
+            {
+                  "name": "Meren van Borculo",
+                  "text": "Meren van Borculo sunt lacuri pitorești care oferă o atmosferă relaxantă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.540987,
+                        52.112769
+                  ]
             }
       ],
       "en": [
@@ -34471,6 +41140,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.51631,
                         52.117843
+                  ]
+            },
+            {
+                  "name": "Meren van Borculo",
+                  "text": "Meren van Borculo are scenic lakes providing a relaxed atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        6.540987,
+                        52.112769
                   ]
             }
       ]
@@ -34988,6 +41666,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.046979,
                         52.512345
                   ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Ein bedeutender See bei Edam, der weite Ausblicke und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Ein See in Edam, ideal für Spaziergänge am Wasser und zur Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Speelderij",
+                  "text": "Ein Spielplatz in Edam, der vielfältige Spielgeräte für Kinder bereithält.",
+                  "category": "family",
+                  "coords": [
+                        5.063852,
+                        52.502148
+                  ]
+            },
+            {
+                  "name": "Slobbeland",
+                  "text": "Ein Spielplatz in Edam, der Freizeitvergnügen für Familien in Meeresnähe bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.070111,
+                        52.490454
+                  ]
             }
       ],
       "hu": [
@@ -35115,6 +41829,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.046979,
                         52.512345
+                  ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Jelentős tó Edam közelében, amely tágas kilátást és természeti élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Egy tó Edam területén, amely ideális vízparti sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Speelderij",
+                  "text": "Játszótér Edamban, amely változatos játékokkal várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        5.063852,
+                        52.502148
+                  ]
+            },
+            {
+                  "name": "Slobbeland",
+                  "text": "Játszótér Edamban, amely családi szórakozást kínál a tenger közelében.",
+                  "category": "family",
+                  "coords": [
+                        5.070111,
+                        52.490454
                   ]
             }
       ],
@@ -35244,6 +41994,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.046979,
                         52.512345
                   ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "Un lac important lângă Edam, care oferă vederi largi și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "Un lac în Edam, ideal pentru plimbări pe malul apei și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Speelderij",
+                  "text": "Un loc de joacă în Edam, care dispune de echipamente de joacă variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.063852,
+                        52.502148
+                  ]
+            },
+            {
+                  "name": "Slobbeland",
+                  "text": "Un loc de joacă în Edam, care oferă divertisment pentru familii în apropierea mării.",
+                  "category": "family",
+                  "coords": [
+                        5.070111,
+                        52.490454
+                  ]
             }
       ],
       "en": [
@@ -35372,6 +42158,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.046979,
                         52.512345
                   ]
+            },
+            {
+                  "name": "Markermeer",
+                  "text": "A significant lake near Edam offering wide views and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        5.241534,
+                        52.546044
+                  ]
+            },
+            {
+                  "name": "Gouwzee",
+                  "text": "A lake in Edam ideal for walks by the water and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        5.067879,
+                        52.469121
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Speelderij",
+                  "text": "A playground in Edam featuring diverse play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        5.063852,
+                        52.502148
+                  ]
+            },
+            {
+                  "name": "Slobbeland",
+                  "text": "A playground in Edam offering family fun near the sea.",
+                  "category": "family",
+                  "coords": [
+                        5.070111,
+                        52.490454
+                  ]
             }
       ]
 },
@@ -35465,6 +42287,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.035862,
                         52.619582
                   ]
+            },
+            {
+                  "name": "Zwarte Meer",
+                  "text": "Das Zwarte Meer bei Genemuiden ist ein Natursee, der sich hervorragend für ruhige Beobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        5.932514,
+                        52.633961
+                  ]
+            },
+            {
+                  "name": "De Speulmoat",
+                  "text": "De Speulmoat in Genemuiden ist ein lokaler Spielplatz, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        6.003713,
+                        52.598217
+                  ]
             }
       ],
       "hu": [
@@ -35511,6 +42351,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.035862,
                         52.619582
+                  ]
+            },
+            {
+                  "name": "Zwarte Meer",
+                  "text": "A Genemuiden melletti Zwarte Meer egy természetes tó, amely kiválóan alkalmas a csendes megfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        5.932514,
+                        52.633961
+                  ]
+            },
+            {
+                  "name": "De Speulmoat",
+                  "text": "A Genemuiden-i De Speulmoat egy helyi játszótér, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        6.003713,
+                        52.598217
                   ]
             }
       ],
@@ -35559,6 +42417,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.035862,
                         52.619582
                   ]
+            },
+            {
+                  "name": "Zwarte Meer",
+                  "text": "Zwarte Meer de lângă Genemuiden este un lac natural, excelent pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        5.932514,
+                        52.633961
+                  ]
+            },
+            {
+                  "name": "De Speulmoat",
+                  "text": "De Speulmoat din Genemuiden este un loc de joacă local unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        6.003713,
+                        52.598217
+                  ]
             }
       ],
       "en": [
@@ -35605,6 +42481,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.035862,
                         52.619582
+                  ]
+            },
+            {
+                  "name": "Zwarte Meer",
+                  "text": "Zwarte Meer near Genemuiden is a natural lake, excellent for quiet observations.",
+                  "category": "natural",
+                  "coords": [
+                        5.932514,
+                        52.633961
+                  ]
+            },
+            {
+                  "name": "De Speulmoat",
+                  "text": "De Speulmoat in Genemuiden is a local playground where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        6.003713,
+                        52.598217
                   ]
             }
       ]
@@ -37346,6 +44240,222 @@ export const netherlandsCitiesV2: POI[] = [
                         4.667075,
                         52.024203
                   ]
+            },
+            {
+                  "name": "Surfplas",
+                  "text": "Ein aktiver See bei Waddinxveen, ideal für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.752081,
+                        52.049361
+                  ]
+            },
+            {
+                  "name": "Westergouweplas",
+                  "text": "Ein neuer See in der Nähe von Waddinxveen für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        4.68601,
+                        52.001644
+                  ]
+            },
+            {
+                  "name": "Sloene",
+                  "text": "Ein lokales Gewässer bei Waddinxveen für eine ruhige Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        4.742409,
+                        52.05242
+                  ]
+            },
+            {
+                  "name": "Klein Vogelenzang",
+                  "text": "Ein malerischer kleiner See in Waddinxveen, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        4.753334,
+                        52.03832
+                  ]
+            },
+            {
+                  "name": "Kleine Elfhoeven",
+                  "text": "Ein ruhiger See bei Waddinxveen, der zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.74156,
+                        52.028544
+                  ]
+            },
+            {
+                  "name": "Nieuwenbroek",
+                  "text": "Ein Gewässer in Waddinxveen, das eine schöne Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.759962,
+                        52.029873
+                  ]
+            },
+            {
+                  "name": "Groot Vogelenzang",
+                  "text": "Ein weitläufiger See in Waddinxveen für Naturerlebnisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.751572,
+                        52.033984
+                  ]
+            },
+            {
+                  "name": "Elfhoeven",
+                  "text": "Ein bekannter See bei Waddinxveen, ideal für Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        4.729436,
+                        52.030456
+                  ]
+            },
+            {
+                  "name": "'t Weegje",
+                  "text": "Ein idyllischer See bei Waddinxveen für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.668326,
+                        52.015827
+                  ]
+            },
+            {
+                  "name": "'s-Gravenbroek",
+                  "text": "Ein weitläufiger See bei Waddinxveen, der zu Erkundungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.734098,
+                        52.037681
+                  ]
+            },
+            {
+                  "name": "Vrijhoef",
+                  "text": "Ein ruhiges Gewässer bei Waddinxveen, ideal für eine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        4.749209,
+                        52.025854
+                  ]
+            },
+            {
+                  "name": "Roggebroek",
+                  "text": "Ein See in Waddinxveen, der eine natürliche Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.767006,
+                        52.025374
+                  ]
+            },
+            {
+                  "name": "'s-Gravenkoop",
+                  "text": "Ein lokaler See bei Waddinxveen für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.764831,
+                        52.039442
+                  ]
+            },
+            {
+                  "name": "Kalverbroek",
+                  "text": "Ein ruhiger See in Waddinxveen für Momente der Stille in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.758858,
+                        52.022789
+                  ]
+            },
+            {
+                  "name": "Ravensberg",
+                  "text": "Ein Gewässer bei Waddinxveen, ideal für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        4.74321,
+                        52.043657
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Ein beliebtes Seengebiet bei Waddinxveen für vielfältige Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "You Jump Gouda",
+                  "text": "Ein moderner Trampolinpark in Waddinxveen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.678772,
+                        52.027018
+                  ]
+            },
+            {
+                  "name": "Minimasters Playground",
+                  "text": "Ein lokaler Spielplatz in Waddinxveen, der Kindern Raum zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.65264,
+                        52.04188
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sweelinckhof",
+                  "text": "Dieser Spielplatz in Waddinxveen bietet eine sichere Umgebung für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        4.64542,
+                        52.048737
+                  ]
+            },
+            {
+                  "name": "De Paddestoel",
+                  "text": "Ein öffentlicher Spielplatz in Waddinxveen, ideal für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.645736,
+                        52.042749
+                  ]
+            },
+            {
+                  "name": "Speeltuin Eikelaan",
+                  "text": "Ein kleiner Spielplatz in Waddinxveen, der zum Klettern und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.687879,
+                        52.028844
+                  ]
+            },
+            {
+                  "name": "Speeleiland Gouwebos",
+                  "text": "Ein Spielbereich im Gouwebos in Waddinxveen, umgeben von Natur.",
+                  "category": "family",
+                  "coords": [
+                        4.646614,
+                        52.059368
+                  ]
+            },
+            {
+                  "name": "Speeleiland",
+                  "text": "Diese Spielinsel in Waddinxveen bietet vielfältige Möglichkeiten für Kinderaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        4.641508,
+                        52.031217
+                  ]
+            },
+            {
+                  "name": "Speelplaats - Parkhoven",
+                  "text": "Ein lokaler Spielbereich in Waddinxveen für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        4.647789,
+                        52.035034
+                  ]
             }
       ],
       "hu": [
@@ -37473,6 +44583,222 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.667075,
                         52.024203
+                  ]
+            },
+            {
+                  "name": "Surfplas",
+                  "text": "Aktív tó Waddinxveen közelében, amely ideális vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.752081,
+                        52.049361
+                  ]
+            },
+            {
+                  "name": "Westergouweplas",
+                  "text": "Új tó Waddinxveen környékén a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.68601,
+                        52.001644
+                  ]
+            },
+            {
+                  "name": "Sloene",
+                  "text": "Helyi vízfelület Waddinxveen közelében egy nyugodt kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.742409,
+                        52.05242
+                  ]
+            },
+            {
+                  "name": "Klein Vogelenzang",
+                  "text": "Festői kis tó Waddinxveenben, amely ideális a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.753334,
+                        52.03832
+                  ]
+            },
+            {
+                  "name": "Kleine Elfhoeven",
+                  "text": "Nyugodt tó Waddinxveen közelében, amely kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        4.74156,
+                        52.028544
+                  ]
+            },
+            {
+                  "name": "Nieuwenbroek",
+                  "text": "Vízfelület Waddinxveenben, amely szép környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.759962,
+                        52.029873
+                  ]
+            },
+            {
+                  "name": "Groot Vogelenzang",
+                  "text": "Tágas tó Waddinxveenben a vízparti természetélményekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.751572,
+                        52.033984
+                  ]
+            },
+            {
+                  "name": "Elfhoeven",
+                  "text": "Ismert tó Waddinxveen közelében, ideális a zöldövezeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.729436,
+                        52.030456
+                  ]
+            },
+            {
+                  "name": "'t Weegje",
+                  "text": "Idilli tó Waddinxveen közelében a természetbeni nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.668326,
+                        52.015827
+                  ]
+            },
+            {
+                  "name": "'s-Gravenbroek",
+                  "text": "Tágas tó Waddinxveen közelében, amely felfedezésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        4.734098,
+                        52.037681
+                  ]
+            },
+            {
+                  "name": "Vrijhoef",
+                  "text": "Nyugodt vízfelület Waddinxveen közelében, ideális egy pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        4.749209,
+                        52.025854
+                  ]
+            },
+            {
+                  "name": "Roggebroek",
+                  "text": "Tó Waddinxveenben, amely természetes környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.767006,
+                        52.025374
+                  ]
+            },
+            {
+                  "name": "'s-Gravenkoop",
+                  "text": "Helyi tó Waddinxveen közelében a vízparti pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.764831,
+                        52.039442
+                  ]
+            },
+            {
+                  "name": "Kalverbroek",
+                  "text": "Nyugodt tó Waddinxveenben a természetbeni csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.758858,
+                        52.022789
+                  ]
+            },
+            {
+                  "name": "Ravensberg",
+                  "text": "Waddinxveen közeli vízfelület, ideális egy rövid természetbeni kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.74321,
+                        52.043657
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "Népszerű tóvidék Waddinxveen közelében a változatos szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "You Jump Gouda",
+                  "text": "Modern trambulinpark Waddinxveenben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        4.678772,
+                        52.027018
+                  ]
+            },
+            {
+                  "name": "Minimasters Playground",
+                  "text": "Helyi játszótér Waddinxveenben, amely szabadtéri játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.65264,
+                        52.04188
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sweelinckhof",
+                  "text": "Ez a waddinxveeni játszótér biztonságos környezetet biztosít a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        4.64542,
+                        52.048737
+                  ]
+            },
+            {
+                  "name": "De Paddestoel",
+                  "text": "Nyilvános játszótér Waddinxveenben, amely ideális választás családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.645736,
+                        52.042749
+                  ]
+            },
+            {
+                  "name": "Speeltuin Eikelaan",
+                  "text": "Kisebb játszótér Waddinxveenben, amely mászásra és játékra hívogatja a kicsiket.",
+                  "category": "family",
+                  "coords": [
+                        4.687879,
+                        52.028844
+                  ]
+            },
+            {
+                  "name": "Speeleiland Gouwebos",
+                  "text": "Játszóterület a waddinxveeni Gouwebos parkban, természeti környezetben.",
+                  "category": "family",
+                  "coords": [
+                        4.646614,
+                        52.059368
+                  ]
+            },
+            {
+                  "name": "Speeleiland",
+                  "text": "Ez a waddinxveeni játszósziget változatos lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.641508,
+                        52.031217
+                  ]
+            },
+            {
+                  "name": "Speelplaats - Parkhoven",
+                  "text": "Helyi játszóhely Waddinxveenben a környékbeli gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.647789,
+                        52.035034
                   ]
             }
       ],
@@ -37602,6 +44928,222 @@ export const netherlandsCitiesV2: POI[] = [
                         4.667075,
                         52.024203
                   ]
+            },
+            {
+                  "name": "Surfplas",
+                  "text": "Un lac activ lângă Waddinxveen, ideal pentru activități de agrement pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.752081,
+                        52.049361
+                  ]
+            },
+            {
+                  "name": "Westergouweplas",
+                  "text": "Un lac nou lângă Waddinxveen pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        4.68601,
+                        52.001644
+                  ]
+            },
+            {
+                  "name": "Sloene",
+                  "text": "Un ochi de apă local lângă Waddinxveen pentru o pauză liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        4.742409,
+                        52.05242
+                  ]
+            },
+            {
+                  "name": "Klein Vogelenzang",
+                  "text": "Un mic lac pitoresc în Waddinxveen, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.753334,
+                        52.03832
+                  ]
+            },
+            {
+                  "name": "Kleine Elfhoeven",
+                  "text": "Un lac liniștit lângă Waddinxveen, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.74156,
+                        52.028544
+                  ]
+            },
+            {
+                  "name": "Nieuwenbroek",
+                  "text": "Un ochi de apă în Waddinxveen, care oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        4.759962,
+                        52.029873
+                  ]
+            },
+            {
+                  "name": "Groot Vogelenzang",
+                  "text": "Un lac întins în Waddinxveen pentru experiențe în natură pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.751572,
+                        52.033984
+                  ]
+            },
+            {
+                  "name": "Elfhoeven",
+                  "text": "Un lac cunoscut lângă Waddinxveen, ideal pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.729436,
+                        52.030456
+                  ]
+            },
+            {
+                  "name": "'t Weegje",
+                  "text": "Un lac idilic lângă Waddinxveen pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.668326,
+                        52.015827
+                  ]
+            },
+            {
+                  "name": "'s-Gravenbroek",
+                  "text": "Un lac întins lângă Waddinxveen, care invită la explorare.",
+                  "category": "natural",
+                  "coords": [
+                        4.734098,
+                        52.037681
+                  ]
+            },
+            {
+                  "name": "Vrijhoef",
+                  "text": "Un ochi de apă liniștit lângă Waddinxveen, ideal pentru o pauză.",
+                  "category": "natural",
+                  "coords": [
+                        4.749209,
+                        52.025854
+                  ]
+            },
+            {
+                  "name": "Roggebroek",
+                  "text": "Un lac în Waddinxveen, care oferă un mediu natural pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.767006,
+                        52.025374
+                  ]
+            },
+            {
+                  "name": "'s-Gravenkoop",
+                  "text": "Un lac local lângă Waddinxveen pentru ore relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.764831,
+                        52.039442
+                  ]
+            },
+            {
+                  "name": "Kalverbroek",
+                  "text": "Un lac liniștit în Waddinxveen pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.758858,
+                        52.022789
+                  ]
+            },
+            {
+                  "name": "Ravensberg",
+                  "text": "Un ochi de apă lângă Waddinxveen, ideal pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.74321,
+                        52.043657
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "O zonă de lacuri populară lângă Waddinxveen pentru diverse activități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "You Jump Gouda",
+                  "text": "Un parc de trambuline modern în Waddinxveen pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.678772,
+                        52.027018
+                  ]
+            },
+            {
+                  "name": "Minimasters Playground",
+                  "text": "Un loc de joacă local în Waddinxveen care oferă spațiu pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.65264,
+                        52.04188
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sweelinckhof",
+                  "text": "Acest loc de joacă din Waddinxveen oferă un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.64542,
+                        52.048737
+                  ]
+            },
+            {
+                  "name": "De Paddestoel",
+                  "text": "Un loc de joacă public în Waddinxveen, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        4.645736,
+                        52.042749
+                  ]
+            },
+            {
+                  "name": "Speeltuin Eikelaan",
+                  "text": "Un mic loc de joacă în Waddinxveen care invită copiii la cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.687879,
+                        52.028844
+                  ]
+            },
+            {
+                  "name": "Speeleiland Gouwebos",
+                  "text": "O zonă de joacă în Gouwebos, Waddinxveen, înconjurată de natură.",
+                  "category": "family",
+                  "coords": [
+                        4.646614,
+                        52.059368
+                  ]
+            },
+            {
+                  "name": "Speeleiland",
+                  "text": "Această insulă de joacă din Waddinxveen oferă diverse oportunități de activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.641508,
+                        52.031217
+                  ]
+            },
+            {
+                  "name": "Speelplaats - Parkhoven",
+                  "text": "O zonă de joacă locală în Waddinxveen pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        4.647789,
+                        52.035034
+                  ]
             }
       ],
       "en": [
@@ -37729,6 +45271,222 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.667075,
                         52.024203
+                  ]
+            },
+            {
+                  "name": "Surfplas",
+                  "text": "An active lake near Waddinxveen, ideal for recreational activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.752081,
+                        52.049361
+                  ]
+            },
+            {
+                  "name": "Westergouweplas",
+                  "text": "A new lake near Waddinxveen for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.68601,
+                        52.001644
+                  ]
+            },
+            {
+                  "name": "Sloene",
+                  "text": "A local body of water near Waddinxveen for a quiet break.",
+                  "category": "natural",
+                  "coords": [
+                        4.742409,
+                        52.05242
+                  ]
+            },
+            {
+                  "name": "Klein Vogelenzang",
+                  "text": "A picturesque small lake in Waddinxveen, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        4.753334,
+                        52.03832
+                  ]
+            },
+            {
+                  "name": "Kleine Elfhoeven",
+                  "text": "A peaceful lake near Waddinxveen that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        4.74156,
+                        52.028544
+                  ]
+            },
+            {
+                  "name": "Nieuwenbroek",
+                  "text": "A body of water in Waddinxveen providing a nice backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.759962,
+                        52.029873
+                  ]
+            },
+            {
+                  "name": "Groot Vogelenzang",
+                  "text": "A spacious lake in Waddinxveen for nature experiences by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.751572,
+                        52.033984
+                  ]
+            },
+            {
+                  "name": "Elfhoeven",
+                  "text": "A well-known lake near Waddinxveen, ideal for recreation in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        4.729436,
+                        52.030456
+                  ]
+            },
+            {
+                  "name": "'t Weegje",
+                  "text": "An idyllic lake near Waddinxveen for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.668326,
+                        52.015827
+                  ]
+            },
+            {
+                  "name": "'s-Gravenbroek",
+                  "text": "A vast lake near Waddinxveen that invites exploration.",
+                  "category": "natural",
+                  "coords": [
+                        4.734098,
+                        52.037681
+                  ]
+            },
+            {
+                  "name": "Vrijhoef",
+                  "text": "A peaceful body of water near Waddinxveen, ideal for a break.",
+                  "category": "natural",
+                  "coords": [
+                        4.749209,
+                        52.025854
+                  ]
+            },
+            {
+                  "name": "Roggebroek",
+                  "text": "A lake in Waddinxveen offering a natural environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        4.767006,
+                        52.025374
+                  ]
+            },
+            {
+                  "name": "'s-Gravenkoop",
+                  "text": "A local lake near Waddinxveen for relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.764831,
+                        52.039442
+                  ]
+            },
+            {
+                  "name": "Kalverbroek",
+                  "text": "A peaceful lake in Waddinxveen for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.758858,
+                        52.022789
+                  ]
+            },
+            {
+                  "name": "Ravensberg",
+                  "text": "A body of water near Waddinxveen, ideal for a short trip into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.74321,
+                        52.043657
+                  ]
+            },
+            {
+                  "name": "Rottemeren",
+                  "text": "A popular lake area near Waddinxveen for a variety of leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        4.552797,
+                        52.01083
+                  ]
+            },
+            {
+                  "name": "You Jump Gouda",
+                  "text": "A modern trampoline park in Waddinxveen for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.678772,
+                        52.027018
+                  ]
+            },
+            {
+                  "name": "Minimasters Playground",
+                  "text": "A local playground in Waddinxveen offering space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.65264,
+                        52.04188
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sweelinckhof",
+                  "text": "This playground in Waddinxveen provides a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.64542,
+                        52.048737
+                  ]
+            },
+            {
+                  "name": "De Paddestoel",
+                  "text": "A public playground in Waddinxveen, ideal for a family outing with children.",
+                  "category": "family",
+                  "coords": [
+                        4.645736,
+                        52.042749
+                  ]
+            },
+            {
+                  "name": "Speeltuin Eikelaan",
+                  "text": "A small playground in Waddinxveen that invites children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        4.687879,
+                        52.028844
+                  ]
+            },
+            {
+                  "name": "Speeleiland Gouwebos",
+                  "text": "A play area in the Gouwebos in Waddinxveen, surrounded by nature.",
+                  "category": "family",
+                  "coords": [
+                        4.646614,
+                        52.059368
+                  ]
+            },
+            {
+                  "name": "Speeleiland",
+                  "text": "This play island in Waddinxveen offers various opportunities for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        4.641508,
+                        52.031217
+                  ]
+            },
+            {
+                  "name": "Speelplaats - Parkhoven",
+                  "text": "A local play area in Waddinxveen for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        4.647789,
+                        52.035034
                   ]
             }
       ]
@@ -38165,6 +45923,222 @@ export const netherlandsCitiesV2: POI[] = [
                         4.495096,
                         52.161467
                   ]
+            },
+            {
+                  "name": "Norremeer",
+                  "text": "Ein ruhiger See in Oegstgeest, der sich gut für Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        4.538377,
+                        52.208973
+                  ]
+            },
+            {
+                  "name": "Zweiland",
+                  "text": "Ein See in Oegstgeest, der eine malerische Kulisse für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.545423,
+                        52.201774
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "Ein Gewässer in Oegstgeest, ideal zum Beobachten der Wasservögel und zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Ein See in Oegstgeest, der zu ruhigen Stunden in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Eijmerspoel",
+                  "text": "Ein lokaler See in Oegstgeest, der sich gut für kurze Wanderungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        4.554453,
+                        52.209754
+                  ]
+            },
+            {
+                  "name": "Dieperpoel",
+                  "text": "Ein Gewässer in Oegstgeest, das für seine friedliche Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.549727,
+                        52.214865
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Ein See in Oegstgeest, der Möglichkeiten für Naturerkundungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Ein kleiner See in Oegstgeest, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Ein See in Oegstgeest, der eine natürliche Umgebung für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Kever",
+                  "text": "Ein Gewässer in Oegstgeest, geeignet für Naturbeobachtungen am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        4.572388,
+                        52.209008
+                  ]
+            },
+            {
+                  "name": "Spijkerboor",
+                  "text": "Ein See in Oegstgeest, der sich durch seine ruhige Lage auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        4.5615,
+                        52.206395
+                  ]
+            },
+            {
+                  "name": "Sever",
+                  "text": "Ein lokaler See in Oegstgeest, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.572918,
+                        52.204989
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "Ein bekanntes Erholungsgebiet mit See in Oegstgeest, ideal für Wassersport und Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Ein See in Oegstgeest, der beliebte Wanderwege und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Ein See in Oegstgeest, der viel Platz für Freizeit und Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Ein kleinerer See in Oegstgeest, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Street Jump",
+                  "text": "Ein Trampolinpark in Oegstgeest, der aktiven Spaß und Bewegung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.49879,
+                        52.18758
+                  ]
+            },
+            {
+                  "name": "Oude Schip",
+                  "text": "Ein Spielplatz in Oegstgeest, der Kindern eine abwechslungsreiche Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.487231,
+                        52.186576
+                  ]
+            },
+            {
+                  "name": "Apolloplein",
+                  "text": "Ein öffentlicher Spielplatz in Oegstgeest für Sport und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.461591,
+                        52.179882
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vogelenwijk",
+                  "text": "Ein von einem Verein geführter Spielplatz in Oegstgeest mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        4.468361,
+                        52.172382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morschkwartier",
+                  "text": "Ein lokaler Spielplatz in Oegstgeest, ideal für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        4.469738,
+                        52.158625
+                  ]
+            },
+            {
+                  "name": "Speeltuin Noorderkwartier",
+                  "text": "Ein Spielplatz in Oegstgeest, der einen sicheren Raum für tägliche Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.499855,
+                        52.166672
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Merendroom",
+                  "text": "Ein gepflegter Spielplatz in Oegstgeest für die Freizeitgestaltung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.508527,
+                        52.174038
+                  ]
+            },
+            {
+                  "name": "Speeltuin Het Vossenhol",
+                  "text": "Ein charmanter Spielplatz in Oegstgeest, der Kinder zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.508166,
+                        52.201009
+                  ]
             }
       ],
       "hu": [
@@ -38553,6 +46527,222 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.495096,
                         52.161467
+                  ]
+            },
+            {
+                  "name": "Norremeer",
+                  "text": "Csendes tó Oegstgeest területén, amely alkalmas természeti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        4.538377,
+                        52.208973
+                  ]
+            },
+            {
+                  "name": "Zweiland",
+                  "text": "Egy tó Oegstgeestben, amely festői hátteret nyújt a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.545423,
+                        52.201774
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "Egy vízfelület Oegstgeestben, amely ideális vízimadarak megfigyelésére és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Egy tó Oegstgeest területén, amely nyugodt, természetben töltött órákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Eijmerspoel",
+                  "text": "Helyi tó Oegstgeestben, amely alkalmas rövid túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        4.554453,
+                        52.209754
+                  ]
+            },
+            {
+                  "name": "Dieperpoel",
+                  "text": "Vízfelület Oegstgeestben, amely békés hangulatáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.549727,
+                        52.214865
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Egy tó Oegstgeest területén, amely lehetőséget nyújt a természet felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Kisebb tó Oegstgeestben, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Egy tó Oegstgeestben, amely természetes környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Kever",
+                  "text": "Vízfelület Oegstgeest területén, amely alkalmas a vízparti természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        4.572388,
+                        52.209008
+                  ]
+            },
+            {
+                  "name": "Spijkerboor",
+                  "text": "Csendes fekvésével tűnik ki ez a tó Oegstgeestben.",
+                  "category": "natural",
+                  "coords": [
+                        4.5615,
+                        52.206395
+                  ]
+            },
+            {
+                  "name": "Sever",
+                  "text": "Helyi tó Oegstgeest területén, amely a szabadban való tartózkodásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.572918,
+                        52.204989
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "Ismert üdülőövezet tóval Oegstgeestben, amely ideális vízi sportokhoz és túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Tó Oegstgeest területén, amely népszerű túraútvonalakat és természeti élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Tó Oegstgeestben, amely tágas teret biztosít a vízparti kikapcsolódáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Kisebb tó Oegstgeest területén, amely ideális a természetben töltött nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Street Jump",
+                  "text": "Trambulinpark Oegstgeestben, amely aktív szórakozást és mozgást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.49879,
+                        52.18758
+                  ]
+            },
+            {
+                  "name": "Oude Schip",
+                  "text": "Játszótér Oegstgeestben, amely változatos környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.487231,
+                        52.186576
+                  ]
+            },
+            {
+                  "name": "Apolloplein",
+                  "text": "Nyilvános játszótér Oegstgeestben a szabadtéri sporthoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.461591,
+                        52.179882
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vogelenwijk",
+                  "text": "Egy egyesület által működtetett játszótér Oegstgeestben, számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        4.468361,
+                        52.172382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morschkwartier",
+                  "text": "Helyi játszótér Oegstgeestben, amely ideális a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.469738,
+                        52.158625
+                  ]
+            },
+            {
+                  "name": "Speeltuin Noorderkwartier",
+                  "text": "Játszótér Oegstgeestben, amely biztonságos teret nyújt a napi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        4.499855,
+                        52.166672
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Merendroom",
+                  "text": "Gondozott játszótér Oegstgeestben a családok szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        4.508527,
+                        52.174038
+                  ]
+            },
+            {
+                  "name": "Speeltuin Het Vossenhol",
+                  "text": "Bájos játszótér Oegstgeestben, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.508166,
+                        52.201009
                   ]
             }
       ],
@@ -38943,6 +47133,222 @@ export const netherlandsCitiesV2: POI[] = [
                         4.495096,
                         52.161467
                   ]
+            },
+            {
+                  "name": "Norremeer",
+                  "text": "Un lac liniștit în Oegstgeest, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.538377,
+                        52.208973
+                  ]
+            },
+            {
+                  "name": "Zweiland",
+                  "text": "Un lac în Oegstgeest, care oferă un cadru pitoresc pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        4.545423,
+                        52.201774
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "O întindere de apă în Oegstgeest, ideală pentru observarea păsărilor de apă și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "Un lac în Oegstgeest, care invită la ore liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Eijmerspoel",
+                  "text": "Un lac local în Oegstgeest, potrivit pentru drumeții scurte.",
+                  "category": "natural",
+                  "coords": [
+                        4.554453,
+                        52.209754
+                  ]
+            },
+            {
+                  "name": "Dieperpoel",
+                  "text": "O întindere de apă în Oegstgeest, cunoscută pentru atmosfera sa pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        4.549727,
+                        52.214865
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "Un lac în Oegstgeest, care oferă oportunități pentru explorarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "Un lac mic în Oegstgeest, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "Un lac în Oegstgeest, care oferă un mediu natural pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Kever",
+                  "text": "O întindere de apă în Oegstgeest, potrivită pentru observarea naturii pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        4.572388,
+                        52.209008
+                  ]
+            },
+            {
+                  "name": "Spijkerboor",
+                  "text": "Un lac în Oegstgeest, care se remarcă prin locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        4.5615,
+                        52.206395
+                  ]
+            },
+            {
+                  "name": "Sever",
+                  "text": "Un lac local în Oegstgeest, care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        4.572918,
+                        52.204989
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "O zonă de recreere cunoscută cu lac în Oegstgeest, ideală pentru sporturi nautice și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "Un lac în Oegstgeest, care oferă trasee de drumeție populare și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "Un lac în Oegstgeest, care oferă mult spațiu pentru recreere și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "Un lac mai mic în Oegstgeest, ideal pentru momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Street Jump",
+                  "text": "Un parc de trambuline în Oegstgeest, care oferă distracție activă și mișcare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.49879,
+                        52.18758
+                  ]
+            },
+            {
+                  "name": "Oude Schip",
+                  "text": "Un loc de joacă în Oegstgeest, care oferă copiilor un mediu variat pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.487231,
+                        52.186576
+                  ]
+            },
+            {
+                  "name": "Apolloplein",
+                  "text": "Un loc de joacă public în Oegstgeest pentru sport și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.461591,
+                        52.179882
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vogelenwijk",
+                  "text": "Un loc de joacă administrat de o asociație în Oegstgeest, cu multe posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.468361,
+                        52.172382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morschkwartier",
+                  "text": "Un loc de joacă local în Oegstgeest, ideal pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        4.469738,
+                        52.158625
+                  ]
+            },
+            {
+                  "name": "Speeltuin Noorderkwartier",
+                  "text": "Un loc de joacă în Oegstgeest, care oferă un spațiu sigur pentru activitățile zilnice.",
+                  "category": "family",
+                  "coords": [
+                        4.499855,
+                        52.166672
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Merendroom",
+                  "text": "Un loc de joacă bine întreținut în Oegstgeest pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.508527,
+                        52.174038
+                  ]
+            },
+            {
+                  "name": "Speeltuin Het Vossenhol",
+                  "text": "Un loc de joacă fermecător în Oegstgeest, care invită copiii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        4.508166,
+                        52.201009
+                  ]
             }
       ],
       "en": [
@@ -39332,6 +47738,222 @@ export const netherlandsCitiesV2: POI[] = [
                         4.495096,
                         52.161467
                   ]
+            },
+            {
+                  "name": "Norremeer",
+                  "text": "A quiet lake in Oegstgeest suitable for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.538377,
+                        52.208973
+                  ]
+            },
+            {
+                  "name": "Zweiland",
+                  "text": "A lake in Oegstgeest providing a scenic backdrop for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        4.545423,
+                        52.201774
+                  ]
+            },
+            {
+                  "name": "De Tonneduiker",
+                  "text": "A body of water in Oegstgeest ideal for watching water birds and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        4.526747,
+                        52.192592
+                  ]
+            },
+            {
+                  "name": "'t Joppe",
+                  "text": "A lake in Oegstgeest that invites quiet hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.516645,
+                        52.192654
+                  ]
+            },
+            {
+                  "name": "Eijmerspoel",
+                  "text": "A local lake in Oegstgeest suitable for short hikes.",
+                  "category": "natural",
+                  "coords": [
+                        4.554453,
+                        52.209754
+                  ]
+            },
+            {
+                  "name": "Dieperpoel",
+                  "text": "A body of water in Oegstgeest known for its peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        4.549727,
+                        52.214865
+                  ]
+            },
+            {
+                  "name": "Warckerleede",
+                  "text": "A lake in Oegstgeest offering opportunities for nature exploration.",
+                  "category": "natural",
+                  "coords": [
+                        4.529204,
+                        52.205691
+                  ]
+            },
+            {
+                  "name": "Spriet",
+                  "text": "A small lake in Oegstgeest ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        4.520251,
+                        52.201015
+                  ]
+            },
+            {
+                  "name": "Laeck",
+                  "text": "A lake in Oegstgeest providing a natural setting for recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        4.532883,
+                        52.202339
+                  ]
+            },
+            {
+                  "name": "Kever",
+                  "text": "A body of water in Oegstgeest suitable for nature observation along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        4.572388,
+                        52.209008
+                  ]
+            },
+            {
+                  "name": "Spijkerboor",
+                  "text": "A lake in Oegstgeest distinguished by its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        4.5615,
+                        52.206395
+                  ]
+            },
+            {
+                  "name": "Sever",
+                  "text": "A local lake in Oegstgeest inviting you to spend time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        4.572918,
+                        52.204989
+                  ]
+            },
+            {
+                  "name": "Vlietland",
+                  "text": "A well-known recreation area with a lake in Oegstgeest, ideal for water sports and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        4.451809,
+                        52.112646
+                  ]
+            },
+            {
+                  "name": "Klinkenbergerplas",
+                  "text": "A lake in Oegstgeest offering popular hiking trails and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        4.48881,
+                        52.196716
+                  ]
+            },
+            {
+                  "name": "Valkenburgse Meer",
+                  "text": "A lake in Oegstgeest offering plenty of space for leisure and recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.436222,
+                        52.161299
+                  ]
+            },
+            {
+                  "name": "De Bak",
+                  "text": "A smaller lake in Oegstgeest ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.514705,
+                        52.187168
+                  ]
+            },
+            {
+                  "name": "Street Jump",
+                  "text": "A trampoline park in Oegstgeest offering active fun and exercise for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.49879,
+                        52.18758
+                  ]
+            },
+            {
+                  "name": "Oude Schip",
+                  "text": "A playground in Oegstgeest offering children a varied environment for play.",
+                  "category": "family",
+                  "coords": [
+                        4.487231,
+                        52.186576
+                  ]
+            },
+            {
+                  "name": "Apolloplein",
+                  "text": "A public playground in Oegstgeest for outdoor sports and play.",
+                  "category": "family",
+                  "coords": [
+                        4.461591,
+                        52.179882
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Vogelenwijk",
+                  "text": "A playground managed by an association in Oegstgeest with many play options.",
+                  "category": "family",
+                  "coords": [
+                        4.468361,
+                        52.172382
+                  ]
+            },
+            {
+                  "name": "Speeltuin Morschkwartier",
+                  "text": "A local playground in Oegstgeest ideal for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        4.469738,
+                        52.158625
+                  ]
+            },
+            {
+                  "name": "Speeltuin Noorderkwartier",
+                  "text": "A playground in Oegstgeest providing a safe space for daily activities.",
+                  "category": "family",
+                  "coords": [
+                        4.499855,
+                        52.166672
+                  ]
+            },
+            {
+                  "name": "Speeltuinvereniging Merendroom",
+                  "text": "A well-maintained playground in Oegstgeest for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.508527,
+                        52.174038
+                  ]
+            },
+            {
+                  "name": "Speeltuin Het Vossenhol",
+                  "text": "A charming playground in Oegstgeest that invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        4.508166,
+                        52.201009
+                  ]
             }
       ]
 },
@@ -39416,6 +48038,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
+            },
+            {
+                  "name": "Grebbeplas",
+                  "text": "Die Grebbeplas bei Druten ist ein See, der Gelegenheiten für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Das Lingemeer 1 bei Druten ist ein künstlicher See, der eine friedliche Umgebung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
             }
       ],
       "hu": [
@@ -39453,6 +48093,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
+                  ]
+            },
+            {
+                  "name": "Grebbeplas",
+                  "text": "A Druten melletti Grebbeplas egy tó, amely lehetőséget nyújt a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "A Druten melletti Lingemeer 1 egy mesterséges tó, amely békés környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
                   ]
             }
       ],
@@ -39492,6 +48150,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
+            },
+            {
+                  "name": "Grebbeplas",
+                  "text": "Grebbeplas de lângă Druten este un lac ce oferă oportunități de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Lingemeer 1 de lângă Druten este un lac artificial care oferă un mediu pașnic lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
+                  ]
             }
       ],
       "en": [
@@ -39529,6 +48205,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
+                  ]
+            },
+            {
+                  "name": "Grebbeplas",
+                  "text": "Grebbeplas near Druten is a lake providing opportunities for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.585953,
+                        51.953921
+                  ]
+            },
+            {
+                  "name": "Lingemeer 1",
+                  "text": "Lingemeer 1 near Druten is a man-made lake offering a peaceful waterside environment.",
+                  "category": "natural",
+                  "coords": [
+                        5.487182,
+                        51.922993
                   ]
             }
       ]
@@ -40234,7 +48928,340 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-delfzijl-cities-v2.webp",
   },
   {
-    id: "netherlands-heilo-cities-v2",
+    id: "netherlands-heilo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Ein großer See bei Heiloo, ideal für Wassersport und Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Het Die",
+                  "text": "Ein ruhiges Gewässer in Heiloo, das zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.721562,
+                        52.573742
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Ein kleiner See in Heiloo, der eine friedliche Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Deilings",
+                  "text": "Ein Gewässer in der Umgebung von Heiloo, geeignet für kurze Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        4.773023,
+                        52.556089
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "Ein lokaler See bei Heiloo, der zum Verweilen und Beobachten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Ein bekannter See bei Heiloo, beliebt für seine schöne Landschaft und Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "speelplaats",
+                  "text": "Ein einfacher Spielplatz in Heiloo, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        4.685441,
+                        52.605124
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Hoef",
+                  "text": "Ein gepflegter Spielplatz in Heiloo, der Spaß im Freien für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.719681,
+                        52.626624
+                  ]
+            },
+            {
+                  "name": "De Kabouterhoek",
+                  "text": "Ein lokaler Spielbereich in Heiloo mit Geräten für junge Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.731421,
+                        52.625502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Nagy kiterjedésű tó Heiloo közelében, amely ideális vízi sportokhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Het Die",
+                  "text": "Csendes vízfelület Heiloonál, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.721562,
+                        52.573742
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Kisebb tó Heiloo területén, amely békés környezetet nyújt a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Deilings",
+                  "text": "Vízfelület Heiloo környékén, amely alkalmas rövid zöldövezeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.773023,
+                        52.556089
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "Helyi tó Heiloo közelében, amely pihenésre és természetfigyelésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Ismert tó Heiloo mellett, amely népszerű szép tája és szabadidős lehetőségei miatt.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "speelplaats",
+                  "text": "Egyszerű játszótér Heiloo területén, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.685441,
+                        52.605124
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Hoef",
+                  "text": "Gondozott játszótér Heiloonál, amely szabadtéri szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.719681,
+                        52.626624
+                  ]
+            },
+            {
+                  "name": "De Kabouterhoek",
+                  "text": "Helyi játszóterület Heiloonál, játékokkal kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.731421,
+                        52.625502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "Un lac mare lângă Heiloo, ideal pentru sporturi nautice și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Het Die",
+                  "text": "O apă liniștită în Heiloo, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        4.721562,
+                        52.573742
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "Un lac mic în Heiloo care oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Deilings",
+                  "text": "O apă în împrejurimile orașului Heiloo, potrivită pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.773023,
+                        52.556089
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "Un lac local lângă Heiloo care vă invită să petreceți timp admirând natura.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "Un lac cunoscut lângă Heiloo, popular pentru peisajul său frumos și activitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "speelplaats",
+                  "text": "Un loc de joacă simplu în Heiloo unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        4.685441,
+                        52.605124
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Hoef",
+                  "text": "Un loc de joacă bine întreținut în Heiloo, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.719681,
+                        52.626624
+                  ]
+            },
+            {
+                  "name": "De Kabouterhoek",
+                  "text": "O zonă de joacă locală în Heiloo cu echipamente pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        4.731421,
+                        52.625502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uitgeestermeer",
+                  "text": "A large lake near Heiloo, ideal for water sports and recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.733535,
+                        52.532729
+                  ]
+            },
+            {
+                  "name": "Het Die",
+                  "text": "A quiet body of water in Heiloo that invites relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        4.721562,
+                        52.573742
+                  ]
+            },
+            {
+                  "name": "Dodde",
+                  "text": "A small lake in Heiloo providing a peaceful backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        4.742476,
+                        52.554376
+                  ]
+            },
+            {
+                  "name": "Deilings",
+                  "text": "A body of water in the Heiloo area, suitable for short trips into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.773023,
+                        52.556089
+                  ]
+            },
+            {
+                  "name": "Limmergat",
+                  "text": "A local lake near Heiloo that invites you to linger and observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.737737,
+                        52.542016
+                  ]
+            },
+            {
+                  "name": "Alkmaardermeer",
+                  "text": "A well-known lake near Heiloo, popular for its beautiful scenery and leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        4.758562,
+                        52.549912
+                  ]
+            },
+            {
+                  "name": "speelplaats",
+                  "text": "A simple playground in Heiloo where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        4.685441,
+                        52.605124
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Hoef",
+                  "text": "A well-maintained playground in Heiloo offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        4.719681,
+                        52.626624
+                  ]
+            },
+            {
+                  "name": "De Kabouterhoek",
+                  "text": "A local play area in Heiloo with equipment for young children.",
+                  "category": "family",
+                  "coords": [
+                        4.731421,
+                        52.625502
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Heiloo", hu: "Heiloo", ro: "Heiloo", en: "Heiloo" },

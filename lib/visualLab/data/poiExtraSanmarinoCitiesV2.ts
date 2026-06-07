@@ -975,7 +975,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-ventoso-cities-v2.webp",
   },
   {
-    id: "sanmarino-galavotto-cities-v2",
+    id: "sanmarino-galavotto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco di Torraccia",
+                  "text": "Parco di Torraccia in Galavotto ist ein beliebter Ort für Familien, um Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        12.506304,
+                        43.953057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco di Torraccia",
+                  "text": "A Parco di Torraccia Galavottóban népszerű hely a családok számára a szabadtéri időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        12.506304,
+                        43.953057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco di Torraccia",
+                  "text": "Parco di Torraccia din Galavotto este un loc popular pentru familii pentru a petrece timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.506304,
+                        43.953057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco di Torraccia",
+                  "text": "Parco di Torraccia in Galavotto is a popular spot for families to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        12.506304,
+                        43.953057
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Galavotto", hu: "Galavotto", ro: "Galavotto", en: "Galavotto" },

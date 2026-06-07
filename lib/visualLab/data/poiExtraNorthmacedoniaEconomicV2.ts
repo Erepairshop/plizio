@@ -400,6 +400,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                         20.796695,
                         41.113556
                   ]
+            },
+            {
+                  "name": "Ohridsee",
+                  "text": "Dieser bedeutende See bei Ohrid ist für seine weite Wasserfläche und schöne Aussicht bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "hu": [
@@ -527,6 +536,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         20.796695,
                         41.113556
+                  ]
+            },
+            {
+                  "name": "Ohridi-tó",
+                  "text": "Ez a jelentős tó Ohrid közelében tágas vízfelületéről és szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ],
@@ -656,6 +674,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                         20.796695,
                         41.113556
                   ]
+            },
+            {
+                  "name": "Охридско Езеро / Liqeni i Ohrit",
+                  "text": "Acest lac important de lângă Ohrid este cunoscut pentru suprafața sa vastă de apă și vederile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "en": [
@@ -783,6 +810,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         20.796695,
                         41.113556
+                  ]
+            },
+            {
+                  "name": "Lake Ohrid",
+                  "text": "This major lake near Ohrid is known for its vast water surface and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ]

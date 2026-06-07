@@ -107,6 +107,42 @@ export const romaniaCitiesV2: POI[] = [
                         23.777465,
                         46.584126
                   ]
+            },
+            {
+                  "name": "Tăul Mare",
+                  "text": "Ein großer See bei Turda, der eine beeindruckende Wasserfläche in der Region darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        23.730371,
+                        46.573353
+                  ]
+            },
+            {
+                  "name": "Lacul Căprioarelor",
+                  "text": "Dieser See bei Turda bietet eine malerische Umgebung für entspannte Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        23.76246,
+                        46.599374
+                  ]
+            },
+            {
+                  "name": "Lacul Roman",
+                  "text": "Ein historisch benannter See bei Turda, der zu kurzen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.807778,
+                        46.576602
+                  ]
+            },
+            {
+                  "name": "Lacul Csiky",
+                  "text": "Ein lokaler See in der Nähe von Turda, bekannt für seine ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        23.806504,
+                        46.579523
+                  ]
             }
       ],
       "hu": [
@@ -168,6 +204,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.777465,
                         46.584126
+                  ]
+            },
+            {
+                  "name": "Tăul Mare",
+                  "text": "Egy nagy tó Torda mellett, amely a régió lenyűgöző vízfelülete.",
+                  "category": "natural",
+                  "coords": [
+                        23.730371,
+                        46.573353
+                  ]
+            },
+            {
+                  "name": "Lacul Căprioarelor",
+                  "text": "Ez a Torda melletti tó festői környezetet kínál a pihentető kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.76246,
+                        46.599374
+                  ]
+            },
+            {
+                  "name": "Római-tó",
+                  "text": "Egy történelmi nevű tó Torda mellett, amely rövid sétákra invitál.",
+                  "category": "natural",
+                  "coords": [
+                        23.807778,
+                        46.576602
+                  ]
+            },
+            {
+                  "name": "Csíki-tó",
+                  "text": "Helyi tó Torda közelében, amely nyugodt fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.806504,
+                        46.579523
                   ]
             }
       ],
@@ -231,6 +303,42 @@ export const romaniaCitiesV2: POI[] = [
                         23.777465,
                         46.584126
                   ]
+            },
+            {
+                  "name": "Tăul Mare",
+                  "text": "Un lac mare lângă Turda, reprezentând o suprafață de apă impresionantă în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        23.730371,
+                        46.573353
+                  ]
+            },
+            {
+                  "name": "Lacul Căprioarelor",
+                  "text": "Acest lac de lângă Turda oferă un cadru pitoresc pentru excursii relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        23.76246,
+                        46.599374
+                  ]
+            },
+            {
+                  "name": "Lacul Roman",
+                  "text": "Un lac cu nume istoric lângă Turda, care invită la plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        23.807778,
+                        46.576602
+                  ]
+            },
+            {
+                  "name": "Lacul Csiky",
+                  "text": "Un lac local lângă Turda, cunoscut pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        23.806504,
+                        46.579523
+                  ]
             }
       ],
       "en": [
@@ -292,6 +400,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.777465,
                         46.584126
+                  ]
+            },
+            {
+                  "name": "Tăul Mare",
+                  "text": "A large lake near Turda, representing an impressive water surface in the region.",
+                  "category": "natural",
+                  "coords": [
+                        23.730371,
+                        46.573353
+                  ]
+            },
+            {
+                  "name": "Lacul Căprioarelor",
+                  "text": "This lake near Turda offers a scenic environment for relaxing outings.",
+                  "category": "natural",
+                  "coords": [
+                        23.76246,
+                        46.599374
+                  ]
+            },
+            {
+                  "name": "Lacul Roman",
+                  "text": "A historically named lake near Turda inviting short walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.807778,
+                        46.576602
+                  ]
+            },
+            {
+                  "name": "Lacul Csiky",
+                  "text": "A local lake near Turda, known for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        23.806504,
+                        46.579523
                   ]
             }
       ]
@@ -847,6 +991,42 @@ export const romaniaCitiesV2: POI[] = [
                         24.352541,
                         46.168933
                   ]
+            },
+            {
+                  "name": "Heleşteu",
+                  "text": "Ein kleiner See in Mediaș, der zur Entspannung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.378169,
+                        46.129673
+                  ]
+            },
+            {
+                  "name": "Lac La Mihuț",
+                  "text": "Ein ruhiges Gewässer in Mediaș, ideal für eine kleine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.338647,
+                        46.230441
+                  ]
+            },
+            {
+                  "name": "Lacul Ighiș",
+                  "text": "Dieser See bei Mediaș ist ein beliebtes Ziel für Spaziergänge in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        24.335238,
+                        46.136046
+                  ]
+            },
+            {
+                  "name": "Parc Greweln",
+                  "text": "Der Spielplatz Parc Greweln in Mediaș bietet Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        24.346463,
+                        46.180406
+                  ]
             }
       ],
       "hu": [
@@ -878,6 +1058,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.352541,
                         46.168933
+                  ]
+            },
+            {
+                  "name": "Heleşteu",
+                  "text": "Kisméretű tó Medgyes területén, amely pihenésre hívogat a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        24.378169,
+                        46.129673
+                  ]
+            },
+            {
+                  "name": "Lac La Mihuț",
+                  "text": "Csendes vízfelület Medgyesen, ideális egy kis pihenésre a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.338647,
+                        46.230441
+                  ]
+            },
+            {
+                  "name": "Lacul Ighiș",
+                  "text": "Ez a Medgyes közeli tó népszerű célpont a környékbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.335238,
+                        46.136046
+                  ]
+            },
+            {
+                  "name": "Parc Greweln",
+                  "text": "A medgyesi Parc Greweln játszótér kikapcsolódást nyújt a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        24.346463,
+                        46.180406
                   ]
             }
       ],
@@ -911,6 +1127,42 @@ export const romaniaCitiesV2: POI[] = [
                         24.352541,
                         46.168933
                   ]
+            },
+            {
+                  "name": "Heleşteu",
+                  "text": "Un mic lac în Mediaș, care invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.378169,
+                        46.129673
+                  ]
+            },
+            {
+                  "name": "Lac La Mihuț",
+                  "text": "O întindere de apă liniștită în Mediaș, ideală pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.338647,
+                        46.230441
+                  ]
+            },
+            {
+                  "name": "Lacul Ighiș",
+                  "text": "Acest lac de lângă Mediaș este o destinație populară pentru plimbări în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        24.335238,
+                        46.136046
+                  ]
+            },
+            {
+                  "name": "Parc Greweln",
+                  "text": "Locul de joacă Parc Greweln din Mediaș oferă spații de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        24.346463,
+                        46.180406
+                  ]
             }
       ],
       "en": [
@@ -942,6 +1194,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.352541,
                         46.168933
+                  ]
+            },
+            {
+                  "name": "Heleşteu",
+                  "text": "A small lake in Mediaș, inviting visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.378169,
+                        46.129673
+                  ]
+            },
+            {
+                  "name": "Lac La Mihuț",
+                  "text": "A quiet body of water in Mediaș, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.338647,
+                        46.230441
+                  ]
+            },
+            {
+                  "name": "Lacul Ighiș",
+                  "text": "This lake near Mediaș is a popular destination for walks in the area.",
+                  "category": "natural",
+                  "coords": [
+                        24.335238,
+                        46.136046
+                  ]
+            },
+            {
+                  "name": "Parc Greweln",
+                  "text": "The Parc Greweln playground in Medias offers play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        24.346463,
+                        46.180406
                   ]
             }
       ]
@@ -2040,6 +2328,87 @@ export const romaniaCitiesV2: POI[] = [
                         24.365525,
                         45.107039
                   ]
+            },
+            {
+                  "name": "Balta 3 Nord",
+                  "text": "Der See Balta 3 Nord liegt in Râmnicu Vâlcea und lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.37985,
+                        45.116041
+                  ]
+            },
+            {
+                  "name": "Lacul Ocniţa",
+                  "text": "Der See Lacul Ocniţa befindet sich in Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.271239,
+                        45.08753
+                  ]
+            },
+            {
+                  "name": "Lacul din Brazi",
+                  "text": "Lacul din Brazi ist ein See in Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.296362,
+                        45.090067
+                  ]
+            },
+            {
+                  "name": "Lacul Ostroveni",
+                  "text": "Der See Lacul Ostroveni in Râmnicu Vâlcea bietet Möglichkeiten zur Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.359376,
+                        45.078654
+                  ]
+            },
+            {
+                  "name": "Acumularea Govora",
+                  "text": "Der Stausee Acumularea Govora liegt in der Nähe von Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.320049,
+                        45.031554
+                  ]
+            },
+            {
+                  "name": "Acumularea Râureni",
+                  "text": "Der See Acumularea Râureni befindet sich in Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.372854,
+                        45.08736
+                  ]
+            },
+            {
+                  "name": "Acumularea Râmnicu Vâlcea",
+                  "text": "Der Stausee Acumularea Râmnicu Vâlcea prägt die Landschaft von Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.387498,
+                        45.134481
+                  ]
+            },
+            {
+                  "name": "Energy Games Arcade",
+                  "text": "Energy Games Arcade in Râmnicu Vâlcea bietet Unterhaltung und Spiele für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        24.382877,
+                        45.11172
+                  ]
+            },
+            {
+                  "name": "Parc Cina",
+                  "text": "Der Spielplatz Parc Cina in Râmnicu Vâlcea ist ein Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        24.368729,
+                        45.097411
+                  ]
             }
       ],
       "hu": [
@@ -2191,6 +2560,87 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.365525,
                         45.107039
+                  ]
+            },
+            {
+                  "name": "Balta 3 Nord",
+                  "text": "A Râmnicu Vâlcea területén található Balta 3 Nord tó nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.37985,
+                        45.116041
+                  ]
+            },
+            {
+                  "name": "Lacul Ocniţa",
+                  "text": "A Lacul Ocniţa egy tó Râmnicu Vâlcea városában.",
+                  "category": "natural",
+                  "coords": [
+                        24.271239,
+                        45.08753
+                  ]
+            },
+            {
+                  "name": "Lacul din Brazi",
+                  "text": "A Lacul din Brazi tó Râmnicu Vâlcea területén található.",
+                  "category": "natural",
+                  "coords": [
+                        24.296362,
+                        45.090067
+                  ]
+            },
+            {
+                  "name": "Lacul Ostroveni",
+                  "text": "A Râmnicu Vâlcea-i Lacul Ostroveni kikapcsolódást nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        24.359376,
+                        45.078654
+                  ]
+            },
+            {
+                  "name": "Acumularea Govora",
+                  "text": "Az Acumularea Govora egy víztározó tó Râmnicu Vâlcea közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.320049,
+                        45.031554
+                  ]
+            },
+            {
+                  "name": "Acumularea Râureni",
+                  "text": "Az Acumularea Râureni tó Râmnicu Vâlcea városában található.",
+                  "category": "natural",
+                  "coords": [
+                        24.372854,
+                        45.08736
+                  ]
+            },
+            {
+                  "name": "Acumularea Râmnicu Vâlcea",
+                  "text": "Az Acumularea Râmnicu Vâlcea tó a város egyik jelentős vízfelülete.",
+                  "category": "natural",
+                  "coords": [
+                        24.387498,
+                        45.134481
+                  ]
+            },
+            {
+                  "name": "Energy Games Arcade",
+                  "text": "A Râmnicu Vâlcea-i Energy Games Arcade szórakozást és játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        24.382877,
+                        45.11172
+                  ]
+            },
+            {
+                  "name": "Parc Cina",
+                  "text": "A Râmnicu Vâlcea-i Parc Cina játszótér kedvelt hely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        24.368729,
+                        45.097411
                   ]
             }
       ],
@@ -2344,6 +2794,87 @@ export const romaniaCitiesV2: POI[] = [
                         24.365525,
                         45.107039
                   ]
+            },
+            {
+                  "name": "Balta 3 Nord",
+                  "text": "Lacul Balta 3 Nord din Râmnicu Vâlcea oferă un peisaj natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        24.37985,
+                        45.116041
+                  ]
+            },
+            {
+                  "name": "Lacul Ocniţa",
+                  "text": "Lacul Ocnița este situat în Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.271239,
+                        45.08753
+                  ]
+            },
+            {
+                  "name": "Lacul din Brazi",
+                  "text": "Lacul din Brazi este un lac situat în Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.296362,
+                        45.090067
+                  ]
+            },
+            {
+                  "name": "Lacul Ostroveni",
+                  "text": "Lacul Ostroveni din Râmnicu Vâlcea este o destinație pentru recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.359376,
+                        45.078654
+                  ]
+            },
+            {
+                  "name": "Acumularea Govora",
+                  "text": "Acumularea Govora este un lac de acumulare situat lângă Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.320049,
+                        45.031554
+                  ]
+            },
+            {
+                  "name": "Acumularea Râureni",
+                  "text": "Acumularea Râureni este un lac situat în Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.372854,
+                        45.08736
+                  ]
+            },
+            {
+                  "name": "Acumularea Râmnicu Vâlcea",
+                  "text": "Acumularea Râmnicu Vâlcea este un lac important din Râmnicu Vâlcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.387498,
+                        45.134481
+                  ]
+            },
+            {
+                  "name": "Energy Games Arcade",
+                  "text": "Energy Games Arcade din Râmnicu Vâlcea oferă divertisment și jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        24.382877,
+                        45.11172
+                  ]
+            },
+            {
+                  "name": "Parc Cina",
+                  "text": "Locul de joacă Parc Cina din Râmnicu Vâlcea este un spațiu recreativ pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.368729,
+                        45.097411
+                  ]
             }
       ],
       "en": [
@@ -2496,6 +3027,87 @@ export const romaniaCitiesV2: POI[] = [
                         24.365525,
                         45.107039
                   ]
+            },
+            {
+                  "name": "Balta 3 Nord",
+                  "text": "Balta 3 Nord is a lake in Ramnicu Valcea, suitable for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.37985,
+                        45.116041
+                  ]
+            },
+            {
+                  "name": "Lacul Ocniţa",
+                  "text": "Lacul Ocnița is a lake located in Ramnicu Valcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.271239,
+                        45.08753
+                  ]
+            },
+            {
+                  "name": "Lacul din Brazi",
+                  "text": "Lacul din Brazi is a lake situated in Ramnicu Valcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.296362,
+                        45.090067
+                  ]
+            },
+            {
+                  "name": "Lacul Ostroveni",
+                  "text": "Lacul Ostroveni in Ramnicu Valcea provides opportunities for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.359376,
+                        45.078654
+                  ]
+            },
+            {
+                  "name": "Acumularea Govora",
+                  "text": "Acumularea Govora is a reservoir lake located near Ramnicu Valcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.320049,
+                        45.031554
+                  ]
+            },
+            {
+                  "name": "Acumularea Râureni",
+                  "text": "Acumularea Râureni is a lake located in Ramnicu Valcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.372854,
+                        45.08736
+                  ]
+            },
+            {
+                  "name": "Acumularea Râmnicu Vâlcea",
+                  "text": "Acumularea Râmnicu Vâlcea is a significant lake in Ramnicu Valcea.",
+                  "category": "natural",
+                  "coords": [
+                        24.387498,
+                        45.134481
+                  ]
+            },
+            {
+                  "name": "Energy Games Arcade",
+                  "text": "Energy Games Arcade in Ramnicu Valcea offers entertainment and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        24.382877,
+                        45.11172
+                  ]
+            },
+            {
+                  "name": "Parc Cina",
+                  "text": "Parc Cina is a playground in Ramnicu Valcea, providing a recreational space for families.",
+                  "category": "family",
+                  "coords": [
+                        24.368729,
+                        45.097411
+                  ]
             }
       ]
 }
@@ -2594,6 +3206,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.452349,
                         45.694357
                   ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Ein ehemaliger Baggersee bei Codlea, der heute als ruhiges Gewässer dient.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Ein zweiter Baggersee bei Codlea, ideal für Naturbeobachtungen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Ein weiterer See bei Codlea, der die Wasserlandschaft der Region ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
+            },
+            {
+                  "name": "Lac vegetatie",
+                  "text": "Ein See mit reichem Bewuchs bei Codlea, der Lebensraum für viele Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.532153,
+                        45.719378
+                  ]
+            },
+            {
+                  "name": "Lac ascuns",
+                  "text": "Ein versteckter See bei Codlea, der Besuchern viel Ruhe und Abgeschiedenheit bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.532314,
+                        45.720337
+                  ]
             }
       ],
       "hu": [
@@ -2644,6 +3301,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.452349,
                         45.694357
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Egy egykori kavicsbányató Feketehalom mellett, amely ma csendes vízfelületként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Egy második kavicsbányató Feketehalom mellett, ideális a környékbeli természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Egy további tó Feketehalom mellett, amely kiegészíti a régió vízfelületeit.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
+            },
+            {
+                  "name": "Lac vegetatie",
+                  "text": "Növényzettel gazdag tó Feketehalom mellett, amely számos madárfajnak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        25.532153,
+                        45.719378
+                  ]
+            },
+            {
+                  "name": "Lac ascuns",
+                  "text": "Egy rejtett tó Feketehalom mellett, amely nyugalmat és elszigeteltséget kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.532314,
+                        45.720337
                   ]
             }
       ],
@@ -2696,6 +3398,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.452349,
                         45.694357
                   ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Un fost lac de balastieră lângă Codlea, care astăzi servește ca o acumulare de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Un al doilea lac de balastieră lângă Codlea, ideal pentru observarea naturii din jur.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Un alt lac lângă Codlea, care completează peisajul acvatic al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
+            },
+            {
+                  "name": "Lac vegetatie",
+                  "text": "Un lac cu vegetație bogată lângă Codlea, oferind habitat pentru multe specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        25.532153,
+                        45.719378
+                  ]
+            },
+            {
+                  "name": "Lac ascuns",
+                  "text": "Un lac ascuns lângă Codlea, care oferă vizitatorilor liniște și izolare.",
+                  "category": "natural",
+                  "coords": [
+                        25.532314,
+                        45.720337
+                  ]
             }
       ],
       "en": [
@@ -2746,6 +3493,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.452349,
                         45.694357
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "A former ballast pit lake near Codlea, now serving as a quiet water feature.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "A second ballast pit lake near Codlea, ideal for observing nature in the area.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Another lake near Codlea, complementing the region's water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
+            },
+            {
+                  "name": "Lac vegetatie",
+                  "text": "A lake with rich vegetation near Codlea, providing habitat for many bird species.",
+                  "category": "natural",
+                  "coords": [
+                        25.532153,
+                        45.719378
+                  ]
+            },
+            {
+                  "name": "Lac ascuns",
+                  "text": "A hidden lake near Codlea offering visitors peace and seclusion.",
+                  "category": "natural",
+                  "coords": [
+                        25.532314,
+                        45.720337
                   ]
             }
       ]
@@ -2815,6 +3607,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.219013,
                         45.355359
                   ]
+            },
+            {
+                  "name": "Lacul Mutu",
+                  "text": "Der Lacul Mutu ist ein See in Lupeni, der eine ruhige Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.250353,
+                        45.307917
+                  ]
+            },
+            {
+                  "name": "Lacul Verde",
+                  "text": "Der Lacul Verde in Lupeni ist für sein klares Wasser und die friedliche Umgebung bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        23.205003,
+                        45.368921
+                  ]
             }
       ],
       "hu": [
@@ -2835,6 +3645,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.219013,
                         45.355359
+                  ]
+            },
+            {
+                  "name": "Lacul Mutu",
+                  "text": "A Lacul Mutu egy tó Lupényban, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.250353,
+                        45.307917
+                  ]
+            },
+            {
+                  "name": "Lacul Verde",
+                  "text": "A lupényi Lacul Verde tiszta vizéről és békés környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.205003,
+                        45.368921
                   ]
             }
       ],
@@ -2857,6 +3685,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.219013,
                         45.355359
                   ]
+            },
+            {
+                  "name": "Lacul Mutu",
+                  "text": "Lacul Mutu este un lac din Lupeni ce oferă un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        23.250353,
+                        45.307917
+                  ]
+            },
+            {
+                  "name": "Lacul Verde",
+                  "text": "Lacul Verde din Lupeni este cunoscut pentru apa sa curată și mediul pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        23.205003,
+                        45.368921
+                  ]
             }
       ],
       "en": [
@@ -2877,6 +3723,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.219013,
                         45.355359
+                  ]
+            },
+            {
+                  "name": "Lacul Mutu",
+                  "text": "Lacul Mutu is a lake in Lupeni offering a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.250353,
+                        45.307917
+                  ]
+            },
+            {
+                  "name": "Lacul Verde",
+                  "text": "Lacul Verde in Lupeni is known for its clear water and peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        23.205003,
+                        45.368921
                   ]
             }
       ]
@@ -3554,6 +4418,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.1805,
                         46.9337
                   ]
+            },
+            {
+                  "name": "Acumularea Pângărați",
+                  "text": "Der Stausee Acumularea Pângărați liegt in Pangrați und bietet eine ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        26.204746,
+                        46.924391
+                  ]
+            },
+            {
+                  "name": "Acumularea Bâtca Doamnei",
+                  "text": "Der See Acumularea Bâtca Doamnei befindet sich in der Region Pangrați.",
+                  "category": "natural",
+                  "coords": [
+                        26.323562,
+                        46.934176
+                  ]
+            },
+            {
+                  "name": "Acumularea Vaduri",
+                  "text": "Acumularea Vaduri ist ein See in Pangrați, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.238699,
+                        46.936523
+                  ]
             }
       ],
       "hu": [
@@ -3565,6 +4456,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.1805,
                         46.9337
+                  ]
+            },
+            {
+                  "name": "Acumularea Pângărați",
+                  "text": "A Pangrați területén található Acumularea Pângărați tó nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        26.204746,
+                        46.924391
+                  ]
+            },
+            {
+                  "name": "Acumularea Bâtca Doamnei",
+                  "text": "Az Acumularea Bâtca Doamnei tó Pangrați térségében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.323562,
+                        46.934176
+                  ]
+            },
+            {
+                  "name": "Acumularea Vaduri",
+                  "text": "Az Acumularea Vaduri tó Pangrați községben található, alkalmas természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.238699,
+                        46.936523
                   ]
             }
       ],
@@ -3578,6 +4496,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.1805,
                         46.9337
                   ]
+            },
+            {
+                  "name": "Acumularea Pângărați",
+                  "text": "Lacul de acumulare Pângărați din Pangrați oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        26.204746,
+                        46.924391
+                  ]
+            },
+            {
+                  "name": "Acumularea Bâtca Doamnei",
+                  "text": "Lacul de acumulare Bâtca Doamnei este situat în zona localității Pangrați.",
+                  "category": "natural",
+                  "coords": [
+                        26.323562,
+                        46.934176
+                  ]
+            },
+            {
+                  "name": "Acumularea Vaduri",
+                  "text": "Lacul de acumulare Vaduri din Pangrați este ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.238699,
+                        46.936523
+                  ]
             }
       ],
       "en": [
@@ -3589,6 +4534,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.1805,
                         46.9337
+                  ]
+            },
+            {
+                  "name": "Acumularea Pângărați",
+                  "text": "Acumularea Pângărați is a reservoir lake in Pangrati, offering a peaceful setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.204746,
+                        46.924391
+                  ]
+            },
+            {
+                  "name": "Acumularea Bâtca Doamnei",
+                  "text": "Acumularea Bâtca Doamnei is a reservoir lake located in the Pangrati area.",
+                  "category": "natural",
+                  "coords": [
+                        26.323562,
+                        46.934176
+                  ]
+            },
+            {
+                  "name": "Acumularea Vaduri",
+                  "text": "Acumularea Vaduri is a reservoir lake in Pangrati, suitable for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.238699,
+                        46.936523
                   ]
             }
       ]
@@ -3732,6 +4704,42 @@ export const romaniaCitiesV2: POI[] = [
                         28.635995,
                         44.067279
                   ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Ein bekannter See in Techirghiol, der für seine Lage nahe der Küste geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Ein See bei Techirghiol, der Teil eines bedeutenden Naturschutzgebietes ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Ein Stausee bei Techirghiol, der zur Wasserregulierung und Erholung dient.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Dieser See bei Techirghiol bietet eine weite Aussicht über die flache Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
             }
       ],
       "hu": [
@@ -3826,6 +4834,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.635995,
                         44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Ismert tó Techirghiol-ban, amelyet a tengerparthoz közeli fekvése miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Egy Techirghiol melletti tó, amely egy jelentős természetvédelmi terület része.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Egy Techirghiol melletti víztározó, amely vízszabályozásra és kikapcsolódásra szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Ez a Techirghiol melletti tó tágas kilátást nyújt a sík tájra.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
                   ]
             }
       ],
@@ -3922,6 +4966,42 @@ export const romaniaCitiesV2: POI[] = [
                         28.635995,
                         44.067279
                   ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Un lac cunoscut în Techirghiol, apreciat pentru locația sa aproape de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Un lac lângă Techirghiol, care face parte dintr-o rezervație naturală importantă.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Un lac de acumulare lângă Techirghiol, folosit pentru reglarea apei și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Acest lac de lângă Techirghiol oferă o vedere panoramică asupra peisajului de câmpie.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
             }
       ],
       "en": [
@@ -4016,6 +5096,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.635995,
                         44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "A well-known lake in Techirghiol, appreciated for its location near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "A lake near Techirghiol that is part of a significant nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "A reservoir near Techirghiol used for water regulation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "This lake near Techirghiol offers an expansive view over the flat landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
                   ]
             }
       ]
@@ -4246,6 +5362,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.506977,
                         45.660894
                   ]
+            },
+            {
+                  "name": "Balta Cristian",
+                  "text": "Der See Balta Cristian liegt bei Ghimbav und bietet eine natürliche Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        25.513429,
+                        45.631086
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Lac balastiera 1 ist ein See in der Nähe von Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Der See Lac balastiera 2 befindet sich bei Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Lac balastiera 3 ist ein Gewässer in der Region Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
             }
       ],
       "hu": [
@@ -4296,6 +5448,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.506977,
                         45.660894
+                  ]
+            },
+            {
+                  "name": "Balta Cristian",
+                  "text": "A Ghimbav melletti Balta Cristian tó természetközeli élményt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.513429,
+                        45.631086
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "A Lac balastiera 1 egy tó Ghimbav közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "A Lac balastiera 2 tó Ghimbav mellett fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "A Lac balastiera 3 egy állóvíz Ghimbav környékén.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
                   ]
             }
       ],
@@ -4348,6 +5536,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.506977,
                         45.660894
                   ]
+            },
+            {
+                  "name": "Balta Cristian",
+                  "text": "Lacul Balta Cristian de lângă Ghimbav oferă un peisaj natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        25.513429,
+                        45.631086
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Lac balastiera 1 este un lac situat în apropiere de Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Lacul Lac balastiera 2 este situat lângă Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Lac balastiera 3 este un lac din zona localității Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
+                  ]
             }
       ],
       "en": [
@@ -4398,6 +5622,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.506977,
                         45.660894
+                  ]
+            },
+            {
+                  "name": "Balta Cristian",
+                  "text": "Balta Cristian is a lake near Ghimbav, offering a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.513429,
+                        45.631086
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 1",
+                  "text": "Lac balastiera 1 is a lake located near Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.530528,
+                        45.717563
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 2",
+                  "text": "Lac balastiera 2 is a lake situated near Ghimbav.",
+                  "category": "natural",
+                  "coords": [
+                        25.527745,
+                        45.716441
+                  ]
+            },
+            {
+                  "name": "Lac balastiera 3",
+                  "text": "Lac balastiera 3 is a lake in the Ghimbav area.",
+                  "category": "natural",
+                  "coords": [
+                        25.527105,
+                        45.717545
                   ]
             }
       ]
@@ -4532,6 +5792,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.040053,
                         45.187033
                   ]
+            },
+            {
+                  "name": "Teren Joacă",
+                  "text": "Ein Spielplatz für Kinder in Valenii De Munte, der Raum zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.044134,
+                        45.180563
+                  ]
             }
       ],
       "hu": [
@@ -4617,6 +5886,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040053,
                         45.187033
+                  ]
+            },
+            {
+                  "name": "Teren Joacă",
+                  "text": "Gyermekjátszótér Valenii De Munte településen, amely szabadtéri játéklehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        26.044134,
+                        45.180563
                   ]
             }
       ],
@@ -4704,6 +5982,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.040053,
                         45.187033
                   ]
+            },
+            {
+                  "name": "Teren Joacă",
+                  "text": "Un teren de joacă pentru copii în Vălenii De Munte, oferind spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.044134,
+                        45.180563
+                  ]
             }
       ],
       "en": [
@@ -4789,6 +6076,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040053,
                         45.187033
+                  ]
+            },
+            {
+                  "name": "Teren Joacă",
+                  "text": "A playground for children in Valenii De Munte, offering space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        26.044134,
+                        45.180563
                   ]
             }
       ]
@@ -4989,6 +6285,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.73059,
                         45.1247
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Der See Lacul Peștelui liegt in Câmpina.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul in Câmpina ist für sein salzhaltiges Wasser bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Der See Lacul Curiacul befindet sich im Stadtgebiet von Câmpina.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Lac",
+                  "text": "Parc Lac in Câmpina bietet einen Spielbereich für Kinder in Parknähe.",
+                  "category": "family",
+                  "coords": [
+                        25.735452,
+                        45.133028
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Der Spielplatz Parc Bucea befindet sich in Câmpina.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
+                  ]
             }
       ],
       "hu": [
@@ -5045,6 +6386,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.73059,
                         45.1247
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "A Lacul Peștelui egy tó Câmpina városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "A Câmpina-i Băile Sărate Șoimul sós vizű taváról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "A Lacul Curiacul tó Câmpina belterületén található.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Lac",
+                  "text": "A Câmpina-i Parc Lac játszótér kikapcsolódási lehetőséget kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.735452,
+                        45.133028
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "A Parc Bucea játszótér Câmpina városában található.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
                   ]
             }
       ],
@@ -5103,6 +6489,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.73059,
                         45.1247
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Lacul Peștelui este un lac situat în Câmpina.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul din Câmpina sunt cunoscute pentru apa sărată.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul este situat în orașul Câmpina.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Lac",
+                  "text": "Locul de joacă Parc Lac din Câmpina oferă un spațiu recreativ pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.735452,
+                        45.133028
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Locul de joacă Parc Bucea este situat în Câmpina.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
+                  ]
             }
       ],
       "en": [
@@ -5159,6 +6590,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.73059,
                         45.1247
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Lacul Peștelui is a lake located in Campina.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul in Campina is known for its salt water.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul is a lake located within the city of Campina.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Lac",
+                  "text": "Parc Lac is a playground in Campina, offering a recreational area for children.",
+                  "category": "family",
+                  "coords": [
+                        25.735452,
+                        45.133028
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Parc Bucea is a playground located in Campina.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
                   ]
             }
       ]
@@ -5370,6 +6846,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.66693,
                         45.180976
                   ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Der Lacul Curiacul ist ein lokaler See in Breaza, ideal für einen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Loc Joacă Copii",
+                  "text": "Dieser Spielplatz in Breaza bietet Kindern einen sicheren Ort für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        25.668368,
+                        45.180473
+                  ]
             }
       ],
       "hu": [
@@ -5401,6 +6895,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.66693,
                         45.180976
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "A Lacul Curiacul egy helyi tó Breazában, amely ideális egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Loc Joacă Copii",
+                  "text": "Ez a breazai játszótér biztonságos helyet kínál a gyerekeknek a játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.668368,
+                        45.180473
                   ]
             }
       ],
@@ -5434,6 +6946,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.66693,
                         45.180976
                   ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul este un lac local din Breaza, ideal pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Loc Joacă Copii",
+                  "text": "Acest loc de joacă din Breaza oferă copiilor un spațiu sigur pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        25.668368,
+                        45.180473
+                  ]
             }
       ],
       "en": [
@@ -5465,6 +6995,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.66693,
                         45.180976
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul is a local lake in Breaza, ideal for an outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Loc Joacă Copii",
+                  "text": "This playground in Breaza offers children a safe place for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        25.668368,
+                        45.180473
                   ]
             }
       ]
@@ -7577,6 +9125,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.671603,
                         45.174254
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Ein See in Cornu, der einen malerischen Anblick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Ein See in Cornu, bekannt für seine malerische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Ein See in Cornu, ideal für ruhige Spaziergänge und die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
             }
       ],
       "hu": [
@@ -7635,6 +9210,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.671603,
                         45.174254
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Cornu területén található tó, amely festői látványt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Cornu területén található tó, amely festői környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Helyi tó Cornu területén, amely ideális nyugodt sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
                   ]
             }
       ],
@@ -7695,6 +9297,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.671603,
                         45.174254
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Un lac situat în Cornu, oferind o vedere pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Un lac în Cornu, cunoscut pentru împrejurimile sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Un lac local în Cornu, ideal pentru plimbări liniștite și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
             }
       ],
       "en": [
@@ -7753,6 +9382,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.671603,
                         45.174254
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "A lake located in Cornu, offering a scenic view.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "A lake in Cornu, known for its scenic surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "A local lake in Cornu, ideal for peaceful walks and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
                   ]
             }
       ]
@@ -7841,6 +9497,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.751924,
                         45.110264
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Der Lacul Peștelui ist ein Gewässer in Bănești mit einer industriellen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul ist ein See in Bănești, der für sein salzhaltiges Wasser bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Der Lacul Curiacul in Bănești ist ein ruhiges Gewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Der Parc Bucea ist ein kleiner Spielplatz in Bănești für die lokale Gemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
+                  ]
             }
       ],
       "hu": [
@@ -7880,6 +9572,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.751924,
                         45.110264
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "A Lacul Peștelui egy vízfelület Băneștiben, ipari környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "A Băile Sărate Șoimul egy tó Băneștiben, amely sós vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "A Băneștiben található Lacul Curiacul egy csendes vízfelület a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "A Parc Bucea egy kis játszótér Băneștiben a helyi közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
                   ]
             }
       ],
@@ -7921,6 +9649,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.751924,
                         45.110264
                   ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Lacul Peștelui este o zonă de apă din Bănești situată într-un cadru industrial.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul este un lac din Bănești cunoscut pentru apa sa sărată.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul din Bănești este o acumulare de apă liniștită din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Parc Bucea este un mic loc de joacă din Bănești pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
+                  ]
             }
       ],
       "en": [
@@ -7960,6 +9724,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.751924,
                         45.110264
+                  ]
+            },
+            {
+                  "name": "Lacul Peștelui - Deșeuri Petroliere",
+                  "text": "Lacul Peștelui is a body of water in Bănești located in an industrial setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.756138,
+                        45.13576
+                  ]
+            },
+            {
+                  "name": "Băile Sarate Soimul",
+                  "text": "Băile Sărate Șoimul is a lake in Bănești known for its salt water.",
+                  "category": "natural",
+                  "coords": [
+                        25.797566,
+                        45.142484
+                  ]
+            },
+            {
+                  "name": "Lacul Curiacul",
+                  "text": "Lacul Curiacul in Bănești is a peaceful body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        25.7257,
+                        45.130038
+                  ]
+            },
+            {
+                  "name": "Parc Bucea",
+                  "text": "Parc Bucea is a small playground in Bănești for the local community.",
+                  "category": "family",
+                  "coords": [
+                        25.741361,
+                        45.120591
                   ]
             }
       ]
@@ -8071,6 +9871,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.03804,
                         45.187792
                   ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Ein See in Drajna, geeignet für einen entspannten Besuch.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
+                  ]
             }
       ],
       "hu": [
@@ -8082,6 +9891,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.03804,
                         45.187792
+                  ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Drajna területén található tó, amely alkalmas egy pihentető látogatásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
                   ]
             }
       ],
@@ -8095,6 +9913,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.03804,
                         45.187792
                   ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Un lac situat în Drajna, potrivit pentru o vizită relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
+                  ]
             }
       ],
       "en": [
@@ -8106,6 +9933,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.03804,
                         45.187792
+                  ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "A lake located in Drajna, suitable for a relaxing visit.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
                   ]
             }
       ]
@@ -8328,6 +10164,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.055079,
                         45.223774
                   ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Lacul Sărat Baia Baciului in Teișani ist ein See mit mineralreichem Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
+                  ]
             }
       ],
       "hu": [
@@ -8374,6 +10219,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.055079,
                         45.223774
+                  ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "A Teișani-ban található Lacul Sărat Baia Baciului egy ásványi anyagokban gazdag tó.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
                   ]
             }
       ],
@@ -8422,6 +10276,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.055079,
                         45.223774
                   ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Lacul Sărat Baia Baciului din Teișani este un lac cu apă mineralizată.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
+                  ]
             }
       ],
       "en": [
@@ -8468,6 +10331,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.055079,
                         45.223774
+                  ]
+            },
+            {
+                  "name": "Lacul Sărat Baia Baciului",
+                  "text": "Lacul Sărat Baia Baciului in Teisani is a lake with mineral-rich water.",
+                  "category": "natural",
+                  "coords": [
+                        25.934231,
+                        45.231411
                   ]
             }
       ]
@@ -8569,10 +10441,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-barcanesti-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Balta Fânari",
+                  "text": "Balta Fânari ist ein typischer Flachsee in Barcănești in einer ländlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.086085,
+                        44.793321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balta Fânari",
+                  "text": "A Balta Fânari egy tipikus sekély tó Barcăneștiben, vidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.086085,
+                        44.793321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balta Fânari",
+                  "text": "Balta Fânari este un lac tipic de câmpie din Barcănești, situat într-un cadru rural.",
+                  "category": "natural",
+                  "coords": [
+                        26.086085,
+                        44.793321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balta Fânari",
+                  "text": "Balta Fânari is a typical shallow lake in Barcănești in a rural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.086085,
+                        44.793321
+                  ]
+            }
+      ]
 }
   },
   {
@@ -9133,6 +11045,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.034496,
                         44.942018
                   ]
+            },
+            {
+                  "name": "Parcul Strave",
+                  "text": "Parcul Strave in Bucov bietet Freizeitaktivitäten für Kinder im Freien.",
+                  "category": "family",
+                  "coords": [
+                        26.04818,
+                        44.940879
+                  ]
             }
       ],
       "hu": [
@@ -9218,6 +11139,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.034496,
                         44.942018
+                  ]
+            },
+            {
+                  "name": "Parcul Strave",
+                  "text": "A bukovi Parcul Strave szabadtéri kikapcsolódást nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        26.04818,
+                        44.940879
                   ]
             }
       ],
@@ -9305,6 +11235,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.034496,
                         44.942018
                   ]
+            },
+            {
+                  "name": "Parcul Strave",
+                  "text": "Locul de joacă Parcul Strave din Bucov oferă spații de recreere în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.04818,
+                        44.940879
+                  ]
             }
       ],
       "en": [
@@ -9390,6 +11329,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.034496,
                         44.942018
+                  ]
+            },
+            {
+                  "name": "Parcul Strave",
+                  "text": "Parcul Strave in Bucov offers outdoor recreational spaces for children.",
+                  "category": "family",
+                  "coords": [
+                        26.04818,
+                        44.940879
                   ]
             }
       ]
@@ -11156,6 +13104,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.028795,
                         44.348366
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Ein Fischteich in der Gegend von Magurele.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Ein malerischer See in Magurele, ideal zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
             }
       ],
       "hu": [
@@ -11194,6 +13160,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.028795,
                         44.348366
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Horgásztó Magurele környékén.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Festői tó Magurele területén, amely tökéletes a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
                   ]
             }
       ],
@@ -11234,6 +13218,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.028795,
                         44.348366
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "O baltă de pescuit situată în zona Măgurele.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Un lac pitoresc în Măgurele, perfect pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
             }
       ],
       "en": [
@@ -11272,6 +13274,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.028795,
                         44.348366
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A fishing pond located in the Magurele area.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Soare Lake",
+                  "text": "A scenic lake in Magurele, perfect for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
                   ]
             }
       ]
@@ -11549,6 +13569,87 @@ export const romaniaCitiesV2: POI[] = [
                         26.066745,
                         44.5708
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Der See Cociovaliștea liegt in der Nähe von Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Der Băneasa-See erstreckt sich bis in das Gebiet von Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Der Chitila-See befindet sich unweit von Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Der Străulești-See liegt in der Region Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Der Grivița-See ist ein Gewässer nahe Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Der Herăstrău-See befindet sich im weiteren Umkreis von Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera ist ein See in der Gegend von Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Poppy Playground war ein Spielplatz in Otopeni.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Yardinia",
+                  "text": "Der Spielplatz Yardinia in Otopeni bietet Platz zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        26.052167,
+                        44.535132
+                  ]
             }
       ],
       "hu": [
@@ -11570,6 +13671,87 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.066745,
                         44.5708
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "A Cociovaliștea tó Otopeni közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "A Băneasa-tó Otopeni térségéig nyúlik el.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A Chitila-tó Otopeni közelében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A Străulești-tó Otopeni környékén található.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Grivița-tó egy állóvíz Otopeni közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Herăstrău-tó Otopeni tágabb környezetében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Balta Pipera tó Otopeni térségében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "A Poppy Playground egykori játszótér Otopeni városában.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Yardinia",
+                  "text": "Az otopeni Yardinia játszótér szabadtéri játéklehetőséget biztosít.",
+                  "category": "family",
+                  "coords": [
+                        26.052167,
+                        44.535132
                   ]
             }
       ],
@@ -11593,6 +13775,87 @@ export const romaniaCitiesV2: POI[] = [
                         26.066745,
                         44.5708
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Lacul Cociovaliștea este situat în apropiere de Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Lacul Băneasa se întinde până în zona localității Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila este situat în vecinătatea orașului Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești se află în zona localității Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița este situat în apropiere de Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău este situat în zona extinsă a localității Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Lacul Balta Pipera se află în zona localității Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Poppy Playground a fost un loc de joacă în Otopeni.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Yardinia",
+                  "text": "Locul de joacă Yardinia din Otopeni oferă spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.052167,
+                        44.535132
+                  ]
             }
       ],
       "en": [
@@ -11614,6 +13877,87 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.066745,
                         44.5708
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Cociovalistea is a lake located near Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "Lake Băneasa extends into the Otopeni area.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila is a lake located near Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești is located in the Otopeni area.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița is a lake located near Otopeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău is located in the broader Otopeni area.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera is a lake in the Otopeni area.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Poppy Playground was a playground in Otopeni.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Yardinia",
+                  "text": "Yardinia is a playground in Otopeni, providing space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        26.052167,
+                        44.535132
                   ]
             }
       ]
@@ -12519,6 +14863,141 @@ export const romaniaCitiesV2: POI[] = [
                         26.163549,
                         44.456783
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Der See Lacul Băneasa liegt im Gebiet von Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Der See Lacul IOR befindet sich in der Nähe von Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Der Pantelimon-See erstreckt sich bis nach Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Der Herăstrău-See liegt im weiteren Umfeld von Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Der See Lacul Cernica befindet sich unweit von Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera ist ein See im Bezirk Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Der Plumbuita-See liegt in der Region Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lebedelor-See",
+                  "text": "Swan Lake (Lacul Lebedelor) befindet sich in Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Der See Lacul Dobroești liegt bei Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Fundeni-See befindet sich in der Nähe von Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Zoulie Land",
+                  "text": "Zoulie Land in Voluntari ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.151122,
+                        44.4933
+                  ]
+            },
+            {
+                  "name": "Kinder Village Playground",
+                  "text": "Der Kinder Village Playground befindet sich in Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.135336,
+                        44.493492
+                  ]
+            },
+            {
+                  "name": "Parcul Florilor",
+                  "text": "Der Spielplatz im Parcul Florilor in Voluntari ist ein Ort für Kinderfreizeit.",
+                  "category": "family",
+                  "coords": [
+                        26.184957,
+                        44.49203
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Terra Residence",
+                  "text": "Der Spielplatz Terra Residence liegt in Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.178365,
+                        44.496196
+                  ]
+            },
+            {
+                  "name": "Locul de joacă Uliul",
+                  "text": "Locul de joacă Uliul ist ein Spielbereich für Kinder in Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.135573,
+                        44.464579
+                  ]
             }
       ],
       "hu": [
@@ -12625,6 +15104,141 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.163549,
                         44.456783
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "A Lacul Băneasa tó Voluntari területén található.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A Lacul IOR tó Voluntari szomszédságában található.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A Pantelimon-tó Voluntari környékéig húzódik.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Herăstrău-tó Voluntari tágabb környezetében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "A Lacul Cernica tó Voluntari közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Balta Pipera tó Voluntari körzetében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Plumbuita-tó Voluntari térségében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "A Swan Lake (Lacul Lebedelor) tó Voluntari városában található.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A Lacul Dobroești tó Voluntari mellett fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Fundeni-tó Voluntari szomszédságában található.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Zoulie Land",
+                  "text": "A Voluntari-ban található Zoulie Land játszótér szórakozást kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        26.151122,
+                        44.4933
+                  ]
+            },
+            {
+                  "name": "Kinder Village Playground",
+                  "text": "A Kinder Village Playground játszótér Voluntari városában található.",
+                  "category": "family",
+                  "coords": [
+                        26.135336,
+                        44.493492
+                  ]
+            },
+            {
+                  "name": "Parcul Florilor",
+                  "text": "A Voluntari-i Parcul Florilor játszótér kikapcsolódási hely a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        26.184957,
+                        44.49203
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Terra Residence",
+                  "text": "A Terra Residence játszótér Voluntari területén található.",
+                  "category": "family",
+                  "coords": [
+                        26.178365,
+                        44.496196
+                  ]
+            },
+            {
+                  "name": "Locul de joacă Uliul",
+                  "text": "A Voluntari-i Locul de joacă Uliul játszótér kikapcsolódást nyújt a kicsiknek.",
+                  "category": "family",
+                  "coords": [
+                        26.135573,
+                        44.464579
                   ]
             }
       ],
@@ -12733,6 +15347,141 @@ export const romaniaCitiesV2: POI[] = [
                         26.163549,
                         44.456783
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Lacul Băneasa este situat în zona localității Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR este situat în apropiere de Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon se întinde până în zona orașului Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău este situat în zona extinsă a localității Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Lacul Cernica este situat în vecinătatea orașului Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Lacul Balta Pipera se află în zona orașului Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita este situat în zona localității Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Lacul Lebedelor (Swan Lake) este situat în Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești este situat lângă Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lacul Fundeni se află în apropiere de Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Zoulie Land",
+                  "text": "Locul de joacă Zoulie Land din Voluntari oferă activități recreative pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.151122,
+                        44.4933
+                  ]
+            },
+            {
+                  "name": "Kinder Village Playground",
+                  "text": "Locul de joacă Kinder Village Playground este situat în Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.135336,
+                        44.493492
+                  ]
+            },
+            {
+                  "name": "Parcul Florilor",
+                  "text": "Locul de joacă din Parcul Florilor din Voluntari este un spațiu pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.184957,
+                        44.49203
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Terra Residence",
+                  "text": "Locul de joacă Terra Residence este situat în Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.178365,
+                        44.496196
+                  ]
+            },
+            {
+                  "name": "Locul de joacă Uliul",
+                  "text": "Locul de joacă Uliul din Voluntari este un spațiu recreativ pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.135573,
+                        44.464579
+                  ]
             }
       ],
       "en": [
@@ -12840,6 +15589,141 @@ export const romaniaCitiesV2: POI[] = [
                         26.163549,
                         44.456783
                   ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "Lake Băneasa is a lake located in the Voluntari area.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR is a lake located near Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon extends into the Voluntari area.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău is located in the broader Voluntari area.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Lacul Cernica is located near Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera is a lake in the Voluntari district.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita is a lake in the Voluntari area.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Swan Lake",
+                  "text": "Swan Lake (Lacul Lebedelor) is a lake located in Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești is a lake situated near Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni is located near Voluntari.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Zoulie Land",
+                  "text": "Zoulie Land is a playground in Voluntari, offering recreational activities for children.",
+                  "category": "family",
+                  "coords": [
+                        26.151122,
+                        44.4933
+                  ]
+            },
+            {
+                  "name": "Kinder Village Playground",
+                  "text": "Kinder Village Playground is a playground located in Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.135336,
+                        44.493492
+                  ]
+            },
+            {
+                  "name": "Parcul Florilor",
+                  "text": "The playground in Parcul Florilor in Voluntari is a space for children's recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.184957,
+                        44.49203
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Terra Residence",
+                  "text": "The Terra Residence playground is located in Voluntari.",
+                  "category": "family",
+                  "coords": [
+                        26.178365,
+                        44.496196
+                  ]
+            },
+            {
+                  "name": "Locul de joacă Uliul",
+                  "text": "Locul de joacă Uliul is a playground in Voluntari, offering a recreational space for children.",
+                  "category": "family",
+                  "coords": [
+                        26.135573,
+                        44.464579
+                  ]
             }
       ]
 }
@@ -12899,6 +15783,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.966968,
                         44.374614
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Ein See in Bragadiru, der oft zum Angeln genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Ein See in Bragadiru, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
             }
       ],
       "hu": [
@@ -12910,6 +15812,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.966968,
                         44.374614
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Bragadiru területén található tó, amelyet gyakran horgászatra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Bragadiru területén található tó, amely csendes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
                   ]
             }
       ],
@@ -12923,6 +15843,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.966968,
                         44.374614
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Un lac în Bragadiru, utilizat adesea pentru activități de pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Un lac situat în Bragadiru, oferind un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
             }
       ],
       "en": [
@@ -12934,6 +15872,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.966968,
                         44.374614
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A lake in Bragadiru, often used for fishing activities.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "A lake located in Bragadiru, offering a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
                   ]
             }
       ]
@@ -13032,6 +15988,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.977732,
                         44.477417
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Der Lacul Morii ist ein großer Stausee bei Chitila, der ein weites Panorama bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Der Lacul Străulești in Chitila ist ein beliebtes lokales Gewässer in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Dieses Absetzbecken in Chitila ist ein technisches Gewässer in industrieller Lage.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Der Lacul Grivița in Chitila bietet eine weitläufige Wasserfläche in Stadtnähe.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
             }
       ],
       "hu": [
@@ -13081,6 +16073,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.977732,
                         44.477417
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A Lacul Morii egy nagy víztározó Chitila közelében, amely tágas panorámát nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A Chitilában található Lacul Străulești egy népszerű helyi vízfelület a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Ez az ülepítő medence Chitilában egy technikai jellegű vízfelület ipari területen.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Chitilában található Lacul Grivița tágas vízfelületet kínál a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
                   ]
             }
       ],
@@ -13132,6 +16160,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.977732,
                         44.477417
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii este un lac de acumulare mare de lângă Chitila, ce oferă o panoramă vastă.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești din Chitila este o zonă de apă locală populară în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Acest bazin de decantare din Chitila este o zonă de apă tehnică situată industrial.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița din Chitila oferă o suprafață de apă întinsă în apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
             }
       ],
       "en": [
@@ -13182,6 +16246,42 @@ export const romaniaCitiesV2: POI[] = [
                         25.977732,
                         44.477417
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii is a large reservoir near Chitila offering a wide panorama.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești in Chitila is a popular local body of water in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "This settling basin in Chitila is a technical body of water in an industrial location.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița in Chitila offers an expansive water surface near the city.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
             }
       ]
 }
@@ -13231,10 +16331,86 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-darasti-ilfov-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Der See Balta de pescuit Clinceni liegt bei Dărăști-Ilfov und ist für Angler geeignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Soare Lake ist ein Gewässer in der Nähe von Dărăști-Ilfov.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A Dărăști-Ilfov melletti Balta de pescuit Clinceni horgászatra alkalmas tó.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "A Soare Lake egy tó Dărăști-Ilfov környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Lacul Balta de pescuit Clinceni de lângă Dărăști-Ilfov este destinat pescuitului.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Lacul Soare Lake este situat în apropiere de Dărăști-Ilfov.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Balta de pescuit Clinceni is a lake near Darasti Ilfov, suitable for fishing.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Soare Lake",
+                  "text": "Soare Lake is a lake located near Darasti Ilfov.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ]
 }
   },
   {
@@ -13318,6 +16494,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.07674,
                         44.329464
                   ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Ein See in Copaceni, ideal zur Beobachtung der umliegenden Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
             }
       ],
       "hu": [
@@ -13355,6 +16540,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.07674,
                         44.329464
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Helyi tó Copaceni területén, amely ideális a környező táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
                   ]
             }
       ],
@@ -13394,6 +16588,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.07674,
                         44.329464
                   ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Un lac local în Copăceni, ideal pentru observarea peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
             }
       ],
       "en": [
@@ -13431,6 +16634,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.07674,
                         44.329464
+                  ]
+            },
+            {
+                  "name": "Soare Lake",
+                  "text": "A local lake in Copaceni, ideal for observing the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
                   ]
             }
       ]
@@ -13532,10 +16744,122 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-vidra-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Acumularea Cocioc",
+                  "text": "Der See Acumularea Cocioc befindet sich in Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        26.190696,
+                        44.291163
+                  ]
+            },
+            {
+                  "name": "Lacul Varlaam",
+                  "text": "Varlaam Lake in Vidra bietet eine ruhige Umgebung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.086081,
+                        44.253849
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Der See Soare Lake liegt in der Region Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acumularea Cocioc",
+                  "text": "Az Acumularea Cocioc tó Vidra községben található.",
+                  "category": "natural",
+                  "coords": [
+                        26.190696,
+                        44.291163
+                  ]
+            },
+            {
+                  "name": "Lacul Varlaam",
+                  "text": "A Vidra-i Varlaam Lake nyugodt vízparti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.086081,
+                        44.253849
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "A Soare Lake tó Vidra térségében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acumularea Cocioc",
+                  "text": "Lacul de acumulare Cocioc este situat în Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        26.190696,
+                        44.291163
+                  ]
+            },
+            {
+                  "name": "Lacul Varlaam",
+                  "text": "Lacul Varlaam din Vidra oferă un cadru liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.086081,
+                        44.253849
+                  ]
+            },
+            {
+                  "name": "Balta Soare",
+                  "text": "Lacul Soare Lake este situat în zona localității Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acumularea Cocioc",
+                  "text": "Acumularea Cocioc is a reservoir lake located in Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        26.190696,
+                        44.291163
+                  ]
+            },
+            {
+                  "name": "Varlaam Lake",
+                  "text": "Varlaam Lake in Vidra offers a peaceful lakeside setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.086081,
+                        44.253849
+                  ]
+            },
+            {
+                  "name": "Soare Lake",
+                  "text": "Soare Lake is a lake located in the Vidra area.",
+                  "category": "natural",
+                  "coords": [
+                        26.075719,
+                        44.264209
+                  ]
+            }
+      ]
 }
   },
   {
@@ -13583,10 +16907,374 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-sindrilita-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Ein See in Sindrilita, der eine friedliche Außenatmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Ein natürlicher See in Sindrilita, geeignet für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Ein See in Sindrilita, der zum Angeln und für Naturaktivitäten genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Ein malerischer See in der Gegend von Sindrilita.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Ein See in Sindrilita, der Naturliebhabern einen ruhigen Ort bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Ein See in Sindrilita, beliebt zum Angeln und zur Entspannung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "Ein wildes Seengebiet in Sindrilita, ideal um die Natur zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Ein See in Sindrilita, Teil eines lokalen Wassersystems zum Angeln.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Ein See in Sindrilita, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Ein natürlicher See in Sindrilita, geeignet für die ruhige Beobachtung der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Sindrilita területén található tó, amely nyugodt szabadtéri légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Természetes tó Sindrilita területén, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Horgászatra és természeti tevékenységekre használt tó Sindrilita területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Festői tó Sindrilita környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Sindrilita területén található tó, amely csendes helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Horgászatra és szabadtéri kikapcsolódásra népszerű tó Sindrilita területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "Vadregényes tó Sindrilita területén, amely ideális a természet megtapasztalására.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Sindrilita területén található tó, egy helyi horgászati vízrendszer része.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Sindrilita területén található tó, amely nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Természetes tó Sindrilita területén, amely alkalmas a természet csendes megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Un lac în Șindrilița, oferind o atmosferă liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Un lac natural situat în Șindrilița, potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Un lac în Șindrilița utilizat pentru pescuit și activități în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Un lac pitoresc situat în zona Șindrilița.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Un lac în Șindrilița, oferind un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Un lac în Șindrilița, popular pentru pescuit și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "O zonă de lac sălbatic în Șindrilița, ideală pentru a experimenta natura.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Un lac în Șindrilița, parte a unui sistem local de apă pentru pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Un lac situat în Șindrilița, oferind un mediu calm.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Un lac natural în Șindrilița, potrivit pentru observarea liniștită a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "A lake in Sindrilita, providing a peaceful outdoor atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "A natural lake located in Sindrilita, suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "A lake in Sindrilita used for fishing and nature activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "A scenic lake located in the Sindrilita area.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "A lake in Sindrilita, offering a quiet spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "A lake in Sindrilita, popular for fishing and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "A wild lake area in Sindrilita, ideal for experiencing nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "A lake in Sindrilita, part of a local water system for fishing.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "A lake located in Sindrilita, offering a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "A natural lake in Sindrilita, suitable for quiet observation of nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
+            }
+      ]
 }
   },
   {
@@ -13685,10 +17373,158 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-dascalu-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Balta Creața 3 ist ein See bei Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Der See Balta Creața 1 befindet sich in der Nähe von Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Der Fischteich Bazinul Piscicol Creata 3 liegt in Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Der See Balta Moara Vlăsiei 1 befindet sich bei Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "A Balta Creața 3 tó Dascălu közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "A Balta Creața 1 tó Dascălu szomszédságában fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "A Dascălu-ban található Bazinul Piscicol Creata 3 egy halastó.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "A Balta Moara Vlăsiei 1 tó Dascălu közelében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Lacul Balta Creața 3 este situat lângă Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Lacul Balta Creața 1 se află în apropiere de Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Lacul piscicol Creața 3 este situat în Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Lacul Balta Moara Vlăsiei 1 este situat lângă Dascălu.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Balta Creața 3 is a lake situated near Dascalu.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Balta Creața 1 is a lake located near Dascalu.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Bazinul Piscicol Creata 3 is a fishing lake located in Dascalu.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Balta Moara Vlăsiei 1 is a lake situated near Dascalu.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            }
+      ]
 }
   },
   {
@@ -13766,6 +17602,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.005017,
                         44.521522
                   ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Ein großer See in Mogosoaia, ideal für malerische Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Ein See in Mogosoaia, der Ausblicke auf die lokale Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Ein malerischer See in Mogosoaia, geeignet für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
             }
       ],
       "hu": [
@@ -13797,6 +17660,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.005017,
                         44.521522
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Nagy tó Mogosoaia területén, amely tökéletes a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Mogosoaia területén található tó, amely kilátást nyújt a helyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Festői tó Mogosoaia területén, amely alkalmas szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
                   ]
             }
       ],
@@ -13830,6 +17720,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.005017,
                         44.521522
                   ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Un lac mare în Mogoșoaia, perfect pentru plimbări pitorești pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Un lac situat în Mogoșoaia, oferind vederi asupra peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Un lac pitoresc în Mogoșoaia, potrivit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
             }
       ],
       "en": [
@@ -13861,6 +17778,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.005017,
                         44.521522
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A large lake in Mogosoaia, perfect for scenic walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A lake located in Mogosoaia, offering views of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A scenic lake in Mogosoaia, suitable for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
                   ]
             }
       ]
@@ -13931,6 +17875,60 @@ export const romaniaCitiesV2: POI[] = [
                         25.99708,
                         44.678085
                   ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Der Lacul Mănăstirii ist ein ruhiger See in Periș, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Tâncăbești ist ein bekannter See in Periș, der für seine friedliche Atmosphäre geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Der Lacul Podișor 2 in Periș ist ein lokales Gewässer in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Ein ruhiger See in Periș, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Ein lokaler See in Periș, der eine friedliche Kulisse für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Balta Barbuceanu",
+                  "text": "Ein kleines Gewässer in Periș, geeignet für einen kurzen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.902653,
+                        44.709967
+                  ]
             }
       ],
       "hu": [
@@ -13952,6 +17950,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.99708,
                         44.678085
+                  ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "A Lacul Mănăstirii egy csendes tó Perișben, szép természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Tâncăbești egy jól ismert tó Perișben, amelyet békés légköréért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "A Perișben található Lacul Podișor 2 egy helyi vízfelület nyugodt környéken.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Egy csendes tó Periș településen, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Egy helyi tó Periș területén, amely békés környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Balta Barbuceanu",
+                  "text": "Egy kis állóvíz Periș településen, amely alkalmas egy rövid szabadtéri tartózkodásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.902653,
+                        44.709967
                   ]
             }
       ],
@@ -13975,6 +18027,60 @@ export const romaniaCitiesV2: POI[] = [
                         25.99708,
                         44.678085
                   ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Lacul Mănăstirii este un lac liniștit din Periș, înconjurat de o natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Tâncăbești este un lac cunoscut din Periș, apreciat pentru atmosfera sa pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Lacul Podișor 2 din Periș este o zonă de apă locală situată într-o regiune liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Un lac liniștit în Periș, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Un lac local în Periș, ce oferă un cadru liniștit pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Balta Barbuceanu",
+                  "text": "Un mic ochi de apă în Periș, potrivit pentru o scurtă ieșire în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.902653,
+                        44.709967
+                  ]
             }
       ],
       "en": [
@@ -13996,6 +18102,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.99708,
                         44.678085
+                  ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Lacul Mănăstirii is a calm lake in Periș surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Tâncăbești is a well-known lake in Periș appreciated for its peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Lacul Podișor 2 in Periș is a local body of water in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "A quiet lake in Peris, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "A local lake in Peris, offering a peaceful setting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Balta Barbuceanu",
+                  "text": "A small body of water in Peris, suitable for a short outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        25.902653,
+                        44.709967
                   ]
             }
       ]
@@ -14330,6 +18490,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.247279,
                         44.521382
                   ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Ein See in Ganeasa, der Besuchern eine friedliche natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Ein See in Ganeasa, ideal für einen ruhigen Nachmittag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Ein Fischersee in Ganeasa, bekannt für seine ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Ein großer See in Ganeasa, der eine malerische Kulisse für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Ein malerischer See in Ganeasa, ideal für Naturspaziergänge und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
             }
       ],
       "hu": [
@@ -14360,6 +18565,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.247279,
                         44.521382
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Ganeasa területén található tó, amely nyugodt természeti környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Helyi tó Ganeasa területén, amely ideális egy csendes délutánhoz a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Horgásztó Ganeasa területén, amely nyugodt légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Nagy tó Ganeasa területén, amely festői hátteret biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Festői tó Ganeasa területén, amely tökéletes természetjáráshoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
                   ]
             }
       ],
@@ -14392,6 +18642,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.247279,
                         44.521382
                   ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Un lac în Găneasa, oferind un cadru natural liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Un lac local în Găneasa, ideal pentru o după-amiază liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Un lac de pescuit în Găneasa, cunoscut pentru atmosfera sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Un lac mare în Găneasa, oferind un cadru pitoresc pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Un lac pitoresc în Găneasa, perfect pentru plimbări în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
             }
       ],
       "en": [
@@ -14422,6 +18717,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.247279,
                         44.521382
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "A lake in Ganeasa, offering a peaceful natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "A local lake in Ganeasa, ideal for a quiet afternoon by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "A fishing lake in Ganeasa, known for its tranquil atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A large lake in Ganeasa, providing a scenic backdrop for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "A scenic lake in Ganeasa, perfect for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
                   ]
             }
       ]
@@ -14775,6 +19115,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.183158,
                         44.517387
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Der Băneasa-See liegt im weiteren Umfeld von Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Der Herăstrău-See befindet sich in der Region Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera ist ein See nahe Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Der Lacul Plumbuita in Stefanestii De Jos bietet eine ruhige Umgebung für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Lake Fundeni in Stefanestii De Jos lädt zu erholsamen Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
             }
       ],
       "hu": [
@@ -14804,6 +19189,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.183158,
                         44.517387
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "A Băneasa-tó Ștefăneștii de Jos tágabb környezetében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Herăstrău-tó Ștefăneștii de Jos térségében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Balta Pipera tó Ștefăneștii de Jos közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Lacul Plumbuita tó Stefanestii De Jos területén kellemes környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Lake Fundeni tó Stefanestii De Jos területén kellemes kikapcsolódást nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
                   ]
             }
       ],
@@ -14835,6 +19265,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.183158,
                         44.517387
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Lacul Băneasa este situat în zona extinsă a localității Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău se află în zona localității Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Lacul Balta Pipera este situat în apropiere de Ștefăneștii de Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita din Stefanestii De Jos oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lake Fundeni din Stefanestii De Jos invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
             }
       ],
       "en": [
@@ -14864,6 +19339,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.183158,
                         44.517387
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "Lake Băneasa is located in the broader Stefanestii De Jos area.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău is located in the Stefanestii De Jos area.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera is a lake located near Stefanestii De Jos.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita in Stefanestii De Jos offers a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni in Stefanestii De Jos is a nice spot for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
                   ]
             }
       ]
@@ -14960,6 +19480,159 @@ export const romaniaCitiesV2: POI[] = [
                         26.099208,
                         44.54036
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Ein bekannter See in der Gegend von Tunari, der eine schöne Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Ein See in Tunari, geeignet, um einen ruhigen Moment in der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Ein malerischer See in Tunari, der Ausblicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Ein See in Tunari, der eine friedliche Umgebung für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Ein berühmter See bei Tunari, beliebt für seine weitläufigen Wanderwege und die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Ein See in Tunari, ideal zur Beobachtung der lokalen Tierwelt und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.491241
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Ein malerischer See in der Region Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Ein See in Tunari, der Besuchern einen ruhigen Ort zum Genießen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Kiddo",
+                  "text": "Ein Spielbereich in Tunari, der für die Unterhaltung von Kindern konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        26.086496,
+                        44.510608
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Rubin",
+                  "text": "Ein Spielplatz für Kindern in Tunari, der verschiedene Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.101688,
+                        44.531686
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Platanilor",
+                  "text": "Ein familienfreundlicher Spielplatz in Tunari, ideal für Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        26.09228,
+                        44.535592
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Quartz",
+                  "text": "Ein Kinderspielplatz in Tunari, der Raum zum Spielen und Bewegen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.099882,
+                        44.531664
+                  ]
+            },
+            {
+                  "name": "Amber Gardens Playground",
+                  "text": "Ein moderner Spielplatz in Tunari, perfekt für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        26.116443,
+                        44.550534
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Panoramic",
+                  "text": "Ein Spielplatz in Tunari mit Schwerpunkt auf Outdoor-Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.103066,
+                        44.530433
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teișani",
+                  "text": "Ein lokaler Spielplatz in Tunari, der Kindern einen sicheren Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.094409,
+                        44.537374
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Ein Spielbereich für Kinder in Tunari, in einer ruhigen Gegend gelegen.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teilor (proiect)",
+                  "text": "Ein Spielplatzgelände in Tunari, das für die zukünftige Familienerholung vorgesehen ist.",
+                  "category": "family",
+                  "coords": [
+                        26.096863,
+                        44.534386
+                  ]
             }
       ],
       "hu": [
@@ -15007,6 +19680,159 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.099208,
                         44.54036
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Ismert tó Tunari környékén, amely szép természeti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Tunari területén található tó, amely alkalmas a természetben való csendes elidőzésre.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Festői tó Tunari területén, amely kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Tunari területén található tó, amely nyugodt környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Híres tó Tunari közelében, amely kiterjedt sétaútjairól és tájáról népszerű.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Tunari területén található tó, amely ideális a helyi vadvilág és természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.491241
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Festői tó Tunari régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Tunari területén található tó, amely nyugodt helyet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Kiddo",
+                  "text": "Játszótér Tunari területén, amelyet gyermekek szórakoztatására terveztek.",
+                  "category": "family",
+                  "coords": [
+                        26.086496,
+                        44.510608
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Rubin",
+                  "text": "Gyermekjátszótér Tunari területén, amely különféle tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        26.101688,
+                        44.531686
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Platanilor",
+                  "text": "Családbarát játszótér Tunari területén, amely ideális a szabadtéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.09228,
+                        44.535592
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Quartz",
+                  "text": "Gyermekjátszótér Tunari területén, amely helyet biztosít a játékhoz és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.099882,
+                        44.531664
+                  ]
+            },
+            {
+                  "name": "Amber Gardens Playground",
+                  "text": "Modern játszótér Tunari területén, amely tökéletes családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        26.116443,
+                        44.550534
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Panoramic",
+                  "text": "Játszótér Tunari területén, amely a gyermekek szabadtéri tevékenységeire összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        26.103066,
+                        44.530433
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teișani",
+                  "text": "Helyi játszótér Tunari területén, amely biztonságos helyet nyújt a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        26.094409,
+                        44.537374
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Gyermekjátszóhely Tunari területén, csendes környéken.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teilor (proiect)",
+                  "text": "Játszótér helyszíne Tunari területén, amelyet jövőbeli családi kikapcsolódásra szánnak.",
+                  "category": "family",
+                  "coords": [
+                        26.096863,
+                        44.534386
                   ]
             }
       ],
@@ -15056,6 +19882,159 @@ export const romaniaCitiesV2: POI[] = [
                         26.099208,
                         44.54036
                   ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Un lac cunoscut în zona Tunari, oferind un peisaj natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Un lac în Tunari, potrivit pentru a te bucura de un moment liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Un lac pitoresc situat în Tunari, oferind vederi asupra zonei locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Un lac în Tunari, oferind un mediu liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Un lac faimos lângă Tunari, popular pentru potecile sale extinse de plimbare și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Un lac în Tunari, ideal pentru observarea faunei și naturii locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.491241
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Un lac pitoresc situat în regiunea Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Un lac în Tunari, oferind un loc liniștit de care vizitatorii să se bucure.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Kiddo",
+                  "text": "Un spațiu de joacă în Tunari, conceput pentru divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        26.086496,
+                        44.510608
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Rubin",
+                  "text": "Un loc de joacă pentru copii în Tunari, oferind diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        26.101688,
+                        44.531686
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Platanilor",
+                  "text": "Un loc de joacă prietenos pentru familii în Tunari, ideal pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.09228,
+                        44.535592
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Quartz",
+                  "text": "Un loc de joacă pentru copii în Tunari, oferind spațiu pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        26.099882,
+                        44.531664
+                  ]
+            },
+            {
+                  "name": "Amber Gardens Playground",
+                  "text": "Un loc de joacă modern în Tunari, perfect pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.116443,
+                        44.550534
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Panoramic",
+                  "text": "Un loc de joacă în Tunari, axat pe activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.103066,
+                        44.530433
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teișani",
+                  "text": "Un loc de joacă local în Tunari, oferind un spațiu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        26.094409,
+                        44.537374
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "Un spațiu de joacă pentru copii în Tunari, situat într-un cartier liniștit.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teilor (proiect)",
+                  "text": "Un amplasament pentru loc de joacă în Tunari, destinat viitoarei recreeri în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.096863,
+                        44.534386
+                  ]
             }
       ],
       "en": [
@@ -15103,6 +20082,159 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.099208,
                         44.54036
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "A well-known lake in the Tunari area, offering beautiful natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A lake in Tunari, suitable for enjoying a quiet moment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A scenic lake located in Tunari, offering views of the local area.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A lake in Tunari, providing a peaceful environment for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A famous lake near Tunari, popular for its extensive walking paths and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A lake in Tunari, ideal for observing local wildlife and nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.491241
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A scenic lake located in the Tunari region.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "A lake in Tunari, offering a tranquil spot for visitors to enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Kiddo",
+                  "text": "An indoor or outdoor play area in Tunari, designed for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        26.086496,
+                        44.510608
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Rubin",
+                  "text": "A playground for children in Tunari, offering various activities.",
+                  "category": "family",
+                  "coords": [
+                        26.101688,
+                        44.531686
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Platanilor",
+                  "text": "A family-friendly playground in Tunari, ideal for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        26.09228,
+                        44.535592
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Quartz",
+                  "text": "A children's playground in Tunari, providing space for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        26.099882,
+                        44.531664
+                  ]
+            },
+            {
+                  "name": "Amber Gardens Playground",
+                  "text": "A modern playground in Tunari, perfect for family outings.",
+                  "category": "family",
+                  "coords": [
+                        26.116443,
+                        44.550534
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Panoramic",
+                  "text": "A playground in Tunari with a focus on children's outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        26.103066,
+                        44.530433
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teișani",
+                  "text": "A local playground in Tunari, providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        26.094409,
+                        44.537374
+                  ]
+            },
+            {
+                  "name": "Poppy Playground (închis)",
+                  "text": "A play area for children in Tunari, located in a quiet neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        26.087716,
+                        44.537305
+                  ]
+            },
+            {
+                  "name": "Loc de Joacă Teilor (proiect)",
+                  "text": "A playground site in Tunari, intended for future family recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.096863,
+                        44.534386
                   ]
             }
       ]
@@ -15288,6 +20420,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.056286,
                         44.637011
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Der Cociovalistea See in Balotesti bietet eine natürliche Kulisse für Entspannung und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Der See Tâncăbești 2 in Balotesti ist ein ruhiges Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Der Tâncăbești See in Balotesti lädt zu friedlichen Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Der Lacul Vlasia in Balotesti bietet eine schöne Landschaft für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Yupi Land in Balotesti ist ein großartiger Ort für Familien mit Kindern zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
+                  ]
             }
       ],
       "hu": [
@@ -15329,6 +20506,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.056286,
                         44.637011
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "A Cociovalistea tó Balotesti területén természetes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "A Tâncăbești 2 tó Balotesti területén nyugodt úti cél a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "A Tâncăbești tó Balotesti területén békés pillanatokat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "A Lacul Vlasia Balotesti területén szép tájat kínál a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "A Yupi Land Balotesti területén nagyszerű hely a családoknak és gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
                   ]
             }
       ],
@@ -15372,6 +20594,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.056286,
                         44.637011
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Lacul Cociovalistea din Balotesti oferă un cadru natural pentru relaxare și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Lacul Tâncăbești 2 din Balotesti este o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Lacul Tâncăbești din Balotesti invită la momente de liniște în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Lacul Vlasia din Balotesti oferă un peisaj frumos pentru plimbări recreative.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Yupi Land din Balotesti este un loc excelent pentru familiile cu copii, oferind diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
+                  ]
             }
       ],
       "en": [
@@ -15413,6 +20680,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.056286,
                         44.637011
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Cociovalistea lake in Balotesti provides a natural backdrop for relaxation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Tâncăbești 2 lake in Balotesti is a quiet destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Tâncăbești lake in Balotesti invites visitors to enjoy peaceful moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Lacul Vlasia in Balotesti offers a beautiful landscape for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Yupi Land in Balotesti is a great place for families with children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
                   ]
             }
       ]
@@ -15473,6 +20785,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.267108,
                         44.675657
                   ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Ein See in Gradistea, der Naturliebhabern einen ruhigen Ort bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Ein natürlicher See in der Gegend von Gradistea.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Ein malerischer See in Gradistea, ideal zum Entspannen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            },
+            {
+                  "name": "Balta Neagră",
+                  "text": "Ein See in Gradistea, bekannt für seine natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.287938,
+                        44.697063
+                  ]
+            },
+            {
+                  "name": "Lacul Căldărușani",
+                  "text": "Ein großer, malerischer See in Gradistea, ideal für Spaziergänge im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.283134,
+                        44.673591
+                  ]
             }
       ],
       "hu": [
@@ -15484,6 +20841,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.267108,
                         44.675657
+                  ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Gradistea területén található tó, amely csendes helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Természetes tó Gradistea környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Festői tó Gradistea területén, amely ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            },
+            {
+                  "name": "Balta Neagră",
+                  "text": "Gradistea területén található tó, amely természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.287938,
+                        44.697063
+                  ]
+            },
+            {
+                  "name": "Lacul Căldărușani",
+                  "text": "Nagy, festői tó Gradistea területén, amely tökéletes szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.283134,
+                        44.673591
                   ]
             }
       ],
@@ -15497,6 +20899,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.267108,
                         44.675657
                   ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Un lac în Grădiștea, oferind un loc calm pentru entuziaștii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Un lac natural situat în zona Grădiștea.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "Un lac pitoresc în Grădiștea, ideal pentru relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            },
+            {
+                  "name": "Balta Neagră",
+                  "text": "Un lac situat în Grădiștea, cunoscut pentru împrejurimile sale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        26.287938,
+                        44.697063
+                  ]
+            },
+            {
+                  "name": "Lacul Căldărușani",
+                  "text": "Un lac mare și pitoresc în Grădiștea, perfect pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.283134,
+                        44.673591
+                  ]
             }
       ],
       "en": [
@@ -15508,6 +20955,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.267108,
                         44.675657
+                  ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "A lake in Gradistea, offering a calm spot for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "A natural lake located in the Gradistea area.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Balta Moara Vlăsiei 1",
+                  "text": "A scenic lake in Gradistea, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.188877,
+                        44.637278
+                  ]
+            },
+            {
+                  "name": "Balta Neagră",
+                  "text": "A lake located in Gradistea, known for its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.287938,
+                        44.697063
+                  ]
+            },
+            {
+                  "name": "Lacul Căldărușani",
+                  "text": "A large, scenic lake in Gradistea, perfect for outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.283134,
+                        44.673591
                   ]
             }
       ]
@@ -15618,6 +21110,96 @@ export const romaniaCitiesV2: POI[] = [
                         26.31146,
                         44.583711
                   ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Der See Balta Creața 3 in Petrachioaia bietet eine ruhige Atmosphäre für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Der Balta Creața 1 in Petrachioaia ist ein schöner See für entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Der Bazinul Piscicol Creata 3 in Petrachioaia ist ein ruhiges Gewässer in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Der Balta Piteasca 3 in Petrachioaia lädt zu ruhigen Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Der Iazul Aladdin in Petrachioaia bietet eine friedliche Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Der See Balta Pescuit Șindrilița in Petrachioaia ist ein idealer Ort für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "Der Balta Pescarului (bazinul salbatic) in Petrachioaia bietet eine naturbelassene Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Der Balta Pescarului (bazinul 1) in Petrachioaia ist ein ruhiges Ziel für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Der Balta Pescarului (bazinul 2) in Petrachioaia lädt zu entspannten Stunden am See ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Der See Balta Sinești 1 in Petrachioaia bietet eine friedliche Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
             }
       ],
       "hu": [
@@ -15628,6 +21210,96 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.31146,
                         44.583711
+                  ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "A Balta Creața 3 tó Petrachioaia területén nyugodt légkört biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "A Balta Creața 1 Petrachioaia területén egy szép tó a szabadban való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "A Bazinul Piscicol Creata 3 Petrachioaia területén egy nyugodt vízfelület természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "A Balta Piteasca 3 Petrachioaia területén nyugodt sétákra hív a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Az Iazul Aladdin Petrachioaia területén békés környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "A Balta Pescuit Șindrilița tó Petrachioaia területén ideális hely a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "A Balta Pescarului (bazinul salbatic) Petrachioaia területén természetközeli környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "A Balta Pescarului (bazinul 1) Petrachioaia területén nyugodt célpont a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "A Balta Pescarului (bazinul 2) Petrachioaia területén kellemes órákat kínál a tónál.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "A Balta Sinești 1 tó Petrachioaia területén békés hangulatot áraszt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
                   ]
             }
       ],
@@ -15640,6 +21312,96 @@ export const romaniaCitiesV2: POI[] = [
                         26.31146,
                         44.583711
                   ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Lacul Balta Creața 3 din Petrachioaia oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Balta Creața 1 din Petrachioaia este un lac frumos pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Bazinul Piscicol Creata 3 din Petrachioaia este o acumulare de apă liniștită într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Balta Piteasca 3 din Petrachioaia invită la plimbări liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Iazul Aladdin din Petrachioaia oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Lacul Balta Pescuit Șindrilița din Petrachioaia este un loc ideal pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "Balta Pescarului (bazinul salbatic) din Petrachioaia oferă un mediu natural conservat.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Balta Pescarului (bazinul 1) din Petrachioaia este o destinație liniștită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Balta Pescarului (bazinul 2) din Petrachioaia oferă momente de relaxare lângă lac.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Lacul Balta Sinești 1 din Petrachioaia oferă o atmosferă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
+                  ]
             }
       ],
       "en": [
@@ -15650,6 +21412,96 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.31146,
                         44.583711
+                  ]
+            },
+            {
+                  "name": "Balta Creața 3",
+                  "text": "Balta Creața 3 lake in Petrachioaia offers a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.2889,
+                        44.59279
+                  ]
+            },
+            {
+                  "name": "Balta Creața 1",
+                  "text": "Balta Creața 1 in Petrachioaia is a lovely lake for relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        26.277694,
+                        44.602825
+                  ]
+            },
+            {
+                  "name": "Bazinul Piscicol Creata 3",
+                  "text": "Bazinul Piscicol Creata 3 in Petrachioaia is a quiet body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.30121,
+                        44.587483
+                  ]
+            },
+            {
+                  "name": "Balta Piteasca 3",
+                  "text": "Balta Piteasca 3 in Petrachioaia invites visitors for peaceful walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.318661,
+                        44.486895
+                  ]
+            },
+            {
+                  "name": "Iazul Aladdin",
+                  "text": "Iazul Aladdin in Petrachioaia provides a peaceful backdrop for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.320608,
+                        44.507968
+                  ]
+            },
+            {
+                  "name": "Balta Pescuit Șindrilița",
+                  "text": "Balta Pescuit Șindrilița lake in Petrachioaia is an ideal spot for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.294144,
+                        44.513819
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul salbatic)",
+                  "text": "Balta Pescarului (bazinul salbatic) in Petrachioaia offers a natural and wild environment.",
+                  "category": "natural",
+                  "coords": [
+                        26.341856,
+                        44.569921
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 1)",
+                  "text": "Balta Pescarului (bazinul 1) in Petrachioaia is a quiet destination for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.357746,
+                        44.570098
+                  ]
+            },
+            {
+                  "name": "Balta Pescarului (bazinul 2)",
+                  "text": "Balta Pescarului (bazinul 2) in Petrachioaia invites for relaxing hours by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        26.351571,
+                        44.573509
+                  ]
+            },
+            {
+                  "name": "Balta Sinești 1",
+                  "text": "Balta Sinești 1 lake in Petrachioaia provides a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.368497,
+                        44.565779
                   ]
             }
       ]
@@ -15748,6 +21600,87 @@ export const romaniaCitiesV2: POI[] = [
                         26.031159,
                         44.709385
                   ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Ein See in Ciolpani, der eine friedliche Atmosphäre in der Nähe des lokalen Klosters bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Ein See in Ciolpani, beliebt zum Angeln und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Ein bekannter See in Ciolpani, ideal für Erholung im Freien und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Ein malerischer See in Ciolpani, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Ein See in Ciolpani, geeignet für einen friedlichen Besuch in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Ein See in Ciolpani, der oft zum Angeln und zur lokalen Erholung besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Lacul Sărăcineanca",
+                  "text": "Ein natürlicher See in der Gegend von Ciolpani.",
+                  "category": "natural",
+                  "coords": [
+                        26.119606,
+                        44.756396
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Ein malerischer See in Ciolpani, der Besuchern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Ein großer und berühmter See in Ciolpani, der eine schöne Landschaft und Wasseraktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
             }
       ],
       "hu": [
@@ -15797,6 +21730,87 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.031159,
                         44.709385
+                  ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Ciolpani területén található tó, amely békés légkört kínál a helyi kolostor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Ciolpani területén található tó, amely népszerű horgászatra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Ismert tó Ciolpani területén, amely ideális szabadtéri kikapcsolódásra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Festői tó Ciolpani területén, amely nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Ciolpani területén található tó, amely alkalmas egy békés természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Ciolpani területén található tó, amelyet gyakran látogatnak horgászat és helyi kikapcsolódás céljából.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Lacul Sărăcineanca",
+                  "text": "Természetes tó Ciolpani környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.119606,
+                        44.756396
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Festői tó Ciolpani területén, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Nagy és híres tó Ciolpani területén, amely szép tájat és vízi tevékenységeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
                   ]
             }
       ],
@@ -15848,6 +21862,87 @@ export const romaniaCitiesV2: POI[] = [
                         26.031159,
                         44.709385
                   ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "Un lac în Ciolpani, oferind o atmosferă liniștită lângă mănăstirea locală.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Un lac în Ciolpani, popular pentru pescuit și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Un lac cunoscut în Ciolpani, ideal pentru recreere în aer liber și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "Un lac pitoresc situat în Ciolpani, oferind un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "Un lac în Ciolpani, potrivit pentru o vizită liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "Un lac în Ciolpani, vizitat adesea pentru pescuit și recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Lacul Sărăcineanca",
+                  "text": "Un lac natural situat în zona Ciolpani.",
+                  "category": "natural",
+                  "coords": [
+                        26.119606,
+                        44.756396
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Un lac pitoresc în Ciolpani, oferind un cadru calm pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Un lac mare și faimos în Ciolpani, oferind peisaje frumoase și activități acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
             }
       ],
       "en": [
@@ -15898,6 +21993,87 @@ export const romaniaCitiesV2: POI[] = [
                         26.031159,
                         44.709385
                   ]
+            },
+            {
+                  "name": "Lacul Mănăstirii",
+                  "text": "A lake in Ciolpani, offering a peaceful atmosphere near the local monastery.",
+                  "category": "natural",
+                  "coords": [
+                        26.044498,
+                        44.714834
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "A lake in Ciolpani, popular for fishing and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "A well-known lake in Ciolpani, ideal for outdoor recreation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 2",
+                  "text": "A scenic lake located in Ciolpani, offering a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.997992,
+                        44.672146
+                  ]
+            },
+            {
+                  "name": "Lacul Podișor 1",
+                  "text": "A lake in Ciolpani, suitable for a peaceful visit in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.991984,
+                        44.668463
+                  ]
+            },
+            {
+                  "name": "Hermes Periș",
+                  "text": "A lake in Ciolpani, often visited for fishing and local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.987563,
+                        44.671346
+                  ]
+            },
+            {
+                  "name": "Lacul Sărăcineanca",
+                  "text": "A natural lake located in the Ciolpani area.",
+                  "category": "natural",
+                  "coords": [
+                        26.119606,
+                        44.756396
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "A scenic lake in Ciolpani, providing a calm setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lake Snagov",
+                  "text": "A large and famous lake in Ciolpani, offering beautiful scenery and water activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
             }
       ]
 }
@@ -15947,10 +22123,122 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-domnesti-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Ein Angelsee in Domnești, der sich für entspannte Stunden am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Ein See in Domnești, der eine ruhige Atmosphäre für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Ein Wasserbecken in Domnești, das die lokale Landschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Egy horgásztó Domnești területén, amely alkalmas a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Egy tó Domnești településen, amely nyugodt légkört biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Egy víztározó Domnești területén, amely a helyi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "O baltă de pescuit în Domnești, potrivită pentru ore relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Un lac în Domnești, ce oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Un bazin de apă în Domnești, care face parte din peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A fishing lake in Domnesti, suitable for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "A lake in Domnesti, offering a quiet atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A water basin in Domnesti, which is part of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            }
+      ]
 }
   },
   {
@@ -16008,6 +22296,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.940881,
                         44.377783
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Der Balta de pescuit Clinceni ist ein ruhiges Gewässer, ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Der Lacul Nicmar Clinceni bietet eine natürliche Kulisse für Entspannung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.954884,
+                        44.384627
+                  ]
             }
       ],
       "hu": [
@@ -16019,6 +22325,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.940881,
                         44.377783
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A Balta de pescuit Clinceni egy nyugodt vízfelület, amely ideális a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "A Lacul Nicmar Clinceni természetes környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.954884,
+                        44.384627
                   ]
             }
       ],
@@ -16032,6 +22356,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.940881,
                         44.377783
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Balta de pescuit Clinceni este o zonă cu apă liniștită, ideală pentru plimbări recreative.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Lacul Nicmar Clinceni oferă un cadru natural pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.954884,
+                        44.384627
+                  ]
             }
       ],
       "en": [
@@ -16043,6 +22385,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.940881,
                         44.377783
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Balta de pescuit Clinceni is a quiet body of water, perfect for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Lacul Nicmar Clinceni provides a natural setting for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.954884,
+                        44.384627
                   ]
             }
       ]
@@ -16102,6 +22462,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.96479,
                         44.313038
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Ein Fischteich in Cornetu, der Anglern einen ruhigen Platz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Der Lacul Nicmar Clinceni in Cornetu ist ein lokales Gewässer, das sich für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
             }
       ],
       "hu": [
@@ -16112,6 +22490,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.96479,
                         44.313038
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "Horgásztó Cornetu területén, amely csendes helyet biztosít a horgászoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "A Cornetu területén található Lacul Nicmar Clinceni egy helyi tó, amely alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
                   ]
             }
       ],
@@ -16124,6 +22520,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.96479,
                         44.313038
                   ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "O baltă de pescuit în Cornetu, oferind un spațiu liniștit pentru pescari.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Lacul Nicmar Clinceni din Cornetu este un lac local, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
+                  ]
             }
       ],
       "en": [
@@ -16134,6 +22548,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.96479,
                         44.313038
+                  ]
+            },
+            {
+                  "name": "Balta de pescuit Clinceni",
+                  "text": "A fishing pond in Cornetu, providing a quiet space for anglers.",
+                  "category": "natural",
+                  "coords": [
+                        25.963398,
+                        44.376592
+                  ]
+            },
+            {
+                  "name": "Lacul Nicmar Clinceni",
+                  "text": "Lacul Nicmar Clinceni in Cornetu is a local lake suitable for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.954881,
+                        44.384625
                   ]
             }
       ]
@@ -16260,6 +22692,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.193871,
                         44.401867
                   ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Ein See in Cernica, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Ein Gewässer in Cernica, das zu entspannten Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Ein beliebter See in Cernica, der einen schönen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Ein See in Cernica, ideal für lange Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Ein ruhiger See in Cernica, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Ein See in Cernica, der die natürliche Landschaft der Region bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
             }
       ],
       "hu": [
@@ -16337,6 +22823,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.193871,
                         44.401867
+                  ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Egy tó Cernica területén, amely ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Egy állóvíz Cernica településen, amely pihentető pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Egy népszerű tó Cernica területén, amely szép kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Egy tó Cernica településen, amely ideális hosszú tóparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Egy csendes tó Cernica településen, amely szabadtéri pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Egy tó Cernica területén, amely gazdagítja a régió természetes táját.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
                   ]
             }
       ],
@@ -16416,6 +22956,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.193871,
                         44.401867
                   ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Un lac în Cernica, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Un luciu de apă în Cernica, ce invită la momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Un lac popular în Cernica, oferind o priveliște frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Un lac în Cernica, ideal pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Un lac liniștit în Cernica, ce invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Un lac în Cernica, ce îmbogățește peisajul natural al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
             }
       ],
       "en": [
@@ -16494,6 +23088,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.193871,
                         44.401867
                   ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "A lake in Cernica, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "A body of water in Cernica, inviting relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A popular lake in Cernica, offering a beautiful view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A lake in Cernica, ideal for long walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A quiet lake in Cernica, inviting outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "A lake in Cernica, enriching the natural landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
             }
       ]
 }
@@ -16553,6 +23201,132 @@ export const romaniaCitiesV2: POI[] = [
                         26.206423,
                         44.404568
                   ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Der Balta Vitan 3 in Glina ist ein ruhiger See, der zu Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Der Balta Floarea Popeștiului in Glina bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Der Lacul IOR in Glina ist ein beliebtes Ziel für erholsame Spaziergänge im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Der Lacul Pantelimon in Glina bietet eine weite Wasserfläche und Möglichkeiten zur Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        26.209072,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Der Lacul Cernica in Glina ist ein malerischer See, umgeben von natürlicher Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Der Lacul Tineretului in Glina lädt zu gemütlichen Spaziergängen am Seeufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Der Lacul Plumbuita in Glina bietet eine ruhige Kulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lebedelor-See",
+                  "text": "Der Swan Lake in Glina ist ein schöner Ort, um die Natur am Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Der Lacul Dobroești in Glina bietet eine entspannte Atmosphäre für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Lake Fundeni in Glina ist ein ruhiges Gewässer, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "LaserMaxx",
+                  "text": "LaserMaxx in Glina bietet spannende Unterhaltung für Familien und Gruppen.",
+                  "category": "family",
+                  "coords": [
+                        26.146442,
+                        44.399555
+                  ]
+            },
+            {
+                  "name": "Kiddo Play Academy",
+                  "text": "Kiddo Play Academy in Glina ist ein interaktiver Spielbereich für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        26.150978,
+                        44.421798
+                  ]
+            },
+            {
+                  "name": "EziuaMea Loc de Joacă Sector 3",
+                  "text": "EziuaMea Loc de Joacă Sector 3 in Glina bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.140507,
+                        44.407576
+                  ]
+            },
+            {
+                  "name": "Parc Copii",
+                  "text": "Parc Copii in Glina ist ein idealer Treffpunkt für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        26.175855,
+                        44.416153
+                  ]
             }
       ],
       "hu": [
@@ -16564,6 +23338,132 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.206423,
                         44.404568
+                  ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "A Balta Vitan 3 tó Glina területén nyugodt környezetben várja a természetjárókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "A Balta Floarea Popeștiului Glina területén békés hangulatot kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A Lacul IOR Glina területén népszerű úti cél a zöldövezeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A Lacul Pantelimon Glina területén tágas vízfelületet és pihenési lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.209072,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "A Lacul Cernica Glina területén egy festői tó, amelyet természeti szépség vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A Lacul Tineretului Glina területén kellemes sétákra hív a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Lacul Plumbuita Glina területén nyugodt környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "A Swan Lake Glina területén szép hely a vízparti természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A Lacul Dobroești Glina területén pihentető légkört kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Lake Fundeni Glina területén nyugodt vízfelület, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "LaserMaxx",
+                  "text": "A LaserMaxx Glina területén izgalmas szórakozást nyújt családok és csoportok számára.",
+                  "category": "family",
+                  "coords": [
+                        26.146442,
+                        44.399555
+                  ]
+            },
+            {
+                  "name": "Kiddo Play Academy",
+                  "text": "A Kiddo Play Academy Glina területén egy interaktív játszóhely gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        26.150978,
+                        44.421798
+                  ]
+            },
+            {
+                  "name": "EziuaMea Loc de Joacă Sector 3",
+                  "text": "Az EziuaMea játszóhely Glina területén változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        26.140507,
+                        44.407576
+                  ]
+            },
+            {
+                  "name": "Parc Copii",
+                  "text": "A Parc Copii Glina területén ideális találkozóhely kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        26.175855,
+                        44.416153
                   ]
             }
       ],
@@ -16577,6 +23477,132 @@ export const romaniaCitiesV2: POI[] = [
                         26.206423,
                         44.404568
                   ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Balta Vitan 3 din Glina este un lac liniștit, ideal pentru plimbări în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Balta Floarea Popeștiului din Glina oferă o atmosferă liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR din Glina este o destinație populară pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon din Glina oferă o suprafață vastă de apă și posibilități de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.209072,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Lacul Cernica din Glina este un lac pitoresc, înconjurat de frumusețe naturală.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului din Glina invită la plimbări plăcute pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita din Glina oferă un cadru liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Swan Lake din Glina este un loc frumos pentru a te bucura de natură lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești din Glina oferă o atmosferă relaxată pentru o ieșire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lake Fundeni din Glina este o acumulare de apă liniștită, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "LaserMaxx",
+                  "text": "LaserMaxx din Glina oferă divertisment captivant pentru familii și grupuri.",
+                  "category": "family",
+                  "coords": [
+                        26.146442,
+                        44.399555
+                  ]
+            },
+            {
+                  "name": "Kiddo Play Academy",
+                  "text": "Kiddo Play Academy din Glina este un spațiu de joacă interactiv pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        26.150978,
+                        44.421798
+                  ]
+            },
+            {
+                  "name": "EziuaMea Loc de Joacă Sector 3",
+                  "text": "EziuaMea Loc de Joacă Sector 3 din Glina oferă diverse opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.140507,
+                        44.407576
+                  ]
+            },
+            {
+                  "name": "Parc Copii",
+                  "text": "Parc Copii din Glina este un loc de întâlnire ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        26.175855,
+                        44.416153
+                  ]
             }
       ],
       "en": [
@@ -16588,6 +23614,132 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.206423,
                         44.404568
+                  ]
+            },
+            {
+                  "name": "Balta Vitan 3",
+                  "text": "Balta Vitan 3 in Glina is a peaceful lake that invites visitors for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.190276,
+                        44.384746
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Balta Floarea Popeștiului in Glina offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR in Glina is a popular destination for relaxing walks in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon in Glina offers a large water surface and opportunities for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.209072,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "Lacul Cernica in Glina is a picturesque lake surrounded by natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        26.25824,
+                        44.424348
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului in Glina invites visitors for pleasant walks along the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita in Glina provides a peaceful backdrop for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Swan Lake",
+                  "text": "Swan Lake in Glina is a lovely spot to enjoy nature by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești in Glina offers a relaxed atmosphere for an outing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni in Glina is a peaceful body of water, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "LaserMaxx",
+                  "text": "LaserMaxx in Glina offers exciting entertainment for families and groups.",
+                  "category": "family",
+                  "coords": [
+                        26.146442,
+                        44.399555
+                  ]
+            },
+            {
+                  "name": "Kiddo Play Academy",
+                  "text": "Kiddo Play Academy in Glina is an interactive play area for children and families.",
+                  "category": "family",
+                  "coords": [
+                        26.150978,
+                        44.421798
+                  ]
+            },
+            {
+                  "name": "EziuaMea Loc de Joacă Sector 3",
+                  "text": "EziuaMea playground in Glina offers various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        26.140507,
+                        44.407576
+                  ]
+            },
+            {
+                  "name": "Parc Copii",
+                  "text": "Parc Copii in Glina is an ideal meeting spot for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        26.175855,
+                        44.416153
                   ]
             }
       ]

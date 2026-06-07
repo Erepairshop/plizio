@@ -409,6 +409,24 @@ export const monacoCitiesV2: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Der Larvotto playground in Val Thore bietet Kindern vielfältige Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Der Jardin Des Enfants in Val Thore ist ein schöner Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "hu": [
@@ -815,6 +833,24 @@ export const monacoCitiesV2: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "A Val Thore városában található Larvotto playground változatos szabadtéri játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A Val Thore területén lévő Jardin Des Enfants egy kedves hely a gyerekeknek a játékra és felfedezésre.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ],
@@ -1223,6 +1259,24 @@ export const monacoCitiesV2: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground din Val Thore oferă copiilor diverse posibilități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants din Val Thore este un loc frumos pentru copii, unde se pot juca și explora.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "en": [
@@ -1629,6 +1683,24 @@ export const monacoCitiesV2: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground in Val Thore offers children diverse outdoor play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants in Val Thore is a lovely place for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ]
@@ -2083,6 +2155,24 @@ export const monacoCitiesV2: POI[] = [
                         7.38399,
                         43.722955
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground ist ein Spielplatz in Les Revoires, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants ist ein Spielplatz in Les Revoires, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "hu": [
@@ -2489,6 +2579,24 @@ export const monacoCitiesV2: POI[] = [
                   "coords": [
                         7.38399,
                         43.722955
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "A Larvotto playground egy játszótér Les Revoires területén, amely szórakozást kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A Jardin Des Enfants egy játszótér Les Revoires területén, amely szórakozást kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ],
@@ -2897,6 +3005,24 @@ export const monacoCitiesV2: POI[] = [
                         7.38399,
                         43.722955
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground este un teren de joacă în Les Revoires, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants este un teren de joacă în Les Revoires, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "en": [
@@ -3304,6 +3430,24 @@ export const monacoCitiesV2: POI[] = [
                         7.38399,
                         43.722955
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground is a playground in Les Revoires, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants is a playground in Les Revoires, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ]
 },
@@ -3351,7 +3495,88 @@ export const monacoCitiesV2: POI[] = [
     image: "/poi-images/monaco-les-revoires-cities-v2.webp",
   },
   {
-    id: "monaco-moneghetti-cities-v2",
+    id: "monaco-moneghetti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground in Moneghetti ist ein toller Spielplatz, der Kindern viel Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants in Moneghetti ist ein schöner Garten und Spielplatz für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Larvotto playground",
+                  "text": "A Larvotto játszótér Moneghettiben egy nagyszerű hely, amely sok vidámságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A Jardin Des Enfants Moneghettiben egy szép kert és játszótér a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground din Moneghetti este un teren de joacă excelent, oferind distracție în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants din Moneghetti este o grădină frumoasă și un teren de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground in Moneghetti is a great spot for children to have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants in Moneghetti is a lovely garden and playground for families with children.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MC",
     name: { de: "Moneghetti", hu: "Moneghetti", ro: "Moneghetti", en: "Moneghetti" },

@@ -638,6 +638,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.998348,
                         47.760233
                   ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "Der Komsomolskoje-See in Ribnita ist ein angenehmer Ort für einen Spaziergang und zum Genießen der natürlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Sapretka ist ein See in Ribnita, der eine ruhige Umgebung für einen entspannten Spaziergang am Ufer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
             }
       ],
       "hu": [
@@ -738,6 +756,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.998348,
                         47.760233
+                  ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "A Komszomolszkoje-tó Ribnitában kellemes hely egy sétához és a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "A Zapretka egy tó Ribnitában, amely nyugodt környezetet kínál egy pihentető sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
                   ]
             }
       ],
@@ -840,6 +876,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.998348,
                         47.760233
                   ]
+            },
+            {
+                  "name": "Lacul Comsomolist",
+                  "text": "Lacul Komsomolskoe din Ribnita este un loc plăcut pentru o plimbare și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Zapretka este un lac în Ribnita, oferind un mediu liniștit pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
             }
       ],
       "en": [
@@ -940,6 +994,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.998348,
                         47.760233
+                  ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "Komsomolskoye Lake in Ribnita is a pleasant spot for a stroll and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Zapretka is a lake in Ribnita, offering a quiet environment for a relaxing walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
                   ]
             }
       ]
@@ -1045,6 +1117,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.219641,
                         45.917556
                   ]
+            },
+            {
+                  "name": "Lacul Sovârca",
+                  "text": "Das Lacul Sovârca in Cahul ist ein ruhiger See für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        28.104781,
+                        45.948031
+                  ]
             }
       ],
       "hu": [
@@ -1100,6 +1181,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.219641,
                         45.917556
+                  ]
+            },
+            {
+                  "name": "Lacul Sovârca",
+                  "text": "A Lacul Sovârca Cahul területén egy nyugodt tó a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        28.104781,
+                        45.948031
                   ]
             }
       ],
@@ -1157,6 +1247,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.219641,
                         45.917556
                   ]
+            },
+            {
+                  "name": "Lacul Sovârca",
+                  "text": "Lacul Sovârca din Cahul este un lac liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.104781,
+                        45.948031
+                  ]
             }
       ],
       "en": [
@@ -1212,6 +1311,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.219641,
                         45.917556
+                  ]
+            },
+            {
+                  "name": "Lacul Sovârca",
+                  "text": "Lacul Sovârca in Cahul is a peaceful lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        28.104781,
+                        45.948031
                   ]
             }
       ]
@@ -1842,7 +1950,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-dubasari-cities-v2",
+    id: "moldova-dubasari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lacul de acumulare Dubăsari",
+                  "text": "Der Dubăsari-Stausee bietet weite Wasserflächen und Möglichkeiten zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        29.129668,
+                        47.333098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul de acumulare Dubăsari",
+                  "text": "A Dubăsari-víztározó tágas vízfelületet és kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        29.129668,
+                        47.333098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul de acumulare Dubăsari",
+                  "text": "Lacul de acumulare Dubăsari oferă suprafețe vaste de apă și posibilități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        29.129668,
+                        47.333098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lacul de acumulare Dubăsari",
+                  "text": "Dubăsari Reservoir offers vast water surfaces and opportunities for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        29.129668,
+                        47.333098
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Dubăsari", hu: "Dubăsari", ro: "Dubăsari", en: "Dubăsari"},
@@ -2202,7 +2355,52 @@ export const moldovaCitiesV2: POI[] = [
 }
   },
   {
-    id: "moldova-edinet-cities-v2",
+    id: "moldova-edinet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Ein See in Edinet, der eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Tó Edinetben, amely békés környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Un lac în Edinet care oferă un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lacul Berchino",
+                  "text": "A lake in Edinet offering a peaceful setting.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Edineț", hu: "Edineț", ro: "Edineț", en: "Edineț"},
@@ -2324,6 +2522,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.670123,
                         45.898658
                   ]
+            },
+            {
+                  "name": "Lacul Taraclia",
+                  "text": "Das Lacul Taraclia ist ein bedeutendes Gewässer in der Region Taraclia.",
+                  "category": "natural",
+                  "coords": [
+                        28.60093,
+                        45.967295
+                  ]
             }
       ],
       "hu": [
@@ -2352,6 +2559,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.670123,
                         45.898658
+                  ]
+            },
+            {
+                  "name": "Lacul Taraclia",
+                  "text": "A Lacul Taraclia egy jelentős állóvíz Taraclia régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        28.60093,
+                        45.967295
                   ]
             }
       ],
@@ -2382,6 +2598,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.670123,
                         45.898658
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare Taraclia",
+                  "text": "Lacul Taraclia este un corp de apă important în regiunea Taraclia.",
+                  "category": "natural",
+                  "coords": [
+                        28.60093,
+                        45.967295
+                  ]
             }
       ],
       "en": [
@@ -2410,6 +2635,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.670123,
                         45.898658
+                  ]
+            },
+            {
+                  "name": "Lacul Taraclia",
+                  "text": "Lacul Taraclia is a significant body of water in the Taraclia region.",
+                  "category": "natural",
+                  "coords": [
+                        28.60093,
+                        45.967295
                   ]
             }
       ]
@@ -2515,6 +2749,123 @@ export const moldovaCitiesV2: POI[] = [
                         28.792964,
                         47.027025
                   ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Ein Gewässer in Durlesti, geeignet für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Ein lokaler See in Durlesti für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Ein See in Durlesti, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Ein Stausee bei Durlesti mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Ein Stausee in der Region Durlesti für ruhige Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Ein See in Durlesti, der zu einem Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Ein Wasserbecken in Durlesti in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Ein Stausee bei Durlesti, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Ein kleiner See in Durlesti für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Ein lokales Gewässer in Durlesti mit natürlichem Charme.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Ein ruhiger See in der Umgebung von Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Ein großer Stausee bei Durlesti, ideal für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Ein malerischer See in Durlesti, bekannt für seine Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
             }
       ],
       "hu": [
@@ -2570,6 +2921,123 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.792964,
                         47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Vízfelület Durlestiben, amely alkalmas egy rövid kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Helyi tó Durlestiben a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Durlesti tava, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Víztározó Durlesti közelében, kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Víztározó Durlesti környékén, csendes megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Tó Durlestiben, amely sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Vízmedence Durlestiben, csendes helyen.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Víztározó Durlesti mellett, a helyi tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Kisméretű tó Durlestiben a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Helyi vízfelület Durlestiben, természetes bájjal.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Csendes tó Durlesti környékén.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Nagy víztározó Durlesti mellett, ideális szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Festői tó Durlestiben, amely szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
                   ]
             }
       ],
@@ -2627,6 +3095,123 @@ export const moldovaCitiesV2: POI[] = [
                         28.792964,
                         47.027025
                   ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "O apă în Durlesti, potrivită pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Un lac local în Durlesti pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Un lac în Durlesti care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Un lac de acumulare lângă Durlesti, cu vedere spre natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Un lac de acumulare în zona Durlesti pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Un lac în Durlesti care invită la o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Un bazin de apă în Durlesti, situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Un lac de acumulare lângă Durlesti, încadrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Un mic lac în Durlesti pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "O apă locală în Durlesti cu farmec natural.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Un lac liniștit în împrejurimile localității Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Un rezervuar mare lângă Durlesti, ideal pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Un lac pitoresc în Durlesti, cunoscut pentru posibilitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
             }
       ],
       "en": [
@@ -2682,6 +3267,123 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.792964,
                         47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "A water body in Durlesti, suitable for a short trip into the green.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A local lake in Durlesti for relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "A lake in Durlesti that fits harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "A reservoir near Durlesti with views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "A reservoir in the Durlesti area for quiet observations.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Tortuga Lake",
+                  "text": "A lake in Durlesti that invites a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "A water basin in Durlesti in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "A reservoir near Durlesti, embedded in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "A small lake in Durlesti for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Valley's Lake",
+                  "text": "A local water body in Durlesti with natural charm.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A peaceful lake in the surroundings of Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Ghidighici Reservoir",
+                  "text": "A large reservoir near Durlesti, ideal for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "A picturesque lake in Durlesti, known for its recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
                   ]
             }
       ]
@@ -2769,6 +3471,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.706759,
                         47.573526
                   ]
+            },
+            {
+                  "name": "Lacul Francez",
+                  "text": "Der Lacul Francez ist ein See in Falesti, ideal für Besucher, die einen ruhigen Ort zum Wandern und Entspannen suchen.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
             }
       ],
       "hu": [
@@ -2806,6 +3517,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.706759,
                         47.573526
+                  ]
+            },
+            {
+                  "name": "Lacul Francez",
+                  "text": "A Lacul Francez egy tó Falestiben, ideális azoknak a látogatóknak, akik csendes helyet keresnek a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
                   ]
             }
       ],
@@ -2845,6 +3565,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.706759,
                         47.573526
                   ]
+            },
+            {
+                  "name": "Lacul Francez",
+                  "text": "Lacul Francez este un lac în Falesti, ideal pentru vizitatorii care caută un loc liniștit pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
             }
       ],
       "en": [
@@ -2882,6 +3611,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.706759,
                         47.573526
+                  ]
+            },
+            {
+                  "name": "Lacul Francez",
+                  "text": "Lacul Francez is a lake in Falesti, ideal for visitors seeking a calm place for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
                   ]
             }
       ]
@@ -3554,7 +4292,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-ocnita-cities-v2",
+    id: "moldova-ocnita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Водосховище Дністровської ГЕС-2",
+                  "text": "Dieser Stausee in Ocnita bietet einen weiten Blick auf das Wasser und eignet sich für einen friedlichen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Водосховище Дністровської ГЕС-2",
+                  "text": "Ez az ocnitai víztározó tágas kilátást nyújt a vízre, amely alkalmas egy békés, festői sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Водосховище Дністровської ГЕС-2",
+                  "text": "Acest lac de acumulare din Ocnita oferă o vedere amplă asupra apei, fiind potrivit pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Водосховище Дністровської ГЕС-2",
+                  "text": "This reservoir in Ocnita offers an expansive view of the water, suitable for a peaceful scenic walk.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița"},
@@ -3876,6 +4659,24 @@ export const moldovaCitiesV2: POI[] = [
                         29.663616,
                         46.516007
                   ]
+            },
+            {
+                  "name": "Iazul Orășenesc",
+                  "text": "Iazul Orășenesc ist ein Stadtsee in Stefan Voda, der einen ruhigen Ort für Spaziergänge und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.669859,
+                        46.50761
+                  ]
+            },
+            {
+                  "name": "Lacul Hagilar",
+                  "text": "Der Hagilar-See in Stefan Voda ist ein ruhiges Gewässer, ideal um die Landschaft bei einem Spaziergang zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        29.621792,
+                        46.475689
+                  ]
             }
       ],
       "hu": [
@@ -3895,6 +4696,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.663616,
                         46.516007
+                  ]
+            },
+            {
+                  "name": "Iazul Orășenesc",
+                  "text": "Az Iazul Orășenesc egy városi tó Stefan Vodában, amely nyugodt helyet biztosít a helyi sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.669859,
+                        46.50761
+                  ]
+            },
+            {
+                  "name": "Lacul Hagilar",
+                  "text": "A Hagilar-tó Stefan Vodában egy csendes vízfelület, amely tökéletes a táj élvezetéhez egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        29.621792,
+                        46.475689
                   ]
             }
       ],
@@ -3916,6 +4735,24 @@ export const moldovaCitiesV2: POI[] = [
                         29.663616,
                         46.516007
                   ]
+            },
+            {
+                  "name": "Lacul orășenesc",
+                  "text": "Iazul Orășenesc este un lac orășenesc în Ștefan Vodă, oferind un loc liniștit pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        29.669859,
+                        46.50761
+                  ]
+            },
+            {
+                  "name": "Lacul Hagilar",
+                  "text": "Lacul Hagilar din Ștefan Vodă este un curs de apă liniștit, perfect pentru a admira peisajul în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        29.621792,
+                        46.475689
+                  ]
             }
       ],
       "en": [
@@ -3935,6 +4772,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.663616,
                         46.516007
+                  ]
+            },
+            {
+                  "name": "Iazul Orășenesc",
+                  "text": "Iazul Orășenesc is a city lake in Stefan Voda, providing a tranquil spot for local walking and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        29.669859,
+                        46.50761
+                  ]
+            },
+            {
+                  "name": "Lake Hagilar",
+                  "text": "Lake Hagilar in Stefan Voda is a quiet body of water, perfect for enjoying the scenery on a walk.",
+                  "category": "natural",
+                  "coords": [
+                        29.621792,
+                        46.475689
                   ]
             }
       ]
@@ -4067,6 +4922,33 @@ export const moldovaCitiesV2: POI[] = [
                         28.998348,
                         47.760233
                   ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "Der Komsomol-See in Rezina ist ein schöner Ort für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Der See Zapretka in Rezina bietet eine ruhige Umgebung in Stadtnähe.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Ein öffentlicher Spielplatz in Rezina für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
             }
       ],
       "hu": [
@@ -4149,6 +5031,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.998348,
                         47.760233
+                  ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "A Komszomol-tó Rezinában egy szép hely a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "A Zapretka-tó Rezinában nyugodt környezetet kínál a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Egy nyilvános játszótér Rezinában a gyerekek szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
                   ]
             }
       ],
@@ -4233,6 +5142,33 @@ export const moldovaCitiesV2: POI[] = [
                         28.998348,
                         47.760233
                   ]
+            },
+            {
+                  "name": "Lacul Comsomolist",
+                  "text": "Lacul Komsomolist din Rezina este un loc frumos pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Lacul Zapretka din Rezina oferă o ambianță liniștită în apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Un teren de joacă public în Rezina pentru copiii care vor să se joace afară.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
             }
       ],
       "en": [
@@ -4315,6 +5251,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.998348,
                         47.760233
+                  ]
+            },
+            {
+                  "name": "Комсомольское озеро",
+                  "text": "Komsomol Lake in Rezina is a lovely spot for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Запретка",
+                  "text": "Zapretka Lake in Rezina offers a quiet setting near the city.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "A public playground in Rezina for children to enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
                   ]
             }
       ]
@@ -4637,7 +5600,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-riscani-cities-v2",
+    id: "moldova-riscani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Dieser große Stausee in Riscani ist bekannt für seine beeindruckende Aussicht und friedliche Atmosphäre für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Ez a nagy víztározó Riscani-ban lenyűgöző kilátásáról és békés légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Acest mare lac de acumulare din Rîșcani este cunoscut pentru priveliștile sale impresionante și atmosfera liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Lacul de acumulare Costești - Stânca in Riscani is a large reservoir known for its impressive views and peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Rîșcani", hu: "Rîșcani", ro: "Rîșcani", en: "Rîșcani"},
@@ -4932,6 +5940,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.782373,
                         46.520713
                   ]
+            },
+            {
+                  "name": "Iazul lui Iepure",
+                  "text": "Iazul lui Iepure ist ein See in Cimislia, der eine ruhige und neutrale Umgebung für einen Spaziergang am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.778501,
+                        46.555903
+                  ]
+            },
+            {
+                  "name": "Парк Димопарк",
+                  "text": "Der Park Dimopark in Cimislia verfügt über einen Spielplatz, der Familien und Kindern einen wunderbaren Raum zum Genießen bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.768747,
+                        46.529044
+                  ]
             }
       ],
       "hu": [
@@ -4969,6 +5995,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.782373,
                         46.520713
+                  ]
+            },
+            {
+                  "name": "Iazul lui Iepure",
+                  "text": "Az Iazul lui Iepure egy tó Cimișliában, amely nyugodt és semleges környezetet kínál egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.778501,
+                        46.555903
+                  ]
+            },
+            {
+                  "name": "Парк Димопарк",
+                  "text": "A cimișliai Dimopark egy játszótérrel várja a családokat és a gyerekeket, remek kikapcsolódást nyújtva.",
+                  "category": "family",
+                  "coords": [
+                        28.768747,
+                        46.529044
                   ]
             }
       ],
@@ -5008,6 +6052,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.782373,
                         46.520713
                   ]
+            },
+            {
+                  "name": "Iazul lui Iepure",
+                  "text": "Iazul lui Iepure este un lac în Cimișlia, oferind un cadru liniștit și neutru pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.778501,
+                        46.555903
+                  ]
+            },
+            {
+                  "name": "Парк Димопарк",
+                  "text": "Parcul Dimopark din Cimișlia dispune de un teren de joacă care oferă un spațiu minunat de care se pot bucura familiile și copiii.",
+                  "category": "family",
+                  "coords": [
+                        28.768747,
+                        46.529044
+                  ]
             }
       ],
       "en": [
@@ -5045,6 +6107,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.782373,
                         46.520713
+                  ]
+            },
+            {
+                  "name": "Iazul lui Iepure",
+                  "text": "Iazul lui Iepure is a lake in Cimislia, offering a calm and neutral setting for a stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.778501,
+                        46.555903
+                  ]
+            },
+            {
+                  "name": "Парк Димопарк",
+                  "text": "Park Dimopark in Cimislia features a playground that provides a wonderful space for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        28.768747,
+                        46.529044
                   ]
             }
       ]
@@ -5296,6 +6376,51 @@ export const moldovaCitiesV2: POI[] = [
                         28.187298,
                         47.079797
                   ]
+            },
+            {
+                  "name": "Maiac",
+                  "text": "Ein See in Nisporeni, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.158973,
+                        47.06134
+                  ]
+            },
+            {
+                  "name": "prima Cișmea",
+                  "text": "Ein lokales Gewässer in Nisporeni mit friedlicher Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        28.177657,
+                        47.115544
+                  ]
+            },
+            {
+                  "name": "a 2-a cismea",
+                  "text": "Ein kleiner See in Nisporeni, ideal für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        28.1795,
+                        47.116549
+                  ]
+            },
+            {
+                  "name": "CISMEA - BOGDAN VODA",
+                  "text": "Ein See in der Region Nisporeni inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.186535,
+                        47.082802
+                  ]
+            },
+            {
+                  "name": "CASA CU MULTI COPII",
+                  "text": "Ein familienfreundlicher Spielplatz für Kinder in Nisporeni.",
+                  "category": "family",
+                  "coords": [
+                        28.206701,
+                        47.092156
+                  ]
             }
       ],
       "hu": [
@@ -5333,6 +6458,51 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.187298,
                         47.079797
+                  ]
+            },
+            {
+                  "name": "Maiac",
+                  "text": "Tó Nisporeniben, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.158973,
+                        47.06134
+                  ]
+            },
+            {
+                  "name": "prima Cișmea",
+                  "text": "Helyi vízfelület Nisporeniben, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.177657,
+                        47.115544
+                  ]
+            },
+            {
+                  "name": "a 2-a cismea",
+                  "text": "Kisméretű tó Nisporeniben, ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.1795,
+                        47.116549
+                  ]
+            },
+            {
+                  "name": "CISMEA - BOGDAN VODA",
+                  "text": "Tó Nisporeni környékén a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        28.186535,
+                        47.082802
+                  ]
+            },
+            {
+                  "name": "CASA CU MULTI COPII",
+                  "text": "Családbarát játszótér gyerekeknek Nisporeniben.",
+                  "category": "family",
+                  "coords": [
+                        28.206701,
+                        47.092156
                   ]
             }
       ],
@@ -5372,6 +6542,51 @@ export const moldovaCitiesV2: POI[] = [
                         28.187298,
                         47.079797
                   ]
+            },
+            {
+                  "name": "Maiac",
+                  "text": "Un lac în Nisporeni care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.158973,
+                        47.06134
+                  ]
+            },
+            {
+                  "name": "prima Cișmea",
+                  "text": "O apă locală în Nisporeni cu o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        28.177657,
+                        47.115544
+                  ]
+            },
+            {
+                  "name": "a 2-a cismea",
+                  "text": "Un mic lac în Nisporeni, ideal pentru scurte plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        28.1795,
+                        47.116549
+                  ]
+            },
+            {
+                  "name": "CISMEA - BOGDAN VODA",
+                  "text": "Un lac în regiunea Nisporeni, în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        28.186535,
+                        47.082802
+                  ]
+            },
+            {
+                  "name": "CASA CU MULTI COPII",
+                  "text": "Un teren de joacă pentru copii în Nisporeni, primitor pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        28.206701,
+                        47.092156
+                  ]
             }
       ],
       "en": [
@@ -5409,6 +6624,51 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.187298,
                         47.079797
+                  ]
+            },
+            {
+                  "name": "Maiac",
+                  "text": "A lake in Nisporeni that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.158973,
+                        47.06134
+                  ]
+            },
+            {
+                  "name": "prima Cișmea",
+                  "text": "A local water body in Nisporeni with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        28.177657,
+                        47.115544
+                  ]
+            },
+            {
+                  "name": "a 2-a cismea",
+                  "text": "A small lake in Nisporeni, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        28.1795,
+                        47.116549
+                  ]
+            },
+            {
+                  "name": "CISMEA - BOGDAN VODA",
+                  "text": "A lake in the Nisporeni region surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.186535,
+                        47.082802
+                  ]
+            },
+            {
+                  "name": "CASA CU MULTI COPII",
+                  "text": "A family-friendly playground for children in Nisporeni.",
+                  "category": "family",
+                  "coords": [
+                        28.206701,
+                        47.092156
                   ]
             }
       ]
@@ -5859,7 +7119,160 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-slobozia-cities-v2",
+    id: "moldova-slobozia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Ein See in Slobozia, der Ruhe und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "Ein lokaler See in Slobozia in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Рыб Хоз",
+                  "text": "Ein See in Slobozia, der sich für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "Ein Gewässer bei Slobozia, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Tó Sloboziában, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "Helyi tó Sloboziában, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Рыб Хоз",
+                  "text": "Tó Sloboziában, amely alkalmas természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "Vízfelület Slobozia közelében, ideális egy zöld kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Un lac în Slobozia care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "Un lac local în Slobozia, într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Рыб Хоз",
+                  "text": "Un lac în Slobozia, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "O apă lângă Slobozia, ideală pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "A lake in Slobozia offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "A local lake in Slobozia set in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Рыб Хоз",
+                  "text": "A lake in Slobozia suitable for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "A water body near Slobozia, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia"},
@@ -5934,6 +7347,42 @@ export const moldovaCitiesV2: POI[] = [
                         29.939961,
                         46.624583
                   ]
+            },
+            {
+                  "name": "Водохранилище",
+                  "text": "Der Stausee in Dnestrovsc bietet ein malerisches Gebiet zum Wandern und Genießen des Blicks auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "Der Krasnoje-See in Dnestrovsc ist ein ruhiger Ort für einen Spaziergang und um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Путрине озеро",
+                  "text": "Der Putryne-See in Dnestrovsc bietet eine ruhige natürliche Umgebung, ideal für einen friedlichen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Kutschurhan-Stausee",
+                  "text": "Der Cuciurgan-Stausee in Dnestrovsc ist ein großes Gewässer, das eine malerische Umgebung zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
             }
       ],
       "hu": [
@@ -5962,6 +7411,42 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.939961,
                         46.624583
+                  ]
+            },
+            {
+                  "name": "Водохранилище",
+                  "text": "A dnyesztrovszki víztározó festői területet kínál a sétához és a vízre nyíló kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "A Krasznoje-tó Dnyesztrovszkban egy nyugodt hely egy sétához és a helyi táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Путрине озеро",
+                  "text": "A Putryne-tó Dnyesztrovszkban nyugodt természeti környezetet kínál, amely ideális egy békés sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Cuciurgan / Кучурганське водосховище",
+                  "text": "A dnyesztrovszki Cuciurgan-víztározó egy nagy vízfelület, amely festői környezetet biztosít a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
                   ]
             }
       ],
@@ -5992,6 +7477,42 @@ export const moldovaCitiesV2: POI[] = [
                         29.939961,
                         46.624583
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare",
+                  "text": "Lacul de acumulare din Dnestrovsc oferă o zonă pitorească pentru plimbări și pentru a admira vederea spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "Lacul Crasnoe",
+                  "text": "Lacul Krasnoe din Dnestrovsc este un loc liniștit pentru o plimbare și pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Путрине озеро",
+                  "text": "Lacul Putryne din Dnestrovsc oferă un mediu natural liniștit, ideal pentru o plimbare calmă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Cuciurgan",
+                  "text": "Lacul de acumulare Cuciurgan din Dnestrovsc este o întindere mare de apă, oferind un cadru pitoresc pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
             }
       ],
       "en": [
@@ -6020,6 +7541,42 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.939961,
                         46.624583
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "The Reservoir in Dnestrovsc provides a scenic area for walking and enjoying the view of the water.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "Krasnoye Lake in Dnestrovsc is a tranquil spot for a walk and taking in the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Putryne Lake",
+                  "text": "Putryne Lake in Dnestrovsc offers a calm natural environment, ideal for a peaceful walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Cuciurgan Reservoir",
+                  "text": "Cuciurgan Reservoir in Dnestrovsc is a large body of water providing a scenic setting for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
                   ]
             }
       ]
@@ -6125,6 +7682,141 @@ export const moldovaCitiesV2: POI[] = [
                         28.834777,
                         46.953511
                   ]
+            },
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "Der Vasimiorca-See in Codru ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Der See Nr. 1 in Codru bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Das Lacul nr. 2 in Codru ist ein kleiner See, ideal für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Der Albișoara-See in Codru lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Der Ialoveni-Stausee bei Codru ist ein schönes Ziel für Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Der Tortuga-See in Codru bietet eine malerische Kulisse für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Der Schwanensee in Codru ist ein idyllischer Ort für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        28.794152,
+                        46.949154
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Dieses Gewässer in Codru bietet Erholungsmöglichkeiten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Der See Nr. 4 in Codru ist ein ruhiges Plätzchen mitten in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Valley's Lake in Codru besticht durch seine schöne Lage im Tal.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Der See Nr. 3 in Codru ist ein friedlicher Ort für Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Der Valea-Morilor-See ist ein beliebtes Erholungsgebiet in der Region Codru.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids in Codru ist ein fröhlicher Spielort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de joacă pentru copii",
+                  "text": "Ein moderner Spielplatz in Codru, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        28.80568,
+                        46.983738
+                  ]
+            },
+            {
+                  "name": "Valea Apelor Kids",
+                  "text": "Ein kindgerechter Spielbereich in Codru für Spielspaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        28.837149,
+                        46.958184
+                  ]
             }
       ],
       "hu": [
@@ -6180,6 +7872,141 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.834777,
                         46.953511
+                  ]
+            },
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "A Vasimiorca-tó Codru területén egy nyugodt hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Az 1-es számú tó Codruban pihentető vízparti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A 2-es számú tó Codruban egy kis tó, ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Az Albișoara-tó Codruban kellemes kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Az Ialoveni-víztározó Codru közelében szép célpont a természetjáróknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "A Tortuga-tó Codruban festői környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "A Hattyú-tó Codru területén egy idilli hely a nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.794152,
+                        46.949154
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Ez a vízfelület Codruban szabadtéri kikapcsolódási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "A 4-es számú tó Codruban egy nyugodt hely a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "A Valley's Lake Codruban a völgyben fekvő szép elhelyezkedésével nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A 3-as számú tó Codruban békés hely a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "A Valea Morilor-tó népszerű üdülőövezet Codru régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "A Panda Kids Codruban egy vidám játszóhely a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de joacă pentru copii",
+                  "text": "Egy modern játszótér Codruban, amely sok örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        28.80568,
+                        46.983738
+                  ]
+            },
+            {
+                  "name": "Valea Apelor Kids",
+                  "text": "Gyermekbarát játszóterület Codruban a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        28.837149,
+                        46.958184
                   ]
             }
       ],
@@ -6237,6 +8064,141 @@ export const moldovaCitiesV2: POI[] = [
                         28.834777,
                         46.953511
                   ]
+            },
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "Lacul Vasimiorca din Codru este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lacul nr. 1 din Codru oferă o atmosferă relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lacul nr. 2 din Codru este un lac mic, ideal pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Lacul Albișoara din Codru invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Lacul de acumulare Ialoveni de lângă Codru este o destinație frumoasă pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Lacul Tortuga din Codru oferă un cadru pitoresc pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Lacul Lebedelor din Codru este un loc idilic pentru momente liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        28.794152,
+                        46.949154
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Acest corp de apă din Codru oferă posibilități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Lacul nr. 4 din Codru este un loc liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Lacul Valley's din Codru impresionează prin locația sa frumoasă în vale.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lacul nr. 3 din Codru este un loc liniștit pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Lacul Valea Morilor este o zonă de recreere populară în regiunea Codru.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids din Codru este un spațiu de joacă vesel pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de joacă pentru copii",
+                  "text": "Un teren de joacă modern în Codru, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        28.80568,
+                        46.983738
+                  ]
+            },
+            {
+                  "name": "Valea Apelor Kids",
+                  "text": "O zonă de joacă pentru copii în Codru pentru distracție cu familia.",
+                  "category": "family",
+                  "coords": [
+                        28.837149,
+                        46.958184
+                  ]
             }
       ],
       "en": [
@@ -6292,6 +8254,141 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.834777,
                         46.953511
+                  ]
+            },
+            {
+                  "name": "\"Vasimiorca\" Lake",
+                  "text": "Vasimiorca Lake in Codru is a peaceful spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lake No. 1 in Codru offers a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lake No. 2 in Codru is a small lake, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "Albișoara Lake in Codru is a pleasant place for spending time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Ialoveni Reservoir near Codru is a beautiful destination for nature trips.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Tortuga Lake",
+                  "text": "Tortuga Lake in Codru offers a picturesque setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Lacul Lebedelor in Codru is an idyllic spot for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        28.794152,
+                        46.949154
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "This body of water in Codru offers outdoor recreation possibilities.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "Lake No. 4 in Codru is a quiet spot in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Valley's Lake",
+                  "text": "Valley's Lake in Codru impresses with its beautiful location in the valley.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lake No. 3 in Codru is a peaceful spot for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "Valea Morilor Lake is a popular recreation area in the Codru region.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids in Codru is a cheerful play area for children.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de joacă pentru copii",
+                  "text": "A modern playground in Codru that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        28.80568,
+                        46.983738
+                  ]
+            },
+            {
+                  "name": "Valea Apelor Kids",
+                  "text": "A child-friendly play area in Codru for family fun.",
+                  "category": "family",
+                  "coords": [
+                        28.837149,
+                        46.958184
                   ]
             }
       ]
@@ -6370,6 +8467,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.827787,
                         47.14382
                   ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Ein See in Cricova, der eine ruhige Kulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
             }
       ],
       "hu": [
@@ -6398,6 +8504,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.827787,
                         47.14382
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Tó Cricovában, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
                   ]
             }
       ],
@@ -6428,6 +8543,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.827787,
                         47.14382
                   ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Un lac în Cricova care oferă un cadru liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
             }
       ],
       "en": [
@@ -6456,6 +8580,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.827787,
                         47.14382
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "A lake in Cricova offering a quiet backdrop for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
                   ]
             }
       ]
@@ -6516,6 +8649,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.388177,
                         48.121642
                   ]
+            },
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Der Lacul Berchino in Cupcini ist ein ruhiger See, der sich für einen entspannten Spaziergang und zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
             }
       ],
       "hu": [
@@ -6526,6 +8668,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.388177,
                         48.121642
+                  ]
+            },
+            {
+                  "name": "Lacul Berchino",
+                  "text": "A Cupcini-ban található Lacul Berchino egy csendes tó, amely alkalmas egy pihentető sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
                   ]
             }
       ],
@@ -6538,6 +8689,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.388177,
                         48.121642
                   ]
+            },
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Lacul Berchino din Cupcini este un lac liniștit, potrivit pentru o plimbare relaxantă și pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
+                  ]
             }
       ],
       "en": [
@@ -6548,6 +8708,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.388177,
                         48.121642
+                  ]
+            },
+            {
+                  "name": "Lacul Berchino",
+                  "text": "Lacul Berchino in Cupcini is a quiet lake, suitable for a relaxing stroll and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.325878,
+                        48.177306
                   ]
             }
       ]
@@ -6664,6 +8833,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.214069,
                         47.834758
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Ein großer Stausee bei Costesti an der Grenze zu Rumänien.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
             }
       ],
       "hu": [
@@ -6683,6 +8861,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.214069,
                         47.834758
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Nagy víztározó Costesti mellett, a román határnál.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
                   ]
             }
       ],
@@ -6704,6 +8891,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.214069,
                         47.834758
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "Un lac de acumulare mare lângă Costești, la granița cu România.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
+                  ]
             }
       ],
       "en": [
@@ -6723,6 +8919,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.214069,
                         47.834758
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Costești - Stânca",
+                  "text": "A large reservoir near Costesti on the border with Romania.",
+                  "category": "natural",
+                  "coords": [
+                        27.183016,
+                        47.944185
                   ]
             }
       ]
@@ -6958,6 +9163,33 @@ export const moldovaCitiesV2: POI[] = [
                         29.792084,
                         46.64286
                   ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Ein natürlicher See in Crasnoe für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "Ein See in Crasnoe, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "Ein lokales Gewässer in Crasnoe für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
             }
       ],
       "hu": [
@@ -6968,6 +9200,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.792084,
                         46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Természetes tó Crasnoéban a csendes pillanatokért.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "Tó Crasnoéban, a helyi tájba illeszkedve.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "Helyi vízfelület Crasnoéban egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
                   ]
             }
       ],
@@ -6980,6 +9239,33 @@ export const moldovaCitiesV2: POI[] = [
                         29.792084,
                         46.64286
                   ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Un lac natural în Crasnoe pentru momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "Lacul Crasnoe",
+                  "text": "Un lac în Crasnoe, integrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "O apă locală în Crasnoe pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
             }
       ],
       "en": [
@@ -6990,6 +9276,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.792084,
                         46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "A natural lake in Crasnoe for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "озеро Красное",
+                  "text": "A lake in Crasnoe, nestled in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Озеро",
+                  "text": "A local water body in Crasnoe for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
                   ]
             }
       ]
@@ -7332,7 +9645,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-iargara-cities-v2",
+    id: "moldova-iargara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sărata Nouă",
+                  "text": "Ein See bei Iargara, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.398169,
+                        46.490212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sărata Nouă",
+                  "text": "Iargara melletti tó, amely ideális egy pihenőhöz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.398169,
+                        46.490212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sărata Nouă",
+                  "text": "Un lac lângă Iargara, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.398169,
+                        46.490212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sărata Nouă",
+                  "text": "A lake near Iargara, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.398169,
+                        46.490212
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Iargara", hu: "Iargara", ro: "Iargara", en: "Iargara"},
@@ -8483,6 +10841,96 @@ export const moldovaCitiesV2: POI[] = [
                         28.763543,
                         47.064979
                   ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Der Albișoara-See in Vatra ist ein angenehmer Ort für einen Spaziergang und bietet eine ruhige Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești ist ein See in Vatra, der eine neutrale und friedliche Umgebung für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM ist ein Wassergebiet in Vatra, das eine einfache Umgebung für einen ruhigen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Der Nimoreni-Stausee in Vatra ist ein großes Gewässer, das sich ideal eignet, um die Landschaft bei einem Spaziergang zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Der See Nr. 2 in Vatra ist ein ruhiger Ort für einen Spaziergang und bietet Besuchern eine friedliche natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Der See Nr. 4 in Vatra bietet eine neutrale Umgebung, um einen ruhigen Spaziergang und die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Der See Nr. 1 in Vatra ist ein ruhiges Gewässer, ideal für einen friedlichen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Der See Nr. 3 in Vatra bietet eine ruhige und einfache Umgebung für Besucher, die einen entspannten Spaziergang am Ufer suchen.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Der Ghidighici-Stausee in Vatra ist ein beliebter und malerischer See, ideal für lange Spaziergänge und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Der See Valea Morilor in Vatra ist ein wunderschönes Gewässer, das eine friedliche Umgebung zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
             }
       ],
       "hu": [
@@ -8511,6 +10959,96 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.763543,
                         47.064979
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "A vatrai Albișoara-tó kellemes hely egy sétához, nyugodt légkört kínálva a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Az Iazul Grătiești egy tó Vatrában, amely semleges és békés környezetet biztosít a szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "A Bazinul de înot al USM egy vízfelület Vatrában, amely egyszerű környezetet kínál egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "A vatrai Nimoreni-víztározó egy nagy vízfelület, amely tökéletes a táj megtekintéséhez egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A vatrai 2-es számú tó nyugodt hely egy sétához, békés természeti környezetet kínálva a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "A vatrai 4-es számú tó semleges környezetet biztosít egy csendes séta és a környező táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "A vatrai 1-es számú tó egy nyugodt vízfelület, amely ideális egy békés szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A vatrai 3-as számú tó nyugodt és egyszerű környezetet kínál a parton pihentető sétát kereső látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "A vatrai Ghidighici-víztározó egy népszerű és festői tó, amely ideális hosszú sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "A vatrai Valea Morilor-tó egy gyönyörű vízfelület, amely békés környezetet biztosít a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
                   ]
             }
       ],
@@ -8541,6 +11079,96 @@ export const moldovaCitiesV2: POI[] = [
                         28.763543,
                         47.064979
                   ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Lacul Albișoara din Vatra este un loc plăcut pentru o plimbare, oferind o atmosferă calmă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești este un lac în Vatra, oferind un mediu neutru și liniștit pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM este o zonă acvatică în Vatra, oferind un cadru simplu pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Lacul de acumulare „Nimoreni” din Vatra este o întindere mare de apă, perfectă pentru a admira peisajul în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lacul nr. 2 din Vatra este un loc calm pentru o plimbare, oferind vizitatorilor un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Lacul nr. 4 din Vatra oferă un cadru neutru pentru o plimbare liniștită și pentru a admira peisajul din jur.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lacul nr. 1 din Vatra este o întindere de apă liniștită, ideală pentru o plimbare calmă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lacul nr. 3 din Vatra oferă un cadru calm și simplu pentru vizitatorii care caută o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Lacul de acumulare Ghidighici din Vatra este un lac popular și pitoresc, ideal pentru plimbări lungi și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Lacul Valea Morilor din Vatra este o întindere frumoasă de apă, oferind un mediu liniștit pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
             }
       ],
       "en": [
@@ -8569,6 +11197,96 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.763543,
                         47.064979
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "Albișoara Lake in Vatra is a pleasant spot for a walk, offering a calm atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești is a lake in Vatra, providing a neutral and peaceful environment for outdoor walking.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM is a water area in Vatra, offering a simple setting for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "The Nimoreni Reservoir in Vatra is a large body of water perfect for viewing the landscape on a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lake No. 2",
+                  "text": "Lake No. 2 in Vatra is a calm spot for a walk, offering visitors a peaceful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "Lake No. 4 in Vatra provides a neutral setting for enjoying a quiet walk and the surrounding scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lake No. 1",
+                  "text": "Lake No. 1 in Vatra is a tranquil body of water, ideal for a peaceful outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lake No. 3",
+                  "text": "Lake No. 3 in Vatra offers a calm and simple setting for visitors seeking a relaxing walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Ghidighici Reservoir",
+                  "text": "Ghidighici Reservoir in Vatra is a popular and scenic lake, ideal for long walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "Valea Morilor Lake in Vatra is a beautiful body of water, providing a peaceful environment for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
                   ]
             }
       ]
@@ -8617,7 +11335,52 @@ export const moldovaCitiesV2: POI[] = [
     image: "/poi-images/moldova-vatra-city-v2.webp",
   },
   {
-    id: "moldova-fale-tii-noi-city-v2",
+    id: "moldova-fale-tii-noi-city-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lacul Francez",
+                  "text": "Das Lacul Francez in Falestii Noi ist ein idyllischer See in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul Francez",
+                  "text": "A Lacul Francez Falestii Noi területén egy idilli tó a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Francez",
+                  "text": "Lacul Francez din Falestii Noi este un lac idilic în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lacul Francez",
+                  "text": "Lacul Francez in Falestii Noi is an idyllic lake surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.730379,
+                        47.578804
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD",
     name: { de: "Făleștii Noi", hu: "Făleștii Noi", ro: "Făleștii Noi", en: "Făleștii Noi" },

@@ -123,6 +123,24 @@ export const poiExtraItalyV2: POI[] = [
                         13.551418,
                         37.286936
                   ]
+            },
+            {
+                  "name": "Invaso Consolida",
+                  "text": "Das Invaso Consolida in Agrigento ist ein Wasserreservoir mit schöner Aussicht auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.564357,
+                        37.348607
+                  ]
+            },
+            {
+                  "name": "Aire de jeu",
+                  "text": "Die Aire de jeu in Agrigento ist ein einfacher Spielplatz für eine kurze Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        13.591042,
+                        37.305912
+                  ]
             }
       ],
       "hu": [
@@ -243,6 +261,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.551418,
                         37.286936
+                  ]
+            },
+            {
+                  "name": "Invaso Consolida",
+                  "text": "Az agrigentói Invaso Consolida egy víztározó szép kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.564357,
+                        37.348607
+                  ]
+            },
+            {
+                  "name": "Aire de jeu",
+                  "text": "Az agrigentói Aire de jeu egy egyszerű játszótér egy rövid szünethez a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.591042,
+                        37.305912
                   ]
             }
       ],
@@ -365,6 +401,24 @@ export const poiExtraItalyV2: POI[] = [
                         13.551418,
                         37.286936
                   ]
+            },
+            {
+                  "name": "Invaso Consolida",
+                  "text": "Invaso Consolida din Agrigento este un rezervor de apă cu o vedere frumoasă asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        13.564357,
+                        37.348607
+                  ]
+            },
+            {
+                  "name": "Aire de jeu",
+                  "text": "Aire de jeu din Agrigento este un loc de joacă simplu pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        13.591042,
+                        37.305912
+                  ]
             }
       ],
       "en": [
@@ -485,6 +539,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.551418,
                         37.286936
+                  ]
+            },
+            {
+                  "name": "Invaso Consolida",
+                  "text": "Invaso Consolida in Agrigento is a water reservoir with a nice view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.564357,
+                        37.348607
+                  ]
+            },
+            {
+                  "name": "Aire de jeu",
+                  "text": "Aire de jeu in Agrigento is a simple playground for a quick break with children.",
+                  "category": "family",
+                  "coords": [
+                        13.591042,
+                        37.305912
                   ]
             }
       ]
@@ -2312,6 +2384,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.352412,
                         46.51432
                   ]
+            },
+            {
+                  "name": "Wangener Stausee",
+                  "text": "Der Wangener Stausee bei Bozen ist ein friedliches Gewässer, das zu einem erholsamen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.39947,
+                        46.551888
+                  ]
+            },
+            {
+                  "name": "Wolfsgrubner See",
+                  "text": "Der Wolfsgrubner See in der Nähe von Bozen ist ein beliebter Badesee, der von herrlicher Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.426308,
+                        46.520703
+                  ]
+            },
+            {
+                  "name": "Parco Druso III",
+                  "text": "Der Parco Druso III in Bozen bietet moderne Spielgeräte für Kinder in einer gepflegten städtischen Grünanlage.",
+                  "category": "family",
+                  "coords": [
+                        11.318593,
+                        46.496012
+                  ]
+            },
+            {
+                  "name": "Parco Mignone",
+                  "text": "Der Parco Mignone in Bozen ist ein familienfreundlicher Park mit viel Platz für Spiele im Freien.",
+                  "category": "family",
+                  "coords": [
+                        11.345866,
+                        46.483175
+                  ]
+            },
+            {
+                  "name": "Minigolf Bozen",
+                  "text": "Minigolf Bozen bietet Spaß und Herausforderung für Besucher jeden Alters in einer angenehmen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        11.350757,
+                        46.509628
+                  ]
+            },
+            {
+                  "name": "Weingartenpark",
+                  "text": "Der Weingartenpark in Bozen ist ein einladender Spielplatz, der ideal für Kinder zum Austoben ist.",
+                  "category": "family",
+                  "coords": [
+                        11.323305,
+                        46.496384
+                  ]
+            },
+            {
+                  "name": "\"Grasburg\"",
+                  "text": "Die Grasburg in Bozen ist ein fantasievoller Spielplatz, der Kindern kreative Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.34675,
+                        46.502902
+                  ]
+            },
+            {
+                  "name": "Kindergarten",
+                  "text": "Der Spielbereich des Kindergartens in Bozen bietet eine geschützte und anregende Umgebung für die Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        11.316318,
+                        46.480823
+                  ]
+            },
+            {
+                  "name": "Asilo nido",
+                  "text": "Der Asilo nido in Bozen verfügt über kindgerechte Spielbereiche, die speziell auf Kleinkinder zugeschnitten sind.",
+                  "category": "family",
+                  "coords": [
+                        11.317324,
+                        46.480737
+                  ]
+            },
+            {
+                  "name": "VKE Spielhaus 2",
+                  "text": "Das VKE Spielhaus 2 in Bozen ist ein lebendiger Ort für Kinder zum Spielen und für gemeinsame Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        11.325987,
+                        46.484792
+                  ]
             }
       ],
       "hu": [
@@ -2423,6 +2585,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.352412,
                         46.51432
+                  ]
+            },
+            {
+                  "name": "Wangener Stausee - Serbatoio di Vall d'Auna",
+                  "text": "A Bolzano melletti Wangener Stausee egy békés víztározó, amely pihentető sétára hív.",
+                  "category": "natural",
+                  "coords": [
+                        11.39947,
+                        46.551888
+                  ]
+            },
+            {
+                  "name": "Wolfsgrubner See - Lago di Costalovara",
+                  "text": "A Bolzano közelében található Wolfsgrubner See egy népszerű fürdőtó, amelyet gyönyörű természet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        11.426308,
+                        46.520703
+                  ]
+            },
+            {
+                  "name": "Parco Druso III",
+                  "text": "A bolzanói Parco Druso III modern játékokat kínál a gyerekeknek egy gondozott városi parkban.",
+                  "category": "family",
+                  "coords": [
+                        11.318593,
+                        46.496012
+                  ]
+            },
+            {
+                  "name": "Parco Mignone",
+                  "text": "A bolzanói Parco Mignone egy családbarát park, ahol rengeteg hely van a szabadtéri játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.345866,
+                        46.483175
+                  ]
+            },
+            {
+                  "name": "Minigolf Bozen",
+                  "text": "A Minigolf Bozen szórakozást és kihívást kínál minden korosztály számára kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        11.350757,
+                        46.509628
+                  ]
+            },
+            {
+                  "name": "Parco via della Vigna - Weingartenpark",
+                  "text": "A bolzanói Weingartenpark egy hívogató játszótér, amely ideális a gyermekek számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.323305,
+                        46.496384
+                  ]
+            },
+            {
+                  "name": "\"Grasburg\"",
+                  "text": "A bolzanói Grasburg egy ötletes játszótér, amely kreatív játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.34675,
+                        46.502902
+                  ]
+            },
+            {
+                  "name": "Scuola materna - Kindergarten",
+                  "text": "A bolzanói óvoda játszótere védett és ösztönző környezetet kínál a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.316318,
+                        46.480823
+                  ]
+            },
+            {
+                  "name": "Asilo nido",
+                  "text": "A bolzanói bölcsőde gyermekbarát játszóterekkel rendelkezik, amelyeket kifejezetten a kisgyermekeknek alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        11.317324,
+                        46.480737
+                  ]
+            },
+            {
+                  "name": "VKE Casa Gioco 2 - VKE Spielhaus 2",
+                  "text": "A bolzanói VKE Spielhaus 2 egy élettel teli hely a gyermekek számára a játékhoz és a közös tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        11.325987,
+                        46.484792
                   ]
             }
       ],
@@ -2536,6 +2788,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.352412,
                         46.51432
                   ]
+            },
+            {
+                  "name": "Wangener Stausee - Serbatoio di Vall d'Auna",
+                  "text": "Wangener Stausee de lângă Bolzano este un lac de acumulare liniștit care invită la o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        11.39947,
+                        46.551888
+                  ]
+            },
+            {
+                  "name": "Wolfsgrubner See - Lago di Costalovara",
+                  "text": "Wolfsgrubner See din apropiere de Bolzano este un lac popular pentru scăldat, înconjurat de o natură superbă.",
+                  "category": "natural",
+                  "coords": [
+                        11.426308,
+                        46.520703
+                  ]
+            },
+            {
+                  "name": "Parco Druso III",
+                  "text": "Parco Druso III din Bolzano oferă echipamente moderne de joacă pentru copii într-un spațiu verde urban îngrijit.",
+                  "category": "family",
+                  "coords": [
+                        11.318593,
+                        46.496012
+                  ]
+            },
+            {
+                  "name": "Parco Mignone",
+                  "text": "Parco Mignone din Bolzano este un parc primitor pentru familii, cu mult spațiu pentru jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.345866,
+                        46.483175
+                  ]
+            },
+            {
+                  "name": "Minigolf Bozen",
+                  "text": "Minigolf Bozen oferă distracție și provocări pentru vizitatorii de toate vârstele într-un cadru plăcut.",
+                  "category": "family",
+                  "coords": [
+                        11.350757,
+                        46.509628
+                  ]
+            },
+            {
+                  "name": "Parco via della Vigna - Weingartenpark",
+                  "text": "Weingartenpark din Bolzano este un teren de joacă primitor, ideal pentru recreerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.323305,
+                        46.496384
+                  ]
+            },
+            {
+                  "name": "\"Grasburg\"",
+                  "text": "Grasburg din Bolzano este un teren de joacă plin de imaginație care oferă copiilor opțiuni creative de joacă.",
+                  "category": "family",
+                  "coords": [
+                        11.34675,
+                        46.502902
+                  ]
+            },
+            {
+                  "name": "Scuola materna - Kindergarten",
+                  "text": "Zona de joacă a grădiniței din Bolzano oferă un mediu protejat și stimulant pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        11.316318,
+                        46.480823
+                  ]
+            },
+            {
+                  "name": "Asilo nido",
+                  "text": "Creșa din Bolzano are zone de joacă adecvate copiilor, adaptate special pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        11.317324,
+                        46.480737
+                  ]
+            },
+            {
+                  "name": "VKE Casa Gioco 2 - VKE Spielhaus 2",
+                  "text": "VKE Spielhaus 2 din Bolzano este un loc plin de viață pentru copii, ideal pentru joacă și activități comune.",
+                  "category": "family",
+                  "coords": [
+                        11.325987,
+                        46.484792
+                  ]
             }
       ],
       "en": [
@@ -2647,6 +2989,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.352412,
                         46.51432
+                  ]
+            },
+            {
+                  "name": "Wangener Stausee - Serbatoio di Vall d'Auna",
+                  "text": "The Wangener Stausee near Bolzano is a peaceful reservoir inviting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        11.39947,
+                        46.551888
+                  ]
+            },
+            {
+                  "name": "Wolfsgrubner See - Lago di Costalovara",
+                  "text": "The Wolfsgrubner See near Bolzano is a popular bathing lake surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.426308,
+                        46.520703
+                  ]
+            },
+            {
+                  "name": "Parco Druso III",
+                  "text": "Parco Druso III in Bolzano offers modern play equipment for children in a well-kept urban green area.",
+                  "category": "family",
+                  "coords": [
+                        11.318593,
+                        46.496012
+                  ]
+            },
+            {
+                  "name": "Parco Mignone",
+                  "text": "Parco Mignone in Bolzano is a family-friendly park with plenty of space for outdoor games.",
+                  "category": "family",
+                  "coords": [
+                        11.345866,
+                        46.483175
+                  ]
+            },
+            {
+                  "name": "Minigolf Bozen",
+                  "text": "Minigolf Bozen provides fun and challenges for visitors of all ages in a pleasant setting.",
+                  "category": "family",
+                  "coords": [
+                        11.350757,
+                        46.509628
+                  ]
+            },
+            {
+                  "name": "Parco via della Vigna - Weingartenpark",
+                  "text": "The Weingartenpark in Bolzano is an inviting playground ideal for children to play.",
+                  "category": "family",
+                  "coords": [
+                        11.323305,
+                        46.496384
+                  ]
+            },
+            {
+                  "name": "\"Grasburg\"",
+                  "text": "The Grasburg in Bolzano is an imaginative playground offering children creative play options.",
+                  "category": "family",
+                  "coords": [
+                        11.34675,
+                        46.502902
+                  ]
+            },
+            {
+                  "name": "Scuola materna - Kindergarten",
+                  "text": "The kindergarten play area in Bolzano provides a protected and stimulating environment for the little ones.",
+                  "category": "family",
+                  "coords": [
+                        11.316318,
+                        46.480823
+                  ]
+            },
+            {
+                  "name": "Asilo nido",
+                  "text": "The nursery in Bolzano features child-friendly play areas specifically tailored for toddlers.",
+                  "category": "family",
+                  "coords": [
+                        11.317324,
+                        46.480737
+                  ]
+            },
+            {
+                  "name": "VKE Casa Gioco 2 - VKE Spielhaus 2",
+                  "text": "The VKE Spielhaus 2 in Bolzano is a vibrant spot for children to play and engage in joint activities.",
+                  "category": "family",
+                  "coords": [
+                        11.325987,
+                        46.484792
                   ]
             }
       ]
@@ -3226,6 +3658,78 @@ export const poiExtraItalyV2: POI[] = [
                         12.253889,
                         46.581944
                   ]
+            },
+            {
+                  "name": "Lago Fedèra",
+                  "text": "Der Lago Fedèra bei Cortina d'Ampezzo ist ein Bergsee, der für seine spiegelglatte Oberfläche bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.104372,
+                        46.48816
+                  ]
+            },
+            {
+                  "name": "Lago di Son Forca",
+                  "text": "Der Lago di Son Forca in Cortina d'Ampezzo ist ein hochgelegener See inmitten der Dolomiten.",
+                  "category": "natural",
+                  "coords": [
+                        12.18017,
+                        46.564653
+                  ]
+            },
+            {
+                  "name": "Sorapissee",
+                  "text": "Der Lago del Sorapíss bei Cortina d'Ampezzo beeindruckt durch seine markante türkise Farbe.",
+                  "category": "natural",
+                  "coords": [
+                        12.223348,
+                        46.520576
+                  ]
+            },
+            {
+                  "name": "Lago Pian del Conte",
+                  "text": "Der Lago Pian del Conte in Cortina d'Ampezzo bietet eine ruhige Bergkulisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.111769,
+                        46.519425
+                  ]
+            },
+            {
+                  "name": "Lago de Pianozes",
+                  "text": "Der Lago de Pianozes in Cortina d'Ampezzo ist ein idyllischer Waldsee, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.133007,
+                        46.513917
+                  ]
+            },
+            {
+                  "name": "Lago Bain de Dones",
+                  "text": "Der Lago Bain de Dones in Cortina d'Ampezzo ist ein kleiner Bergsee in der Nähe von Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        12.041097,
+                        46.519489
+                  ]
+            },
+            {
+                  "name": "Lago Ciou de ra Maza",
+                  "text": "Der Lago Ciou de ra Maza in Cortina d'Ampezzo ist ein abgelegener See in einer alpinen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        12.079122,
+                        46.49103
+                  ]
+            },
+            {
+                  "name": "Minigolf Helvetia",
+                  "text": "Minigolf Helvetia in Cortina d'Ampezzo bietet Freizeitspaß für Familien in den Bergen.",
+                  "category": "family",
+                  "coords": [
+                        12.134228,
+                        46.542426
+                  ]
             }
       ],
       "hu": [
@@ -3315,6 +3819,78 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.253889,
                         46.581944
+                  ]
+            },
+            {
+                  "name": "Lago Fedèra",
+                  "text": "A Cortina d'Ampezzo melletti Lago Fedèra egy hegyi tó, amely tükörsima felszínéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.104372,
+                        46.48816
+                  ]
+            },
+            {
+                  "name": "Lago di Son Forca",
+                  "text": "A Cortina d'Ampezzo-i Lago di Son Forca egy magasan fekvő tó a Dolomitok közepén.",
+                  "category": "natural",
+                  "coords": [
+                        12.18017,
+                        46.564653
+                  ]
+            },
+            {
+                  "name": "Lago del Sorapíss",
+                  "text": "A Cortina d'Ampezzo melletti Lago del Sorapíss lenyűgöző jellegzetes türkiz színével.",
+                  "category": "natural",
+                  "coords": [
+                        12.223348,
+                        46.520576
+                  ]
+            },
+            {
+                  "name": "Lago Pian del Conte",
+                  "text": "A Cortina d'Ampezzo-i Lago Pian del Conte nyugodt hegyi környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        12.111769,
+                        46.519425
+                  ]
+            },
+            {
+                  "name": "Lago de Pianozes",
+                  "text": "A Cortina d'Ampezzo-i Lago de Pianozes egy idilli erdei tó, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.133007,
+                        46.513917
+                  ]
+            },
+            {
+                  "name": "Lago Bain de Dones",
+                  "text": "A Cortina d'Ampezzo-i Lago Bain de Dones egy kis hegyi tó a túraútvonalak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.041097,
+                        46.519489
+                  ]
+            },
+            {
+                  "name": "Lago Ciou de ra Maza",
+                  "text": "A Cortina d'Ampezzo-i Lago Ciou de ra Maza egy eldugott tó alpesi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.079122,
+                        46.49103
+                  ]
+            },
+            {
+                  "name": "Minigolf Helvetia",
+                  "text": "A Cortina d'Ampezzo-i Minigolf Helvetia szabadidős szórakozást kínál családoknak a hegyekben.",
+                  "category": "family",
+                  "coords": [
+                        12.134228,
+                        46.542426
                   ]
             }
       ],
@@ -3406,6 +3982,78 @@ export const poiExtraItalyV2: POI[] = [
                         12.253889,
                         46.581944
                   ]
+            },
+            {
+                  "name": "Lago Fedèra",
+                  "text": "Lago Fedèra de lângă Cortina d'Ampezzo este un lac montan cunoscut pentru suprafața sa oglindită.",
+                  "category": "natural",
+                  "coords": [
+                        12.104372,
+                        46.48816
+                  ]
+            },
+            {
+                  "name": "Lago di Son Forca",
+                  "text": "Lago di Son Forca din Cortina d'Ampezzo este un lac situat la altitudine mare în mijlocul Dolomiților.",
+                  "category": "natural",
+                  "coords": [
+                        12.18017,
+                        46.564653
+                  ]
+            },
+            {
+                  "name": "Lago del Sorapíss",
+                  "text": "Lago del Sorapíss de lângă Cortina d'Ampezzo impresionează prin culoarea sa turcoaz distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        12.223348,
+                        46.520576
+                  ]
+            },
+            {
+                  "name": "Lago Pian del Conte",
+                  "text": "Lago Pian del Conte din Cortina d'Ampezzo oferă un cadru montan liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.111769,
+                        46.519425
+                  ]
+            },
+            {
+                  "name": "Lago de Pianozes",
+                  "text": "Lago de Pianozes din Cortina d'Ampezzo este un lac de pădure idilic care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.133007,
+                        46.513917
+                  ]
+            },
+            {
+                  "name": "Lago Bain de Dones",
+                  "text": "Lago Bain de Dones din Cortina d'Ampezzo este un mic lac montan situat lângă trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        12.041097,
+                        46.519489
+                  ]
+            },
+            {
+                  "name": "Lago Ciou de ra Maza",
+                  "text": "Lago Ciou de ra Maza din Cortina d'Ampezzo este un lac retras într-un mediu alpin.",
+                  "category": "natural",
+                  "coords": [
+                        12.079122,
+                        46.49103
+                  ]
+            },
+            {
+                  "name": "Minigolf Helvetia",
+                  "text": "Minigolf Helvetia din Cortina d'Ampezzo oferă distracție în familie în munți.",
+                  "category": "family",
+                  "coords": [
+                        12.134228,
+                        46.542426
+                  ]
             }
       ],
       "en": [
@@ -3495,6 +4143,78 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.253889,
                         46.581944
+                  ]
+            },
+            {
+                  "name": "Lago Fedèra",
+                  "text": "Lago Fedèra near Cortina d'Ampezzo is a mountain lake known for its mirrored surface.",
+                  "category": "natural",
+                  "coords": [
+                        12.104372,
+                        46.48816
+                  ]
+            },
+            {
+                  "name": "Lago di Son Forca",
+                  "text": "Lago di Son Forca in Cortina d'Ampezzo is a high-altitude lake in the heart of the Dolomites.",
+                  "category": "natural",
+                  "coords": [
+                        12.18017,
+                        46.564653
+                  ]
+            },
+            {
+                  "name": "Lago del Sorapíss",
+                  "text": "Lago del Sorapíss near Cortina d'Ampezzo impresses with its striking turquoise color.",
+                  "category": "natural",
+                  "coords": [
+                        12.223348,
+                        46.520576
+                  ]
+            },
+            {
+                  "name": "Lago Pian del Conte",
+                  "text": "Lago Pian del Conte in Cortina d'Ampezzo offers a quiet mountain setting by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.111769,
+                        46.519425
+                  ]
+            },
+            {
+                  "name": "Lago de Pianozes",
+                  "text": "Lago de Pianozes in Cortina d'Ampezzo is an idyllic forest lake inviting relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.133007,
+                        46.513917
+                  ]
+            },
+            {
+                  "name": "Lago Bain de Dones",
+                  "text": "Lago Bain de Dones in Cortina d'Ampezzo is a small mountain lake located near hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        12.041097,
+                        46.519489
+                  ]
+            },
+            {
+                  "name": "Lago Ciou de ra Maza",
+                  "text": "Lago Ciou de ra Maza in Cortina d'Ampezzo is a secluded lake in an alpine environment.",
+                  "category": "natural",
+                  "coords": [
+                        12.079122,
+                        46.49103
+                  ]
+            },
+            {
+                  "name": "Minigolf Helvetia",
+                  "text": "Minigolf Helvetia in Cortina d'Ampezzo offers recreational fun for families in the mountains.",
+                  "category": "family",
+                  "coords": [
+                        12.134228,
+                        46.542426
                   ]
             }
       ]
@@ -3588,6 +4308,15 @@ export const poiExtraItalyV2: POI[] = [
                         6.972005,
                         45.794463
                   ]
+            },
+            {
+                  "name": "Laghi Entre Deaux Sauts",
+                  "text": "Die Laghi Entre Deaux Sauts bei Courmayeur sind klare Bergseen, die ein beeindruckendes Panorama bieten.",
+                  "category": "natural",
+                  "coords": [
+                        7.037788,
+                        45.823396
+                  ]
             }
       ],
       "hu": [
@@ -3677,6 +4406,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         6.972005,
                         45.794463
+                  ]
+            },
+            {
+                  "name": "Laghi Entre Deaux Sauts",
+                  "text": "A Courmayeur melletti Laghi Entre Deaux Sauts tiszta hegyi tavak, amelyek lenyűgöző panorámát nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        7.037788,
+                        45.823396
                   ]
             }
       ],
@@ -3768,6 +4506,15 @@ export const poiExtraItalyV2: POI[] = [
                         6.972005,
                         45.794463
                   ]
+            },
+            {
+                  "name": "Laghi Entre Deaux Sauts",
+                  "text": "Laghi Entre Deaux Sauts de lângă Courmayeur sunt lacuri montane limpezi care oferă o panoramă impresionantă.",
+                  "category": "natural",
+                  "coords": [
+                        7.037788,
+                        45.823396
+                  ]
             }
       ],
       "en": [
@@ -3857,6 +4604,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         6.972005,
                         45.794463
+                  ]
+            },
+            {
+                  "name": "Laghi Entre Deaux Sauts",
+                  "text": "The Laghi Entre Deaux Sauts near Courmayeur are clear mountain lakes offering a stunning panorama.",
+                  "category": "natural",
+                  "coords": [
+                        7.037788,
+                        45.823396
                   ]
             }
       ]
@@ -5284,6 +6040,150 @@ export const poiExtraItalyV2: POI[] = [
                         10.813036,
                         46.248977
                   ]
+            },
+            {
+                  "name": "Lago delle Malghette",
+                  "text": "Der Lago delle Malghette bei Madonna di Campiglio ist ein idyllischer Alpensee, ideal für eine Bergwanderung.",
+                  "category": "natural",
+                  "coords": [
+                        10.81939,
+                        46.266796
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Superiore",
+                  "text": "Der Lago di Cornisello Superiore bietet eine spektakuläre hochalpine Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        10.726275,
+                        46.221722
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Der Lago Nero bei Madonna di Campiglio ist ein mystischer Bergsee, der für seine dunkle Wasserfarbe bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.730581,
+                        46.216494
+                  ]
+            },
+            {
+                  "name": "Lago Nambrone",
+                  "text": "Der Lago Nambrone liegt in einem unberührten Tal und ist ein idealer Ort für Ruhe und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        10.756436,
+                        46.247243
+                  ]
+            },
+            {
+                  "name": "Lago di Valagola",
+                  "text": "Der Lago di Valagola besticht durch sein smaragdgrünes Wasser und seine ruhige Lage im Wald.",
+                  "category": "natural",
+                  "coords": [
+                        10.820583,
+                        46.165755
+                  ]
+            },
+            {
+                  "name": "Lago Scuro",
+                  "text": "Der Lago Scuro ist ein abgelegener Alpensee, der Wanderern eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.802432,
+                        46.255496
+                  ]
+            },
+            {
+                  "name": "Tre Laghi",
+                  "text": "Die Tre Laghi sind eine Gruppe von Bergseen, die ein reizvolles Ziel für eine Wanderung darstellen.",
+                  "category": "natural",
+                  "coords": [
+                        10.797527,
+                        46.258946
+                  ]
+            },
+            {
+                  "name": "Lago Montagnoli",
+                  "text": "Der Lago Montagnoli ist ein künstlicher See, der sich harmonisch in die Berglandschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        10.841447,
+                        46.232848
+                  ]
+            },
+            {
+                  "name": "Lago Stablo",
+                  "text": "Der Lago Stablo ist ein ruhiger Gebirgssee, der zur Erholung in der alpinen Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.77884,
+                        46.286116
+                  ]
+            },
+            {
+                  "name": "Bacino Grual",
+                  "text": "Das Bacino Grual ist ein Wasserspeicher in den Bergen, der einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.813219,
+                        46.170674
+                  ]
+            },
+            {
+                  "name": "Lago Lambin",
+                  "text": "Der Lago Lambin ist ein kristallklarer Alpensee, der inmitten einer felsigen Berglandschaft liegt.",
+                  "category": "natural",
+                  "coords": [
+                        10.779194,
+                        46.236405
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Inferiore",
+                  "text": "Der Lago di Cornisello Inferiore ist bekannt für seine malerische Lage und sein klares Gebirgswasser.",
+                  "category": "natural",
+                  "coords": [
+                        10.732902,
+                        46.220953
+                  ]
+            },
+            {
+                  "name": "Lago Serodoli",
+                  "text": "Der Lago Serodoli ist ein Bergsee in großer Höhe, der von einer beeindruckenden alpinen Flora umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.778206,
+                        46.248232
+                  ]
+            },
+            {
+                  "name": "Lago Gelato",
+                  "text": "Der Lago Gelato trägt seinen Namen aufgrund seiner kühlen Wassertemperaturen in der Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        10.771288,
+                        46.247261
+                  ]
+            },
+            {
+                  "name": "Lago Ritort",
+                  "text": "Der Lago Ritort bietet ein wunderschönes Panorama und ist ein beliebtes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        10.786916,
+                        46.227598
+                  ]
+            },
+            {
+                  "name": "Parco giochi Madonna di Campiglio",
+                  "text": "Ein öffentlicher Spielplatz in Madonna di Campiglio für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        10.827496,
+                        46.229523
+                  ]
             }
       ],
       "hu": [
@@ -5373,6 +6273,150 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.813036,
                         46.248977
+                  ]
+            },
+            {
+                  "name": "Lago delle Malghette",
+                  "text": "A Madonna di Campiglio melletti Lago delle Malghette egy idilli alpesi tó, amely ideális hegyi túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.81939,
+                        46.266796
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Superiore",
+                  "text": "A Lago di Cornisello Superiore látványos magashegyi környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        10.726275,
+                        46.221722
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "A Madonna di Campiglio melletti Lago Nero egy misztikus hegyi tó, amely sötét vízéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.730581,
+                        46.216494
+                  ]
+            },
+            {
+                  "name": "Lago Nambrone",
+                  "text": "A Lago Nambrone egy érintetlen völgyben fekszik, és ideális hely a nyugalomra és a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        10.756436,
+                        46.247243
+                  ]
+            },
+            {
+                  "name": "Lago di Valagola",
+                  "text": "A Lago di Valagola smaragdzöld vizével és az erdőben fekvő nyugodt elhelyezkedésével nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        10.820583,
+                        46.165755
+                  ]
+            },
+            {
+                  "name": "Lago Scuro",
+                  "text": "A Lago Scuro egy eldugott alpesi tó, amely békés légkört kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        10.802432,
+                        46.255496
+                  ]
+            },
+            {
+                  "name": "Tre Laghi",
+                  "text": "A Tre Laghi hegyi tavak csoportja, amelyek vonzó célpontot jelentenek a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        10.797527,
+                        46.258946
+                  ]
+            },
+            {
+                  "name": "Lago Montagnoli",
+                  "text": "A Lago Montagnoli egy mesterséges tó, amely harmonikusan illeszkedik a hegyi tájba.",
+                  "category": "natural",
+                  "coords": [
+                        10.841447,
+                        46.232848
+                  ]
+            },
+            {
+                  "name": "Lago Stablo",
+                  "text": "A Lago Stablo egy nyugodt hegyi tó, amely pihenésre hív az alpesi természetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.77884,
+                        46.286116
+                  ]
+            },
+            {
+                  "name": "Bacino Grual",
+                  "text": "A Bacino Grual egy hegyi víztározó, amely széles kilátást nyújt a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        10.813219,
+                        46.170674
+                  ]
+            },
+            {
+                  "name": "Lago Lambin",
+                  "text": "A Lago Lambin egy kristálytiszta alpesi tó, amely egy sziklás hegyi táj közepén fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        10.779194,
+                        46.236405
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Inferiore",
+                  "text": "A Lago di Cornisello Inferiore festői elhelyezkedéséről és tiszta hegyi vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.732902,
+                        46.220953
+                  ]
+            },
+            {
+                  "name": "Lago Serodoli",
+                  "text": "A Lago Serodoli egy nagy magasságban fekvő hegyi tó, amelyet lenyűgöző alpesi flóra vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        10.778206,
+                        46.248232
+                  ]
+            },
+            {
+                  "name": "Lago Gelato",
+                  "text": "A Lago Gelato a hegyvidéki környezetben tapasztalható hűvös vízhőmérsékletéről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        10.771288,
+                        46.247261
+                  ]
+            },
+            {
+                  "name": "Lago Ritort",
+                  "text": "A Lago Ritort gyönyörű panorámát kínál, és a természetbarátok népszerű úti célja.",
+                  "category": "natural",
+                  "coords": [
+                        10.786916,
+                        46.227598
+                  ]
+            },
+            {
+                  "name": "Parco giochi Madonna di Campiglio",
+                  "text": "Nyilvános játszótér Madonna di Campiglio városában a gyerekek kikapcsolódására.",
+                  "category": "family",
+                  "coords": [
+                        10.827496,
+                        46.229523
                   ]
             }
       ],
@@ -5464,6 +6508,150 @@ export const poiExtraItalyV2: POI[] = [
                         10.813036,
                         46.248977
                   ]
+            },
+            {
+                  "name": "Lago delle Malghette",
+                  "text": "Lago delle Malghette de lângă Madonna di Campiglio este un lac alpin idilic, ideal pentru o drumeție pe munte.",
+                  "category": "natural",
+                  "coords": [
+                        10.81939,
+                        46.266796
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Superiore",
+                  "text": "Lago di Cornisello Superiore oferă un cadru alpin spectacolos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.726275,
+                        46.221722
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Lago Nero de lângă Madonna di Campiglio este un lac montan mistic, cunoscut pentru culoarea închisă a apei sale.",
+                  "category": "natural",
+                  "coords": [
+                        10.730581,
+                        46.216494
+                  ]
+            },
+            {
+                  "name": "Lago Nambrone",
+                  "text": "Lago Nambrone este situat într-o vale neatinsă și este un loc ideal pentru liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.756436,
+                        46.247243
+                  ]
+            },
+            {
+                  "name": "Lago di Valagola",
+                  "text": "Lago di Valagola impresionează prin apa sa de culoarea smaraldului și locația liniștită în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        10.820583,
+                        46.165755
+                  ]
+            },
+            {
+                  "name": "Lago Scuro",
+                  "text": "Lago Scuro este un lac alpin retras care oferă excursioniștilor o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        10.802432,
+                        46.255496
+                  ]
+            },
+            {
+                  "name": "Tre Laghi",
+                  "text": "Tre Laghi este un grup de lacuri montane care reprezintă o destinație încântătoare pentru o drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        10.797527,
+                        46.258946
+                  ]
+            },
+            {
+                  "name": "Lago Montagnoli",
+                  "text": "Lago Montagnoli este un lac artificial care se integrează armonios în peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        10.841447,
+                        46.232848
+                  ]
+            },
+            {
+                  "name": "Lago Stablo",
+                  "text": "Lago Stablo este un lac montan liniștit care invită la relaxare în natura alpină.",
+                  "category": "natural",
+                  "coords": [
+                        10.77884,
+                        46.286116
+                  ]
+            },
+            {
+                  "name": "Bacino Grual",
+                  "text": "Bacino Grual este un rezervor montan care oferă o vedere largă asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        10.813219,
+                        46.170674
+                  ]
+            },
+            {
+                  "name": "Lago Lambin",
+                  "text": "Lago Lambin este un lac alpin cu ape cristaline, situat în mijlocul unui peisaj montan stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        10.779194,
+                        46.236405
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Inferiore",
+                  "text": "Lago di Cornisello Inferiore este cunoscut pentru locația sa pitorească și apa sa limpede de munte.",
+                  "category": "natural",
+                  "coords": [
+                        10.732902,
+                        46.220953
+                  ]
+            },
+            {
+                  "name": "Lago Serodoli",
+                  "text": "Lago Serodoli este un lac montan situat la mare altitudine, înconjurat de o floră alpină impresionantă.",
+                  "category": "natural",
+                  "coords": [
+                        10.778206,
+                        46.248232
+                  ]
+            },
+            {
+                  "name": "Lago Gelato",
+                  "text": "Lago Gelato își poartă numele datorită temperaturilor scăzute ale apei sale din mediul montan.",
+                  "category": "natural",
+                  "coords": [
+                        10.771288,
+                        46.247261
+                  ]
+            },
+            {
+                  "name": "Lago Ritort",
+                  "text": "Lago Ritort oferă o panoramă minunată și este o destinație populară pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.786916,
+                        46.227598
+                  ]
+            },
+            {
+                  "name": "Parco giochi Madonna di Campiglio",
+                  "text": "Un teren de joacă public în Madonna di Campiglio pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.827496,
+                        46.229523
+                  ]
             }
       ],
       "en": [
@@ -5553,6 +6741,150 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.813036,
                         46.248977
+                  ]
+            },
+            {
+                  "name": "Lago delle Malghette",
+                  "text": "Lago delle Malghette near Madonna di Campiglio is an idyllic alpine lake, ideal for a mountain hike.",
+                  "category": "natural",
+                  "coords": [
+                        10.81939,
+                        46.266796
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Superiore",
+                  "text": "Lago di Cornisello Superiore offers a spectacular high-alpine setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        10.726275,
+                        46.221722
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Lago Nero near Madonna di Campiglio is a mystical mountain lake known for its dark waters.",
+                  "category": "natural",
+                  "coords": [
+                        10.730581,
+                        46.216494
+                  ]
+            },
+            {
+                  "name": "Lago Nambrone",
+                  "text": "Lago Nambrone is located in a pristine valley and is an ideal spot for peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        10.756436,
+                        46.247243
+                  ]
+            },
+            {
+                  "name": "Lago di Valagola",
+                  "text": "Lago di Valagola impresses with its emerald green water and its peaceful forest location.",
+                  "category": "natural",
+                  "coords": [
+                        10.820583,
+                        46.165755
+                  ]
+            },
+            {
+                  "name": "Lago Scuro",
+                  "text": "Lago Scuro is a secluded alpine lake offering hikers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        10.802432,
+                        46.255496
+                  ]
+            },
+            {
+                  "name": "Tre Laghi",
+                  "text": "Tre Laghi is a group of mountain lakes that represent a charming destination for a hike.",
+                  "category": "natural",
+                  "coords": [
+                        10.797527,
+                        46.258946
+                  ]
+            },
+            {
+                  "name": "Lago Montagnoli",
+                  "text": "Lago Montagnoli is an artificial lake that blends harmoniously into the mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.841447,
+                        46.232848
+                  ]
+            },
+            {
+                  "name": "Lago Stablo",
+                  "text": "Lago Stablo is a peaceful mountain lake inviting for relaxation in alpine nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.77884,
+                        46.286116
+                  ]
+            },
+            {
+                  "name": "Bacino Grual",
+                  "text": "The Bacino Grual is a mountain reservoir offering a wide view over the region.",
+                  "category": "natural",
+                  "coords": [
+                        10.813219,
+                        46.170674
+                  ]
+            },
+            {
+                  "name": "Lago Lambin",
+                  "text": "Lago Lambin is a crystal-clear alpine lake situated in the middle of a rocky mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.779194,
+                        46.236405
+                  ]
+            },
+            {
+                  "name": "Lago di Cornisello Inferiore",
+                  "text": "Lago di Cornisello Inferiore is known for its picturesque location and clear mountain water.",
+                  "category": "natural",
+                  "coords": [
+                        10.732902,
+                        46.220953
+                  ]
+            },
+            {
+                  "name": "Lago Serodoli",
+                  "text": "Lago Serodoli is a high-altitude mountain lake surrounded by impressive alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        10.778206,
+                        46.248232
+                  ]
+            },
+            {
+                  "name": "Lago Gelato",
+                  "text": "Lago Gelato is named for its cool water temperatures in the mountain world.",
+                  "category": "natural",
+                  "coords": [
+                        10.771288,
+                        46.247261
+                  ]
+            },
+            {
+                  "name": "Lago Ritort",
+                  "text": "Lago Ritort offers a beautiful panorama and is a popular destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        10.786916,
+                        46.227598
+                  ]
+            },
+            {
+                  "name": "Parco giochi Madonna di Campiglio",
+                  "text": "A public playground in Madonna di Campiglio for children to play.",
+                  "category": "family",
+                  "coords": [
+                        10.827496,
+                        46.229523
                   ]
             }
       ]
@@ -5934,6 +7266,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.610389,
                         40.662925
                   ]
+            },
+            {
+                  "name": "serbatoio acquedotto",
+                  "text": "Das Serbatoio acquedotto in Matera ist ein funktionales Wasserreservoir der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        16.639329,
+                        40.666607
+                  ]
+            },
+            {
+                  "name": "Vecchia giostrina anni 80",
+                  "text": "Die Vecchia giostrina anni 80 in Matera ist ein nostalgischer kleiner Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.588132,
+                        40.675763
+                  ]
+            },
+            {
+                  "name": "Parchetto per bambini Giada",
+                  "text": "Der Parchetto per bambini Giada in Matera ist ein kleiner, freundlicher Spielbereich für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.580985,
+                        40.690179
+                  ]
             }
       ],
       "hu": [
@@ -6045,6 +7404,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.610389,
                         40.662925
+                  ]
+            },
+            {
+                  "name": "serbatoio acquedotto",
+                  "text": "A materai Serbatoio acquedotto a város egyik funkcionális víztározója.",
+                  "category": "natural",
+                  "coords": [
+                        16.639329,
+                        40.666607
+                  ]
+            },
+            {
+                  "name": "Vecchia giostrina anni 80",
+                  "text": "A materai Vecchia giostrina anni 80 egy nosztalgikus kis játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.588132,
+                        40.675763
+                  ]
+            },
+            {
+                  "name": "Parchetto per bambini Giada",
+                  "text": "A materai Parchetto per bambini Giada egy kicsi, barátságos játszótér a helyi családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.580985,
+                        40.690179
                   ]
             }
       ],
@@ -6158,6 +7544,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.610389,
                         40.662925
                   ]
+            },
+            {
+                  "name": "serbatoio acquedotto",
+                  "text": "Serbatoio acquedotto din Matera este un rezervor de apă funcțional al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        16.639329,
+                        40.666607
+                  ]
+            },
+            {
+                  "name": "Vecchia giostrina anni 80",
+                  "text": "Vecchia giostrina anni 80 din Matera este un mic loc de joacă nostalgic pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.588132,
+                        40.675763
+                  ]
+            },
+            {
+                  "name": "Parchetto per bambini Giada",
+                  "text": "Parchetto per bambini Giada din Matera este o zonă de joacă mică și prietenoasă pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        16.580985,
+                        40.690179
+                  ]
             }
       ],
       "en": [
@@ -6269,6 +7682,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.610389,
                         40.662925
+                  ]
+            },
+            {
+                  "name": "serbatoio acquedotto",
+                  "text": "Serbatoio acquedotto in Matera is a functional water reservoir of the city.",
+                  "category": "natural",
+                  "coords": [
+                        16.639329,
+                        40.666607
+                  ]
+            },
+            {
+                  "name": "Vecchia giostrina anni 80",
+                  "text": "Vecchia giostrina anni 80 in Matera is a nostalgic little playground for children.",
+                  "category": "family",
+                  "coords": [
+                        16.588132,
+                        40.675763
+                  ]
+            },
+            {
+                  "name": "Parchetto per bambini Giada",
+                  "text": "Parchetto per bambini Giada in Matera is a small, friendly play area for local families.",
+                  "category": "family",
+                  "coords": [
+                        16.580985,
+                        40.690179
                   ]
             }
       ]
@@ -10935,6 +12375,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.294955,
                         37.057108
                   ]
+            },
+            {
+                  "name": "Parco Inclusivo Pedagogico",
+                  "text": "Der Parco Inclusivo Pedagogico in Syrakus ist ein barrierefreier Spielplatz für Kinder aller Fähigkeiten.",
+                  "category": "family",
+                  "coords": [
+                        15.28487,
+                        37.066059
+                  ]
+            },
+            {
+                  "name": "Spazio Pop Up",
+                  "text": "Der Spazio Pop Up in Syrakus ist ein moderner Bereich für Spiel und Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        15.295085,
+                        37.097072
+                  ]
             }
       ],
       "hu": [
@@ -11091,6 +12549,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.294955,
                         37.057108
+                  ]
+            },
+            {
+                  "name": "Parco Inclusivo Pedagogico",
+                  "text": "A szirakúzai Parco Inclusivo Pedagogico egy akadálymentes játszótér minden képességű gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.28487,
+                        37.066059
+                  ]
+            },
+            {
+                  "name": "Spazio Pop Up",
+                  "text": "A szirakúzai Spazio Pop Up egy modern terület a játékhoz és szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        15.295085,
+                        37.097072
                   ]
             }
       ],
@@ -11249,6 +12725,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.294955,
                         37.057108
                   ]
+            },
+            {
+                  "name": "Parco Inclusivo Pedagogico",
+                  "text": "Parco Inclusivo Pedagogico din Siracuza este un loc de joacă accesibil pentru copii de toate abilitățile.",
+                  "category": "family",
+                  "coords": [
+                        15.28487,
+                        37.066059
+                  ]
+            },
+            {
+                  "name": "Spazio Pop Up",
+                  "text": "Spazio Pop Up din Siracuza este o zonă modernă pentru joacă și activități de recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.295085,
+                        37.097072
+                  ]
             }
       ],
       "en": [
@@ -11406,6 +12900,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.294955,
                         37.057108
                   ]
+            },
+            {
+                  "name": "Parco Inclusivo Pedagogico",
+                  "text": "Parco Inclusivo Pedagogico in Syracuse is an accessible playground for children of all abilities.",
+                  "category": "family",
+                  "coords": [
+                        15.28487,
+                        37.066059
+                  ]
+            },
+            {
+                  "name": "Spazio Pop Up",
+                  "text": "Spazio Pop Up in Syracuse is a modern area for play and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        15.295085,
+                        37.097072
+                  ]
             }
       ]
 }},
@@ -11496,6 +13008,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.59991,
                         45.472283
                   ]
+            },
+            {
+                  "name": "Gardasee",
+                  "text": "Der Gardasee bei Sirmione bietet eine malerische Kulisse und Möglichkeiten für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Laghetto del Frassino",
+                  "text": "Ein kleiner, naturnaher See in Sirmione, der zu ruhigen Beobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.665594,
+                        45.436666
+                  ]
             }
       ],
       "hu": [
@@ -11583,6 +13113,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.59991,
                         45.472283
+                  ]
+            },
+            {
+                  "name": "Garda-tó",
+                  "text": "A Garda-tó Sirmionénál festői környezetet és parti sétalehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Laghetto del Frassino",
+                  "text": "Egy kis, természetközeli tó Sirmionéban, amely nyugodt megfigyelésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        10.665594,
+                        45.436666
                   ]
             }
       ],
@@ -11672,6 +13220,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.59991,
                         45.472283
                   ]
+            },
+            {
+                  "name": "Lacul Garda",
+                  "text": "Lacul Garda de lângă Sirmione oferă un peisaj pitoresc și posibilități de plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Laghetto del Frassino",
+                  "text": "Un lac mic, aproape de natură în Sirmione, care invită la observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        10.665594,
+                        45.436666
+                  ]
             }
       ],
       "en": [
@@ -11759,6 +13325,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.59991,
                         45.472283
+                  ]
+            },
+            {
+                  "name": "Lake Garda",
+                  "text": "Lake Garda near Sirmione offers a picturesque setting and opportunities for lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Laghetto del Frassino",
+                  "text": "A small, natural lake in Sirmione, perfect for quiet observation.",
+                  "category": "natural",
+                  "coords": [
+                        10.665594,
+                        45.436666
                   ]
             }
       ]
@@ -12502,6 +14086,33 @@ export const poiExtraItalyV2: POI[] = [
                         8.598337,
                         45.888488
                   ]
+            },
+            {
+                  "name": "Laghetto",
+                  "text": "Der Laghetto in Stresa ist ein kleiner, dekorativer Teich, der das Stadtbild verschönert.",
+                  "category": "natural",
+                  "coords": [
+                        8.447241,
+                        45.882134
+                  ]
+            },
+            {
+                  "name": "Punto acqua antincendio boschivo",
+                  "text": "Der Punto acqua antincendio boschivo in Stresa dient als Wasserstelle für den Brandschutz.",
+                  "category": "natural",
+                  "coords": [
+                        8.470599,
+                        45.859262
+                  ]
+            },
+            {
+                  "name": "Langensee",
+                  "text": "Der Lago Maggiore bei Stresa ist ein berühmter See, der für seine atemberaubende Aussicht und Inseln bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.673135,
+                        45.951164
+                  ]
             }
       ],
       "hu": [
@@ -12611,6 +14222,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.598337,
                         45.888488
+                  ]
+            },
+            {
+                  "name": "Laghetto",
+                  "text": "A stresai Laghetto egy kis dísztó, amely szépíti a városképet.",
+                  "category": "natural",
+                  "coords": [
+                        8.447241,
+                        45.882134
+                  ]
+            },
+            {
+                  "name": "Punto acqua antincendio boschivo",
+                  "text": "A stresai Punto acqua antincendio boschivo tűzvédelmi vízvételi helyként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        8.470599,
+                        45.859262
+                  ]
+            },
+            {
+                  "name": "Lago Maggiore",
+                  "text": "A stresai Lago Maggiore egy híres tó, amely lenyűgöző kilátásáról és szigeteiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.673135,
+                        45.951164
                   ]
             }
       ],
@@ -12722,6 +14360,33 @@ export const poiExtraItalyV2: POI[] = [
                         8.598337,
                         45.888488
                   ]
+            },
+            {
+                  "name": "Laghetto",
+                  "text": "Laghetto din Stresa este un mic iaz decorativ care înfrumusețează peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        8.447241,
+                        45.882134
+                  ]
+            },
+            {
+                  "name": "Punto acqua antincendio boschivo",
+                  "text": "Punto acqua antincendio boschivo din Stresa servește ca punct de alimentare cu apă pentru protecția împotriva incendiilor.",
+                  "category": "natural",
+                  "coords": [
+                        8.470599,
+                        45.859262
+                  ]
+            },
+            {
+                  "name": "Lago Maggiore",
+                  "text": "Lacul Maggiore de lângă Stresa este un lac faimos, cunoscut pentru priveliștile uluitoare și insulele sale.",
+                  "category": "natural",
+                  "coords": [
+                        8.673135,
+                        45.951164
+                  ]
             }
       ],
       "en": [
@@ -12831,6 +14496,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.598337,
                         45.888488
+                  ]
+            },
+            {
+                  "name": "Laghetto",
+                  "text": "Laghetto in Stresa is a small decorative pond that enhances the townscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.447241,
+                        45.882134
+                  ]
+            },
+            {
+                  "name": "Punto acqua antincendio boschivo",
+                  "text": "Punto acqua antincendio boschivo in Stresa serves as a water point for forest fire protection.",
+                  "category": "natural",
+                  "coords": [
+                        8.470599,
+                        45.859262
+                  ]
+            },
+            {
+                  "name": "Lake Maggiore",
+                  "text": "Lake Maggiore near Stresa is a famous lake known for its stunning views and islands.",
+                  "category": "natural",
+                  "coords": [
+                        8.673135,
+                        45.951164
                   ]
             }
       ]
@@ -14776,6 +16468,168 @@ export const poiExtraItalyV2: POI[] = [
                         10.99775,
                         45.44295
                   ]
+            },
+            {
+                  "name": "Fontanon",
+                  "text": "Ein lokaler See in Verona, der eine ruhige Atmosphäre in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.066563,
+                        45.459024
+                  ]
+            },
+            {
+                  "name": "Laghetto Squarà",
+                  "text": "Ein kleiner See in Verona, ideal für einen kurzen Aufenthalt in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        11.064043,
+                        45.46476
+                  ]
+            },
+            {
+                  "name": "Parco cuore verde",
+                  "text": "Ein grüner Spielplatz in Verona, der Familien Raum zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.946492,
+                        45.436362
+                  ]
+            },
+            {
+                  "name": "Campo giochi Arsenale",
+                  "text": "Dieser Spielplatz beim Arsenale in Verona ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.986312,
+                        45.441936
+                  ]
+            },
+            {
+                  "name": "Giardini Ezio Maria Caserta",
+                  "text": "Ein familienfreundlicher Spielbereich in den Ezio Maria Caserta Gärten in Verona.",
+                  "category": "family",
+                  "coords": [
+                        11.025295,
+                        45.447788
+                  ]
+            },
+            {
+                  "name": "Giardini - Albino Luciani",
+                  "text": "Ein öffentlicher Spielplatz in den Albino Luciani Gärten für die Anwohner von Verona.",
+                  "category": "family",
+                  "coords": [
+                        11.021995,
+                        45.45242
+                  ]
+            },
+            {
+                  "name": "Savaland",
+                  "text": "Ein Spielplatz in Verona, der Kindern verschiedene Möglichkeiten zur Freizeitgestaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.961334,
+                        45.45281
+                  ]
+            },
+            {
+                  "name": "Campo Giochi Tutto Nostro",
+                  "text": "Ein Gemeinschaftsspielplatz in Verona, der zum gemeinsamen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.971876,
+                        45.441339
+                  ]
+            },
+            {
+                  "name": "Delfino blu",
+                  "text": "Ein kleiner Spielplatz in Verona für die tägliche Portion Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.953424,
+                        45.421076
+                  ]
+            },
+            {
+                  "name": "Parco Angelo Tomelleri",
+                  "text": "Ein schöner Park mit Spielgeräten für Kinder in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.949287,
+                        45.419705
+                  ]
+            },
+            {
+                  "name": "Primavera",
+                  "text": "Ein freundlicher Spielbereich in Verona für Kinder unterschiedlichen Alters.",
+                  "category": "family",
+                  "coords": [
+                        10.966409,
+                        45.44513
+                  ]
+            },
+            {
+                  "name": "Parco dei merli",
+                  "text": "Ein ruhiger Spielplatz in Verona, ideal für einen entspannten Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        10.955137,
+                        45.448404
+                  ]
+            },
+            {
+                  "name": "Parco della pace",
+                  "text": "Ein weitläufiger Spielbereich im Park des Friedens in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.961924,
+                        45.42208
+                  ]
+            },
+            {
+                  "name": "Albero azzurro",
+                  "text": "Ein bunt gestalteter Spielplatz in Verona für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        10.96535,
+                        45.439769
+                  ]
+            },
+            {
+                  "name": "Oasi",
+                  "text": "Ein Spielplatz in Verona, der als Oase für Kinder im Stadtviertel dient.",
+                  "category": "family",
+                  "coords": [
+                        10.965139,
+                        45.443075
+                  ]
+            },
+            {
+                  "name": "Raggio Di Sole",
+                  "text": "Ein sonniger Spielplatz in Verona für Spiel und Spaß an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        10.990657,
+                        45.430676
+                  ]
+            },
+            {
+                  "name": "Giardino Fratelli Tremante",
+                  "text": "Ein öffentlicher Spielgarten in Verona, benannt nach den Gebrüdern Tremante.",
+                  "category": "family",
+                  "coords": [
+                        11.012866,
+                        45.431912
+                  ]
+            },
+            {
+                  "name": "Valle incantata",
+                  "text": "Ein phantasievoll gestalteter Spielplatz für Kinder in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.96811,
+                        45.447617
+                  ]
             }
       ],
       "hu": [
@@ -14865,6 +16719,168 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.99775,
                         45.44295
+                  ]
+            },
+            {
+                  "name": "Fontanon",
+                  "text": "Helyi tó Veronában, amely nyugodt légkört áraszt a városban.",
+                  "category": "natural",
+                  "coords": [
+                        11.066563,
+                        45.459024
+                  ]
+            },
+            {
+                  "name": "Laghetto Squarà",
+                  "text": "Kisméretű tó Veronában, ideális egy rövid természetközeli pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        11.064043,
+                        45.46476
+                  ]
+            },
+            {
+                  "name": "Parco cuore verde",
+                  "text": "Zöld játszótér Veronában, amely szabadtéri játéklehetőséget kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.946492,
+                        45.436362
+                  ]
+            },
+            {
+                  "name": "Campo giochi Arsenale",
+                  "text": "Ez a veronai Arzenál melletti játszótér népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.986312,
+                        45.441936
+                  ]
+            },
+            {
+                  "name": "Giardini Ezio Maria Caserta",
+                  "text": "Családbarát játszóhely a veronai Ezio Maria Caserta kertekben.",
+                  "category": "family",
+                  "coords": [
+                        11.025295,
+                        45.447788
+                  ]
+            },
+            {
+                  "name": "Giardini - Albino Luciani",
+                  "text": "Nyilvános játszótér az Albino Luciani kertekben Verona lakói számára.",
+                  "category": "family",
+                  "coords": [
+                        11.021995,
+                        45.45242
+                  ]
+            },
+            {
+                  "name": "Savaland",
+                  "text": "Játszótér Veronában, amely különféle szabadidős lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.961334,
+                        45.45281
+                  ]
+            },
+            {
+                  "name": "Campo Giochi Tutto Nostro",
+                  "text": "Közösségi játszótér Veronában, amely közös játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        10.971876,
+                        45.441339
+                  ]
+            },
+            {
+                  "name": "Delfino blu",
+                  "text": "Kisebb játszótér Veronában a napi szabadtéri mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.953424,
+                        45.421076
+                  ]
+            },
+            {
+                  "name": "Parco Angelo Tomelleri",
+                  "text": "Szép park játszótéri eszközökkel gyerekeknek Veronában.",
+                  "category": "family",
+                  "coords": [
+                        10.949287,
+                        45.419705
+                  ]
+            },
+            {
+                  "name": "Primavera",
+                  "text": "Barátságos játszóhely Veronában különböző korosztályú gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.966409,
+                        45.44513
+                  ]
+            },
+            {
+                  "name": "Parco dei merli",
+                  "text": "Csendes játszótér Veronában, ideális egy nyugodt családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.955137,
+                        45.448404
+                  ]
+            },
+            {
+                  "name": "Parco della pace",
+                  "text": "Tágas játszóhely a veronai Béke parkban.",
+                  "category": "family",
+                  "coords": [
+                        10.961924,
+                        45.42208
+                  ]
+            },
+            {
+                  "name": "Albero azzurro",
+                  "text": "Színesen kialakított játszótér Veronában a fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        10.96535,
+                        45.439769
+                  ]
+            },
+            {
+                  "name": "Oasi",
+                  "text": "Játszótér Veronában, amely oázisként szolgál a gyerekeknek a városnegyedben.",
+                  "category": "family",
+                  "coords": [
+                        10.965139,
+                        45.443075
+                  ]
+            },
+            {
+                  "name": "Raggio Di Sole",
+                  "text": "Napsütötte játszótér Veronában szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.990657,
+                        45.430676
+                  ]
+            },
+            {
+                  "name": "Giardino Fratelli Tremante",
+                  "text": "Nyilvános játszókert Veronában, a Tremante testvérekről elnevezve.",
+                  "category": "family",
+                  "coords": [
+                        11.012866,
+                        45.431912
+                  ]
+            },
+            {
+                  "name": "Valle incantata",
+                  "text": "Mesei hangulatú játszótér gyerekeknek Veronában.",
+                  "category": "family",
+                  "coords": [
+                        10.96811,
+                        45.447617
                   ]
             }
       ],
@@ -14956,6 +16972,168 @@ export const poiExtraItalyV2: POI[] = [
                         10.99775,
                         45.44295
                   ]
+            },
+            {
+                  "name": "Fontanon",
+                  "text": "Un lac local în Verona, care oferă o atmosferă liniștită în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        11.066563,
+                        45.459024
+                  ]
+            },
+            {
+                  "name": "Laghetto Squarà",
+                  "text": "Un lac mic în Verona, ideal pentru un scurt popas în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.064043,
+                        45.46476
+                  ]
+            },
+            {
+                  "name": "Parco cuore verde",
+                  "text": "Un teren de joacă verde în Verona, oferind familiilor spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.946492,
+                        45.436362
+                  ]
+            },
+            {
+                  "name": "Campo giochi Arsenale",
+                  "text": "Acest teren de joacă de lângă Arsenalul din Verona este un loc de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.986312,
+                        45.441936
+                  ]
+            },
+            {
+                  "name": "Giardini Ezio Maria Caserta",
+                  "text": "O zonă de joacă pentru familii în grădinile Ezio Maria Caserta din Verona.",
+                  "category": "family",
+                  "coords": [
+                        11.025295,
+                        45.447788
+                  ]
+            },
+            {
+                  "name": "Giardini - Albino Luciani",
+                  "text": "Un teren de joacă public în grădinile Albino Luciani pentru locuitorii din Verona.",
+                  "category": "family",
+                  "coords": [
+                        11.021995,
+                        45.45242
+                  ]
+            },
+            {
+                  "name": "Savaland",
+                  "text": "Un teren de joacă în Verona care oferă copiilor diverse opțiuni de petrecere a timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        10.961334,
+                        45.45281
+                  ]
+            },
+            {
+                  "name": "Campo Giochi Tutto Nostro",
+                  "text": "Un teren de joacă comunitar în Verona care invită la joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        10.971876,
+                        45.441339
+                  ]
+            },
+            {
+                  "name": "Delfino blu",
+                  "text": "Un mic teren de joacă în Verona pentru porția zilnică de mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.953424,
+                        45.421076
+                  ]
+            },
+            {
+                  "name": "Parco Angelo Tomelleri",
+                  "text": "Un parc frumos cu echipamente de joacă pentru copii în Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.949287,
+                        45.419705
+                  ]
+            },
+            {
+                  "name": "Primavera",
+                  "text": "O zonă de joacă primitoare în Verona pentru copii de diferite vârste.",
+                  "category": "family",
+                  "coords": [
+                        10.966409,
+                        45.44513
+                  ]
+            },
+            {
+                  "name": "Parco dei merli",
+                  "text": "Un teren de joacă liniștit în Verona, ideal pentru o după-amiază relaxată în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.955137,
+                        45.448404
+                  ]
+            },
+            {
+                  "name": "Parco della pace",
+                  "text": "O zonă de joacă spațioasă în Parcul Păcii din Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.961924,
+                        45.42208
+                  ]
+            },
+            {
+                  "name": "Albero azzurro",
+                  "text": "Un teren de joacă colorat în Verona pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        10.96535,
+                        45.439769
+                  ]
+            },
+            {
+                  "name": "Oasi",
+                  "text": "Un teren de joacă în Verona care servește ca o oază pentru copii în cartier.",
+                  "category": "family",
+                  "coords": [
+                        10.965139,
+                        45.443075
+                  ]
+            },
+            {
+                  "name": "Raggio Di Sole",
+                  "text": "Un teren de joacă însorit în Verona pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.990657,
+                        45.430676
+                  ]
+            },
+            {
+                  "name": "Giardino Fratelli Tremante",
+                  "text": "O grădină publică de joacă în Verona, numită după frații Tremante.",
+                  "category": "family",
+                  "coords": [
+                        11.012866,
+                        45.431912
+                  ]
+            },
+            {
+                  "name": "Valle incantata",
+                  "text": "Un teren de joacă conceput cu imaginație pentru copii în Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.96811,
+                        45.447617
+                  ]
             }
       ],
       "en": [
@@ -15045,6 +17223,168 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.99775,
                         45.44295
+                  ]
+            },
+            {
+                  "name": "Fontanon",
+                  "text": "A local lake in Verona providing a calm atmosphere within the city.",
+                  "category": "natural",
+                  "coords": [
+                        11.066563,
+                        45.459024
+                  ]
+            },
+            {
+                  "name": "Laghetto Squarà",
+                  "text": "A small lake in Verona, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.064043,
+                        45.46476
+                  ]
+            },
+            {
+                  "name": "Parco cuore verde",
+                  "text": "A green playground in Verona offering families space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        10.946492,
+                        45.436362
+                  ]
+            },
+            {
+                  "name": "Campo giochi Arsenale",
+                  "text": "This playground by the Arsenale in Verona is a popular meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        10.986312,
+                        45.441936
+                  ]
+            },
+            {
+                  "name": "Giardini Ezio Maria Caserta",
+                  "text": "A family-friendly play area in the Ezio Maria Caserta gardens in Verona.",
+                  "category": "family",
+                  "coords": [
+                        11.025295,
+                        45.447788
+                  ]
+            },
+            {
+                  "name": "Giardini - Albino Luciani",
+                  "text": "A public playground in the Albino Luciani gardens for Verona residents.",
+                  "category": "family",
+                  "coords": [
+                        11.021995,
+                        45.45242
+                  ]
+            },
+            {
+                  "name": "Savaland",
+                  "text": "A playground in Verona providing children with various recreational options.",
+                  "category": "family",
+                  "coords": [
+                        10.961334,
+                        45.45281
+                  ]
+            },
+            {
+                  "name": "Campo Giochi Tutto Nostro",
+                  "text": "A community playground in Verona that invites children to play together.",
+                  "category": "family",
+                  "coords": [
+                        10.971876,
+                        45.441339
+                  ]
+            },
+            {
+                  "name": "Delfino blu",
+                  "text": "A small playground in Verona for a daily dose of outdoor activity.",
+                  "category": "family",
+                  "coords": [
+                        10.953424,
+                        45.421076
+                  ]
+            },
+            {
+                  "name": "Parco Angelo Tomelleri",
+                  "text": "A lovely park with play equipment for children in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.949287,
+                        45.419705
+                  ]
+            },
+            {
+                  "name": "Primavera",
+                  "text": "A friendly play area in Verona for children of various ages.",
+                  "category": "family",
+                  "coords": [
+                        10.966409,
+                        45.44513
+                  ]
+            },
+            {
+                  "name": "Parco dei merli",
+                  "text": "A quiet playground in Verona, ideal for a relaxed family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        10.955137,
+                        45.448404
+                  ]
+            },
+            {
+                  "name": "Parco della pace",
+                  "text": "A spacious play area within the Park of Peace in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.961924,
+                        45.42208
+                  ]
+            },
+            {
+                  "name": "Albero azzurro",
+                  "text": "A brightly designed playground in Verona for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        10.96535,
+                        45.439769
+                  ]
+            },
+            {
+                  "name": "Oasi",
+                  "text": "A playground in Verona that serves as an oasis for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        10.965139,
+                        45.443075
+                  ]
+            },
+            {
+                  "name": "Raggio Di Sole",
+                  "text": "A sunny playground in Verona for fun and games in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        10.990657,
+                        45.430676
+                  ]
+            },
+            {
+                  "name": "Giardino Fratelli Tremante",
+                  "text": "A public play garden in Verona, named after the Tremante brothers.",
+                  "category": "family",
+                  "coords": [
+                        11.012866,
+                        45.431912
+                  ]
+            },
+            {
+                  "name": "Valle incantata",
+                  "text": "An imaginatively designed playground for children in Verona.",
+                  "category": "family",
+                  "coords": [
+                        10.96811,
+                        45.447617
                   ]
             }
       ]
@@ -20787,6 +23127,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.807152,
                         45.765093
                   ]
+            },
+            {
+                  "name": "Gardasee",
+                  "text": "Der Gardasee bei Malcesine ist Italiens größter See und ein beliebtes Ziel für Wassersportler.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Lago di Prà della Stua",
+                  "text": "Der Lago di Prà della Stua in Malcesine ist ein ruhiger Stausee in den umliegenden Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        10.898644,
+                        45.77347
+                  ]
             }
       ],
       "hu": [
@@ -20843,6 +23201,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.807152,
                         45.765093
+                  ]
+            },
+            {
+                  "name": "Garda-tó",
+                  "text": "A Malcesine melletti Gardasee Olaszország legnagyobb tava és a vízisportok kedvelőinek népszerű célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Lago di Prà della Stua",
+                  "text": "A Malcesine-i Lago di Prà della Stua egy csendes víztározó a környező hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        10.898644,
+                        45.77347
                   ]
             }
       ],
@@ -20901,6 +23277,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.807152,
                         45.765093
                   ]
+            },
+            {
+                  "name": "Lacul Garda",
+                  "text": "Lacul Garda de lângă Malcesine este cel mai mare lac din Italia și o destinație populară pentru sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Lago di Prà della Stua",
+                  "text": "Lago di Prà della Stua din Malcesine este un rezervor liniștit în munții din jur.",
+                  "category": "natural",
+                  "coords": [
+                        10.898644,
+                        45.77347
+                  ]
             }
       ],
       "en": [
@@ -20957,6 +23351,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.807152,
                         45.765093
+                  ]
+            },
+            {
+                  "name": "Lake Garda",
+                  "text": "Lake Garda near Malcesine is Italy's largest lake and a popular destination for water sports.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Lago di Prà della Stua",
+                  "text": "Lago di Prà della Stua in Malcesine is a quiet reservoir in the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.898644,
+                        45.77347
                   ]
             }
       ]
@@ -22188,6 +24600,141 @@ export const poiExtraItalyV2: POI[] = [
                         11.1618,
                         46.6725
                   ]
+            },
+            {
+                  "name": "Kraftwerk Marling - Ausgleichsbecken",
+                  "text": "Das Ausgleichsbecken des Kraftwerks Marling in Meran ist ein technisches Gewässer in landschaftlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        11.136971,
+                        46.660484
+                  ]
+            },
+            {
+                  "name": "Grumser oberer Speicher",
+                  "text": "Der Grumser oberer Speicher in Meran ist ein Wasserbecken oberhalb der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        11.198388,
+                        46.660326
+                  ]
+            },
+            {
+                  "name": "Speichersee Wallpach",
+                  "text": "Der Speichersee Wallpach in Meran ist ein künstliches Gewässer für die lokale Wasserwirtschaft.",
+                  "category": "natural",
+                  "coords": [
+                        11.255092,
+                        46.673394
+                  ]
+            },
+            {
+                  "name": "Grumser unterer Speicher",
+                  "text": "Der Grumser unterer Speicher in Meran dient der Wasserregulierung in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        11.19963,
+                        46.661103
+                  ]
+            },
+            {
+                  "name": "Sitz- und Balacierbank",
+                  "text": "Die Sitz- und Balancierbank in Meran bietet eine spielerische Rastmöglichkeit für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.134475,
+                        46.660532
+                  ]
+            },
+            {
+                  "name": "Tarzanschaukel und Balanciertau",
+                  "text": "Tarzanschaukel und Balanciertau in Meran fördern die Geschicklichkeit von Kindern beim Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.134439,
+                        46.659351
+                  ]
+            },
+            {
+                  "name": "Netzschaukel",
+                  "text": "Die Netzschaukel in Meran ist ein beliebtes Spielgerät für Kinder in der Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        11.133153,
+                        46.661091
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Tirol",
+                  "text": "Der Minigolfplatz Tirol in Meran bietet eine unterhaltsame Runde Minigolf für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        11.158639,
+                        46.685718
+                  ]
+            },
+            {
+                  "name": "Minigolf Schenna",
+                  "text": "Miniature Golf Schenna bei Meran lädt zu einem sportlichen Familienspaß im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        11.189531,
+                        46.68588
+                  ]
+            },
+            {
+                  "name": "Rebenpark",
+                  "text": "Der Rebenpark in Meran verfügt über einen modernen Spielplatz in grüner Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        11.185569,
+                        46.689845
+                  ]
+            },
+            {
+                  "name": "Liebeswerk Meran",
+                  "text": "Das Liebeswerk Meran bietet Kindern einen Platz zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        11.153684,
+                        46.675256
+                  ]
+            },
+            {
+                  "name": "Spielplatz Karl-Wolfstrasse Parco giochi",
+                  "text": "Der Spielplatz Karl-Wolf-Straße in Meran ist ein gut ausgestatteter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.149995,
+                        46.680932
+                  ]
+            },
+            {
+                  "name": "Marlinger Spielplatz",
+                  "text": "Dieser Spielplatz in Meran bietet einen tollen Bereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.139444,
+                        46.655766
+                  ]
+            },
+            {
+                  "name": "Park Schießstandstraße und Kinkelin",
+                  "text": "Dieser Spielplatz in Meran ist ein schönes Ziel für einen Familienausflug im Freien.",
+                  "category": "family",
+                  "coords": [
+                        11.149082,
+                        46.670603
+                  ]
+            },
+            {
+                  "name": "Parco Cilla",
+                  "text": "Dieser kinderfreundliche Park in Meran lädt Familien zum Spielen und Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        11.164558,
+                        46.655299
+                  ]
             }
       ],
       "hu": [
@@ -22299,6 +24846,141 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.1618,
                         46.6725
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Marling - Ausgleichsbecken  -  Centrale elettrica di Marlengo - bacino di compensazione",
+                  "text": "A meránói marlingi erőmű kiegyenlítő medencéje egy technikai jellegű vízfelület szép környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        11.136971,
+                        46.660484
+                  ]
+            },
+            {
+                  "name": "Grumser oberer Speicher",
+                  "text": "A meránói Grumser oberer Speicher egy víztározó a város felett.",
+                  "category": "natural",
+                  "coords": [
+                        11.198388,
+                        46.660326
+                  ]
+            },
+            {
+                  "name": "Speichersee Wallpach - Bacino idrico di Wallpach",
+                  "text": "A meránói Speichersee Wallpach egy mesterséges tó a helyi vízgazdálkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.255092,
+                        46.673394
+                  ]
+            },
+            {
+                  "name": "Grumser unterer Speicher",
+                  "text": "A meránói Grumser unterer Speicher a régió vízszabályozását szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        11.19963,
+                        46.661103
+                  ]
+            },
+            {
+                  "name": "Sitz- und Balacierbank",
+                  "text": "A meránói Sitz- und Balancierbank játékos pihenőhelyet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.134475,
+                        46.660532
+                  ]
+            },
+            {
+                  "name": "Tarzanschaukel und Balanciertau",
+                  "text": "A meránói Tarzanschaukel und Balanciertau a gyerekek ügyességét fejleszti játék közben.",
+                  "category": "family",
+                  "coords": [
+                        11.134439,
+                        46.659351
+                  ]
+            },
+            {
+                  "name": "Netzschaukel",
+                  "text": "A meránói Netzschaukel népszerű játék a gyerekek körében a parkban.",
+                  "category": "family",
+                  "coords": [
+                        11.133153,
+                        46.661091
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Tirol",
+                  "text": "A meránói Minigolfplatz Tirol szórakoztató minigolfot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        11.158639,
+                        46.685718
+                  ]
+            },
+            {
+                  "name": "Minigolf Schenna",
+                  "text": "A Merano közeli Miniature Golf Schenna szabadtéri sportos családi szórakozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        11.189531,
+                        46.68588
+                  ]
+            },
+            {
+                  "name": "Rebenpark",
+                  "text": "A meránói Rebenpark modern játszótérrel rendelkezik zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        11.185569,
+                        46.689845
+                  ]
+            },
+            {
+                  "name": "Liebeswerk Meran",
+                  "text": "A meránói Liebeswerk helyet kínál a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        11.153684,
+                        46.675256
+                  ]
+            },
+            {
+                  "name": "Spielplatz Karl-Wolfstrasse Parco giochi",
+                  "text": "A meránói Spielplatz Karl-Wolfstrasse a családok jól felszerelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        11.149995,
+                        46.680932
+                  ]
+            },
+            {
+                  "name": "Marlinger Spielplatz",
+                  "text": "Ez a Merano városában található játszótér remek kikapcsolódást nyújt családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.139444,
+                        46.655766
+                  ]
+            },
+            {
+                  "name": "Park Schießstandstraße  - Parco Bersaglio",
+                  "text": "Ez a Merano városában található játszótér kellemes helyszín egy szabadtéri családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.149082,
+                        46.670603
+                  ]
+            },
+            {
+                  "name": "Parco Cilla",
+                  "text": "Ez a gyerekbarát park Merano városában játékra és pihenésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        11.164558,
+                        46.655299
                   ]
             }
       ],
@@ -22412,6 +25094,141 @@ export const poiExtraItalyV2: POI[] = [
                         11.1618,
                         46.6725
                   ]
+            },
+            {
+                  "name": "Kraftwerk Marling - Ausgleichsbecken  -  Centrale elettrica di Marlengo - bacino di compensazione",
+                  "text": "Bazinul de compensare al centralei electrice Marling din Merano este o întindere de apă tehnică într-un cadru peisagistic.",
+                  "category": "natural",
+                  "coords": [
+                        11.136971,
+                        46.660484
+                  ]
+            },
+            {
+                  "name": "Grumser oberer Speicher",
+                  "text": "Grumser oberer Speicher din Merano este un bazin de acumulare situat deasupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        11.198388,
+                        46.660326
+                  ]
+            },
+            {
+                  "name": "Speichersee Wallpach - Bacino idrico di Wallpach",
+                  "text": "Speichersee Wallpach din Merano este un lac artificial pentru gestionarea locală a apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.255092,
+                        46.673394
+                  ]
+            },
+            {
+                  "name": "Grumser unterer Speicher",
+                  "text": "Grumser unterer Speicher din Merano servește la reglarea apei în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        11.19963,
+                        46.661103
+                  ]
+            },
+            {
+                  "name": "Sitz- und Balacierbank",
+                  "text": "Sitz- und Balancierbank din Merano oferă o posibilitate de odihnă ludică pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.134475,
+                        46.660532
+                  ]
+            },
+            {
+                  "name": "Tarzanschaukel und Balanciertau",
+                  "text": "Tarzanschaukel und Balanciertau din Merano stimulează dexteritatea copiilor în timpul jocului.",
+                  "category": "family",
+                  "coords": [
+                        11.134439,
+                        46.659351
+                  ]
+            },
+            {
+                  "name": "Netzschaukel",
+                  "text": "Netzschaukel din Merano este un element de joacă popular pentru copii în parc.",
+                  "category": "family",
+                  "coords": [
+                        11.133153,
+                        46.661091
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Tirol",
+                  "text": "Minigolfplatz Tirol din Merano oferă o rundă distractivă de minigolf pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        11.158639,
+                        46.685718
+                  ]
+            },
+            {
+                  "name": "Minigolf Schenna",
+                  "text": "Miniature Golf Schenna de lângă Merano invită la o distracție sportivă în familie, în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.189531,
+                        46.68588
+                  ]
+            },
+            {
+                  "name": "Rebenpark",
+                  "text": "Rebenpark din Merano dispune de un loc de joacă modern într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        11.185569,
+                        46.689845
+                  ]
+            },
+            {
+                  "name": "Liebeswerk Meran",
+                  "text": "Liebeswerk Meran oferă copiilor un loc unde se pot juca și pot explora.",
+                  "category": "family",
+                  "coords": [
+                        11.153684,
+                        46.675256
+                  ]
+            },
+            {
+                  "name": "Spielplatz Karl-Wolfstrasse Parco giochi",
+                  "text": "Spielplatz Karl-Wolfstrasse din Merano este un punct de întâlnire bine echipat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.149995,
+                        46.680932
+                  ]
+            },
+            {
+                  "name": "Marlinger Spielplatz",
+                  "text": "Acest loc de joacă din Merano oferă o zonă distractivă pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        11.139444,
+                        46.655766
+                  ]
+            },
+            {
+                  "name": "Park Schießstandstraße  - Parco Bersaglio",
+                  "text": "Acest loc de joacă din Merano este o destinație frumoasă pentru o ieșire cu familia în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.149082,
+                        46.670603
+                  ]
+            },
+            {
+                  "name": "Parco Cilla",
+                  "text": "Acest parc din Merano este un loc primitor unde copiii se pot juca împreună cu familia.",
+                  "category": "family",
+                  "coords": [
+                        11.164558,
+                        46.655299
+                  ]
             }
       ],
       "en": [
@@ -22523,6 +25340,141 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.1618,
                         46.6725
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Marling - Ausgleichsbecken  -  Centrale elettrica di Marlengo - bacino di compensazione",
+                  "text": "The balancing basin of the Marling power plant in Merano is a technical water body in a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        11.136971,
+                        46.660484
+                  ]
+            },
+            {
+                  "name": "Grumser oberer Speicher",
+                  "text": "Grumser oberer Speicher in Merano is a water reservoir located above the city.",
+                  "category": "natural",
+                  "coords": [
+                        11.198388,
+                        46.660326
+                  ]
+            },
+            {
+                  "name": "Speichersee Wallpach - Bacino idrico di Wallpach",
+                  "text": "Speichersee Wallpach in Merano is an artificial lake for local water management.",
+                  "category": "natural",
+                  "coords": [
+                        11.255092,
+                        46.673394
+                  ]
+            },
+            {
+                  "name": "Grumser unterer Speicher",
+                  "text": "Grumser unterer Speicher in Merano serves for water regulation in the region.",
+                  "category": "natural",
+                  "coords": [
+                        11.19963,
+                        46.661103
+                  ]
+            },
+            {
+                  "name": "Sitz- und Balacierbank",
+                  "text": "The Sitz- und Balancierbank in Merano offers a playful resting spot for children.",
+                  "category": "family",
+                  "coords": [
+                        11.134475,
+                        46.660532
+                  ]
+            },
+            {
+                  "name": "Tarzanschaukel und Balanciertau",
+                  "text": "Tarzanschaukel and Balanciertau in Merano promote children's agility while playing.",
+                  "category": "family",
+                  "coords": [
+                        11.134439,
+                        46.659351
+                  ]
+            },
+            {
+                  "name": "Netzschaukel",
+                  "text": "The Netzschaukel in Merano is a popular piece of play equipment for children in the park.",
+                  "category": "family",
+                  "coords": [
+                        11.133153,
+                        46.661091
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Tirol",
+                  "text": "Minigolfplatz Tirol in Merano offers a fun round of miniature golf for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        11.158639,
+                        46.685718
+                  ]
+            },
+            {
+                  "name": "Miniature Golf Schenna",
+                  "text": "Miniature Golf Schenna near Merano invites for a sporty family fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        11.189531,
+                        46.68588
+                  ]
+            },
+            {
+                  "name": "Rebenpark",
+                  "text": "Rebenpark in Merano features a modern playground in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        11.185569,
+                        46.689845
+                  ]
+            },
+            {
+                  "name": "Liebeswerk Meran",
+                  "text": "Liebeswerk Meran offers children a place to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        11.153684,
+                        46.675256
+                  ]
+            },
+            {
+                  "name": "Spielplatz Karl-Wolfstrasse Parco giochi",
+                  "text": "The playground Karl-Wolfstrasse in Merano is a well-equipped meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        11.149995,
+                        46.680932
+                  ]
+            },
+            {
+                  "name": "Marlinger Spielplatz",
+                  "text": "This playground in Merano offers a fun area for families and children.",
+                  "category": "family",
+                  "coords": [
+                        11.139444,
+                        46.655766
+                  ]
+            },
+            {
+                  "name": "Park Schießstandstraße  - Parco Bersaglio",
+                  "text": "This playground in Merano is a nice destination for a family outing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        11.149082,
+                        46.670603
+                  ]
+            },
+            {
+                  "name": "Parco Cilla",
+                  "text": "This child-friendly park in Merano invites families to play and spend time together.",
+                  "category": "family",
+                  "coords": [
+                        11.164558,
+                        46.655299
                   ]
             }
       ]
@@ -24350,6 +27302,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.882336,
                         45.40233
                   ]
+            },
+            {
+                  "name": "Bacino di Scolo",
+                  "text": "Ein Entwässerungsbecken in Padua, das Teil der lokalen Wasserlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.905758,
+                        45.455736
+                  ]
+            },
+            {
+                  "name": "Parco Giochi giardino Esperanto",
+                  "text": "Ein Spielplatz im Esperanto-Garten in Padua für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.910172,
+                        45.415091
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Agostino",
+                  "text": "Ein Spielbereich in Padua, der Kindern sicheren Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.857448,
+                        45.375432
+                  ]
+            },
+            {
+                  "name": "Parco Fantasia",
+                  "text": "Ein Spielplatz in Padua, der die Kreativität der Kinder fördert.",
+                  "category": "family",
+                  "coords": [
+                        11.8705,
+                        45.423431
+                  ]
+            },
+            {
+                  "name": "Parco Giochi San Carlo",
+                  "text": "Ein lokaler Spielplatz im Viertel San Carlo in Padua.",
+                  "category": "family",
+                  "coords": [
+                        11.893621,
+                        45.430027
+                  ]
+            },
+            {
+                  "name": "Giardino Folgore",
+                  "text": "Ein kleiner Spielgarten in Padua für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        11.854768,
+                        45.405645
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Città dei Bambini\"",
+                  "text": "Ein zentraler Spielplatz in Padua, speziell für die Bedürfnisse von Kindern gestaltet.",
+                  "category": "family",
+                  "coords": [
+                        11.889464,
+                        45.405828
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio Perlasca",
+                  "text": "Ein nach Giorgio Perlasca benannter Park mit Spielbereich in Padua.",
+                  "category": "family",
+                  "coords": [
+                        11.865441,
+                        45.397806
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Inclusivo \"Albero del Tesoro\"",
+                  "text": "Ein inklusiver Spielplatz in Padua, der für alle Kinder zugänglich ist.",
+                  "category": "family",
+                  "coords": [
+                        11.860288,
+                        45.387441
+                  ]
+            },
+            {
+                  "name": "Children's Playground",
+                  "text": "Ein einfacher Spielplatz in Padua für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        11.849049,
+                        45.383341
+                  ]
             }
       ],
       "hu": [
@@ -24461,6 +27503,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.882336,
                         45.40233
+                  ]
+            },
+            {
+                  "name": "Bacino di Scolo",
+                  "text": "Paduai víztározó, amely a helyi vízrendszer része.",
+                  "category": "natural",
+                  "coords": [
+                        11.905758,
+                        45.455736
+                  ]
+            },
+            {
+                  "name": "Parco Giochi giardino Esperanto",
+                  "text": "Játszótér a paduai Eszperantó kertben családok számára.",
+                  "category": "family",
+                  "coords": [
+                        11.910172,
+                        45.415091
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Agostino",
+                  "text": "Játszóhely Paduában, amely biztonságos teret nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.857448,
+                        45.375432
+                  ]
+            },
+            {
+                  "name": "Parco Fantasia",
+                  "text": "Játszótér Paduában, amely ösztönzi a gyerekek kreativitását.",
+                  "category": "family",
+                  "coords": [
+                        11.8705,
+                        45.423431
+                  ]
+            },
+            {
+                  "name": "Parco Giochi San Carlo",
+                  "text": "Helyi játszótér Padua San Carlo negyedében.",
+                  "category": "family",
+                  "coords": [
+                        11.893621,
+                        45.430027
+                  ]
+            },
+            {
+                  "name": "Giardino Folgore",
+                  "text": "Kisméretű játszókert Paduában egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        11.854768,
+                        45.405645
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Città dei Bambini\"",
+                  "text": "Központi játszótér Paduában, kifejezetten a gyerekek igényeire szabva.",
+                  "category": "family",
+                  "coords": [
+                        11.889464,
+                        45.405828
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio Perlasca",
+                  "text": "Giorgio Perlascáról elnevezett park játszóhellyel Paduában.",
+                  "category": "family",
+                  "coords": [
+                        11.865441,
+                        45.397806
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Inclusivo \"Albero del Tesoro\"",
+                  "text": "Befogadó játszótér Paduában, amely minden gyermek számára elérhető.",
+                  "category": "family",
+                  "coords": [
+                        11.860288,
+                        45.387441
+                  ]
+            },
+            {
+                  "name": "Children's Playground",
+                  "text": "Egyszerű játszótér Paduában a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        11.849049,
+                        45.383341
                   ]
             }
       ],
@@ -24574,6 +27706,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.882336,
                         45.40233
                   ]
+            },
+            {
+                  "name": "Bacino di Scolo",
+                  "text": "Un bazin de drenaj în Padova, care face parte din peisajul acvatic local.",
+                  "category": "natural",
+                  "coords": [
+                        11.905758,
+                        45.455736
+                  ]
+            },
+            {
+                  "name": "Parco Giochi giardino Esperanto",
+                  "text": "Un teren de joacă în grădina Esperanto din Padova pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.910172,
+                        45.415091
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Agostino",
+                  "text": "O zonă de joacă în Padova care oferă copiilor un spațiu sigur pentru distracție.",
+                  "category": "family",
+                  "coords": [
+                        11.857448,
+                        45.375432
+                  ]
+            },
+            {
+                  "name": "Parco Fantasia",
+                  "text": "Un teren de joacă în Padova care stimulează creativitatea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.8705,
+                        45.423431
+                  ]
+            },
+            {
+                  "name": "Parco Giochi San Carlo",
+                  "text": "Un teren de joacă local în cartierul San Carlo din Padova.",
+                  "category": "family",
+                  "coords": [
+                        11.893621,
+                        45.430027
+                  ]
+            },
+            {
+                  "name": "Giardino Folgore",
+                  "text": "O mică grădină de joacă în Padova pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        11.854768,
+                        45.405645
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Città dei Bambini\"",
+                  "text": "Un teren de joacă central în Padova, conceput special pentru nevoile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.889464,
+                        45.405828
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio Perlasca",
+                  "text": "Un parc numit după Giorgio Perlasca cu zonă de joacă în Padova.",
+                  "category": "family",
+                  "coords": [
+                        11.865441,
+                        45.397806
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Inclusivo \"Albero del Tesoro\"",
+                  "text": "Un teren de joacă incluziv în Padova, accesibil tuturor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.860288,
+                        45.387441
+                  ]
+            },
+            {
+                  "name": "Children's Playground",
+                  "text": "Un teren de joacă simplu în Padova pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        11.849049,
+                        45.383341
+                  ]
             }
       ],
       "en": [
@@ -24685,6 +27907,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.882336,
                         45.40233
+                  ]
+            },
+            {
+                  "name": "Bacino di Scolo",
+                  "text": "A drainage basin in Padua that is part of the local water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.905758,
+                        45.455736
+                  ]
+            },
+            {
+                  "name": "Parco Giochi giardino Esperanto",
+                  "text": "A playground in the Esperanto garden in Padua for families.",
+                  "category": "family",
+                  "coords": [
+                        11.910172,
+                        45.415091
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Agostino",
+                  "text": "A play area in Padua offering children a safe space to run around.",
+                  "category": "family",
+                  "coords": [
+                        11.857448,
+                        45.375432
+                  ]
+            },
+            {
+                  "name": "Parco Fantasia",
+                  "text": "A playground in Padua that encourages children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        11.8705,
+                        45.423431
+                  ]
+            },
+            {
+                  "name": "Parco Giochi San Carlo",
+                  "text": "A local playground in the San Carlo neighborhood of Padua.",
+                  "category": "family",
+                  "coords": [
+                        11.893621,
+                        45.430027
+                  ]
+            },
+            {
+                  "name": "Giardino Folgore",
+                  "text": "A small play garden in Padua for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        11.854768,
+                        45.405645
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Città dei Bambini\"",
+                  "text": "A central playground in Padua, specifically designed for children's needs.",
+                  "category": "family",
+                  "coords": [
+                        11.889464,
+                        45.405828
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio Perlasca",
+                  "text": "A park named after Giorgio Perlasca with a play area in Padua.",
+                  "category": "family",
+                  "coords": [
+                        11.865441,
+                        45.397806
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Inclusivo \"Albero del Tesoro\"",
+                  "text": "An inclusive playground in Padua accessible to all children.",
+                  "category": "family",
+                  "coords": [
+                        11.860288,
+                        45.387441
+                  ]
+            },
+            {
+                  "name": "Children's Playground",
+                  "text": "A simple playground in Padua for daily recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        11.849049,
+                        45.383341
                   ]
             }
       ]
@@ -25659,6 +28971,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.034137,
                         40.765462
                   ]
+            },
+            {
+                  "name": "Lago Miseno",
+                  "text": "Dieser See bei Procida ist ein ruhiger Ort zum Wandern und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.072475,
+                        40.793429
+                  ]
+            },
+            {
+                  "name": "Lago del Fusaro",
+                  "text": "Dieser See in der Nähe von Procida bietet eine malerische Kulisse für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        14.055209,
+                        40.823087
+                  ]
             }
       ],
       "hu": [
@@ -25777,6 +29107,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.034137,
                         40.765462
+                  ]
+            },
+            {
+                  "name": "Lago Miseno",
+                  "text": "Ez a Procida közelében fekvő tó nyugodt hely a sétához és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.072475,
+                        40.793429
+                  ]
+            },
+            {
+                  "name": "Lago del Fusaro",
+                  "text": "Ez a Procida közelében található tó festői környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.055209,
+                        40.823087
                   ]
             }
       ],
@@ -25897,6 +29245,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.034137,
                         40.765462
                   ]
+            },
+            {
+                  "name": "Lago Miseno",
+                  "text": "Acest lac de lângă Procida este un loc liniștit pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        14.072475,
+                        40.793429
+                  ]
+            },
+            {
+                  "name": "Lago del Fusaro",
+                  "text": "Acest lac din apropiere de Procida oferă un cadru pitoresc pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        14.055209,
+                        40.823087
+                  ]
             }
       ],
       "en": [
@@ -26015,6 +29381,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.034137,
                         40.765462
+                  ]
+            },
+            {
+                  "name": "Lago Miseno",
+                  "text": "This lake near Procida is a peaceful spot for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.072475,
+                        40.793429
+                  ]
+            },
+            {
+                  "name": "Lago del Fusaro",
+                  "text": "This lake near Procida offers a picturesque setting for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.055209,
+                        40.823087
                   ]
             }
       ]
@@ -27431,6 +30815,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.77438,
                         44.079573
                   ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Dieser Spielplatz in Riomaggiore bietet Kindern eine sichere Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
+                  ]
             }
       ],
       "hu": [
@@ -27547,6 +30940,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.77438,
                         44.079573
+                  ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Ez a Riomaggiore városában található játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
                   ]
             }
       ],
@@ -27665,6 +31067,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.77438,
                         44.079573
                   ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Acest loc de joacă din Riomaggiore oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
+                  ]
             }
       ],
       "en": [
@@ -27782,6 +31193,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.77438,
                         44.079573
                   ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "This playground in Riomaggiore provides children with a safe environment to play.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
+                  ]
             }
       ]
 }},
@@ -27870,6 +31290,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.224891,
                         44.33901
                   ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Ein öffentlicher Spielplatz in Santa Margherita Ligure für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
             }
       ],
       "hu": [
@@ -27955,6 +31384,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.224891,
                         44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Nyilvános játszótér Santa Margherita Ligure városában családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
                   ]
             }
       ],
@@ -28042,6 +31480,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.224891,
                         44.33901
                   ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Un teren de joacă public în Santa Margherita Ligure pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
             }
       ],
       "en": [
@@ -28127,6 +31574,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.224891,
                         44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "A public playground in Santa Margherita Ligure for families.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
                   ]
             }
       ]
@@ -29990,6 +33446,231 @@ export const poiExtraItalyV2: POI[] = [
                         11.5475,
                         45.553611
                   ]
+            },
+            {
+                  "name": "Lago di Fimon",
+                  "text": "Dieser See bei Vicenza ist ein schönes Ziel für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        11.543393,
+                        45.471086
+                  ]
+            },
+            {
+                  "name": "Risorgive",
+                  "text": "Dieser See in Vicenza ist ein friedlicher Ort, um die natürliche Umgebung zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.526982,
+                        45.613633
+                  ]
+            },
+            {
+                  "name": "Laghetto di Altavilla Vicentina",
+                  "text": "Dieser kleine See bei Vicenza lädt zu einer kurzen Auszeit in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        11.473511,
+                        45.516649
+                  ]
+            },
+            {
+                  "name": "piastra pattinaggio",
+                  "text": "Diese Anlage in Vicenza bietet Familien eine Fläche für sportliche Aktivitäten wie Eislaufen.",
+                  "category": "family",
+                  "coords": [
+                        11.51641,
+                        45.543642
+                  ]
+            },
+            {
+                  "name": "Parco di Via Giuriato",
+                  "text": "Dieser Spielplatz in Vicenza ist ein idealer Ort für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.569641,
+                        45.547349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Trieste - Villaggio SOS\"",
+                  "text": "Dieser Spielplatz in Vicenza bietet abwechslungsreiche Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.560261,
+                        45.5586
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Goito",
+                  "text": "Dieser Spielbereich in Vicenza lädt Familien zu einem Besuch im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        11.541549,
+                        45.563131
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Fiume\"",
+                  "text": "Ein schöner Spielplatz in Vicenza, der viel Platz für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.561208,
+                        45.563427
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Ischia\"",
+                  "text": "Dieser Spielplatz in Vicenza ist ein toller Treffpunkt für Familien aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        11.561432,
+                        45.525802
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Machiavelli\"",
+                  "text": "Kinder können auf diesem Spielplatz in Vicenza in einer freundlichen Umgebung spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.536821,
+                        45.559431
+                  ]
+            },
+            {
+                  "name": "Parco giochi S. Marco",
+                  "text": "Dieser Spielplatz in Vicenza bietet eine gute Gelegenheit für Kinder, sich im Freien zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        11.543696,
+                        45.554222
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via da Palestrina\"",
+                  "text": "Ein familienfreundlicher Spielplatz in Vicenza mit verschiedenen Geräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.513478,
+                        45.537908
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Lago d'Iseo\"",
+                  "text": "Dieser Spielplatz in Vicenza ist ein schöner Ort für einen Familienausflug am Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        11.542124,
+                        45.572828
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di via Durando",
+                  "text": "Dieser Spielbereich in Vicenza bietet Kindern Raum für Entdeckungen und Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        11.539769,
+                        45.560945
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale della Pace\"",
+                  "text": "Dieser Spielplatz in Vicenza ist ein beliebter Ort für Familien zum Entspannen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.569771,
+                        45.54283
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Bambini del mondo\"",
+                  "text": "Ein Spielplatz in Vicenza, der speziell auf die Bedürfnisse von Kindern und Familien ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        11.538236,
+                        45.543442
+                  ]
+            },
+            {
+                  "name": "Parco Giochi \"Via Baracca\"",
+                  "text": "Dieser Spielplatz in Vicenza bietet eine sichere und unterhaltsame Umgebung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.522846,
+                        45.532349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Brenta\"",
+                  "text": "Kinder können auf diesem Spielplatz in Vicenza gemeinsam mit ihrer Familie Zeit verbringen.",
+                  "category": "family",
+                  "coords": [
+                        11.551155,
+                        45.559799
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Riello\"",
+                  "text": "Ein gut erreichbarer Spielplatz in Vicenza, ideal für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        11.563106,
+                        45.554348
+                  ]
+            },
+            {
+                  "name": "Parco giochi di viale Dieci Martiri",
+                  "text": "Dieser Spielplatz in Vicenza lädt Kinder zum Klettern und Spielen an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        11.555321,
+                        45.542018
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Santa Bertilla\"",
+                  "text": "Ein freundlicher Spielplatz in Vicenza, der ein tolles Ziel für junge Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        11.561113,
+                        45.550522
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Istria\"",
+                  "text": "Dieser Spielplatz in Vicenza bietet Kindern viele Möglichkeiten zum aktiven Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.566914,
+                        45.56138
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Gagliardotti\"",
+                  "text": "Dieser Spielplatz in Vicenza ist ein schöner Ort für Kinder, um sich auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        11.564489,
+                        45.564481
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Strada Borghetto Saviabona\"",
+                  "text": "Ein Spielplatz in Vicenza, der eine ruhige Atmosphäre für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.559408,
+                        45.575763
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Thaon De Revel\"",
+                  "text": "Dieser Spielbereich in Vicenza ist ein idealer Stopp für Familien während eines Spaziergangs.",
+                  "category": "family",
+                  "coords": [
+                        11.521347,
+                        45.553581
+                  ]
             }
       ],
       "hu": [
@@ -30101,6 +33782,231 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.5475,
                         45.553611
+                  ]
+            },
+            {
+                  "name": "Lago di Fimon",
+                  "text": "Ez a Vicenza közelében fekvő tó szép úti cél a természetkedvelőknek és a sétálni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        11.543393,
+                        45.471086
+                  ]
+            },
+            {
+                  "name": "Risorgive",
+                  "text": "Ez a Vicenza városában található tó békés hely a természetes környezet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        11.526982,
+                        45.613633
+                  ]
+            },
+            {
+                  "name": "Laghetto di Altavilla Vicentina",
+                  "text": "Ez a Vicenza közelében található kis tó rövid kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        11.473511,
+                        45.516649
+                  ]
+            },
+            {
+                  "name": "piastra pattinaggio",
+                  "text": "Ez a Vicenza városában található pálya sportos kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.51641,
+                        45.543642
+                  ]
+            },
+            {
+                  "name": "Parco di Via Giuriato",
+                  "text": "Ez a Vicenza városában található játszótér ideális hely a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.569641,
+                        45.547349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Trieste - Villaggio SOS\"",
+                  "text": "Ez a Vicenza városában található játszótér változatos játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.560261,
+                        45.5586
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Goito",
+                  "text": "Ez a Vicenza városában található játszótér szabadtéri programot kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.541549,
+                        45.563131
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Fiume\"",
+                  "text": "Egy szép játszótér Vicenza városában, amely sok helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.561208,
+                        45.563427
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Ischia\"",
+                  "text": "Ez a Vicenza városában található játszótér remek találkozóhely a környékbeli családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.561432,
+                        45.525802
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Machiavelli\"",
+                  "text": "A gyerekek barátságos környezetben játszhatnak ezen a Vicenza városában található játszótéren.",
+                  "category": "family",
+                  "coords": [
+                        11.536821,
+                        45.559431
+                  ]
+            },
+            {
+                  "name": "Parco giochi S. Marco",
+                  "text": "Ez a Vicenza városában található játszótér jó lehetőséget nyújt a gyerekeknek a szabadban való mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        11.543696,
+                        45.554222
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via da Palestrina\"",
+                  "text": "Családbarát játszótér Vicenza városában, különféle játékokkal a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.513478,
+                        45.537908
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Lago d'Iseo\"",
+                  "text": "Ez a Vicenza városában található játszótér szép helyszín egy délutáni családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.542124,
+                        45.572828
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di via Durando",
+                  "text": "Ez a Vicenza városában található játszótér teret ad a gyerekeknek a felfedezéshez és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.539769,
+                        45.560945
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale della Pace\"",
+                  "text": "Ez a Vicenza városában található játszótér népszerű hely a családok körében a pihenésre és játékra.",
+                  "category": "family",
+                  "coords": [
+                        11.569771,
+                        45.54283
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Bambini del mondo\"",
+                  "text": "Egy vicenzai játszótér, amelyet kifejezetten a gyerekek és családok igényeire alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        11.538236,
+                        45.543442
+                  ]
+            },
+            {
+                  "name": "Parco Giochi \"Via Baracca\"",
+                  "text": "Ez a Vicenza városában található játszótér biztonságos és szórakoztató környezetet nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.522846,
+                        45.532349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Brenta\"",
+                  "text": "A gyerekek ezen a Vicenza városában található játszótéren tölthetik idejüket családjukkal.",
+                  "category": "family",
+                  "coords": [
+                        11.551155,
+                        45.559799
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Riello\"",
+                  "text": "Könnyen megközelíthető játszótér Vicenza városában, ideális egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        11.563106,
+                        45.554348
+                  ]
+            },
+            {
+                  "name": "Parco giochi di viale Dieci Martiri",
+                  "text": "Ez a Vicenza városában található játszótér mászásra és szabadban való játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        11.555321,
+                        45.542018
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Santa Bertilla\"",
+                  "text": "Barátságos játszótér Vicenza városában, amely remek úti cél fiatal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        11.561113,
+                        45.550522
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Istria\"",
+                  "text": "Ez a Vicenza városában található játszótér számos lehetőséget kínál az aktív játékra.",
+                  "category": "family",
+                  "coords": [
+                        11.566914,
+                        45.56138
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Gagliardotti\"",
+                  "text": "Ez a Vicenza városában található játszótér remek hely a gyerekeknek a mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        11.564489,
+                        45.564481
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Strada Borghetto Saviabona\"",
+                  "text": "Egy vicenzai játszótér, amely nyugodt környezetet biztosít a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.559408,
+                        45.575763
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Thaon De Revel\"",
+                  "text": "Ez a Vicenza városában található játszótér ideális megálló a családoknak egy séta során.",
+                  "category": "family",
+                  "coords": [
+                        11.521347,
+                        45.553581
                   ]
             }
       ],
@@ -30214,6 +34120,231 @@ export const poiExtraItalyV2: POI[] = [
                         11.5475,
                         45.553611
                   ]
+            },
+            {
+                  "name": "Lago di Fimon",
+                  "text": "Acest lac de lângă Vicenza este o destinație frumoasă pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        11.543393,
+                        45.471086
+                  ]
+            },
+            {
+                  "name": "Risorgive",
+                  "text": "Acest lac din Vicenza este un loc liniștit pentru a te bucura de mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        11.526982,
+                        45.613633
+                  ]
+            },
+            {
+                  "name": "Laghetto di Altavilla Vicentina",
+                  "text": "Acest mic lac de lângă Vicenza invită la o scurtă pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        11.473511,
+                        45.516649
+                  ]
+            },
+            {
+                  "name": "piastra pattinaggio",
+                  "text": "Această platformă din Vicenza oferă familiilor un spațiu pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        11.51641,
+                        45.543642
+                  ]
+            },
+            {
+                  "name": "Parco di Via Giuriato",
+                  "text": "Acest loc de joacă din Vicenza este un loc ideal pentru copii să se joace și să se distreze.",
+                  "category": "family",
+                  "coords": [
+                        11.569641,
+                        45.547349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Trieste - Villaggio SOS\"",
+                  "text": "Acest loc de joacă din Vicenza oferă diverse posibilități de distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.560261,
+                        45.5586
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Goito",
+                  "text": "Această zonă de joacă din Vicenza invită familiile la o vizită în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.541549,
+                        45.563131
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Fiume\"",
+                  "text": "Un loc de joacă frumos din Vicenza, care oferă mult spațiu copiilor pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        11.561208,
+                        45.563427
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Ischia\"",
+                  "text": "Acest loc de joacă din Vicenza este un punct de întâlnire excelent pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        11.561432,
+                        45.525802
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Machiavelli\"",
+                  "text": "Copiii se pot juca într-un mediu prietenos la acest loc de joacă din Vicenza.",
+                  "category": "family",
+                  "coords": [
+                        11.536821,
+                        45.559431
+                  ]
+            },
+            {
+                  "name": "Parco giochi S. Marco",
+                  "text": "Acest loc de joacă din Vicenza oferă copiilor o bună ocazie de a face mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.543696,
+                        45.554222
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via da Palestrina\"",
+                  "text": "Un loc de joacă pentru familii din Vicenza, dotat cu diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.513478,
+                        45.537908
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Lago d'Iseo\"",
+                  "text": "Acest loc de joacă din Vicenza este un loc plăcut pentru o ieșire cu familia după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        11.542124,
+                        45.572828
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di via Durando",
+                  "text": "Această zonă de joacă din Vicenza oferă copiilor spațiu pentru explorare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        11.539769,
+                        45.560945
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale della Pace\"",
+                  "text": "Acest loc de joacă din Vicenza este un loc popular pentru familii, pentru relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        11.569771,
+                        45.54283
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Bambini del mondo\"",
+                  "text": "Un loc de joacă din Vicenza, conceput special pentru nevoile copiilor și familiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.538236,
+                        45.543442
+                  ]
+            },
+            {
+                  "name": "Parco Giochi \"Via Baracca\"",
+                  "text": "Acest loc de joacă din Vicenza oferă un mediu sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.522846,
+                        45.532349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Brenta\"",
+                  "text": "Copiii pot petrece timp împreună cu familia la acest loc de joacă din Vicenza.",
+                  "category": "family",
+                  "coords": [
+                        11.551155,
+                        45.559799
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Riello\"",
+                  "text": "Un loc de joacă ușor accesibil în Vicenza, ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        11.563106,
+                        45.554348
+                  ]
+            },
+            {
+                  "name": "Parco giochi di viale Dieci Martiri",
+                  "text": "Acest loc de joacă din Vicenza invită copiii la cățărat și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.555321,
+                        45.542018
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Santa Bertilla\"",
+                  "text": "Un loc de joacă primitor din Vicenza, care este o destinație excelentă pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        11.561113,
+                        45.550522
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Istria\"",
+                  "text": "Acest loc de joacă din Vicenza oferă copiilor multe oportunități de joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        11.566914,
+                        45.56138
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Gagliardotti\"",
+                  "text": "Acest loc de joacă din Vicenza este un loc plăcut unde copiii se pot consuma energia.",
+                  "category": "family",
+                  "coords": [
+                        11.564489,
+                        45.564481
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Strada Borghetto Saviabona\"",
+                  "text": "Un loc de joacă din Vicenza care oferă o atmosferă liniștită pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        11.559408,
+                        45.575763
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Thaon De Revel\"",
+                  "text": "Această zonă de joacă din Vicenza este o oprire ideală pentru familii în timpul unei plimbări.",
+                  "category": "family",
+                  "coords": [
+                        11.521347,
+                        45.553581
+                  ]
             }
       ],
       "en": [
@@ -30325,6 +34456,231 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.5475,
                         45.553611
+                  ]
+            },
+            {
+                  "name": "Lago di Fimon",
+                  "text": "This lake near Vicenza is a beautiful destination for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        11.543393,
+                        45.471086
+                  ]
+            },
+            {
+                  "name": "Risorgive",
+                  "text": "This lake in Vicenza is a peaceful place to enjoy the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        11.526982,
+                        45.613633
+                  ]
+            },
+            {
+                  "name": "Laghetto di Altavilla Vicentina",
+                  "text": "This small lake near Vicenza invites you for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.473511,
+                        45.516649
+                  ]
+            },
+            {
+                  "name": "piastra pattinaggio",
+                  "text": "This facility in Vicenza offers families a space for sporting activities like skating.",
+                  "category": "family",
+                  "coords": [
+                        11.51641,
+                        45.543642
+                  ]
+            },
+            {
+                  "name": "Parco di Via Giuriato",
+                  "text": "This playground in Vicenza is an ideal place for children to romp and play.",
+                  "category": "family",
+                  "coords": [
+                        11.569641,
+                        45.547349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Trieste - Villaggio SOS\"",
+                  "text": "This playground in Vicenza offers varied play opportunities for families.",
+                  "category": "family",
+                  "coords": [
+                        11.560261,
+                        45.5586
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Goito",
+                  "text": "This play area in Vicenza invites families for an outdoor visit.",
+                  "category": "family",
+                  "coords": [
+                        11.541549,
+                        45.563131
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale Fiume\"",
+                  "text": "A lovely playground in Vicenza that offers plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        11.561208,
+                        45.563427
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Ischia\"",
+                  "text": "This playground in Vicenza is a great meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        11.561432,
+                        45.525802
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Machiavelli\"",
+                  "text": "Children can play in a friendly environment at this playground in Vicenza.",
+                  "category": "family",
+                  "coords": [
+                        11.536821,
+                        45.559431
+                  ]
+            },
+            {
+                  "name": "Parco giochi S. Marco",
+                  "text": "This playground in Vicenza offers a good opportunity for children to exercise outdoors.",
+                  "category": "family",
+                  "coords": [
+                        11.543696,
+                        45.554222
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via da Palestrina\"",
+                  "text": "A family-friendly playground in Vicenza with various equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        11.513478,
+                        45.537908
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Lago d'Iseo\"",
+                  "text": "This playground in Vicenza is a nice spot for a family outing in the afternoon.",
+                  "category": "family",
+                  "coords": [
+                        11.542124,
+                        45.572828
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di via Durando",
+                  "text": "This play area in Vicenza offers children space for discovery and fun.",
+                  "category": "family",
+                  "coords": [
+                        11.539769,
+                        45.560945
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Viale della Pace\"",
+                  "text": "This playground in Vicenza is a popular spot for families to relax and play.",
+                  "category": "family",
+                  "coords": [
+                        11.569771,
+                        45.54283
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Bambini del mondo\"",
+                  "text": "A playground in Vicenza specifically designed for the needs of children and families.",
+                  "category": "family",
+                  "coords": [
+                        11.538236,
+                        45.543442
+                  ]
+            },
+            {
+                  "name": "Parco Giochi \"Via Baracca\"",
+                  "text": "This playground in Vicenza provides a safe and entertaining environment for children.",
+                  "category": "family",
+                  "coords": [
+                        11.522846,
+                        45.532349
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Brenta\"",
+                  "text": "Children can spend time with their families at this playground in Vicenza.",
+                  "category": "family",
+                  "coords": [
+                        11.551155,
+                        45.559799
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Riello\"",
+                  "text": "An easily accessible playground in Vicenza, ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        11.563106,
+                        45.554348
+                  ]
+            },
+            {
+                  "name": "Parco giochi di viale Dieci Martiri",
+                  "text": "This playground in Vicenza invites children to climb and play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        11.555321,
+                        45.542018
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Santa Bertilla\"",
+                  "text": "A friendly playground in Vicenza that is a great destination for young families.",
+                  "category": "family",
+                  "coords": [
+                        11.561113,
+                        45.550522
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Istria\"",
+                  "text": "This playground in Vicenza offers children many opportunities for active play.",
+                  "category": "family",
+                  "coords": [
+                        11.566914,
+                        45.56138
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Via Gagliardotti\"",
+                  "text": "This playground in Vicenza is a nice place for children to let off steam.",
+                  "category": "family",
+                  "coords": [
+                        11.564489,
+                        45.564481
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Strada Borghetto Saviabona\"",
+                  "text": "A playground in Vicenza that offers a calm atmosphere for families and children.",
+                  "category": "family",
+                  "coords": [
+                        11.559408,
+                        45.575763
+                  ]
+            },
+            {
+                  "name": "Parco giochi \"Thaon De Revel\"",
+                  "text": "This play area in Vicenza is an ideal stop for families during a walk.",
+                  "category": "family",
+                  "coords": [
+                        11.521347,
+                        45.553581
                   ]
             }
       ]
@@ -31231,6 +35587,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.370307,
                         45.769254
                   ]
+            },
+            {
+                  "name": "Laguna di Grado",
+                  "text": "Diese Lagune bei Aquileia ist ein besonderer Naturraum, der zum Beobachten und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.355838,
+                        45.715526
+                  ]
             }
       ],
       "hu": [
@@ -31309,6 +35674,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.370307,
                         45.769254
+                  ]
+            },
+            {
+                  "name": "Laguna di Grado",
+                  "text": "Ez az Aquileia közelében található lagúna különleges természeti helyszín, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        13.355838,
+                        45.715526
                   ]
             }
       ],
@@ -31389,6 +35763,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.370307,
                         45.769254
                   ]
+            },
+            {
+                  "name": "Laguna di Grado",
+                  "text": "Această lagună de lângă Aquileia este un spațiu natural deosebit, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.355838,
+                        45.715526
+                  ]
             }
       ],
       "en": [
@@ -31467,6 +35850,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.370307,
                         45.769254
+                  ]
+            },
+            {
+                  "name": "Laguna di Grado",
+                  "text": "This lagoon near Aquileia is a special natural area that invites observation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        13.355838,
+                        45.715526
                   ]
             }
       ]
@@ -32694,6 +37086,33 @@ export const poiExtraItalyV2: POI[] = [
                         11.480795,
                         45.897333
                   ]
+            },
+            {
+                  "name": "Vasca pista Busafonda",
+                  "text": "Ein kleiner Speichersee bei Asiago, eingebettet in die Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        11.554377,
+                        45.925097
+                  ]
+            },
+            {
+                  "name": "Appaloosa",
+                  "text": "Ein Spielbereich in Asiago, der Kindern Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.538438,
+                        45.89168
+                  ]
+            },
+            {
+                  "name": "Giardino pubblico",
+                  "text": "Ein öffentlicher Stadtgarten in Asiago mit Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.477134,
+                        45.867214
+                  ]
             }
       ],
       "hu": [
@@ -32739,6 +37158,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.480795,
                         45.897333
+                  ]
+            },
+            {
+                  "name": "Vasca pista Busafonda",
+                  "text": "Kis víztározó tó Asiago közelében, a hegyi tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        11.554377,
+                        45.925097
+                  ]
+            },
+            {
+                  "name": "Appaloosa",
+                  "text": "Játszóhely Asiagóban, amely szabadtéri szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.538438,
+                        45.89168
+                  ]
+            },
+            {
+                  "name": "Giardino pubblico",
+                  "text": "Nyilvános városi kert Asiagóban játéklehetőségekkel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.477134,
+                        45.867214
                   ]
             }
       ],
@@ -32786,6 +37232,33 @@ export const poiExtraItalyV2: POI[] = [
                         11.480795,
                         45.897333
                   ]
+            },
+            {
+                  "name": "Vasca pista Busafonda",
+                  "text": "Un mic lac de acumulare lângă Asiago, integrat în peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        11.554377,
+                        45.925097
+                  ]
+            },
+            {
+                  "name": "Appaloosa",
+                  "text": "O zonă de joacă în Asiago care oferă copiilor distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.538438,
+                        45.89168
+                  ]
+            },
+            {
+                  "name": "Giardino pubblico",
+                  "text": "O grădină publică în Asiago cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.477134,
+                        45.867214
+                  ]
             }
       ],
       "en": [
@@ -32831,6 +37304,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.480795,
                         45.897333
+                  ]
+            },
+            {
+                  "name": "Vasca pista Busafonda",
+                  "text": "A small reservoir near Asiago, nestled in the mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.554377,
+                        45.925097
+                  ]
+            },
+            {
+                  "name": "Appaloosa",
+                  "text": "A play area in Asiago offering outdoor fun for children.",
+                  "category": "family",
+                  "coords": [
+                        11.538438,
+                        45.89168
+                  ]
+            },
+            {
+                  "name": "Giardino pubblico",
+                  "text": "A public city garden in Asiago with play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        11.477134,
+                        45.867214
                   ]
             }
       ]
@@ -34464,6 +38964,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.733126,
                         45.505161
                   ]
+            },
+            {
+                  "name": "Gardasee",
+                  "text": "Der Gardasee bei Lazise ist bekannt für sein klares Wasser und die Uferpromenaden.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Fantasy Land",
+                  "text": "Ein Spielplatz in Lazise, der Kindern eine phantasievolle Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.726098,
+                        45.484142
+                  ]
+            },
+            {
+                  "name": "Katapult",
+                  "text": "Ein Spielbereich in Lazise für aktive Kinder zum Springen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        10.721057,
+                        45.477643
+                  ]
             }
       ],
       "hu": [
@@ -34531,6 +39058,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
+                  ]
+            },
+            {
+                  "name": "Garda-tó",
+                  "text": "A Garda-tó Lazisénál tiszta vizéről és vízparti sétányairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Fantasy Land",
+                  "text": "Játszótér Lazisében, amely képzeletdús környezetet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.726098,
+                        45.484142
+                  ]
+            },
+            {
+                  "name": "Katapult",
+                  "text": "Játszóhely Lazisében aktív gyerekeknek ugráláshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.721057,
+                        45.477643
                   ]
             }
       ],
@@ -34600,6 +39154,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.733126,
                         45.505161
                   ]
+            },
+            {
+                  "name": "Lacul Garda",
+                  "text": "Lacul Garda de lângă Lazise este cunoscut pentru apa sa limpede și faleza de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Fantasy Land",
+                  "text": "Un teren de joacă în Lazise care oferă copiilor un mediu plin de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        10.726098,
+                        45.484142
+                  ]
+            },
+            {
+                  "name": "Katapult",
+                  "text": "O zonă de joacă în Lazise pentru copii activi, potrivită pentru sărituri și zbenguială.",
+                  "category": "family",
+                  "coords": [
+                        10.721057,
+                        45.477643
+                  ]
             }
       ],
       "en": [
@@ -34667,6 +39248,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
+                  ]
+            },
+            {
+                  "name": "Lake Garda",
+                  "text": "Lake Garda near Lazise is known for its clear water and lakeside promenades.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Fantasy Land",
+                  "text": "A playground in Lazise offering children an imaginative environment.",
+                  "category": "family",
+                  "coords": [
+                        10.726098,
+                        45.484142
+                  ]
+            },
+            {
+                  "name": "Katapult",
+                  "text": "A play area in Lazise for active children to jump and play.",
+                  "category": "family",
+                  "coords": [
+                        10.721057,
+                        45.477643
                   ]
             }
       ]
@@ -35629,6 +40237,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.5724,
                         40.9462
                   ]
+            },
+            {
+                  "name": "Stagno di Tartanelle",
+                  "text": "Ein ruhiges Gewässer bei Olbia, das zur Naturbeobachtung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.574783,
+                        40.898034
+                  ]
+            },
+            {
+                  "name": "Serbatoio ESAF di Punta Onica",
+                  "text": "Ein Wasserreservoir in Olbia, das die lokale Landschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        9.477747,
+                        40.892042
+                  ]
             }
       ],
       "hu": [
@@ -35707,6 +40333,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.5724,
                         40.9462
+                  ]
+            },
+            {
+                  "name": "Stagno di Tartanelle",
+                  "text": "Csendes vízfelület Olbia közelében, amely természetmegfigyelésre invitál.",
+                  "category": "natural",
+                  "coords": [
+                        9.574783,
+                        40.898034
+                  ]
+            },
+            {
+                  "name": "Serbatoio ESAF di Punta Onica",
+                  "text": "Víztározó Olbiában, amely meghatározza a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.477747,
+                        40.892042
                   ]
             }
       ],
@@ -35787,6 +40431,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.5724,
                         40.9462
                   ]
+            },
+            {
+                  "name": "Stagno di Tartanelle",
+                  "text": "O apă liniștită lângă Olbia, care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.574783,
+                        40.898034
+                  ]
+            },
+            {
+                  "name": "Serbatoio ESAF di Punta Onica",
+                  "text": "Un rezervor de apă în Olbia, care marchează peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        9.477747,
+                        40.892042
+                  ]
             }
       ],
       "en": [
@@ -35865,6 +40527,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.5724,
                         40.9462
+                  ]
+            },
+            {
+                  "name": "Stagno di Tartanelle",
+                  "text": "A quiet body of water near Olbia, perfect for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.574783,
+                        40.898034
+                  ]
+            },
+            {
+                  "name": "Serbatoio ESAF di Punta Onica",
+                  "text": "A water reservoir in Olbia that shapes the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.477747,
+                        40.892042
                   ]
             }
       ]
@@ -36534,6 +41214,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.932366,
                         36.800141
                   ]
+            },
+            {
+                  "name": "riserva idrica di Montagna Grande",
+                  "text": "Dieses Wasserreservoir auf Pantelleria ist ein ruhiger Ort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.00518,
+                        36.792683
+                  ]
             }
       ],
       "hu": [
@@ -36621,6 +41310,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.932366,
                         36.800141
+                  ]
+            },
+            {
+                  "name": "riserva idrica di Montagna Grande",
+                  "text": "Ez a Pantelleria szigetén található víztározó nyugodt hely a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        12.00518,
+                        36.792683
                   ]
             }
       ],
@@ -36710,6 +41408,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.932366,
                         36.800141
                   ]
+            },
+            {
+                  "name": "riserva idrica di Montagna Grande",
+                  "text": "Această rezervă de apă din Pantelleria este un loc liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.00518,
+                        36.792683
+                  ]
             }
       ],
       "en": [
@@ -36797,6 +41504,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.932366,
                         36.800141
+                  ]
+            },
+            {
+                  "name": "riserva idrica di Montagna Grande",
+                  "text": "This water reservoir on Pantelleria is a peaceful spot in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.00518,
+                        36.792683
                   ]
             }
       ]
@@ -39244,6 +43960,60 @@ export const poiExtraItalyV2: POI[] = [
                         6.881729,
                         44.958251
                   ]
+            },
+            {
+                  "name": "Lago Losetta",
+                  "text": "Dieser See in Sestriere bietet eine friedliche Umgebung für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        6.879755,
+                        44.962524
+                  ]
+            },
+            {
+                  "name": "Lago Fauri",
+                  "text": "Ein kleiner See bei Sestriere, der zu einem ruhigen Aufenthalt in den Bergen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.954237,
+                        44.90963
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Dieser Bergsee bei Sestriere ist ein schönes Ziel, um die Alpenlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.870425,
+                        44.999931
+                  ]
+            },
+            {
+                  "name": "Lago Basset",
+                  "text": "Dieser See in der Nähe von Sestriere ist ein friedlicher Ort inmitten der Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        6.864127,
+                        44.996446
+                  ]
+            },
+            {
+                  "name": "Lago Pilone",
+                  "text": "Ein ruhig gelegener See bei Sestriere, ideal für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        6.874215,
+                        44.999283
+                  ]
+            },
+            {
+                  "name": "Area Gioco Bimbi",
+                  "text": "Dieser Spielbereich in Sestriere bietet Kindern Abwechslung während des Bergurlaubs.",
+                  "category": "family",
+                  "coords": [
+                        6.876906,
+                        44.957252
+                  ]
             }
       ],
       "hu": [
@@ -39311,6 +44081,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         6.881729,
                         44.958251
+                  ]
+            },
+            {
+                  "name": "Lago Losetta",
+                  "text": "Ez a Sestriere városában található tó békés környezetet kínál egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.879755,
+                        44.962524
+                  ]
+            },
+            {
+                  "name": "Lago Fauri",
+                  "text": "Egy kis tó Sestriere közelében, amely nyugodt pihenésre hív a hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        6.954237,
+                        44.90963
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Ez a Sestriere közelében fekvő hegyi tó szép úti cél az alpesi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.870425,
+                        44.999931
+                  ]
+            },
+            {
+                  "name": "Lago Basset",
+                  "text": "Ez a Sestriere közelében található tó békés hely a hegyek világában.",
+                  "category": "natural",
+                  "coords": [
+                        6.864127,
+                        44.996446
+                  ]
+            },
+            {
+                  "name": "Lago Pilone",
+                  "text": "Egy csendes helyen fekvő tó Sestriere közelében, ideális természetmegfigyelésre és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        6.874215,
+                        44.999283
+                  ]
+            },
+            {
+                  "name": "Area Gioco Bimbi",
+                  "text": "Ez a Sestriere városában található játszótér kikapcsolódást nyújt a gyerekeknek a hegyi üdülés során.",
+                  "category": "family",
+                  "coords": [
+                        6.876906,
+                        44.957252
                   ]
             }
       ],
@@ -39380,6 +44204,60 @@ export const poiExtraItalyV2: POI[] = [
                         6.881729,
                         44.958251
                   ]
+            },
+            {
+                  "name": "Lago Losetta",
+                  "text": "Acest lac din Sestriere oferă un mediu liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.879755,
+                        44.962524
+                  ]
+            },
+            {
+                  "name": "Lago Fauri",
+                  "text": "Un mic lac de lângă Sestriere, care invită la o ședere liniștită în munți.",
+                  "category": "natural",
+                  "coords": [
+                        6.954237,
+                        44.90963
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "Acest lac montan de lângă Sestriere este o destinație frumoasă pentru a te bucura de peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        6.870425,
+                        44.999931
+                  ]
+            },
+            {
+                  "name": "Lago Basset",
+                  "text": "Acest lac din apropierea localității Sestriere este un loc liniștit în mijlocul munților.",
+                  "category": "natural",
+                  "coords": [
+                        6.864127,
+                        44.996446
+                  ]
+            },
+            {
+                  "name": "Lago Pilone",
+                  "text": "Un lac situat într-o zonă liniștită lângă Sestriere, ideal pentru observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.874215,
+                        44.999283
+                  ]
+            },
+            {
+                  "name": "Area Gioco Bimbi",
+                  "text": "Această zonă de joacă din Sestriere oferă copiilor divertisment în timpul vacanței la munte.",
+                  "category": "family",
+                  "coords": [
+                        6.876906,
+                        44.957252
+                  ]
             }
       ],
       "en": [
@@ -39447,6 +44325,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         6.881729,
                         44.958251
+                  ]
+            },
+            {
+                  "name": "Lago Losetta",
+                  "text": "This lake in Sestriere offers a peaceful environment for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.879755,
+                        44.962524
+                  ]
+            },
+            {
+                  "name": "Lago Fauri",
+                  "text": "A small lake near Sestriere that invites you for a quiet stay in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        6.954237,
+                        44.90963
+                  ]
+            },
+            {
+                  "name": "Lago Nero",
+                  "text": "This mountain lake near Sestriere is a beautiful destination to enjoy the Alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.870425,
+                        44.999931
+                  ]
+            },
+            {
+                  "name": "Lago Basset",
+                  "text": "This lake near Sestriere is a peaceful spot amidst the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        6.864127,
+                        44.996446
+                  ]
+            },
+            {
+                  "name": "Lago Pilone",
+                  "text": "A quietly located lake near Sestriere, ideal for nature observation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        6.874215,
+                        44.999283
+                  ]
+            },
+            {
+                  "name": "Area Gioco Bimbi",
+                  "text": "This play area in Sestriere offers children variety during their mountain holiday.",
+                  "category": "family",
+                  "coords": [
+                        6.876906,
+                        44.957252
                   ]
             }
       ]
@@ -39562,6 +44494,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.737308,
                         42.73432
                   ]
+            },
+            {
+                  "name": "Giardini pubblici via Primo maggio",
+                  "text": "Öffentliche Gärten in Spoleto mit Platz für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.743249,
+                        42.749775
+                  ]
             }
       ],
       "hu": [
@@ -39673,6 +44614,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.737308,
                         42.73432
+                  ]
+            },
+            {
+                  "name": "Giardini pubblici via Primo maggio",
+                  "text": "Nyilvános kertek Spoletóban, ahol a gyerekeknek van helyük játszani.",
+                  "category": "family",
+                  "coords": [
+                        12.743249,
+                        42.749775
                   ]
             }
       ],
@@ -39786,6 +44736,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.737308,
                         42.73432
                   ]
+            },
+            {
+                  "name": "Giardini pubblici via Primo maggio",
+                  "text": "Grădini publice în Spoleto cu spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.743249,
+                        42.749775
+                  ]
             }
       ],
       "en": [
@@ -39897,6 +44856,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.737308,
                         42.73432
+                  ]
+            },
+            {
+                  "name": "Giardini pubblici via Primo maggio",
+                  "text": "Public gardens in Spoleto with space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.743249,
+                        42.749775
                   ]
             }
       ]
@@ -40882,6 +45850,141 @@ export const poiExtraItalyV2: POI[] = [
                         10.235029,
                         43.876028
                   ]
+            },
+            {
+                  "name": "Lago pesca sportiva Montramito",
+                  "text": "Ein See für Sportfischer in Montramito bei Viareggio.",
+                  "category": "natural",
+                  "coords": [
+                        10.301471,
+                        43.883843
+                  ]
+            },
+            {
+                  "name": "Il Pirata",
+                  "text": "Ein Minigolfplatz in Viareggio für Freizeitspaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.242795,
+                        43.877028
+                  ]
+            },
+            {
+                  "name": "Mondotondo",
+                  "text": "Ein Spielbereich in Viareggio, der Kindern vielfältige Unterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.255145,
+                        43.878796
+                  ]
+            },
+            {
+                  "name": "Macchine Scontro",
+                  "text": "Ein Vergnügungsbereich in Viareggio mit Autoscootern für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.242282,
+                        43.864355
+                  ]
+            },
+            {
+                  "name": "XXV Aprile",
+                  "text": "Ein nach dem 25. April benannter Spielplatz in Viareggio.",
+                  "category": "family",
+                  "coords": [
+                        10.253283,
+                        43.870879
+                  ]
+            },
+            {
+                  "name": "Parco degli Angeli",
+                  "text": "Ein liebevoll gestalteter Spielplatz in Viareggio für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        10.256361,
+                        43.869652
+                  ]
+            },
+            {
+                  "name": "Parco Pitagora",
+                  "text": "Ein öffentlicher Park in Viareggio mit Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.231657,
+                        43.899105
+                  ]
+            },
+            {
+                  "name": "Costruttori di Pace",
+                  "text": "Ein Gemeinschaftsspielplatz in Viareggio, der dem Thema Frieden gewidmet ist.",
+                  "category": "family",
+                  "coords": [
+                        10.258075,
+                        43.861633
+                  ]
+            },
+            {
+                  "name": "Nottolini",
+                  "text": "Ein lokaler Spielplatz in Viareggio für Familiennachmittage im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.258401,
+                        43.871056
+                  ]
+            },
+            {
+                  "name": "La Coccinella",
+                  "text": "Ein freundlicher Spielbereich in Viareggio für kleinere Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.256475,
+                        43.878148
+                  ]
+            },
+            {
+                  "name": "Apuania",
+                  "text": "Ein Spielplatz in Viareggio für die tägliche Freizeitgestaltung der Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.270946,
+                        43.869179
+                  ]
+            },
+            {
+                  "name": "Malfatti",
+                  "text": "Ein öffentlicher Spielbereich in Viareggio für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        10.245959,
+                        43.887928
+                  ]
+            },
+            {
+                  "name": "Zara",
+                  "text": "Ein Spielplatz in Viareggio, der den Kindern im Stadtteil zur Verfügung steht.",
+                  "category": "family",
+                  "coords": [
+                        10.238011,
+                        43.887573
+                  ]
+            },
+            {
+                  "name": "Melvin Jones",
+                  "text": "Ein nach Melvin Jones benannter Spielbereich in Viareggio.",
+                  "category": "family",
+                  "coords": [
+                        10.248925,
+                        43.884447
+                  ]
+            },
+            {
+                  "name": "Inaco Biancalana",
+                  "text": "Ein öffentlicher Spielplatz in Viareggio für die lokale Gemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        10.248243,
+                        43.859352
+                  ]
             }
       ],
       "hu": [
@@ -40987,6 +46090,141 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.235029,
                         43.876028
+                  ]
+            },
+            {
+                  "name": "Lago pesca sportiva Montramito",
+                  "text": "Sport horgásztó Montramitóban, Viareggio közelében.",
+                  "category": "natural",
+                  "coords": [
+                        10.301471,
+                        43.883843
+                  ]
+            },
+            {
+                  "name": "Il Pirata",
+                  "text": "Minigolfpálya Viareggióban a család közös szórakozásához.",
+                  "category": "family",
+                  "coords": [
+                        10.242795,
+                        43.877028
+                  ]
+            },
+            {
+                  "name": "Mondotondo",
+                  "text": "Játszóhely Viareggióban, amely változatos szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.255145,
+                        43.878796
+                  ]
+            },
+            {
+                  "name": "Macchine Scontro",
+                  "text": "Szórakoztató terület Viareggióban dodzsemmel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.242282,
+                        43.864355
+                  ]
+            },
+            {
+                  "name": "XXV Aprile",
+                  "text": "Április 25-ről elnevezett játszótér Viareggióban.",
+                  "category": "family",
+                  "coords": [
+                        10.253283,
+                        43.870879
+                  ]
+            },
+            {
+                  "name": "Parco degli Angeli",
+                  "text": "Kedvesen kialakított játszótér Viareggióban a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        10.256361,
+                        43.869652
+                  ]
+            },
+            {
+                  "name": "Parco Pitagora",
+                  "text": "Nyilvános park Viareggióban játszótéri eszközökkel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.231657,
+                        43.899105
+                  ]
+            },
+            {
+                  "name": "Costruttori di Pace",
+                  "text": "Közösségi játszótér Viareggióban, a béke témájának szentelve.",
+                  "category": "family",
+                  "coords": [
+                        10.258075,
+                        43.861633
+                  ]
+            },
+            {
+                  "name": "Nottolini",
+                  "text": "Helyi játszótér Viareggióban szabadtéri családi délutánokhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.258401,
+                        43.871056
+                  ]
+            },
+            {
+                  "name": "La Coccinella",
+                  "text": "Barátságos játszóhely Viareggióban kisebb gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.256475,
+                        43.878148
+                  ]
+            },
+            {
+                  "name": "Apuania",
+                  "text": "Játszótér Viareggióban a gyerekek napi szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        10.270946,
+                        43.869179
+                  ]
+            },
+            {
+                  "name": "Malfatti",
+                  "text": "Nyilvános játszóhely Viareggióban játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.245959,
+                        43.887928
+                  ]
+            },
+            {
+                  "name": "Zara",
+                  "text": "Játszótér Viareggióban, amely a környékbeli gyerekek rendelkezésére áll.",
+                  "category": "family",
+                  "coords": [
+                        10.238011,
+                        43.887573
+                  ]
+            },
+            {
+                  "name": "Melvin Jones",
+                  "text": "Melvin Jones-ról elnevezett játszóhely Viareggióban.",
+                  "category": "family",
+                  "coords": [
+                        10.248925,
+                        43.884447
+                  ]
+            },
+            {
+                  "name": "Inaco Biancalana",
+                  "text": "Nyilvános játszótér Viareggióban a helyi közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        10.248243,
+                        43.859352
                   ]
             }
       ],
@@ -41094,6 +46332,141 @@ export const poiExtraItalyV2: POI[] = [
                         10.235029,
                         43.876028
                   ]
+            },
+            {
+                  "name": "Lago pesca sportiva Montramito",
+                  "text": "Un lac pentru pescuit sportiv în Montramito, lângă Viareggio.",
+                  "category": "natural",
+                  "coords": [
+                        10.301471,
+                        43.883843
+                  ]
+            },
+            {
+                  "name": "Il Pirata",
+                  "text": "Un teren de minigolf în Viareggio pentru distracție cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.242795,
+                        43.877028
+                  ]
+            },
+            {
+                  "name": "Mondotondo",
+                  "text": "O zonă de joacă în Viareggio care oferă copiilor divertisment variat.",
+                  "category": "family",
+                  "coords": [
+                        10.255145,
+                        43.878796
+                  ]
+            },
+            {
+                  "name": "Macchine Scontro",
+                  "text": "O zonă de divertisment în Viareggio cu mașinuțe tamponabile pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.242282,
+                        43.864355
+                  ]
+            },
+            {
+                  "name": "XXV Aprile",
+                  "text": "Un teren de joacă în Viareggio numit după data de 25 aprilie.",
+                  "category": "family",
+                  "coords": [
+                        10.253283,
+                        43.870879
+                  ]
+            },
+            {
+                  "name": "Parco degli Angeli",
+                  "text": "Un teren de joacă amenajat cu drag în Viareggio pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        10.256361,
+                        43.869652
+                  ]
+            },
+            {
+                  "name": "Parco Pitagora",
+                  "text": "Un parc public în Viareggio cu echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.231657,
+                        43.899105
+                  ]
+            },
+            {
+                  "name": "Costruttori di Pace",
+                  "text": "Un teren de joacă comunitar în Viareggio, dedicat temei păcii.",
+                  "category": "family",
+                  "coords": [
+                        10.258075,
+                        43.861633
+                  ]
+            },
+            {
+                  "name": "Nottolini",
+                  "text": "Un teren de joacă local în Viareggio pentru după-amiezi în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.258401,
+                        43.871056
+                  ]
+            },
+            {
+                  "name": "La Coccinella",
+                  "text": "O zonă de joacă primitoare în Viareggio pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        10.256475,
+                        43.878148
+                  ]
+            },
+            {
+                  "name": "Apuania",
+                  "text": "Un teren de joacă în Viareggio pentru recreerea zilnică a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.270946,
+                        43.869179
+                  ]
+            },
+            {
+                  "name": "Malfatti",
+                  "text": "O zonă de joacă publică în Viareggio pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        10.245959,
+                        43.887928
+                  ]
+            },
+            {
+                  "name": "Zara",
+                  "text": "Un teren de joacă în Viareggio disponibil pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        10.238011,
+                        43.887573
+                  ]
+            },
+            {
+                  "name": "Melvin Jones",
+                  "text": "O zonă de joacă în Viareggio numită după Melvin Jones.",
+                  "category": "family",
+                  "coords": [
+                        10.248925,
+                        43.884447
+                  ]
+            },
+            {
+                  "name": "Inaco Biancalana",
+                  "text": "Un teren de joacă public în Viareggio pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        10.248243,
+                        43.859352
+                  ]
             }
       ],
       "en": [
@@ -41199,6 +46572,141 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.235029,
                         43.876028
+                  ]
+            },
+            {
+                  "name": "Lago pesca sportiva Montramito",
+                  "text": "A lake for sport fishing in Montramito near Viareggio.",
+                  "category": "natural",
+                  "coords": [
+                        10.301471,
+                        43.883843
+                  ]
+            },
+            {
+                  "name": "Il Pirata",
+                  "text": "A miniature golf course in Viareggio for family leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        10.242795,
+                        43.877028
+                  ]
+            },
+            {
+                  "name": "Mondotondo",
+                  "text": "A play area in Viareggio offering various entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        10.255145,
+                        43.878796
+                  ]
+            },
+            {
+                  "name": "Macchine Scontro",
+                  "text": "An amusement area in Viareggio with bumper cars for children.",
+                  "category": "family",
+                  "coords": [
+                        10.242282,
+                        43.864355
+                  ]
+            },
+            {
+                  "name": "XXV Aprile",
+                  "text": "A playground in Viareggio named after the 25th of April.",
+                  "category": "family",
+                  "coords": [
+                        10.253283,
+                        43.870879
+                  ]
+            },
+            {
+                  "name": "Parco degli Angeli",
+                  "text": "A nicely designed playground in Viareggio for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        10.256361,
+                        43.869652
+                  ]
+            },
+            {
+                  "name": "Parco Pitagora",
+                  "text": "A public park in Viareggio with play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        10.231657,
+                        43.899105
+                  ]
+            },
+            {
+                  "name": "Costruttori di Pace",
+                  "text": "A community playground in Viareggio dedicated to the theme of peace.",
+                  "category": "family",
+                  "coords": [
+                        10.258075,
+                        43.861633
+                  ]
+            },
+            {
+                  "name": "Nottolini",
+                  "text": "A local playground in Viareggio for family afternoons outdoors.",
+                  "category": "family",
+                  "coords": [
+                        10.258401,
+                        43.871056
+                  ]
+            },
+            {
+                  "name": "La Coccinella",
+                  "text": "A friendly play area in Viareggio for smaller children.",
+                  "category": "family",
+                  "coords": [
+                        10.256475,
+                        43.878148
+                  ]
+            },
+            {
+                  "name": "Apuania",
+                  "text": "A playground in Viareggio for children's daily recreation.",
+                  "category": "family",
+                  "coords": [
+                        10.270946,
+                        43.869179
+                  ]
+            },
+            {
+                  "name": "Malfatti",
+                  "text": "A public play area in Viareggio for fun and games.",
+                  "category": "family",
+                  "coords": [
+                        10.245959,
+                        43.887928
+                  ]
+            },
+            {
+                  "name": "Zara",
+                  "text": "A playground in Viareggio available to children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        10.238011,
+                        43.887573
+                  ]
+            },
+            {
+                  "name": "Melvin Jones",
+                  "text": "A play area in Viareggio named after Melvin Jones.",
+                  "category": "family",
+                  "coords": [
+                        10.248925,
+                        43.884447
+                  ]
+            },
+            {
+                  "name": "Inaco Biancalana",
+                  "text": "A public playground in Viareggio for the local community.",
+                  "category": "family",
+                  "coords": [
+                        10.248243,
+                        43.859352
                   ]
             }
       ]
@@ -41665,6 +47173,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.860833,
                         43.402611
                   ]
+            },
+            {
+                  "name": "Lago del Paglione",
+                  "text": "Dieser See bei Volterra ist ein ruhiger Ort, um die Landschaft der Toskana zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        10.910533,
+                        43.395255
+                  ]
+            },
+            {
+                  "name": "Fontanella",
+                  "text": "Ein kleiner See oder Brunnen in Volterra, der einen friedlichen Moment im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.856382,
+                        43.398834
+                  ]
+            },
+            {
+                  "name": "Fonte del Pino",
+                  "text": "Dieser Ort bei Volterra bietet eine natürliche Wasserstelle in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        10.861337,
+                        43.398534
+                  ]
             }
       ],
       "hu": [
@@ -41765,6 +47300,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.860833,
                         43.402611
+                  ]
+            },
+            {
+                  "name": "Lago del Paglione",
+                  "text": "Ez a Volterra közelében fekvő tó nyugodt hely a toszkán táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.910533,
+                        43.395255
+                  ]
+            },
+            {
+                  "name": "Fontanella",
+                  "text": "Egy kis tó vagy forrás Volterra városában, amely békés pillanatokat kínál a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        10.856382,
+                        43.398834
+                  ]
+            },
+            {
+                  "name": "Fonte del Pino",
+                  "text": "Ez a Volterra melletti hely természetes vízfelületet kínál nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.861337,
+                        43.398534
                   ]
             }
       ],
@@ -41867,6 +47429,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.860833,
                         43.402611
                   ]
+            },
+            {
+                  "name": "Lago del Paglione",
+                  "text": "Acest lac de lângă Volterra este un loc liniștit pentru a te bucura de peisajul toscan.",
+                  "category": "natural",
+                  "coords": [
+                        10.910533,
+                        43.395255
+                  ]
+            },
+            {
+                  "name": "Fontanella",
+                  "text": "Un mic lac sau fântână din Volterra, care oferă un moment de liniște în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.856382,
+                        43.398834
+                  ]
+            },
+            {
+                  "name": "Fonte del Pino",
+                  "text": "Acest loc de lângă Volterra oferă o sursă naturală de apă într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        10.861337,
+                        43.398534
+                  ]
             }
       ],
       "en": [
@@ -41967,6 +47556,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.860833,
                         43.402611
+                  ]
+            },
+            {
+                  "name": "Lago del Paglione",
+                  "text": "This lake near Volterra is a peaceful spot to enjoy the Tuscan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.910533,
+                        43.395255
+                  ]
+            },
+            {
+                  "name": "Fontanella",
+                  "text": "A small lake or fountain in Volterra that offers a peaceful moment outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        10.856382,
+                        43.398834
+                  ]
+            },
+            {
+                  "name": "Fonte del Pino",
+                  "text": "This spot near Volterra offers a natural water source in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        10.861337,
+                        43.398534
                   ]
             }
       ]

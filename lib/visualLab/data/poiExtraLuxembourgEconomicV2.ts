@@ -454,6 +454,159 @@ export const luxembourgEconomicV2: POI[] = [
                         6.145624,
                         49.627706
                   ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Der See Gipsweieren in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Der See Nessesch Weier in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Der See Étang du Centre de l'Oseraie in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Der See Qanatwasserloch in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Der See Ale Weier in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "Der Spielplatz Kauffmann Leon in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "Der Spielplatz Tanneurs in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "Der Spielplatz Ale Wee in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "Der Spielplatz Fraternité in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Paul Albrecht",
+                  "text": "Der Spielplatz Paul Albrecht in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.17196,
+                        49.620736
+                  ]
+            },
+            {
+                  "name": "Montmédy",
+                  "text": "Ein schöner Spielplatz in Kirchberg Financial District für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.145196,
+                        49.603419
+                  ]
+            },
+            {
+                  "name": "Place de Jeux Foyer Scolaire Rue D'Eich",
+                  "text": "Ein Spielplatz in Kirchberg Financial District, der ideal für einen Familienausflug ist.",
+                  "category": "family",
+                  "coords": [
+                        6.132212,
+                        49.629219
+                  ]
+            },
+            {
+                  "name": "Balançoires",
+                  "text": "Ein familienfreundlicher Spielplatz in Kirchberg Financial District mit verschiedenen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        6.174435,
+                        49.630147
+                  ]
+            },
+            {
+                  "name": "Rue de Nothomb",
+                  "text": "Dieser Spielplatz in Kirchberg Financial District ist ein tolles Ziel für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.135435,
+                        49.641933
+                  ]
+            },
+            {
+                  "name": "Gabriel de Marie",
+                  "text": "Ein kleiner Spielplatz in Kirchberg Financial District für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        6.166654,
+                        49.619919
+                  ]
+            },
+            {
+                  "name": "Paul Wilwertz",
+                  "text": "Spiel und Spaß für Kinder auf diesem Spielplatz in Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.168849,
+                        49.620352
+                  ]
+            },
+            {
+                  "name": "Op Der Heed",
+                  "text": "Ein schöner Ort für Familien auf diesem Spielplatz in Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.17751,
+                        49.621559
+                  ]
             }
       ],
       "hu": [
@@ -905,6 +1058,159 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.145624,
                         49.627706
+                  ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "A(z) Gipsweieren tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "A(z) Nessesch Weier tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "A(z) Étang du Centre de l'Oseraie tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "A(z) Qanatwasserloch tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "A(z) Ale Weier tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "A(z) Kauffmann Leon játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "A(z) Tanneurs játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "A(z) Ale Wee játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "A(z) Fraternité játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Paul Albrecht",
+                  "text": "A(z) Paul Albrecht játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.17196,
+                        49.620736
+                  ]
+            },
+            {
+                  "name": "Montmédy",
+                  "text": "Egy szép játszótér Kirchberg Financial District területén gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.145196,
+                        49.603419
+                  ]
+            },
+            {
+                  "name": "Place de Jeux Foyer Scolaire Rue D'Eich",
+                  "text": "Egy játszótér Kirchberg Financial District területén, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.132212,
+                        49.629219
+                  ]
+            },
+            {
+                  "name": "Balançoires",
+                  "text": "Családbarát játszótér Kirchberg Financial District területén különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        6.174435,
+                        49.630147
+                  ]
+            },
+            {
+                  "name": "Rue de Nothomb",
+                  "text": "Ez a játszótér Kirchberg Financial District területén nagyszerű úti cél a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        6.135435,
+                        49.641933
+                  ]
+            },
+            {
+                  "name": "Gabriel de Marie",
+                  "text": "Egy kis játszótér Kirchberg Financial District területén egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        6.166654,
+                        49.619919
+                  ]
+            },
+            {
+                  "name": "Paul Wilwertz",
+                  "text": "Játék és szórakozás a gyerekeknek ezen a Kirchberg Financial District-i játszótéren.",
+                  "category": "family",
+                  "coords": [
+                        6.168849,
+                        49.620352
+                  ]
+            },
+            {
+                  "name": "Op Der Heed",
+                  "text": "Kedvelt helyszín családok számára ez a játszótér Kirchberg Financial District területén.",
+                  "category": "family",
+                  "coords": [
+                        6.17751,
+                        49.621559
                   ]
             }
       ],
@@ -1358,6 +1664,159 @@ export const luxembourgEconomicV2: POI[] = [
                         6.145624,
                         49.627706
                   ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Lacul Gipsweieren din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Lacul Nessesch Weier din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Lacul Étang du Centre de l'Oseraie din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Lacul Qanatwasserloch din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Lacul Ale Weier din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "Locul de joacă Kauffmann Leon din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "Locul de joacă Tanneurs din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "Locul de joacă Ale Wee din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "Locul de joacă Fraternité din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Paul Albrecht",
+                  "text": "Locul de joacă Paul Albrecht din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.17196,
+                        49.620736
+                  ]
+            },
+            {
+                  "name": "Montmédy",
+                  "text": "Un loc de joacă frumos în Kirchberg Financial District pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        6.145196,
+                        49.603419
+                  ]
+            },
+            {
+                  "name": "Place de Jeux Foyer Scolaire Rue D'Eich",
+                  "text": "Un loc de joacă în Kirchberg Financial District, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        6.132212,
+                        49.629219
+                  ]
+            },
+            {
+                  "name": "Balançoires",
+                  "text": "Un loc de joacă pentru familii în Kirchberg Financial District, dotat cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        6.174435,
+                        49.630147
+                  ]
+            },
+            {
+                  "name": "Rue de Nothomb",
+                  "text": "Acest loc de joacă din Kirchberg Financial District este o destinație excelentă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.135435,
+                        49.641933
+                  ]
+            },
+            {
+                  "name": "Gabriel de Marie",
+                  "text": "Un mic loc de joacă în Kirchberg Financial District pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.166654,
+                        49.619919
+                  ]
+            },
+            {
+                  "name": "Paul Wilwertz",
+                  "text": "Joacă și distracție pentru copii la acest loc de joacă din Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.168849,
+                        49.620352
+                  ]
+            },
+            {
+                  "name": "Op Der Heed",
+                  "text": "Un loc frumos pentru familii la acest loc de joacă din Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.17751,
+                        49.621559
+                  ]
             }
       ],
       "en": [
@@ -1809,6 +2268,159 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.145624,
                         49.627706
+                  ]
+            },
+            {
+                  "name": "Gipsweieren",
+                  "text": "Gipsweieren is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.09782,
+                        49.657964
+                  ]
+            },
+            {
+                  "name": "Nessesch Weier",
+                  "text": "Nessesch Weier is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.198045,
+                        49.600505
+                  ]
+            },
+            {
+                  "name": "Étang du Centre de l'Oseraie",
+                  "text": "Étang du Centre de l'Oseraie is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.068476,
+                        49.659244
+                  ]
+            },
+            {
+                  "name": "Qanatwasserloch",
+                  "text": "Qanatwasserloch is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.148153,
+                        49.665805
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Ale Weier is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.200758,
+                        49.601874
+                  ]
+            },
+            {
+                  "name": "Kauffmann Leon",
+                  "text": "The Kauffmann Leon playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
+                  "category": "family",
+                  "coords": [
+                        6.164321,
+                        49.618232
+                  ]
+            },
+            {
+                  "name": "Tanneurs",
+                  "text": "The Tanneurs playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
+                  "category": "family",
+                  "coords": [
+                        6.132179,
+                        49.62155
+                  ]
+            },
+            {
+                  "name": "Ale Wee",
+                  "text": "The Ale Wee playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
+                  "category": "family",
+                  "coords": [
+                        6.160754,
+                        49.621091
+                  ]
+            },
+            {
+                  "name": "Fraternité",
+                  "text": "The Fraternité playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
+                  "category": "family",
+                  "coords": [
+                        6.143081,
+                        49.601045
+                  ]
+            },
+            {
+                  "name": "Paul Albrecht",
+                  "text": "The Paul Albrecht playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
+                  "category": "family",
+                  "coords": [
+                        6.17196,
+                        49.620736
+                  ]
+            },
+            {
+                  "name": "Montmédy",
+                  "text": "A nice playground in Kirchberg Financial District for children and families.",
+                  "category": "family",
+                  "coords": [
+                        6.145196,
+                        49.603419
+                  ]
+            },
+            {
+                  "name": "Place de Jeux Foyer Scolaire Rue D'Eich",
+                  "text": "A playground in Kirchberg Financial District that is ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        6.132212,
+                        49.629219
+                  ]
+            },
+            {
+                  "name": "Balançoires",
+                  "text": "A family-friendly playground in Kirchberg Financial District with various equipment.",
+                  "category": "family",
+                  "coords": [
+                        6.174435,
+                        49.630147
+                  ]
+            },
+            {
+                  "name": "Rue de Nothomb",
+                  "text": "This playground in Kirchberg Financial District is a great destination for children.",
+                  "category": "family",
+                  "coords": [
+                        6.135435,
+                        49.641933
+                  ]
+            },
+            {
+                  "name": "Gabriel de Marie",
+                  "text": "A small playground in Kirchberg Financial District for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        6.166654,
+                        49.619919
+                  ]
+            },
+            {
+                  "name": "Paul Wilwertz",
+                  "text": "Play and fun for children at this playground in Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.168849,
+                        49.620352
+                  ]
+            },
+            {
+                  "name": "Op Der Heed",
+                  "text": "A nice place for families at this playground in Kirchberg Financial District.",
+                  "category": "family",
+                  "coords": [
+                        6.17751,
+                        49.621559
                   ]
             }
       ]

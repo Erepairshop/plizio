@@ -1445,6 +1445,78 @@ imageHint: "Siauliai city square and cathedral",
                         24.371874,
                         55.733466
                   ]
+            },
+            {
+                  "name": "Molainių I tv.",
+                  "text": "Der Molainių I tv. in Panevezys bietet eine ruhige Umgebung für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.292531,
+                        55.710524
+                  ]
+            },
+            {
+                  "name": "Molainių II tv.",
+                  "text": "Der Molainių II tv. in Panevezys lädt zu entspannten Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.30143,
+                        55.697579
+                  ]
+            },
+            {
+                  "name": "Paviesečių tv.",
+                  "text": "Paviesečių tv. in Panevezys ist ein lokales Gewässer, das zur Ruhe und Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.277127,
+                        55.722215
+                  ]
+            },
+            {
+                  "name": "Staniūnų tv.",
+                  "text": "Staniūnų tv. in Panevezys bietet eine naturnahe Kulisse für Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.435459,
+                        55.679091
+                  ]
+            },
+            {
+                  "name": "Senvagės ež.",
+                  "text": "Der Senvage lake in Panevezys ist ein markantes Gewässer im Stadtgebiet, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        24.363,
+                        55.731617
+                  ]
+            },
+            {
+                  "name": "Ekrano marios",
+                  "text": "Ekrano marios in Panevezys ist ein großflächiges Gewässer für vielfältige Erholungsmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        24.409212,
+                        55.730978
+                  ]
+            },
+            {
+                  "name": "Skaistakalnio tv.",
+                  "text": "Skaistakalnio tv. in Panevezys liegt in einer grünen Umgebung und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.375747,
+                        55.73174
+                  ]
+            },
+            {
+                  "name": "ež. Paežerys",
+                  "text": "ež. Paežerys bei Panevezys bietet eine idyllische Atmosphäre für Naturbeobachter.",
+                  "category": "natural",
+                  "coords": [
+                        24.408147,
+                        55.762352
+                  ]
             }
       ],
       "hu": [
@@ -1644,6 +1716,78 @@ imageHint: "Siauliai city square and cathedral",
                   "coords": [
                         24.371874,
                         55.733466
+                  ]
+            },
+            {
+                  "name": "Molainių I tv.",
+                  "text": "A Panevezys városában található Molainių I tv. nyugodt környezetet kínál a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.292531,
+                        55.710524
+                  ]
+            },
+            {
+                  "name": "Molainių II tv.",
+                  "text": "A Panevezys területén fekvő Molainių II tv. pihentető parti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        24.30143,
+                        55.697579
+                  ]
+            },
+            {
+                  "name": "Paviesečių tv.",
+                  "text": "A Panevezys melletti Paviesečių tv. egy helyi állóvíz, amely nyugalomra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.277127,
+                        55.722215
+                  ]
+            },
+            {
+                  "name": "Staniūnų tv.",
+                  "text": "A Panevezys városában lévő Staniūnų tv. természetközeli környezetet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.435459,
+                        55.679091
+                  ]
+            },
+            {
+                  "name": "Senvagės ež.",
+                  "text": "A Panevezys városában található Senvage-tó a városterület egyik meghatározó állóvize, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.363,
+                        55.731617
+                  ]
+            },
+            {
+                  "name": "Ekrano marios",
+                  "text": "A Panevezys területén fekvő Ekrano marios egy nagy kiterjedésű vízfelület, amely változatos kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.409212,
+                        55.730978
+                  ]
+            },
+            {
+                  "name": "Skaistakalnio tv.",
+                  "text": "A zöldövezetben található Skaistakalnio tv. Panevezys városában pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        24.375747,
+                        55.73174
+                  ]
+            },
+            {
+                  "name": "ež. Paežerys",
+                  "text": "A Panevezys közeli Paežerys-tó idilli légkört kínál a természetmegfigyelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        24.408147,
+                        55.762352
                   ]
             }
       ],
@@ -1845,6 +1989,78 @@ imageHint: "Siauliai city square and cathedral",
                         24.371874,
                         55.733466
                   ]
+            },
+            {
+                  "name": "Molainių I tv.",
+                  "text": "Molainių I tv. din Panevezys oferă un mediu liniștit pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.292531,
+                        55.710524
+                  ]
+            },
+            {
+                  "name": "Molainių II tv.",
+                  "text": "Molainių II tv. din Panevezys invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.30143,
+                        55.697579
+                  ]
+            },
+            {
+                  "name": "Paviesečių tv.",
+                  "text": "Paviesečių tv. din Panevezys este un luciu de apă local care invită la liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.277127,
+                        55.722215
+                  ]
+            },
+            {
+                  "name": "Staniūnų tv.",
+                  "text": "Staniūnų tv. din Panevezys oferă un cadru natural pentru activități de agrement în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.435459,
+                        55.679091
+                  ]
+            },
+            {
+                  "name": "Senvagės ež.",
+                  "text": "Lacul Senvage din Panevezys este un luciu de apă marcant în zona urbană, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.363,
+                        55.731617
+                  ]
+            },
+            {
+                  "name": "Ekrano marios",
+                  "text": "Ekrano marios din Panevezys este un luciu de apă întins, oferind diverse posibilități de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.409212,
+                        55.730978
+                  ]
+            },
+            {
+                  "name": "Skaistakalnio tv.",
+                  "text": "Skaistakalnio tv. din Panevezys este situat într-un mediu verde și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.375747,
+                        55.73174
+                  ]
+            },
+            {
+                  "name": "ež. Paežerys",
+                  "text": "Lacul Paežerys de lângă Panevezys oferă o atmosferă idilică pentru observatorii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.408147,
+                        55.762352
+                  ]
             }
       ],
       "en": [
@@ -2044,6 +2260,78 @@ imageHint: "Siauliai city square and cathedral",
                   "coords": [
                         24.371874,
                         55.733466
+                  ]
+            },
+            {
+                  "name": "Molainių I tv.",
+                  "text": "Molainių I tv. in Panevezys offers a peaceful environment for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.292531,
+                        55.710524
+                  ]
+            },
+            {
+                  "name": "Molainių II tv.",
+                  "text": "Molainių II tv. in Panevezys invites visitors for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        24.30143,
+                        55.697579
+                  ]
+            },
+            {
+                  "name": "Paviesečių tv.",
+                  "text": "Paviesečių tv. in Panevezys is a local body of water inviting visitors to peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.277127,
+                        55.722215
+                  ]
+            },
+            {
+                  "name": "Staniūnų tv.",
+                  "text": "Staniūnų tv. in Panevezys offers a natural setting for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        24.435459,
+                        55.679091
+                  ]
+            },
+            {
+                  "name": "Senvage lake",
+                  "text": "Senvage lake in Panevezys is a prominent body of water in the urban area, ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.363,
+                        55.731617
+                  ]
+            },
+            {
+                  "name": "Ekrano marios",
+                  "text": "Ekrano marios in Panevezys is a large body of water providing various recreation opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        24.409212,
+                        55.730978
+                  ]
+            },
+            {
+                  "name": "Skaistakalnio tv.",
+                  "text": "Skaistakalnio tv. in Panevezys is located in a green setting and invites visitors to stay and relax.",
+                  "category": "natural",
+                  "coords": [
+                        24.375747,
+                        55.73174
+                  ]
+            },
+            {
+                  "name": "ež. Paežerys",
+                  "text": "ež. Paežerys near Panevezys offers an idyllic atmosphere for nature observers.",
+                  "category": "natural",
+                  "coords": [
+                        24.408147,
+                        55.762352
                   ]
             }
       ]
@@ -2896,6 +3184,60 @@ imageHint: "Alytus bridge over Nemunas river",
                         23.346148,
                         54.548336
                   ]
+            },
+            {
+                  "name": "Baraginės tv.",
+                  "text": "Baraginės tv. in Marijampole ist ein Stausee, der zu Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.453434,
+                        54.589445
+                  ]
+            },
+            {
+                  "name": "Stebuliškių tv.",
+                  "text": "Stebuliškių tv. bei Marijampole bietet eine ruhige Atmosphäre für Erholungssuchende am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.325225,
+                        54.485247
+                  ]
+            },
+            {
+                  "name": "Marijampolės I tv.",
+                  "text": "Marijampolės I tv. ist ein lokales Gewässer, das zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.337938,
+                        54.542314
+                  ]
+            },
+            {
+                  "name": "Marijampolės II tv.",
+                  "text": "Marijampolės II tv. in Marijampole ist ein beliebter Ort für Ruhe und Entspannung am See.",
+                  "category": "natural",
+                  "coords": [
+                        23.340196,
+                        54.516563
+                  ]
+            },
+            {
+                  "name": "Kodėlčius vaikų žaidimų studija",
+                  "text": "Kodėlčius vaikų žaidimų studija in Marijampole ist ein idealer Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        23.346707,
+                        54.550218
+                  ]
+            },
+            {
+                  "name": "Mauglis ir vaikai",
+                  "text": "Mauglis ir vaikai in Marijampole ist ein familienfreundlicher Spielplatz mit vielen Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        23.351262,
+                        54.561362
+                  ]
             }
       ],
       "hu": [
@@ -2996,6 +3338,60 @@ imageHint: "Alytus bridge over Nemunas river",
                   "coords": [
                         23.346148,
                         54.548336
+                  ]
+            },
+            {
+                  "name": "Baraginės tv.",
+                  "text": "A Marijampole településen található Baraginės tv. egy víztározó, amely természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.453434,
+                        54.589445
+                  ]
+            },
+            {
+                  "name": "Stebuliškių tv.",
+                  "text": "A Marijampole közeli Stebuliškių tv. nyugodt légkört biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.325225,
+                        54.485247
+                  ]
+            },
+            {
+                  "name": "Marijampolės I tv.",
+                  "text": "A Marijampolės I tv. egy helyi vízfelület, amely szabadtéri időtöltésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        23.337938,
+                        54.542314
+                  ]
+            },
+            {
+                  "name": "Marijampolės II tv.",
+                  "text": "A Marijampole-i Marijampolės II tv. népszerű hely a tóparti nyugalomhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.340196,
+                        54.516563
+                  ]
+            },
+            {
+                  "name": "Kodėlčius vaikų žaidimų studija",
+                  "text": "A Marijampole-i Kodėlčius vaikų žaidimų studija ideális hely a gyermekek számára a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        23.346707,
+                        54.550218
+                  ]
+            },
+            {
+                  "name": "Mauglis ir vaikai",
+                  "text": "A Marijampole-i Mauglis ir vaikai egy családbarát játszótér számos látnivalóval.",
+                  "category": "family",
+                  "coords": [
+                        23.351262,
+                        54.561362
                   ]
             }
       ],
@@ -3098,6 +3494,60 @@ imageHint: "Alytus bridge over Nemunas river",
                         23.346148,
                         54.548336
                   ]
+            },
+            {
+                  "name": "Baraginės tv.",
+                  "text": "Baraginės tv. din Marijampole este un lac de acumulare ce invită la plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.453434,
+                        54.589445
+                  ]
+            },
+            {
+                  "name": "Stebuliškių tv.",
+                  "text": "Stebuliškių tv. de lângă Marijampole oferă o atmosferă liniștită pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.325225,
+                        54.485247
+                  ]
+            },
+            {
+                  "name": "Marijampolės I tv.",
+                  "text": "Marijampolės I tv. este un luciu de apă local, care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.337938,
+                        54.542314
+                  ]
+            },
+            {
+                  "name": "Marijampolės II tv.",
+                  "text": "Marijampolės II tv. din Marijampole este un loc popular pentru liniște și relaxare pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        23.340196,
+                        54.516563
+                  ]
+            },
+            {
+                  "name": "Kodėlčius vaikų žaidimų studija",
+                  "text": "Kodėlčius vaikų žaidimų studija din Marijampole este un loc ideal pentru copii, pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        23.346707,
+                        54.550218
+                  ]
+            },
+            {
+                  "name": "Mauglis ir vaikai",
+                  "text": "Mauglis ir vaikai din Marijampole este un loc de joacă prietenos pentru familii, cu multe atracții.",
+                  "category": "family",
+                  "coords": [
+                        23.351262,
+                        54.561362
+                  ]
             }
       ],
       "en": [
@@ -3198,6 +3648,60 @@ imageHint: "Alytus bridge over Nemunas river",
                   "coords": [
                         23.346148,
                         54.548336
+                  ]
+            },
+            {
+                  "name": "Baraginės tv.",
+                  "text": "Baraginės tv. in Marijampole is a reservoir inviting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.453434,
+                        54.589445
+                  ]
+            },
+            {
+                  "name": "Stebuliškių tv.",
+                  "text": "Stebuliškių tv. near Marijampole offers a peaceful atmosphere for those seeking relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.325225,
+                        54.485247
+                  ]
+            },
+            {
+                  "name": "Marijampolės I tv.",
+                  "text": "Marijampolės I tv. is a local body of water, inviting for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.337938,
+                        54.542314
+                  ]
+            },
+            {
+                  "name": "Marijampolės II tv.",
+                  "text": "Marijampolės II tv. in Marijampole is a popular spot for peace and relaxation by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        23.340196,
+                        54.516563
+                  ]
+            },
+            {
+                  "name": "Kodėlčius vaikų žaidimų studija",
+                  "text": "Kodėlčius vaikų žaidimų studija in Marijampole is an ideal place for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        23.346707,
+                        54.550218
+                  ]
+            },
+            {
+                  "name": "Mauglis ir vaikai",
+                  "text": "Mauglis ir vaikai in Marijampole is a family-friendly playground with many attractions.",
+                  "category": "family",
+                  "coords": [
+                        23.351262,
+                        54.561362
                   ]
             }
       ]
@@ -3338,6 +3842,105 @@ imageHint: "Marijampole city square and church",
                         22.340315,
                         56.31572
                   ]
+            },
+            {
+                  "name": "Tulnikių tv.",
+                  "text": "Tulnikių tv. in Mazeikiai bietet eine ruhige Kulisse für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.329092,
+                        56.358461
+                  ]
+            },
+            {
+                  "name": "Kurmaičių II tv.",
+                  "text": "Kurmaičių II tv. in Mazeikiai ist ein lokales Ziel für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.253365,
+                        56.336073
+                  ]
+            },
+            {
+                  "name": "Kurmaičių I tv.",
+                  "text": "Kurmaičių I tv. in Mazeikiai lädt zur Entspannung und zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        22.257595,
+                        56.335785
+                  ]
+            },
+            {
+                  "name": "Kalnėnų II tv.",
+                  "text": "Kalnėnų II tv. in Mazeikiai bietet eine friedliche Umgebung für Freizeitaktivitäten im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        22.303306,
+                        56.304495
+                  ]
+            },
+            {
+                  "name": "Stadiono tv.",
+                  "text": "Stadiono tv. in Mazeikiai ist ein gut erreichbares Gewässer für kurze Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        22.34389,
+                        56.295495
+                  ]
+            },
+            {
+                  "name": "Kalnėnų I tv.",
+                  "text": "Kalnėnų I tv. in Mazeikiai lädt zu ruhigen Spaziergängen in der direkten Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        22.303994,
+                        56.302937
+                  ]
+            },
+            {
+                  "name": "Daubarių tv.",
+                  "text": "Daubarių tv. in Mazeikiai bietet eine natürliche Atmosphäre für Erholungsuchende.",
+                  "category": "natural",
+                  "coords": [
+                        22.297098,
+                        56.279513
+                  ]
+            },
+            {
+                  "name": "Kalnėnų III tvenkinys",
+                  "text": "Kalnėnų III tvenkinys in Mazeikiai ist ein beschauliches Gewässer für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        22.306005,
+                        56.305488
+                  ]
+            },
+            {
+                  "name": "Juodpelkio tv.",
+                  "text": "Juodpelkio tv. in Mazeikiai bietet eine angenehme Kulisse für Freizeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.35795,
+                        56.302108
+                  ]
+            },
+            {
+                  "name": "Laivai",
+                  "text": "Der Spielplatz Laivai in Mazeikiai bietet Kindern abwechslungsreiche Möglichkeiten zum Austoben im Freien.",
+                  "category": "family",
+                  "coords": [
+                        22.332695,
+                        56.293355
+                  ]
+            },
+            {
+                  "name": "Šachmatai",
+                  "text": "Der Spielplatz Šachmatai in Mazeikiai ist ein schönes Ziel für Familien mit Kindern in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        22.350909,
+                        56.315815
+                  ]
             }
       ],
       "hu": [
@@ -3429,6 +4032,105 @@ imageHint: "Marijampole city square and church",
                   "coords": [
                         22.340315,
                         56.31572
+                  ]
+            },
+            {
+                  "name": "Tulnikių tv.",
+                  "text": "A Mazeikiai városában található Tulnikių tv. nyugodt környezetet biztosít a pihentető természeti órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.329092,
+                        56.358461
+                  ]
+            },
+            {
+                  "name": "Kurmaičių II tv.",
+                  "text": "A Mazeikiai területén fekvő Kurmaičių II tv. egy helyi úti cél a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.253365,
+                        56.336073
+                  ]
+            },
+            {
+                  "name": "Kurmaičių I tv.",
+                  "text": "A Mazeikiai melletti Kurmaičių I tv. pihenésre és természetközeli kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        22.257595,
+                        56.335785
+                  ]
+            },
+            {
+                  "name": "Kalnėnų II tv.",
+                  "text": "A Mazeikiai városában lévő Kalnėnų II tv. békés környezetet kínál a zöldövezeti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.303306,
+                        56.304495
+                  ]
+            },
+            {
+                  "name": "Stadiono tv.",
+                  "text": "A Mazeikiai településen található Stadiono tv. egy könnyen megközelíthető állóvíz rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.34389,
+                        56.295495
+                  ]
+            },
+            {
+                  "name": "Kalnėnų I tv.",
+                  "text": "A Mazeikiai területén fekvő Kalnėnų I tv. csendes sétákra hív a közvetlen környéken.",
+                  "category": "natural",
+                  "coords": [
+                        22.303994,
+                        56.302937
+                  ]
+            },
+            {
+                  "name": "Daubarių tv.",
+                  "text": "A Mazeikiai városában lévő Daubarių tv. természetes légkört kínál a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.297098,
+                        56.279513
+                  ]
+            },
+            {
+                  "name": "Kalnėnų III tvenkinys",
+                  "text": "A Mazeikiai melletti Kalnėnų III tvenkinys egy békés állóvíz a nyugodt szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.306005,
+                        56.305488
+                  ]
+            },
+            {
+                  "name": "Juodpelkio tv.",
+                  "text": "A Mazeikiai településen található Juodpelkio tv. kellemes környezetet biztosít a vízparti szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        22.35795,
+                        56.302108
+                  ]
+            },
+            {
+                  "name": "Laivai",
+                  "text": "A Mazeikiai városában található Laivai játszótér változatos lehetőséget kínál a gyerekeknek a szabadtéri játékra.",
+                  "category": "family",
+                  "coords": [
+                        22.332695,
+                        56.293355
+                  ]
+            },
+            {
+                  "name": "Šachmatai",
+                  "text": "A Mazeikiai településen lévő Šachmatai játszótér remek úti cél a kisgyermekes családok számára a városban.",
+                  "category": "family",
+                  "coords": [
+                        22.350909,
+                        56.315815
                   ]
             }
       ],
@@ -3522,6 +4224,105 @@ imageHint: "Marijampole city square and church",
                         22.340315,
                         56.31572
                   ]
+            },
+            {
+                  "name": "Tulnikių tv.",
+                  "text": "Tulnikių tv. din Mazeikiai oferă un cadru liniștit pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.329092,
+                        56.358461
+                  ]
+            },
+            {
+                  "name": "Kurmaičių II tv.",
+                  "text": "Kurmaičių II tv. din Mazeikiai este o destinație locală pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.253365,
+                        56.336073
+                  ]
+            },
+            {
+                  "name": "Kurmaičių I tv.",
+                  "text": "Kurmaičių I tv. din Mazeikiai invită la relaxare și petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.257595,
+                        56.335785
+                  ]
+            },
+            {
+                  "name": "Kalnėnų II tv.",
+                  "text": "Kalnėnų II tv. din Mazeikiai oferă un mediu pașnic pentru activități de agrement în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.303306,
+                        56.304495
+                  ]
+            },
+            {
+                  "name": "Stadiono tv.",
+                  "text": "Stadiono tv. din Mazeikiai este un luciu de apă ușor accesibil pentru excursii scurte.",
+                  "category": "natural",
+                  "coords": [
+                        22.34389,
+                        56.295495
+                  ]
+            },
+            {
+                  "name": "Kalnėnų I tv.",
+                  "text": "Kalnėnų I tv. din Mazeikiai invită la plimbări liniștite în împrejurimile imediate.",
+                  "category": "natural",
+                  "coords": [
+                        22.303994,
+                        56.302937
+                  ]
+            },
+            {
+                  "name": "Daubarių tv.",
+                  "text": "Daubarių tv. din Mazeikiai oferă o atmosferă naturală pentru cei care caută odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        22.297098,
+                        56.279513
+                  ]
+            },
+            {
+                  "name": "Kalnėnų III tvenkinys",
+                  "text": "Kalnėnų III tvenkinys din Mazeikiai este un luciu de apă liniștit pentru momente pașnice în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.306005,
+                        56.305488
+                  ]
+            },
+            {
+                  "name": "Juodpelkio tv.",
+                  "text": "Juodpelkio tv. din Mazeikiai oferă un cadru plăcut pentru petrecerea timpului liber pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.35795,
+                        56.302108
+                  ]
+            },
+            {
+                  "name": "Laivai",
+                  "text": "Locul de joacă Laivai din Mazeikiai oferă copiilor diverse oportunități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.332695,
+                        56.293355
+                  ]
+            },
+            {
+                  "name": "Šachmatai",
+                  "text": "Locul de joacă Šachmatai din Mazeikiai este o destinație frumoasă pentru familiile cu copii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        22.350909,
+                        56.315815
+                  ]
             }
       ],
       "en": [
@@ -3613,6 +4414,105 @@ imageHint: "Marijampole city square and church",
                   "coords": [
                         22.340315,
                         56.31572
+                  ]
+            },
+            {
+                  "name": "Tulnikių tv.",
+                  "text": "Tulnikių tv. in Mazeikiai offers a quiet backdrop for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.329092,
+                        56.358461
+                  ]
+            },
+            {
+                  "name": "Kurmaičių II tv.",
+                  "text": "Kurmaičių II tv. in Mazeikiai is a local destination for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.253365,
+                        56.336073
+                  ]
+            },
+            {
+                  "name": "Kurmaičių I tv.",
+                  "text": "Kurmaičių I tv. in Mazeikiai invites visitors to relax and spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.257595,
+                        56.335785
+                  ]
+            },
+            {
+                  "name": "Kalnėnų II tv.",
+                  "text": "Kalnėnų II tv. in Mazeikiai offers a peaceful environment for leisure activities in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.303306,
+                        56.304495
+                  ]
+            },
+            {
+                  "name": "Stadiono tv.",
+                  "text": "Stadiono tv. in Mazeikiai is an easily accessible body of water for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        22.34389,
+                        56.295495
+                  ]
+            },
+            {
+                  "name": "Kalnėnų I tv.",
+                  "text": "Kalnėnų I tv. in Mazeikiai invites visitors for quiet walks in the immediate surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        22.303994,
+                        56.302937
+                  ]
+            },
+            {
+                  "name": "Daubarių tv.",
+                  "text": "Daubarių tv. in Mazeikiai offers a natural atmosphere for those seeking recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.297098,
+                        56.279513
+                  ]
+            },
+            {
+                  "name": "Kalnėnų III tvenkinys",
+                  "text": "Kalnėnų III tvenkinys in Mazeikiai is a tranquil body of water for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        22.306005,
+                        56.305488
+                  ]
+            },
+            {
+                  "name": "Juodpelkio tv.",
+                  "text": "Juodpelkio tv. in Mazeikiai offers a pleasant backdrop for waterfront leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        22.35795,
+                        56.302108
+                  ]
+            },
+            {
+                  "name": "Laivai",
+                  "text": "The Laivai playground in Mazeikiai offers children varied opportunities for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        22.332695,
+                        56.293355
+                  ]
+            },
+            {
+                  "name": "Šachmatai",
+                  "text": "The Šachmatai playground in Mazeikiai is a nice destination for families with children in the city.",
+                  "category": "family",
+                  "coords": [
+                        22.350909,
+                        56.315815
                   ]
             }
       ]
@@ -3789,6 +4689,87 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                         24.263682,
                         55.099013
                   ]
+            },
+            {
+                  "name": "Bulotų ež.",
+                  "text": "Ein ruhiger See bei Jonava, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.29342,
+                        55.020165
+                  ]
+            },
+            {
+                  "name": "Joninių tvenkinys",
+                  "text": "Ein künstlicher See in Jonava, der eine angenehme Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.26749,
+                        55.079929
+                  ]
+            },
+            {
+                  "name": "Lokio tv.",
+                  "text": "Dieser Stausee in Jonava ist ein ruhiger Ort für Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        24.329601,
+                        55.09674
+                  ]
+            },
+            {
+                  "name": "Beržų tv.",
+                  "text": "Ein friedlicher See in Jonava, ideal für eine kleine Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        24.341121,
+                        55.110703
+                  ]
+            },
+            {
+                  "name": "Gulbių tvenkinys",
+                  "text": "Der Gulbių tvenkinys in Jonava lädt zu entspannten Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.26586,
+                        55.088552
+                  ]
+            },
+            {
+                  "name": "Gervių tvenkinys",
+                  "text": "Ein ruhiger See in Jonava, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.267709,
+                        55.091842
+                  ]
+            },
+            {
+                  "name": "Lakštingalų tvenkinys",
+                  "text": "Ein friedliches Gewässer in Jonava, perfekt für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        24.265959,
+                        55.084394
+                  ]
+            },
+            {
+                  "name": "Šveicarijos tv.",
+                  "text": "Ein malerischer See in Jonava, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.260598,
+                        55.039267
+                  ]
+            },
+            {
+                  "name": "Kunigiškių tv.",
+                  "text": "Ein ruhiger Stausee in Jonava, ideal für entspannende Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        24.290812,
+                        55.069512
+                  ]
             }
       ],
       "hu": [
@@ -3916,6 +4897,87 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                   "coords": [
                         24.263682,
                         55.099013
+                  ]
+            },
+            {
+                  "name": "Bulotų ež.",
+                  "text": "Egy nyugodt tó Jonava közelében, amely alkalmas természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.29342,
+                        55.020165
+                  ]
+            },
+            {
+                  "name": "Joninių tvenkinys",
+                  "text": "Egy mesterséges tó Jonavában, amely kellemes környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.26749,
+                        55.079929
+                  ]
+            },
+            {
+                  "name": "Lokio tv.",
+                  "text": "Ez a Jonavában található víztározó nyugodt hely a természet megéléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.329601,
+                        55.09674
+                  ]
+            },
+            {
+                  "name": "Beržų tv.",
+                  "text": "Egy békés tó Jonavában, amely ideális egy kis kikapcsolódáshoz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        24.341121,
+                        55.110703
+                  ]
+            },
+            {
+                  "name": "Gulbių tvenkinys",
+                  "text": "A jonavai Gulbių tvenkinys pihentető pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        24.26586,
+                        55.088552
+                  ]
+            },
+            {
+                  "name": "Gervių tvenkinys",
+                  "text": "Egy nyugodt tó Jonavában, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.267709,
+                        55.091842
+                  ]
+            },
+            {
+                  "name": "Lakštingalų tvenkinys",
+                  "text": "Egy békés vízfelület Jonavában, tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.265959,
+                        55.084394
+                  ]
+            },
+            {
+                  "name": "Šveicarijos tv.",
+                  "text": "Egy festői tó Jonavában, amely hívogat a természetben való időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        24.260598,
+                        55.039267
+                  ]
+            },
+            {
+                  "name": "Kunigiškių tv.",
+                  "text": "Egy nyugodt víztározó Jonavában, amely ideális pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.290812,
+                        55.069512
                   ]
             }
       ],
@@ -4045,6 +5107,87 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                         24.263682,
                         55.099013
                   ]
+            },
+            {
+                  "name": "Bulotų ež.",
+                  "text": "Un lac liniștit lângă Jonava, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.29342,
+                        55.020165
+                  ]
+            },
+            {
+                  "name": "Joninių tvenkinys",
+                  "text": "Un lac artificial în Jonava, care oferă un mediu plăcut pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        24.26749,
+                        55.079929
+                  ]
+            },
+            {
+                  "name": "Lokio tv.",
+                  "text": "Acest lac de acumulare din Jonava este un loc liniștit pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.329601,
+                        55.09674
+                  ]
+            },
+            {
+                  "name": "Beržų tv.",
+                  "text": "Un lac liniștit în Jonava, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.341121,
+                        55.110703
+                  ]
+            },
+            {
+                  "name": "Gulbių tvenkinys",
+                  "text": "Iazul Gulbių din Jonava vă invită la momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        24.26586,
+                        55.088552
+                  ]
+            },
+            {
+                  "name": "Gervių tvenkinys",
+                  "text": "Un lac liniștit în Jonava, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.267709,
+                        55.091842
+                  ]
+            },
+            {
+                  "name": "Lakštingalų tvenkinys",
+                  "text": "Un curs de apă liniștit în Jonava, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.265959,
+                        55.084394
+                  ]
+            },
+            {
+                  "name": "Šveicarijos tv.",
+                  "text": "Un lac pitoresc în Jonava, care vă invită să petreceți timp în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.260598,
+                        55.039267
+                  ]
+            },
+            {
+                  "name": "Kunigiškių tv.",
+                  "text": "Un lac de acumulare liniștit în Jonava, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        24.290812,
+                        55.069512
+                  ]
             }
       ],
       "en": [
@@ -4172,6 +5315,87 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                   "coords": [
                         24.263682,
                         55.099013
+                  ]
+            },
+            {
+                  "name": "Bulotų ež.",
+                  "text": "A calm lake near Jonava, suitable for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.29342,
+                        55.020165
+                  ]
+            },
+            {
+                  "name": "Joninių tvenkinys",
+                  "text": "An artificial lake in Jonava that offers a pleasant environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.26749,
+                        55.079929
+                  ]
+            },
+            {
+                  "name": "Lokio tv.",
+                  "text": "This reservoir in Jonava is a quiet place for nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        24.329601,
+                        55.09674
+                  ]
+            },
+            {
+                  "name": "Beržų tv.",
+                  "text": "A peaceful lake in Jonava, ideal for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        24.341121,
+                        55.110703
+                  ]
+            },
+            {
+                  "name": "Gulbių tvenkinys",
+                  "text": "The Gulbių pond in Jonava invites you to relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.26586,
+                        55.088552
+                  ]
+            },
+            {
+                  "name": "Gervių tvenkinys",
+                  "text": "A calm lake in Jonava, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.267709,
+                        55.091842
+                  ]
+            },
+            {
+                  "name": "Lakštingalų tvenkinys",
+                  "text": "A peaceful body of water in Jonava, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.265959,
+                        55.084394
+                  ]
+            },
+            {
+                  "name": "Šveicarijos tv.",
+                  "text": "A picturesque lake in Jonava that invites you to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.260598,
+                        55.039267
+                  ]
+            },
+            {
+                  "name": "Kunigiškių tv.",
+                  "text": "A calm reservoir in Jonava, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.290812,
+                        55.069512
                   ]
             }
       ]
@@ -4774,6 +5998,222 @@ imageHint: "Telsiai cathedral on the hill",
                         26.429027,
                         55.605395
                   ]
+            },
+            {
+                  "name": "Bagiškės ež.",
+                  "text": "Bagiškės ež. bei Visaginas bietet eine malerische Kulisse für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.488854,
+                        55.631647
+                  ]
+            },
+            {
+                  "name": "ež. Veikšinis",
+                  "text": "Der See Veikšinis in Visaginas ist ein friedlicher Ort für Erholungssuchende am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.44437,
+                        55.639077
+                  ]
+            },
+            {
+                  "name": "ež. Kemsinis",
+                  "text": "Der See Kemsinis bei Visaginas besticht durch seine naturbelassene Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        26.4722,
+                        55.626444
+                  ]
+            },
+            {
+                  "name": "ež. Pastovėlis",
+                  "text": "Der See Pastovėlis in Visaginas ist ein idyllisches Gewässer, ideal für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.440215,
+                        55.579789
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulinis",
+                  "text": "Der See Žiežulinis bei Visaginas lädt dazu ein, die Stille der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.37902,
+                        55.590415
+                  ]
+            },
+            {
+                  "name": "ež. Šatarinis",
+                  "text": "Der See Šatarinis in Visaginas bietet eine ruhige Umgebung für Momente der Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        26.385808,
+                        55.593471
+                  ]
+            },
+            {
+                  "name": "ež. Aklažeris",
+                  "text": "Der See Aklažeris bei Visaginas ist ein beschaulicher Ort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.382084,
+                        55.59465
+                  ]
+            },
+            {
+                  "name": "ež. Gilūtis",
+                  "text": "Der See Gilūtis in Visaginas ist ein schönes Ziel für Naturfreunde und Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        26.385169,
+                        55.598261
+                  ]
+            },
+            {
+                  "name": "ež. Baltasiai",
+                  "text": "Der See Baltasiai bei Visaginas besticht durch seine klare Atmosphäre und ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        26.396227,
+                        55.577265
+                  ]
+            },
+            {
+                  "name": "ež. Lauštinis",
+                  "text": "Der See Lauštinis in Visaginas bietet eine friedliche Kulisse für Beobachtungen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.456966,
+                        55.653947
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Der See Bevardis bei Visaginas lädt zu entspannten Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.445069,
+                        55.652016
+                  ]
+            },
+            {
+                  "name": "ež. Arklinis",
+                  "text": "Der See Arklinis in Visaginas ist ein ruhiges Naturgewässer für eine kleine Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        26.374272,
+                        55.628824
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas",
+                  "text": "Der See Laukesas bei Visaginas besticht durch seine Weite und die schöne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.379691,
+                        55.634324
+                  ]
+            },
+            {
+                  "name": "ež. Eglinis",
+                  "text": "Der See Eglinis in Visaginas ist ein idyllischer Ort für Naturerlebnisse am See.",
+                  "category": "natural",
+                  "coords": [
+                        26.409117,
+                        55.641691
+                  ]
+            },
+            {
+                  "name": "ež. Pievinis",
+                  "text": "Der See Pievinis bei Visaginas bietet eine friedliche Atmosphäre für Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        26.433753,
+                        55.627681
+                  ]
+            },
+            {
+                  "name": "ež. Karačiunka",
+                  "text": "Der See Karačiunka in Visaginas ist ein ruhiges Gewässer in schöner Naturlage.",
+                  "category": "natural",
+                  "coords": [
+                        26.383091,
+                        55.577353
+                  ]
+            },
+            {
+                  "name": "ež. Lapušiškė",
+                  "text": "Der See Lapušiškė bei Visaginas lädt dazu ein, die Seele am Wasser baumeln zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        26.408849,
+                        55.566117
+                  ]
+            },
+            {
+                  "name": "ež. Kiaulinėlis",
+                  "text": "Der See Kiaulinėlis in Visaginas ist ein beschaulicher Ort für kleine Entdeckungen im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        26.392727,
+                        55.574857
+                  ]
+            },
+            {
+                  "name": "ež. Gyvatynas",
+                  "text": "Der See Gyvatynas bei Visaginas bietet eine naturnahe Kulisse für Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        26.357696,
+                        55.591713
+                  ]
+            },
+            {
+                  "name": "ež. Bimbirinis",
+                  "text": "Der See Bimbirinis in Visaginas ist ein ruhiges Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.373801,
+                        55.555614
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinė",
+                  "text": "Der See Dėlinė bei Visaginas ist ein idyllisches Ziel für einen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.381248,
+                        55.63828
+                  ]
+            },
+            {
+                  "name": "ež. Skaidrys",
+                  "text": "Der See Skaidrys in Visaginas besticht durch seine friedliche Lage am Waldrand.",
+                  "category": "natural",
+                  "coords": [
+                        26.355443,
+                        55.597728
+                  ]
+            },
+            {
+                  "name": "ež. Trilypis",
+                  "text": "Der See Trilypis bei Visaginas lädt zu entspannten Momenten in ruhiger Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.371039,
+                        55.596267
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Der See Lukštinis in Visaginas bietet eine schöne Szenerie für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.473782,
+                        55.630263
+                  ]
             }
       ],
       "hu": [
@@ -4820,6 +6260,222 @@ imageHint: "Telsiai cathedral on the hill",
                   "coords": [
                         26.429027,
                         55.605395
+                  ]
+            },
+            {
+                  "name": "Bagiškės ež.",
+                  "text": "A Visaginas közeli Bagiškės ež. festői környezetet biztosít egy természetjáró kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.488854,
+                        55.631647
+                  ]
+            },
+            {
+                  "name": "ež. Veikšinis",
+                  "text": "A Visaginas-i Veikšinis tó békés hely a vízparti pihenésre vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        26.44437,
+                        55.639077
+                  ]
+            },
+            {
+                  "name": "ež. Kemsinis",
+                  "text": "A Visaginas környéki Kemsinis tó érintetlen szépségével bűvöli el a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.4722,
+                        55.626444
+                  ]
+            },
+            {
+                  "name": "ež. Pastovėlis",
+                  "text": "A Visaginasban fekvő Pastovėlis tó egy idilli vízfelület, amely ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.440215,
+                        55.579789
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulinis",
+                  "text": "A Visaginas közeli Žiežulinis tó hívogató hely a természet csendjének élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.37902,
+                        55.590415
+                  ]
+            },
+            {
+                  "name": "ež. Šatarinis",
+                  "text": "A Visaginas-i Šatarinis tó nyugodt környezetet biztosít a kikapcsolódás pillanataihoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.385808,
+                        55.593471
+                  ]
+            },
+            {
+                  "name": "ež. Aklažeris",
+                  "text": "A Visaginas környéki Aklažeris tó egy csendes hely a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        26.382084,
+                        55.59465
+                  ]
+            },
+            {
+                  "name": "ež. Gilūtis",
+                  "text": "A Visaginas-ban található Gilūtis tó szép célpont a természetbarátok és pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        26.385169,
+                        55.598261
+                  ]
+            },
+            {
+                  "name": "ež. Baltasiai",
+                  "text": "A Visaginas közeli Baltasiai tó tiszta légkörével és nyugodt fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        26.396227,
+                        55.577265
+                  ]
+            },
+            {
+                  "name": "ež. Lauštinis",
+                  "text": "A Visaginas-i Lauštinis tó békés környezetet kínál a szabadtéri megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.456966,
+                        55.653947
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A Visaginas környékén lévő Bevardis tó pihentető vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        26.445069,
+                        55.652016
+                  ]
+            },
+            {
+                  "name": "ež. Arklinis",
+                  "text": "A Visaginas-i Arklinis tó egy csendes természetes vízfelület egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        26.374272,
+                        55.628824
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas",
+                  "text": "A Visaginas közeli Laukesas tó tágasságával és szép tájával vonzza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.379691,
+                        55.634324
+                  ]
+            },
+            {
+                  "name": "ež. Eglinis",
+                  "text": "A Visaginas-ban fekvő Eglinis tó idilli hely a tóparti természetélményekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.409117,
+                        55.641691
+                  ]
+            },
+            {
+                  "name": "ež. Pievinis",
+                  "text": "A Visaginas környéki Pievinis tó békés légkört biztosít a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.433753,
+                        55.627681
+                  ]
+            },
+            {
+                  "name": "ež. Karačiunka",
+                  "text": "A Visaginas-i Karačiunka tó egy csendes állóvíz, szép természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.383091,
+                        55.577353
+                  ]
+            },
+            {
+                  "name": "ež. Lapušiškė",
+                  "text": "A Visaginas közeli Lapušiškė tó hívogató hely a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.408849,
+                        55.566117
+                  ]
+            },
+            {
+                  "name": "ež. Kiaulinėlis",
+                  "text": "A Visaginas-ban található Kiaulinėlis tó csendes hely a természetközeli felfedezésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.392727,
+                        55.574857
+                  ]
+            },
+            {
+                  "name": "ež. Gyvatynas",
+                  "text": "A Visaginas környéki Gyvatynas tó természethű környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.357696,
+                        55.591713
+                  ]
+            },
+            {
+                  "name": "ež. Bimbirinis",
+                  "text": "A Visaginas-i Bimbirinis tó egy nyugodt vízfelület, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        26.373801,
+                        55.555614
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinė",
+                  "text": "A Visaginas közeli Dėlinė tó idilli úti cél egy természetjáró sétához.",
+                  "category": "natural",
+                  "coords": [
+                        26.381248,
+                        55.63828
+                  ]
+            },
+            {
+                  "name": "ež. Skaidrys",
+                  "text": "A Visaginas-ban fekvő Skaidrys tó az erdő szélén elterülő békés fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        26.355443,
+                        55.597728
+                  ]
+            },
+            {
+                  "name": "ež. Trilypis",
+                  "text": "A Visaginas környékén található Trilypis tó pihentető pillanatokra hív nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.371039,
+                        55.596267
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "A Visaginas-i Lukštinis tó szép látványt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.473782,
+                        55.630263
                   ]
             }
       ],
@@ -4868,6 +6524,222 @@ imageHint: "Telsiai cathedral on the hill",
                         26.429027,
                         55.605395
                   ]
+            },
+            {
+                  "name": "Bagiškės ež.",
+                  "text": "Bagiškės ež. de lângă Visaginas oferă un cadru pitoresc pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.488854,
+                        55.631647
+                  ]
+            },
+            {
+                  "name": "ež. Veikšinis",
+                  "text": "Lacul Veikšinis din Visaginas este un loc pașnic pentru cei care caută relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.44437,
+                        55.639077
+                  ]
+            },
+            {
+                  "name": "ež. Kemsinis",
+                  "text": "Lacul Kemsinis de lângă Visaginas impresionează prin frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        26.4722,
+                        55.626444
+                  ]
+            },
+            {
+                  "name": "ež. Pastovėlis",
+                  "text": "Lacul Pastovėlis din Visaginas este un luciu de apă idilic, ideal pentru scurte plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.440215,
+                        55.579789
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulinis",
+                  "text": "Lacul Žiežulinis de lângă Visaginas invită la savurarea liniștii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.37902,
+                        55.590415
+                  ]
+            },
+            {
+                  "name": "ež. Šatarinis",
+                  "text": "Lacul Šatarinis din Visaginas oferă un mediu liniștit pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.385808,
+                        55.593471
+                  ]
+            },
+            {
+                  "name": "ež. Aklažeris",
+                  "text": "Lacul Aklažeris de lângă Visaginas este un loc liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.382084,
+                        55.59465
+                  ]
+            },
+            {
+                  "name": "ež. Gilūtis",
+                  "text": "Lacul Gilūtis din Visaginas este o destinație frumoasă pentru iubitorii de natură și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        26.385169,
+                        55.598261
+                  ]
+            },
+            {
+                  "name": "ež. Baltasiai",
+                  "text": "Lacul Baltasiai de lângă Visaginas impresionează prin atmosfera sa clară și locația liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        26.396227,
+                        55.577265
+                  ]
+            },
+            {
+                  "name": "ež. Lauštinis",
+                  "text": "Lacul Lauštinis din Visaginas oferă un cadru pașnic pentru observări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.456966,
+                        55.653947
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Lacul Bevardis de lângă Visaginas invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.445069,
+                        55.652016
+                  ]
+            },
+            {
+                  "name": "ež. Arklinis",
+                  "text": "Lacul Arklinis din Visaginas este un luciu de apă natural și liniștit pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        26.374272,
+                        55.628824
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas",
+                  "text": "Lacul Laukesas de lângă Visaginas impresionează prin întinderea sa și peisajul frumos.",
+                  "category": "natural",
+                  "coords": [
+                        26.379691,
+                        55.634324
+                  ]
+            },
+            {
+                  "name": "ež. Eglinis",
+                  "text": "Lacul Eglinis din Visaginas este un loc idilic pentru experiențe în natură pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        26.409117,
+                        55.641691
+                  ]
+            },
+            {
+                  "name": "ež. Pievinis",
+                  "text": "Lacul Pievinis de lângă Visaginas oferă o atmosferă pașnică pentru cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        26.433753,
+                        55.627681
+                  ]
+            },
+            {
+                  "name": "ež. Karačiunka",
+                  "text": "Lacul Karačiunka din Visaginas este un luciu de apă liniștit într-un cadru natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        26.383091,
+                        55.577353
+                  ]
+            },
+            {
+                  "name": "ež. Lapušiškė",
+                  "text": "Lacul Lapušiškė de lângă Visaginas invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.408849,
+                        55.566117
+                  ]
+            },
+            {
+                  "name": "ež. Kiaulinėlis",
+                  "text": "Lacul Kiaulinėlis din Visaginas este un loc liniștit pentru mici descoperiri în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.392727,
+                        55.574857
+                  ]
+            },
+            {
+                  "name": "ež. Gyvatynas",
+                  "text": "Lacul Gyvatynas de lângă Visaginas oferă un cadru natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.357696,
+                        55.591713
+                  ]
+            },
+            {
+                  "name": "ež. Bimbirinis",
+                  "text": "Lacul Bimbirinis din Visaginas este un luciu de apă liniștit, ce invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.373801,
+                        55.555614
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinė",
+                  "text": "Lacul Dėlinė de lângă Visaginas este o destinație idilică pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.381248,
+                        55.63828
+                  ]
+            },
+            {
+                  "name": "ež. Skaidrys",
+                  "text": "Lacul Skaidrys din Visaginas impresionează prin locația sa pașnică la marginea pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        26.355443,
+                        55.597728
+                  ]
+            },
+            {
+                  "name": "ež. Trilypis",
+                  "text": "Lacul Trilypis de lângă Visaginas invită la momente de relaxare într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.371039,
+                        55.596267
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lacul Lukštinis din Visaginas oferă un peisaj frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.473782,
+                        55.630263
+                  ]
             }
       ],
       "en": [
@@ -4914,6 +6786,222 @@ imageHint: "Telsiai cathedral on the hill",
                   "coords": [
                         26.429027,
                         55.605395
+                  ]
+            },
+            {
+                  "name": "Bagiškės ež.",
+                  "text": "Bagiškės ež. near Visaginas provides a scenic backdrop for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.488854,
+                        55.631647
+                  ]
+            },
+            {
+                  "name": "ež. Veikšinis",
+                  "text": "Veikšinis lake in Visaginas is a peaceful spot for those seeking relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.44437,
+                        55.639077
+                  ]
+            },
+            {
+                  "name": "ež. Kemsinis",
+                  "text": "Kemsinis lake near Visaginas stands out with its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        26.4722,
+                        55.626444
+                  ]
+            },
+            {
+                  "name": "ež. Pastovėlis",
+                  "text": "Pastovėlis lake in Visaginas is an idyllic body of water, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.440215,
+                        55.579789
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulinis",
+                  "text": "Žiežulinis lake near Visaginas invites you to enjoy the silence of nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.37902,
+                        55.590415
+                  ]
+            },
+            {
+                  "name": "ež. Šatarinis",
+                  "text": "Šatarinis lake in Visaginas offers a quiet environment for moments of relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.385808,
+                        55.593471
+                  ]
+            },
+            {
+                  "name": "ež. Aklažeris",
+                  "text": "Aklažeris lake near Visaginas is a tranquil spot in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.382084,
+                        55.59465
+                  ]
+            },
+            {
+                  "name": "ež. Gilūtis",
+                  "text": "Gilūtis lake in Visaginas is a lovely destination for nature lovers and peace seekers.",
+                  "category": "natural",
+                  "coords": [
+                        26.385169,
+                        55.598261
+                  ]
+            },
+            {
+                  "name": "ež. Baltasiai",
+                  "text": "Baltasiai lake near Visaginas stands out with its clear atmosphere and quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        26.396227,
+                        55.577265
+                  ]
+            },
+            {
+                  "name": "ež. Lauštinis",
+                  "text": "Lauštinis lake in Visaginas offers a peaceful setting for outdoor observations.",
+                  "category": "natural",
+                  "coords": [
+                        26.456966,
+                        55.653947
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Bevardis lake near Visaginas invites for relaxed walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.445069,
+                        55.652016
+                  ]
+            },
+            {
+                  "name": "ež. Arklinis",
+                  "text": "Arklinis lake in Visaginas is a quiet natural body of water for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        26.374272,
+                        55.628824
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas",
+                  "text": "Laukesas lake near Visaginas impresses with its expanse and beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.379691,
+                        55.634324
+                  ]
+            },
+            {
+                  "name": "ež. Eglinis",
+                  "text": "Eglinis lake in Visaginas is an idyllic spot for nature experiences by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        26.409117,
+                        55.641691
+                  ]
+            },
+            {
+                  "name": "ež. Pievinis",
+                  "text": "Pievinis lake near Visaginas offers a peaceful atmosphere for those seeking quiet.",
+                  "category": "natural",
+                  "coords": [
+                        26.433753,
+                        55.627681
+                  ]
+            },
+            {
+                  "name": "ež. Karačiunka",
+                  "text": "Karačiunka lake in Visaginas is a quiet body of water in a beautiful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.383091,
+                        55.577353
+                  ]
+            },
+            {
+                  "name": "ež. Lapušiškė",
+                  "text": "Lapušiškė lake near Visaginas invites you to unwind by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.408849,
+                        55.566117
+                  ]
+            },
+            {
+                  "name": "ež. Kiaulinėlis",
+                  "text": "Kiaulinėlis lake in Visaginas is a tranquil spot for small discoveries in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.392727,
+                        55.574857
+                  ]
+            },
+            {
+                  "name": "ež. Gyvatynas",
+                  "text": "Gyvatynas lake near Visaginas offers a natural backdrop for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.357696,
+                        55.591713
+                  ]
+            },
+            {
+                  "name": "ež. Bimbirinis",
+                  "text": "Bimbirinis lake in Visaginas is a quiet body of water, inviting for lingering.",
+                  "category": "natural",
+                  "coords": [
+                        26.373801,
+                        55.555614
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinė",
+                  "text": "Dėlinė lake near Visaginas is an idyllic destination for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.381248,
+                        55.63828
+                  ]
+            },
+            {
+                  "name": "ež. Skaidrys",
+                  "text": "Skaidrys lake in Visaginas stands out with its peaceful location at the edge of the forest.",
+                  "category": "natural",
+                  "coords": [
+                        26.355443,
+                        55.597728
+                  ]
+            },
+            {
+                  "name": "ež. Trilypis",
+                  "text": "Trilypis lake near Visaginas invites for relaxed moments in quiet surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.371039,
+                        55.596267
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lukštinis lake in Visaginas offers a lovely scenery for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        26.473782,
+                        55.630263
                   ]
             }
       ]
@@ -5072,6 +7160,114 @@ imageHint: "Visaginas modern apartment buildings in forest",
                         22.284273,
                         55.249103
                   ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. in Taurage bietet eine entspannte Umgebung für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. in Taurage ist ein ruhiges Gewässer, das zum Verweilen und zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Ein ruhig gelegener See in Tauragė, der zu entspannten Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Dieser See in Tauragė bietet eine malerische Kulisse für Erholungssuchende und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "Ein natürliches Gewässer in Tauragė, ideal für eine kurze Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Ein friedlicher See in Tauragė, der sich hervorragend für die Beobachtung der lokalen Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Genießen Sie die ruhige Atmosphäre an diesem See in Tauragė bei einem gemütlichen Aufenthalt.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Ein schöner See in Tauragė, der eine ruhige Umgebung für Naturbetrachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "Ein ruhiges Gewässer in Tauragė, ideal für einen erholsamen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Dieser See in Tauragė lädt dazu ein, die friedliche Natur und die frische Luft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Ein beschaulicher See in Tauragė, der einen schönen Anblick für Vorbeikommende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Ein lokaler See in Tauragė, der sich gut für eine kleine Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
             }
       ],
       "hu": [
@@ -5181,6 +7377,114 @@ imageHint: "Visaginas modern apartment buildings in forest",
                   "coords": [
                         22.284273,
                         55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "A Taurage területén fekvő Bagdono tv. pihentető környezetet kínál a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "A Taurage városában található Zumpės tv. egy nyugodt állóvíz, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Egy csendes tó Tauragė területén, amely kellemes sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Ez a tó Tauragė területén festői környezetet kínál a pihenni vágyóknak és a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "Egy természetes vízfelület Tauragė területén, amely ideális egy rövid pihenőhöz a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Egy békés tó Tauragė területén, amely kiválóan alkalmas a helyi táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Élvezze a nyugodt légkört ennél a tónál Tauragė területén egy kellemes időtöltés során.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Egy szép tó Tauragė területén, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "Egy nyugodt vízfelület Tauragė területén, amely ideális egy pihentető sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Ez a tó Tauragė területén arra hív, hogy élvezze a békés természetet és a friss levegőt.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Egy nyugodt tó Tauragė területén, amely szép látványt nyújt az arra járóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Egy helyi tó Tauragė területén, amely jól megfelel egy kis pihenőnek a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
                   ]
             }
       ],
@@ -5292,6 +7596,114 @@ imageHint: "Visaginas modern apartment buildings in forest",
                         22.284273,
                         55.249103
                   ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. din Taurage oferă un mediu relaxant pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. din Taurage este un luciu de apă liniștit care invită la relaxare și odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Un lac liniștit în Tauragė, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Acest lac din Tauragė oferă un cadru pitoresc pentru relaxare și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "O oglindă de apă naturală în Tauragė, ideală pentru o scurtă pauză pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Un lac liniștit în Tauragė, excelent pentru observarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Bucurați-vă de atmosfera calmă de la acest lac din Tauragė în timpul unei șederi plăcute.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Un lac frumos în Tauragė, care oferă un mediu liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "O apă liniștită în Tauragė, ideală pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Acest lac din Tauragė vă invită să vă bucurați de natura liniștită și de aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Un lac liniștit în Tauragė, care oferă o priveliște frumoasă pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Un lac local în Tauragė, potrivit pentru o mică pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
             }
       ],
       "en": [
@@ -5401,6 +7813,114 @@ imageHint: "Visaginas modern apartment buildings in forest",
                   "coords": [
                         22.284273,
                         55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. in Taurage offers a relaxing environment for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. in Taurage is a quiet body of water inviting visitors to stay and relax.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "A peaceful lake in Tauragė, perfect for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "This lake in Tauragė offers a scenic setting for relaxation and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "A natural body of water in Tauragė, ideal for a short break by the lakeside.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "A peaceful lake in Tauragė, excellent for observing the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Enjoy the quiet atmosphere at this lake in Tauragė during a pleasant stay.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "A beautiful lake in Tauragė, providing a calm environment for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "A quiet body of water in Tauragė, ideal for a restful walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "This lake in Tauragė invites you to enjoy the peaceful nature and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "A tranquil lake in Tauragė, offering a pleasant sight for those passing by.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "A local lake in Tauragė, well-suited for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
                   ]
             }
       ]
@@ -6967,6 +9487,33 @@ imageHint: "Silute old post office and canal",
                         23.542582,
                         55.80638
                   ]
+            },
+            {
+                  "name": "Radviliškio tv.",
+                  "text": "Radviliškio tv. in Radviliskis ist ein lokaler Stausee, der zum Entspannen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.493929,
+                        55.804127
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Arimaičių ež. bei Radviliskis ist ein schönes Gewässer für ruhige Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Eibariškių tvenkinys",
+                  "text": "Eibariškių tvenkinys in Radviliskis bietet eine friedliche Atmosphäre für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        23.536774,
+                        55.821994
+                  ]
             }
       ],
       "hu": [
@@ -7040,6 +9587,33 @@ imageHint: "Silute old post office and canal",
                   "coords": [
                         23.542582,
                         55.80638
+                  ]
+            },
+            {
+                  "name": "Radviliškio tv.",
+                  "text": "A Radviliskisben található Radviliškio tv. egy helyi víztározó, amely szabadtéri pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.493929,
+                        55.804127
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "A Radviliskis közeli Arimaičių ež. szép vízfelület a nyugodt természetélményekhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Eibariškių tvenkinys",
+                  "text": "A Radviliskis-i Eibariškių tvenkinys békés légkört biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.536774,
+                        55.821994
                   ]
             }
       ],
@@ -7115,6 +9689,33 @@ imageHint: "Silute old post office and canal",
                         23.542582,
                         55.80638
                   ]
+            },
+            {
+                  "name": "Radviliškio tv.",
+                  "text": "Radviliškio tv. din Radviliskis este un lac de acumulare local, ce invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.493929,
+                        55.804127
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Arimaičių ež. de lângă Radviliskis este un luciu de apă frumos pentru experiențe liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Eibariškių tvenkinys",
+                  "text": "Eibariškių tvenkinys din Radviliskis oferă o atmosferă pașnică pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.536774,
+                        55.821994
+                  ]
             }
       ],
       "en": [
@@ -7188,6 +9789,33 @@ imageHint: "Silute old post office and canal",
                   "coords": [
                         23.542582,
                         55.80638
+                  ]
+            },
+            {
+                  "name": "Radviliškio tv.",
+                  "text": "Radviliškio tv. in Radviliskis is a local reservoir, inviting for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.493929,
+                        55.804127
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Arimaičių ež. near Radviliskis is a lovely body of water for peaceful nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Eibariškių tvenkinys",
+                  "text": "Eibariškių tvenkinys in Radviliskis offers a peaceful atmosphere for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.536774,
+                        55.821994
                   ]
             }
       ]
@@ -7481,6 +10109,51 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.078953,
                         55.932571
                   ]
+            },
+            {
+                  "name": "Kvecų tv.",
+                  "text": "Ein ruhiger See in Palanga, der eine angenehme Abwechslung zur Meeresküste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.195086,
+                        55.911866
+                  ]
+            },
+            {
+                  "name": "Anaičių ež.",
+                  "text": "Ein schönes Ausflugsziel in Palanga für alle, die die Stille am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        21.080984,
+                        55.87019
+                  ]
+            },
+            {
+                  "name": "Rūdaičių tv.",
+                  "text": "Ein friedliches Gewässer in Palanga, ideal für entspannte Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.179202,
+                        55.940925
+                  ]
+            },
+            {
+                  "name": "Kakės makės atrakcionai",
+                  "text": "Ein farbenfroher Spielbereich in Palanga, der Kindern vielfältige Möglichkeiten zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.064373,
+                        55.914883
+                  ]
+            },
+            {
+                  "name": "Batutų parkas",
+                  "text": "Ein dynamischer Trampolinpark in Palanga, der Spaß und Bewegung für die ganze Familie garantiert.",
+                  "category": "family",
+                  "coords": [
+                        21.054265,
+                        55.918808
+                  ]
             }
       ],
       "hu": [
@@ -7725,6 +10398,51 @@ imageHint: "Radviliskis railway station and locomotive",
                   "coords": [
                         21.078953,
                         55.932571
+                  ]
+            },
+            {
+                  "name": "Kvecų tv.",
+                  "text": "Egy nyugodt tó Palanga területén, amely kellemes változatosságot kínál a tengerparthoz képest.",
+                  "category": "natural",
+                  "coords": [
+                        21.195086,
+                        55.911866
+                  ]
+            },
+            {
+                  "name": "Anaičių ež.",
+                  "text": "Egy szép kirándulóhely Palanga területén mindazoknak, akik a vízparti csendet keresik.",
+                  "category": "natural",
+                  "coords": [
+                        21.080984,
+                        55.87019
+                  ]
+            },
+            {
+                  "name": "Rūdaičių tv.",
+                  "text": "Egy békés vízfelület Palanga területén, amely ideális a természetben töltött nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.179202,
+                        55.940925
+                  ]
+            },
+            {
+                  "name": "Kakės makės atrakcionai",
+                  "text": "Egy színes játszóhely Palanga területén, amely sokféle lehetőséget kínál a gyerekeknek a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        21.064373,
+                        55.914883
+                  ]
+            },
+            {
+                  "name": "Batutų parkas",
+                  "text": "Egy dinamikus batutu park Palanga területén, amely garantált szórakozást és mozgást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        21.054265,
+                        55.918808
                   ]
             }
       ],
@@ -7971,6 +10689,51 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.078953,
                         55.932571
                   ]
+            },
+            {
+                  "name": "Kvecų tv.",
+                  "text": "Un lac liniștit în Palanga, care oferă o alternativă plăcută la malul mării.",
+                  "category": "natural",
+                  "coords": [
+                        21.195086,
+                        55.911866
+                  ]
+            },
+            {
+                  "name": "Anaičių ež.",
+                  "text": "O destinație frumoasă în Palanga pentru cei care caută liniștea de pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.080984,
+                        55.87019
+                  ]
+            },
+            {
+                  "name": "Rūdaičių tv.",
+                  "text": "O apă liniștită în Palanga, ideală pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.179202,
+                        55.940925
+                  ]
+            },
+            {
+                  "name": "Kakės makės atrakcionai",
+                  "text": "Un spațiu de joacă colorat în Palanga, care oferă copiilor numeroase posibilități de distracție.",
+                  "category": "family",
+                  "coords": [
+                        21.064373,
+                        55.914883
+                  ]
+            },
+            {
+                  "name": "Batutų parkas",
+                  "text": "Un parc de trambuline dinamic în Palanga, care garantează distracție și mișcare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.054265,
+                        55.918808
+                  ]
             }
       ],
       "en": [
@@ -8216,6 +10979,51 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.078953,
                         55.932571
                   ]
+            },
+            {
+                  "name": "Kvecų tv.",
+                  "text": "A calm lake in Palanga, offering a pleasant change of pace from the seaside.",
+                  "category": "natural",
+                  "coords": [
+                        21.195086,
+                        55.911866
+                  ]
+            },
+            {
+                  "name": "Anaičių ež.",
+                  "text": "A lovely destination in Palanga for those seeking silence by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.080984,
+                        55.87019
+                  ]
+            },
+            {
+                  "name": "Rūdaičių tv.",
+                  "text": "A peaceful body of water in Palanga, ideal for relaxed moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.179202,
+                        55.940925
+                  ]
+            },
+            {
+                  "name": "Kakės makės atrakcionai",
+                  "text": "A colorful play area in Palanga offering children various opportunities for active fun.",
+                  "category": "family",
+                  "coords": [
+                        21.064373,
+                        55.914883
+                  ]
+            },
+            {
+                  "name": "Batutų parkas",
+                  "text": "A dynamic trampoline park in Palanga guaranteeing fun and exercise for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.054265,
+                        55.918808
+                  ]
             }
       ]
 },
@@ -8310,6 +11118,60 @@ imageHint: "Palanga beach and sea pier at sunset",
                         21.402062,
                         55.710748
                   ]
+            },
+            {
+                  "name": "Dovilų II karjeras",
+                  "text": "Ein klarer See bei Gargzdai, der sich gut für die Freizeitgestaltung im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.373216,
+                        55.688327
+                  ]
+            },
+            {
+                  "name": "Gargždų karjeras",
+                  "text": "Ein beliebtes Gewässer in Gargzdai für Erholungssuchende und Naturbegeisterte.",
+                  "category": "natural",
+                  "coords": [
+                        21.368827,
+                        55.693122
+                  ]
+            },
+            {
+                  "name": "Dovilų I karjeras",
+                  "text": "Ein ruhiger See in der Nähe von Gargzdai, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        21.374876,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Greičiūnų tv.",
+                  "text": "Ein friedlicher Stausee in Gargzdai, der eine schöne Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.473979,
+                        55.781439
+                  ]
+            },
+            {
+                  "name": "Vėžaičių tv.",
+                  "text": "Ein ruhiges Gewässer in Gargzdai, perfekt für einen entspannten Tag im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        21.485483,
+                        55.712455
+                  ]
+            },
+            {
+                  "name": "Kūlverstukų šalis",
+                  "text": "Ein abwechslungsreicher Spielplatz in Gargzdai für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.379175,
+                        55.717293
+                  ]
             }
       ],
       "hu": [
@@ -8356,6 +11218,60 @@ imageHint: "Palanga beach and sea pier at sunset",
                   "coords": [
                         21.402062,
                         55.710748
+                  ]
+            },
+            {
+                  "name": "Dovilų II karjeras",
+                  "text": "Egy tiszta tó Gargzdai közelében, amely alkalmas szabadtéri szabadidős tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        21.373216,
+                        55.688327
+                  ]
+            },
+            {
+                  "name": "Gargždų karjeras",
+                  "text": "Egy népszerű vízfelület Gargzdaiban a pihenni vágyók és a természet kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.368827,
+                        55.693122
+                  ]
+            },
+            {
+                  "name": "Dovilų I karjeras",
+                  "text": "Egy nyugodt tó Gargzdai közelében, amely ideális természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        21.374876,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Greičiūnų tv.",
+                  "text": "Egy békés víztározó Gargzdaiban, amely szép hátteret biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        21.473979,
+                        55.781439
+                  ]
+            },
+            {
+                  "name": "Vėžaičių tv.",
+                  "text": "Egy nyugodt vízfelület Gargzdaiban, tökéletes egy pihentető naphoz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        21.485483,
+                        55.712455
+                  ]
+            },
+            {
+                  "name": "Kūlverstukų šalis",
+                  "text": "Egy változatos játszótér Gargzdaiban gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.379175,
+                        55.717293
                   ]
             }
       ],
@@ -8404,6 +11320,60 @@ imageHint: "Palanga beach and sea pier at sunset",
                         21.402062,
                         55.710748
                   ]
+            },
+            {
+                  "name": "Dovilų II karjeras",
+                  "text": "Un lac limpede lângă Gargzdai, potrivit pentru activități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.373216,
+                        55.688327
+                  ]
+            },
+            {
+                  "name": "Gargždų karjeras",
+                  "text": "O zonă cu apă populară în Gargzdai pentru relaxare și pasionații de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.368827,
+                        55.693122
+                  ]
+            },
+            {
+                  "name": "Dovilų I karjeras",
+                  "text": "Un lac liniștit lângă Gargzdai, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.374876,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Greičiūnų tv.",
+                  "text": "Un lac de acumulare liniștit în Gargzdai, care oferă un cadru frumos.",
+                  "category": "natural",
+                  "coords": [
+                        21.473979,
+                        55.781439
+                  ]
+            },
+            {
+                  "name": "Vėžaičių tv.",
+                  "text": "Un curs de apă liniștit în Gargzdai, perfect pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.485483,
+                        55.712455
+                  ]
+            },
+            {
+                  "name": "Kūlverstukų šalis",
+                  "text": "Un loc de joacă variat în Gargzdai pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        21.379175,
+                        55.717293
+                  ]
             }
       ],
       "en": [
@@ -8450,6 +11420,60 @@ imageHint: "Palanga beach and sea pier at sunset",
                   "coords": [
                         21.402062,
                         55.710748
+                  ]
+            },
+            {
+                  "name": "Dovilų II karjeras",
+                  "text": "A clear lake near Gargzdai, suitable for outdoor recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        21.373216,
+                        55.688327
+                  ]
+            },
+            {
+                  "name": "Gargždų karjeras",
+                  "text": "A popular body of water in Gargzdai for those seeking relaxation and nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        21.368827,
+                        55.693122
+                  ]
+            },
+            {
+                  "name": "Dovilų I karjeras",
+                  "text": "A calm lake near Gargzdai, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.374876,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Greičiūnų tv.",
+                  "text": "A peaceful reservoir in Gargzdai that provides a beautiful backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        21.473979,
+                        55.781439
+                  ]
+            },
+            {
+                  "name": "Vėžaičių tv.",
+                  "text": "A calm body of water in Gargzdai, perfect for a relaxed day in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        21.485483,
+                        55.712455
+                  ]
+            },
+            {
+                  "name": "Kūlverstukų šalis",
+                  "text": "A varied playground in Gargzdai for children and families.",
+                  "category": "family",
+                  "coords": [
+                        21.379175,
+                        55.717293
                   ]
             }
       ]
@@ -8662,6 +11686,231 @@ imageHint: "Gargzdai city center and park",
                         23.976565,
                         54.024384
                   ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Girininkijos tv. in Druskininkai ist ein idyllischer Stausee inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Der See Gervinis bei Druskininkai lädt zu entspannten Stunden am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Der See Azagis ist ein ruhiges Gewässer in Druskininkai, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Der See Mergelių Akys bietet eine malerische Kulisse für Spaziergänge in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Der See Juodelis ist ein kleiner Naturschatz in der Nähe von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Genießen Sie die friedliche Atmosphäre am See Klonis in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Der See Kruglis ist ein ruhiges Ausflugsziel in der Region Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Der See Ončiuškis lädt zu entspannten Momenten in der Natur von Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Der See Juodaitis ist ein malerisches Gewässer in der Umgebung von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Der See Varlinis bietet eine friedliche Umgebung für Erholungssuchende in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Der See Grūtas ist ein bekanntes Gewässer in Druskininkai, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "Das Baltosios Ančios Reservoir ist ein beeindruckendes Gewässer in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Der See Ilgis zeichnet sich durch seine ruhige Lage in Druskininkai aus.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "Das Neravų Reservoir bietet eine friedliche Kulisse für Naturbeobachtungen in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Das Alkos I Reservoir ist ein lokaler Ort der Ruhe in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Das Alkos II Reservoir lädt zu einem entspannten Aufenthalt im Freien in Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Der See Baltajis Bilsas ist ein idyllisches Gewässer in der Nähe von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Der See Juodiškis bietet eine stille Umgebung für einen Ausflug in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Der See Pamelnyčys ist ein ruhiger Ort, um die Natur in Druskininkai zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Der See Vidutinis ist ein malerischer Punkt in der Wasserlandschaft von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Der See Skirzaitis lädt zu ruhigen Spaziergängen am Ufer in Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Der See Skirzius ist ein friedliches Naturobjekt in der Region Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Der See Ilgelis bietet eine entspannende Aussicht in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Der See Maželis ist ein ruhiger kleiner See in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "Das Vijūnėlės Reservoir ist ein beliebter Ort für Freizeitaktivitäten in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
             }
       ],
       "hu": [
@@ -8825,6 +12074,231 @@ imageHint: "Gargzdai city center and park",
                   "coords": [
                         23.976565,
                         54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "A Druskininkai-ban található Girininkijos tv. egy idilli víztározó a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "A Druskininkai környéki Gervinis tó pihentető órákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Az Azagis-tó egy nyugodt vízfelület Druskininkai területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "A Mergelių Akys-tó festői környezetet biztosít a sétákhoz Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "A Juodelis-tó egy apró természeti kincs Druskininkai közelében.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Élvezze a Klonis-tó békés hangulatát Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "A Kruglis-tó egy nyugodt kirándulóhely Druskininkai régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Az Ončiuškis-tó pihentető pillanatokra hív Druskininkai természetében.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "A Juodaitis-tó egy festői vízfelület Druskininkai környékén.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "A Varlinis-tó békés környezetet kínál a pihenni vágyóknak Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "A Grūtas-tó egy ismert vízfelület Druskininkaiban, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "A Baltosios Ančios-víztározó egy lenyűgöző vízfelület Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Az Ilgis-tavat a nyugodt elhelyezkedése jellemzi Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "A Neravų-víztározó békés hátteret biztosít a természet megfigyeléséhez Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Az Alkos I-víztározó a nyugalom egyik helyi szigete Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Az Alkos II-víztározó kellemes szabadtéri kikapcsolódásra hív Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "A Baltajis Bilsas-tó egy idilli vízfelület Druskininkai közelében.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "A Juodiškis-tó csendes környezetet biztosít egy kiránduláshoz Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "A Pamelnyčys-tó nyugodt hely a természet élvezetére Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "A Vidutinis-tó a druskininkai vízparti táj egyik festői pontja.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "A Skirzaitis-tó nyugodt vízparti sétákra hív Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "A Skirzius-tó egy békés természeti képződmény Druskininkai régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Az Ilgelis-tó pihentető kilátást nyújt Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "A Maželis-tó egy csendes kis tó Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "A Vijūnėlės-víztározó népszerű hely a szabadidős tevékenységekhez Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
                   ]
             }
       ],
@@ -8990,6 +12464,231 @@ imageHint: "Gargzdai city center and park",
                         23.976565,
                         54.024384
                   ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Girininkijos tv. din Druskininkai este un lac de acumulare idilic în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Lacul Gervinis de lângă Druskininkai invită la ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Lacul Azagis este o întindere de apă liniștită în Druskininkai, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Lacul Mergelių Akys oferă un cadru pitoresc pentru plimbări în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Lacul Juodelis este o mică comoară naturală situată lângă Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Bucurați-vă de atmosfera liniștită de la lacul Klonis din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Lacul Kruglis este o destinație de excursie liniștită în regiunea Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Lacul Ončiuškis invită la momente de relaxare în natura din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Lacul Juodaitis este o întindere de apă pitorească în împrejurimile orașului Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Lacul Varlinis oferă un mediu liniștit pentru cei care caută relaxare în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Lacul Grūtas este o întindere de apă cunoscută în Druskininkai, înconjurată de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "Rezervorul Baltosios Ančios este o acumulare de apă impresionantă în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lacul Ilgis se remarcă prin locația sa liniștită în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "Rezervorul Neravų oferă un cadru liniștit pentru observarea naturii în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Rezervorul Alkos I este un loc local de liniște în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Rezervorul Alkos II invită la o ședere relaxantă în aer liber în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Lacul Baltajis Bilsas este o întindere de apă idilică lângă Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Lacul Juodiškis oferă un mediu liniștit pentru o excursie în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Lacul Pamelnyčys este un loc liniștit pentru a vă bucura de natură în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Lacul Vidutinis este un punct pitoresc în peisajul acvatic din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Lacul Skirzaitis invită la plimbări liniștite pe malul apei în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Lacul Skirzius este un obiectiv natural pașnic în regiunea Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Lacul Ilgelis oferă o priveliște relaxantă în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Lacul Maželis este un lac mic și liniștit în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "Rezervorul Vijūnėlės este un loc popular pentru activități de recreere în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
             }
       ],
       "en": [
@@ -9153,6 +12852,231 @@ imageHint: "Gargzdai city center and park",
                   "coords": [
                         23.976565,
                         54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Girininkijos tv. in Druskininkai is an idyllic reservoir in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Gervinis lake near Druskininkai invites you to spend relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Lake Azagis is a calm body of water in Druskininkai, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Lake Mergelių Akys offers a scenic backdrop for walks in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Lake Juodelis is a small natural treasure located near Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Enjoy the peaceful atmosphere at Lake Klonis in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Lake Kruglis is a quiet excursion destination in the Druskininkai region.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Lake Ončiuškis invites you to relaxing moments in the nature of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Lake Juodaitis is a scenic body of water in the surroundings of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Lake Varlinis offers a peaceful environment for those seeking relaxation in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Lake Grūtas is a well-known body of water in Druskininkai, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "The Baltosios Ančios Reservoir is an impressive body of water in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lake Ilgis is characterized by its quiet location in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "The Neravų Reservoir offers a peaceful setting for nature observation in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "The Alkos I Reservoir is a local place of tranquility in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "The Alkos II Reservoir invites you to a relaxing outdoor stay in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Lake Baltajis Bilsas is an idyllic body of water near Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Lake Juodiškis offers a quiet environment for a trip in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Lake Pamelnyčys is a peaceful place to enjoy nature in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Lake Vidutinis is a scenic spot in the aquatic landscape of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Lake Skirzaitis invites you to quiet walks along the shore in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Lake Skirzius is a peaceful natural feature in the Druskininkai region.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Lake Ilgelis offers a relaxing view in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Lake Maželis is a quiet small lake in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "The Vijūnėlės Reservoir is a popular spot for leisure activities in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
                   ]
             }
       ]
@@ -10015,6 +13939,231 @@ imageHint: "Birzai castle and lake bridge",
                         24.680991,
                         54.781997
                   ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Der Beržonkos-See ist ein malerisches Gewässer in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Der Abromiškių-See bietet eine friedliche Atmosphäre in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Der See Jagudėlis ist ein ruhiges Ausflugsziel für Naturfreunde in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Der See Mergužėlė lädt zu erholsamen Momenten am Wasser in Elektrenai ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Der See Varliukas ist ein kleiner, friedlicher See in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651837,
+                        54.721935
+                  ]
+            },
+            {
+                  "name": "ež. Sarakas",
+                  "text": "Der See Sarakas bietet eine stille Kulisse in der Natur von Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.643155,
+                        54.736195
+                  ]
+            },
+            {
+                  "name": "ež. Bizdukas",
+                  "text": "Der See Bizdukas ist ein ruhiger Ort für einen Spaziergang in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.689837,
+                        54.800511
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Der See Kūdrelis ist ein idyllisches Gewässer in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "ež. Švenčiukas",
+                  "text": "Der See Švenčiukas bietet entspannende Ausblicke auf die Landschaft von Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.591317,
+                        54.730954
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Das Elektrėnai-Reservoir ist ein großes und beliebtes Gewässer für Erholung in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Ilgės",
+                  "text": "Der See Ilgės zeichnet sich durch seine malerische Umgebung in Elektrenai aus.",
+                  "category": "natural",
+                  "coords": [
+                        24.596158,
+                        54.777366
+                  ]
+            },
+            {
+                  "name": "Austeriškių ež.",
+                  "text": "Der Austeriškių-See ist ein ruhiger Naturschauplatz in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.784358,
+                        54.790987
+                  ]
+            },
+            {
+                  "name": "Stančikų ež.",
+                  "text": "Der Stančikų-See bietet eine friedliche Auszeit in der Natur von Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651325,
+                        54.712203
+                  ]
+            },
+            {
+                  "name": "ež. Orys",
+                  "text": "Der See Orys ist ein idyllisches Ziel für einen Ausflug in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712592,
+                        54.766895
+                  ]
+            },
+            {
+                  "name": "ež. Besenis",
+                  "text": "Der See Besenis lädt zu ruhigen Momenten am Ufer in Elektrenai ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.719613,
+                        54.75886
+                  ]
+            },
+            {
+                  "name": "ež. Gaviekas",
+                  "text": "Der See Gaviekas ist ein malerisches Gewässer in der Region Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.618686,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Jagudis",
+                  "text": "Der See Jagudis bietet eine entspannende Atmosphäre in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712696,
+                        54.750975
+                  ]
+            },
+            {
+                  "name": "Geibonių ež.",
+                  "text": "Der Geibonių-See ist ein ruhiges Plätzchen in der Natur von Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.703973,
+                        54.749868
+                  ]
+            },
+            {
+                  "name": "ež. Lapoja",
+                  "text": "Der See Lapoja besticht durch seine friedliche Lage in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.768878,
+                        54.824506
+                  ]
+            },
+            {
+                  "name": "Skynimų ež.",
+                  "text": "Der Skynimų-See ist ein schönes Ziel für Naturbeobachtungen in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.764334,
+                        54.748781
+                  ]
+            },
+            {
+                  "name": "Pakalniškių ež.",
+                  "text": "Der Pakalniškių-See bietet eine stille Umgebung in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.757884,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Salcekas",
+                  "text": "Der See Salcekas ist ein idyllisches Gewässer in der Nähe von Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.614351,
+                        54.787535
+                  ]
+            },
+            {
+                  "name": "ež. Aujėdas",
+                  "text": "Der See Aujėdas lädt zu einem Spaziergang am Wasser in Elektrenai ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.590016,
+                        54.738436
+                  ]
+            },
+            {
+                  "name": "ež. Švenčius",
+                  "text": "Der See Švenčius bietet eine friedliche Atmosphäre in der Region Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.589574,
+                        54.725434
+                  ]
+            },
+            {
+                  "name": "Kareivonių tv.",
+                  "text": "Das Kareivonių Reservoir ist ein ruhiger Ort für Erholung in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.603536,
+                        54.747338
+                  ]
             }
       ],
       "hu": [
@@ -10034,6 +14183,231 @@ imageHint: "Birzai castle and lake bridge",
                   "coords": [
                         24.680991,
                         54.781997
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "A Beržonkos-tó egy festői vízfelület Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Az Abromiškių-tó békés hangulatot áraszt Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "A Jagudėlis-tó nyugodt kirándulóhely a természetbarátok számára Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "A Mergužėlė-tó pihentető vízparti pillanatokra hív Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "A Varliukas-tó egy apró, békés tó Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.651837,
+                        54.721935
+                  ]
+            },
+            {
+                  "name": "ež. Sarakas",
+                  "text": "A Sarakas-tó csendes hátteret biztosít Elektrenai természetében.",
+                  "category": "natural",
+                  "coords": [
+                        24.643155,
+                        54.736195
+                  ]
+            },
+            {
+                  "name": "ež. Bizdukas",
+                  "text": "A Bizdukas-tó nyugodt hely egy sétához Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.689837,
+                        54.800511
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "A Kūdrelis-tó egy idilli vízfelület Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "ež. Švenčiukas",
+                  "text": "A Švenčiukas-tó pihentető kilátást nyújt Elektrenai tájára.",
+                  "category": "natural",
+                  "coords": [
+                        24.591317,
+                        54.730954
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Az Elektrėnai-víztározó egy nagy és népszerű vízfelület a kikapcsolódáshoz Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Ilgės",
+                  "text": "Az Ilgės-tavat festői környezete jellemzi Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.596158,
+                        54.777366
+                  ]
+            },
+            {
+                  "name": "Austeriškių ež.",
+                  "text": "Az Austeriškių-tó egy nyugodt természeti helyszín Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.784358,
+                        54.790987
+                  ]
+            },
+            {
+                  "name": "Stančikų ež.",
+                  "text": "A Stančikų-tó békés kikapcsolódást kínál Elektrenai természetében.",
+                  "category": "natural",
+                  "coords": [
+                        24.651325,
+                        54.712203
+                  ]
+            },
+            {
+                  "name": "ež. Orys",
+                  "text": "Az Orys-tó idilli úti cél egy kiránduláshoz Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.712592,
+                        54.766895
+                  ]
+            },
+            {
+                  "name": "ež. Besenis",
+                  "text": "A Besenis-tó nyugodt vízparti pillanatokra hív Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.719613,
+                        54.75886
+                  ]
+            },
+            {
+                  "name": "ež. Gaviekas",
+                  "text": "A Gaviekas-tó egy festői vízfelület Elektrenai régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        24.618686,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Jagudis",
+                  "text": "A Jagudis-tó pihentető légkört biztosít Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.712696,
+                        54.750975
+                  ]
+            },
+            {
+                  "name": "Geibonių ež.",
+                  "text": "A Geibonių-tó egy nyugodt hely Elektrenai természetében.",
+                  "category": "natural",
+                  "coords": [
+                        24.703973,
+                        54.749868
+                  ]
+            },
+            {
+                  "name": "ež. Lapoja",
+                  "text": "A Lapoja-tó a békés elhelyezkedésével nyűgözi le a látogatókat Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.768878,
+                        54.824506
+                  ]
+            },
+            {
+                  "name": "Skynimų ež.",
+                  "text": "A Skynimų-tó szép úti cél a természet megfigyelésére Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.764334,
+                        54.748781
+                  ]
+            },
+            {
+                  "name": "Pakalniškių ež.",
+                  "text": "A Pakalniškių-tó csendes környezetet biztosít Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.757884,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Salcekas",
+                  "text": "A Salcekas-tó egy idilli vízfelület Elektrenai közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.614351,
+                        54.787535
+                  ]
+            },
+            {
+                  "name": "ež. Aujėdas",
+                  "text": "Az Aujėdas-tó vízparti sétára hív Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.590016,
+                        54.738436
+                  ]
+            },
+            {
+                  "name": "ež. Švenčius",
+                  "text": "A Švenčius-tó békés hangulatot áraszt Elektrenai régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        24.589574,
+                        54.725434
+                  ]
+            },
+            {
+                  "name": "Kareivonių tv.",
+                  "text": "A Kareivonių-víztározó nyugodt hely a kikapcsolódáshoz Elektrenaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.603536,
+                        54.747338
                   ]
             }
       ],
@@ -10055,6 +14429,231 @@ imageHint: "Birzai castle and lake bridge",
                         24.680991,
                         54.781997
                   ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Lacul Beržonkos este o întindere de apă pitorească în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Lacul Abromiškių oferă o atmosferă liniștită în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Lacul Jagudėlis este o destinație de excursie liniștită pentru iubitorii de natură din Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Lacul Mergužėlė invită la momente de relaxare pe malul apei în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Lacul Varliukas este un lac mic și liniștit în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651837,
+                        54.721935
+                  ]
+            },
+            {
+                  "name": "ež. Sarakas",
+                  "text": "Lacul Sarakas oferă un cadru liniștit în natura din Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.643155,
+                        54.736195
+                  ]
+            },
+            {
+                  "name": "ež. Bizdukas",
+                  "text": "Lacul Bizdukas este un loc liniștit pentru o plimbare în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.689837,
+                        54.800511
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Lacul Kūdrelis este o întindere de apă idilică în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "ež. Švenčiukas",
+                  "text": "Lacul Švenčiukas oferă priveliști relaxante asupra peisajului din Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.591317,
+                        54.730954
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Rezervorul Elektrėnai este o întindere de apă mare și populară pentru recreere în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Ilgės",
+                  "text": "Lacul Ilgės se remarcă prin împrejurimile sale pitorești în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.596158,
+                        54.777366
+                  ]
+            },
+            {
+                  "name": "Austeriškių ež.",
+                  "text": "Lacul Austeriškių este un cadru natural liniștit în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.784358,
+                        54.790987
+                  ]
+            },
+            {
+                  "name": "Stančikų ež.",
+                  "text": "Lacul Stančikų oferă o escapadă liniștită în natura din Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651325,
+                        54.712203
+                  ]
+            },
+            {
+                  "name": "ež. Orys",
+                  "text": "Lacul Orys este o destinație idilică pentru o excursie în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712592,
+                        54.766895
+                  ]
+            },
+            {
+                  "name": "ež. Besenis",
+                  "text": "Lacul Besenis invită la momente liniștite pe malul apei în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.719613,
+                        54.75886
+                  ]
+            },
+            {
+                  "name": "ež. Gaviekas",
+                  "text": "Lacul Gaviekas este o întindere de apă pitorească în regiunea Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.618686,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Jagudis",
+                  "text": "Lacul Jagudis oferă o atmosferă relaxantă în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712696,
+                        54.750975
+                  ]
+            },
+            {
+                  "name": "Geibonių ež.",
+                  "text": "Lacul Geibonių este un loc liniștit în natura din Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.703973,
+                        54.749868
+                  ]
+            },
+            {
+                  "name": "ež. Lapoja",
+                  "text": "Lacul Lapoja impresionează prin locația sa liniștită în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.768878,
+                        54.824506
+                  ]
+            },
+            {
+                  "name": "Skynimų ež.",
+                  "text": "Lacul Skynimų este o destinație frumoasă pentru observarea naturii în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.764334,
+                        54.748781
+                  ]
+            },
+            {
+                  "name": "Pakalniškių ež.",
+                  "text": "Lacul Pakalniškių oferă un mediu liniștit în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.757884,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Salcekas",
+                  "text": "Lacul Salcekas este o întindere de apă idilică lângă Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.614351,
+                        54.787535
+                  ]
+            },
+            {
+                  "name": "ež. Aujėdas",
+                  "text": "Lacul Aujėdas invită la o plimbare pe malul apei în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.590016,
+                        54.738436
+                  ]
+            },
+            {
+                  "name": "ež. Švenčius",
+                  "text": "Lacul Švenčius oferă o atmosferă liniștită în regiunea Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.589574,
+                        54.725434
+                  ]
+            },
+            {
+                  "name": "Kareivonių tv.",
+                  "text": "Rezervorul Kareivonių este un loc liniștit pentru recreere în Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.603536,
+                        54.747338
+                  ]
             }
       ],
       "en": [
@@ -10074,6 +14673,231 @@ imageHint: "Birzai castle and lake bridge",
                   "coords": [
                         24.680991,
                         54.781997
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Beržonkos Lake is a scenic body of water in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Abromiškių Lake offers a peaceful atmosphere in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Lake Jagudėlis is a quiet excursion destination for nature lovers in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Lake Mergužėlė invites you to relaxing moments by the water in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Lake Varliukas is a small, peaceful lake in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651837,
+                        54.721935
+                  ]
+            },
+            {
+                  "name": "ež. Sarakas",
+                  "text": "Lake Sarakas provides a quiet backdrop in the nature of Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.643155,
+                        54.736195
+                  ]
+            },
+            {
+                  "name": "ež. Bizdukas",
+                  "text": "Lake Bizdukas is a calm place for a walk in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.689837,
+                        54.800511
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Lake Kūdrelis is an idyllic body of water in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "ež. Švenčiukas",
+                  "text": "Lake Švenčiukas offers relaxing views of the Elektrenai landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.591317,
+                        54.730954
+                  ]
+            },
+            {
+                  "name": "Elektrėnai Reservoir",
+                  "text": "The Elektrėnai Reservoir is a large and popular body of water for recreation in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Ilgės",
+                  "text": "Lake Ilgės is characterized by its scenic surroundings in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.596158,
+                        54.777366
+                  ]
+            },
+            {
+                  "name": "Austeriškių ež.",
+                  "text": "Austeriškių Lake is a peaceful natural setting in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.784358,
+                        54.790987
+                  ]
+            },
+            {
+                  "name": "Stančikų ež.",
+                  "text": "Stančikų Lake offers a peaceful break in the nature of Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.651325,
+                        54.712203
+                  ]
+            },
+            {
+                  "name": "ež. Orys",
+                  "text": "Lake Orys is an idyllic destination for a trip in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712592,
+                        54.766895
+                  ]
+            },
+            {
+                  "name": "ež. Besenis",
+                  "text": "Lake Besenis invites you to quiet moments by the shore in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.719613,
+                        54.75886
+                  ]
+            },
+            {
+                  "name": "ež. Gaviekas",
+                  "text": "Lake Gaviekas is a scenic body of water in the Elektrenai region.",
+                  "category": "natural",
+                  "coords": [
+                        24.618686,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Jagudis",
+                  "text": "Lake Jagudis offers a relaxing atmosphere in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.712696,
+                        54.750975
+                  ]
+            },
+            {
+                  "name": "Geibonių ež.",
+                  "text": "Geibonių Lake is a quiet spot in the nature of Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.703973,
+                        54.749868
+                  ]
+            },
+            {
+                  "name": "ež. Lapoja",
+                  "text": "Lake Lapoja impresses with its peaceful location in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.768878,
+                        54.824506
+                  ]
+            },
+            {
+                  "name": "Skynimų ež.",
+                  "text": "Skynimų Lake is a beautiful destination for nature observation in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.764334,
+                        54.748781
+                  ]
+            },
+            {
+                  "name": "Pakalniškių ež.",
+                  "text": "Pakalniškių Lake offers a quiet environment in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.757884,
+                        54.745112
+                  ]
+            },
+            {
+                  "name": "ež. Salcekas",
+                  "text": "Lake Salcekas is an idyllic body of water near Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.614351,
+                        54.787535
+                  ]
+            },
+            {
+                  "name": "ež. Aujėdas",
+                  "text": "Lake Aujėdas invites you to a walk by the water in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.590016,
+                        54.738436
+                  ]
+            },
+            {
+                  "name": "ež. Švenčius",
+                  "text": "Lake Švenčius offers a peaceful atmosphere in the Elektrenai region.",
+                  "category": "natural",
+                  "coords": [
+                        24.589574,
+                        54.725434
+                  ]
+            },
+            {
+                  "name": "Kareivonių tv.",
+                  "text": "The Kareivonių Reservoir is a peaceful place for recreation in Elektrenai.",
+                  "category": "natural",
+                  "coords": [
+                        24.603536,
+                        54.747338
                   ]
             }
       ]
@@ -10196,6 +15020,159 @@ imageHint: "Elektrenai power plant and church",
                         22.939683,
                         56.003639
                   ]
+            },
+            {
+                  "name": "Gūragių pietinis tv.",
+                  "text": "Ein ruhiger See bei Kuršėnai, ideal für Naturbeobachtungen und entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        22.960959,
+                        55.973263
+                  ]
+            },
+            {
+                  "name": "Kuršėnų vidurinis tv.",
+                  "text": "Dieser See in Kuršėnai bietet eine friedliche Atmosphäre inmitten der litauischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.961646,
+                        55.997814
+                  ]
+            },
+            {
+                  "name": "Paringuvio pietinis tv.",
+                  "text": "Ein malerisches Gewässer in Kuršėnai, das zum Verweilen und Genießen der Stille einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.008125,
+                        56.023387
+                  ]
+            },
+            {
+                  "name": "Gergždelių šiaurinis tv.",
+                  "text": "Ein schöner See in Kuršėnai, der sich hervorragend für eine Auszeit im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.003974,
+                        56.02064
+                  ]
+            },
+            {
+                  "name": "Daugėlių šiaurinis tv.",
+                  "text": "Genießen Sie die ruhige Umgebung an diesem beschaulichen See in Kuršėnai.",
+                  "category": "natural",
+                  "coords": [
+                        22.965045,
+                        55.99062
+                  ]
+            },
+            {
+                  "name": "Gergždelių didysis tv.",
+                  "text": "Ein weitläufiger See in Kuršėnai, der eine schöne Kulisse für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.983464,
+                        56.011902
+                  ]
+            },
+            {
+                  "name": "Gergždelių vidurinis tv.",
+                  "text": "Ein friedlicher Ort am Wasser in Kuršėnai, ideal zum Entspannen und Durchatmen.",
+                  "category": "natural",
+                  "coords": [
+                        22.997483,
+                        56.017593
+                  ]
+            },
+            {
+                  "name": "Kuršėnų didysis tv.",
+                  "text": "Dieser See in Kuršėnai ist ein angenehmer Ort für einen Spaziergang an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        22.965615,
+                        56.003597
+                  ]
+            },
+            {
+                  "name": "Gūragių šiaurinis tv.",
+                  "text": "Ein ruhiges Gewässer in Kuršėnai, das zum Betrachten der umliegenden Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.956473,
+                        55.977335
+                  ]
+            },
+            {
+                  "name": "Paringuvio šiaurinis tv.",
+                  "text": "Ein beschaulicher See in Kuršėnai, perfekt für eine kurze Rast während einer Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        23.008971,
+                        56.025732
+                  ]
+            },
+            {
+                  "name": "ež. Senventė",
+                  "text": "Ein natürlicher See in Kuršėnai, der eine erholsame Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.945782,
+                        55.984533
+                  ]
+            },
+            {
+                  "name": "Raganių tv.",
+                  "text": "Ein schöner Ort in Kuršėnai, um die Stille und die natürliche Schönheit des Wassers zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.840158,
+                        56.052681
+                  ]
+            },
+            {
+                  "name": "Pakumulšių II tv.",
+                  "text": "Ein friedlicher See bei Kuršėnai, ideal für eine kleine Auszeit vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        22.878926,
+                        56.004678
+                  ]
+            },
+            {
+                  "name": "Pakumulšių I tv.",
+                  "text": "Genießen Sie die landschaftliche Idylle an diesem See in Kuršėnai bei einem Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        22.886175,
+                        55.991387
+                  ]
+            },
+            {
+                  "name": "Vaitkaičių tv.",
+                  "text": "Ein ruhiges Gewässer in Kuršėnai, das eine entspannende Umgebung für Naturliebhaber schafft.",
+                  "category": "natural",
+                  "coords": [
+                        22.892007,
+                        55.974974
+                  ]
+            },
+            {
+                  "name": "Daugėlių pietinis tv.",
+                  "text": "Ein beschaulicher See in Kuršėnai, ideal für ruhige Momente und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        22.965059,
+                        55.98752
+                  ]
+            },
+            {
+                  "name": "Kuršėnų pietinis tv.",
+                  "text": "Dieser See in Kuršėnai bietet eine friedliche Kulisse für Erholung in der freien Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.962087,
+                        55.993649
+                  ]
             }
       ],
       "hu": [
@@ -10269,6 +15246,159 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.939683,
                         56.003639
+                  ]
+            },
+            {
+                  "name": "Gūragių pietinis tv.",
+                  "text": "Egy nyugodt tó Kuršėnai közelében, amely ideális természetjáráshoz és pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.960959,
+                        55.973263
+                  ]
+            },
+            {
+                  "name": "Kuršėnų vidurinis tv.",
+                  "text": "Ez a tó Kuršėnai területén békés légkört biztosít a litván táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        22.961646,
+                        55.997814
+                  ]
+            },
+            {
+                  "name": "Paringuvio pietinis tv.",
+                  "text": "Egy festői vízfelület Kuršėnai területén, amely pihenésre és a csend élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.008125,
+                        56.023387
+                  ]
+            },
+            {
+                  "name": "Gergždelių šiaurinis tv.",
+                  "text": "Egy szép tó Kuršėnai területén, amely kiválóan alkalmas egy szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        23.003974,
+                        56.02064
+                  ]
+            },
+            {
+                  "name": "Daugėlių šiaurinis tv.",
+                  "text": "Élvezze a nyugodt környezetet ennél a békés tónál Kuršėnai területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.965045,
+                        55.99062
+                  ]
+            },
+            {
+                  "name": "Gergždelių didysis tv.",
+                  "text": "Egy kiterjedt tó Kuršėnai területén, amely szép hátteret biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        22.983464,
+                        56.011902
+                  ]
+            },
+            {
+                  "name": "Gergždelių vidurinis tv.",
+                  "text": "Egy békés hely a vízparton Kuršėnai területén, amely ideális a pihenéshez és a feltöltődéshez.",
+                  "category": "natural",
+                  "coords": [
+                        22.997483,
+                        56.017593
+                  ]
+            },
+            {
+                  "name": "Kuršėnų didysis tv.",
+                  "text": "Ez a tó Kuršėnai területén kellemes hely egy sétához a friss levegőn.",
+                  "category": "natural",
+                  "coords": [
+                        22.965615,
+                        56.003597
+                  ]
+            },
+            {
+                  "name": "Gūragių šiaurinis tv.",
+                  "text": "Egy nyugodt vízfelület Kuršėnai területén, amely a környező természet megfigyelésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.956473,
+                        55.977335
+                  ]
+            },
+            {
+                  "name": "Paringuvio šiaurinis tv.",
+                  "text": "Egy békés tó Kuršėnai területén, amely tökéletes egy rövid pihenőhöz túrázás közben.",
+                  "category": "natural",
+                  "coords": [
+                        23.008971,
+                        56.025732
+                  ]
+            },
+            {
+                  "name": "ež. Senventė",
+                  "text": "Egy természetes tó Kuršėnai területén, amely pihentető légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.945782,
+                        55.984533
+                  ]
+            },
+            {
+                  "name": "Raganių tv.",
+                  "text": "Egy szép hely Kuršėnai területén a víz csendjének és természetes szépségének élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.840158,
+                        56.052681
+                  ]
+            },
+            {
+                  "name": "Pakumulšių II tv.",
+                  "text": "Egy békés tó Kuršėnai közelében, amely ideális egy kis kikapcsolódáshoz a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        22.878926,
+                        56.004678
+                  ]
+            },
+            {
+                  "name": "Pakumulšių I tv.",
+                  "text": "Élvezze a táj idilljét ennél a tónál Kuršėnai területén egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        22.886175,
+                        55.991387
+                  ]
+            },
+            {
+                  "name": "Vaitkaičių tv.",
+                  "text": "Egy nyugodt vízfelület Kuršėnai területén, amely pihentető környezetet teremt a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        22.892007,
+                        55.974974
+                  ]
+            },
+            {
+                  "name": "Daugėlių pietinis tv.",
+                  "text": "Egy békés tó Kuršėnai területén, amely ideális a nyugodt pillanatokhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.965059,
+                        55.98752
+                  ]
+            },
+            {
+                  "name": "Kuršėnų pietinis tv.",
+                  "text": "Ez a tó Kuršėnai területén békés hátteret kínál a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        22.962087,
+                        55.993649
                   ]
             }
       ],
@@ -10344,6 +15474,159 @@ imageHint: "Elektrenai power plant and church",
                         22.939683,
                         56.003639
                   ]
+            },
+            {
+                  "name": "Gūragių pietinis tv.",
+                  "text": "Un lac liniștit lângă Kuršėnai, ideal pentru observarea naturii și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        22.960959,
+                        55.973263
+                  ]
+            },
+            {
+                  "name": "Kuršėnų vidurinis tv.",
+                  "text": "Acest lac din Kuršėnai oferă o atmosferă liniștită în mijlocul peisajului lituanian.",
+                  "category": "natural",
+                  "coords": [
+                        22.961646,
+                        55.997814
+                  ]
+            },
+            {
+                  "name": "Paringuvio pietinis tv.",
+                  "text": "O apă pitorească în Kuršėnai, care invită la relaxare și la savurarea liniștii.",
+                  "category": "natural",
+                  "coords": [
+                        23.008125,
+                        56.023387
+                  ]
+            },
+            {
+                  "name": "Gergždelių šiaurinis tv.",
+                  "text": "Un lac frumos în Kuršėnai, excelent pentru o escapadă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.003974,
+                        56.02064
+                  ]
+            },
+            {
+                  "name": "Daugėlių šiaurinis tv.",
+                  "text": "Bucurați-vă de mediul liniștit la acest lac calm din Kuršėnai.",
+                  "category": "natural",
+                  "coords": [
+                        22.965045,
+                        55.99062
+                  ]
+            },
+            {
+                  "name": "Gergždelių didysis tv.",
+                  "text": "Un lac întins în Kuršėnai, care oferă un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.983464,
+                        56.011902
+                  ]
+            },
+            {
+                  "name": "Gergždelių vidurinis tv.",
+                  "text": "Un loc liniștit pe malul apei în Kuršėnai, ideal pentru relaxare și respirație profundă.",
+                  "category": "natural",
+                  "coords": [
+                        22.997483,
+                        56.017593
+                  ]
+            },
+            {
+                  "name": "Kuršėnų didysis tv.",
+                  "text": "Acest lac din Kuršėnai este un loc plăcut pentru o plimbare în aer curat.",
+                  "category": "natural",
+                  "coords": [
+                        22.965615,
+                        56.003597
+                  ]
+            },
+            {
+                  "name": "Gūragių šiaurinis tv.",
+                  "text": "O apă liniștită în Kuršėnai, care invită la contemplarea naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        22.956473,
+                        55.977335
+                  ]
+            },
+            {
+                  "name": "Paringuvio šiaurinis tv.",
+                  "text": "Un lac liniștit în Kuršėnai, perfect pentru un scurt popas în timpul unei drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        23.008971,
+                        56.025732
+                  ]
+            },
+            {
+                  "name": "ež. Senventė",
+                  "text": "Un lac natural în Kuršėnai, care oferă o atmosferă relaxantă pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        22.945782,
+                        55.984533
+                  ]
+            },
+            {
+                  "name": "Raganių tv.",
+                  "text": "Un loc frumos în Kuršėnai pentru a savura liniștea și frumusețea naturală a apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.840158,
+                        56.052681
+                  ]
+            },
+            {
+                  "name": "Pakumulšių II tv.",
+                  "text": "Un lac liniștit lângă Kuršėnai, ideal pentru o mică evadare din cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        22.878926,
+                        56.004678
+                  ]
+            },
+            {
+                  "name": "Pakumulšių I tv.",
+                  "text": "Bucurați-vă de idila peisajului de la acest lac din Kuršėnai în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        22.886175,
+                        55.991387
+                  ]
+            },
+            {
+                  "name": "Vaitkaičių tv.",
+                  "text": "O apă liniștită în Kuršėnai, care creează un mediu relaxant pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.892007,
+                        55.974974
+                  ]
+            },
+            {
+                  "name": "Daugėlių pietinis tv.",
+                  "text": "Un lac liniștit în Kuršėnai, ideal pentru momente de calm și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.965059,
+                        55.98752
+                  ]
+            },
+            {
+                  "name": "Kuršėnų pietinis tv.",
+                  "text": "Acest lac din Kuršėnai oferă un cadru liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.962087,
+                        55.993649
+                  ]
             }
       ],
       "en": [
@@ -10417,6 +15700,159 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.939683,
                         56.003639
+                  ]
+            },
+            {
+                  "name": "Gūragių pietinis tv.",
+                  "text": "A calm lake near Kuršėnai, ideal for nature observation and relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.960959,
+                        55.973263
+                  ]
+            },
+            {
+                  "name": "Kuršėnų vidurinis tv.",
+                  "text": "This lake in Kuršėnai offers a peaceful atmosphere amidst the Lithuanian countryside.",
+                  "category": "natural",
+                  "coords": [
+                        22.961646,
+                        55.997814
+                  ]
+            },
+            {
+                  "name": "Paringuvio pietinis tv.",
+                  "text": "A picturesque body of water in Kuršėnai, inviting visitors to linger and enjoy the silence.",
+                  "category": "natural",
+                  "coords": [
+                        23.008125,
+                        56.023387
+                  ]
+            },
+            {
+                  "name": "Gergždelių šiaurinis tv.",
+                  "text": "A lovely lake in Kuršėnai, great for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        23.003974,
+                        56.02064
+                  ]
+            },
+            {
+                  "name": "Daugėlių šiaurinis tv.",
+                  "text": "Enjoy the quiet surroundings at this tranquil lake in Kuršėnai.",
+                  "category": "natural",
+                  "coords": [
+                        22.965045,
+                        55.99062
+                  ]
+            },
+            {
+                  "name": "Gergždelių didysis tv.",
+                  "text": "An extensive lake in Kuršėnai, providing a beautiful backdrop for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        22.983464,
+                        56.011902
+                  ]
+            },
+            {
+                  "name": "Gergždelių vidurinis tv.",
+                  "text": "A peaceful spot by the water in Kuršėnai, ideal for relaxing and taking a breath of fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.997483,
+                        56.017593
+                  ]
+            },
+            {
+                  "name": "Kuršėnų didysis tv.",
+                  "text": "This lake in Kuršėnai is a pleasant place for a walk in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.965615,
+                        56.003597
+                  ]
+            },
+            {
+                  "name": "Gūragių šiaurinis tv.",
+                  "text": "A quiet body of water in Kuršėnai, inviting visitors to contemplate the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.956473,
+                        55.977335
+                  ]
+            },
+            {
+                  "name": "Paringuvio šiaurinis tv.",
+                  "text": "A tranquil lake in Kuršėnai, perfect for a short rest during a hike.",
+                  "category": "natural",
+                  "coords": [
+                        23.008971,
+                        56.025732
+                  ]
+            },
+            {
+                  "name": "ež. Senventė",
+                  "text": "A natural lake in Kuršėnai, offering a restorative atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        22.945782,
+                        55.984533
+                  ]
+            },
+            {
+                  "name": "Raganių tv.",
+                  "text": "A lovely spot in Kuršėnai to enjoy the silence and natural beauty of the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.840158,
+                        56.052681
+                  ]
+            },
+            {
+                  "name": "Pakumulšių II tv.",
+                  "text": "A peaceful lake near Kuršėnai, ideal for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        22.878926,
+                        56.004678
+                  ]
+            },
+            {
+                  "name": "Pakumulšių I tv.",
+                  "text": "Enjoy the scenic idyll at this lake in Kuršėnai during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        22.886175,
+                        55.991387
+                  ]
+            },
+            {
+                  "name": "Vaitkaičių tv.",
+                  "text": "A quiet body of water in Kuršėnai, creating a relaxing environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        22.892007,
+                        55.974974
+                  ]
+            },
+            {
+                  "name": "Daugėlių pietinis tv.",
+                  "text": "A tranquil lake in Kuršėnai, ideal for quiet moments and nature watching.",
+                  "category": "natural",
+                  "coords": [
+                        22.965059,
+                        55.98752
+                  ]
+            },
+            {
+                  "name": "Kuršėnų pietinis tv.",
+                  "text": "This lake in Kuršėnai provides a peaceful setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.962087,
+                        55.993649
                   ]
             }
       ]
@@ -11189,6 +16625,33 @@ imageHint: "Garliava church and main street",
                         23.036966,
                         54.648107
                   ]
+            },
+            {
+                  "name": "Paežerių ež.",
+                  "text": "Ein markanter See in Vilkaviškis, der sich hervorragend für entspannte Stunden am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.980788,
+                        54.646518
+                  ]
+            },
+            {
+                  "name": "Klausučių tv.",
+                  "text": "Ein ruhiges Gewässer in Vilkaviškis, das eine friedliche Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.966751,
+                        54.704774
+                  ]
+            },
+            {
+                  "name": "Alvito ež.",
+                  "text": "Ein schöner See bei Vilkaviškis, ideal für einen erholsamen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.918977,
+                        54.637777
+                  ]
             }
       ],
       "hu": [
@@ -11226,6 +16689,33 @@ imageHint: "Garliava church and main street",
                   "coords": [
                         23.036966,
                         54.648107
+                  ]
+            },
+            {
+                  "name": "Paežerių ež.",
+                  "text": "Egy jelentős tó Vilkaviškis területén, amely kiválóan alkalmas a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        22.980788,
+                        54.646518
+                  ]
+            },
+            {
+                  "name": "Klausučių tv.",
+                  "text": "Egy nyugodt vízfelület Vilkaviškis területén, amely békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.966751,
+                        54.704774
+                  ]
+            },
+            {
+                  "name": "Alvito ež.",
+                  "text": "Egy szép tó Vilkaviškis közelében, amely ideális egy pihentető sétához a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.918977,
+                        54.637777
                   ]
             }
       ],
@@ -11265,6 +16755,33 @@ imageHint: "Garliava church and main street",
                         23.036966,
                         54.648107
                   ]
+            },
+            {
+                  "name": "Paežerių ež.",
+                  "text": "Un lac remarcabil în Vilkaviškis, excelent pentru ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.980788,
+                        54.646518
+                  ]
+            },
+            {
+                  "name": "Klausučių tv.",
+                  "text": "O apă liniștită în Vilkaviškis, care oferă un mediu calm pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        22.966751,
+                        54.704774
+                  ]
+            },
+            {
+                  "name": "Alvito ež.",
+                  "text": "Un lac frumos lângă Vilkaviškis, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.918977,
+                        54.637777
+                  ]
             }
       ],
       "en": [
@@ -11302,6 +16819,33 @@ imageHint: "Garliava church and main street",
                   "coords": [
                         23.036966,
                         54.648107
+                  ]
+            },
+            {
+                  "name": "Paežerių ež.",
+                  "text": "A notable lake in Vilkaviškis, great for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.980788,
+                        54.646518
+                  ]
+            },
+            {
+                  "name": "Klausučių tv.",
+                  "text": "A quiet body of water in Vilkaviškis, offering a peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        22.966751,
+                        54.704774
+                  ]
+            },
+            {
+                  "name": "Alvito ež.",
+                  "text": "A lovely lake near Vilkaviškis, ideal for a restful walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.918977,
+                        54.637777
                   ]
             }
       ]
@@ -11803,6 +17347,87 @@ imageHint: "Raseiniai monument and church",
                         25.11454,
                         55.532722
                   ]
+            },
+            {
+                  "name": "Anykščių kvarco tv.",
+                  "text": "Das Anykščių-Quarz-Reservoir ist ein markantes Gewässer in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.093024,
+                        55.529573
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Der See Ilgis bietet eine malerische Kulisse für Naturfreunde in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.041824,
+                        55.499458
+                  ]
+            },
+            {
+                  "name": "ež. Kunigo ežerėlis",
+                  "text": "Der See Kunigo ežerėlis ist ein kleiner, friedlicher See in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.025209,
+                        55.540169
+                  ]
+            },
+            {
+                  "name": "ež. Krivinskių ežerėlis",
+                  "text": "Der See Krivinskių ežerėlis lädt zu ruhigen Momenten in Anykščiai ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.049263,
+                        55.559909
+                  ]
+            },
+            {
+                  "name": "ež. Nevėža",
+                  "text": "Der See Nevėža ist ein malerisches Ausflugsziel in der Umgebung von Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.175674,
+                        55.450479
+                  ]
+            },
+            {
+                  "name": "Elmininkų tv.",
+                  "text": "Das Elmininkų Reservoir bietet eine stille Atmosphäre in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.198822,
+                        55.552907
+                  ]
+            },
+            {
+                  "name": "Meliaušiškių tv.",
+                  "text": "Das Meliaušiškių Reservoir ist ein ruhiger Ort für einen Aufenthalt im Freien in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.183064,
+                        55.503603
+                  ]
+            },
+            {
+                  "name": "ež. Būdragaidis",
+                  "text": "Der See Būdragaidis zeichnet sich durch seine friedliche Lage in Anykščiai aus.",
+                  "category": "natural",
+                  "coords": [
+                        25.029119,
+                        55.462843
+                  ]
+            },
+            {
+                  "name": "Pagojės tv.",
+                  "text": "Das Pagojės Reservoir lädt zu erholsamen Spaziergängen am Wasser in Anykščiai ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.035364,
+                        55.545525
+                  ]
             }
       ],
       "hu": [
@@ -12020,6 +17645,87 @@ imageHint: "Raseiniai monument and church",
                   "coords": [
                         25.11454,
                         55.532722
+                  ]
+            },
+            {
+                  "name": "Anykščių kvarco tv.",
+                  "text": "Az Anykščių kvarc víztározó egy jellegzetes vízfelület Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.093024,
+                        55.529573
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Az Ilgis-tó festői hátteret biztosít a természetbarátoknak Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.041824,
+                        55.499458
+                  ]
+            },
+            {
+                  "name": "ež. Kunigo ežerėlis",
+                  "text": "A Kunigo ežerėlis egy apró, békés tó Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.025209,
+                        55.540169
+                  ]
+            },
+            {
+                  "name": "ež. Krivinskių ežerėlis",
+                  "text": "A Krivinskių ežerėlis nyugodt pillanatokra hív Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.049263,
+                        55.559909
+                  ]
+            },
+            {
+                  "name": "ež. Nevėža",
+                  "text": "A Nevėža-tó festői kirándulóhely Anykščiai környékén.",
+                  "category": "natural",
+                  "coords": [
+                        25.175674,
+                        55.450479
+                  ]
+            },
+            {
+                  "name": "Elmininkų tv.",
+                  "text": "Az Elmininkų-víztározó csendes légkört biztosít Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.198822,
+                        55.552907
+                  ]
+            },
+            {
+                  "name": "Meliaušiškių tv.",
+                  "text": "A Meliaušiškių-víztározó nyugodt hely a szabadtéri kikapcsolódáshoz Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.183064,
+                        55.503603
+                  ]
+            },
+            {
+                  "name": "ež. Būdragaidis",
+                  "text": "A Būdragaidis-tavat békés elhelyezkedése jellemzi Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.029119,
+                        55.462843
+                  ]
+            },
+            {
+                  "name": "Pagojės tv.",
+                  "text": "A Pagojės-víztározó pihentető vízparti sétákra hív Anykščiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        25.035364,
+                        55.545525
                   ]
             }
       ],
@@ -12239,6 +17945,87 @@ imageHint: "Raseiniai monument and church",
                         25.11454,
                         55.532722
                   ]
+            },
+            {
+                  "name": "Anykščių kvarco tv.",
+                  "text": "Rezervorul de cuarț Anykščiai este o acumulare de apă distinctivă în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.093024,
+                        55.529573
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lacul Ilgis oferă un cadru pitoresc pentru iubitorii de natură în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.041824,
+                        55.499458
+                  ]
+            },
+            {
+                  "name": "ež. Kunigo ežerėlis",
+                  "text": "Lacul Kunigo ežerėlis este un lac mic și liniștit în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.025209,
+                        55.540169
+                  ]
+            },
+            {
+                  "name": "ež. Krivinskių ežerėlis",
+                  "text": "Lacul Krivinskių ežerėlis invită la momente liniștite în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.049263,
+                        55.559909
+                  ]
+            },
+            {
+                  "name": "ež. Nevėža",
+                  "text": "Lacul Nevėža este o destinație de excursie pitorească în împrejurimile orașului Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.175674,
+                        55.450479
+                  ]
+            },
+            {
+                  "name": "Elmininkų tv.",
+                  "text": "Rezervorul Elmininkų oferă o atmosferă liniștită în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.198822,
+                        55.552907
+                  ]
+            },
+            {
+                  "name": "Meliaušiškių tv.",
+                  "text": "Rezervorul Meliaušiškių este un loc liniștit pentru o ședere în aer liber în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.183064,
+                        55.503603
+                  ]
+            },
+            {
+                  "name": "ež. Būdragaidis",
+                  "text": "Lacul Būdragaidis se remarcă prin locația sa liniștită în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.029119,
+                        55.462843
+                  ]
+            },
+            {
+                  "name": "Pagojės tv.",
+                  "text": "Rezervorul Pagojės invită la plimbări relaxante pe malul apei în Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.035364,
+                        55.545525
+                  ]
             }
       ],
       "en": [
@@ -12457,6 +18244,87 @@ imageHint: "Raseiniai monument and church",
                         25.11454,
                         55.532722
                   ]
+            },
+            {
+                  "name": "Anykščių kvarco tv.",
+                  "text": "The Anykščiai Quartz Reservoir is a distinctive body of water in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.093024,
+                        55.529573
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lake Ilgis offers a scenic backdrop for nature lovers in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.041824,
+                        55.499458
+                  ]
+            },
+            {
+                  "name": "ež. Kunigo ežerėlis",
+                  "text": "Lake Kunigo ežerėlis is a small, peaceful lake in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.025209,
+                        55.540169
+                  ]
+            },
+            {
+                  "name": "ež. Krivinskių ežerėlis",
+                  "text": "Lake Krivinskių ežerėlis invites you to quiet moments in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.049263,
+                        55.559909
+                  ]
+            },
+            {
+                  "name": "ež. Nevėža",
+                  "text": "Lake Nevėža is a scenic excursion destination in the Anykščiai area.",
+                  "category": "natural",
+                  "coords": [
+                        25.175674,
+                        55.450479
+                  ]
+            },
+            {
+                  "name": "Elmininkų tv.",
+                  "text": "The Elmininkų Reservoir offers a quiet atmosphere in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.198822,
+                        55.552907
+                  ]
+            },
+            {
+                  "name": "Meliaušiškių tv.",
+                  "text": "The Meliaušiškių Reservoir is a peaceful place for an outdoor stay in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.183064,
+                        55.503603
+                  ]
+            },
+            {
+                  "name": "ež. Būdragaidis",
+                  "text": "Lake Būdragaidis is characterized by its peaceful location in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.029119,
+                        55.462843
+                  ]
+            },
+            {
+                  "name": "Pagojės tv.",
+                  "text": "The Pagojės Reservoir invites you to relaxing walks by the water in Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.035364,
+                        55.545525
+                  ]
             }
       ]
 },
@@ -12542,6 +18410,231 @@ imageHint: "Anyksciai treetop walking path",
                         25.040195,
                         54.631207
                   ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Ein kleiner, friedlicher See in Lentvaris, der zu einer kurzen Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "Šventininkų ež.",
+                  "text": "Dieser See in Lentvaris bietet eine malerische Atmosphäre für entspannte Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        25.05618,
+                        54.586515
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Ein ruhiges Gewässer in Lentvaris, ideal für alle, die die Stille am Wasser genießen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Ein beschaulicher See in Lentvaris, der eine angenehme Umgebung für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Ein natürliches Kleinod in Lentvaris, perfekt für eine Auszeit inmitten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Ein friedlicher See in Lentvaris, der sich gut für die Beobachtung der lokalen Flora und Fauna eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Genießen Sie die ruhige und erholsame Stimmung an diesem See in Lentvaris.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "Juodbalių ež.",
+                  "text": "Ein ruhig gelegenes Gewässer in Lentvaris, ideal für einen entspannten Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.093861,
+                        54.582206
+                  ]
+            },
+            {
+                  "name": "Turgaičių ež.",
+                  "text": "Ein schöner See in Lentvaris, der eine friedliche Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.049501,
+                        54.595985
+                  ]
+            },
+            {
+                  "name": "Galvesee",
+                  "text": "Einer der bekanntesten Seen der Region bei Lentvaris, berühmt für seine malerische Lage.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Ein herrlicher See in Lentvaris, der zum Verweilen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "Ein friedlicher Ort am Wasser in Lentvaris, ideal für eine kleine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Ein ruhiger See in Lentvaris, der eine entspannende Atmosphäre für alle Besucher schafft.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "Dieser See in Lentvaris bietet einen schönen Anblick und lädt zu ruhigen Momenten ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "ež. Ilgutis",
+                  "text": "Ein beschauliches Gewässer in Lentvaris, perfekt für einen entspannten Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.05529,
+                        54.566293
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Ein schöner Natursee in Lentvaris, der eine friedliche Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriskessee",
+                  "text": "Genießen Sie die Stille an diesem malerischen See in Lentvaris während eines Ausflugs.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Ein ruhiger See in Lentvaris, der sich gut in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Ein weitläufiger See bei Lentvaris, ideal für ausgiebige Spaziergänge an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Ein kleiner, friedlicher See in Lentvaris, der einen ruhigen Rückzugsort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Der zentrale See von Lentvaris lädt zu entspannten Momenten direkt am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Ein beschaulicher See in Lentvaris, ideal für eine Pause und zum Genießen der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Ein ruhiges Gewässer in Lentvaris, das eine angenehme Kulisse für Naturliebhaber bildet.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Dieser See in Lentvaris lädt dazu ein, die natürliche Stille und die frische Luft zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "Lukasee",
+                  "text": "Ein malerischer See in Lentvaris, der zu entspannten Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.942669,
+                        54.639061
+                  ]
             }
       ],
       "hu": [
@@ -12579,6 +18672,231 @@ imageHint: "Anyksciai treetop walking path",
                   "coords": [
                         25.040195,
                         54.631207
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Egy kis, békés tó Lentvaris területén, amely egy rövid pihenőre hív a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "Šventininkų ež.",
+                  "text": "Ez a tó Lentvaris területén festői légkört biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.05618,
+                        54.586515
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Egy nyugodt vízfelület Lentvaris területén, amely ideális azoknak, akik élvezni szeretnék a vízparti csendet.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Egy békés tó Lentvaris területén, amely kellemes környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Egy természeti kincs Lentvaris területén, amely tökéletes egy kikapcsolódáshoz a táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Egy békés tó Lentvaris területén, amely jól alkalmas a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Élvezze a nyugodt és pihentető hangulatot ennél a tónál Lentvaris területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "Juodbalių ež.",
+                  "text": "Egy csendes fekvésű vízfelület Lentvaris területén, amely ideális a pihentető szabadtéri időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.093861,
+                        54.582206
+                  ]
+            },
+            {
+                  "name": "Turgaičių ež.",
+                  "text": "Egy szép tó Lentvaris területén, amely békés hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.049501,
+                        54.595985
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "A régió egyik legismertebb tava Lentvaris közelében, amely festői elhelyezkedéséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Egy csodálatos tó Lentvaris területén, amely pihenésre és a természet élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "Egy békés hely a vízparton Lentvaris területén, amely ideális egy kis pihenőre a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Egy nyugodt tó Lentvaris területén, amely pihentető légkört teremt minden látogató számára.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "Ez a tó Lentvaris területén szép látványt nyújt és nyugodt pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "ež. Ilgutis",
+                  "text": "Egy békés vízfelület Lentvaris területén, amely tökéletes egy pihentető sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        25.05529,
+                        54.566293
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Egy szép természetes tó Lentvaris területén, amely békés környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "Élvezze a csendet ennél a festői tónál Lentvaris területén egy kirándulás során.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Egy nyugodt tó Lentvaris területén, amely jól illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Egy kiterjedt tó Lentvaris közelében, amely ideális a friss levegőn tett nagy sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Egy kis, békés tó Lentvaris területén, amely nyugodt búvóhelyet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Lentvaris központi tava pihentető pillanatokra hív közvetlenül a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Egy békés tó Lentvaris területén, amely ideális egy pihenőhöz és a környezet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Egy nyugodt vízfelület Lentvaris területén, amely kellemes hátteret biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Ez a tó Lentvaris területén arra hív, hogy tapasztalja meg a természetes csendet és a friss levegőt.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "ež. Luka",
+                  "text": "Festői tó Lentvaris területén, amely ideális választás a természetközeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.942669,
+                        54.639061
                   ]
             }
       ],
@@ -12618,6 +18936,231 @@ imageHint: "Anyksciai treetop walking path",
                         25.040195,
                         54.631207
                   ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Un lac mic și liniștit în Lentvaris, care invită la o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "Šventininkų ež.",
+                  "text": "Acest lac din Lentvaris oferă o atmosferă pitorească pentru experiențe relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.05618,
+                        54.586515
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "O apă liniștită în Lentvaris, ideală pentru cei care doresc să savureze liniștea de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Un lac liniștit în Lentvaris, care oferă un mediu plăcut pentru plimbăreți.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "O bijuterie naturală în Lentvaris, perfectă pentru o evadare în mijlocul peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Un lac liniștit în Lentvaris, potrivit pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Bucurați-vă de atmosfera calmă și relaxantă de la acest lac din Lentvaris.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "Juodbalių ež.",
+                  "text": "O apă situată într-un loc liniștit în Lentvaris, ideală pentru o ședere relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.093861,
+                        54.582206
+                  ]
+            },
+            {
+                  "name": "Turgaičių ež.",
+                  "text": "Un lac frumos în Lentvaris, care oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        25.049501,
+                        54.595985
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "Unul dintre cele mai cunoscute lacuri din regiune, lângă Lentvaris, faimos pentru locația sa pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Un lac minunat în Lentvaris, care invită la relaxare și la savurarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "Un loc liniștit pe malul apei în Lentvaris, ideal pentru o mică pauză de la cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Un lac liniștit în Lentvaris, care creează o atmosferă relaxantă pentru toți vizitatorii.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "Acest lac din Lentvaris oferă o priveliște frumoasă și invită la momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "ež. Ilgutis",
+                  "text": "O apă liniștită în Lentvaris, perfectă pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.05529,
+                        54.566293
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Un lac natural frumos în Lentvaris, care oferă un mediu liniștit pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "Bucurați-vă de liniște la acest lac pitoresc din Lentvaris în timpul unei excursii.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Un lac liniștit în Lentvaris, care se încadrează bine în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Un lac întins lângă Lentvaris, ideal pentru plimbări lungi în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Un lac mic și liniștit în Lentvaris, care oferă un refugiu calm în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Lacul central din Lentvaris invită la momente de relaxare direct pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Un lac liniștit în Lentvaris, ideal pentru o pauză și pentru a savura împrejurimile.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "O apă liniștită în Lentvaris, care formează un cadru plăcut pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Acest lac din Lentvaris vă invită să experimentați liniștea naturală și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "ež. Luka",
+                  "text": "Un lac pitoresc în Lentvaris, ideal pentru plimbări relaxante în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.942669,
+                        54.639061
+                  ]
             }
       ],
       "en": [
@@ -12655,6 +19198,231 @@ imageHint: "Anyksciai treetop walking path",
                   "coords": [
                         25.040195,
                         54.631207
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A small, peaceful lake in Lentvaris, inviting for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "Šventininkų ež.",
+                  "text": "This lake in Lentvaris offers a scenic atmosphere for relaxed nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        25.05618,
+                        54.586515
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "A quiet body of water in Lentvaris, ideal for those wishing to enjoy the silence by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "A tranquil lake in Lentvaris, providing a pleasant environment for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "A natural gem in Lentvaris, perfect for a break amidst the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "A peaceful lake in Lentvaris, well-suited for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Enjoy the quiet and restorative mood at this lake in Lentvaris.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "Juodbalių ež.",
+                  "text": "A quietly located body of water in Lentvaris, ideal for a relaxed outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        25.093861,
+                        54.582206
+                  ]
+            },
+            {
+                  "name": "Turgaičių ež.",
+                  "text": "A lovely lake in Lentvaris, offering a peaceful backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.049501,
+                        54.595985
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "One of the most famous lakes in the region near Lentvaris, renowned for its scenic location.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "A wonderful lake in Lentvaris, inviting visitors to linger and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "A peaceful spot by the water in Lentvaris, ideal for a short break from daily life.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "A calm lake in Lentvaris, creating a relaxing atmosphere for all visitors.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "This lake in Lentvaris offers a pleasant view and invites quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "ež. Ilgutis",
+                  "text": "A tranquil body of water in Lentvaris, perfect for a relaxed walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.05529,
+                        54.566293
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "A beautiful natural lake in Lentvaris, providing a peaceful environment for relaxation seekers.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "Enjoy the silence at this scenic lake in Lentvaris during an excursion.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "A calm lake in Lentvaris, well-integrated into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "An extensive lake near Lentvaris, ideal for long walks in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "A small, peaceful lake in Lentvaris, offering a quiet retreat in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "The central lake of Lentvaris invites visitors to relaxed moments right by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "A tranquil lake in Lentvaris, ideal for a break and enjoying the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "A quiet body of water in Lentvaris, forming a pleasant backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "This lake in Lentvaris invites you to experience the natural silence and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "ež. Luka",
+                  "text": "A scenic lake in Lentvaris, perfect for relaxing walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.942669,
+                        54.639061
                   ]
             }
       ]
@@ -12777,6 +19545,231 @@ imageHint: "Lentvaris palace and lake",
                         25.096057,
                         54.670258
                   ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Ein kleiner See in Grigiskes, ideal für eine ruhige Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Ein schöner Natursee in Grigiskes, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Ein ruhiges Gewässer in Grigiskes, umgeben von friedlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Ein friedlicher See bei Grigiskes, ideal für erholsame Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vosyliukai",
+                  "text": "Ein malerischer See in Grigiskes, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.024393,
+                        54.712151
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Ein ruhiger See in Grigiskes, perfekt für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "ež. Gaganas",
+                  "text": "Dieser kleine See in Grigiskes bietet eine friedliche Umgebung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        25.126737,
+                        54.711636
+                  ]
+            },
+            {
+                  "name": "Salotės ež.",
+                  "text": "Ein beliebter See in Grigiskes für Erholung und Freizeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.177458,
+                        54.696181
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Ein weitläufiger See bei Grigiskes, ideal für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Ein kleiner, ruhiger See in Grigiskes für Momente der Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "Kunigiškės ež.",
+                  "text": "Ein friedlicher See in Grigiskes, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.999702,
+                        54.718702
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Ein schöner See in Grigiskes, ideal für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Ein ruhig gelegener Stausee in Grigiskes für entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Ein großer See bei Grigiskes, der vielfältige Möglichkeiten zur Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Ein beschaulicher See in Grigiskes, ideal für eine kleine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Ein kleiner See in Grigiskes, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Ein bekanntes Gewässer bei Grigiskes, ideal für erholsame Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Ein ruhiger See in Grigiskes, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Ein friedlicher See in Grigiskes für entspannte Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Dieser See in Grigiskes ist ein schöner Ort für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "Balčio ež.",
+                  "text": "Ein malerischer See in Grigiskes, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.158398,
+                        54.697446
+                  ]
+            },
+            {
+                  "name": "ež. Gelūžė",
+                  "text": "Ein beliebter See in Grigiskes, der zur Erholung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.157893,
+                        54.704865
+                  ]
+            },
+            {
+                  "name": "Vosyliukų malūno tv.",
+                  "text": "Ein ruhiger Stausee in Grigiskes mit einer friedlichen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        25.03348,
+                        54.710812
+                  ]
+            },
+            {
+                  "name": "Bevardis ež.",
+                  "text": "Ein kleiner See in Grigiskes für eine ruhige Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.191472,
+                        54.703615
+                  ]
+            },
+            {
+                  "name": "ež. Naujojo Lentvario akis",
+                  "text": "Ein besonderer kleiner See in Grigiskes, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        25.062207,
+                        54.655439
+                  ]
             }
       ],
       "hu": [
@@ -12850,6 +19843,231 @@ imageHint: "Lentvaris palace and lake",
                   "coords": [
                         25.096057,
                         54.670258
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Egy kis tó Grigiskesben, amely ideális egy nyugodt pihenéshez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Egy szép természetes tó Grigiskesben, amely sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Egy nyugodt vízfelület Grigiskesben, békés tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Egy békés tó Grigiskes közelében, amely ideális a pihentető szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vosyliukai",
+                  "text": "Egy festői tó Grigiskesben, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.024393,
+                        54.712151
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Egy nyugodt tó Grigiskesben, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "ež. Gaganas",
+                  "text": "Ez a kis tó Grigiskesben békés környezetet kínál a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        25.126737,
+                        54.711636
+                  ]
+            },
+            {
+                  "name": "Salotės ež.",
+                  "text": "Egy népszerű tó Grigiskesben pihenésre és szabadidős tevékenységekre a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.177458,
+                        54.696181
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Egy kiterjedt tó Grigiskes közelében, amely ideális természetmegfigyelésre és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Egy kicsi, nyugodt tó Grigiskesben a pihenés pillanataihoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "Kunigiškės ež.",
+                  "text": "Egy békés tó Grigiskesben, amely hívogat a természetben való időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        24.999702,
+                        54.718702
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Egy szép tó Grigiskesben, amely ideális egy rövid kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Egy nyugodt fekvésű víztározó Grigiskesben a pihentető szabadtéri órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Egy nagy tó Grigiskes közelében, amely változatos lehetőségeket kínál a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Egy békés tó Grigiskesben, amely ideális egy kis pihenéshez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Egy kis tó Grigiskesben, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Egy ismert vízfelület Grigiskes közelében, amely ideális pihentető parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Egy nyugodt tó Grigiskesben, szép természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Egy békés tó Grigiskesben a pihentető szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Ez a Grigiskesben található tó szép hely a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "Balčio ež.",
+                  "text": "Egy festői tó Grigiskesben, amely ideális egy természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.158398,
+                        54.697446
+                  ]
+            },
+            {
+                  "name": "ež. Gelūžė",
+                  "text": "Egy népszerű tó Grigiskesben, amely pihenésre hív a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        25.157893,
+                        54.704865
+                  ]
+            },
+            {
+                  "name": "Vosyliukų malūno tv.",
+                  "text": "Egy nyugodt víztározó Grigiskesben, békés légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        25.03348,
+                        54.710812
+                  ]
+            },
+            {
+                  "name": "Bevardis ež.",
+                  "text": "Egy kis tó Grigiskesben egy nyugodt természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.191472,
+                        54.703615
+                  ]
+            },
+            {
+                  "name": "ež. Naujojo Lentvario akis",
+                  "text": "Egy különleges kis tó Grigiskesben, amely ideális természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.062207,
+                        54.655439
                   ]
             }
       ],
@@ -12925,6 +20143,231 @@ imageHint: "Lentvaris palace and lake",
                         25.096057,
                         54.670258
                   ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Un lac mic în Grigiskes, ideal pentru o pauză liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Un lac natural frumos în Grigiskes, care vă invită la plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Un curs de apă liniștit în Grigiskes, înconjurat de un peisaj pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Un lac liniștit lângă Grigiskes, ideal pentru momente de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vosyliukai",
+                  "text": "Un lac pitoresc în Grigiskes, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        25.024393,
+                        54.712151
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "Un lac liniștit în Grigiskes, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "ež. Gaganas",
+                  "text": "Acest lac mic din Grigiskes oferă un mediu liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.126737,
+                        54.711636
+                  ]
+            },
+            {
+                  "name": "Salotės ež.",
+                  "text": "Un lac popular în Grigiskes pentru relaxare și petrecerea timpului liber în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.177458,
+                        54.696181
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Un lac întins lângă Grigiskes, ideal pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "Un lac mic și liniștit în Grigiskes pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "Kunigiškės ež.",
+                  "text": "Un lac liniștit în Grigiskes, care vă invită să petreceți timp în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.999702,
+                        54.718702
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Un lac frumos în Grigiskes, ideal pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "Un lac de acumulare situat liniștit în Grigiskes pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "Un lac mare lângă Grigiskes, care oferă diverse posibilități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "Un lac liniștit în Grigiskes, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Un lac mic în Grigiskes, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "O zonă cu apă cunoscută lângă Grigiskes, ideală pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "Un lac liniștit în Grigiskes, înconjurat de o natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Un lac liniștit în Grigiskes pentru momente de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Acest lac din Grigiskes este un loc frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "Balčio ež.",
+                  "text": "Un lac pitoresc în Grigiskes, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.158398,
+                        54.697446
+                  ]
+            },
+            {
+                  "name": "ež. Gelūžė",
+                  "text": "Un lac popular în Grigiskes, care vă invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.157893,
+                        54.704865
+                  ]
+            },
+            {
+                  "name": "Vosyliukų malūno tv.",
+                  "text": "Un lac de acumulare liniștit în Grigiskes, cu o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        25.03348,
+                        54.710812
+                  ]
+            },
+            {
+                  "name": "Bevardis ež.",
+                  "text": "Un lac mic în Grigiskes pentru o pauză liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.191472,
+                        54.703615
+                  ]
+            },
+            {
+                  "name": "ež. Naujojo Lentvario akis",
+                  "text": "Un lac mic deosebit în Grigiskes, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.062207,
+                        54.655439
+                  ]
             }
       ],
       "en": [
@@ -12998,6 +20441,231 @@ imageHint: "Lentvaris palace and lake",
                   "coords": [
                         25.096057,
                         54.670258
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A small lake in Grigiskes, ideal for a quiet break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.044945,
+                        54.69645
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "A beautiful natural lake in Grigiskes that invites you for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "A calm body of water in Grigiskes, surrounded by peaceful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "A peaceful lake near Grigiskes, ideal for relaxing moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vosyliukai",
+                  "text": "A picturesque lake in Grigiskes that offers a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        25.024393,
+                        54.712151
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių ež.",
+                  "text": "A calm lake in Grigiskes, perfect for a relaxed walk.",
+                  "category": "natural",
+                  "coords": [
+                        25.05045,
+                        54.669982
+                  ]
+            },
+            {
+                  "name": "ež. Gaganas",
+                  "text": "This small lake in Grigiskes offers a peaceful environment in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        25.126737,
+                        54.711636
+                  ]
+            },
+            {
+                  "name": "Salotės ež.",
+                  "text": "A popular lake in Grigiskes for relaxation and leisure in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.177458,
+                        54.696181
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "An extensive lake near Grigiskes, ideal for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Vilkišius",
+                  "text": "A small, calm lake in Grigiskes for moments of relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.048298,
+                        54.694921
+                  ]
+            },
+            {
+                  "name": "Kunigiškės ež.",
+                  "text": "A peaceful lake in Grigiskes that invites you to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.999702,
+                        54.718702
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "A beautiful lake in Grigiskes, ideal for a short trip to the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Mūrinės Vokės tv.",
+                  "text": "A quietly located reservoir in Grigiskes for relaxed hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        25.119529,
+                        54.646635
+                  ]
+            },
+            {
+                  "name": "Didžiulio ež.",
+                  "text": "A large lake near Grigiskes that offers various opportunities for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.042544,
+                        54.684121
+                  ]
+            },
+            {
+                  "name": "ež. Krausliukas",
+                  "text": "A tranquil lake in Grigiskes, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.048355,
+                        54.67576
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "A small lake in Grigiskes that offers a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "A well-known body of water near Grigiskes, ideal for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "Gižiūnų ež.",
+                  "text": "A calm lake in Grigiskes, surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.036093,
+                        54.69377
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "A peaceful lake in Grigiskes for relaxed moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "This lake in Grigiskes is a beautiful place for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
+            },
+            {
+                  "name": "Balčio ež.",
+                  "text": "A picturesque lake in Grigiskes, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.158398,
+                        54.697446
+                  ]
+            },
+            {
+                  "name": "ež. Gelūžė",
+                  "text": "A popular lake in Grigiskes that invites you to relax in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        25.157893,
+                        54.704865
+                  ]
+            },
+            {
+                  "name": "Vosyliukų malūno tv.",
+                  "text": "A calm reservoir in Grigiskes with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        25.03348,
+                        54.710812
+                  ]
+            },
+            {
+                  "name": "Bevardis ež.",
+                  "text": "A small lake in Grigiskes for a quiet break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.191472,
+                        54.703615
+                  ]
+            },
+            {
+                  "name": "ež. Naujojo Lentvario akis",
+                  "text": "A special small lake in Grigiskes, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.062207,
+                        54.655439
                   ]
             }
       ]
@@ -13193,6 +20861,78 @@ imageHint: "Naujoji Akmene cement factory and quarries",
                         23.949062,
                         54.634878
                   ]
+            },
+            {
+                  "name": "Birštono II tv.",
+                  "text": "Dieser See bei Prienai bietet eine ruhige Umgebung für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.015687,
+                        54.610108
+                  ]
+            },
+            {
+                  "name": "Popierinės tv.",
+                  "text": "Ein lokales Gewässer in Prienai, ideal für Naturliebhaber und ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        23.96163,
+                        54.614172
+                  ]
+            },
+            {
+                  "name": "Ašmintos tv.",
+                  "text": "Ein ruhiger See in Prienai, der sich gut für Beobachtungen der lokalen Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.007012,
+                        54.674994
+                  ]
+            },
+            {
+                  "name": "Žarijų tv.",
+                  "text": "Ein Gewässer in der Nähe von Prienai, das eine natürliche Kulisse für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.991666,
+                        54.6602
+                  ]
+            },
+            {
+                  "name": "Čiudiškių tv.",
+                  "text": "Ein See in Prienai, ideal für alle, die eine Auszeit am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        23.911171,
+                        54.715373
+                  ]
+            },
+            {
+                  "name": "Birštono III tv.",
+                  "text": "Ein weiteres ruhiges Gewässer bei Prienai, passend für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        24.012219,
+                        54.610895
+                  ]
+            },
+            {
+                  "name": "Prienlaukio ež.",
+                  "text": "Ein natürlicher See in Prienai, der eine malerische Aussicht auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.869599,
+                        54.662281
+                  ]
+            },
+            {
+                  "name": "Birštono I tv.",
+                  "text": "Ein markanter See in Prienai, ideal für ruhige Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.02005,
+                        54.609225
+                  ]
             }
       ],
       "hu": [
@@ -13248,6 +20988,78 @@ imageHint: "Naujoji Akmene cement factory and quarries",
                   "coords": [
                         23.949062,
                         54.634878
+                  ]
+            },
+            {
+                  "name": "Birštono II tv.",
+                  "text": "Ez a Prienai melletti tó nyugodt környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.015687,
+                        54.610108
+                  ]
+            },
+            {
+                  "name": "Popierinės tv.",
+                  "text": "Helyi tó Prienai területén, amely ideális a természet kedvelőinek és a csendes pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.96163,
+                        54.614172
+                  ]
+            },
+            {
+                  "name": "Ašmintos tv.",
+                  "text": "Nyugodt tó Prienai környékén, amely alkalmas a helyi táj felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.007012,
+                        54.674994
+                  ]
+            },
+            {
+                  "name": "Žarijų tv.",
+                  "text": "Prienai közeli vízfelület, amely természetes környezetet kínál a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.991666,
+                        54.6602
+                  ]
+            },
+            {
+                  "name": "Čiudiškių tv.",
+                  "text": "Tó Prienai területén, ideális azok számára, akik a vízparton szeretnének pihenni.",
+                  "category": "natural",
+                  "coords": [
+                        23.911171,
+                        54.715373
+                  ]
+            },
+            {
+                  "name": "Birštono III tv.",
+                  "text": "Újabb nyugodt vízfelület Prienai mellett, amely kiválóan alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        24.012219,
+                        54.610895
+                  ]
+            },
+            {
+                  "name": "Prienlaukio ež.",
+                  "text": "Természetes tó Prienai területén, amely festői kilátást nyújt a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        23.869599,
+                        54.662281
+                  ]
+            },
+            {
+                  "name": "Birštono I tv.",
+                  "text": "Jellegzetes tó Prienai területén, amely ideális a természetben töltött csendes órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.02005,
+                        54.609225
                   ]
             }
       ],
@@ -13305,6 +21117,78 @@ imageHint: "Naujoji Akmene cement factory and quarries",
                         23.949062,
                         54.634878
                   ]
+            },
+            {
+                  "name": "Birštono II tv.",
+                  "text": "Acest lac de lângă Prienai oferă un cadru liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.015687,
+                        54.610108
+                  ]
+            },
+            {
+                  "name": "Popierinės tv.",
+                  "text": "Un corp de apă local în Prienai, ideal pentru iubitorii de natură și momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.96163,
+                        54.614172
+                  ]
+            },
+            {
+                  "name": "Ašmintos tv.",
+                  "text": "Un lac liniștit în Prienai, potrivit pentru observarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        24.007012,
+                        54.674994
+                  ]
+            },
+            {
+                  "name": "Žarijų tv.",
+                  "text": "O zonă acvatică lângă Prienai, care oferă un cadru natural pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        23.991666,
+                        54.6602
+                  ]
+            },
+            {
+                  "name": "Čiudiškių tv.",
+                  "text": "Un lac în Prienai, ideal pentru cei care caută o pauză relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.911171,
+                        54.715373
+                  ]
+            },
+            {
+                  "name": "Birštono III tv.",
+                  "text": "O altă zonă acvatică liniștită lângă Prienai, potrivită pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.012219,
+                        54.610895
+                  ]
+            },
+            {
+                  "name": "Prienlaukio ež.",
+                  "text": "Un lac natural în Prienai, care oferă o priveliște pitorească asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        23.869599,
+                        54.662281
+                  ]
+            },
+            {
+                  "name": "Birštono I tv.",
+                  "text": "Un lac proeminent în Prienai, ideal pentru ore liniștite petrecute în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.02005,
+                        54.609225
+                  ]
             }
       ],
       "en": [
@@ -13360,6 +21244,78 @@ imageHint: "Naujoji Akmene cement factory and quarries",
                   "coords": [
                         23.949062,
                         54.634878
+                  ]
+            },
+            {
+                  "name": "Birštono II tv.",
+                  "text": "This lake near Prienai provides a peaceful environment for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.015687,
+                        54.610108
+                  ]
+            },
+            {
+                  "name": "Popierinės tv.",
+                  "text": "A local body of water in Prienai, ideal for nature lovers and quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        23.96163,
+                        54.614172
+                  ]
+            },
+            {
+                  "name": "Ašmintos tv.",
+                  "text": "A peaceful lake in Prienai, well-suited for observing the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.007012,
+                        54.674994
+                  ]
+            },
+            {
+                  "name": "Žarijų tv.",
+                  "text": "A body of water near Prienai, offering a natural backdrop for outings.",
+                  "category": "natural",
+                  "coords": [
+                        23.991666,
+                        54.6602
+                  ]
+            },
+            {
+                  "name": "Čiudiškių tv.",
+                  "text": "A lake in Prienai, ideal for those seeking a break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.911171,
+                        54.715373
+                  ]
+            },
+            {
+                  "name": "Birštono III tv.",
+                  "text": "Another calm body of water near Prienai, suitable for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.012219,
+                        54.610895
+                  ]
+            },
+            {
+                  "name": "Prienlaukio ež.",
+                  "text": "A natural lake in Prienai, offering a scenic view of the surrounding countryside.",
+                  "category": "natural",
+                  "coords": [
+                        23.869599,
+                        54.662281
+                  ]
+            },
+            {
+                  "name": "Birštono I tv.",
+                  "text": "A prominent lake in Prienai, ideal for quiet hours spent in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.02005,
+                        54.609225
                   ]
             }
       ]
@@ -13446,6 +21402,87 @@ imageHint: "Prienai bridge and river loops",
                         23.616619,
                         56.241481
                   ]
+            },
+            {
+                  "name": "Joniškio I tv.",
+                  "text": "Der erste Stausee in Joniškis bietet eine schöne Umgebung für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        23.597813,
+                        56.248815
+                  ]
+            },
+            {
+                  "name": "Mikšiūnų tv.",
+                  "text": "Ein ruhiger Stausee bei Joniškis für entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.613112,
+                        56.160342
+                  ]
+            },
+            {
+                  "name": "Smalių tv.",
+                  "text": "Ein friedliches Gewässer in Joniškis, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        23.510678,
+                        56.268358
+                  ]
+            },
+            {
+                  "name": "Kalnelio tv.",
+                  "text": "Ein kleiner See in Joniškis, der eine ruhige Atmosphäre zur Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.554001,
+                        56.242091
+                  ]
+            },
+            {
+                  "name": "Joniškio II tv.",
+                  "text": "Der zweite Stausee in Joniškis ist ein schönes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        23.609327,
+                        56.250731
+                  ]
+            },
+            {
+                  "name": "Mielaičių tv.",
+                  "text": "Ein ruhiger See bei Joniškis, ideal für einen entspannten Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        23.680743,
+                        56.179429
+                  ]
+            },
+            {
+                  "name": "Linkaičių I tv.",
+                  "text": "Ein friedlicher Stausee in Joniškis für Momente der Ruhe in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.501356,
+                        56.205564
+                  ]
+            },
+            {
+                  "name": "Maldenių tv.",
+                  "text": "Ein kleiner, ruhiger See in Joniškis, ideal für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        23.489869,
+                        56.247657
+                  ]
+            },
+            {
+                  "name": "Vilkiaušio tv.",
+                  "text": "Ein schöner Stausee in Joniškis, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.549032,
+                        56.199423
+                  ]
             }
       ],
       "hu": [
@@ -13483,6 +21520,87 @@ imageHint: "Prienai bridge and river loops",
                   "coords": [
                         23.616619,
                         56.241481
+                  ]
+            },
+            {
+                  "name": "Joniškio I tv.",
+                  "text": "Joniškis első víztározója szép környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.597813,
+                        56.248815
+                  ]
+            },
+            {
+                  "name": "Mikšiūnų tv.",
+                  "text": "Egy nyugodt víztározó Joniškis közelében a pihentető szabadtéri órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.613112,
+                        56.160342
+                  ]
+            },
+            {
+                  "name": "Smalių tv.",
+                  "text": "Egy békés vízfelület Joniškisben, amely ideális egy pihenéshez a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        23.510678,
+                        56.268358
+                  ]
+            },
+            {
+                  "name": "Kalnelio tv.",
+                  "text": "Egy kis tó Joniškisben, amely nyugodt légkört biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.554001,
+                        56.242091
+                  ]
+            },
+            {
+                  "name": "Joniškio II tv.",
+                  "text": "Joniškis második víztározója szép úti cél a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.609327,
+                        56.250731
+                  ]
+            },
+            {
+                  "name": "Mielaičių tv.",
+                  "text": "Egy nyugodt tó Joniškis közelében, amely ideális egy pihentető kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.680743,
+                        56.179429
+                  ]
+            },
+            {
+                  "name": "Linkaičių I tv.",
+                  "text": "Egy békés víztározó Joniškisben a természetben való megnyugvás pillanataihoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.501356,
+                        56.205564
+                  ]
+            },
+            {
+                  "name": "Maldenių tv.",
+                  "text": "Egy kicsi, nyugodt tó Joniškisben, amely ideális egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        23.489869,
+                        56.247657
+                  ]
+            },
+            {
+                  "name": "Vilkiaušio tv.",
+                  "text": "Egy szép víztározó Joniškisben, amely hívogat a szabadtéri időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        23.549032,
+                        56.199423
                   ]
             }
       ],
@@ -13522,6 +21640,87 @@ imageHint: "Prienai bridge and river loops",
                         23.616619,
                         56.241481
                   ]
+            },
+            {
+                  "name": "Joniškio I tv.",
+                  "text": "Primul lac de acumulare din Joniškis oferă un mediu frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        23.597813,
+                        56.248815
+                  ]
+            },
+            {
+                  "name": "Mikšiūnų tv.",
+                  "text": "Un lac de acumulare liniștit lângă Joniškis pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.613112,
+                        56.160342
+                  ]
+            },
+            {
+                  "name": "Smalių tv.",
+                  "text": "Un lac liniștit în Joniškis, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.510678,
+                        56.268358
+                  ]
+            },
+            {
+                  "name": "Kalnelio tv.",
+                  "text": "Un lac mic în Joniškis, care oferă o atmosferă liniștită pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        23.554001,
+                        56.242091
+                  ]
+            },
+            {
+                  "name": "Joniškio II tv.",
+                  "text": "Al doilea lac de acumulare din Joniškis este o destinație frumoasă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.609327,
+                        56.250731
+                  ]
+            },
+            {
+                  "name": "Mielaičių tv.",
+                  "text": "Un lac liniștit lângă Joniškis, ideal pentru o excursie relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        23.680743,
+                        56.179429
+                  ]
+            },
+            {
+                  "name": "Linkaičių I tv.",
+                  "text": "Un lac de acumulare liniștit în Joniškis pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.501356,
+                        56.205564
+                  ]
+            },
+            {
+                  "name": "Maldenių tv.",
+                  "text": "Un lac mic și liniștit în Joniškis, ideal pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        23.489869,
+                        56.247657
+                  ]
+            },
+            {
+                  "name": "Vilkiaušio tv.",
+                  "text": "Un lac de acumulare frumos în Joniškis, care vă invită să petreceți timp în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.549032,
+                        56.199423
+                  ]
             }
       ],
       "en": [
@@ -13559,6 +21758,87 @@ imageHint: "Prienai bridge and river loops",
                   "coords": [
                         23.616619,
                         56.241481
+                  ]
+            },
+            {
+                  "name": "Joniškio I tv.",
+                  "text": "The first reservoir in Joniškis offers a beautiful environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.597813,
+                        56.248815
+                  ]
+            },
+            {
+                  "name": "Mikšiūnų tv.",
+                  "text": "A calm reservoir near Joniškis for relaxed hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.613112,
+                        56.160342
+                  ]
+            },
+            {
+                  "name": "Smalių tv.",
+                  "text": "A peaceful body of water in Joniškis, ideal for a break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        23.510678,
+                        56.268358
+                  ]
+            },
+            {
+                  "name": "Kalnelio tv.",
+                  "text": "A small lake in Joniškis that offers a quiet atmosphere for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.554001,
+                        56.242091
+                  ]
+            },
+            {
+                  "name": "Joniškio II tv.",
+                  "text": "The second reservoir in Joniškis is a beautiful destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.609327,
+                        56.250731
+                  ]
+            },
+            {
+                  "name": "Mielaičių tv.",
+                  "text": "A calm lake near Joniškis, ideal for a relaxed excursion.",
+                  "category": "natural",
+                  "coords": [
+                        23.680743,
+                        56.179429
+                  ]
+            },
+            {
+                  "name": "Linkaičių I tv.",
+                  "text": "A peaceful reservoir in Joniškis for moments of peace in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.501356,
+                        56.205564
+                  ]
+            },
+            {
+                  "name": "Maldenių tv.",
+                  "text": "A small, calm lake in Joniškis, ideal for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        23.489869,
+                        56.247657
+                  ]
+            },
+            {
+                  "name": "Vilkiaušio tv.",
+                  "text": "A beautiful reservoir in Joniškis that invites you to spend time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.549032,
+                        56.199423
                   ]
             }
       ]
@@ -13636,6 +21916,141 @@ imageHint: "Joniskis synagogue and church",
                         24.572214,
                         54.209854
                   ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Der See Ilgis bietet eine malerische Umgebung für Erholungssuchende in Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.509508,
+                        54.212932
+                  ]
+            },
+            {
+                  "name": "ež. Plaušinis",
+                  "text": "Der See Plaušinis ist ein ruhiges Naturobjekt in der Region Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.510518,
+                        54.225217
+                  ]
+            },
+            {
+                  "name": "ež. Ašarėlis",
+                  "text": "Der See Ašarėlis ist ein kleiner, idyllischer See in Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.590477,
+                        54.282743
+                  ]
+            },
+            {
+                  "name": "ež. Glūkaitis",
+                  "text": "Der Glūkaitis-See in Varėna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.585867,
+                        54.284889
+                  ]
+            },
+            {
+                  "name": "Varėnos m. III tv.",
+                  "text": "Das Gewässer Varėnos m. III tv. in Varėna bietet eine friedliche Kulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.612769,
+                        54.217015
+                  ]
+            },
+            {
+                  "name": "Varėnos m. I tv.",
+                  "text": "Der See Varėnos m. I tv. in Varėna ist ein schöner Ort für einen entspannten Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.573134,
+                        54.225825
+                  ]
+            },
+            {
+                  "name": "ež. Mergežeris",
+                  "text": "Der Mergežeris-See in Varėna ist von Natur umgeben und lädt zu ruhigen Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.520664,
+                        54.200328
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulis",
+                  "text": "Der Žiežulis-See in Varėna bietet eine malerische Umgebung für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        24.524636,
+                        54.215483
+                  ]
+            },
+            {
+                  "name": "ež. Glėbas",
+                  "text": "Der Glėbas-See in Varėna ist ein friedlicher Ort, der sich hervorragend für die Erholung in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.505579,
+                        54.248494
+                  ]
+            },
+            {
+                  "name": "ež. Varėnis",
+                  "text": "Der Varėnis-See in Varėna ist ein lokales Naturgewässer, das zur Entspannung und zum Wandern einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.553811,
+                        54.29004
+                  ]
+            },
+            {
+                  "name": "Varėnos m. II tv.",
+                  "text": "Das Gewässer Varėnos m. II tv. in Varėna ist ein ruhiger Punkt in der Landschaft, ideal für kurze Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        24.595422,
+                        54.222708
+                  ]
+            },
+            {
+                  "name": "Varėnos HE tv.",
+                  "text": "Der Stausee Varėnos HE tv. in Varėna bietet eine weite Wasserfläche für Spaziergänge in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        24.545576,
+                        54.263339
+                  ]
+            },
+            {
+                  "name": "ež. Girežeris",
+                  "text": "Der Girežeris-See in Varėna besticht durch seine natürliche Lage und bietet Ruhe für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        24.519787,
+                        54.221862
+                  ]
+            },
+            {
+                  "name": "ež. Glūkas",
+                  "text": "Der Glūkas-See in Varėna ist ein bekanntes Naturgewässer, das sich gut für einen Tag im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.572342,
+                        54.285219
+                  ]
+            },
+            {
+                  "name": "Karloniškės tv.",
+                  "text": "Der Karloniškės-Stausee in Varėna ist ein friedliches Gewässer, ideal für die lokale Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        24.562407,
+                        54.212463
+                  ]
             }
       ],
       "hu": [
@@ -13664,6 +22079,141 @@ imageHint: "Joniskis synagogue and church",
                   "coords": [
                         24.572214,
                         54.209854
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Az Ilgis-tó festői környezetet kínál a pihenni vágyóknak Varenában.",
+                  "category": "natural",
+                  "coords": [
+                        24.509508,
+                        54.212932
+                  ]
+            },
+            {
+                  "name": "ež. Plaušinis",
+                  "text": "A Plaušinis-tó ein békés természeti képződmény Varena régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        24.510518,
+                        54.225217
+                  ]
+            },
+            {
+                  "name": "ež. Ašarėlis",
+                  "text": "Az Ašarėlis-tó egy apró, idilli tó Varenában.",
+                  "category": "natural",
+                  "coords": [
+                        24.590477,
+                        54.282743
+                  ]
+            },
+            {
+                  "name": "ež. Glūkaitis",
+                  "text": "A Varėna területén található Glūkaitis-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.585867,
+                        54.284889
+                  ]
+            },
+            {
+                  "name": "Varėnos m. III tv.",
+                  "text": "A Varėna városában lévő Varėnos m. III tv. tó békés helyszínt kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.612769,
+                        54.217015
+                  ]
+            },
+            {
+                  "name": "Varėnos m. I tv.",
+                  "text": "A Varėna területén fekvő Varėnos m. I tv. tó kellemes helyszín egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.573134,
+                        54.225825
+                  ]
+            },
+            {
+                  "name": "ež. Mergežeris",
+                  "text": "A Varėna melletti Mergežeris-tó természettel körülvett terület, amely nyugodt pillanatokra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        24.520664,
+                        54.200328
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulis",
+                  "text": "A Varėna városában található Žiežulis-tó festői környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.524636,
+                        54.215483
+                  ]
+            },
+            {
+                  "name": "ež. Glėbas",
+                  "text": "A Varėna területén fekvő Glėbas-tó békés helyszín, amely kiválóan alkalmas a természeti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        24.505579,
+                        54.248494
+                  ]
+            },
+            {
+                  "name": "ež. Varėnis",
+                  "text": "A Varėna városában lévő Varėnis-tó egy helyi természeti vízfelület, amely pihenésre és túrázásra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        24.553811,
+                        54.29004
+                  ]
+            },
+            {
+                  "name": "Varėnos m. II tv.",
+                  "text": "A Varėna területén található Varėnos m. II tv. egy nyugodt pont a tájban, ideális rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.595422,
+                        54.222708
+                  ]
+            },
+            {
+                  "name": "Varėnos HE tv.",
+                  "text": "A Varėna városában lévő Varėnos HE tv. tó tágas vízfelületet kínál a környékbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.545576,
+                        54.263339
+                  ]
+            },
+            {
+                  "name": "ež. Girežeris",
+                  "text": "A Varėna melletti Girežeris-tó természetes elhelyezkedésével tűnik ki, és nyugalmat ápol a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.519787,
+                        54.221862
+                  ]
+            },
+            {
+                  "name": "ež. Glūkas",
+                  "text": "A Varėna területén található Glūkas-tó ismert természeti vízfelület, amely alkalmas egy szabadtéri nap eltöltésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.572342,
+                        54.285219
+                  ]
+            },
+            {
+                  "name": "Karloniškės tv.",
+                  "text": "A Varėna városában fekvő Karloniškės tv. egy békés vízfelület, amely ideális a helyi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.562407,
+                        54.212463
                   ]
             }
       ],
@@ -13694,6 +22244,141 @@ imageHint: "Joniskis synagogue and church",
                         24.572214,
                         54.209854
                   ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lacul Ilgis oferă un cadru pitoresc pentru cei care caută relaxare în Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.509508,
+                        54.212932
+                  ]
+            },
+            {
+                  "name": "ež. Plaušinis",
+                  "text": "Lacul Plaušinis este un obiectiv natural pașnic în regiunea Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.510518,
+                        54.225217
+                  ]
+            },
+            {
+                  "name": "ež. Ašarėlis",
+                  "text": "Lacul Ašarėlis este un lac mic și idilic în Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.590477,
+                        54.282743
+                  ]
+            },
+            {
+                  "name": "ež. Glūkaitis",
+                  "text": "Lacul Glūkaitis din Varėna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.585867,
+                        54.284889
+                  ]
+            },
+            {
+                  "name": "Varėnos m. III tv.",
+                  "text": "Lacul Varėnos m. III tv. din Varėna oferă un cadru liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.612769,
+                        54.217015
+                  ]
+            },
+            {
+                  "name": "Varėnos m. I tv.",
+                  "text": "Lacul Varėnos m. I tv. din Varėna este un loc frumos pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.573134,
+                        54.225825
+                  ]
+            },
+            {
+                  "name": "ež. Mergežeris",
+                  "text": "Lacul Mergežeris din Varėna este înconjurat de natură și invită la momente liniștite pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.520664,
+                        54.200328
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulis",
+                  "text": "Lacul Žiežulis din Varėna oferă un cadru pitoresc pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.524636,
+                        54.215483
+                  ]
+            },
+            {
+                  "name": "ež. Glėbas",
+                  "text": "Lacul Glėbas din Varėna este un loc pașnic, excelent pentru recreere în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.505579,
+                        54.248494
+                  ]
+            },
+            {
+                  "name": "ež. Varėnis",
+                  "text": "Lacul Varėnis din Varėna este o apă naturală locală care invită la relaxare și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        24.553811,
+                        54.29004
+                  ]
+            },
+            {
+                  "name": "Varėnos m. II tv.",
+                  "text": "Lacul Varėnos m. II tv. din Varėna este un punct liniștit în peisaj, ideal pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        24.595422,
+                        54.222708
+                  ]
+            },
+            {
+                  "name": "Varėnos HE tv.",
+                  "text": "Lacul Varėnos HE tv. din Varėna oferă o suprafață vastă de apă pentru plimbări în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        24.545576,
+                        54.263339
+                  ]
+            },
+            {
+                  "name": "ež. Girežeris",
+                  "text": "Lacul Girežeris din Varėna impresionează prin locația sa naturală și oferă liniște vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        24.519787,
+                        54.221862
+                  ]
+            },
+            {
+                  "name": "ež. Glūkas",
+                  "text": "Lacul Glūkas din Varėna este o apă naturală cunoscută, potrivită pentru o zi în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.572342,
+                        54.285219
+                  ]
+            },
+            {
+                  "name": "Karloniškės tv.",
+                  "text": "Lacul Karloniškės tv. din Varėna este o apă liniștită, ideală pentru recreerea locală.",
+                  "category": "natural",
+                  "coords": [
+                        24.562407,
+                        54.212463
+                  ]
             }
       ],
       "en": [
@@ -13722,6 +22407,141 @@ imageHint: "Joniskis synagogue and church",
                   "coords": [
                         24.572214,
                         54.209854
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lake Ilgis offers a scenic environment for those seeking relaxation in Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.509508,
+                        54.212932
+                  ]
+            },
+            {
+                  "name": "ež. Plaušinis",
+                  "text": "Lake Plaušinis is a peaceful natural feature in the Varena region.",
+                  "category": "natural",
+                  "coords": [
+                        24.510518,
+                        54.225217
+                  ]
+            },
+            {
+                  "name": "ež. Ašarėlis",
+                  "text": "Lake Ašarėlis is a small, idyllic lake in Varena.",
+                  "category": "natural",
+                  "coords": [
+                        24.590477,
+                        54.282743
+                  ]
+            },
+            {
+                  "name": "ež. Glūkaitis",
+                  "text": "Glūkaitis lake in Varėna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.585867,
+                        54.284889
+                  ]
+            },
+            {
+                  "name": "Varėnos m. III tv.",
+                  "text": "Varėnos m. III tv. lake in Varėna provides a peaceful setting for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.612769,
+                        54.217015
+                  ]
+            },
+            {
+                  "name": "Varėnos m. I tv.",
+                  "text": "Varėnos m. I tv. lake in Varėna is a nice spot for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.573134,
+                        54.225825
+                  ]
+            },
+            {
+                  "name": "ež. Mergežeris",
+                  "text": "Mergežeris lake in Varėna is surrounded by nature, offering quiet moments by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        24.520664,
+                        54.200328
+                  ]
+            },
+            {
+                  "name": "ež. Žiežulis",
+                  "text": "Žiežulis lake in Varėna offers a picturesque environment for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        24.524636,
+                        54.215483
+                  ]
+            },
+            {
+                  "name": "ež. Glėbas",
+                  "text": "Glėbas lake in Varėna is a peaceful spot, excellent for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.505579,
+                        54.248494
+                  ]
+            },
+            {
+                  "name": "ež. Varėnis",
+                  "text": "Varėnis lake in Varėna is a local natural body of water inviting relaxation and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        24.553811,
+                        54.29004
+                  ]
+            },
+            {
+                  "name": "Varėnos m. II tv.",
+                  "text": "Varėnos m. II tv. lake in Varėna is a quiet point in the landscape, ideal for short outings.",
+                  "category": "natural",
+                  "coords": [
+                        24.595422,
+                        54.222708
+                  ]
+            },
+            {
+                  "name": "Varėnos HE tv.",
+                  "text": "Varėnos HE tv. lake in Varėna offers a wide water surface for walks in the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.545576,
+                        54.263339
+                  ]
+            },
+            {
+                  "name": "ež. Girežeris",
+                  "text": "Girežeris lake in Varėna stands out for its natural location and offers peace to visitors.",
+                  "category": "natural",
+                  "coords": [
+                        24.519787,
+                        54.221862
+                  ]
+            },
+            {
+                  "name": "ež. Glūkas",
+                  "text": "Glūkas lake in Varėna is a well-known natural body of water suitable for a day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.572342,
+                        54.285219
+                  ]
+            },
+            {
+                  "name": "Karloniškės tv.",
+                  "text": "Karloniškės tv. lake in Varėna is a peaceful body of water, ideal for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.562407,
+                        54.212463
                   ]
             }
       ]
@@ -13934,7 +22754,736 @@ imageHint: "Kelme manor and park",
     },
     image: "/poi-images/lithuania-kelme-cities-v2.webp",
 },  {
-    id: "lithuania-kaisiadorys-cities-v2",
+    id: "lithuania-kaisiadorys-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Girelės I tv.",
+                  "text": "Der Girelės I tv. ist ein See in Kaisiadorys, der eine ruhige Kulisse für Spaziergänge und Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.4232,
+                        54.846954
+                  ]
+            },
+            {
+                  "name": "Bulotų tv.",
+                  "text": "Der Bulotų tv. in Kaisiadorys ist ein lokales Gewässer, das sich gut für erholsame Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.421618,
+                        54.777031
+                  ]
+            },
+            {
+                  "name": "Bartaičių tv.",
+                  "text": "Der Bartaičių tv. ist ein See in Kaisiadorys, der Besuchern eine angenehme Umgebung für Freizeitaktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.496814,
+                        54.869668
+                  ]
+            },
+            {
+                  "name": "Žiežmarių II tv.",
+                  "text": "Der Žiežmarių II tv. in Kaisiadorys lädt mit seiner ruhigen Wasserfläche zu erholsamen Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.434922,
+                        54.809785
+                  ]
+            },
+            {
+                  "name": "Žiežmarių I tv.",
+                  "text": "Der See Žiežmarių I tv. in Kaisiadorys ist ein schöner Ort, um die natürliche Landschaft bei einem Spaziergang zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.438833,
+                        54.811666
+                  ]
+            },
+            {
+                  "name": "Uternos ež.",
+                  "text": "Der Uternos ež. ist ein malerischer See in Kaisiadorys, ideal für Naturfreunde und ruhige Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        24.476879,
+                        54.908593
+                  ]
+            },
+            {
+                  "name": "Girelės II tv.",
+                  "text": "Der Girelės II tv. in Kaisiadorys bietet eine friedliche Atmosphäre für Aktivitäten am Wasser und Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        24.431142,
+                        54.846744
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Der ež. Akis ist ein See in Kaisiadorys, der durch seine natürliche Umgebung zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.487826,
+                        54.854394
+                  ]
+            },
+            {
+                  "name": "Žaslių ež.",
+                  "text": "Der Žaslių ež. ist ein bedeutender See in Kaisiadorys, bekannt für seine weite Wasserfläche und die schöne Uferlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.584028,
+                        54.852288
+                  ]
+            },
+            {
+                  "name": "Pastrėvio HE tv.",
+                  "text": "Der Pastrėvio HE tv. in Kaisiadorys ist ein Gewässer, das eine ruhige Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.51915,
+                        54.785618
+                  ]
+            },
+            {
+                  "name": "Kriaučiškių ež.",
+                  "text": "Der Kriaučiškių ež. in Kaisiadorys ist ein ruhiger See, der sich ideal für Beobachtungen der lokalen Flora und Fauna eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.503221,
+                        54.851183
+                  ]
+            },
+            {
+                  "name": "Gudienos III tv.",
+                  "text": "Der Gudienos III tv. ist ein See in Kaisiadorys, der eine angenehme Kulisse für kurze Ausflüge in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.478511,
+                        54.860352
+                  ]
+            },
+            {
+                  "name": "Gudienos I tv.",
+                  "text": "Der Gudienos I tv. in Kaisiadorys ist ein beliebtes lokales Ziel für Spaziergänge am Wasser und zur Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        24.481111,
+                        54.860909
+                  ]
+            },
+            {
+                  "name": "Gudienos II tv.",
+                  "text": "Der Gudienos II tv. ist ein See in Kaisiadorys, der Besuchern eine friedliche Umgebung zum Verweilen im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.484799,
+                        54.859551
+                  ]
+            },
+            {
+                  "name": "Kiemelių ež.",
+                  "text": "Der Kiemelių ež. in Kaisiadorys zeichnet sich durch seine ruhige Lage und die natürliche Ufervegetation aus.",
+                  "category": "natural",
+                  "coords": [
+                        24.478157,
+                        54.848978
+                  ]
+            },
+            {
+                  "name": "Bačkonių II tv.",
+                  "text": "Der Bačkonių II tv. ist ein See in Kaisiadorys, der einen ruhigen Ort für die Erholung in der Natur darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        24.498841,
+                        54.80238
+                  ]
+            },
+            {
+                  "name": "Triliškių tv.",
+                  "text": "Der Triliškių tv. in Kaisiadorys bietet eine weite Aussicht auf das Wasser und lädt zu erholsamen Spaziergängen ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.44438,
+                        54.816125
+                  ]
+            },
+            {
+                  "name": "Žalvarnių tv.",
+                  "text": "Der Žalvarnių tv. ist ein See in Kaisiadorys, der eine friedliche Atmosphäre für Entspannung am Wasser schafft.",
+                  "category": "natural",
+                  "coords": [
+                        24.442861,
+                        54.789541
+                  ]
+            },
+            {
+                  "name": "Bačkonių I tv.",
+                  "text": "Der Bačkonių I tv. in Kaisiadorys ist ein lokaler See, der sich gut für ruhige Freizeitaktivitäten im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.492113,
+                        54.80087
+                  ]
+            },
+            {
+                  "name": "Kalniškių tv.",
+                  "text": "Der Kalniškių tv. ist ein See in Kaisiadorys, der Besuchern eine natürliche Umgebung zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.497128,
+                        54.882265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Girelės I tv.",
+                  "text": "A Girelės I tv. egy tó Kaisiadorys területén, amely nyugodt helyszínt biztosít sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.4232,
+                        54.846954
+                  ]
+            },
+            {
+                  "name": "Bulotų tv.",
+                  "text": "A Bulotų tv. Kaisiadorys területén található, és kiválóan alkalmas pihentető sétákra a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.421618,
+                        54.777031
+                  ]
+            },
+            {
+                  "name": "Bartaičių tv.",
+                  "text": "A Bartaičių tv. egy tó Kaisiadorys területén, amely kellemes környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.496814,
+                        54.869668
+                  ]
+            },
+            {
+                  "name": "Žiežmarių II tv.",
+                  "text": "A Žiežmarių II tv. Kaisiadorys területén található, nyugodt vízfelülete pihentető pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        24.434922,
+                        54.809785
+                  ]
+            },
+            {
+                  "name": "Žiežmarių I tv.",
+                  "text": "A Žiežmarių I tv. tó Kaisiadorys területén egy szép hely a természeti táj élvezetére egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        24.438833,
+                        54.811666
+                  ]
+            },
+            {
+                  "name": "Uternos ež.",
+                  "text": "Az Uternos ež. egy festői tó Kaisiadorys területén, ideális a természet kedvelőinek és a csendes kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.476879,
+                        54.908593
+                  ]
+            },
+            {
+                  "name": "Girelės II tv.",
+                  "text": "A Girelės II tv. Kaisiadorys területén békés légkört biztosít a vízparti tevékenységekhez és a zöldben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.431142,
+                        54.846744
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Az ež. Akis egy tó Kaisiadorys területén, amely természetes környezetével pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        24.487826,
+                        54.854394
+                  ]
+            },
+            {
+                  "name": "Žaslių ež.",
+                  "text": "A Žaslių ež. egy jelentős tó Kaisiadorys területén, amely széles vízfelületéről és szép parti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.584028,
+                        54.852288
+                  ]
+            },
+            {
+                  "name": "Pastrėvio HE tv.",
+                  "text": "A Pastrėvio HE tv. Kaisiadorys területén egy olyan vízfelület, amely nyugodt környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.51915,
+                        54.785618
+                  ]
+            },
+            {
+                  "name": "Kriaučiškių ež.",
+                  "text": "A Kriaučiškių ež. Kaisiadorys területén egy csendes tó, amely ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.503221,
+                        54.851183
+                  ]
+            },
+            {
+                  "name": "Gudienos III tv.",
+                  "text": "A Gudienos III tv. egy tó Kaisiadorys területén, amely kellemes környezetet biztosít rövid természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.478511,
+                        54.860352
+                  ]
+            },
+            {
+                  "name": "Gudienos I tv.",
+                  "text": "A Gudienos I tv. Kaisiadorys területén kedvelt helyi célpont vízparti sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.481111,
+                        54.860909
+                  ]
+            },
+            {
+                  "name": "Gudienos II tv.",
+                  "text": "A Gudienos II tv. egy tó Kaisiadorys területén, amely békés környezetet biztosít a látogatóknak a szabadban való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.484799,
+                        54.859551
+                  ]
+            },
+            {
+                  "name": "Kiemelių ež.",
+                  "text": "A Kiemelių ež. Kaisiadorys területén csendes elhelyezkedésével és természetes parti növényzetével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        24.478157,
+                        54.848978
+                  ]
+            },
+            {
+                  "name": "Bačkonių II tv.",
+                  "text": "A Bačkonių II tv. egy tó Kaisiadorys területén, amely nyugodt helyszínt biztosít a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.498841,
+                        54.80238
+                  ]
+            },
+            {
+                  "name": "Triliškių tv.",
+                  "text": "A Triliškių tv. Kaisiadorys területén széles kilátást nyújt a vízre, és pihentető sétákra invitál.",
+                  "category": "natural",
+                  "coords": [
+                        24.44438,
+                        54.816125
+                  ]
+            },
+            {
+                  "name": "Žalvarnių tv.",
+                  "text": "A Žalvarnių tv. egy tó Kaisiadorys területén, amely békés légkört teremt a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.442861,
+                        54.789541
+                  ]
+            },
+            {
+                  "name": "Bačkonių I tv.",
+                  "text": "A Bačkonių I tv. Kaisiadorys területén egy helyi tó, amely jól megfelel a csendes szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.492113,
+                        54.80087
+                  ]
+            },
+            {
+                  "name": "Kalniškių tv.",
+                  "text": "A Kalniškių tv. egy tó Kaisiadorys területén, amely természetes környezetet biztosít a túrázáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.497128,
+                        54.882265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Girelės I tv.",
+                  "text": "Girelės I tv. este un lac în Kaisiadorys, oferind un cadru liniștit pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.4232,
+                        54.846954
+                  ]
+            },
+            {
+                  "name": "Bulotų tv.",
+                  "text": "Bulotų tv. din Kaisiadorys este un corp de apă local, potrivit pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.421618,
+                        54.777031
+                  ]
+            },
+            {
+                  "name": "Bartaičių tv.",
+                  "text": "Bartaičių tv. este un lac în Kaisiadorys, oferind vizitatorilor un mediu plăcut pentru activități recreative în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.496814,
+                        54.869668
+                  ]
+            },
+            {
+                  "name": "Žiežmarių II tv.",
+                  "text": "Žiežmarių II tv. din Kaisiadorys invită la momente de relaxare pe malul apei cu suprafața sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.434922,
+                        54.809785
+                  ]
+            },
+            {
+                  "name": "Žiežmarių I tv.",
+                  "text": "Lacul Žiežmarių I tv. din Kaisiadorys este un loc frumos pentru a te bucura de peisajul natural în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.438833,
+                        54.811666
+                  ]
+            },
+            {
+                  "name": "Uternos ež.",
+                  "text": "Uternos ež. este un lac pitoresc în Kaisiadorys, ideal pentru iubitorii de natură și relaxare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.476879,
+                        54.908593
+                  ]
+            },
+            {
+                  "name": "Girelės II tv.",
+                  "text": "Girelės II tv. din Kaisiadorys oferă o atmosferă pașnică pentru activități la apă și recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.431142,
+                        54.846744
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "ež. Akis este un lac în Kaisiadorys care invită la plimbări relaxante prin cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        24.487826,
+                        54.854394
+                  ]
+            },
+            {
+                  "name": "Žaslių ež.",
+                  "text": "Žaslių ež. este un lac important în Kaisiadorys, cunoscut pentru suprafața sa vastă de apă și peisajul frumos de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.584028,
+                        54.852288
+                  ]
+            },
+            {
+                  "name": "Pastrėvio HE tv.",
+                  "text": "Pastrėvio HE tv. din Kaisiadorys este un corp de apă care oferă un mediu liniștit pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.51915,
+                        54.785618
+                  ]
+            },
+            {
+                  "name": "Kriaučiškių ež.",
+                  "text": "Kriaučiškių ež. din Kaisiadorys este un lac liniștit, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        24.503221,
+                        54.851183
+                  ]
+            },
+            {
+                  "name": "Gudienos III tv.",
+                  "text": "Gudienos III tv. este un lac în Kaisiadorys, oferind un cadru plăcut pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.478511,
+                        54.860352
+                  ]
+            },
+            {
+                  "name": "Gudienos I tv.",
+                  "text": "Gudienos I tv. din Kaisiadorys este o destinație locală populară pentru plimbări pe malul apei și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.481111,
+                        54.860909
+                  ]
+            },
+            {
+                  "name": "Gudienos II tv.",
+                  "text": "Gudienos II tv. este un lac în Kaisiadorys, oferind vizitatorilor un mediu pașnic pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.484799,
+                        54.859551
+                  ]
+            },
+            {
+                  "name": "Kiemelių ež.",
+                  "text": "Kiemelių ež. din Kaisiadorys se remarcă prin locația sa liniștită și vegetația naturală de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.478157,
+                        54.848978
+                  ]
+            },
+            {
+                  "name": "Bačkonių II tv.",
+                  "text": "Bačkonių II tv. este un lac în Kaisiadorys, reprezentând un loc liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.498841,
+                        54.80238
+                  ]
+            },
+            {
+                  "name": "Triliškių tv.",
+                  "text": "Triliškių tv. din Kaisiadorys oferă o vedere largă asupra apei și invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        24.44438,
+                        54.816125
+                  ]
+            },
+            {
+                  "name": "Žalvarnių tv.",
+                  "text": "Žalvarnių tv. este un lac în Kaisiadorys, creând o atmosferă pașnică pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.442861,
+                        54.789541
+                  ]
+            },
+            {
+                  "name": "Bačkonių I tv.",
+                  "text": "Bačkonių I tv. din Kaisiadorys este un lac local, potrivit pentru activități recreative liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.492113,
+                        54.80087
+                  ]
+            },
+            {
+                  "name": "Kalniškių tv.",
+                  "text": "Kalniškių tv. este un lac în Kaisiadorys, oferind vizitatorilor un mediu natural pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.497128,
+                        54.882265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Girelės I tv.",
+                  "text": "Girelės I tv. is a lake in Kaisiadorys, offering a peaceful setting for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        24.4232,
+                        54.846954
+                  ]
+            },
+            {
+                  "name": "Bulotų tv.",
+                  "text": "Bulotų tv. in Kaisiadorys is a local body of water suitable for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.421618,
+                        54.777031
+                  ]
+            },
+            {
+                  "name": "Bartaičių tv.",
+                  "text": "Bartaičių tv. is a lake in Kaisiadorys, providing a pleasant environment for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        24.496814,
+                        54.869668
+                  ]
+            },
+            {
+                  "name": "Žiežmarių II tv.",
+                  "text": "Žiežmarių II tv. in Kaisiadorys invites visitors for relaxing moments by the shore with its calm water surface.",
+                  "category": "natural",
+                  "coords": [
+                        24.434922,
+                        54.809785
+                  ]
+            },
+            {
+                  "name": "Žiežmarių I tv.",
+                  "text": "The Žiežmarių I tv. lake in Kaisiadorys is a nice spot to enjoy the natural landscape during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.438833,
+                        54.811666
+                  ]
+            },
+            {
+                  "name": "Uternos ež.",
+                  "text": "Uternos ež. is a scenic lake in Kaisiadorys, ideal for nature lovers and quiet relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.476879,
+                        54.908593
+                  ]
+            },
+            {
+                  "name": "Girelės II tv.",
+                  "text": "Girelės II tv. in Kaisiadorys offers a peaceful atmosphere for waterside activities and recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.431142,
+                        54.846744
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "ež. Akis is a lake in Kaisiadorys that invites visitors for relaxing walks through its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.487826,
+                        54.854394
+                  ]
+            },
+            {
+                  "name": "Žaslių ež.",
+                  "text": "Žaslių ež. is a significant lake in Kaisiadorys, known for its wide water surface and beautiful shoreline scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.584028,
+                        54.852288
+                  ]
+            },
+            {
+                  "name": "Pastrėvio HE tv.",
+                  "text": "Pastrėvio HE tv. in Kaisiadorys is a body of water that offers a calm environment for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.51915,
+                        54.785618
+                  ]
+            },
+            {
+                  "name": "Kriaučiškių ež.",
+                  "text": "Kriaučiškių ež. in Kaisiadorys is a quiet lake, ideal for observing the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.503221,
+                        54.851183
+                  ]
+            },
+            {
+                  "name": "Gudienos III tv.",
+                  "text": "Gudienos III tv. is a lake in Kaisiadorys, offering a pleasant backdrop for short trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.478511,
+                        54.860352
+                  ]
+            },
+            {
+                  "name": "Gudienos I tv.",
+                  "text": "Gudienos I tv. in Kaisiadorys is a popular local destination for waterside walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.481111,
+                        54.860909
+                  ]
+            },
+            {
+                  "name": "Gudienos II tv.",
+                  "text": "Gudienos II tv. is a lake in Kaisiadorys, offering visitors a peaceful environment for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.484799,
+                        54.859551
+                  ]
+            },
+            {
+                  "name": "Kiemelių ež.",
+                  "text": "Kiemelių ež. in Kaisiadorys is characterized by its quiet location and natural shoreline vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        24.478157,
+                        54.848978
+                  ]
+            },
+            {
+                  "name": "Bačkonių II tv.",
+                  "text": "Bačkonių II tv. is a lake in Kaisiadorys, representing a quiet spot for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.498841,
+                        54.80238
+                  ]
+            },
+            {
+                  "name": "Triliškių tv.",
+                  "text": "Triliškių tv. in Kaisiadorys offers a wide view of the water and invites visitors for restorative walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.44438,
+                        54.816125
+                  ]
+            },
+            {
+                  "name": "Žalvarnių tv.",
+                  "text": "Žalvarnių tv. is a lake in Kaisiadorys, creating a peaceful atmosphere for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.442861,
+                        54.789541
+                  ]
+            },
+            {
+                  "name": "Bačkonių I tv.",
+                  "text": "Bačkonių I tv. in Kaisiadorys is a local lake well-suited for quiet outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        24.492113,
+                        54.80087
+                  ]
+            },
+            {
+                  "name": "Kalniškių tv.",
+                  "text": "Kalniškių tv. is a lake in Kaisiadorys, providing visitors with a natural setting for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.497128,
+                        54.882265
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kaišiadorys", hu: "Kaišiadorys", ro: "Kaišiadorys", en: "Kaišiadorys"},
@@ -13980,7 +23529,160 @@ imageHint: "Kaisiadorys cathedral and railway",
     },
     image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp",
 },  {
-    id: "lithuania-pasvalys-cities-v2",
+    id: "lithuania-pasvalys-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pajiešmenių tv.",
+                  "text": "Der Pajiešmeniai-Stausee in Pasvalys bietet eine angenehme Umgebung für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        24.490881,
+                        56.106442
+                  ]
+            },
+            {
+                  "name": "Šilo ež.",
+                  "text": "Der Šilo-See in Pasvalys ist ein ruhiger Rückzugsort in der Natur, ideal für kleine Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        24.379372,
+                        56.051051
+                  ]
+            },
+            {
+                  "name": "Švendežeris",
+                  "text": "Der Švendežeris-See in Pasvalys lädt Besucher dazu ein, die friedliche Atmosphäre der Region zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.411588,
+                        56.09036
+                  ]
+            },
+            {
+                  "name": "Pasvalio miesto tv.",
+                  "text": "Der Pasvalys-Stadtstausee ist ein zentraler Erholungsort für Spaziergänge und Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.380915,
+                        56.056549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pajiešmenių tv.",
+                  "text": "A Pasvalys területén található Pajiešmenių tv. kellemes környezetet biztosít a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.490881,
+                        56.106442
+                  ]
+            },
+            {
+                  "name": "Šilo ež.",
+                  "text": "A Pasvalys melletti Šilo-tó egy nyugodt természeti menedék, amely ideális kisebb kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.379372,
+                        56.051051
+                  ]
+            },
+            {
+                  "name": "Švendežeris",
+                  "text": "A Pasvalys városában lévő Švendežeris-tó arra invitálja a látogatókat, hogy élvezzék a régió békés hangulatát.",
+                  "category": "natural",
+                  "coords": [
+                        24.411588,
+                        56.09036
+                  ]
+            },
+            {
+                  "name": "Pasvalio miesto tv.",
+                  "text": "A Pasvalys városi tó központi pihenőhely a vízparti sétákhoz és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.380915,
+                        56.056549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pajiešmenių tv.",
+                  "text": "Lacul Pajiešmenių tv. din Pasvalys oferă un mediu plăcut pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.490881,
+                        56.106442
+                  ]
+            },
+            {
+                  "name": "Šilo ež.",
+                  "text": "Lacul Šilo din Pasvalys este un refugiu liniștit în natură, ideal pentru mici excursii.",
+                  "category": "natural",
+                  "coords": [
+                        24.379372,
+                        56.051051
+                  ]
+            },
+            {
+                  "name": "Švendežeris",
+                  "text": "Lacul Švendežeris din Pasvalys invită vizitatorii să se bucure de atmosfera liniștită a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        24.411588,
+                        56.09036
+                  ]
+            },
+            {
+                  "name": "Pasvalio miesto tv.",
+                  "text": "Lacul orașului Pasvalys este un loc central de recreere pentru plimbări și relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        24.380915,
+                        56.056549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pajiešmenių tv.",
+                  "text": "Pajiešmenių tv. lake in Pasvalys offers a pleasant environment for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        24.490881,
+                        56.106442
+                  ]
+            },
+            {
+                  "name": "Šilo ež.",
+                  "text": "Šilo lake in Pasvalys is a quiet retreat in nature, ideal for small excursions.",
+                  "category": "natural",
+                  "coords": [
+                        24.379372,
+                        56.051051
+                  ]
+            },
+            {
+                  "name": "Švendežeris",
+                  "text": "Švendežeris lake in Pasvalys invites visitors to enjoy the peaceful atmosphere of the region.",
+                  "category": "natural",
+                  "coords": [
+                        24.411588,
+                        56.09036
+                  ]
+            },
+            {
+                  "name": "Pasvalio miesto tv.",
+                  "text": "Pasvalys city lake is a central recreation spot for walks and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.380915,
+                        56.056549
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Pasvalys", hu: "Pasvalys", ro: "Pasvalys", en: "Pasvalys"},
@@ -14144,6 +23846,96 @@ imageHint: "Pasvalys river and sinkhole park",
                         24.976196,
                         55.842071
                   ]
+            },
+            {
+                  "name": "Drulėnų ež.",
+                  "text": "Ein See in der Region Kupiskis, der eine friedliche Atmosphäre für Besucher schafft.",
+                  "category": "natural",
+                  "coords": [
+                        24.945918,
+                        55.87341
+                  ]
+            },
+            {
+                  "name": "Didžprūdelių tv.",
+                  "text": "Ein Gewässer bei Kupiskis, ideal für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        24.874645,
+                        55.863489
+                  ]
+            },
+            {
+                  "name": "Račiupio tv.",
+                  "text": "Dieser See in Kupiskis bietet einen ruhigen Ort zum Verweilen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.984656,
+                        55.832897
+                  ]
+            },
+            {
+                  "name": "Kupiškio marios",
+                  "text": "Ein bedeutendes Gewässer in Kupiskis, bekannt für seine weite Wasserfläche und Naturschönheit.",
+                  "category": "natural",
+                  "coords": [
+                        25.024846,
+                        55.930824
+                  ]
+            },
+            {
+                  "name": "ež. Indubas",
+                  "text": "Ein kleinerer See bei Kupiskis, der eine idyllische Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.01368,
+                        55.844399
+                  ]
+            },
+            {
+                  "name": "ež. Varležeris",
+                  "text": "Ein naturbelassener See in Kupiskis, ideal für entspannende Beobachtungen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.991029,
+                        55.844576
+                  ]
+            },
+            {
+                  "name": "Vizgiūnų tv.",
+                  "text": "Ein ruhiges Gewässer in Kupiskis, das sich perfekt für einen ruhigen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.90693,
+                        55.835934
+                  ]
+            },
+            {
+                  "name": "Akmenytės ež.",
+                  "text": "Ein malerischer See bei Kupiskis, umgeben von einer ruhigen natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        24.912796,
+                        55.836628
+                  ]
+            },
+            {
+                  "name": "Noriūnų tv.",
+                  "text": "Ein See in Kupiskis, der eine entspannte Atmosphäre für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.896837,
+                        55.807713
+                  ]
+            },
+            {
+                  "name": "ež. Kalkynas",
+                  "text": "Ein Gewässer in Kupiskis, das Ruhe und einen schönen Blick auf die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.963465,
+                        55.842646
+                  ]
             }
       ],
       "hu": [
@@ -14262,6 +24054,96 @@ imageHint: "Pasvalys river and sinkhole park",
                   "coords": [
                         24.976196,
                         55.842071
+                  ]
+            },
+            {
+                  "name": "Drulėnų ež.",
+                  "text": "Kupiskis régiójában található tó, amely békés hangulatot áraszt az odalátogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        24.945918,
+                        55.87341
+                  ]
+            },
+            {
+                  "name": "Didžprūdelių tv.",
+                  "text": "Kupiskis melletti vízfelület, amely ideális egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        24.874645,
+                        55.863489
+                  ]
+            },
+            {
+                  "name": "Račiupio tv.",
+                  "text": "Ez a Kupiskis-i tó nyugodt helyet kínál a táj élvezetéhez és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.984656,
+                        55.832897
+                  ]
+            },
+            {
+                  "name": "Kupiškio marios",
+                  "text": "Kupiskis egyik jelentős vízfelülete, amely tágas területéről és természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.024846,
+                        55.930824
+                  ]
+            },
+            {
+                  "name": "ež. Indubas",
+                  "text": "Kisebb tó Kupiskis mellett, amely idilli környezetet biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.01368,
+                        55.844399
+                  ]
+            },
+            {
+                  "name": "ež. Varležeris",
+                  "text": "Természetközeli tó Kupiskis területén, amely kiválóan alkalmas a szabadtéri megfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        24.991029,
+                        55.844576
+                  ]
+            },
+            {
+                  "name": "Vizgiūnų tv.",
+                  "text": "Csendes vízfelület Kupiskis területén, amely tökéletes egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.90693,
+                        55.835934
+                  ]
+            },
+            {
+                  "name": "Akmenytės ež.",
+                  "text": "Festői tó Kupiskis közelében, amelyet nyugodt természeti környezet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        24.912796,
+                        55.836628
+                  ]
+            },
+            {
+                  "name": "Noriūnų tv.",
+                  "text": "Kupiskis-i tó, amely pihentető légkört biztosít a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.896837,
+                        55.807713
+                  ]
+            },
+            {
+                  "name": "ež. Kalkynas",
+                  "text": "Vízfelület Kupiskis területén, amely békét és szép kilátást nyújt a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        24.963465,
+                        55.842646
                   ]
             }
       ],
@@ -14382,6 +24264,96 @@ imageHint: "Pasvalys river and sinkhole park",
                         24.976196,
                         55.842071
                   ]
+            },
+            {
+                  "name": "Drulėnų ež.",
+                  "text": "Un lac în regiunea Kupiskis, care oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        24.945918,
+                        55.87341
+                  ]
+            },
+            {
+                  "name": "Didžprūdelių tv.",
+                  "text": "O zonă acvatică lângă Kupiskis, ideală pentru o scurtă pauză în mijlocul verdeții.",
+                  "category": "natural",
+                  "coords": [
+                        24.874645,
+                        55.863489
+                  ]
+            },
+            {
+                  "name": "Račiupio tv.",
+                  "text": "Acest lac din Kupiskis oferă un loc liniștit pentru a poposi și a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        24.984656,
+                        55.832897
+                  ]
+            },
+            {
+                  "name": "Kupiškio marios",
+                  "text": "O apă importantă în Kupiskis, cunoscută pentru suprafața sa vastă și frumusețea naturală.",
+                  "category": "natural",
+                  "coords": [
+                        25.024846,
+                        55.930824
+                  ]
+            },
+            {
+                  "name": "ež. Indubas",
+                  "text": "Un lac mai mic lângă Kupiskis, care oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.01368,
+                        55.844399
+                  ]
+            },
+            {
+                  "name": "ež. Varležeris",
+                  "text": "Un lac natural în Kupiskis, ideal pentru observații relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.991029,
+                        55.844576
+                  ]
+            },
+            {
+                  "name": "Vizgiūnų tv.",
+                  "text": "O zonă acvatică liniștită în Kupiskis, perfectă pentru o plimbare calmă.",
+                  "category": "natural",
+                  "coords": [
+                        24.90693,
+                        55.835934
+                  ]
+            },
+            {
+                  "name": "Akmenytės ež.",
+                  "text": "Un lac pitoresc lângă Kupiskis, înconjurat de un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        24.912796,
+                        55.836628
+                  ]
+            },
+            {
+                  "name": "Noriūnų tv.",
+                  "text": "Un lac în Kupiskis, care oferă o atmosferă relaxantă pentru cei care caută odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        24.896837,
+                        55.807713
+                  ]
+            },
+            {
+                  "name": "ež. Kalkynas",
+                  "text": "O zonă acvatică în Kupiskis, care oferă liniște și o vedere frumoasă asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.963465,
+                        55.842646
+                  ]
             }
       ],
       "en": [
@@ -14500,6 +24472,96 @@ imageHint: "Pasvalys river and sinkhole park",
                   "coords": [
                         24.976196,
                         55.842071
+                  ]
+            },
+            {
+                  "name": "Drulėnų ež.",
+                  "text": "A lake in the Kupiskis region, providing a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        24.945918,
+                        55.87341
+                  ]
+            },
+            {
+                  "name": "Didžprūdelių tv.",
+                  "text": "A body of water near Kupiskis, ideal for a short break in the green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.874645,
+                        55.863489
+                  ]
+            },
+            {
+                  "name": "Račiupio tv.",
+                  "text": "This lake in Kupiskis offers a quiet spot to stay and enjoy the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.984656,
+                        55.832897
+                  ]
+            },
+            {
+                  "name": "Kupiškio marios",
+                  "text": "A significant body of water in Kupiskis, known for its wide surface and natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        25.024846,
+                        55.930824
+                  ]
+            },
+            {
+                  "name": "ež. Indubas",
+                  "text": "A smaller lake near Kupiskis, offering an idyllic setting for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        25.01368,
+                        55.844399
+                  ]
+            },
+            {
+                  "name": "ež. Varležeris",
+                  "text": "A natural lake in Kupiskis, ideal for relaxing outdoor observations.",
+                  "category": "natural",
+                  "coords": [
+                        24.991029,
+                        55.844576
+                  ]
+            },
+            {
+                  "name": "Vizgiūnų tv.",
+                  "text": "A quiet body of water in Kupiskis, perfect for a peaceful stroll.",
+                  "category": "natural",
+                  "coords": [
+                        24.90693,
+                        55.835934
+                  ]
+            },
+            {
+                  "name": "Akmenytės ež.",
+                  "text": "A scenic lake near Kupiskis, surrounded by a peaceful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.912796,
+                        55.836628
+                  ]
+            },
+            {
+                  "name": "Noriūnų tv.",
+                  "text": "A lake in Kupiskis, providing a relaxed atmosphere for those seeking rest.",
+                  "category": "natural",
+                  "coords": [
+                        24.896837,
+                        55.807713
+                  ]
+            },
+            {
+                  "name": "ež. Kalkynas",
+                  "text": "A body of water in Kupiskis, offering tranquility and a lovely view of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.963465,
+                        55.842646
                   ]
             }
       ]
@@ -14622,6 +24684,231 @@ imageHint: "Kupiskis church and reservoir",
                         26.241602,
                         55.720944
                   ]
+            },
+            {
+                  "name": "Grāveļu ezers",
+                  "text": "Der Grāveļu ezers ist ein natürlicher See in Zarasai, ideal für ruhige Naturerlebnisse und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.341879,
+                        55.77539
+                  ]
+            },
+            {
+                  "name": "Mazais Ilgas ezers",
+                  "text": "Der Mazais Ilgas ezers in Zarasai bietet eine friedliche Wasserlandschaft für Erholungssuchende im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.310875,
+                        55.798375
+                  ]
+            },
+            {
+                  "name": "Gabrio ež. / Gabra ezers",
+                  "text": "Der Gabrio ež. / Gabra ezers ist ein grenznaher See in Zarasai, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.276801,
+                        55.763818
+                  ]
+            },
+            {
+                  "name": "Kurcumų ež. / Kurčina ezers",
+                  "text": "Der Kurcumų ež. / Kurčina ezers in Zarasai zeichnet sich durch seine ruhige Lage in einer seenreichen Region aus.",
+                  "category": "natural",
+                  "coords": [
+                        26.282803,
+                        55.760712
+                  ]
+            },
+            {
+                  "name": "Glušačoks",
+                  "text": "Der Glušačoks ist ein kleinerer See in Zarasai, der eine intime und ruhige Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.287158,
+                        55.761507
+                  ]
+            },
+            {
+                  "name": "Mazais Kumpinišku ezers",
+                  "text": "Der Mazais Kumpinišku ezers in Zarasai ist ein stilles Gewässer, ideal für erholsame Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.275406,
+                        55.774718
+                  ]
+            },
+            {
+                  "name": "ež. Gulbinis",
+                  "text": "Der ež. Gulbinis ist ein See in Zarasai, der Besuchern eine schöne Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.202248,
+                        55.688003
+                  ]
+            },
+            {
+                  "name": "ež. Ažuraistis",
+                  "text": "Der ež. Ažuraistis in Zarasai bietet eine friedliche Umgebung für Freizeitaktivitäten und Entspannung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        26.167729,
+                        55.699727
+                  ]
+            },
+            {
+                  "name": "Pabēržu ezers",
+                  "text": "Der Pabēržu ezers ist ein See in Zarasai, der sich harmonisch in die umliegende Hügellandschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        26.311207,
+                        55.776054
+                  ]
+            },
+            {
+                  "name": "Bezvārdis",
+                  "text": "Der Bezvārdis in Zarasai ist ein ruhiger See, der einen idealen Ort für eine Pause während einer Wanderung darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        26.348241,
+                        55.775736
+                  ]
+            },
+            {
+                  "name": "Ozerka",
+                  "text": "Der Ozerka ist ein lokales Gewässer in Zarasai, bekannt für seine ruhige Wasserfläche und natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.361752,
+                        55.746293
+                  ]
+            },
+            {
+                  "name": "Golodajevkas ezers",
+                  "text": "Der Golodajevkas ezers in Zarasai bietet Besuchern einen stillen Rückzugsort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.368255,
+                        55.761437
+                  ]
+            },
+            {
+                  "name": "Ružu ezers",
+                  "text": "Der Ružu ezers ist ein See in Zarasai, der durch seine friedliche Lage zum Verweilen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.351336,
+                        55.773095
+                  ]
+            },
+            {
+                  "name": "ež. Aleininkai",
+                  "text": "Der ež. Aleininkai in Zarasai ist ein See, der eine schöne Kulisse für ruhige Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.24438,
+                        55.785303
+                  ]
+            },
+            {
+                  "name": "ež. Ramaičiukas",
+                  "text": "Der ež. Ramaičiukas ist ein kleinerer See in Zarasai, der eine ruhige Atmosphäre für Naturfreunde bereithält.",
+                  "category": "natural",
+                  "coords": [
+                        26.338908,
+                        55.687806
+                  ]
+            },
+            {
+                  "name": "Jokubinės ež.",
+                  "text": "Der Jokubinės ež. in Zarasai ist ein natürliches Gewässer, ideal für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.34706,
+                        55.72441
+                  ]
+            },
+            {
+                  "name": "ež. Berčiūnas",
+                  "text": "Der ež. Berčiūnas ist ein See in Zarasai, der eine friedliche Umgebung für kurze Wanderungen und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.239854,
+                        55.680834
+                  ]
+            },
+            {
+                  "name": "ež. Peikis",
+                  "text": "Der ež. Peikis in Zarasai zeichnet sich durch seine ruhige Lage und die natürliche Schönheit der Ufer aus.",
+                  "category": "natural",
+                  "coords": [
+                        26.151974,
+                        55.758619
+                  ]
+            },
+            {
+                  "name": "ež. Gružtas",
+                  "text": "Der ež. Gružtas ist ein See in Zarasai, der Besuchern eine entspannte Atmosphäre für Aktivitäten am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.196396,
+                        55.722336
+                  ]
+            },
+            {
+                  "name": "Vasara ezers",
+                  "text": "Der Vasara ezers in Zarasai bietet eine malerische Wasserfläche für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.324233,
+                        55.790064
+                  ]
+            },
+            {
+                  "name": "Pastorāta ezers",
+                  "text": "Der Pastorāta ezers ist ein See in Zarasai, der eine friedliche Kulisse für Spaziergänge am Seeufer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.315495,
+                        55.75764
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas / Laucesas ezers",
+                  "text": "Der ež. Laukesas / Laucesas ezers in Zarasai ist ein grenzüberschreitender See, bekannt für seine weite und ruhige Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        26.297501,
+                        55.752881
+                  ]
+            },
+            {
+                  "name": "ež. Zarasas",
+                  "text": "Der ež. Zarasas ist ein zentraler und landschaftlich reizvoller See in Zarasai, ideal für Erholung und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.227753,
+                        55.730362
+                  ]
+            },
+            {
+                  "name": "ež. Avilys",
+                  "text": "Der ež. Avilys in Zarasai gehört zu den größeren Seen der Region und bietet vielfältige Möglichkeiten zur Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        26.078311,
+                        55.753519
+                  ]
+            },
+            {
+                  "name": "ež. Baltas",
+                  "text": "Der ež. Baltas ist ein See in Zarasai, der durch seine klare Wasserfläche und die ruhige Umgebung besticht.",
+                  "category": "natural",
+                  "coords": [
+                        26.282595,
+                        55.753135
+                  ]
             }
       ],
       "hu": [
@@ -14695,6 +24982,231 @@ imageHint: "Kupiskis church and reservoir",
                   "coords": [
                         26.241602,
                         55.720944
+                  ]
+            },
+            {
+                  "name": "Grāveļu ezers",
+                  "text": "A Grāveļu ezers egy természetes tó Zarasai területén, ideális a csendes természetjáráshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.341879,
+                        55.77539
+                  ]
+            },
+            {
+                  "name": "Mazais Ilgas ezers",
+                  "text": "A Mazais Ilgas ezers Zarasai területén békés vízi tájat kínál a szabadban kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.310875,
+                        55.798375
+                  ]
+            },
+            {
+                  "name": "Gabrio ež. / Gabra ezers",
+                  "text": "A Gabrio ež. / Gabra ezers egy határhoz közeli tó Zarasai területén, amely pihentető pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.276801,
+                        55.763818
+                  ]
+            },
+            {
+                  "name": "Kurcumų ež. / Kurčina ezers",
+                  "text": "A Kurcumų ež. / Kurčina ezers Zarasai területén csendes elhelyezkedésével tűnik ki egy tavakban gazdag régióban.",
+                  "category": "natural",
+                  "coords": [
+                        26.282803,
+                        55.760712
+                  ]
+            },
+            {
+                  "name": "Glušačoks",
+                  "text": "A Glušačoks egy kisebb tó Zarasai területén, amely meghitt és csendes hangulatot áraszt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.287158,
+                        55.761507
+                  ]
+            },
+            {
+                  "name": "Mazais Kumpinišku ezers",
+                  "text": "A Mazais Kumpinišku ezers Zarasai területén egy csendes vízfelület, amely ideális a pihentető vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.275406,
+                        55.774718
+                  ]
+            },
+            {
+                  "name": "ež. Gulbinis",
+                  "text": "Az ež. Gulbinis egy tó Zarasai területén, amely szép környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.202248,
+                        55.688003
+                  ]
+            },
+            {
+                  "name": "ež. Ažuraistis",
+                  "text": "Az ež. Ažuraistis Zarasai területén békés környezetet kínál a szabadidős tevékenységekhez és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.167729,
+                        55.699727
+                  ]
+            },
+            {
+                  "name": "Pabēržu ezers",
+                  "text": "A Pabēržu ezers egy tó Zarasai területén, amely harmonikusan illeszkedik a környező dombos tájba.",
+                  "category": "natural",
+                  "coords": [
+                        26.311207,
+                        55.776054
+                  ]
+            },
+            {
+                  "name": "Bezvārdis",
+                  "text": "A Bezvārdis Zarasai területén egy csendes tó, amely ideális helyszín egy pihenőhöz a túrázás során.",
+                  "category": "natural",
+                  "coords": [
+                        26.348241,
+                        55.775736
+                  ]
+            },
+            {
+                  "name": "Ozerka",
+                  "text": "Az Ozerka egy helyi vízfelület Zarasai területén, amely nyugodt vizéről és természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.361752,
+                        55.746293
+                  ]
+            },
+            {
+                  "name": "Golodajevkas ezers",
+                  "text": "A Golodajevkas ezers Zarasai területén csendes menedéket kínál a látogatóknak a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        26.368255,
+                        55.761437
+                  ]
+            },
+            {
+                  "name": "Ružu ezers",
+                  "text": "A Ružu ezers egy tó Zarasai területén, amely békés elhelyezkedésével pihenésre és kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        26.351336,
+                        55.773095
+                  ]
+            },
+            {
+                  "name": "ež. Aleininkai",
+                  "text": "Az ež. Aleininkai Zarasai területén egy tó, amely szép környezetet biztosít a csendes szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.24438,
+                        55.785303
+                  ]
+            },
+            {
+                  "name": "ež. Ramaičiukas",
+                  "text": "Az ež. Ramaičiukas egy kisebb tó Zarasai területén, amely csendes hangulatot kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.338908,
+                        55.687806
+                  ]
+            },
+            {
+                  "name": "Jokubinės ež.",
+                  "text": "A Jokubinės ež. Zarasai területén egy természetes vízfelület, ideális a természetben töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.34706,
+                        55.72441
+                  ]
+            },
+            {
+                  "name": "ež. Berčiūnas",
+                  "text": "Az ež. Berčiūnas egy tó Zarasai területén, amely békés környezetet kínál rövid túrákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.239854,
+                        55.680834
+                  ]
+            },
+            {
+                  "name": "ež. Peikis",
+                  "text": "Az ež. Peikis Zarasai területén csendes elhelyezkedésével és a partok természetes szépségével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        26.151974,
+                        55.758619
+                  ]
+            },
+            {
+                  "name": "ež. Gružtas",
+                  "text": "Az ež. Gružtas egy tó Zarasai területén, amely pihentető légkört biztosít a vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.196396,
+                        55.722336
+                  ]
+            },
+            {
+                  "name": "Vasara ezers",
+                  "text": "A Vasara ezers Zarasai területén festői vízfelületet kínál a természetben töltött csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.324233,
+                        55.790064
+                  ]
+            },
+            {
+                  "name": "Pastorāta ezers",
+                  "text": "A Pastorāta ezers egy tó Zarasai területén, amely békés környezetet biztosít a tóparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.315495,
+                        55.75764
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas / Laucesas ezers",
+                  "text": "Az ež. Laukesas / Laucesas ezers Zarasai területén egy határon átnyúló tó, amely széles és nyugodt vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.297501,
+                        55.752881
+                  ]
+            },
+            {
+                  "name": "ež. Zarasas",
+                  "text": "Az ež. Zarasas egy központi és tájilag vonzó tó Zarasai területén, ideális pihenésre és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        26.227753,
+                        55.730362
+                  ]
+            },
+            {
+                  "name": "ež. Avilys",
+                  "text": "Az ež. Avilys Zarasai területén a régió nagyobb tavai közé tartozik, és változatos lehetőségeket kínál a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.078311,
+                        55.753519
+                  ]
+            },
+            {
+                  "name": "ež. Baltas",
+                  "text": "Az ež. Baltas egy tó Zarasai területén, amely tiszta vízfelületével és nyugodt környezetével nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.282595,
+                        55.753135
                   ]
             }
       ],
@@ -14770,6 +25282,231 @@ imageHint: "Kupiskis church and reservoir",
                         26.241602,
                         55.720944
                   ]
+            },
+            {
+                  "name": "Grāveļu ezers",
+                  "text": "Grāveļu ezers este un lac natural în Zarasai, ideal pentru experiențe liniștite în natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.341879,
+                        55.77539
+                  ]
+            },
+            {
+                  "name": "Mazais Ilgas ezers",
+                  "text": "Mazais Ilgas ezers din Zarasai oferă un peisaj acvatic pașnic pentru cei care caută recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.310875,
+                        55.798375
+                  ]
+            },
+            {
+                  "name": "Gabrio ež. / Gabra ezers",
+                  "text": "Gabrio ež. / Gabra ezers este un lac de frontieră în Zarasai, care invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.276801,
+                        55.763818
+                  ]
+            },
+            {
+                  "name": "Kurcumų ež. / Kurčina ezers",
+                  "text": "Kurcumų ež. / Kurčina ezers din Zarasai se remarcă prin locația sa liniștită într-o regiune bogată în lacuri.",
+                  "category": "natural",
+                  "coords": [
+                        26.282803,
+                        55.760712
+                  ]
+            },
+            {
+                  "name": "Glušačoks",
+                  "text": "Glušačoks este un lac mai mic în Zarasai, oferind o atmosferă intimă și liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.287158,
+                        55.761507
+                  ]
+            },
+            {
+                  "name": "Mazais Kumpinišku ezers",
+                  "text": "Mazais Kumpinišku ezers din Zarasai este un corp de apă liniștit, ideal pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.275406,
+                        55.774718
+                  ]
+            },
+            {
+                  "name": "ež. Gulbinis",
+                  "text": "ež. Gulbinis este un lac în Zarasai, oferind vizitatorilor un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.202248,
+                        55.688003
+                  ]
+            },
+            {
+                  "name": "ež. Ažuraistis",
+                  "text": "ež. Ažuraistis din Zarasai oferă un mediu pașnic pentru activități recreative și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.167729,
+                        55.699727
+                  ]
+            },
+            {
+                  "name": "Pabēržu ezers",
+                  "text": "Pabēržu ezers este un lac în Zarasai, care se integrează armonios în peisajul deluros înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        26.311207,
+                        55.776054
+                  ]
+            },
+            {
+                  "name": "Bezvārdis",
+                  "text": "Bezvārdis din Zarasai este un lac liniștit, reprezentând un loc ideal pentru o pauză în timpul unei drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        26.348241,
+                        55.775736
+                  ]
+            },
+            {
+                  "name": "Ozerka",
+                  "text": "Ozerka este un corp de apă local în Zarasai, cunoscut pentru suprafața sa liniștită și cadrul natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.361752,
+                        55.746293
+                  ]
+            },
+            {
+                  "name": "Golodajevkas ezers",
+                  "text": "Golodajevkas ezers din Zarasai oferă vizitatorilor un refugiu liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.368255,
+                        55.761437
+                  ]
+            },
+            {
+                  "name": "Ružu ezers",
+                  "text": "Ružu ezers este un lac în Zarasai care, prin locația sa pașnică, invită la relaxare și petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.351336,
+                        55.773095
+                  ]
+            },
+            {
+                  "name": "ež. Aleininkai",
+                  "text": "ež. Aleininkai din Zarasai este un lac care oferă un cadru frumos pentru plimbări liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.24438,
+                        55.785303
+                  ]
+            },
+            {
+                  "name": "ež. Ramaičiukas",
+                  "text": "ež. Ramaičiukas este un lac mai mic în Zarasai, oferind o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.338908,
+                        55.687806
+                  ]
+            },
+            {
+                  "name": "Jokubinės ež.",
+                  "text": "Jokubinės ež. din Zarasai este un corp de apă natural, ideal pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.34706,
+                        55.72441
+                  ]
+            },
+            {
+                  "name": "ež. Berčiūnas",
+                  "text": "ež. Berčiūnas este un lac în Zarasai, oferind un mediu pașnic pentru scurte drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.239854,
+                        55.680834
+                  ]
+            },
+            {
+                  "name": "ež. Peikis",
+                  "text": "ež. Peikis din Zarasai se remarcă prin locația sa liniștită și frumusețea naturală a malurilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.151974,
+                        55.758619
+                  ]
+            },
+            {
+                  "name": "ež. Gružtas",
+                  "text": "ež. Gružtas este un lac în Zarasai, oferind vizitatorilor o atmosferă relaxată pentru activități la apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.196396,
+                        55.722336
+                  ]
+            },
+            {
+                  "name": "Vasara ezers",
+                  "text": "Vasara ezers din Zarasai oferă o suprafață de apă pitorească pentru momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.324233,
+                        55.790064
+                  ]
+            },
+            {
+                  "name": "Pastorāta ezers",
+                  "text": "Pastorāta ezers este un lac în Zarasai, oferind un cadru pașnic pentru plimbări pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        26.315495,
+                        55.75764
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas / Laucesas ezers",
+                  "text": "ež. Laukesas / Laucesas ezers din Zarasai este un lac transfrontalier, cunoscut pentru suprafața sa vastă și liniștită de apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.297501,
+                        55.752881
+                  ]
+            },
+            {
+                  "name": "ež. Zarasas",
+                  "text": "ež. Zarasas este un lac central și pitoresc în Zarasai, ideal pentru recreere și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.227753,
+                        55.730362
+                  ]
+            },
+            {
+                  "name": "ež. Avilys",
+                  "text": "ež. Avilys din Zarasai este unul dintre lacurile mai mari din regiune, oferind diverse posibilități pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.078311,
+                        55.753519
+                  ]
+            },
+            {
+                  "name": "ež. Baltas",
+                  "text": "ež. Baltas este un lac în Zarasai, care impresionează prin suprafața sa de apă clară și cadrul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.282595,
+                        55.753135
+                  ]
             }
       ],
       "en": [
@@ -14843,6 +25580,231 @@ imageHint: "Kupiskis church and reservoir",
                   "coords": [
                         26.241602,
                         55.720944
+                  ]
+            },
+            {
+                  "name": "Grāveļu ezers",
+                  "text": "Grāveļu ezers is a natural lake in Zarasai, ideal for quiet nature experiences and walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.341879,
+                        55.77539
+                  ]
+            },
+            {
+                  "name": "Mazais Ilgas ezers",
+                  "text": "Mazais Ilgas ezers in Zarasai offers a peaceful water landscape for those seeking outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.310875,
+                        55.798375
+                  ]
+            },
+            {
+                  "name": "Gabrio ež. / Gabra ezers",
+                  "text": "Gabrio ež. / Gabra ezers is a cross-border lake in Zarasai, inviting visitors for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.276801,
+                        55.763818
+                  ]
+            },
+            {
+                  "name": "Kurcumų ež. / Kurčina ezers",
+                  "text": "Kurcumų ež. / Kurčina ezers in Zarasai is known for its quiet location in a lake-rich region.",
+                  "category": "natural",
+                  "coords": [
+                        26.282803,
+                        55.760712
+                  ]
+            },
+            {
+                  "name": "Glušačoks",
+                  "text": "Glušačoks is a smaller lake in Zarasai, offering an intimate and quiet atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.287158,
+                        55.761507
+                  ]
+            },
+            {
+                  "name": "Mazais Kumpinišku ezers",
+                  "text": "Mazais Kumpinišku ezers in Zarasai is a still body of water, ideal for restorative walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.275406,
+                        55.774718
+                  ]
+            },
+            {
+                  "name": "ež. Gulbinis",
+                  "text": "ež. Gulbinis is a lake in Zarasai, providing visitors with a beautiful backdrop for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.202248,
+                        55.688003
+                  ]
+            },
+            {
+                  "name": "ež. Ažuraistis",
+                  "text": "ež. Ažuraistis in Zarasai offers a peaceful environment for leisure activities and relaxation in the green.",
+                  "category": "natural",
+                  "coords": [
+                        26.167729,
+                        55.699727
+                  ]
+            },
+            {
+                  "name": "Pabēržu ezers",
+                  "text": "Pabēržu ezers is a lake in Zarasai that blends harmoniously into the surrounding hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.311207,
+                        55.776054
+                  ]
+            },
+            {
+                  "name": "Bezvārdis",
+                  "text": "Bezvārdis in Zarasai is a quiet lake, representing an ideal spot for a break during a hike.",
+                  "category": "natural",
+                  "coords": [
+                        26.348241,
+                        55.775736
+                  ]
+            },
+            {
+                  "name": "Ozerka",
+                  "text": "Ozerka is a local body of water in Zarasai, known for its calm surface and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.361752,
+                        55.746293
+                  ]
+            },
+            {
+                  "name": "Golodajevkas ezers",
+                  "text": "Golodajevkas ezers in Zarasai offers visitors a quiet retreat in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.368255,
+                        55.761437
+                  ]
+            },
+            {
+                  "name": "Ružu ezers",
+                  "text": "Ružu ezers is a lake in Zarasai that invites visitors to stay and relax thanks to its peaceful location.",
+                  "category": "natural",
+                  "coords": [
+                        26.351336,
+                        55.773095
+                  ]
+            },
+            {
+                  "name": "ež. Aleininkai",
+                  "text": "ež. Aleininkai in Zarasai is a lake that provides a beautiful backdrop for quiet outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.24438,
+                        55.785303
+                  ]
+            },
+            {
+                  "name": "ež. Ramaičiukas",
+                  "text": "ež. Ramaičiukas is a smaller lake in Zarasai, offering a quiet atmosphere for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.338908,
+                        55.687806
+                  ]
+            },
+            {
+                  "name": "Jokubinės ež.",
+                  "text": "Jokubinės ež. in Zarasai is a natural body of water, ideal for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.34706,
+                        55.72441
+                  ]
+            },
+            {
+                  "name": "ež. Berčiūnas",
+                  "text": "ež. Berčiūnas is a lake in Zarasai, providing a peaceful environment for short hikes and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.239854,
+                        55.680834
+                  ]
+            },
+            {
+                  "name": "ež. Peikis",
+                  "text": "ež. Peikis in Zarasai is characterized by its quiet location and the natural beauty of its shores.",
+                  "category": "natural",
+                  "coords": [
+                        26.151974,
+                        55.758619
+                  ]
+            },
+            {
+                  "name": "ež. Gružtas",
+                  "text": "ež. Gružtas is a lake in Zarasai, offering visitors a relaxed atmosphere for waterside activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.196396,
+                        55.722336
+                  ]
+            },
+            {
+                  "name": "Vasara ezers",
+                  "text": "Vasara ezers in Zarasai offers a scenic water surface for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.324233,
+                        55.790064
+                  ]
+            },
+            {
+                  "name": "Pastorāta ezers",
+                  "text": "Pastorāta ezers is a lake in Zarasai, providing a peaceful backdrop for lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.315495,
+                        55.75764
+                  ]
+            },
+            {
+                  "name": "ež. Laukesas / Laucesas ezers",
+                  "text": "ež. Laukesas / Laucesas ezers in Zarasai is a cross-border lake known for its wide and calm water surface.",
+                  "category": "natural",
+                  "coords": [
+                        26.297501,
+                        55.752881
+                  ]
+            },
+            {
+                  "name": "ež. Zarasas",
+                  "text": "ež. Zarasas is a central and scenic lake in Zarasai, ideal for recreation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.227753,
+                        55.730362
+                  ]
+            },
+            {
+                  "name": "ež. Avilys",
+                  "text": "ež. Avilys in Zarasai is one of the larger lakes in the region, offering various opportunities for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.078311,
+                        55.753519
+                  ]
+            },
+            {
+                  "name": "ež. Baltas",
+                  "text": "ež. Baltas is a lake in Zarasai, notable for its clear water surface and quiet surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.282595,
+                        55.753135
                   ]
             }
       ]
@@ -15562,6 +26524,231 @@ imageHint: "Sirvintos city park and river",
                         25.423947,
                         55.234147
                   ]
+            },
+            {
+                  "name": "Braškiškių ežeriukas",
+                  "text": "Der Braškiškės-See in Molėtai ist ein kleines, charmantes Gewässer, ideal für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        25.493773,
+                        55.227688
+                  ]
+            },
+            {
+                  "name": "ež. Kanapinis",
+                  "text": "Der Kanapinis-See in Molėtai bietet eine ruhige Kulisse für Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.394706,
+                        55.206069
+                  ]
+            },
+            {
+                  "name": "ež. Duobužis",
+                  "text": "Der Duobužis-See in Molėtai ist ein malerischer Ort, der sich hervorragend für Landschaftsaufnahmen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.387347,
+                        55.209998
+                  ]
+            },
+            {
+                  "name": "ež. Mindražeris",
+                  "text": "Der Mindražeris-See in Molėtai ist von einer friedlichen Naturlandschaft umgeben, die zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.392635,
+                        55.210569
+                  ]
+            },
+            {
+                  "name": "ež. Vedinėlis",
+                  "text": "Der Vedinėlis-See in Molėtai bietet eine ruhige Atmosphäre für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.467099,
+                        55.258774
+                  ]
+            },
+            {
+                  "name": "ež. Ilgynas",
+                  "text": "Der Ilgynas-See in Molėtai ist ein schönes Ziel für Wanderer, die die Seenlandschaft der Region schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        25.450345,
+                        55.257994
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Der Varliukas-See in Molėtai ist ein kleines lokales Gewässer, das zur Naturbeobachtung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.528278,
+                        55.259201
+                  ]
+            },
+            {
+                  "name": "ež. Rituškis",
+                  "text": "Der Rituškis-See in Molėtai bietet eine abgeschiedene und ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.352803,
+                        55.212688
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Der Bevardis-See in Molėtai ist ein stiller Ort inmitten der Natur, ideal für eine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        25.463456,
+                        55.227035
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdinis",
+                  "text": "Der Bliūdinis-See in Molėtai zeichnet sich durch seine friedliche Lage und die natürliche Uferlandschaft aus.",
+                  "category": "natural",
+                  "coords": [
+                        25.394838,
+                        55.208336
+                  ]
+            },
+            {
+                  "name": "ež. Gaidžiukas",
+                  "text": "Der Gaidžiukas-See in Molėtai ist ein kleiner Natursee, der eine ruhige Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.424115,
+                        55.185181
+                  ]
+            },
+            {
+                  "name": "ež. Pamalys",
+                  "text": "Der Pamalys-See in Molėtai ist ein ruhiges Gewässer, das zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.413385,
+                        55.185471
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Der Lukštinis-See in Molėtai bietet eine idyllische Naturkulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.369703,
+                        55.214145
+                  ]
+            },
+            {
+                  "name": "ež. Siesartis",
+                  "text": "Der Siesartis-See in Molėtai ist ein großes und beliebtes Gewässer für vielfältige Naturaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        25.501517,
+                        55.22351
+                  ]
+            },
+            {
+                  "name": "ež. Luokesai",
+                  "text": "Der Luokesai-See in Molėtai ist ein bedeutendes Gewässer der Region, ideal für ausgiebige Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        25.415188,
+                        55.210727
+                  ]
+            },
+            {
+                  "name": "ež. Virintai",
+                  "text": "Der Virintai-See in Molėtai besticht durch seine weite Wasserfläche und die umgebende Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.481577,
+                        55.294167
+                  ]
+            },
+            {
+                  "name": "ež. Dūriai",
+                  "text": "Der Dūriai-See in Molėtai bietet eine friedliche Umgebung für Naturliebhaber und Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        25.401707,
+                        55.252894
+                  ]
+            },
+            {
+                  "name": "ež. Rudesa",
+                  "text": "Der Rudesa-See in Molėtai ist ein ruhiges Gewässer, eingebettet in die grüne Landschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        25.511258,
+                        55.205957
+                  ]
+            },
+            {
+                  "name": "ež. Baltieji Lakajai",
+                  "text": "Der See Baltieji Lakajai in Molėtai ist bekannt für seine natürliche Schönheit und die vielen Buchten.",
+                  "category": "natural",
+                  "coords": [
+                        25.590284,
+                        55.21175
+                  ]
+            },
+            {
+                  "name": "ež. Bebrusai",
+                  "text": "Der Bebrusai-See in Molėtai ist ein beliebtes Ziel für Ausflügler, die Ruhe am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        25.456333,
+                        55.187345
+                  ]
+            },
+            {
+                  "name": "ež. Ramošius",
+                  "text": "Der Ramošius-See in Molėtai bietet eine unberührte Naturkulisse für entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.3176,
+                        55.271959
+                  ]
+            },
+            {
+                  "name": "ež. Eglynas",
+                  "text": "Der Eglynas-See in Molėtai ist ein friedliches Gewässer, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        25.51568,
+                        55.278034
+                  ]
+            },
+            {
+                  "name": "ež. Susiedas",
+                  "text": "Der Susiedas-See in Molėtai bietet eine ruhige Atmosphäre für Spaziergänge in der Seenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.511185,
+                        55.28168
+                  ]
+            },
+            {
+                  "name": "ež. Ežerė",
+                  "text": "Der Ežerė-See in Molėtai ist ein ruhiger Ort, der zur Entspannung inmitten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.38115,
+                        55.174772
+                  ]
+            },
+            {
+                  "name": "ež. Pastovis",
+                  "text": "Der Pastovis-See in Molėtai ist ein zentraler See der Stadt, ideal für Erholung und Freizeit am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.433031,
+                        55.232081
+                  ]
             }
       ],
       "hu": [
@@ -15635,6 +26822,231 @@ imageHint: "Sirvintos city park and river",
                   "coords": [
                         25.423947,
                         55.234147
+                  ]
+            },
+            {
+                  "name": "Braškiškių ežeriukas",
+                  "text": "A Molėtai területén fekvő Braškiškių-tó egy kicsi, bájos vízfelület, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.493773,
+                        55.227688
+                  ]
+            },
+            {
+                  "name": "ež. Kanapinis",
+                  "text": "A Molėtai városában található Kanapinis-tó nyugodt hátteret biztosít a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.394706,
+                        55.206069
+                  ]
+            },
+            {
+                  "name": "ež. Duobužis",
+                  "text": "A Molėtai melletti Duobužis-tó festői helyszín, amely kiválóan alkalmas a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.387347,
+                        55.209998
+                  ]
+            },
+            {
+                  "name": "ež. Mindražeris",
+                  "text": "A Molėtai városában lévő Mindražeris-tó békés természeti tájjal van körülvéve, amely maradásra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        25.392635,
+                        55.210569
+                  ]
+            },
+            {
+                  "name": "ež. Vedinėlis",
+                  "text": "A Molėtai területén található Vedinėlis-tó nyugodt légkört biztosít egy pihentető vízparti naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.467099,
+                        55.258774
+                  ]
+            },
+            {
+                  "name": "ež. Ilgynas",
+                  "text": "A Molėtai városában fekvő Ilgynas-tó szép célpont a túrázóknak, akik értékelik a régió tóvidékét.",
+                  "category": "natural",
+                  "coords": [
+                        25.450345,
+                        55.257994
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "A Molėtai melletti Varliukas-tó egy kis helyi vízfelület, amely természetjárásra invitál.",
+                  "category": "natural",
+                  "coords": [
+                        25.528278,
+                        55.259201
+                  ]
+            },
+            {
+                  "name": "ež. Rituškis",
+                  "text": "A Molėtai városában található Rituškis-tó elszigetelt és nyugodt környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        25.352803,
+                        55.212688
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A Molėtai területén fekvő Bevardis-tó csendes hely a természet lágyán, ideális a mindennapi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.463456,
+                        55.227035
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdinis",
+                  "text": "A Molėtai melletti Bliūdinis-tó békés elhelyezkedésével és természetes parti tájával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        25.394838,
+                        55.208336
+                  ]
+            },
+            {
+                  "name": "ež. Gaidžiukas",
+                  "text": "A Molėtai városában lévő Gaidžiukas-tó egy kis természetes tó, amely nyugodt légkört kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.424115,
+                        55.185181
+                  ]
+            },
+            {
+                  "name": "ež. Pamalys",
+                  "text": "A Molėtai területén található Pamalys-tó nyugodt vízfelület, amely pihentető sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.413385,
+                        55.185471
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "A Molėtai melletti Lukštinis-tó idilli természeti környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.369703,
+                        55.214145
+                  ]
+            },
+            {
+                  "name": "ež. Siesartis",
+                  "text": "A Molėtai városában található Siesartis-tó egy nagy és népszerű vízfelület különféle természeti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.501517,
+                        55.22351
+                  ]
+            },
+            {
+                  "name": "ež. Luokesai",
+                  "text": "A Molėtai területén fekvő Luokesai-tó a régió egyik jelentős vízfelülete, ideális hosszú túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.415188,
+                        55.210727
+                  ]
+            },
+            {
+                  "name": "ež. Virintai",
+                  "text": "A Molėtai melletti Virintai-tó tágas vízfelületével és a környező dombos tájjal nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        25.481577,
+                        55.294167
+                  ]
+            },
+            {
+                  "name": "ež. Dūriai",
+                  "text": "A Molėtai városában található Dūriai-tó békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.401707,
+                        55.252894
+                  ]
+            },
+            {
+                  "name": "ež. Rudesa",
+                  "text": "A Molėtai területén fekvő Rudesa-tó a régió zöld tájába ágyazott nyugodt vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        25.511258,
+                        55.205957
+                  ]
+            },
+            {
+                  "name": "ež. Baltieji Lakajai",
+                  "text": "A Molėtai melletti Baltieji Lakajai-tó természeti szépségéről és számos öbléről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.590284,
+                        55.21175
+                  ]
+            },
+            {
+                  "name": "ež. Bebrusai",
+                  "text": "A Molėtai városában lévő Bebrusai-tó népszerű célpont a vízparti nyugalmat kereső kirándulóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.456333,
+                        55.187345
+                  ]
+            },
+            {
+                  "name": "ež. Ramošius",
+                  "text": "A Molėtai területén fekvő Ramošius-tó érintetlen természeti környezetet kínál a szabadban töltött órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.3176,
+                        55.271959
+                  ]
+            },
+            {
+                  "name": "ež. Eglynas",
+                  "text": "A Molėtai melletti Eglynas-tó békés vízfelület, ideális a helyi növény- és állatvilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.51568,
+                        55.278034
+                  ]
+            },
+            {
+                  "name": "ež. Susiedas",
+                  "text": "A Molėtai városában található Susiedas-tó nyugodt légkört biztosít a tóvidéki sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.511185,
+                        55.28168
+                  ]
+            },
+            {
+                  "name": "ež. Ežerė",
+                  "text": "A Molėtai területén fekvő Ežerė-tó csendes hely, amely pihenésre csábít a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        25.38115,
+                        55.174772
+                  ]
+            },
+            {
+                  "name": "ež. Pastovis",
+                  "text": "A Molėtai városi Pastovis-tó a település központi tava, ideális a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.433031,
+                        55.232081
                   ]
             }
       ],
@@ -15710,6 +27122,231 @@ imageHint: "Sirvintos city park and river",
                         25.423947,
                         55.234147
                   ]
+            },
+            {
+                  "name": "Braškiškių ežeriukas",
+                  "text": "Lacul Braškiškių din Molėtai este o apă mică și fermecătoare, ideală pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.493773,
+                        55.227688
+                  ]
+            },
+            {
+                  "name": "ež. Kanapinis",
+                  "text": "Lacul Kanapinis din Molėtai oferă un cadru liniștit pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.394706,
+                        55.206069
+                  ]
+            },
+            {
+                  "name": "ež. Duobužis",
+                  "text": "Lacul Duobužis din Molėtai este un loc pitoresc, excelent pentru observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        25.387347,
+                        55.209998
+                  ]
+            },
+            {
+                  "name": "ež. Mindražeris",
+                  "text": "Lacul Mindražeris din Molėtai este înconjurat de un peisaj natural liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.392635,
+                        55.210569
+                  ]
+            },
+            {
+                  "name": "ež. Vedinėlis",
+                  "text": "Lacul Vedinėlis din Molėtai oferă o atmosferă liniștită pentru o zi relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.467099,
+                        55.258774
+                  ]
+            },
+            {
+                  "name": "ež. Ilgynas",
+                  "text": "Lacul Ilgynas din Molėtai este o destinație frumoasă pentru excursioniștii care apreciază zona lacurilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.450345,
+                        55.257994
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Lacul Varliukas din Molėtai este o mică apă locală care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.528278,
+                        55.259201
+                  ]
+            },
+            {
+                  "name": "ež. Rituškis",
+                  "text": "Lacul Rituškis din Molėtai oferă un mediu retras și liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.352803,
+                        55.212688
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Lacul Bevardis din Molėtai este un loc liniștit în mijocolul naturii, ideal pentru o pauză de la cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        25.463456,
+                        55.227035
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdinis",
+                  "text": "Lacul Bliūdinis din Molėtai se remarcă prin locația sa liniștită și peisajul natural de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.394838,
+                        55.208336
+                  ]
+            },
+            {
+                  "name": "ež. Gaidžiukas",
+                  "text": "Lacul Gaidžiukas din Molėtai este un mic lac natural care oferă o atmosferă liniștită vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.424115,
+                        55.185181
+                  ]
+            },
+            {
+                  "name": "ež. Pamalys",
+                  "text": "Lacul Pamalys din Molėtai este o apă liniștită care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        25.413385,
+                        55.185471
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lacul Lukštinis din Molėtai oferă un cadru natural idilic pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.369703,
+                        55.214145
+                  ]
+            },
+            {
+                  "name": "ež. Siesartis",
+                  "text": "Lacul Siesartis din Molėtai este o apă mare și populară pentru diverse activități în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.501517,
+                        55.22351
+                  ]
+            },
+            {
+                  "name": "ež. Luokesai",
+                  "text": "Lacul Luokesai din Molėtai este o apă importantă a regiunii, ideală pentru drumeții lungi.",
+                  "category": "natural",
+                  "coords": [
+                        25.415188,
+                        55.210727
+                  ]
+            },
+            {
+                  "name": "ež. Virintai",
+                  "text": "Lacul Virintai din Molėtai impresionează prin suprafața vastă de apă și peisajul colinar din jur.",
+                  "category": "natural",
+                  "coords": [
+                        25.481577,
+                        55.294167
+                  ]
+            },
+            {
+                  "name": "ež. Dūriai",
+                  "text": "Lacul Dūriai din Molėtai oferă un mediu liniștit pentru iubitorii de natură și cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        25.401707,
+                        55.252894
+                  ]
+            },
+            {
+                  "name": "ež. Rudesa",
+                  "text": "Lacul Rudesa din Molėtai este o apă liniștită, încadrată în peisajul verde al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        25.511258,
+                        55.205957
+                  ]
+            },
+            {
+                  "name": "ež. Baltieji Lakajai",
+                  "text": "Lacul Baltieji Lakajai din Molėtai este cunoscut pentru frumusețea sa naturală și numeroasele sale golfuri.",
+                  "category": "natural",
+                  "coords": [
+                        25.590284,
+                        55.21175
+                  ]
+            },
+            {
+                  "name": "ež. Bebrusai",
+                  "text": "Lacul Bebrusai din Molėtai este o destinație populară pentru excursioniștii care caută liniște la apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.456333,
+                        55.187345
+                  ]
+            },
+            {
+                  "name": "ež. Ramošius",
+                  "text": "Lacul Ramošius din Molėtai oferă un cadru natural nealterat pentru ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.3176,
+                        55.271959
+                  ]
+            },
+            {
+                  "name": "ež. Eglynas",
+                  "text": "Lacul Eglynas din Molėtai este o apă liniștită, ideală pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        25.51568,
+                        55.278034
+                  ]
+            },
+            {
+                  "name": "ež. Susiedas",
+                  "text": "Lacul Susiedas din Molėtai oferă o atmosferă liniștită pentru plimbări în zona lacurilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.511185,
+                        55.28168
+                  ]
+            },
+            {
+                  "name": "ež. Ežerė",
+                  "text": "Lacul Ežerė din Molėtai este un loc liniștit care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.38115,
+                        55.174772
+                  ]
+            },
+            {
+                  "name": "ež. Pastovis",
+                  "text": "Lacul Pastovis din Molėtai este un lac central al orașului, ideal pentru recreere și petrecerea timpului liber pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.433031,
+                        55.232081
+                  ]
             }
       ],
       "en": [
@@ -15783,6 +27420,231 @@ imageHint: "Sirvintos city park and river",
                   "coords": [
                         25.423947,
                         55.234147
+                  ]
+            },
+            {
+                  "name": "Braškiškių ežeriukas",
+                  "text": "Braškiškių lake in Molėtai is a small, charming body of water ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.493773,
+                        55.227688
+                  ]
+            },
+            {
+                  "name": "ež. Kanapinis",
+                  "text": "Kanapinis lake in Molėtai provides a quiet backdrop for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.394706,
+                        55.206069
+                  ]
+            },
+            {
+                  "name": "ež. Duobužis",
+                  "text": "Duobužis lake in Molėtai is a picturesque spot, excellent for viewing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.387347,
+                        55.209998
+                  ]
+            },
+            {
+                  "name": "ež. Mindražeris",
+                  "text": "Mindražeris lake in Molėtai is surrounded by a peaceful natural landscape that invites staying a while.",
+                  "category": "natural",
+                  "coords": [
+                        25.392635,
+                        55.210569
+                  ]
+            },
+            {
+                  "name": "ež. Vedinėlis",
+                  "text": "Vedinėlis lake in Molėtai offers a calm atmosphere for a relaxing day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.467099,
+                        55.258774
+                  ]
+            },
+            {
+                  "name": "ež. Ilgynas",
+                  "text": "Ilgynas lake in Molėtai is a beautiful destination for hikers who appreciate the region's lake district.",
+                  "category": "natural",
+                  "coords": [
+                        25.450345,
+                        55.257994
+                  ]
+            },
+            {
+                  "name": "ež. Varliukas",
+                  "text": "Varliukas lake in Molėtai is a small local body of water inviting nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.528278,
+                        55.259201
+                  ]
+            },
+            {
+                  "name": "ež. Rituškis",
+                  "text": "Rituškis lake in Molėtai offers a secluded and quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.352803,
+                        55.212688
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Bevardis lake in Molėtai is a quiet place in the heart of nature, ideal for a break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        25.463456,
+                        55.227035
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdinis",
+                  "text": "Bliūdinis lake in Molėtai stands out for its peaceful location and natural shoreline landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.394838,
+                        55.208336
+                  ]
+            },
+            {
+                  "name": "ež. Gaidžiukas",
+                  "text": "Gaidžiukas lake in Molėtai is a small natural lake offering a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        25.424115,
+                        55.185181
+                  ]
+            },
+            {
+                  "name": "ež. Pamalys",
+                  "text": "Pamalys lake in Molėtai is a calm body of water inviting relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.413385,
+                        55.185471
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lukštinis lake in Molėtai offers an idyllic natural setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.369703,
+                        55.214145
+                  ]
+            },
+            {
+                  "name": "ež. Siesartis",
+                  "text": "Siesartis lake in Molėtai is a large and popular body of water for various nature activities.",
+                  "category": "natural",
+                  "coords": [
+                        25.501517,
+                        55.22351
+                  ]
+            },
+            {
+                  "name": "ež. Luokesai",
+                  "text": "Luokesai lake in Molėtai is a significant body of water in the region, ideal for long hikes.",
+                  "category": "natural",
+                  "coords": [
+                        25.415188,
+                        55.210727
+                  ]
+            },
+            {
+                  "name": "ež. Virintai",
+                  "text": "Virintai lake in Molėtai impresses with its wide water surface and the surrounding hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.481577,
+                        55.294167
+                  ]
+            },
+            {
+                  "name": "ež. Dūriai",
+                  "text": "Dūriai lake in Molėtai provides a peaceful environment for nature lovers and those seeking quiet.",
+                  "category": "natural",
+                  "coords": [
+                        25.401707,
+                        55.252894
+                  ]
+            },
+            {
+                  "name": "ež. Rudesa",
+                  "text": "Rudesa lake in Molėtai is a calm body of water embedded in the region's green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.511258,
+                        55.205957
+                  ]
+            },
+            {
+                  "name": "ež. Baltieji Lakajai",
+                  "text": "Baltieji Lakajai lake in Molėtai is known for its natural beauty and many bays.",
+                  "category": "natural",
+                  "coords": [
+                        25.590284,
+                        55.21175
+                  ]
+            },
+            {
+                  "name": "ež. Bebrusai",
+                  "text": "Bebrusai lake in Molėtai is a popular destination for trippers seeking peace by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.456333,
+                        55.187345
+                  ]
+            },
+            {
+                  "name": "ež. Ramošius",
+                  "text": "Ramošius lake in Molėtai offers an untouched natural setting for relaxed hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        25.3176,
+                        55.271959
+                  ]
+            },
+            {
+                  "name": "ež. Eglynas",
+                  "text": "Eglynas lake in Molėtai is a peaceful body of water, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        25.51568,
+                        55.278034
+                  ]
+            },
+            {
+                  "name": "ež. Susiedas",
+                  "text": "Susiedas lake in Molėtai offers a calm atmosphere for walks in the lake district.",
+                  "category": "natural",
+                  "coords": [
+                        25.511185,
+                        55.28168
+                  ]
+            },
+            {
+                  "name": "ež. Ežerė",
+                  "text": "Ežerė lake in Molėtai is a quiet place inviting relaxation in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.38115,
+                        55.174772
+                  ]
+            },
+            {
+                  "name": "ež. Pastovis",
+                  "text": "Pastovis lake in Molėtai is a central city lake, ideal for recreation and leisure on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.433031,
+                        55.232081
                   ]
             }
       ]
@@ -15860,6 +27722,42 @@ imageHint: "Moletai ethnocosmology museum architecture",
                         25.392545,
                         54.304966
                   ]
+            },
+            {
+                  "name": "Беняконскае возера",
+                  "text": "Ein See bei Salcininkai, ideal für eine Pause in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Ein See in Salcininkai, der eine angenehme Kulisse für Spaziergänge am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Ein Gewässerkomplex bei Salcininkai, der sich gut in die lokale Natur einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Ein weiterer ruhiger See in Salcininkai, passend für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
             }
       ],
       "hu": [
@@ -15888,6 +27786,42 @@ imageHint: "Moletai ethnocosmology museum architecture",
                   "coords": [
                         25.392545,
                         54.304966
+                  ]
+            },
+            {
+                  "name": "Беняконскае возера",
+                  "text": "Salcininkai melletti tó, amely ideális egy pihenőhöz nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Salcininkai-i tó, amely kellemes környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Vízfelület-együttes Salcininkai közelében, amely jól illeszkedik a helyi természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Újabb csendes tó Salcininkai területén, amely alkalmas a szabadtéri pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
                   ]
             }
       ],
@@ -15918,6 +27852,42 @@ imageHint: "Moletai ethnocosmology museum architecture",
                         25.392545,
                         54.304966
                   ]
+            },
+            {
+                  "name": "Беняконскае возера",
+                  "text": "Un lac lângă Salcininkai, ideal pentru o pauză într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Un lac în Salcininkai, care oferă un cadru plăcut pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Un complex acvatic lângă Salcininkai, care se integrează frumos în natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Un alt lac liniștit în Salcininkai, potrivit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
             }
       ],
       "en": [
@@ -15946,6 +27916,42 @@ imageHint: "Moletai ethnocosmology museum architecture",
                   "coords": [
                         25.392545,
                         54.304966
+                  ]
+            },
+            {
+                  "name": "Беняконскае возера",
+                  "text": "A lake near Salcininkai, ideal for a break in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "A lake in Salcininkai, offering a pleasant setting for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonys fishponds",
+                  "text": "A water complex near Salcininkai, fitting well into the local natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Another quiet lake in Salcininkai, suitable for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
                   ]
             }
       ]
@@ -16032,6 +28038,69 @@ imageHint: "Salcininkai manor house and park",
                         23.027657,
                         54.954342
                   ]
+            },
+            {
+                  "name": "Valiulių tv.",
+                  "text": "Der Valiulių tv. ist ein See in Sakiai, der Besuchern eine friedliche Atmosphäre für Entspannung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.097656,
+                        54.946731
+                  ]
+            },
+            {
+                  "name": "Plieniškių tv.",
+                  "text": "Der Plieniškių tv. in Sakiai ist ein lokales Gewässer, ideal für ruhige Spaziergänge in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.055971,
+                        54.992625
+                  ]
+            },
+            {
+                  "name": "ež. Advernų durpinė",
+                  "text": "Der ež. Advernų durpinė ist ein See in Sakiai, der durch seine besondere natürliche Beschaffenheit und Ruhe besticht.",
+                  "category": "natural",
+                  "coords": [
+                        23.063719,
+                        54.938684
+                  ]
+            },
+            {
+                  "name": "Girėnų tv.",
+                  "text": "Der Girėnų tv. in Sakiai bietet eine schöne Kulisse für Freizeitaktivitäten am Wasser und Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        23.06925,
+                        54.957935
+                  ]
+            },
+            {
+                  "name": "Ritinių tv.",
+                  "text": "Der Ritinių tv. ist ein See in Sakiai, der eine friedliche Umgebung für kurze Ausflüge in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.001118,
+                        54.996489
+                  ]
+            },
+            {
+                  "name": "Baltkojų tv.",
+                  "text": "Der Baltkojų tv. in Sakiai ist ein stilles Gewässer, ideal für erholsame Momente und Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        22.918516,
+                        54.973487
+                  ]
+            },
+            {
+                  "name": "Šakių tv.",
+                  "text": "Der Šakių tv. ist ein See in Sakiai, der Besuchern eine angenehme Wasserlandschaft für Aktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.047518,
+                        54.956314
+                  ]
             }
       ],
       "hu": [
@@ -16069,6 +28138,69 @@ imageHint: "Salcininkai manor house and park",
                   "coords": [
                         23.027657,
                         54.954342
+                  ]
+            },
+            {
+                  "name": "Valiulių tv.",
+                  "text": "A Valiulių tv. egy tó Sakiai területén, amely békés légkört biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.097656,
+                        54.946731
+                  ]
+            },
+            {
+                  "name": "Plieniškių tv.",
+                  "text": "A Plieniškių tv. Sakiai területén egy helyi tó, ideális csendes sétákhoz természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.055971,
+                        54.992625
+                  ]
+            },
+            {
+                  "name": "ež. Advernų durpinė",
+                  "text": "Az ež. Advernų durpinė egy tó Sakiai területén, amely különleges természeti adottságaival és nyugalmával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        23.063719,
+                        54.938684
+                  ]
+            },
+            {
+                  "name": "Girėnų tv.",
+                  "text": "A Girėnų tv. Sakiai területén szép környezetet biztosít a vízparti szabadidős tevékenységekhez és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.06925,
+                        54.957935
+                  ]
+            },
+            {
+                  "name": "Ritinių tv.",
+                  "text": "A Ritinių tv. egy tó Sakiai területén, amely békés környezetet kínál rövid természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.001118,
+                        54.996489
+                  ]
+            },
+            {
+                  "name": "Baltkojų tv.",
+                  "text": "A Baltkojų tv. Sakiai területén egy csendes tó, ideális pihentető pillanatokhoz és vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.918516,
+                        54.973487
+                  ]
+            },
+            {
+                  "name": "Šakių tv.",
+                  "text": "A Šakių tv. egy tó Sakiai területén, amely kellemes vízi tájat kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.047518,
+                        54.956314
                   ]
             }
       ],
@@ -16108,6 +28240,69 @@ imageHint: "Salcininkai manor house and park",
                         23.027657,
                         54.954342
                   ]
+            },
+            {
+                  "name": "Valiulių tv.",
+                  "text": "Valiulių tv. este un lac în Sakiai, oferind vizitatorilor o atmosferă pașnică pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.097656,
+                        54.946731
+                  ]
+            },
+            {
+                  "name": "Plieniškių tv.",
+                  "text": "Plieniškių tv. din Sakiai este un corp de apă local, ideal pentru plimbări liniștite într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.055971,
+                        54.992625
+                  ]
+            },
+            {
+                  "name": "ež. Advernų durpinė",
+                  "text": "ež. Advernų durpinė este un lac în Sakiai, care impresionează prin structura sa naturală deosebită și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.063719,
+                        54.938684
+                  ]
+            },
+            {
+                  "name": "Girėnų tv.",
+                  "text": "Girėnų tv. din Sakiai oferă un cadru frumos pentru activități recreative la apă și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.06925,
+                        54.957935
+                  ]
+            },
+            {
+                  "name": "Ritinių tv.",
+                  "text": "Ritinių tv. este un lac în Sakiai, oferind un mediu pașnic pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.001118,
+                        54.996489
+                  ]
+            },
+            {
+                  "name": "Baltkojų tv.",
+                  "text": "Baltkojų tv. din Sakiai este un corp de apă liniștit, ideal pentru momente de relaxare și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        22.918516,
+                        54.973487
+                  ]
+            },
+            {
+                  "name": "Šakių tv.",
+                  "text": "Šakių tv. este un lac în Sakiai, oferind vizitatorilor un peisaj acvatic plăcut pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.047518,
+                        54.956314
+                  ]
             }
       ],
       "en": [
@@ -16145,6 +28340,69 @@ imageHint: "Salcininkai manor house and park",
                   "coords": [
                         23.027657,
                         54.954342
+                  ]
+            },
+            {
+                  "name": "Valiulių tv.",
+                  "text": "Valiulių tv. is a lake in Sakiai, offering visitors a peaceful atmosphere for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.097656,
+                        54.946731
+                  ]
+            },
+            {
+                  "name": "Plieniškių tv.",
+                  "text": "Plieniškių tv. in Sakiai is a local body of water, ideal for quiet walks in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.055971,
+                        54.992625
+                  ]
+            },
+            {
+                  "name": "ež. Advernų durpinė",
+                  "text": "ež. Advernų durpinė is a lake in Sakiai, notable for its unique natural characteristics and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        23.063719,
+                        54.938684
+                  ]
+            },
+            {
+                  "name": "Girėnų tv.",
+                  "text": "Girėnų tv. in Sakiai provides a beautiful backdrop for waterside leisure activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.06925,
+                        54.957935
+                  ]
+            },
+            {
+                  "name": "Ritinių tv.",
+                  "text": "Ritinių tv. is a lake in Sakiai, providing a peaceful environment for short trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.001118,
+                        54.996489
+                  ]
+            },
+            {
+                  "name": "Baltkojų tv.",
+                  "text": "Baltkojų tv. in Sakiai is a quiet body of water, ideal for restorative moments and walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        22.918516,
+                        54.973487
+                  ]
+            },
+            {
+                  "name": "Šakių tv.",
+                  "text": "Šakių tv. is a lake in Sakiai, offering visitors a pleasant water landscape for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        23.047518,
+                        54.956314
                   ]
             }
       ]
@@ -16448,6 +28706,231 @@ imageHint: "Kybartai railway border crossing",
                         25.76694,
                         54.975634
                   ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Ein malerischer See in der Nähe von Pabrade, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.677874,
+                        55.001081
+                  ]
+            },
+            {
+                  "name": "ež. Kumpotis",
+                  "text": "Ein ruhiges Gewässer bei Pabrade, das eine entspannende Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.66982,
+                        54.973938
+                  ]
+            },
+            {
+                  "name": "ež. Baltelis",
+                  "text": "Ein kleiner See in Pabrade, perfekt für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        25.661573,
+                        54.974432
+                  ]
+            },
+            {
+                  "name": "ež. Gulbiniai",
+                  "text": "Ein Gewässer bei Pabrade, umgeben von friedlicher Natur und schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.713317,
+                        54.919632
+                  ]
+            },
+            {
+                  "name": "ež. Beduonai",
+                  "text": "Dieser See in Pabrade bietet einen ruhigen Rückzugsort für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        25.716098,
+                        54.917418
+                  ]
+            },
+            {
+                  "name": "ež. Gaigalis",
+                  "text": "Ein See in der Region Pabrade, der zur Erholung und zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.676642,
+                        54.960009
+                  ]
+            },
+            {
+                  "name": "ež. Karviukas",
+                  "text": "Ein kleines, ruhiges Gewässer bei Pabrade, ideal für eine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        25.711195,
+                        54.979765
+                  ]
+            },
+            {
+                  "name": "ež. Dubausis",
+                  "text": "Ein natürlicher See in Pabrade, der Ruhe und Entspannung verspricht.",
+                  "category": "natural",
+                  "coords": [
+                        25.686519,
+                        54.983846
+                  ]
+            },
+            {
+                  "name": "ež. Seklinas",
+                  "text": "Ein Gewässer bei Pabrade, das eine schöne Kulisse für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.695313,
+                        54.982858
+                  ]
+            },
+            {
+                  "name": "ež. Velniukas",
+                  "text": "Ein kleiner See in Pabrade, ideal für kurze Momente der Stille.",
+                  "category": "natural",
+                  "coords": [
+                        25.701863,
+                        54.982892
+                  ]
+            },
+            {
+                  "name": "ež. Oklelis",
+                  "text": "Ein ruhiger See bei Pabrade, der zum Beobachten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.705649,
+                        54.982117
+                  ]
+            },
+            {
+                  "name": "ež. Varnakis",
+                  "text": "Ein malerisches Gewässer in Pabrade, ideal für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        25.778867,
+                        55.029065
+                  ]
+            },
+            {
+                  "name": "ež. Svirneliai",
+                  "text": "Ein See bei Pabrade, der eine natürliche und ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.672376,
+                        54.974953
+                  ]
+            },
+            {
+                  "name": "ež. Varnakėlis",
+                  "text": "Ein kleiner See in Pabrade, passend für einen ruhigen Aufenthalt am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.787412,
+                        55.026978
+                  ]
+            },
+            {
+                  "name": "ež. Gaigaliukas",
+                  "text": "Ein Gewässer in Pabrade, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.666974,
+                        54.965422
+                  ]
+            },
+            {
+                  "name": "ež. Pašliaužas",
+                  "text": "Ein ruhiger See bei Pabrade, der eine idyllische Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.669328,
+                        55.029178
+                  ]
+            },
+            {
+                  "name": "ež. Rėdžia",
+                  "text": "Ein See in Pabrade, der sich gut für eine kurze Auszeit im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.667299,
+                        55.011146
+                  ]
+            },
+            {
+                  "name": "Asvejos ež.",
+                  "text": "Ein großer und bekannter See bei Pabrade, ideal für weite Naturerkundungen.",
+                  "category": "natural",
+                  "coords": [
+                        25.514616,
+                        55.024808
+                  ]
+            },
+            {
+                  "name": "Pabradės tv.",
+                  "text": "Ein zentraler See in Pabrade, der ein ruhiges Ambiente bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.746127,
+                        54.997338
+                  ]
+            },
+            {
+                  "name": "ež. Spenglas",
+                  "text": "Ein malerischer See bei Pabrade, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.742425,
+                        55.039348
+                  ]
+            },
+            {
+                  "name": "ež. Pravalas",
+                  "text": "Ein Gewässer in Pabrade, das Ruhe und einen Blick auf die lokale Flora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.669212,
+                        54.955509
+                  ]
+            },
+            {
+                  "name": "ež. Lazdinka",
+                  "text": "Ein See bei Pabrade, ideal für entspannte Stunden am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.671181,
+                        54.968193
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Ein See in Pabrade, der sich harmonisch in die natürliche Umgebung einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        25.649785,
+                        54.981661
+                  ]
+            },
+            {
+                  "name": "ež. Vienavalkšnys",
+                  "text": "Ein kleines Gewässer bei Pabrade, passend für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        25.660425,
+                        54.957571
+                  ]
+            },
+            {
+                  "name": "ež. Dumblelis",
+                  "text": "Ein ruhiger See in Pabrade, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        25.655573,
+                        54.954206
+                  ]
             }
       ],
       "hu": [
@@ -16467,6 +28950,231 @@ imageHint: "Kybartai railway border crossing",
                   "coords": [
                         25.76694,
                         54.975634
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Festői tó Pabrade közelében, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.677874,
+                        55.001081
+                  ]
+            },
+            {
+                  "name": "ež. Kumpotis",
+                  "text": "Nyugodt vízfelület Pabrade mellett, amely pihentető környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.66982,
+                        54.973938
+                  ]
+            },
+            {
+                  "name": "ež. Baltelis",
+                  "text": "Kicsiny tó Pabrade területén, amely tökéletes egy rövid zöldövezeti kiruccanáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.661573,
+                        54.974432
+                  ]
+            },
+            {
+                  "name": "ež. Gulbiniai",
+                  "text": "Pabrade melletti vízfelület, amelyet békés természet és szép kilátás vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        25.713317,
+                        54.919632
+                  ]
+            },
+            {
+                  "name": "ež. Beduonai",
+                  "text": "Ez a Pabrade-i tó csendes búvóhelyet kínál a természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.716098,
+                        54.917418
+                  ]
+            },
+            {
+                  "name": "ež. Gaigalis",
+                  "text": "Tó Pabrade régiójában, amely pihenésre és kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        25.676642,
+                        54.960009
+                  ]
+            },
+            {
+                  "name": "ež. Karviukas",
+                  "text": "Kicsi, csendes vízfelület Pabrade közelében, ideális egy pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        25.711195,
+                        54.979765
+                  ]
+            },
+            {
+                  "name": "ež. Dubausis",
+                  "text": "Természetes tó Pabrade területén, amely békét és felüdülést ígér.",
+                  "category": "natural",
+                  "coords": [
+                        25.686519,
+                        54.983846
+                  ]
+            },
+            {
+                  "name": "ež. Seklinas",
+                  "text": "Pabrade melletti vízfelület, amely szép környezetet biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.695313,
+                        54.982858
+                  ]
+            },
+            {
+                  "name": "ež. Velniukas",
+                  "text": "Kicsi tó Pabrade területén, amely ideális a csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.701863,
+                        54.982892
+                  ]
+            },
+            {
+                  "name": "ež. Oklelis",
+                  "text": "Csendes tó Pabrade mellett, amely a természet megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        25.705649,
+                        54.982117
+                  ]
+            },
+            {
+                  "name": "ež. Varnakis",
+                  "text": "Festői vízfelület Pabrade területén, ideális a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.778867,
+                        55.029065
+                  ]
+            },
+            {
+                  "name": "ež. Svirneliai",
+                  "text": "Pabrade melletti tó, amely természetes és nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.672376,
+                        54.974953
+                  ]
+            },
+            {
+                  "name": "ež. Varnakėlis",
+                  "text": "Kicsi tó Pabrade területén, amely alkalmas egy nyugodt vízparti időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.787412,
+                        55.026978
+                  ]
+            },
+            {
+                  "name": "ež. Gaigaliukas",
+                  "text": "Vízfelület Pabrade területén, ideális a természetben tett pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.666974,
+                        54.965422
+                  ]
+            },
+            {
+                  "name": "ež. Pašliaužas",
+                  "text": "Csendes tó Pabrade mellett, amely idilli kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.669328,
+                        55.029178
+                  ]
+            },
+            {
+                  "name": "ež. Rėdžia",
+                  "text": "Pabrade-i tó, amely kiválóan alkalmas egy rövid szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.667299,
+                        55.011146
+                  ]
+            },
+            {
+                  "name": "Asvejos ež.",
+                  "text": "Nagy és ismert tó Pabrade környékén, ideális a hosszú természetjáró felfedezésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.514616,
+                        55.024808
+                  ]
+            },
+            {
+                  "name": "Pabradės tv.",
+                  "text": "Központi tó Pabrade területén, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.746127,
+                        54.997338
+                  ]
+            },
+            {
+                  "name": "ež. Spenglas",
+                  "text": "Festői tó Pabrade mellett, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.742425,
+                        55.039348
+                  ]
+            },
+            {
+                  "name": "ež. Pravalas",
+                  "text": "Vízfelület Pabrade területén, amely nyugalmat és rálátást biztosít a helyi növényvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        25.669212,
+                        54.955509
+                  ]
+            },
+            {
+                  "name": "ež. Lazdinka",
+                  "text": "Tó Pabrade közelében, ideális a parton töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.671181,
+                        54.968193
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Pabrade-i tó, amely harmonikusan illeszkedik a természeti környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.649785,
+                        54.981661
+                  ]
+            },
+            {
+                  "name": "ež. Vienavalkšnys",
+                  "text": "Kicsiny vízfelület Pabrade mellett, alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.660425,
+                        54.957571
+                  ]
+            },
+            {
+                  "name": "ež. Dumblelis",
+                  "text": "Csendes tó Pabrade területén, ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.655573,
+                        54.954206
                   ]
             }
       ],
@@ -16488,6 +29196,231 @@ imageHint: "Kybartai railway border crossing",
                         25.76694,
                         54.975634
                   ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Un lac pitoresc lângă Pabrade, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.677874,
+                        55.001081
+                  ]
+            },
+            {
+                  "name": "ež. Kumpotis",
+                  "text": "O zonă acvatică liniștită lângă Pabrade, care oferă un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        25.66982,
+                        54.973938
+                  ]
+            },
+            {
+                  "name": "ež. Baltelis",
+                  "text": "Un lac mic în Pabrade, perfect pentru o scurtă incursiune în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.661573,
+                        54.974432
+                  ]
+            },
+            {
+                  "name": "ež. Gulbiniai",
+                  "text": "O zonă acvatică lângă Pabrade, înconjurată de natură pașnică și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        25.713317,
+                        54.919632
+                  ]
+            },
+            {
+                  "name": "ež. Beduonai",
+                  "text": "Acest lac din Pabrade oferă un refugiu liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.716098,
+                        54.917418
+                  ]
+            },
+            {
+                  "name": "ež. Gaigalis",
+                  "text": "Un lac în regiunea Pabrade, care invită la relaxare și petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.676642,
+                        54.960009
+                  ]
+            },
+            {
+                  "name": "ež. Karviukas",
+                  "text": "O zonă acvatică mică și liniștită lângă Pabrade, ideală pentru o pauză.",
+                  "category": "natural",
+                  "coords": [
+                        25.711195,
+                        54.979765
+                  ]
+            },
+            {
+                  "name": "ež. Dubausis",
+                  "text": "Un lac natural în Pabrade, care promite liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.686519,
+                        54.983846
+                  ]
+            },
+            {
+                  "name": "ež. Seklinas",
+                  "text": "O zonă acvatică lângă Pabrade, care oferă un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.695313,
+                        54.982858
+                  ]
+            },
+            {
+                  "name": "ež. Velniukas",
+                  "text": "Un lac mic în Pabrade, ideal pentru scurte momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        25.701863,
+                        54.982892
+                  ]
+            },
+            {
+                  "name": "ež. Oklelis",
+                  "text": "Un lac liniștit lângă Pabrade, care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.705649,
+                        54.982117
+                  ]
+            },
+            {
+                  "name": "ež. Varnakis",
+                  "text": "O zonă acvatică pitorească în Pabrade, ideală pentru cei care caută odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        25.778867,
+                        55.029065
+                  ]
+            },
+            {
+                  "name": "ež. Svirneliai",
+                  "text": "Un lac lângă Pabrade, care oferă o atmosferă naturală și liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        25.672376,
+                        54.974953
+                  ]
+            },
+            {
+                  "name": "ež. Varnakėlis",
+                  "text": "Un lac mic în Pabrade, potrivit pentru o ședere liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.787412,
+                        55.026978
+                  ]
+            },
+            {
+                  "name": "ež. Gaigaliukas",
+                  "text": "O zonă acvatică în Pabrade, ideală pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.666974,
+                        54.965422
+                  ]
+            },
+            {
+                  "name": "ež. Pašliaužas",
+                  "text": "Un lac liniștit lângă Pabrade, care oferă o priveliște idilică.",
+                  "category": "natural",
+                  "coords": [
+                        25.669328,
+                        55.029178
+                  ]
+            },
+            {
+                  "name": "ež. Rėdžia",
+                  "text": "Un lac în Pabrade, potrivit pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.667299,
+                        55.011146
+                  ]
+            },
+            {
+                  "name": "Asvejos ež.",
+                  "text": "Un lac mare și cunoscut lângă Pabrade, ideal pentru explorări extinse în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.514616,
+                        55.024808
+                  ]
+            },
+            {
+                  "name": "Pabradės tv.",
+                  "text": "Un lac central în Pabrade, care oferă un ambient liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.746127,
+                        54.997338
+                  ]
+            },
+            {
+                  "name": "ež. Spenglas",
+                  "text": "Un lac pitoresc lângă Pabrade, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        25.742425,
+                        55.039348
+                  ]
+            },
+            {
+                  "name": "ež. Pravalas",
+                  "text": "O zonă acvatică în Pabrade, care oferă liniște și o vedere asupra florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        25.669212,
+                        54.955509
+                  ]
+            },
+            {
+                  "name": "ež. Lazdinka",
+                  "text": "Un lac lângă Pabrade, ideal pentru ore relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.671181,
+                        54.968193
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Un lac în Pabrade, care se integrează armonios în mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        25.649785,
+                        54.981661
+                  ]
+            },
+            {
+                  "name": "ež. Vienavalkšnys",
+                  "text": "O zonă acvatică mică lângă Pabrade, potrivită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.660425,
+                        54.957571
+                  ]
+            },
+            {
+                  "name": "ež. Dumblelis",
+                  "text": "Un lac liniștit în Pabrade, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.655573,
+                        54.954206
+                  ]
             }
       ],
       "en": [
@@ -16507,6 +29440,231 @@ imageHint: "Kybartai railway border crossing",
                   "coords": [
                         25.76694,
                         54.975634
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "A scenic lake near Pabrade, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        25.677874,
+                        55.001081
+                  ]
+            },
+            {
+                  "name": "ež. Kumpotis",
+                  "text": "A calm body of water near Pabrade, offering a relaxing environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.66982,
+                        54.973938
+                  ]
+            },
+            {
+                  "name": "ež. Baltelis",
+                  "text": "A small lake in Pabrade, perfect for a short trip into the green.",
+                  "category": "natural",
+                  "coords": [
+                        25.661573,
+                        54.974432
+                  ]
+            },
+            {
+                  "name": "ež. Gulbiniai",
+                  "text": "A body of water near Pabrade, surrounded by peaceful nature and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        25.713317,
+                        54.919632
+                  ]
+            },
+            {
+                  "name": "ež. Beduonai",
+                  "text": "This lake in Pabrade offers a quiet retreat for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.716098,
+                        54.917418
+                  ]
+            },
+            {
+                  "name": "ež. Gaigalis",
+                  "text": "A lake in the Pabrade region, inviting for relaxation and leisure.",
+                  "category": "natural",
+                  "coords": [
+                        25.676642,
+                        54.960009
+                  ]
+            },
+            {
+                  "name": "ež. Karviukas",
+                  "text": "A small, quiet body of water near Pabrade, ideal for a break.",
+                  "category": "natural",
+                  "coords": [
+                        25.711195,
+                        54.979765
+                  ]
+            },
+            {
+                  "name": "ež. Dubausis",
+                  "text": "A natural lake in Pabrade, promising peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.686519,
+                        54.983846
+                  ]
+            },
+            {
+                  "name": "ež. Seklinas",
+                  "text": "A body of water near Pabrade, offering a beautiful backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.695313,
+                        54.982858
+                  ]
+            },
+            {
+                  "name": "ež. Velniukas",
+                  "text": "A small lake in Pabrade, ideal for short moments of silence.",
+                  "category": "natural",
+                  "coords": [
+                        25.701863,
+                        54.982892
+                  ]
+            },
+            {
+                  "name": "ež. Oklelis",
+                  "text": "A quiet lake near Pabrade, inviting nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.705649,
+                        54.982117
+                  ]
+            },
+            {
+                  "name": "ež. Varnakis",
+                  "text": "A scenic body of water in Pabrade, ideal for those seeking rest.",
+                  "category": "natural",
+                  "coords": [
+                        25.778867,
+                        55.029065
+                  ]
+            },
+            {
+                  "name": "ež. Svirneliai",
+                  "text": "A lake near Pabrade, offering a natural and calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        25.672376,
+                        54.974953
+                  ]
+            },
+            {
+                  "name": "ež. Varnakėlis",
+                  "text": "A small lake in Pabrade, suitable for a peaceful stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.787412,
+                        55.026978
+                  ]
+            },
+            {
+                  "name": "ež. Gaigaliukas",
+                  "text": "A body of water in Pabrade, ideal for relaxed walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.666974,
+                        54.965422
+                  ]
+            },
+            {
+                  "name": "ež. Pašliaužas",
+                  "text": "A quiet lake near Pabrade, offering an idyllic view.",
+                  "category": "natural",
+                  "coords": [
+                        25.669328,
+                        55.029178
+                  ]
+            },
+            {
+                  "name": "ež. Rėdžia",
+                  "text": "A lake in Pabrade, well-suited for a short outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        25.667299,
+                        55.011146
+                  ]
+            },
+            {
+                  "name": "Asvejos ež.",
+                  "text": "A large and well-known lake near Pabrade, ideal for extensive nature exploration.",
+                  "category": "natural",
+                  "coords": [
+                        25.514616,
+                        55.024808
+                  ]
+            },
+            {
+                  "name": "Pabradės tv.",
+                  "text": "A central lake in Pabrade, providing a peaceful ambiance.",
+                  "category": "natural",
+                  "coords": [
+                        25.746127,
+                        54.997338
+                  ]
+            },
+            {
+                  "name": "ež. Spenglas",
+                  "text": "A scenic lake near Pabrade, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.742425,
+                        55.039348
+                  ]
+            },
+            {
+                  "name": "ež. Pravalas",
+                  "text": "A body of water in Pabrade, offering peace and a view of the local flora.",
+                  "category": "natural",
+                  "coords": [
+                        25.669212,
+                        54.955509
+                  ]
+            },
+            {
+                  "name": "ež. Lazdinka",
+                  "text": "A lake near Pabrade, ideal for relaxing hours on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.671181,
+                        54.968193
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "A lake in Pabrade, harmoniously integrated into the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.649785,
+                        54.981661
+                  ]
+            },
+            {
+                  "name": "ež. Vienavalkšnys",
+                  "text": "A small body of water near Pabrade, suitable for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.660425,
+                        54.957571
+                  ]
+            },
+            {
+                  "name": "ež. Dumblelis",
+                  "text": "A quiet lake in Pabrade, ideal for a restorative stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.655573,
+                        54.954206
                   ]
             }
       ]
@@ -16593,6 +29751,42 @@ imageHint: "Pabrade bridge and pine forest",
                         22.18018,
                         55.49399
                   ]
+            },
+            {
+                  "name": "Balsių tv.",
+                  "text": "Der Balsių tv. in Silale bietet eine friedliche Atmosphäre und ist ein guter Ort für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.227299,
+                        55.515373
+                  ]
+            },
+            {
+                  "name": "Šilalės miesto tv.",
+                  "text": "Der Šilalės miesto tv. ist ein See in Silale, der als lokales Ziel für Erholung am Wasser dient.",
+                  "category": "natural",
+                  "coords": [
+                        22.187337,
+                        55.493381
+                  ]
+            },
+            {
+                  "name": "ež. Rauškas",
+                  "text": "Der ež. Rauškas in Silale zeichnet sich durch seine ruhige Lage und natürliche Uferlandschaft aus.",
+                  "category": "natural",
+                  "coords": [
+                        22.12507,
+                        55.429952
+                  ]
+            },
+            {
+                  "name": "Nevočių tv.",
+                  "text": "Der Nevočių tv. ist ein See in Silale, der Besuchern eine friedliche Umgebung zum Verweilen im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.153529,
+                        55.536622
+                  ]
             }
       ],
       "hu": [
@@ -16630,6 +29824,42 @@ imageHint: "Pabrade bridge and pine forest",
                   "coords": [
                         22.18018,
                         55.49399
+                  ]
+            },
+            {
+                  "name": "Balsių tv.",
+                  "text": "A Balsių tv. Silale területén békés légkört biztosít, és kiváló helyszín a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.227299,
+                        55.515373
+                  ]
+            },
+            {
+                  "name": "Šilalės miesto tv.",
+                  "text": "A Šilalės miesto tv. egy tó Silale területén, amely helyi célpontként szolgál a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.187337,
+                        55.493381
+                  ]
+            },
+            {
+                  "name": "ež. Rauškas",
+                  "text": "Az ež. Rauškas Silale területén csendes elhelyezkedésével és természetes parti tájával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        22.12507,
+                        55.429952
+                  ]
+            },
+            {
+                  "name": "Nevočių tv.",
+                  "text": "A Nevočių tv. egy tó Silale területén, amely békés környezetet biztosít a szabadban való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        22.153529,
+                        55.536622
                   ]
             }
       ],
@@ -16669,6 +29899,42 @@ imageHint: "Pabrade bridge and pine forest",
                         22.18018,
                         55.49399
                   ]
+            },
+            {
+                  "name": "Balsių tv.",
+                  "text": "Balsių tv. din Silale oferă o atmosferă pașnică și este un loc bun pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.227299,
+                        55.515373
+                  ]
+            },
+            {
+                  "name": "Šilalės miesto tv.",
+                  "text": "Šilalės miesto tv. este un lac în Silale, servind ca destinație locală pentru recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.187337,
+                        55.493381
+                  ]
+            },
+            {
+                  "name": "ež. Rauškas",
+                  "text": "ež. Rauškas din Silale se remarcă prin locația sa liniștită și peisajul natural de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        22.12507,
+                        55.429952
+                  ]
+            },
+            {
+                  "name": "Nevočių tv.",
+                  "text": "Nevočių tv. este un lac în Silale, oferind vizitatorilor un mediu pașnic pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.153529,
+                        55.536622
+                  ]
             }
       ],
       "en": [
@@ -16706,6 +29972,42 @@ imageHint: "Pabrade bridge and pine forest",
                   "coords": [
                         22.18018,
                         55.49399
+                  ]
+            },
+            {
+                  "name": "Balsių tv.",
+                  "text": "Balsių tv. in Silale offers a peaceful atmosphere and is a good spot for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.227299,
+                        55.515373
+                  ]
+            },
+            {
+                  "name": "Šilalės miesto tv.",
+                  "text": "Šilalės miesto tv. is a lake in Silale, serving as a local destination for waterside recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.187337,
+                        55.493381
+                  ]
+            },
+            {
+                  "name": "ež. Rauškas",
+                  "text": "ež. Rauškas in Silale is characterized by its quiet location and natural shoreline scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.12507,
+                        55.429952
+                  ]
+            },
+            {
+                  "name": "Nevočių tv.",
+                  "text": "Nevočių tv. is a lake in Silale, offering visitors a peaceful environment for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        22.153529,
+                        55.536622
                   ]
             }
       ]
@@ -16765,6 +30067,231 @@ imageHint: "Silale church and central park",
                         26.214716,
                         55.319917
                   ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Der Baltys-See in Ignalina bietet eine ruhige Umgebung für Naturliebhaber in der Seenregion.",
+                  "category": "natural",
+                  "coords": [
+                        26.083726,
+                        55.299024
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakys",
+                  "text": "Der Laumiakys-See in Ignalina ist ein friedliches Gewässer, ideal für kurze Wanderungen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.071061,
+                        55.375371
+                  ]
+            },
+            {
+                  "name": "ež. Viksvojis",
+                  "text": "Der Viksvojis-See in Ignalina besticht durch seine natürliche Lage und bietet Ruhe für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        26.201262,
+                        55.334013
+                  ]
+            },
+            {
+                  "name": "ež. Agarinis",
+                  "text": "Der Agarinis-See in Ignalina ist ein stiller Ort inmitten der Natur, ideal für eine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        26.170781,
+                        55.327445
+                  ]
+            },
+            {
+                  "name": "ež. Krakinis",
+                  "text": "Der Krakinis-See in Ignalina bietet eine malerische Kulisse für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.204447,
+                        55.336932
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Der Balčiukas-See in Ignalina ist ein kleines, ruhiges Gewässer, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.090411,
+                        55.297943
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Der Ežerėlis-See in Ignalina bietet eine friedliche Atmosphäre für Erholungsuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.098309,
+                        55.344972
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Der Ešerinis-See in Ignalina ist ein ruhiges Naturgewässer, das zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.069262,
+                        55.371291
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Der Bevardis-See in Ignalina bietet eine abgeschiedene und ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.117853,
+                        55.339788
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Der Bedugnis-See in Ignalina zeichnet sich durch seine friedliche Lage inmitten der Wälder aus.",
+                  "category": "natural",
+                  "coords": [
+                        26.123282,
+                        55.338504
+                  ]
+            },
+            {
+                  "name": "ež. Paledinis",
+                  "text": "Der Paledinis-See in Ignalina ist ein stilles Gewässer, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.168822,
+                        55.352512
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakėlis",
+                  "text": "Der Laumiakėlis-See in Ignalina ist ein kleines Gewässer, das eine friedliche Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.078082,
+                        55.375296
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Der Lukštinis-See in Ignalina bietet eine idyllische Naturkulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.205319,
+                        55.357539
+                  ]
+            },
+            {
+                  "name": "Velniadvario ež.",
+                  "text": "Der Velniadvaris-See in Ignalina lädt Besucher ein, die unberührte Natur der Region zu erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        26.170197,
+                        55.395608
+                  ]
+            },
+            {
+                  "name": "ež. Skudutis",
+                  "text": "Der Skudutis-See in Ignalina ist ein ruhiges Gewässer, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        26.158046,
+                        55.317264
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Der Laumenas-See in Ignalina bietet eine ruhige Atmosphäre für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.110256,
+                        55.309401
+                  ]
+            },
+            {
+                  "name": "ež. Dringis",
+                  "text": "Der Dringis-See in Ignalina ist ein großes und bekanntes Gewässer der Region, ideal für Wanderungen am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.096085,
+                        55.365273
+                  ]
+            },
+            {
+                  "name": "ež. Gavys",
+                  "text": "Der Gavys-See in Ignalina ist ein beliebter Ort für Erholung und bietet eine malerische Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        26.131912,
+                        55.331214
+                  ]
+            },
+            {
+                  "name": "ež. Žeimenys",
+                  "text": "Der Žeimenys-See in Ignalina ist ein bedeutendes Naturgewässer, das sich hervorragend für Ausflüge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.037772,
+                        55.272788
+                  ]
+            },
+            {
+                  "name": "ež. Palaukinis",
+                  "text": "Der See Palaukinis in Ignalina bietet eine ruhige Kulisse für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.14455,
+                        55.34367
+                  ]
+            },
+            {
+                  "name": "ež. Paplovinis",
+                  "text": "Der Paplovinis-See in Ignalina ist ein schöner Ort für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.15743,
+                        55.346381
+                  ]
+            },
+            {
+                  "name": "ež. Tuolas",
+                  "text": "Der See Tuolas bei Ignalina besticht durch seine naturbelassene Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.172421,
+                        55.264032
+                  ]
+            },
+            {
+                  "name": "ež. Vajuonis",
+                  "text": "Der See Vajuonis in Ignalina ist ein ruhiges Gewässer, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.128897,
+                        55.281964
+                  ]
+            },
+            {
+                  "name": "ež. Gavaitis",
+                  "text": "Der Gavaitis-See in Ignalina lädt zu entspannten Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.15297,
+                        55.333861
+                  ]
+            },
+            {
+                  "name": "ež. Lūšiai",
+                  "text": "Der See Lūšiai in Ignalina ist für seine malerische Landschaft bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        26.068563,
+                        55.333346
+                  ]
             }
       ],
       "hu": [
@@ -16775,6 +30302,231 @@ imageHint: "Silale church and central park",
                   "coords": [
                         26.214716,
                         55.319917
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Az Ignalina területén található Baltys-tó nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.083726,
+                        55.299024
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakys",
+                  "text": "Az Ignalina melletti Laumiakys-tó békés vízfelület, ideális a környékbeli rövid túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.071061,
+                        55.375371
+                  ]
+            },
+            {
+                  "name": "ež. Viksvojis",
+                  "text": "Az Ignalina városában lévő Viksvojis-tó természetes elhelyezkedésével tűnik ki, és nyugalmat ápol a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.201262,
+                        55.334013
+                  ]
+            },
+            {
+                  "name": "ež. Agarinis",
+                  "text": "Az Ignalina területén fekvő Agarinis-tó csendes hely a természet lágyán, ideális a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.170781,
+                        55.327445
+                  ]
+            },
+            {
+                  "name": "ež. Krakinis",
+                  "text": "Az Ignalina melletti Krakinis-tó festői környezetet biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.204447,
+                        55.336932
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Az Ignalina városában található Balčiukas-tó egy kis, nyugodt vízfelület, ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.090411,
+                        55.297943
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Az Ignalina területén fekvő Ežerėlis-tó békés légkört biztosít a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.098309,
+                        55.344972
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Az Ignalina melletti Ešerinis-tó egy nyugodt természeti vízfelület, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        26.069262,
+                        55.371291
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Az Ignalina városában lévő Bevardis-tó elszigetelt és nyugodt környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        26.117853,
+                        55.339788
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Az Ignalina területén fekvő Bedugnis-tó az erdők közötti békés elhelyezkedésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        26.123282,
+                        55.338504
+                  ]
+            },
+            {
+                  "name": "ež. Paledinis",
+                  "text": "Az Ignalina melletti Paledinis-tó csendes vízfelület, ideális a természetben töltött nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.168822,
+                        55.352512
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakėlis",
+                  "text": "Az Ignalina városában található Laumiakėlis-tó egy kis vízfelület, amely békés helyszínt kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.078082,
+                        55.375296
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Az Ignalina területén fekvő Lukštinis-tó idilli természeti környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.205319,
+                        55.357539
+                  ]
+            },
+            {
+                  "name": "Velniadvario ež.",
+                  "text": "Az Ignalina melletti Velniadvaris-tó arra invitálja a látogatókat, hogy fedezzék fel a régió érintetlen természetét.",
+                  "category": "natural",
+                  "coords": [
+                        26.170197,
+                        55.395608
+                  ]
+            },
+            {
+                  "name": "ež. Skudutis",
+                  "text": "Az Ignalina városában lévő Skudutis-tó békés vízfelület, ideális a helyi élővilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.158046,
+                        55.317264
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Az Ignalina területén fekvő Laumenas-tó nyugodt légkört biztosít egy pihentető vízparti naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.110256,
+                        55.309401
+                  ]
+            },
+            {
+                  "name": "ež. Dringis",
+                  "text": "Az Ignalina melletti Dringis-tó a régió egyik nagy és ismert vízfelülete, ideális a parti túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.096085,
+                        55.365273
+                  ]
+            },
+            {
+                  "name": "ež. Gavys",
+                  "text": "Az Ignalina városában található Gavys-tó népszerű pihenőhely, amely festői kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        26.131912,
+                        55.331214
+                  ]
+            },
+            {
+                  "name": "ež. Žeimenys",
+                  "text": "Az Ignalina területén fekvő Žeimenys-tó jelentős természeti vízfelület, amely kiválóan alkalmas kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.037772,
+                        55.272788
+                  ]
+            },
+            {
+                  "name": "ež. Palaukinis",
+                  "text": "A Palaukinis-tó Ignalina területén nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.14455,
+                        55.34367
+                  ]
+            },
+            {
+                  "name": "ež. Paplovinis",
+                  "text": "A Paplovinis-tó Ignalina városában kellemes helyszín a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.15743,
+                        55.346381
+                  ]
+            },
+            {
+                  "name": "ež. Tuolas",
+                  "text": "Az Ignalina melletti Tuolas-tó természetes környezetével várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.172421,
+                        55.264032
+                  ]
+            },
+            {
+                  "name": "ež. Vajuonis",
+                  "text": "A Vajuonis-tó Ignalina vidékén egy csendes állóvíz, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.128897,
+                        55.281964
+                  ]
+            },
+            {
+                  "name": "ež. Gavaitis",
+                  "text": "Az ignalinai Gavaitis-tó pihentető pillanatokat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.15297,
+                        55.333861
+                  ]
+            },
+            {
+                  "name": "ež. Lūšiai",
+                  "text": "Az ignalinai Lūšiai-tó festői tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.068563,
+                        55.333346
                   ]
             }
       ],
@@ -16787,6 +30539,231 @@ imageHint: "Silale church and central park",
                         26.214716,
                         55.319917
                   ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Lacul Baltys din Ignalina oferă un mediu liniștit pentru iubitorii de natură din regiunea lacurilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.083726,
+                        55.299024
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakys",
+                  "text": "Lacul Laumiakys din Ignalina este o apă liniștită, ideală pentru scurte drumeții în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        26.071061,
+                        55.375371
+                  ]
+            },
+            {
+                  "name": "ež. Viksvojis",
+                  "text": "Lacul Viksvojis din Ignalina impresionează prin locația sa naturală și oferă liniște vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.201262,
+                        55.334013
+                  ]
+            },
+            {
+                  "name": "ež. Agarinis",
+                  "text": "Lacul Agarinis din Ignalina este un loc liniștit în mijlocul naturii, ideal pentru o pauză de la cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        26.170781,
+                        55.327445
+                  ]
+            },
+            {
+                  "name": "ež. Krakinis",
+                  "text": "Lacul Krakinis din Ignalina oferă un cadru pitoresc pentru ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.204447,
+                        55.336932
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Lacul Balčiukas din Ignalina este o apă mică și liniștită, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.090411,
+                        55.297943
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Lacul Ežerėlis din Ignalina oferă o atmosferă liniștită pentru cei care caută recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.098309,
+                        55.344972
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Lacul Ešerinis din Ignalina este o apă naturală liniștită care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.069262,
+                        55.371291
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Lacul Bevardis din Ignalina oferă un mediu retras și liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.117853,
+                        55.339788
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Lacul Bedugnis din Ignalina se remarcă prin locația sa liniștită în mijlocul pădurilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.123282,
+                        55.338504
+                  ]
+            },
+            {
+                  "name": "ež. Paledinis",
+                  "text": "Lacul Paledinis din Ignalina este o apă liniștită, ideală pentru momente de calm în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.168822,
+                        55.352512
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakėlis",
+                  "text": "Lacul Laumiakėlis din Ignalina este o apă mică ce oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.078082,
+                        55.375296
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lacul Lukštinis din Ignalina oferă un cadru natural idilic pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.205319,
+                        55.357539
+                  ]
+            },
+            {
+                  "name": "Velniadvario ež.",
+                  "text": "Lacul Velniadvaris din Ignalina invită vizitatorii să exploreze natura nealterată a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        26.170197,
+                        55.395608
+                  ]
+            },
+            {
+                  "name": "ež. Skudutis",
+                  "text": "Lacul Skudutis din Ignalina este o apă liniștită, ideală pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.158046,
+                        55.317264
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Lacul Laumenas din Ignalina oferă o atmosferă liniștită pentru o zi relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.110256,
+                        55.309401
+                  ]
+            },
+            {
+                  "name": "ež. Dringis",
+                  "text": "Lacul Dringis din Ignalina este o apă mare și cunoscută a regiunii, ideală pentru drumeții pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.096085,
+                        55.365273
+                  ]
+            },
+            {
+                  "name": "ež. Gavys",
+                  "text": "Lacul Gavys din Ignalina este un loc popular pentru recreere și oferă o vedere pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        26.131912,
+                        55.331214
+                  ]
+            },
+            {
+                  "name": "ež. Žeimenys",
+                  "text": "Lacul Žeimenys din Ignalina este o apă naturală importantă, excelentă pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        26.037772,
+                        55.272788
+                  ]
+            },
+            {
+                  "name": "ež. Palaukinis",
+                  "text": "Lacul Palaukinis din Ignalina oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.14455,
+                        55.34367
+                  ]
+            },
+            {
+                  "name": "ež. Paplovinis",
+                  "text": "Lacul Paplovinis din Ignalina este un loc frumos pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.15743,
+                        55.346381
+                  ]
+            },
+            {
+                  "name": "ež. Tuolas",
+                  "text": "Lacul Tuolas de lângă Ignalina atrage prin mediul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.172421,
+                        55.264032
+                  ]
+            },
+            {
+                  "name": "ež. Vajuonis",
+                  "text": "Lacul Vajuonis din Ignalina este o apă liniștită, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.128897,
+                        55.281964
+                  ]
+            },
+            {
+                  "name": "ež. Gavaitis",
+                  "text": "Lacul Gavaitis din Ignalina invită la momente de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.15297,
+                        55.333861
+                  ]
+            },
+            {
+                  "name": "ež. Lūšiai",
+                  "text": "Lacul Lūšiai din Ignalina este cunoscut pentru peisajul său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        26.068563,
+                        55.333346
+                  ]
             }
       ],
       "en": [
@@ -16797,6 +30774,231 @@ imageHint: "Silale church and central park",
                   "coords": [
                         26.214716,
                         55.319917
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Baltys lake in Ignalina offers a calm environment for nature lovers in the lake region.",
+                  "category": "natural",
+                  "coords": [
+                        26.083726,
+                        55.299024
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakys",
+                  "text": "Laumiakys lake in Ignalina is a peaceful body of water, ideal for short hikes in the area.",
+                  "category": "natural",
+                  "coords": [
+                        26.071061,
+                        55.375371
+                  ]
+            },
+            {
+                  "name": "ež. Viksvojis",
+                  "text": "Viksvojis lake in Ignalina stands out for its natural location and offers peace to visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.201262,
+                        55.334013
+                  ]
+            },
+            {
+                  "name": "ež. Agarinis",
+                  "text": "Agarinis lake in Ignalina is a quiet place in the heart of nature, ideal for a break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        26.170781,
+                        55.327445
+                  ]
+            },
+            {
+                  "name": "ež. Krakinis",
+                  "text": "Krakinis lake in Ignalina offers a picturesque backdrop for relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.204447,
+                        55.336932
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Balčiukas lake in Ignalina is a small, quiet body of water ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.090411,
+                        55.297943
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Ežerėlis lake in Ignalina provides a peaceful atmosphere for those seeking recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.098309,
+                        55.344972
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Ešerinis lake in Ignalina is a calm natural body of water inviting relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.069262,
+                        55.371291
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Bevardis lake in Ignalina offers a secluded and quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.117853,
+                        55.339788
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Bedugnis lake in Ignalina stands out for its peaceful location amidst the forests.",
+                  "category": "natural",
+                  "coords": [
+                        26.123282,
+                        55.338504
+                  ]
+            },
+            {
+                  "name": "ež. Paledinis",
+                  "text": "Paledinis lake in Ignalina is a quiet body of water, ideal for peaceful moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.168822,
+                        55.352512
+                  ]
+            },
+            {
+                  "name": "ež. Laumiakėlis",
+                  "text": "Laumiakėlis lake in Ignalina is a small body of water offering a peaceful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.078082,
+                        55.375296
+                  ]
+            },
+            {
+                  "name": "ež. Lukštinis",
+                  "text": "Lukštinis lake in Ignalina offers an idyllic natural setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.205319,
+                        55.357539
+                  ]
+            },
+            {
+                  "name": "Velniadvario ež.",
+                  "text": "Velniadvaris lake in Ignalina invites visitors to explore the untouched nature of the region.",
+                  "category": "natural",
+                  "coords": [
+                        26.170197,
+                        55.395608
+                  ]
+            },
+            {
+                  "name": "ež. Skudutis",
+                  "text": "Skudutis lake in Ignalina is a calm body of water, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        26.158046,
+                        55.317264
+                  ]
+            },
+            {
+                  "name": "ež. Laumenas",
+                  "text": "Laumenas lake in Ignalina offers a calm atmosphere for a relaxing day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.110256,
+                        55.309401
+                  ]
+            },
+            {
+                  "name": "ež. Dringis",
+                  "text": "Dringis lake in Ignalina is a large and well-known body of water in the region, ideal for shore hikes.",
+                  "category": "natural",
+                  "coords": [
+                        26.096085,
+                        55.365273
+                  ]
+            },
+            {
+                  "name": "ež. Gavys",
+                  "text": "Gavys lake in Ignalina is a popular spot for recreation and offers a scenic view.",
+                  "category": "natural",
+                  "coords": [
+                        26.131912,
+                        55.331214
+                  ]
+            },
+            {
+                  "name": "ež. Žeimenys",
+                  "text": "Žeimenys lake in Ignalina is a significant natural body of water, excellent for excursions.",
+                  "category": "natural",
+                  "coords": [
+                        26.037772,
+                        55.272788
+                  ]
+            },
+            {
+                  "name": "ež. Palaukinis",
+                  "text": "Palaukinis Lake in Ignalina offers a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.14455,
+                        55.34367
+                  ]
+            },
+            {
+                  "name": "ež. Paplovinis",
+                  "text": "Paplovinis Lake in Ignalina is a nice spot for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.15743,
+                        55.346381
+                  ]
+            },
+            {
+                  "name": "ež. Tuolas",
+                  "text": "Tuolas Lake near Ignalina is characterized by its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.172421,
+                        55.264032
+                  ]
+            },
+            {
+                  "name": "ež. Vajuonis",
+                  "text": "Vajuonis Lake in Ignalina is a quiet body of water, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.128897,
+                        55.281964
+                  ]
+            },
+            {
+                  "name": "ež. Gavaitis",
+                  "text": "Gavaitis Lake in Ignalina invites visitors to relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.15297,
+                        55.333861
+                  ]
+            },
+            {
+                  "name": "ež. Lūšiai",
+                  "text": "Lūšiai Lake in Ignalina is known for its picturesque landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.068563,
+                        55.333346
                   ]
             }
       ]
@@ -16919,6 +31121,177 @@ imageHint: "Ignalina winter sports center and lake",
                         25.45974,
                         54.852652
                   ]
+            },
+            {
+                  "name": "ež. Antavilio Pusdubenis",
+                  "text": "Ein See bei Nemencine, der eine friedliche Kulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.400228,
+                        54.792724
+                  ]
+            },
+            {
+                  "name": "ež. Skarbelis",
+                  "text": "Ein malerisches Gewässer in Nemencine, ideal für Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.424686,
+                        54.795086
+                  ]
+            },
+            {
+                  "name": "Balžio ež.",
+                  "text": "Ein bekannter See bei Nemencine, beliebt für seine schöne Lage im Wald.",
+                  "category": "natural",
+                  "coords": [
+                        25.434427,
+                        54.789219
+                  ]
+            },
+            {
+                  "name": "ež. Gėlaitis",
+                  "text": "Ein See in Nemencine, der zum Verweilen und Genießen der Ruhe einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.513746,
+                        54.85499
+                  ]
+            },
+            {
+                  "name": "Raudondvario ež.",
+                  "text": "Ein natürlicher See bei Nemencine, umgeben von Wald und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.543122,
+                        54.87141
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Ein kleines Gewässer in Nemencine, perfekt für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        25.539453,
+                        54.872611
+                  ]
+            },
+            {
+                  "name": "Trinkulio tv.",
+                  "text": "Ein ruhiger See bei Nemencine, der sich gut für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.546667,
+                        54.823723
+                  ]
+            },
+            {
+                  "name": "Mažasis Antavilio ež.",
+                  "text": "Ein kleiner See in Nemencine, ideal für Naturliebhaber und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        25.39905,
+                        54.796478
+                  ]
+            },
+            {
+                  "name": "Arvydų tv.",
+                  "text": "Ein Gewässer bei Nemencine, das eine natürliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.545857,
+                        54.813962
+                  ]
+            },
+            {
+                  "name": "Stripūnų ež.",
+                  "text": "Ein malerischer See in Nemencine, passend für erholsame Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.558542,
+                        54.879218
+                  ]
+            },
+            {
+                  "name": "Liubavo malūno tv.",
+                  "text": "Ein See bei Nemencine, umgeben von historischem Flair und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.341846,
+                        54.851601
+                  ]
+            },
+            {
+                  "name": "ež. Juodis",
+                  "text": "Ein ruhiger See in Nemencine, ideal für Naturbeobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.441941,
+                        54.780363
+                  ]
+            },
+            {
+                  "name": "ež. Gėla",
+                  "text": "Der Gėla-See in Nemenčinė ist ein malerisches Ziel für Spaziergänge und Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.507714,
+                        54.849721
+                  ]
+            },
+            {
+                  "name": "Nemenčinės V tv.",
+                  "text": "Das Gewässer Nemenčinės V tv. in Nemenčinė bietet eine ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.472859,
+                        54.838698
+                  ]
+            },
+            {
+                  "name": "Nemenčinės IV tv.",
+                  "text": "Nemenčinės IV tv. ist ein ruhiges Gewässer in Nemenčinė, ideal für entspannte Beobachtungen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.474202,
+                        54.838337
+                  ]
+            },
+            {
+                  "name": "Nemenčinės III tv.",
+                  "text": "Das Nemenčinės III tv. in Nemenčinė lädt zu kurzen Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.475201,
+                        54.83783
+                  ]
+            },
+            {
+                  "name": "Nemenčinės II tv.",
+                  "text": "Nemenčinės II tv. ist ein friedlicher Stausee in Nemenčinė, der sich gut für eine Auszeit im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.476655,
+                        54.836844
+                  ]
+            },
+            {
+                  "name": "Nemenčinės I tv.",
+                  "text": "Der Nemenčinės I tv. in Nemenčinė bietet eine angenehme Kulisse für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        25.478531,
+                        54.836068
+                  ]
+            },
+            {
+                  "name": "Antavilio ež.",
+                  "text": "Der Antavilio-See bei Nemenčinė ist bekannt für seine ruhige Lage und die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.408015,
+                        54.793745
+                  ]
             }
       ],
       "hu": [
@@ -16992,6 +31365,177 @@ imageHint: "Ignalina winter sports center and lake",
                   "coords": [
                         25.45974,
                         54.852652
+                  ]
+            },
+            {
+                  "name": "ež. Antavilio Pusdubenis",
+                  "text": "Nemencine melletti tó, amely békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.400228,
+                        54.792724
+                  ]
+            },
+            {
+                  "name": "ež. Skarbelis",
+                  "text": "Festői vízfelület Nemencine területén, ideális természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.424686,
+                        54.795086
+                  ]
+            },
+            {
+                  "name": "Balžio ež.",
+                  "text": "Nemencine környéki ismert tó, amely kedvelt szép erdei fekvése miatt.",
+                  "category": "natural",
+                  "coords": [
+                        25.434427,
+                        54.789219
+                  ]
+            },
+            {
+                  "name": "ež. Gėlaitis",
+                  "text": "Nemencine-i tó, amely pihenésre és a csend élvezetére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        25.513746,
+                        54.85499
+                  ]
+            },
+            {
+                  "name": "Raudondvario ež.",
+                  "text": "Természetes tó Nemencine mellett, erdővel és természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.543122,
+                        54.87141
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Kicsiny vízfelület Nemencine területén, tökéletes a csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.539453,
+                        54.872611
+                  ]
+            },
+            {
+                  "name": "Trinkulio tv.",
+                  "text": "Csendes tó Nemencine közelében, amely kiválóan alkalmas sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.546667,
+                        54.823723
+                  ]
+            },
+            {
+                  "name": "Mažasis Antavilio ež.",
+                  "text": "Kicsi tó Nemencine területén, ideális a természet kedvelőinek és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.39905,
+                        54.796478
+                  ]
+            },
+            {
+                  "name": "Arvydų tv.",
+                  "text": "Nemencine melletti vízfelület, amely természetes légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.545857,
+                        54.813962
+                  ]
+            },
+            {
+                  "name": "Stripūnų ež.",
+                  "text": "Festői tó Nemencine területén, alkalmas a pihentető szabadtéri órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.558542,
+                        54.879218
+                  ]
+            },
+            {
+                  "name": "Liubavo malūno tv.",
+                  "text": "Nemencine melletti tó, amelyet történelmi hangulat és természet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        25.341846,
+                        54.851601
+                  ]
+            },
+            {
+                  "name": "ež. Juodis",
+                  "text": "Csendes tó Nemencine területén, ideális a vízparti természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.441941,
+                        54.780363
+                  ]
+            },
+            {
+                  "name": "ež. Gėla",
+                  "text": "A Nemenčinė városában található Gėla-tó festői környezetet kínál sétákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.507714,
+                        54.849721
+                  ]
+            },
+            {
+                  "name": "Nemenčinės V tv.",
+                  "text": "A Nemenčinėben található Nemenčinės V tv. nyugodt környezetet biztosít a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        25.472859,
+                        54.838698
+                  ]
+            },
+            {
+                  "name": "Nemenčinės IV tv.",
+                  "text": "A Nemenčinės IV tv. egy csendes vízfelület Nemenčinėben, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.474202,
+                        54.838337
+                  ]
+            },
+            {
+                  "name": "Nemenčinės III tv.",
+                  "text": "A Nemenčinėben található Nemenčinės III tv. rövid sétákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        25.475201,
+                        54.83783
+                  ]
+            },
+            {
+                  "name": "Nemenčinės II tv.",
+                  "text": "A Nemenčinės II tv. egy békés víztározó Nemenčinėben, amely alkalmas a zöldben való kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.476655,
+                        54.836844
+                  ]
+            },
+            {
+                  "name": "Nemenčinės I tv.",
+                  "text": "A Nemenčinėben lévő Nemenčinės I tv. kellemes hátteret biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.478531,
+                        54.836068
+                  ]
+            },
+            {
+                  "name": "Antavilio ež.",
+                  "text": "A Nemenčinė melletti Antavilio-tó nyugodt fekvéséről és a környező tájról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.408015,
+                        54.793745
                   ]
             }
       ],
@@ -17067,6 +31611,177 @@ imageHint: "Ignalina winter sports center and lake",
                         25.45974,
                         54.852652
                   ]
+            },
+            {
+                  "name": "ež. Antavilio Pusdubenis",
+                  "text": "Un lac lângă Nemencine, care oferă un cadru pașnic pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        25.400228,
+                        54.792724
+                  ]
+            },
+            {
+                  "name": "ež. Skarbelis",
+                  "text": "O zonă acvatică pitorească în Nemencine, ideală pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.424686,
+                        54.795086
+                  ]
+            },
+            {
+                  "name": "Balžio ež.",
+                  "text": "Un lac cunoscut lângă Nemencine, popular pentru locația sa frumoasă în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        25.434427,
+                        54.789219
+                  ]
+            },
+            {
+                  "name": "ež. Gėlaitis",
+                  "text": "Un lac în Nemencine, care invită la relaxare și bucuria liniștii.",
+                  "category": "natural",
+                  "coords": [
+                        25.513746,
+                        54.85499
+                  ]
+            },
+            {
+                  "name": "Raudondvario ež.",
+                  "text": "Un lac natural lângă Nemencine, înconjurat de pădure și natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.543122,
+                        54.87141
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "O zonă acvatică mică în Nemencine, perfectă pentru momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        25.539453,
+                        54.872611
+                  ]
+            },
+            {
+                  "name": "Trinkulio tv.",
+                  "text": "Un lac liniștit lângă Nemencine, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        25.546667,
+                        54.823723
+                  ]
+            },
+            {
+                  "name": "Mažasis Antavilio ež.",
+                  "text": "Un lac mic în Nemencine, ideal pentru iubitorii de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.39905,
+                        54.796478
+                  ]
+            },
+            {
+                  "name": "Arvydų tv.",
+                  "text": "O zonă acvatică lângă Nemencine, care oferă o atmosferă naturală.",
+                  "category": "natural",
+                  "coords": [
+                        25.545857,
+                        54.813962
+                  ]
+            },
+            {
+                  "name": "Stripūnų ež.",
+                  "text": "Un lac pitoresc în Nemencine, potrivit pentru ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.558542,
+                        54.879218
+                  ]
+            },
+            {
+                  "name": "Liubavo malūno tv.",
+                  "text": "Un lac lângă Nemencine, înconjurat de un aer istoric și natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.341846,
+                        54.851601
+                  ]
+            },
+            {
+                  "name": "ež. Juodis",
+                  "text": "Un lac liniștit în Nemencine, ideal pentru observarea naturii pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.441941,
+                        54.780363
+                  ]
+            },
+            {
+                  "name": "ež. Gėla",
+                  "text": "Lacul Gėla din Nemenčinė este o destinație pitorească pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.507714,
+                        54.849721
+                  ]
+            },
+            {
+                  "name": "Nemenčinės V tv.",
+                  "text": "Lacul Nemenčinės V tv. din Nemenčinė oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.472859,
+                        54.838698
+                  ]
+            },
+            {
+                  "name": "Nemenčinės IV tv.",
+                  "text": "Nemenčinės IV tv. este un lac liniștit din Nemenčinė, ideal pentru observarea relaxată a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.474202,
+                        54.838337
+                  ]
+            },
+            {
+                  "name": "Nemenčinės III tv.",
+                  "text": "Lacul Nemenčinės III tv. din Nemenčinė invită la scurte plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.475201,
+                        54.83783
+                  ]
+            },
+            {
+                  "name": "Nemenčinės II tv.",
+                  "text": "Nemenčinės II tv. este un lac liniștit din Nemenčinė, potrivit pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.476655,
+                        54.836844
+                  ]
+            },
+            {
+                  "name": "Nemenčinės I tv.",
+                  "text": "Lacul Nemenčinės I tv. din Nemenčinė oferă un cadru plăcut pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.478531,
+                        54.836068
+                  ]
+            },
+            {
+                  "name": "Antavilio ež.",
+                  "text": "Lacul Antavilio de lângă Nemenčinė este cunoscut pentru locația sa liniștită și peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        25.408015,
+                        54.793745
+                  ]
             }
       ],
       "en": [
@@ -17140,6 +31855,177 @@ imageHint: "Ignalina winter sports center and lake",
                   "coords": [
                         25.45974,
                         54.852652
+                  ]
+            },
+            {
+                  "name": "ež. Antavilio Pusdubenis",
+                  "text": "A lake near Nemencine, offering a peaceful backdrop for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        25.400228,
+                        54.792724
+                  ]
+            },
+            {
+                  "name": "ež. Skarbelis",
+                  "text": "A scenic body of water in Nemencine, ideal for nature outings.",
+                  "category": "natural",
+                  "coords": [
+                        25.424686,
+                        54.795086
+                  ]
+            },
+            {
+                  "name": "Balžio ež.",
+                  "text": "A well-known lake near Nemencine, popular for its beautiful forest location.",
+                  "category": "natural",
+                  "coords": [
+                        25.434427,
+                        54.789219
+                  ]
+            },
+            {
+                  "name": "ež. Gėlaitis",
+                  "text": "A lake in Nemencine, inviting for leisure and enjoying the silence.",
+                  "category": "natural",
+                  "coords": [
+                        25.513746,
+                        54.85499
+                  ]
+            },
+            {
+                  "name": "Raudondvario ež.",
+                  "text": "A natural lake near Nemencine, surrounded by forest and nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.543122,
+                        54.87141
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A small body of water in Nemencine, perfect for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        25.539453,
+                        54.872611
+                  ]
+            },
+            {
+                  "name": "Trinkulio tv.",
+                  "text": "A quiet lake near Nemencine, well-suited for strolls.",
+                  "category": "natural",
+                  "coords": [
+                        25.546667,
+                        54.823723
+                  ]
+            },
+            {
+                  "name": "Mažasis Antavilio ež.",
+                  "text": "A small lake in Nemencine, ideal for nature lovers and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.39905,
+                        54.796478
+                  ]
+            },
+            {
+                  "name": "Arvydų tv.",
+                  "text": "A body of water near Nemencine, offering a natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        25.545857,
+                        54.813962
+                  ]
+            },
+            {
+                  "name": "Stripūnų ež.",
+                  "text": "A scenic lake in Nemencine, suitable for relaxing outdoor hours.",
+                  "category": "natural",
+                  "coords": [
+                        25.558542,
+                        54.879218
+                  ]
+            },
+            {
+                  "name": "Liubavo malūno tv.",
+                  "text": "A lake near Nemencine, surrounded by historical flair and nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.341846,
+                        54.851601
+                  ]
+            },
+            {
+                  "name": "ež. Juodis",
+                  "text": "A quiet lake in Nemencine, ideal for lakeside nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.441941,
+                        54.780363
+                  ]
+            },
+            {
+                  "name": "ež. Gėla",
+                  "text": "Lake Gėla in Nemenčinė is a scenic destination for walks and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.507714,
+                        54.849721
+                  ]
+            },
+            {
+                  "name": "Nemenčinės V tv.",
+                  "text": "The Nemenčinės V tv. water body in Nemenčinė offers a quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.472859,
+                        54.838698
+                  ]
+            },
+            {
+                  "name": "Nemenčinės IV tv.",
+                  "text": "Nemenčinės IV tv. is a quiet water body in Nemenčinė, ideal for relaxed nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        25.474202,
+                        54.838337
+                  ]
+            },
+            {
+                  "name": "Nemenčinės III tv.",
+                  "text": "Nemenčinės III tv. in Nemenčinė invites visitors for short walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.475201,
+                        54.83783
+                  ]
+            },
+            {
+                  "name": "Nemenčinės II tv.",
+                  "text": "Nemenčinės II tv. is a peaceful reservoir in Nemenčinė, suitable for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.476655,
+                        54.836844
+                  ]
+            },
+            {
+                  "name": "Nemenčinės I tv.",
+                  "text": "Nemenčinės I tv. in Nemenčinė provides a pleasant backdrop for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        25.478531,
+                        54.836068
+                  ]
+            },
+            {
+                  "name": "Antavilio ež.",
+                  "text": "Lake Antavilio near Nemenčinė is known for its quiet location and the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.408015,
+                        54.793745
                   ]
             }
       ]
@@ -17271,6 +32157,132 @@ imageHint: "Nemencine bridge over Neris river",
                         23.843469,
                         55.98235
                   ]
+            },
+            {
+                  "name": "Klovainių I karjeras",
+                  "text": "Der Klovainių I karjeras in Pakruojis bietet eine weite Wasserfläche in einer ehemaligen Abbauumgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.944804,
+                        55.935295
+                  ]
+            },
+            {
+                  "name": "Klovainių III karjeras",
+                  "text": "Der Klovainių III karjeras ist ein See in Pakruojis, der sich gut für ruhige Beobachtungen in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.955582,
+                        55.938734
+                  ]
+            },
+            {
+                  "name": "Linksmučių II karjeras",
+                  "text": "Der Linksmučių II karjeras in Pakruojis bietet Besuchern eine ruhige Umgebung für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.813278,
+                        55.97327
+                  ]
+            },
+            {
+                  "name": "Linksmučių I karjeras",
+                  "text": "Der Linksmučių I karjeras ist ein lokales Gewässer in Pakruojis, ideal für erholsame Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.814791,
+                        55.973148
+                  ]
+            },
+            {
+                  "name": "Klovainių V karjeras",
+                  "text": "Ein ruhiges Gewässer in Pakruojis, ideal für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.954558,
+                        55.930704
+                  ]
+            },
+            {
+                  "name": "Klovainių dolomito karjero tv.",
+                  "text": "Dieses Gewässer in Pakruojis bietet eine friedliche Atmosphäre für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.954868,
+                        55.925217
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro malūno tvenkinys",
+                  "text": "Ein malerischer Teich in Pakruojis, der sich gut für eine kurze Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.876736,
+                        55.988312
+                  ]
+            },
+            {
+                  "name": "Laičių I tv.",
+                  "text": "Ein ruhiger Stausee bei Pakruojis, ideal zum Entspannen in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.866607,
+                        55.920523
+                  ]
+            },
+            {
+                  "name": "Pakruojo tv.",
+                  "text": "Ein lokales Gewässer in Pakruojis, das zu einem gemütlichen Aufenthalt am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.829913,
+                        55.976311
+                  ]
+            },
+            {
+                  "name": "Klovainių IV karjeras",
+                  "text": "Ein friedlicher Ort am Wasser in Pakruojis, perfekt für eine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.954911,
+                        55.935227
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų dolomito karjero tv.",
+                  "text": "Ein ruhiges Gewässer in Pakruojis, das eine schöne Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.916217,
+                        55.991949
+                  ]
+            },
+            {
+                  "name": "Laičių II tv.",
+                  "text": "Dieser Teich in Pakruojis ist ein ruhiger Rückzugsort für Besucher der Region.",
+                  "category": "natural",
+                  "coords": [
+                        23.847629,
+                        55.922403
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų II karjeras",
+                  "text": "Ein naturbelassenes Gewässer in Pakruojis, ideal für einen Moment der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        23.921719,
+                        56.011604
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų I karjeras",
+                  "text": "Ein friedliches Ausflugsziel am Wasser in Pakruojis für die ganze Familie.",
+                  "category": "natural",
+                  "coords": [
+                        23.909837,
+                        56.005573
+                  ]
             }
       ],
       "hu": [
@@ -17353,6 +32365,132 @@ imageHint: "Nemencine bridge over Neris river",
                   "coords": [
                         23.843469,
                         55.98235
+                  ]
+            },
+            {
+                  "name": "Klovainių I karjeras",
+                  "text": "A Klovainių I karjeras Pakruojis területén széles vízfelületet kínál egy korábbi bányászati környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.944804,
+                        55.935295
+                  ]
+            },
+            {
+                  "name": "Klovainių III karjeras",
+                  "text": "A Klovainių III karjeras egy tó Pakruojis területén, amely kiválóan alkalmas a csendes természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        23.955582,
+                        55.938734
+                  ]
+            },
+            {
+                  "name": "Linksmučių II karjeras",
+                  "text": "A Linksmučių II karjeras Pakruojis területén békés környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.813278,
+                        55.97327
+                  ]
+            },
+            {
+                  "name": "Linksmučių I karjeras",
+                  "text": "A Linksmučių I karjeras egy helyi tó Pakruojis területén, ideális a pihentető szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.814791,
+                        55.973148
+                  ]
+            },
+            {
+                  "name": "Klovainių V karjeras",
+                  "text": "Nyugodt vízfelület Pakruojis területén, amely kellemes környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.954558,
+                        55.930704
+                  ]
+            },
+            {
+                  "name": "Klovainių dolomito karjero tv.",
+                  "text": "Ez a Pakruojis melletti vízfelület békés hangulatot áraszt a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.954868,
+                        55.925217
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro malūno tvenkinys",
+                  "text": "Festői tó Pakruojis területén, amely alkalmas egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        23.876736,
+                        55.988312
+                  ]
+            },
+            {
+                  "name": "Laičių I tv.",
+                  "text": "Csendes víztározó Pakruojis közelében, ideális a kikapcsolódáshoz természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.866607,
+                        55.920523
+                  ]
+            },
+            {
+                  "name": "Pakruojo tv.",
+                  "text": "Helyi vízfelület Pakruojis városában, amely kellemes időtöltésre hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        23.829913,
+                        55.976311
+                  ]
+            },
+            {
+                  "name": "Klovainių IV karjeras",
+                  "text": "Békés vízparti hely Pakruojis területén, tökéletes egy szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.954911,
+                        55.935227
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų dolomito karjero tv.",
+                  "text": "Nyugodt vízfelület Pakruojis területén, amely szép környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.916217,
+                        55.991949
+                  ]
+            },
+            {
+                  "name": "Laičių II tv.",
+                  "text": "Ez a Pakruojis területén található tó csendes búvóhely a régió látogatói számára.",
+                  "category": "natural",
+                  "coords": [
+                        23.847629,
+                        55.922403
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų II karjeras",
+                  "text": "Természetközeli vízfelület Pakruojis területén, ideális egy pillanatnyi csendhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.921719,
+                        56.011604
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų I karjeras",
+                  "text": "Békés vízparti kirándulóhely Pakruojis területén az egész család számára.",
+                  "category": "natural",
+                  "coords": [
+                        23.909837,
+                        56.005573
                   ]
             }
       ],
@@ -17437,6 +32575,132 @@ imageHint: "Nemencine bridge over Neris river",
                         23.843469,
                         55.98235
                   ]
+            },
+            {
+                  "name": "Klovainių I karjeras",
+                  "text": "Klovainių I karjeras din Pakruojis oferă o suprafață vastă de apă într-un fost mediu de extracție.",
+                  "category": "natural",
+                  "coords": [
+                        23.944804,
+                        55.935295
+                  ]
+            },
+            {
+                  "name": "Klovainių III karjeras",
+                  "text": "Klovainių III karjeras este un lac în Pakruojis, potrivit pentru observații liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.955582,
+                        55.938734
+                  ]
+            },
+            {
+                  "name": "Linksmučių II karjeras",
+                  "text": "Linksmučių II karjeras din Pakruojis oferă vizitatorilor un mediu liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.813278,
+                        55.97327
+                  ]
+            },
+            {
+                  "name": "Linksmučių I karjeras",
+                  "text": "Linksmučių I karjeras este un corp de apă local în Pakruojis, ideal pentru momente de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.814791,
+                        55.973148
+                  ]
+            },
+            {
+                  "name": "Klovainių V karjeras",
+                  "text": "Un luciu de apă liniștit în Pakruojis, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.954558,
+                        55.930704
+                  ]
+            },
+            {
+                  "name": "Klovainių dolomito karjero tv.",
+                  "text": "Acest luciu de apă din Pakruojis oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.954868,
+                        55.925217
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro malūno tvenkinys",
+                  "text": "Un iaz pitoresc în Pakruojis, potrivit pentru o scurtă pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.876736,
+                        55.988312
+                  ]
+            },
+            {
+                  "name": "Laičių I tv.",
+                  "text": "Un lac de acumulare liniștit lângă Pakruojis, ideal pentru relaxare într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.866607,
+                        55.920523
+                  ]
+            },
+            {
+                  "name": "Pakruojo tv.",
+                  "text": "Un luciu de apă local în Pakruojis, care invită la o ședere plăcută pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        23.829913,
+                        55.976311
+                  ]
+            },
+            {
+                  "name": "Klovainių IV karjeras",
+                  "text": "Un loc liniștit lângă apă în Pakruojis, perfect pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.954911,
+                        55.935227
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų dolomito karjero tv.",
+                  "text": "Un luciu de apă liniștit în Pakruojis, oferind un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.916217,
+                        55.991949
+                  ]
+            },
+            {
+                  "name": "Laičių II tv.",
+                  "text": "Acest iaz din Pakruojis este un refugiu liniștit pentru vizitatorii regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        23.847629,
+                        55.922403
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų II karjeras",
+                  "text": "Un luciu de apă natural în Pakruojis, ideal pentru un moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.921719,
+                        56.011604
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų I karjeras",
+                  "text": "O destinație liniștită lângă apă în Pakruojis pentru întreaga familie.",
+                  "category": "natural",
+                  "coords": [
+                        23.909837,
+                        56.005573
+                  ]
             }
       ],
       "en": [
@@ -17520,6 +32784,132 @@ imageHint: "Nemencine bridge over Neris river",
                         23.843469,
                         55.98235
                   ]
+            },
+            {
+                  "name": "Klovainių I karjeras",
+                  "text": "Klovainių I karjeras in Pakruojis offers a wide water surface in a former mining environment.",
+                  "category": "natural",
+                  "coords": [
+                        23.944804,
+                        55.935295
+                  ]
+            },
+            {
+                  "name": "Klovainių III karjeras",
+                  "text": "Klovainių III karjeras is a lake in Pakruojis, well-suited for quiet observations in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.955582,
+                        55.938734
+                  ]
+            },
+            {
+                  "name": "Linksmučių II karjeras",
+                  "text": "Linksmučių II karjeras in Pakruojis offers visitors a quiet environment for waterside walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.813278,
+                        55.97327
+                  ]
+            },
+            {
+                  "name": "Linksmučių I karjeras",
+                  "text": "Linksmučių I karjeras is a local body of water in Pakruojis, ideal for restorative moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.814791,
+                        55.973148
+                  ]
+            },
+            {
+                  "name": "Klovainių V karjeras",
+                  "text": "A calm body of water in Pakruojis, offering a peaceful setting for a walk or relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.954558,
+                        55.930704
+                  ]
+            },
+            {
+                  "name": "Klovainių dolomito karjero tv.",
+                  "text": "This body of water in Pakruojis provides a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.954868,
+                        55.925217
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro malūno tvenkinys",
+                  "text": "A picturesque pond in Pakruojis, well-suited for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        23.876736,
+                        55.988312
+                  ]
+            },
+            {
+                  "name": "Laičių I tv.",
+                  "text": "A quiet reservoir near Pakruojis, ideal for relaxing in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.866607,
+                        55.920523
+                  ]
+            },
+            {
+                  "name": "Pakruojo tv.",
+                  "text": "A local body of water in Pakruojis, inviting for a pleasant stay by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.829913,
+                        55.976311
+                  ]
+            },
+            {
+                  "name": "Klovainių IV karjeras",
+                  "text": "A peaceful waterside spot in Pakruojis, perfect for some time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.954911,
+                        55.935227
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų dolomito karjero tv.",
+                  "text": "A calm body of water in Pakruojis, offering a nice backdrop for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.916217,
+                        55.991949
+                  ]
+            },
+            {
+                  "name": "Laičių II tv.",
+                  "text": "This pond in Pakruojis is a quiet retreat for visitors to the region.",
+                  "category": "natural",
+                  "coords": [
+                        23.847629,
+                        55.922403
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų II karjeras",
+                  "text": "A natural body of water in Pakruojis, ideal for a moment of quiet.",
+                  "category": "natural",
+                  "coords": [
+                        23.921719,
+                        56.011604
+                  ]
+            },
+            {
+                  "name": "Petrašiūnų I karjeras",
+                  "text": "A peaceful waterside destination in Pakruojis for the whole family.",
+                  "category": "natural",
+                  "coords": [
+                        23.909837,
+                        56.005573
+                  ]
             }
       ]
 },
@@ -17568,7 +32958,808 @@ imageHint: "Pakruojis manor and stone bridge",
     },
     image: "/poi-images/lithuania-pakruojis-cities-v2.webp",
 },  {
-    id: "lithuania-svencioneliai-cities-v2",
+    id: "lithuania-svencioneliai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Der See Ešerinis in Svencioneliai bietet eine friedliche Atmosphäre für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        25.898275,
+                        55.177848
+                  ]
+            },
+            {
+                  "name": "ež. Pakinis",
+                  "text": "Der Pakinis-See in Svencioneliai ist ein kleiner, ruhiger Naturort.",
+                  "category": "natural",
+                  "coords": [
+                        25.92514,
+                        55.100446
+                  ]
+            },
+            {
+                  "name": "ež. Juodenis",
+                  "text": "Der See Juodenis in Svencioneliai ist ideal für kurze Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        25.941146,
+                        55.148626
+                  ]
+            },
+            {
+                  "name": "ež. Pelkenis",
+                  "text": "Der Pelkenis-See in Svencioneliai bietet eine naturnahe Umgebung für Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        25.928519,
+                        55.130573
+                  ]
+            },
+            {
+                  "name": "ež. Versminis",
+                  "text": "Der See Versminis in Svencioneliai ist ein stiller Ort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.895117,
+                        55.143308
+                  ]
+            },
+            {
+                  "name": "ež. Gilutis",
+                  "text": "Der Gilutis-See in Svencioneliai lädt zur Erholung in einer ruhigen Kulisse ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.896283,
+                        55.151164
+                  ]
+            },
+            {
+                  "name": "ež. Snieginis",
+                  "text": "Der See Snieginis in Svencioneliai besticht durch seine friedliche Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        25.894386,
+                        55.157162
+                  ]
+            },
+            {
+                  "name": "ež. Siaurys",
+                  "text": "Der See Siaurys in Svencioneliai bietet einen entspannenden Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.915576,
+                        55.195949
+                  ]
+            },
+            {
+                  "name": "ež. Ežeras",
+                  "text": "Der See Ežeras in Svencioneliai ist ein lokales Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        25.969734,
+                        55.20521
+                  ]
+            },
+            {
+                  "name": "ež. Karosas",
+                  "text": "Der See Karosas in Svencioneliai ist ein ruhiges Gewässer in ländlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.904533,
+                        55.158939
+                  ]
+            },
+            {
+                  "name": "Sarių ež.",
+                  "text": "Der See von Sariai bei Svencioneliai bietet Raum für ruhige Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        26.040207,
+                        55.07783
+                  ]
+            },
+            {
+                  "name": "ež. Salinis",
+                  "text": "Der Salinis-See in Svencioneliai ist ein friedlicher Ort für Naturbegeisterte.",
+                  "category": "natural",
+                  "coords": [
+                        25.96218,
+                        55.220113
+                  ]
+            },
+            {
+                  "name": "ež. Ilgaitis",
+                  "text": "Der See Ilgaitis in Svencioneliai lädt zu erholsamen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.97253,
+                        55.216348
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Der See Balčiukas in Svencioneliai bietet eine kleine Oase der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        25.987102,
+                        55.194827
+                  ]
+            },
+            {
+                  "name": "ež. Buivydas",
+                  "text": "Der See Buivydas in Svencioneliai ist ein ruhiges Naturziel in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        25.977442,
+                        55.208707
+                  ]
+            },
+            {
+                  "name": "ež. Sudota",
+                  "text": "Der See Sudota in Svencioneliai ist ein schöner Ort für einen entspannten Tag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.979931,
+                        55.117293
+                  ]
+            },
+            {
+                  "name": "ež. Sudotėlis",
+                  "text": "Der Sudotėlis-See in Svencioneliai bietet eine angenehme Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.977078,
+                        55.124425
+                  ]
+            },
+            {
+                  "name": "ež. Šventas",
+                  "text": "Der See Šventas bei Svencioneliai besticht durch seine klare und ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        26.036522,
+                        55.215274
+                  ]
+            },
+            {
+                  "name": "Šventelės tv.",
+                  "text": "Das Reservoir von Šventelė in Svencioneliai bietet eine ruhige Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.013951,
+                        55.210804
+                  ]
+            },
+            {
+                  "name": "ež. Sergelis",
+                  "text": "Der See Sergelis in Svencioneliai ist ein friedliches Ziel für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        25.951485,
+                        55.19603
+                  ]
+            },
+            {
+                  "name": "ež. Kampuotis",
+                  "text": "Der See Kampuotis in Svencioneliai bietet entspannende Ausblicke in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.939732,
+                        55.184309
+                  ]
+            },
+            {
+                  "name": "ež. Šalnaitis",
+                  "text": "Der See Šalnaitis in Svencioneliai lädt zu ruhigen Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.9692,
+                        55.160652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Az Ešerinis-tó Svencioneliai környékén békés hangulatot áraszt a látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        25.898275,
+                        55.177848
+                  ]
+            },
+            {
+                  "name": "ež. Pakinis",
+                  "text": "A Pakinis-tó Svencioneliai területén egy kicsi, csendes természeti helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        25.92514,
+                        55.100446
+                  ]
+            },
+            {
+                  "name": "ež. Juodenis",
+                  "text": "A Svencioneliai melletti Juodenis-tó ideális rövid kirándulásokhoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.941146,
+                        55.148626
+                  ]
+            },
+            {
+                  "name": "ež. Pelkenis",
+                  "text": "A Pelkenis-tó Svencioneliai környékén természetközeli környezetet kínál a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.928519,
+                        55.130573
+                  ]
+            },
+            {
+                  "name": "ež. Versminis",
+                  "text": "A Versminis-tó Svencioneliai területén egy csendes hely a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        25.895117,
+                        55.143308
+                  ]
+            },
+            {
+                  "name": "ež. Gilutis",
+                  "text": "A Svencioneliai Gilutis-tó pihenésre csábít egy nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.896283,
+                        55.151164
+                  ]
+            },
+            {
+                  "name": "ež. Snieginis",
+                  "text": "A Svencioneliai Snieginis-tó békés víztükrével hívogatja a kirándulókat.",
+                  "category": "natural",
+                  "coords": [
+                        25.894386,
+                        55.157162
+                  ]
+            },
+            {
+                  "name": "ež. Siaurys",
+                  "text": "A Siaurys-tó Svencioneliai környékén pihentető kilátást nyújt a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        25.915576,
+                        55.195949
+                  ]
+            },
+            {
+                  "name": "ež. Ežeras",
+                  "text": "A Svencioneliai Ežeras-tó a természetbarátok helyi célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        25.969734,
+                        55.20521
+                  ]
+            },
+            {
+                  "name": "ež. Karosas",
+                  "text": "A Karosas-tó Svencioneliai vidékén egy csendes vízfelület falusias környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.904533,
+                        55.158939
+                  ]
+            },
+            {
+                  "name": "Sarių ež.",
+                  "text": "A Svencioneliai melletti Sarių-tó helyet biztosít a nyugodt szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.040207,
+                        55.07783
+                  ]
+            },
+            {
+                  "name": "ež. Salinis",
+                  "text": "A Salinis-tó Svencioneliai területén békés hely a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.96218,
+                        55.220113
+                  ]
+            },
+            {
+                  "name": "ež. Ilgaitis",
+                  "text": "Az Ilgaitis-tó Svencioneliai környékén pihentető pillanatokra hív a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        25.97253,
+                        55.216348
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "A Balčiukas-tó Svencioneliai területén a nyugalom apró szigete.",
+                  "category": "natural",
+                  "coords": [
+                        25.987102,
+                        55.194827
+                  ]
+            },
+            {
+                  "name": "ež. Buivydas",
+                  "text": "A Buivydas-tó Svencioneliai környékén egy csendes természeti célpont a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        25.977442,
+                        55.208707
+                  ]
+            },
+            {
+                  "name": "ež. Sudota",
+                  "text": "A Sudota-tó Svencioneliai területén szép helyszín egy pihentető szabadtéri naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.979931,
+                        55.117293
+                  ]
+            },
+            {
+                  "name": "ež. Sudotėlis",
+                  "text": "A Svencioneliai Sudotėlis-tó kellemes környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.977078,
+                        55.124425
+                  ]
+            },
+            {
+                  "name": "ež. Šventas",
+                  "text": "A Svencioneliai melletti Šventas-tó tiszta és nyugodt fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        26.036522,
+                        55.215274
+                  ]
+            },
+            {
+                  "name": "Šventelės tv.",
+                  "text": "A Šventelė-víztározó Svencioneliai területén nyugodt vízparti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.013951,
+                        55.210804
+                  ]
+            },
+            {
+                  "name": "ež. Sergelis",
+                  "text": "A Sergelis-tó Svencioneliai környékén békés célpont a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        25.951485,
+                        55.19603
+                  ]
+            },
+            {
+                  "name": "ež. Kampuotis",
+                  "text": "A Kampuotis-tó Svencioneliai területén pihentető kilátást nyújt a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.939732,
+                        55.184309
+                  ]
+            },
+            {
+                  "name": "ež. Šalnaitis",
+                  "text": "A Šalnaitis-tó Svencioneliai környékén csendes pillanatokra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        25.9692,
+                        55.160652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Lacul Ešerinis din Svencioneliai oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        25.898275,
+                        55.177848
+                  ]
+            },
+            {
+                  "name": "ež. Pakinis",
+                  "text": "Lacul Pakinis din Svencioneliai este un loc natural mic și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.92514,
+                        55.100446
+                  ]
+            },
+            {
+                  "name": "ež. Juodenis",
+                  "text": "Lacul Juodenis din Svencioneliai este ideal pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.941146,
+                        55.148626
+                  ]
+            },
+            {
+                  "name": "ež. Pelkenis",
+                  "text": "Lacul Pelkenis din Svencioneliai oferă un mediu natural pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        25.928519,
+                        55.130573
+                  ]
+            },
+            {
+                  "name": "ež. Versminis",
+                  "text": "Lacul Versminis din Svencioneliai este un loc liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.895117,
+                        55.143308
+                  ]
+            },
+            {
+                  "name": "ež. Gilutis",
+                  "text": "Lacul Gilutis din Svencioneliai invită la recreere într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.896283,
+                        55.151164
+                  ]
+            },
+            {
+                  "name": "ež. Snieginis",
+                  "text": "Lacul Snieginis din Svencioneliai atrage prin suprafața sa de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        25.894386,
+                        55.157162
+                  ]
+            },
+            {
+                  "name": "ež. Siaurys",
+                  "text": "Lacul Siaurys din Svencioneliai oferă o priveliște relaxantă asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        25.915576,
+                        55.195949
+                  ]
+            },
+            {
+                  "name": "ež. Ežeras",
+                  "text": "Lacul Ežeras din Svencioneliai este o destinație locală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.969734,
+                        55.20521
+                  ]
+            },
+            {
+                  "name": "ež. Karosas",
+                  "text": "Lacul Karosas din Svencioneliai este o apă liniștită într-un cadru rural.",
+                  "category": "natural",
+                  "coords": [
+                        25.904533,
+                        55.158939
+                  ]
+            },
+            {
+                  "name": "Sarių ež.",
+                  "text": "Lacul Sarių de lângă Svencioneliai oferă spațiu pentru activități de recreere liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        26.040207,
+                        55.07783
+                  ]
+            },
+            {
+                  "name": "ež. Salinis",
+                  "text": "Lacul Salinis din Svencioneliai este un loc pașnic pentru pasionații de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.96218,
+                        55.220113
+                  ]
+            },
+            {
+                  "name": "ež. Ilgaitis",
+                  "text": "Lacul Ilgaitis din Svencioneliai invită la momente de relaxare la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.97253,
+                        55.216348
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Lacul Balčiukas din Svencioneliai oferă o mică oază de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        25.987102,
+                        55.194827
+                  ]
+            },
+            {
+                  "name": "ež. Buivydas",
+                  "text": "Lacul Buivydas din Svencioneliai este o destinație naturală liniștită din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        25.977442,
+                        55.208707
+                  ]
+            },
+            {
+                  "name": "ež. Sudota",
+                  "text": "Lacul Sudota din Svencioneliai este un loc frumos pentru o zi relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.979931,
+                        55.117293
+                  ]
+            },
+            {
+                  "name": "ež. Sudotėlis",
+                  "text": "Lacul Sudotėlis din Svencioneliai oferă un mediu plăcut pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.977078,
+                        55.124425
+                  ]
+            },
+            {
+                  "name": "ež. Šventas",
+                  "text": "Lacul Šventas de lângă Svencioneliai se remarcă prin locația sa clară și liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        26.036522,
+                        55.215274
+                  ]
+            },
+            {
+                  "name": "Šventelės tv.",
+                  "text": "Rezervorul Šventelė din Svencioneliai oferă un peisaj acvatic liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.013951,
+                        55.210804
+                  ]
+            },
+            {
+                  "name": "ež. Sergelis",
+                  "text": "Lacul Sergelis din Svencioneliai este o destinație pașnică pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        25.951485,
+                        55.19603
+                  ]
+            },
+            {
+                  "name": "ež. Kampuotis",
+                  "text": "Lacul Kampuotis din Svencioneliai oferă priveliști relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.939732,
+                        55.184309
+                  ]
+            },
+            {
+                  "name": "ež. Šalnaitis",
+                  "text": "Lacul Šalnaitis din Svencioneliai invită la momente de liniște pe malul său.",
+                  "category": "natural",
+                  "coords": [
+                        25.9692,
+                        55.160652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Ešerinis Lake in Svencioneliai offers a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        25.898275,
+                        55.177848
+                  ]
+            },
+            {
+                  "name": "ež. Pakinis",
+                  "text": "Pakinis Lake in Svencioneliai is a small, quiet natural spot.",
+                  "category": "natural",
+                  "coords": [
+                        25.92514,
+                        55.100446
+                  ]
+            },
+            {
+                  "name": "ež. Juodenis",
+                  "text": "Juodenis Lake in Svencioneliai is ideal for short trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.941146,
+                        55.148626
+                  ]
+            },
+            {
+                  "name": "ež. Pelkenis",
+                  "text": "Pelkenis Lake in Svencioneliai offers a natural environment for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        25.928519,
+                        55.130573
+                  ]
+            },
+            {
+                  "name": "ež. Versminis",
+                  "text": "Versminis Lake in Svencioneliai is a quiet place surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.895117,
+                        55.143308
+                  ]
+            },
+            {
+                  "name": "ež. Gilutis",
+                  "text": "Gilutis Lake in Svencioneliai invites visitors to relax in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.896283,
+                        55.151164
+                  ]
+            },
+            {
+                  "name": "ež. Snieginis",
+                  "text": "Snieginis Lake in Svencioneliai is characterized by its peaceful water surface.",
+                  "category": "natural",
+                  "coords": [
+                        25.894386,
+                        55.157162
+                  ]
+            },
+            {
+                  "name": "ež. Siaurys",
+                  "text": "Siaurys Lake in Svencioneliai offers a relaxing view of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.915576,
+                        55.195949
+                  ]
+            },
+            {
+                  "name": "ež. Ežeras",
+                  "text": "Ežeras Lake in Svencioneliai is a local destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.969734,
+                        55.20521
+                  ]
+            },
+            {
+                  "name": "ež. Karosas",
+                  "text": "Karosas Lake in Svencioneliai is a quiet body of water in a rural setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.904533,
+                        55.158939
+                  ]
+            },
+            {
+                  "name": "Sarių ež.",
+                  "text": "Sariai Lake near Svencioneliai provides space for quiet leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.040207,
+                        55.07783
+                  ]
+            },
+            {
+                  "name": "ež. Salinis",
+                  "text": "Salinis Lake in Svencioneliai is a peaceful spot for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        25.96218,
+                        55.220113
+                  ]
+            },
+            {
+                  "name": "ež. Ilgaitis",
+                  "text": "Ilgaitis Lake in Svencioneliai invites visitors to relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.97253,
+                        55.216348
+                  ]
+            },
+            {
+                  "name": "ež. Balčiukas",
+                  "text": "Balčiukas Lake in Svencioneliai offers a small oasis of tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        25.987102,
+                        55.194827
+                  ]
+            },
+            {
+                  "name": "ež. Buivydas",
+                  "text": "Buivydas Lake in Svencioneliai is a quiet natural destination in the region.",
+                  "category": "natural",
+                  "coords": [
+                        25.977442,
+                        55.208707
+                  ]
+            },
+            {
+                  "name": "ež. Sudota",
+                  "text": "Sudota Lake in Svencioneliai is a nice place for a relaxed day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        25.979931,
+                        55.117293
+                  ]
+            },
+            {
+                  "name": "ež. Sudotėlis",
+                  "text": "Sudotėlis Lake in Svencioneliai offers a pleasant environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.977078,
+                        55.124425
+                  ]
+            },
+            {
+                  "name": "ež. Šventas",
+                  "text": "Šventas Lake near Svencioneliai stands out for its clear and quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        26.036522,
+                        55.215274
+                  ]
+            },
+            {
+                  "name": "Šventelės tv.",
+                  "text": "Šventelė reservoir in Svencioneliai offers a quiet waterscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.013951,
+                        55.210804
+                  ]
+            },
+            {
+                  "name": "ež. Sergelis",
+                  "text": "Sergelis Lake in Svencioneliai is a peaceful destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        25.951485,
+                        55.19603
+                  ]
+            },
+            {
+                  "name": "ež. Kampuotis",
+                  "text": "Kampuotis Lake in Svencioneliai offers relaxing views into nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.939732,
+                        55.184309
+                  ]
+            },
+            {
+                  "name": "ež. Šalnaitis",
+                  "text": "Šalnaitis Lake in Svencioneliai invites visitors to quiet moments on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.9692,
+                        55.160652
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Švenčionėliai", hu: "Švenčionėliai", ro: "Švenčionėliai", en: "Švenčionėliai"},
@@ -17895,6 +34086,222 @@ imageHint: "Vievis lake and church",
                         23.521712,
                         54.228608
                   ]
+            },
+            {
+                  "name": "ež. Lukštelis",
+                  "text": "Ein idyllischer See in Lazdijai, der zu erholsamen Stunden in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.449638,
+                        54.213194
+                  ]
+            },
+            {
+                  "name": "ež. Dumblis",
+                  "text": "Ein ruhiges Seeufer in Lazdijai, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        23.456353,
+                        54.219315
+                  ]
+            },
+            {
+                  "name": "ež. Palazdijis",
+                  "text": "Ein charmanter See bei Lazdijai, perfekt für eine entspannte Zeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.506444,
+                        54.200442
+                  ]
+            },
+            {
+                  "name": "Verstaminų ež.",
+                  "text": "Ein ruhiges Gewässer in Lazdijai, das eine friedliche Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.584518,
+                        54.280481
+                  ]
+            },
+            {
+                  "name": "Šventežerio ež.",
+                  "text": "Ein schöner See in Lazdijai, ideal für einen Ausflug in die natürliche Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.643404,
+                        54.243959
+                  ]
+            },
+            {
+                  "name": "Kamenkos IV tv.",
+                  "text": "Ein lokaler Stausee in Lazdijai, der eine ruhige Atmosphäre für Besucher schafft.",
+                  "category": "natural",
+                  "coords": [
+                        23.556396,
+                        54.26476
+                  ]
+            },
+            {
+                  "name": "Tarnaukos ež.",
+                  "text": "Ein ruhiger See in Lazdijai, ideal für eine kleine Auszeit vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        23.444002,
+                        54.179011
+                  ]
+            },
+            {
+                  "name": "ež. Dubioji",
+                  "text": "Ein beschauliches Gewässer in Lazdijai, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.556082,
+                        54.268193
+                  ]
+            },
+            {
+                  "name": "Gurtiškės ež.",
+                  "text": "Ein natürlicher See bei Lazdijai, der Ruhe und Entspannung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.562043,
+                        54.296098
+                  ]
+            },
+            {
+                  "name": "Gaładuś / ež. Galadusys",
+                  "text": "Ein grenzüberschreitender See in Lazdijai, bekannt für seine weite Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        23.407894,
+                        54.182408
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Ein malerisches Seeufer in Lazdijai, ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis",
+                  "text": "Ein ruhiger See in Lazdijai, perfekt für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.503707,
+                        54.21189
+                  ]
+            },
+            {
+                  "name": "Katkiškės I tv.",
+                  "text": "Ein Stausee in Lazdijai, der eine angenehme Umgebung für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.509207,
+                        54.219241
+                  ]
+            },
+            {
+                  "name": "Akmenių ež.",
+                  "text": "Ein schöner See in Lazdijai, umgeben von natürlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.48753,
+                        54.163171
+                  ]
+            },
+            {
+                  "name": "ež. Gilujis",
+                  "text": "Ein beschaulicher See in Lazdijai, ideal für Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        23.560865,
+                        54.268197
+                  ]
+            },
+            {
+                  "name": "ež. Epidemis",
+                  "text": "Ein kleiner See in Lazdijai, der eine friedliche Atmosphäre ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        23.56855,
+                        54.255853
+                  ]
+            },
+            {
+                  "name": "ež. Kukutis",
+                  "text": "Ein natürliches Gewässer in Lazdijai, perfekt für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        23.498375,
+                        54.270618
+                  ]
+            },
+            {
+                  "name": "Papečių tv.",
+                  "text": "Ein lokaler Teich in Lazdijai, der zur Entspannung am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.546765,
+                        54.273523
+                  ]
+            },
+            {
+                  "name": "Ūdininkų ež.",
+                  "text": "Ein ruhiger See bei Lazdijai, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.414832,
+                        54.201639
+                  ]
+            },
+            {
+                  "name": "ež. Rimietis",
+                  "text": "Ein idyllisches Gewässer in Lazdijai für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.512737,
+                        54.296296
+                  ]
+            },
+            {
+                  "name": "ež. Aukštakalnis",
+                  "text": "Ein kleiner See in Lazdijai, umgeben von sanfter Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.45328,
+                        54.207884
+                  ]
+            },
+            {
+                  "name": "Teizų ež.",
+                  "text": "Ein friedlicher See in Lazdijai, der sich gut für einen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.619872,
+                        54.274557
+                  ]
+            },
+            {
+                  "name": "Ež. Salinis",
+                  "text": "Ein charmanter See in Lazdijai, ideal für eine Pause in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.467149,
+                        54.22881
+                  ]
+            },
+            {
+                  "name": "Katkiškės II tv.",
+                  "text": "Ein kleiner Stausee in Lazdijai, der Ruhe und Abgeschiedenheit bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.51369,
+                        54.22034
+                  ]
             }
       ],
       "hu": [
@@ -17941,6 +34348,222 @@ imageHint: "Vievis lake and church",
                   "coords": [
                         23.521712,
                         54.228608
+                  ]
+            },
+            {
+                  "name": "ež. Lukštelis",
+                  "text": "Idilli tó Lazdijai területén, amely pihentető órákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.449638,
+                        54.213194
+                  ]
+            },
+            {
+                  "name": "ež. Dumblis",
+                  "text": "Csendes tópart Lazdijai területén, ideális a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.456353,
+                        54.219315
+                  ]
+            },
+            {
+                  "name": "ež. Palazdijis",
+                  "text": "Bájos tó Lazdijai közelében, tökéletes a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.506444,
+                        54.200442
+                  ]
+            },
+            {
+                  "name": "Verstaminų ež.",
+                  "text": "Nyugodt vízfelület Lazdijai területén, amely békés környezetet nyújt a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.584518,
+                        54.280481
+                  ]
+            },
+            {
+                  "name": "Šventežerio ež.",
+                  "text": "Szép tó Lazdijai területén, ideális kiránduláshoz a természetes tájban.",
+                  "category": "natural",
+                  "coords": [
+                        23.643404,
+                        54.243959
+                  ]
+            },
+            {
+                  "name": "Kamenkos IV tv.",
+                  "text": "Helyi víztározó Lazdijai területén, amely nyugodt légkört teremt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.556396,
+                        54.26476
+                  ]
+            },
+            {
+                  "name": "Tarnaukos ež.",
+                  "text": "Csendes tó Lazdijai területén, ideális egy kis kikapcsolódáshoz a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        23.444002,
+                        54.179011
+                  ]
+            },
+            {
+                  "name": "ež. Dubioji",
+                  "text": "Megnyugtató vízfelület Lazdijai területén, amely természetközeli pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.556082,
+                        54.268193
+                  ]
+            },
+            {
+                  "name": "Gurtiškės ež.",
+                  "text": "Természetes tó Lazdijai közelében, amely nyugalmat és kikapcsolódást nyújt a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        23.562043,
+                        54.296098
+                  ]
+            },
+            {
+                  "name": "Gaładuś / ež. Galadusys",
+                  "text": "Határ menti tó Lazdijai területén, amely széles vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.407894,
+                        54.182408
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Festői tópart Lazdijai területén, ideális pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis",
+                  "text": "Csendes tó Lazdijai területén, tökéletes egy nyugodt naphoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.503707,
+                        54.21189
+                  ]
+            },
+            {
+                  "name": "Katkiškės I tv.",
+                  "text": "Víztározó Lazdijai területén, amely kellemes környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.509207,
+                        54.219241
+                  ]
+            },
+            {
+                  "name": "Akmenių ež.",
+                  "text": "Szép tó Lazdijai területén, természetes tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        23.48753,
+                        54.163171
+                  ]
+            },
+            {
+                  "name": "ež. Gilujis",
+                  "text": "Megnyugtató tó Lazdijai területén, ideális a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.560865,
+                        54.268197
+                  ]
+            },
+            {
+                  "name": "ež. Epidemis",
+                  "text": "Kicsi tó Lazdijai területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        23.56855,
+                        54.255853
+                  ]
+            },
+            {
+                  "name": "ež. Kukutis",
+                  "text": "Természetes vízfelület Lazdijai területén, tökéletes egy rövid kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        23.498375,
+                        54.270618
+                  ]
+            },
+            {
+                  "name": "Papečių tv.",
+                  "text": "Helyi tó Lazdijai területén, amely a parton való pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.546765,
+                        54.273523
+                  ]
+            },
+            {
+                  "name": "Ūdininkų ež.",
+                  "text": "Csendes tó Lazdijai közelében, ideális a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.414832,
+                        54.201639
+                  ]
+            },
+            {
+                  "name": "ež. Rimietis",
+                  "text": "Idilli vízfelület Lazdijai területén a békés szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.512737,
+                        54.296296
+                  ]
+            },
+            {
+                  "name": "ež. Aukštakalnis",
+                  "text": "Kicsi tó Lazdijai területén, szelíd természet által körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        23.45328,
+                        54.207884
+                  ]
+            },
+            {
+                  "name": "Teizų ež.",
+                  "text": "Békés tó Lazdijai területén, amely alkalmas egy kellemes sétára.",
+                  "category": "natural",
+                  "coords": [
+                        23.619872,
+                        54.274557
+                  ]
+            },
+            {
+                  "name": "Ež. Salinis",
+                  "text": "Bájos tó Lazdijai területén, ideális egy pihenőhöz a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        23.467149,
+                        54.22881
+                  ]
+            },
+            {
+                  "name": "Katkiškės II tv.",
+                  "text": "Kicsi víztározó Lazdijai területén, amely nyugalmat és elszigeteltséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.51369,
+                        54.22034
                   ]
             }
       ],
@@ -17989,6 +34612,222 @@ imageHint: "Vievis lake and church",
                         23.521712,
                         54.228608
                   ]
+            },
+            {
+                  "name": "ež. Lukštelis",
+                  "text": "Un lac idilic în Lazdijai, care invită la ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.449638,
+                        54.213194
+                  ]
+            },
+            {
+                  "name": "ež. Dumblis",
+                  "text": "Un mal de lac liniștit în Lazdijai, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        23.456353,
+                        54.219315
+                  ]
+            },
+            {
+                  "name": "ež. Palazdijis",
+                  "text": "Un lac fermecător lângă Lazdijai, perfect pentru un timp relaxant lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.506444,
+                        54.200442
+                  ]
+            },
+            {
+                  "name": "Verstaminų ež.",
+                  "text": "Un luciu de apă liniștit în Lazdijai, oferind un mediu pașnic pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        23.584518,
+                        54.280481
+                  ]
+            },
+            {
+                  "name": "Šventežerio ež.",
+                  "text": "Un lac frumos în Lazdijai, ideal pentru o excursie în peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.643404,
+                        54.243959
+                  ]
+            },
+            {
+                  "name": "Kamenkos IV tv.",
+                  "text": "Un lac de acumulare local în Lazdijai, creând o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        23.556396,
+                        54.26476
+                  ]
+            },
+            {
+                  "name": "Tarnaukos ež.",
+                  "text": "Un lac liniștit în Lazdijai, ideal pentru o mică pauză de la viața de zi cu zi.",
+                  "category": "natural",
+                  "coords": [
+                        23.444002,
+                        54.179011
+                  ]
+            },
+            {
+                  "name": "ež. Dubioji",
+                  "text": "Un luciu de apă liniștit în Lazdijai, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.556082,
+                        54.268193
+                  ]
+            },
+            {
+                  "name": "Gurtiškės ež.",
+                  "text": "Un lac natural lângă Lazdijai, oferind liniște și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.562043,
+                        54.296098
+                  ]
+            },
+            {
+                  "name": "Gaładuś / ež. Galadusys",
+                  "text": "Un lac de frontieră în Lazdijai, cunoscut pentru suprafața sa întinsă de apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.407894,
+                        54.182408
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Un mal de lac pitoresc în Lazdijai, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis",
+                  "text": "Un lac liniștit în Lazdijai, perfect pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.503707,
+                        54.21189
+                  ]
+            },
+            {
+                  "name": "Katkiškės I tv.",
+                  "text": "Un lac de acumulare în Lazdijai, oferind un mediu plăcut pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        23.509207,
+                        54.219241
+                  ]
+            },
+            {
+                  "name": "Akmenių ež.",
+                  "text": "Un lac frumos în Lazdijai, înconjurat de peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.48753,
+                        54.163171
+                  ]
+            },
+            {
+                  "name": "ež. Gilujis",
+                  "text": "Un lac liniștit în Lazdijai, ideal pentru cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.560865,
+                        54.268197
+                  ]
+            },
+            {
+                  "name": "ež. Epidemis",
+                  "text": "Un lac mic în Lazdijai, care emană o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        23.56855,
+                        54.255853
+                  ]
+            },
+            {
+                  "name": "ež. Kukutis",
+                  "text": "Un luciu de apă natural în Lazdijai, perfect pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.498375,
+                        54.270618
+                  ]
+            },
+            {
+                  "name": "Papečių tv.",
+                  "text": "Un iaz local în Lazdijai, care invită la relaxare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        23.546765,
+                        54.273523
+                  ]
+            },
+            {
+                  "name": "Ūdininkų ež.",
+                  "text": "Un lac liniștit lângă Lazdijai, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.414832,
+                        54.201639
+                  ]
+            },
+            {
+                  "name": "ež. Rimietis",
+                  "text": "Un luciu de apă idilic în Lazdijai pentru momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.512737,
+                        54.296296
+                  ]
+            },
+            {
+                  "name": "ež. Aukštakalnis",
+                  "text": "Un lac mic în Lazdijai, înconjurat de o natură blândă.",
+                  "category": "natural",
+                  "coords": [
+                        23.45328,
+                        54.207884
+                  ]
+            },
+            {
+                  "name": "Teizų ež.",
+                  "text": "Un lac pașnic în Lazdijai, potrivit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        23.619872,
+                        54.274557
+                  ]
+            },
+            {
+                  "name": "Ež. Salinis",
+                  "text": "Un lac fermecător în Lazdijai, ideal pentru o pauză în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        23.467149,
+                        54.22881
+                  ]
+            },
+            {
+                  "name": "Katkiškės II tv.",
+                  "text": "Un mic lac de acumulare în Lazdijai, oferind liniște și izolare.",
+                  "category": "natural",
+                  "coords": [
+                        23.51369,
+                        54.22034
+                  ]
             }
       ],
       "en": [
@@ -18035,6 +34874,222 @@ imageHint: "Vievis lake and church",
                   "coords": [
                         23.521712,
                         54.228608
+                  ]
+            },
+            {
+                  "name": "ež. Lukštelis",
+                  "text": "An idyllic lake in Lazdijai, inviting for restful hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.449638,
+                        54.213194
+                  ]
+            },
+            {
+                  "name": "ež. Dumblis",
+                  "text": "A quiet lakeshore in Lazdijai, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        23.456353,
+                        54.219315
+                  ]
+            },
+            {
+                  "name": "ež. Palazdijis",
+                  "text": "A charming lake near Lazdijai, perfect for a relaxed time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.506444,
+                        54.200442
+                  ]
+            },
+            {
+                  "name": "Verstaminų ež.",
+                  "text": "A calm body of water in Lazdijai, providing a peaceful environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.584518,
+                        54.280481
+                  ]
+            },
+            {
+                  "name": "Šventežerio ež.",
+                  "text": "A beautiful lake in Lazdijai, ideal for a trip into the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.643404,
+                        54.243959
+                  ]
+            },
+            {
+                  "name": "Kamenkos IV tv.",
+                  "text": "A local reservoir in Lazdijai, creating a quiet atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        23.556396,
+                        54.26476
+                  ]
+            },
+            {
+                  "name": "Tarnaukos ež.",
+                  "text": "A quiet lake in Lazdijai, ideal for a small break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        23.444002,
+                        54.179011
+                  ]
+            },
+            {
+                  "name": "ež. Dubioji",
+                  "text": "A tranquil body of water in Lazdijai, inviting for a stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.556082,
+                        54.268193
+                  ]
+            },
+            {
+                  "name": "Gurtiškės ež.",
+                  "text": "A natural lake near Lazdijai, offering peace and relaxation outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.562043,
+                        54.296098
+                  ]
+            },
+            {
+                  "name": "Gaładuś / ež. Galadusys",
+                  "text": "A cross-border lake in Lazdijai, known for its vast water surface.",
+                  "category": "natural",
+                  "coords": [
+                        23.407894,
+                        54.182408
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "A scenic lakeshore in Lazdijai, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis",
+                  "text": "A quiet lake in Lazdijai, perfect for a relaxed day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.503707,
+                        54.21189
+                  ]
+            },
+            {
+                  "name": "Katkiškės I tv.",
+                  "text": "A reservoir in Lazdijai, providing a pleasant environment for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        23.509207,
+                        54.219241
+                  ]
+            },
+            {
+                  "name": "Akmenių ež.",
+                  "text": "A beautiful lake in Lazdijai, surrounded by natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.48753,
+                        54.163171
+                  ]
+            },
+            {
+                  "name": "ež. Gilujis",
+                  "text": "A tranquil lake in Lazdijai, ideal for those seeking peace.",
+                  "category": "natural",
+                  "coords": [
+                        23.560865,
+                        54.268197
+                  ]
+            },
+            {
+                  "name": "ež. Epidemis",
+                  "text": "A small lake in Lazdijai, radiating a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        23.56855,
+                        54.255853
+                  ]
+            },
+            {
+                  "name": "ež. Kukutis",
+                  "text": "A natural body of water in Lazdijai, perfect for a short trip into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        23.498375,
+                        54.270618
+                  ]
+            },
+            {
+                  "name": "Papečių tv.",
+                  "text": "A local pond in Lazdijai, inviting for relaxation on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.546765,
+                        54.273523
+                  ]
+            },
+            {
+                  "name": "Ūdininkų ež.",
+                  "text": "A quiet lake near Lazdijai, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        23.414832,
+                        54.201639
+                  ]
+            },
+            {
+                  "name": "ež. Rimietis",
+                  "text": "An idyllic body of water in Lazdijai for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        23.512737,
+                        54.296296
+                  ]
+            },
+            {
+                  "name": "ež. Aukštakalnis",
+                  "text": "A small lake in Lazdijai, surrounded by gentle nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.45328,
+                        54.207884
+                  ]
+            },
+            {
+                  "name": "Teizų ež.",
+                  "text": "A peaceful lake in Lazdijai, well-suited for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        23.619872,
+                        54.274557
+                  ]
+            },
+            {
+                  "name": "Ež. Salinis",
+                  "text": "A charming lake in Lazdijai, ideal for a break in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.467149,
+                        54.22881
+                  ]
+            },
+            {
+                  "name": "Katkiškės II tv.",
+                  "text": "A small reservoir in Lazdijai, offering peace and seclusion.",
+                  "category": "natural",
+                  "coords": [
+                        23.51369,
+                        54.22034
                   ]
             }
       ]
@@ -18094,6 +35149,195 @@ imageHint: "Lazdijai border crossing and church",
                         23.209029,
                         54.413097
                   ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Der See Varlinis in Kalvarija ist ein kleiner Naturort für erholsame Pausen.",
+                  "category": "natural",
+                  "coords": [
+                        23.140992,
+                        54.402136
+                  ]
+            },
+            {
+                  "name": "Šaltųjų Šaltinių tv.",
+                  "text": "Das Reservoir Šaltųjų Šaltinių in Kalvarija bietet eine friedliche Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        23.167402,
+                        54.440158
+                  ]
+            },
+            {
+                  "name": "Pasūduonės tv.",
+                  "text": "Das Pasūduonė-Reservoir in Kalvarija lädt zu Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.217776,
+                        54.480505
+                  ]
+            },
+            {
+                  "name": "Brukų tv.",
+                  "text": "Das Brukų-Reservoir in Kalvarija bietet eine ruhige Umgebung für die lokale Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        23.311775,
+                        54.400768
+                  ]
+            },
+            {
+                  "name": "ež. Rudauka",
+                  "text": "Der See Rudauka in Kalvarija ist ein stilles Gewässer inmitten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.140329,
+                        54.398929
+                  ]
+            },
+            {
+                  "name": "ež. Kampinis",
+                  "text": "Der See Kampinis in Kalvarija bietet eine naturnahe Kulisse für Ausflügler.",
+                  "category": "natural",
+                  "coords": [
+                        23.14538,
+                        54.408831
+                  ]
+            },
+            {
+                  "name": "ež. Skaisteliai",
+                  "text": "Der See Skaisteliai in Kalvarija lädt zu friedlichen Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.153166,
+                        54.405327
+                  ]
+            },
+            {
+                  "name": "ež. Prūdelis",
+                  "text": "Der Prūdelis-See in Kalvarija ist ein kleiner Ort für ruhige Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.122155,
+                        54.396632
+                  ]
+            },
+            {
+                  "name": "ež. Bebrinis",
+                  "text": "Der See Bebrinis in Kalvarija bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.137159,
+                        54.411577
+                  ]
+            },
+            {
+                  "name": "ež. Kelmavytis",
+                  "text": "Der See Kelmavytis in Kalvarija ist ein ruhiges Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.140065,
+                        54.378406
+                  ]
+            },
+            {
+                  "name": "Orijos ež.",
+                  "text": "Der Orija-See in Kalvarija ist für seine weite Wasserfläche und Ruhe bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        23.218236,
+                        54.382332
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Der See Juodelis in Kalvarija bietet einen friedlichen Ort zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        23.127506,
+                        54.397903
+                  ]
+            },
+            {
+                  "name": "Valavičių tv.",
+                  "text": "Das Valavičių-Reservoir in Kalvarija ist ein lokales Ziel für ruhige Freizeitstunden.",
+                  "category": "natural",
+                  "coords": [
+                        23.206382,
+                        54.486596
+                  ]
+            },
+            {
+                  "name": "Jurgežerių tv.",
+                  "text": "Das Jurgežeriai-Reservoir in Kalvarija lädt zu Aufenthalten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.148494,
+                        54.424379
+                  ]
+            },
+            {
+                  "name": "ež. Šakelis",
+                  "text": "Der See Šakelis in Kalvarija bietet eine ruhige Umgebung für kurze Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        23.134927,
+                        54.395544
+                  ]
+            },
+            {
+                  "name": "Kalvarijos ež.",
+                  "text": "Der Kalvarija-See bietet eine angenehme Kulisse für Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.254407,
+                        54.40674
+                  ]
+            },
+            {
+                  "name": "Kvietkinės ež.",
+                  "text": "Der Kvietkinė-See in Kalvarija ist ein friedliches Gewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        23.282584,
+                        54.356766
+                  ]
+            },
+            {
+                  "name": "Menkupių tv.",
+                  "text": "Das Menkupiai-Reservoir in Kalvarija bietet Platz für ruhige Naturmomente.",
+                  "category": "natural",
+                  "coords": [
+                        23.129992,
+                        54.42615
+                  ]
+            },
+            {
+                  "name": "Lakinskų tv.",
+                  "text": "Das Lakinskai-Reservoir in Kalvarija ist ein ruhiger Ort für die Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.301178,
+                        54.416945
+                  ]
+            },
+            {
+                  "name": "Jonavo ež.",
+                  "text": "Der Jonavo-See in Kalvarija lädt zu entspannten Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.255275,
+                        54.429786
+                  ]
+            },
+            {
+                  "name": "Raudeniškių tv.",
+                  "text": "Das Raudeniškiai-Reservoir in Kalvarija bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.242779,
+                        54.387207
+                  ]
             }
       ],
       "hu": [
@@ -18104,6 +35348,195 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.209029,
                         54.413097
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "A Varlinis-tó Kalvarija területén egy kis természeti helyszín pihentető szünetekhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.140992,
+                        54.402136
+                  ]
+            },
+            {
+                  "name": "Šaltųjų Šaltinių tv.",
+                  "text": "A Šaltųjų Šaltinių-víztározó Kalvarija vidékén békés víztükröt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.167402,
+                        54.440158
+                  ]
+            },
+            {
+                  "name": "Pasūduonės tv.",
+                  "text": "A Pasūduonė-víztározó Kalvarija területén vízparti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.217776,
+                        54.480505
+                  ]
+            },
+            {
+                  "name": "Brukų tv.",
+                  "text": "A Brukų-víztározó Kalvarija környékén nyugodt környezetet biztosít a helyi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.311775,
+                        54.400768
+                  ]
+            },
+            {
+                  "name": "ež. Rudauka",
+                  "text": "A Rudauka-tó Kalvarija vidékén egy csendes vízfelület a táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        23.140329,
+                        54.398929
+                  ]
+            },
+            {
+                  "name": "ež. Kampinis",
+                  "text": "A Kampinis-tó Kalvarija területén természetközeli környezetet kínál a kirándulóknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.14538,
+                        54.408831
+                  ]
+            },
+            {
+                  "name": "ež. Skaisteliai",
+                  "text": "A Skaisteliai-tó Kalvarija környékén békés pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.153166,
+                        54.405327
+                  ]
+            },
+            {
+                  "name": "ež. Prūdelis",
+                  "text": "A Prūdelis-tó Kalvarija területén egy kis hely a nyugodt természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.122155,
+                        54.396632
+                  ]
+            },
+            {
+                  "name": "ež. Bebrinis",
+                  "text": "A Bebrinis-tó Kalvarija vidékén pihentető hangulatot áraszt a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        23.137159,
+                        54.411577
+                  ]
+            },
+            {
+                  "name": "ež. Kelmavytis",
+                  "text": "A Kelmavytis-tó Kalvarija környékén egy csendes célpont a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.140065,
+                        54.378406
+                  ]
+            },
+            {
+                  "name": "Orijos ež.",
+                  "text": "Az Orija-tó Kalvarija területén széles vízfelületéről és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.218236,
+                        54.382332
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "A Juodelis-tó Kalvarija vidékén békés helyet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.127506,
+                        54.397903
+                  ]
+            },
+            {
+                  "name": "Valavičių tv.",
+                  "text": "A Valavičių-víztározó Kalvarija területén helyi célpont csendes szabadidős órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.206382,
+                        54.486596
+                  ]
+            },
+            {
+                  "name": "Jurgežerių tv.",
+                  "text": "A Jurgežerių-víztározó Kalvarija környékén természetjárásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.148494,
+                        54.424379
+                  ]
+            },
+            {
+                  "name": "ež. Šakelis",
+                  "text": "A Šakelis-tó Kalvarija vidékén nyugodt környezetet biztosít rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.134927,
+                        54.395544
+                  ]
+            },
+            {
+                  "name": "Kalvarijos ež.",
+                  "text": "A Kalvarija-tó kellemes környezetet biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.254407,
+                        54.40674
+                  ]
+            },
+            {
+                  "name": "Kvietkinės ež.",
+                  "text": "A Kvietkinės-tó Kalvarija területén egy békés állóvíz a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        23.282584,
+                        54.356766
+                  ]
+            },
+            {
+                  "name": "Menkupių tv.",
+                  "text": "A Menkupių-víztározó Kalvarija környékén helyet ad a csendes természeti pillanatoknak.",
+                  "category": "natural",
+                  "coords": [
+                        23.129992,
+                        54.42615
+                  ]
+            },
+            {
+                  "name": "Lakinskų tv.",
+                  "text": "A Lakinskų-víztározó Kalvarija vidékén egy csendes hely a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.301178,
+                        54.416945
+                  ]
+            },
+            {
+                  "name": "Jonavo ež.",
+                  "text": "A Jonavo-tó Kalvarija területén pihentető sétákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        23.255275,
+                        54.429786
+                  ]
+            },
+            {
+                  "name": "Raudeniškių tv.",
+                  "text": "A Raudeniškių-víztározó Kalvarija környékén békés hangulatot áraszt a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        23.242779,
+                        54.387207
                   ]
             }
       ],
@@ -18116,6 +35549,195 @@ imageHint: "Lazdijai border crossing and church",
                         23.209029,
                         54.413097
                   ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Lacul Varlinis din Kalvarija este un mic loc natural pentru pauze relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        23.140992,
+                        54.402136
+                  ]
+            },
+            {
+                  "name": "Šaltųjų Šaltinių tv.",
+                  "text": "Rezervorul Šaltųjų Šaltinių din Kalvarija oferă o suprafață de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        23.167402,
+                        54.440158
+                  ]
+            },
+            {
+                  "name": "Pasūduonės tv.",
+                  "text": "Rezervorul Pasūduonė din Kalvarija invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.217776,
+                        54.480505
+                  ]
+            },
+            {
+                  "name": "Brukų tv.",
+                  "text": "Rezervorul Brukų din Kalvarija oferă un mediu liniștit pentru recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        23.311775,
+                        54.400768
+                  ]
+            },
+            {
+                  "name": "ež. Rudauka",
+                  "text": "Lacul Rudauka din Kalvarija este o apă liniștită în mijlocul peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        23.140329,
+                        54.398929
+                  ]
+            },
+            {
+                  "name": "ež. Kampinis",
+                  "text": "Lacul Kampinis din Kalvarija oferă un cadru natural pentru excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        23.14538,
+                        54.408831
+                  ]
+            },
+            {
+                  "name": "ež. Skaisteliai",
+                  "text": "Lacul Skaisteliai din Kalvarija invită la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.153166,
+                        54.405327
+                  ]
+            },
+            {
+                  "name": "ež. Prūdelis",
+                  "text": "Lacul Prūdelis din Kalvarija este un loc mic pentru observarea liniștită a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.122155,
+                        54.396632
+                  ]
+            },
+            {
+                  "name": "ež. Bebrinis",
+                  "text": "Lacul Bebrinis din Kalvarija oferă o atmosferă relaxantă la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.137159,
+                        54.411577
+                  ]
+            },
+            {
+                  "name": "ež. Kelmavytis",
+                  "text": "Lacul Kelmavytis din Kalvarija este o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.140065,
+                        54.378406
+                  ]
+            },
+            {
+                  "name": "Orijos ež.",
+                  "text": "Lacul Orija din Kalvarija este cunoscut pentru suprafața sa mare de apă și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.218236,
+                        54.382332
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Lacul Juodelis din Kalvarija oferă un loc liniștit pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        23.127506,
+                        54.397903
+                  ]
+            },
+            {
+                  "name": "Valavičių tv.",
+                  "text": "Rezervorul Valavičių din Kalvarija este o destinație locală pentru ore de recreere liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        23.206382,
+                        54.486596
+                  ]
+            },
+            {
+                  "name": "Jurgežerių tv.",
+                  "text": "Rezervorul Jurgežerių din Kalvarija invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.148494,
+                        54.424379
+                  ]
+            },
+            {
+                  "name": "ež. Šakelis",
+                  "text": "Lacul Šakelis din Kalvarija oferă un mediu liniștit pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        23.134927,
+                        54.395544
+                  ]
+            },
+            {
+                  "name": "Kalvarijos ež.",
+                  "text": "Lacul Kalvarija oferă un cadru plăcut pentru relaxare la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.254407,
+                        54.40674
+                  ]
+            },
+            {
+                  "name": "Kvietkinės ež.",
+                  "text": "Lacul Kvietkinės din Kalvarija este o apă liniștită din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        23.282584,
+                        54.356766
+                  ]
+            },
+            {
+                  "name": "Menkupių tv.",
+                  "text": "Rezervorul Menkupių din Kalvarija oferă spațiu pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.129992,
+                        54.42615
+                  ]
+            },
+            {
+                  "name": "Lakinskų tv.",
+                  "text": "Rezervorul Lakinskų din Kalvarija este un loc liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.301178,
+                        54.416945
+                  ]
+            },
+            {
+                  "name": "Jonavo ež.",
+                  "text": "Lacul Jonavo din Kalvarija invită la plimbări relaxante pe malul său.",
+                  "category": "natural",
+                  "coords": [
+                        23.255275,
+                        54.429786
+                  ]
+            },
+            {
+                  "name": "Raudeniškių tv.",
+                  "text": "Rezervorul Raudeniškių din Kalvarija oferă o atmosferă liniștită la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.242779,
+                        54.387207
+                  ]
             }
       ],
       "en": [
@@ -18126,6 +35748,195 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.209029,
                         54.413097
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Varlinis Lake in Kalvarija is a small natural spot for relaxing breaks.",
+                  "category": "natural",
+                  "coords": [
+                        23.140992,
+                        54.402136
+                  ]
+            },
+            {
+                  "name": "Šaltųjų Šaltinių tv.",
+                  "text": "Šaltųjų Šaltinių reservoir in Kalvarija offers a peaceful water surface.",
+                  "category": "natural",
+                  "coords": [
+                        23.167402,
+                        54.440158
+                  ]
+            },
+            {
+                  "name": "Pasūduonės tv.",
+                  "text": "Pasūduonė reservoir in Kalvarija invites visitors to walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.217776,
+                        54.480505
+                  ]
+            },
+            {
+                  "name": "Brukų tv.",
+                  "text": "Brukų reservoir in Kalvarija offers a quiet environment for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.311775,
+                        54.400768
+                  ]
+            },
+            {
+                  "name": "ež. Rudauka",
+                  "text": "Rudauka Lake in Kalvarija is a quiet body of water in the middle of the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        23.140329,
+                        54.398929
+                  ]
+            },
+            {
+                  "name": "ež. Kampinis",
+                  "text": "Kampinis Lake in Kalvarija offers a natural setting for excursionists.",
+                  "category": "natural",
+                  "coords": [
+                        23.14538,
+                        54.408831
+                  ]
+            },
+            {
+                  "name": "ež. Skaisteliai",
+                  "text": "Skaisteliai Lake in Kalvarija invites visitors to peaceful moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.153166,
+                        54.405327
+                  ]
+            },
+            {
+                  "name": "ež. Prūdelis",
+                  "text": "Prūdelis Lake in Kalvarija is a small spot for quiet nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        23.122155,
+                        54.396632
+                  ]
+            },
+            {
+                  "name": "ež. Bebrinis",
+                  "text": "Bebrinis Lake in Kalvarija offers a relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.137159,
+                        54.411577
+                  ]
+            },
+            {
+                  "name": "ež. Kelmavytis",
+                  "text": "Kelmavytis Lake in Kalvarija is a quiet destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.140065,
+                        54.378406
+                  ]
+            },
+            {
+                  "name": "Orijos ež.",
+                  "text": "Orija Lake in Kalvarija is known for its wide water surface and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        23.218236,
+                        54.382332
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Juodelis Lake in Kalvarija offers a peaceful place for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.127506,
+                        54.397903
+                  ]
+            },
+            {
+                  "name": "Valavičių tv.",
+                  "text": "Valavičių reservoir in Kalvarija is a local destination for quiet leisure hours.",
+                  "category": "natural",
+                  "coords": [
+                        23.206382,
+                        54.486596
+                  ]
+            },
+            {
+                  "name": "Jurgežerių tv.",
+                  "text": "Jurgežerių reservoir in Kalvarija invites visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.148494,
+                        54.424379
+                  ]
+            },
+            {
+                  "name": "ež. Šakelis",
+                  "text": "Šakelis Lake in Kalvarija provides a quiet environment for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        23.134927,
+                        54.395544
+                  ]
+            },
+            {
+                  "name": "Kalvarijos ež.",
+                  "text": "Kalvarija Lake offers a pleasant setting for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.254407,
+                        54.40674
+                  ]
+            },
+            {
+                  "name": "Kvietkinės ež.",
+                  "text": "Kvietkinės Lake in Kalvarija is a peaceful body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        23.282584,
+                        54.356766
+                  ]
+            },
+            {
+                  "name": "Menkupių tv.",
+                  "text": "Menkupių reservoir in Kalvarija provides space for quiet nature moments.",
+                  "category": "natural",
+                  "coords": [
+                        23.129992,
+                        54.42615
+                  ]
+            },
+            {
+                  "name": "Lakinskų tv.",
+                  "text": "Lakinskų reservoir in Kalvarija is a quiet spot for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.301178,
+                        54.416945
+                  ]
+            },
+            {
+                  "name": "Jonavo ež.",
+                  "text": "Jonavo Lake in Kalvarija invites visitors to relaxed walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.255275,
+                        54.429786
+                  ]
+            },
+            {
+                  "name": "Raudeniškių tv.",
+                  "text": "Raudeniškių reservoir in Kalvarija offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.242779,
+                        54.387207
                   ]
             }
       ]
@@ -18176,7 +35987,340 @@ imageHint: "Lazdijai border crossing and church",
   }
 ,
   {
-    id: "lithuania-viekšniai-cities-v2",
+    id: "lithuania-viekšniai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maigų ež.",
+                  "text": "Der Maigų-See in Viekšniai ist ein kleinerer See, der zu ruhigen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.454456,
+                        56.276412
+                  ]
+            },
+            {
+                  "name": "Meižių ež.",
+                  "text": "Der Meižių-See in Viekšniai bietet eine friedliche Atmosphäre inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.553128,
+                        56.295124
+                  ]
+            },
+            {
+                  "name": "Medžialenkės ež.",
+                  "text": "Der Medžialenkės-See in Viekšniai ist ein naturbelassenes Gewässer, ideal für erholsame Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        22.420208,
+                        56.209311
+                  ]
+            },
+            {
+                  "name": "Žibikų tv.",
+                  "text": "Der Žibikų-Stausee in Viekšniai ist ein lokales Ziel für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.439932,
+                        56.202717
+                  ]
+            },
+            {
+                  "name": "Svirkančių tv.",
+                  "text": "Svirkančių tv. ist ein Gewässer in Viekšniai, das eine ruhige Umgebung für die Freizeitgestaltung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.503449,
+                        56.224938
+                  ]
+            },
+            {
+                  "name": "Skleipių tv.",
+                  "text": "Der Skleipių-Stausee in Viekšniai ist von einer sanften Landschaft umgeben und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        22.523922,
+                        56.165003
+                  ]
+            },
+            {
+                  "name": "Palnosų tv.",
+                  "text": "Das Palnosų tv. in Viekšniai bietet eine friedliche Kulisse für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.591021,
+                        56.230547
+                  ]
+            },
+            {
+                  "name": "Lėlaičių tv.",
+                  "text": "Der Lėlaičių-Stausee in Viekšniai ist ein ruhiges Gewässer, das sich gut für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.456414,
+                        56.237446
+                  ]
+            },
+            {
+                  "name": "Viekšnių malūno tv.",
+                  "text": "Viekšnių malūno tv. ist ein historisch geprägtes Gewässer in Viekšniai mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        22.52314,
+                        56.23223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maigų ež.",
+                  "text": "A Viekšniai területén található Maigų-tó egy kisebb tó, amely nyugodt vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.454456,
+                        56.276412
+                  ]
+            },
+            {
+                  "name": "Meižių ež.",
+                  "text": "A Viekšniai városában lévő Meižių-tó békés atmoszférát kínál a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        22.553128,
+                        56.295124
+                  ]
+            },
+            {
+                  "name": "Medžialenkės ež.",
+                  "text": "A Viekšniai közelében fekvő Medžialenkės-tó egy természetközeli vízfelület, amely ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        22.420208,
+                        56.209311
+                  ]
+            },
+            {
+                  "name": "Žibikų tv.",
+                  "text": "A Viekšniai-ban található Žibikų víztározó kedvelt helyszín a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.439932,
+                        56.202717
+                  ]
+            },
+            {
+                  "name": "Svirkančių tv.",
+                  "text": "A Svirkančių tv. egy Viekšniai-ban található vízfelület, amely nyugodt környezetet biztosít a szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        22.503449,
+                        56.224938
+                  ]
+            },
+            {
+                  "name": "Skleipių tv.",
+                  "text": "A Viekšniai-ban lévő Skleipių víztározót lágy táj veszi körül, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        22.523922,
+                        56.165003
+                  ]
+            },
+            {
+                  "name": "Palnosų tv.",
+                  "text": "A Viekšniai-ban található Palnosų tv. békés hátteret nyújt egy természetjáró kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.591021,
+                        56.230547
+                  ]
+            },
+            {
+                  "name": "Lėlaičių tv.",
+                  "text": "A Viekšniai területén fekvő Lėlaičių víztározó egy csendes vízfelület, amely kiválóan alkalmas sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        22.456414,
+                        56.237446
+                  ]
+            },
+            {
+                  "name": "Viekšnių malūno tv.",
+                  "text": "A Viekšnių malūno tv. egy történelmi hangulatú vízfelület Viekšniaiban, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        22.52314,
+                        56.23223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maigų ež.",
+                  "text": "Lacul Maigų din Viekšniai este un lac mai mic, care invită la momente de liniște lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        22.454456,
+                        56.276412
+                  ]
+            },
+            {
+                  "name": "Meižių ež.",
+                  "text": "Lacul Meižių din Viekšniai oferă o atmosferă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.553128,
+                        56.295124
+                  ]
+            },
+            {
+                  "name": "Medžialenkės ež.",
+                  "text": "Lacul Medžialenkės din Viekšniai este un corp de apă natural, ideal pentru ore de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.420208,
+                        56.209311
+                  ]
+            },
+            {
+                  "name": "Žibikų tv.",
+                  "text": "Lacul de acumulare Žibikų din Viekšniai este o destinație locală pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.439932,
+                        56.202717
+                  ]
+            },
+            {
+                  "name": "Svirkančių tv.",
+                  "text": "Svirkančių tv. este un lac din Viekšniai care oferă un mediu liniștit pentru petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.503449,
+                        56.224938
+                  ]
+            },
+            {
+                  "name": "Skleipių tv.",
+                  "text": "Lacul de acumulare Skleipių din Viekšniai este înconjurat de un peisaj blând și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.523922,
+                        56.165003
+                  ]
+            },
+            {
+                  "name": "Palnosų tv.",
+                  "text": "Lacul Palnosų tv. din Viekšniai oferă un cadru liniștit pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.591021,
+                        56.230547
+                  ]
+            },
+            {
+                  "name": "Lėlaičių tv.",
+                  "text": "Lacul de acumulare Lėlaičių din Viekšniai este un corp de apă liniștit, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        22.456414,
+                        56.237446
+                  ]
+            },
+            {
+                  "name": "Viekšnių malūno tv.",
+                  "text": "Viekšnių malūno tv. este un lac cu caracter istoric din Viekšniai, oferind vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        22.52314,
+                        56.23223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maigų ež.",
+                  "text": "Lake Maigų in Viekšniai is a smaller lake that invites visitors to enjoy quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.454456,
+                        56.276412
+                  ]
+            },
+            {
+                  "name": "Meižių ež.",
+                  "text": "Lake Meižių in Viekšniai offers a peaceful atmosphere in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.553128,
+                        56.295124
+                  ]
+            },
+            {
+                  "name": "Medžialenkės ež.",
+                  "text": "Lake Medžialenkės in Viekšniai is a natural water body, ideal for restful hours.",
+                  "category": "natural",
+                  "coords": [
+                        22.420208,
+                        56.209311
+                  ]
+            },
+            {
+                  "name": "Žibikų tv.",
+                  "text": "The Žibikų reservoir in Viekšniai is a local destination for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.439932,
+                        56.202717
+                  ]
+            },
+            {
+                  "name": "Svirkančių tv.",
+                  "text": "Svirkančių tv. is a water body in Viekšniai that provides a quiet environment for leisure.",
+                  "category": "natural",
+                  "coords": [
+                        22.503449,
+                        56.224938
+                  ]
+            },
+            {
+                  "name": "Skleipių tv.",
+                  "text": "The Skleipių reservoir in Viekšniai is surrounded by a gentle landscape and invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        22.523922,
+                        56.165003
+                  ]
+            },
+            {
+                  "name": "Palnosų tv.",
+                  "text": "Palnosų tv. in Viekšniai offers a peaceful setting for an outing into nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.591021,
+                        56.230547
+                  ]
+            },
+            {
+                  "name": "Lėlaičių tv.",
+                  "text": "The Lėlaičių reservoir in Viekšniai is a quiet water body well-suited for walking.",
+                  "category": "natural",
+                  "coords": [
+                        22.456414,
+                        56.237446
+                  ]
+            },
+            {
+                  "name": "Viekšnių malūno tv.",
+                  "text": "Viekšnių malūno tv. is a historically characterized water body in Viekšniai with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        22.52314,
+                        56.23223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Viekšniai", hu: "Viekšniai", ro: "Viekšniai", en: "Viekšniai" },
@@ -18231,6 +36375,24 @@ imageHint: "Lazdijai border crossing and church",
                         23.603932,
                         54.882396
                   ]
+            },
+            {
+                  "name": "Kulautuvos karjeras",
+                  "text": "Ein Gewässer in Ezerelis, ideal für eine entspannte Zeit in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.648495,
+                        54.935419
+                  ]
+            },
+            {
+                  "name": "Didysis Ežerėlis",
+                  "text": "Ein markanter See in Ezerelis, bekannt für seine ruhige Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        23.638645,
+                        54.8713
+                  ]
             }
       ],
       "hu": [
@@ -18241,6 +36403,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.603932,
                         54.882396
+                  ]
+            },
+            {
+                  "name": "Kulautuvos karjeras",
+                  "text": "Vízfelület Ezerelis területén, ideális a pihenéshez természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.648495,
+                        54.935419
+                  ]
+            },
+            {
+                  "name": "Didysis Ežerėlis",
+                  "text": "Jellegzetes tó Ezerelis területén, amely nyugodt vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.638645,
+                        54.8713
                   ]
             }
       ],
@@ -18253,6 +36433,24 @@ imageHint: "Lazdijai border crossing and church",
                         23.603932,
                         54.882396
                   ]
+            },
+            {
+                  "name": "Kulautuvos karjeras",
+                  "text": "Un luciu de apă în Ezerelis, ideal pentru un timp relaxant într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.648495,
+                        54.935419
+                  ]
+            },
+            {
+                  "name": "Didysis Ežerėlis",
+                  "text": "Un lac proeminent în Ezerelis, cunoscut pentru suprafața sa liniștită de apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.638645,
+                        54.8713
+                  ]
             }
       ],
       "en": [
@@ -18263,6 +36461,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.603932,
                         54.882396
+                  ]
+            },
+            {
+                  "name": "Kulautuvos karjeras",
+                  "text": "A body of water in Ezerelis, ideal for a relaxed time in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.648495,
+                        54.935419
+                  ]
+            },
+            {
+                  "name": "Didysis Ežerėlis",
+                  "text": "A prominent lake in Ezerelis, known for its calm water surface.",
+                  "category": "natural",
+                  "coords": [
+                        23.638645,
+                        54.8713
                   ]
             }
       ]
@@ -18357,6 +36573,15 @@ imageHint: "Lazdijai border crossing and church",
                         21.599669,
                         55.6004
                   ]
+            },
+            {
+                  "name": "ež. Papelkys",
+                  "text": "Der Papelkys-See in Veivirzenai ist ein stilles Ziel für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        21.574104,
+                        55.651612
+                  ]
             }
       ],
       "hu": [
@@ -18403,6 +36628,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         21.599669,
                         55.6004
+                  ]
+            },
+            {
+                  "name": "ež. Papelkys",
+                  "text": "A Papelkys-tó Veivirzenai területén csendes célpont a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        21.574104,
+                        55.651612
                   ]
             }
       ],
@@ -18451,6 +36685,15 @@ imageHint: "Lazdijai border crossing and church",
                         21.599669,
                         55.6004
                   ]
+            },
+            {
+                  "name": "ež. Papelkys",
+                  "text": "Lacul Papelkys din Veivirzenai este o destinație liniștită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.574104,
+                        55.651612
+                  ]
             }
       ],
       "en": [
@@ -18497,6 +36740,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         21.599669,
                         55.6004
+                  ]
+            },
+            {
+                  "name": "ež. Papelkys",
+                  "text": "Papelkys Lake in Veivirzenai is a quiet destination for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.574104,
+                        55.651612
                   ]
             }
       ]
@@ -19014,6 +37266,231 @@ imageHint: "Lazdijai border crossing and church",
                         24.828111,
                         54.766832
                   ]
+            },
+            {
+                  "name": "ež. Vepriškai",
+                  "text": "Der Vepriškai-See im Gebiet Vievis ist ein ruhiges Ziel für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        24.874672,
+                        54.787766
+                  ]
+            },
+            {
+                  "name": "ež. Pasamanė",
+                  "text": "Der Pasamanė-See im Gebiet Vievis bietet eine malerische Umgebung für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.759711,
+                        54.716576
+                  ]
+            },
+            {
+                  "name": "ež. Svinuka",
+                  "text": "Der Svinuka-See im Gebiet Vievis ist ein kleines Gewässer, das von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.775971,
+                        54.702817
+                  ]
+            },
+            {
+                  "name": "Užpurvio ež.",
+                  "text": "Der Užpurvio-See im Gebiet Vievis lädt zu entspannten Momenten in einer ruhigen Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.753988,
+                        54.713628
+                  ]
+            },
+            {
+                  "name": "ež. Prūdas",
+                  "text": "Der Prūdas-See im Gebiet Vievis ist ein beschauliches Gewässer, ideal für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        24.862377,
+                        54.752549
+                  ]
+            },
+            {
+                  "name": "ež. Šventalierkis",
+                  "text": "Der Šventalierkis-See im Gebiet Vievis bietet eine ruhige Atmosphäre für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        24.880024,
+                        54.737814
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetukas",
+                  "text": "Der Šiemetukas-See im Gebiet Vievis ist ein kleiner, naturbelassener See in friedlicher Lage.",
+                  "category": "natural",
+                  "coords": [
+                        24.862468,
+                        54.734927
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdukas",
+                  "text": "Der Bliūdukas-See im Gebiet Vievis ist ein kreisförmiges Gewässer inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.830147,
+                        54.74676
+                  ]
+            },
+            {
+                  "name": "ež. Bakutis",
+                  "text": "Der Bakutis-See im Gebiet Vievis bietet eine entspannte Umgebung für einen Tag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.870483,
+                        54.755214
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Der Beržonkos-See im Gebiet Vievis ist von Wäldern umgeben und ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "ež. Vėtralaukis",
+                  "text": "Der Vėtralaukis-See im Gebiet Vievis ist ein ruhiges Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.877056,
+                        54.716967
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Der Abromiškių-See im Gebiet Vievis ist ein bekanntes lokales Ziel für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Der Bedugnis-See im Gebiet Vievis bietet eine friedliche Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.811743,
+                        54.783652
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Der Jagudėlis-See im Gebiet Vievis ist ein kleines Gewässer in einer malerischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "Strėvininkų ež.",
+                  "text": "Der Strėvininkų-See im Gebiet Vievis lädt zu ruhigen Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.760291,
+                        54.703203
+                  ]
+            },
+            {
+                  "name": "ež. Pylimų ežerėlis",
+                  "text": "Der Pylimų-ežerėlis im Gebiet Vievis ist ein beschauliches Gewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        24.849544,
+                        54.762241
+                  ]
+            },
+            {
+                  "name": "ež. Dumblikas",
+                  "text": "Der Dumblikas-See im Gebiet Vievis bietet eine natürliche Umgebung für erholsame Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        24.875016,
+                        54.760923
+                  ]
+            },
+            {
+                  "name": "ež. Pagojis",
+                  "text": "Der Pagojis-See im Gebiet Vievis ist ein ruhiges Gewässer, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        24.853432,
+                        54.721966
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Der Mergužėlė-See im Gebiet Vievis ist ein kleines, friedliches Gewässer inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Dumblaičiai",
+                  "text": "Der Dumblaičiai-See im Gebiet Vievis bietet eine malerische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.83988,
+                        54.734321
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Der Kūdrelis-See im Gebiet Vievis ist ein kleines Gewässer, das zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Das Elektrėnai-Reservoir ist ein großes Gewässer im Gebiet Vievis, beliebt für Wassersport und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetis",
+                  "text": "Der Šiemetis-See im Gebiet Vievis bietet eine friedliche Atmosphäre für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.870137,
+                        54.730426
+                  ]
+            },
+            {
+                  "name": "Vievio ež.",
+                  "text": "Der Vievis-See im Gebiet Vievis ist ein bedeutendes lokales Gewässer für Freizeit und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        24.819195,
+                        54.755967
+                  ]
+            },
+            {
+                  "name": "ež. Pakalnis",
+                  "text": "Der Pakalnis-See im Gebiet Vievis bietet eine ruhige Umgebung für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.853407,
+                        54.725116
+                  ]
             }
       ],
       "hu": [
@@ -19060,6 +37537,231 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.828111,
                         54.766832
+                  ]
+            },
+            {
+                  "name": "ež. Vepriškai",
+                  "text": "A Vievis környékén található Vepriškai-tó nyugodt célpont a természetkedvelők és túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        24.874672,
+                        54.787766
+                  ]
+            },
+            {
+                  "name": "ež. Pasamanė",
+                  "text": "A Vievis környékén fekvő Pasamanė-tó festői környezetet biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.759711,
+                        54.716576
+                  ]
+            },
+            {
+                  "name": "ež. Svinuka",
+                  "text": "A Vievis környékén található Svinuka-tó egy természettel körülvett apró vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        24.775971,
+                        54.702817
+                  ]
+            },
+            {
+                  "name": "Užpurvio ež.",
+                  "text": "A Vievis környékén lévő Užpurvio-tó pihentető pillanatokra hív egy csendes tájon.",
+                  "category": "natural",
+                  "coords": [
+                        24.753988,
+                        54.713628
+                  ]
+            },
+            {
+                  "name": "ež. Prūdas",
+                  "text": "A Vievis környékén található Prūdas-tó egy csendes vízfelület, amely ideális egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.862377,
+                        54.752549
+                  ]
+            },
+            {
+                  "name": "ež. Šventalierkis",
+                  "text": "A Vievis környékén fekvő Šventalierkis-tó nyugodt légkört biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.880024,
+                        54.737814
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetukas",
+                  "text": "A Vievis környékén található Šiemetukas-tó egy kicsi, természetközeli tó békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.862468,
+                        54.734927
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdukas",
+                  "text": "A Vievis környékén lévő Bliūdukas-tó egy kör alakú vízfelület a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        24.830147,
+                        54.74676
+                  ]
+            },
+            {
+                  "name": "ež. Bakutis",
+                  "text": "A Vievis környékén található Bakutis-tó pihentető környezetet nyújt egy szabadban töltött naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.870483,
+                        54.755214
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "A Vievis környékén lévő Beržonkos-tó erdővel körülvett, és ideális pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "ež. Vėtralaukis",
+                  "text": "A Vievis környékén található Vėtralaukis-tó egy csendes vízfelület, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        24.877056,
+                        54.716967
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "A Vievis környékén fekvő Abromiškių-tó népszerű helyi célpont a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "A Vievis környékén található Bedugnis-tó békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.811743,
+                        54.783652
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "A Vievis környékén fekvő Jagudėlis-tó egy kis vízfelület festői tájban.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "Strėvininkų ež.",
+                  "text": "A Vievis környékén lévő Strėvininkų-tó nyugodt tóparti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.760291,
+                        54.703203
+                  ]
+            },
+            {
+                  "name": "ež. Pylimų ežerėlis",
+                  "text": "A Vievis környékén található Pylimų-ežerėlis egy csendes vízfelület nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.849544,
+                        54.762241
+                  ]
+            },
+            {
+                  "name": "ež. Dumblikas",
+                  "text": "A Vievis környékén fekvő Dumblikas-tó természetes környezetet kínál a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.875016,
+                        54.760923
+                  ]
+            },
+            {
+                  "name": "ež. Pagojis",
+                  "text": "A Vievis környékén található Pagojis-tó egy csendes vízfelület, ideális egy zöldben töltött pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        24.853432,
+                        54.721966
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "A Vievis környékén lévő Mergužėlė-tó egy kicsi, békés vízfelület a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Dumblaičiai",
+                  "text": "A Vievis környékén fekvő Dumblaičiai-tó festői környezetet biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.83988,
+                        54.734321
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "A Vievis környékén található Kūdrelis-tó egy kis vízfelület, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Az Elektrėnai víztározó egy nagy vízfelület Vievis környékén, amely népszerű a vízi sportok és a kikapcsolódás körében.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetis",
+                  "text": "A Vievis környékén fekvő Šiemetis-tó békés atmoszférát biztosít a természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.870137,
+                        54.730426
+                  ]
+            },
+            {
+                  "name": "Vievio ež.",
+                  "text": "A Vievis környékén található Vievis-tó fontos helyi vízfelület a szabadidő és kikapcsolódás számára.",
+                  "category": "natural",
+                  "coords": [
+                        24.819195,
+                        54.755967
+                  ]
+            },
+            {
+                  "name": "ež. Pakalnis",
+                  "text": "A Vievis környékén lévő Pakalnis-tó nyugodt környezetet biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.853407,
+                        54.725116
                   ]
             }
       ],
@@ -19108,6 +37810,231 @@ imageHint: "Lazdijai border crossing and church",
                         24.828111,
                         54.766832
                   ]
+            },
+            {
+                  "name": "ež. Vepriškai",
+                  "text": "Lacul Vepriškai din zona Vievis este o destinație liniștită pentru iubitorii de natură și drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        24.874672,
+                        54.787766
+                  ]
+            },
+            {
+                  "name": "ež. Pasamanė",
+                  "text": "Lacul Pasamanė din zona Vievis oferă un cadru pitoresc pentru relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        24.759711,
+                        54.716576
+                  ]
+            },
+            {
+                  "name": "ež. Svinuka",
+                  "text": "Lacul Svinuka din zona Vievis este un mic corp de apă înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.775971,
+                        54.702817
+                  ]
+            },
+            {
+                  "name": "Užpurvio ež.",
+                  "text": "Lacul Užpurvio din zona Vievis invită la momente de relaxare într-un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        24.753988,
+                        54.713628
+                  ]
+            },
+            {
+                  "name": "ež. Prūdas",
+                  "text": "Lacul Prūdas din zona Vievis este un corp de apă liniștit, ideal pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        24.862377,
+                        54.752549
+                  ]
+            },
+            {
+                  "name": "ež. Šventalierkis",
+                  "text": "Lacul Šventalierkis din zona Vievis oferă o atmosferă liniștită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.880024,
+                        54.737814
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetukas",
+                  "text": "Lacul Šiemetukas din zona Vievis este un lac mic, natural, aflat într-o locație liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.862468,
+                        54.734927
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdukas",
+                  "text": "Lacul Bliūdukas din zona Vievis este un corp de apă circular în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.830147,
+                        54.74676
+                  ]
+            },
+            {
+                  "name": "ež. Bakutis",
+                  "text": "Lacul Bakutis din zona Vievis oferă un mediu relaxant pentru o zi în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.870483,
+                        54.755214
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Lacul Beržonkos din zona Vievis este înconjurat de păduri și este ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "ež. Vėtralaukis",
+                  "text": "Lacul Vėtralaukis din zona Vievis este un corp de apă liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.877056,
+                        54.716967
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Lacul Abromiškių din zona Vievis este o destinație locală cunoscută pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Lacul Bedugnis din zona Vievis oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.811743,
+                        54.783652
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Lacul Jagudėlis din zona Vievis este un mic corp de apă într-un peisaj pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "Strėvininkų ež.",
+                  "text": "Lacul Strėvininkų din zona Vievis invită la plimbări liniștite pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        24.760291,
+                        54.703203
+                  ]
+            },
+            {
+                  "name": "ež. Pylimų ežerėlis",
+                  "text": "Pylimų ežerėlis din zona Vievis este un corp de apă liniștit într-o locație calmă.",
+                  "category": "natural",
+                  "coords": [
+                        24.849544,
+                        54.762241
+                  ]
+            },
+            {
+                  "name": "ež. Dumblikas",
+                  "text": "Lacul Dumblikas din zona Vievis oferă un mediu natural pentru ore de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.875016,
+                        54.760923
+                  ]
+            },
+            {
+                  "name": "ež. Pagojis",
+                  "text": "Lacul Pagojis din zona Vievis este un corp de apă liniștit, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.853432,
+                        54.721966
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Lacul Mergužėlė din zona Vievis este un corp de apă mic și liniștit, în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Dumblaičiai",
+                  "text": "Lacul Dumblaičiai din zona Vievis oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.83988,
+                        54.734321
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Lacul Kūdrelis din zona Vievis este un mic corp de apă care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "Elektrėnų marios",
+                  "text": "Rezervorul Elektrėnai este un corp mare de apă din zona Vievis, popular pentru sporturi nautice și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetis",
+                  "text": "Lacul Šiemetis din zona Vievis oferă o atmosferă liniștită pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.870137,
+                        54.730426
+                  ]
+            },
+            {
+                  "name": "Vievio ež.",
+                  "text": "Lacul Vievis din zona Vievis este un corp de apă local important pentru petrecerea timpului liber și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        24.819195,
+                        54.755967
+                  ]
+            },
+            {
+                  "name": "ež. Pakalnis",
+                  "text": "Lacul Pakalnis din zona Vievis oferă un mediu liniștit pentru ore de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        24.853407,
+                        54.725116
+                  ]
             }
       ],
       "en": [
@@ -19154,6 +38081,231 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.828111,
                         54.766832
+                  ]
+            },
+            {
+                  "name": "ež. Vepriškai",
+                  "text": "Lake Vepriškai in the Vievis area is a quiet destination for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        24.874672,
+                        54.787766
+                  ]
+            },
+            {
+                  "name": "ež. Pasamanė",
+                  "text": "Lake Pasamanė in the Vievis area offers a scenic setting for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.759711,
+                        54.716576
+                  ]
+            },
+            {
+                  "name": "ež. Svinuka",
+                  "text": "Lake Svinuka in the Vievis area is a small water body surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.775971,
+                        54.702817
+                  ]
+            },
+            {
+                  "name": "Užpurvio ež.",
+                  "text": "Lake Užpurvio in the Vievis area invites visitors to relaxed moments in a quiet landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.753988,
+                        54.713628
+                  ]
+            },
+            {
+                  "name": "ež. Prūdas",
+                  "text": "Lake Prūdas in the Vievis area is a tranquil water body, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        24.862377,
+                        54.752549
+                  ]
+            },
+            {
+                  "name": "ež. Šventalierkis",
+                  "text": "Lake Šventalierkis in the Vievis area offers a quiet atmosphere for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        24.880024,
+                        54.737814
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetukas",
+                  "text": "Lake Šiemetukas in the Vievis area is a small, natural lake in a peaceful location.",
+                  "category": "natural",
+                  "coords": [
+                        24.862468,
+                        54.734927
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdukas",
+                  "text": "Lake Bliūdukas in the Vievis area is a circular water body in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.830147,
+                        54.74676
+                  ]
+            },
+            {
+                  "name": "ež. Bakutis",
+                  "text": "Lake Bakutis in the Vievis area offers a relaxing environment for a day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.870483,
+                        54.755214
+                  ]
+            },
+            {
+                  "name": "Beržonkos ež.",
+                  "text": "Lake Beržonkos in the Vievis area is surrounded by forests and is ideal for restful walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.776855,
+                        54.803667
+                  ]
+            },
+            {
+                  "name": "ež. Vėtralaukis",
+                  "text": "Lake Vėtralaukis in the Vievis area is a quiet water body that invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        24.877056,
+                        54.716967
+                  ]
+            },
+            {
+                  "name": "Abromiškių ež.",
+                  "text": "Lake Abromiškių in the Vievis area is a well-known local destination for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.714031,
+                        54.776605
+                  ]
+            },
+            {
+                  "name": "ež. Bedugnis",
+                  "text": "Lake Bedugnis in the Vievis area offers a peaceful backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.811743,
+                        54.783652
+                  ]
+            },
+            {
+                  "name": "ež. Jagudėlis",
+                  "text": "Lake Jagudėlis in the Vievis area is a small water body in a scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.711196,
+                        54.745643
+                  ]
+            },
+            {
+                  "name": "Strėvininkų ež.",
+                  "text": "Lake Strėvininkų in the Vievis area invites visitors for quiet walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        24.760291,
+                        54.703203
+                  ]
+            },
+            {
+                  "name": "ež. Pylimų ežerėlis",
+                  "text": "Pylimų ežerėlis in the Vievis area is a tranquil water body in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        24.849544,
+                        54.762241
+                  ]
+            },
+            {
+                  "name": "ež. Dumblikas",
+                  "text": "Lake Dumblikas in the Vievis area offers a natural environment for restful hours.",
+                  "category": "natural",
+                  "coords": [
+                        24.875016,
+                        54.760923
+                  ]
+            },
+            {
+                  "name": "ež. Pagojis",
+                  "text": "Lake Pagojis in the Vievis area is a quiet water body, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.853432,
+                        54.721966
+                  ]
+            },
+            {
+                  "name": "ež. Mergužėlė",
+                  "text": "Lake Mergužėlė in the Vievis area is a small, peaceful water body in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.754191,
+                        54.810023
+                  ]
+            },
+            {
+                  "name": "ež. Dumblaičiai",
+                  "text": "Lake Dumblaičiai in the Vievis area provides a scenic backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.83988,
+                        54.734321
+                  ]
+            },
+            {
+                  "name": "ež. Kūdrelis",
+                  "text": "Lake Kūdrelis in the Vievis area is a small water body that invites visitors to relax.",
+                  "category": "natural",
+                  "coords": [
+                        24.711358,
+                        54.760057
+                  ]
+            },
+            {
+                  "name": "Elektrėnai Reservoir",
+                  "text": "Elektrėnai Reservoir is a large water body in the Vievis area, popular for water sports and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.671892,
+                        54.741817
+                  ]
+            },
+            {
+                  "name": "ež. Šiemetis",
+                  "text": "Lake Šiemetis in the Vievis area offers a peaceful atmosphere for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.870137,
+                        54.730426
+                  ]
+            },
+            {
+                  "name": "Vievio ež.",
+                  "text": "Lake Vievis in the Vievis area is a major local water body for leisure and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.819195,
+                        54.755967
+                  ]
+            },
+            {
+                  "name": "ež. Pakalnis",
+                  "text": "Lake Pakalnis in the Vievis area offers a quiet environment for relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.853407,
+                        54.725116
                   ]
             }
       ]
@@ -19325,7 +38477,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-salcininkai-suburb-cities-v2.webp",
   },
   {
-    id: "lithuania-seduva-cities-v2",
+    id: "lithuania-seduva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Velžių tv.",
+                  "text": "Ein ruhiger Stausee in Seduva, ideal für einen Moment der Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        23.66649,
+                        55.767517
+                  ]
+            },
+            {
+                  "name": "Prastavonių tv.",
+                  "text": "Ein beschaulicher Teich in Seduva, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.785121,
+                        55.734008
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Ein großer See bei Seduva, der zu ausgiebigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Raudondvario tv.",
+                  "text": "Ein idyllisches Gewässer in Seduva, umgeben von grüner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.793104,
+                        55.748203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Velžių tv.",
+                  "text": "Csendes víztározó Seduva területén, ideális egy pillanatnyi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.66649,
+                        55.767517
+                  ]
+            },
+            {
+                  "name": "Prastavonių tv.",
+                  "text": "Megnyugtató tó Seduva területén, tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.785121,
+                        55.734008
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Nagy tó Seduva közelében, amely hosszú sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Raudondvario tv.",
+                  "text": "Idilli vízfelület Seduva területén, zöld természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        23.793104,
+                        55.748203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Velžių tv.",
+                  "text": "Un lac de acumulare liniștit în Seduva, ideal pentru un moment de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.66649,
+                        55.767517
+                  ]
+            },
+            {
+                  "name": "Prastavonių tv.",
+                  "text": "Un iaz liniștit în Seduva, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.785121,
+                        55.734008
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "Un lac mare lângă Seduva, care invită la plimbări lungi.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Raudondvario tv.",
+                  "text": "Un luciu de apă idilic în Seduva, înconjurat de natură verde.",
+                  "category": "natural",
+                  "coords": [
+                        23.793104,
+                        55.748203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Velžių tv.",
+                  "text": "A quiet reservoir in Seduva, ideal for a moment of relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.66649,
+                        55.767517
+                  ]
+            },
+            {
+                  "name": "Prastavonių tv.",
+                  "text": "A tranquil pond in Seduva, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.785121,
+                        55.734008
+                  ]
+            },
+            {
+                  "name": "Arimaičių ež.",
+                  "text": "A large lake near Seduva, inviting for long walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.660721,
+                        55.788548
+                  ]
+            },
+            {
+                  "name": "Raudondvario tv.",
+                  "text": "An idyllic body of water in Seduva, surrounded by green nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.793104,
+                        55.748203
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Šeduva", hu: "Šeduva", ro: "Šeduva", en: "Šeduva" },
@@ -19389,6 +38694,24 @@ imageHint: "Lazdijai border crossing and church",
                         24.169254,
                         56.025819
                   ]
+            },
+            {
+                  "name": "Dvariūkų tv.",
+                  "text": "Das Dvariūkai-Reservoir in Joniskelis ist ein Ort für erholsame Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.016202,
+                        56.052363
+                  ]
+            },
+            {
+                  "name": "Švobiškio tv.",
+                  "text": "Das Švobiškis-Reservoir in Joniskelis lädt zu ruhigen Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.141191,
+                        56.060189
+                  ]
             }
       ],
       "hu": [
@@ -19408,6 +38731,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.169254,
                         56.025819
+                  ]
+            },
+            {
+                  "name": "Dvariūkų tv.",
+                  "text": "A Dvariūkų-víztározó Joniskelis környékén a vízparti pihenés helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        24.016202,
+                        56.052363
+                  ]
+            },
+            {
+                  "name": "Švobiškio tv.",
+                  "text": "A Švobiškio-víztározó Joniskelis területén békés pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.141191,
+                        56.060189
                   ]
             }
       ],
@@ -19429,6 +38770,24 @@ imageHint: "Lazdijai border crossing and church",
                         24.169254,
                         56.025819
                   ]
+            },
+            {
+                  "name": "Dvariūkų tv.",
+                  "text": "Rezervorul Dvariūkų din Joniskelis este un loc pentru ore relaxante la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.016202,
+                        56.052363
+                  ]
+            },
+            {
+                  "name": "Švobiškio tv.",
+                  "text": "Rezervorul Švobiškio din Joniskelis invită la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.141191,
+                        56.060189
+                  ]
             }
       ],
       "en": [
@@ -19448,6 +38807,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.169254,
                         56.025819
+                  ]
+            },
+            {
+                  "name": "Dvariūkų tv.",
+                  "text": "Dvariūkų reservoir in Joniskelis is a place for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.016202,
+                        56.052363
+                  ]
+            },
+            {
+                  "name": "Švobiškio tv.",
+                  "text": "Švobiškio reservoir in Joniskelis invites visitors to quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.141191,
+                        56.060189
                   ]
             }
       ]
@@ -19605,6 +38982,222 @@ imageHint: "Lazdijai border crossing and church",
                         23.694946,
                         54.101641
                   ]
+            },
+            {
+                  "name": "ež. Ešerinėlis",
+                  "text": "Der Ešerinėlis-See in Veisiejai ist ein kleiner, idyllischer See, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.650645,
+                        54.1342
+                  ]
+            },
+            {
+                  "name": "ež. Samanius",
+                  "text": "Der Samanius-See in Veisiejai bietet eine ruhige Atmosphäre inmitten einer grünen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.670759,
+                        54.070636
+                  ]
+            },
+            {
+                  "name": "ež. Pirtukas",
+                  "text": "Der Pirtukas-See in Veisiejai ist ein beschauliches Gewässer, ideal für eine kurze Rast in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.645986,
+                        54.159757
+                  ]
+            },
+            {
+                  "name": "ež. Bludelis",
+                  "text": "Der Bludelis-See in Veisiejai ist ein naturbelassener See, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.659263,
+                        54.080274
+                  ]
+            },
+            {
+                  "name": "ež. Mekšrinė",
+                  "text": "Der Mekšrinė-See in Veisiejai bietet eine friedliche Kulisse für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        23.720077,
+                        54.080518
+                  ]
+            },
+            {
+                  "name": "ež. Melešiškės",
+                  "text": "Der Melešiškės-See in Veisiejai ist ein ruhiges Gewässer, ideal für erholsame Momente.",
+                  "category": "natural",
+                  "coords": [
+                        23.592694,
+                        54.091005
+                  ]
+            },
+            {
+                  "name": "Aradninkų ež.",
+                  "text": "Der Aradninkų-See in Veisiejai ist von Wäldern umgeben und bietet eine sehr ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        23.595174,
+                        54.076439
+                  ]
+            },
+            {
+                  "name": "ež. Liūbelis",
+                  "text": "Der Liūbelis-See in Veisiejai lädt zu entspannten Spaziergängen in einer friedlichen Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.638977,
+                        54.143722
+                  ]
+            },
+            {
+                  "name": "ež. Šikinežeris",
+                  "text": "Der Šikinežeris-See in Veisiejai ist ein beschauliches Gewässer, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.621322,
+                        54.111246
+                  ]
+            },
+            {
+                  "name": "Kanaukų ež.",
+                  "text": "Der Kanaukų-See in Veisiejai bietet eine ruhige Kulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        23.630636,
+                        54.155687
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdelis",
+                  "text": "Der Bliūdelis-See in Veisiejai ist ein kleines, friedliches Gewässer inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.647344,
+                        54.133062
+                  ]
+            },
+            {
+                  "name": "ež. Vilkinys",
+                  "text": "Der Vilkinys-See in Veisiejai ist bekannt für seine natürliche Schönheit und klare Luft.",
+                  "category": "natural",
+                  "coords": [
+                        23.783422,
+                        54.047919
+                  ]
+            },
+            {
+                  "name": "ež. Snaigynas",
+                  "text": "Der Snaigynas-See in Veisiejai ist ein beliebtes Ziel für Wanderer und Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        23.735734,
+                        54.090142
+                  ]
+            },
+            {
+                  "name": "ež. Veisiejis",
+                  "text": "Der Veisiejis-See in Veisiejai bietet weite Wasserflächen und eine malerische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.614593,
+                        54.050244
+                  ]
+            },
+            {
+                  "name": "ež. Ančia",
+                  "text": "Der Ančia-See in Veisiejai ist ein großes, verzweigtes Gewässer, ideal für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.682376,
+                        54.067898
+                  ]
+            },
+            {
+                  "name": "ež. Vilkas",
+                  "text": "Der Vilkas-See in Veisiejai bietet eine ruhige Atmosphäre für entspannte Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.807031,
+                        54.125999
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Der Galstas-See in Veisiejai ist ein malerischer See, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Trikojis",
+                  "text": "Der Trikojis-See in Veisiejai lädt zu erholsamen Momenten in einer friedlichen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.76106,
+                        54.068164
+                  ]
+            },
+            {
+                  "name": "ež. Veprynas",
+                  "text": "Ein malerischer See in Veisiejai, ideal für einen entspannten Spaziergang und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.757173,
+                        54.055897
+                  ]
+            },
+            {
+                  "name": "ež. Vilkaitis",
+                  "text": "Ein ruhiger See in Veisiejai, der eine schöne Kulisse für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.779133,
+                        54.071066
+                  ]
+            },
+            {
+                  "name": "ež. Balsis",
+                  "text": "Ein schöner See in Veisiejai, ideal zum Wandern und Entspannen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.659254,
+                        54.142403
+                  ]
+            },
+            {
+                  "name": "ež. Šlavantas",
+                  "text": "Ein natürlicher See in Veisiejai, der zu ruhigen Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.646423,
+                        54.145054
+                  ]
+            },
+            {
+                  "name": "Vainežeris",
+                  "text": "Ein friedlicher See in Veisiejai, eingebettet in eine malerische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.670952,
+                        54.075243
+                  ]
+            },
+            {
+                  "name": "ež. Naudoris",
+                  "text": "Ein kleiner See in Veisiejai, ideal für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        23.603217,
+                        54.083352
+                  ]
             }
       ],
       "hu": [
@@ -19714,6 +39307,222 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.694946,
                         54.101641
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinėlis",
+                  "text": "A Veisiejai-ban található Ešerinėlis-tó egy kicsi, idilli tó, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.650645,
+                        54.1342
+                  ]
+            },
+            {
+                  "name": "ež. Samanius",
+                  "text": "A Veisiejai területén fekvő Samanius-tó nyugodt légkört biztosít a zöld táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        23.670759,
+                        54.070636
+                  ]
+            },
+            {
+                  "name": "ež. Pirtukas",
+                  "text": "A Veisiejai-ban található Pirtukas-tó egy csendes vízfelület, ideális egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        23.645986,
+                        54.159757
+                  ]
+            },
+            {
+                  "name": "ež. Bludelis",
+                  "text": "A Veisiejai közelében fekvő Bludelis-tó egy érintetlen tó, amely kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.659263,
+                        54.080274
+                  ]
+            },
+            {
+                  "name": "ež. Mekšrinė",
+                  "text": "A Veisiejai-ban található Mekšrinė-tó békés környezetet biztosít a tóparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.720077,
+                        54.080518
+                  ]
+            },
+            {
+                  "name": "ež. Melešiškės",
+                  "text": "A Veisiejai területén fekvő Melešiškės-tó egy csendes vízfelület, amely ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        23.592694,
+                        54.091005
+                  ]
+            },
+            {
+                  "name": "Aradninkų ež.",
+                  "text": "A Veisiejai környékén fekvő Aradninkų-tó erdővel körülvett, és igen nyugodt légkört áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        23.595174,
+                        54.076439
+                  ]
+            },
+            {
+                  "name": "ež. Liūbelis",
+                  "text": "A Veisiejai-ban található Liūbelis-tó pihentető sétákra hív egy békés tájon.",
+                  "category": "natural",
+                  "coords": [
+                        23.638977,
+                        54.143722
+                  ]
+            },
+            {
+                  "name": "ež. Šikinežeris",
+                  "text": "A Veisiejai területén fekvő Šikinežeris-tó egy csendes vízfelület, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.621322,
+                        54.111246
+                  ]
+            },
+            {
+                  "name": "Kanaukų ež.",
+                  "text": "A Veisiejai-ban található Kanaukų-tó nyugodt környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.630636,
+                        54.155687
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdelis",
+                  "text": "A Veisiejai területén lévő Bliūdelis-tó egy kicsi, békés vízfelület a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        23.647344,
+                        54.133062
+                  ]
+            },
+            {
+                  "name": "ež. Vilkinys",
+                  "text": "A Veisiejai-ban található Vilkinys-tó természeti szépségéről és tiszta levegőjéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.783422,
+                        54.047919
+                  ]
+            },
+            {
+                  "name": "ež. Snaigynas",
+                  "text": "A Veisiejai környékén fekvő Snaigynas-tó kedvelt célpont a túrázók és a nyugalomra vágyók körében.",
+                  "category": "natural",
+                  "coords": [
+                        23.735734,
+                        54.090142
+                  ]
+            },
+            {
+                  "name": "ež. Veisiejis",
+                  "text": "A Veisiejai területén található Veisiejis-tó tágas vízfelületet és festői környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.614593,
+                        54.050244
+                  ]
+            },
+            {
+                  "name": "ež. Ančia",
+                  "text": "A Veisiejai-ban lévő Ančia-tó egy nagy, elágazó vízfelület, amely ideális a vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.682376,
+                        54.067898
+                  ]
+            },
+            {
+                  "name": "ež. Vilkas",
+                  "text": "A Veisiejai környékén fekvő Vilkas-tó nyugodt légkört biztosít a természetben töltött pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.807031,
+                        54.125999
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "A Veisiejai-ban található Galstas-tó egy festői tó, amely kiválóan alkalmas tóparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Trikojis",
+                  "text": "A Veisiejai területén fekvő Trikojis-tó pihentető pillanatokra hív egy békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.76106,
+                        54.068164
+                  ]
+            },
+            {
+                  "name": "ež. Veprynas",
+                  "text": "Egy festői tó Veisiejai területén, amely tökéletes egy pihentető sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.757173,
+                        54.055897
+                  ]
+            },
+            {
+                  "name": "ež. Vilkaitis",
+                  "text": "Csendes tó Veisiejai közelében, amely szép környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.779133,
+                        54.071066
+                  ]
+            },
+            {
+                  "name": "ež. Balsis",
+                  "text": "Szép tó Veisiejai területén, amely ideális túrázáshoz és pihenéshez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.659254,
+                        54.142403
+                  ]
+            },
+            {
+                  "name": "ež. Šlavantas",
+                  "text": "Természetes tó Veisiejai városában, amely nyugodt vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.646423,
+                        54.145054
+                  ]
+            },
+            {
+                  "name": "Vainežeris",
+                  "text": "Békés tó Veisiejai területén, festői tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        23.670952,
+                        54.075243
+                  ]
+            },
+            {
+                  "name": "ež. Naudoris",
+                  "text": "Kisebb tó Veisiejai közelében, amely ideális természetjáráshoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.603217,
+                        54.083352
                   ]
             }
       ],
@@ -19825,6 +39634,222 @@ imageHint: "Lazdijai border crossing and church",
                         23.694946,
                         54.101641
                   ]
+            },
+            {
+                  "name": "ež. Ešerinėlis",
+                  "text": "Lacul Ešerinėlis din Veisiejai este un lac mic, idilic, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.650645,
+                        54.1342
+                  ]
+            },
+            {
+                  "name": "ež. Samanius",
+                  "text": "Lacul Samanius din Veisiejai oferă o atmosferă liniștită în mijlocul unui peisaj verde.",
+                  "category": "natural",
+                  "coords": [
+                        23.670759,
+                        54.070636
+                  ]
+            },
+            {
+                  "name": "ež. Pirtukas",
+                  "text": "Lacul Pirtukas din Veisiejai este un corp de apă liniștit, ideal pentru un scurt popas în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.645986,
+                        54.159757
+                  ]
+            },
+            {
+                  "name": "ež. Bludelis",
+                  "text": "Lacul Bludelis din Veisiejai este un lac natural care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.659263,
+                        54.080274
+                  ]
+            },
+            {
+                  "name": "ež. Mekšrinė",
+                  "text": "Lacul Mekšrinė din Veisiejai oferă un cadru liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.720077,
+                        54.080518
+                  ]
+            },
+            {
+                  "name": "ež. Melešiškės",
+                  "text": "Lacul Melešiškės din Veisiejai este un corp de apă liniștit, ideal pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.592694,
+                        54.091005
+                  ]
+            },
+            {
+                  "name": "Aradninkų ež.",
+                  "text": "Lacul Aradninkų din Veisiejai este înconjurat de păduri și oferă o atmosferă foarte liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        23.595174,
+                        54.076439
+                  ]
+            },
+            {
+                  "name": "ež. Liūbelis",
+                  "text": "Lacul Liūbelis din Veisiejai invită la plimbări relaxante într-un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        23.638977,
+                        54.143722
+                  ]
+            },
+            {
+                  "name": "ež. Šikinežeris",
+                  "text": "Lacul Šikinežeris din Veisiejai este un corp de apă liniștit, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.621322,
+                        54.111246
+                  ]
+            },
+            {
+                  "name": "Kanaukų ež.",
+                  "text": "Lacul Kanaukų din Veisiejai oferă un cadru liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        23.630636,
+                        54.155687
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdelis",
+                  "text": "Lacul Bliūdelis din Veisiejai este un corp de apă mic și liniștit, în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.647344,
+                        54.133062
+                  ]
+            },
+            {
+                  "name": "ež. Vilkinys",
+                  "text": "Lacul Vilkinys din Veisiejai este cunoscut pentru frumusețea sa naturală și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        23.783422,
+                        54.047919
+                  ]
+            },
+            {
+                  "name": "ež. Snaigynas",
+                  "text": "Lacul Snaigynas din Veisiejai este o destinație populară pentru drumeți și cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        23.735734,
+                        54.090142
+                  ]
+            },
+            {
+                  "name": "ež. Veisiejis",
+                  "text": "Lacul Veisiejis din Veisiejai oferă suprafețe vaste de apă și un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        23.614593,
+                        54.050244
+                  ]
+            },
+            {
+                  "name": "ež. Ančia",
+                  "text": "Lacul Ančia din Veisiejai este un corp de apă mare, ramificat, ideal pentru activități de recreere pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.682376,
+                        54.067898
+                  ]
+            },
+            {
+                  "name": "ež. Vilkas",
+                  "text": "Lacul Vilkas din Veisiejai oferă o atmosferă liniștită pentru ore de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.807031,
+                        54.125999
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Lacul Galstas din Veisiejai este un lac pitoresc, potrivit pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Trikojis",
+                  "text": "Lacul Trikojis din Veisiejai invită la momente de relaxare într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        23.76106,
+                        54.068164
+                  ]
+            },
+            {
+                  "name": "ež. Veprynas",
+                  "text": "Un lac pitoresc în Veisiejai, perfect pentru o plimbare relaxantă și pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.757173,
+                        54.055897
+                  ]
+            },
+            {
+                  "name": "ež. Vilkaitis",
+                  "text": "Un lac liniștit în Veisiejai, care oferă un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.779133,
+                        54.071066
+                  ]
+            },
+            {
+                  "name": "ež. Balsis",
+                  "text": "Un lac frumos în Veisiejai, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.659254,
+                        54.142403
+                  ]
+            },
+            {
+                  "name": "ež. Šlavantas",
+                  "text": "Un lac natural în Veisiejai, care invită la plimbări liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.646423,
+                        54.145054
+                  ]
+            },
+            {
+                  "name": "Vainežeris",
+                  "text": "Un lac liniștit în Veisiejai, situat într-un peisaj pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        23.670952,
+                        54.075243
+                  ]
+            },
+            {
+                  "name": "ež. Naudoris",
+                  "text": "Un lac mic în Veisiejai, ideal pentru observarea naturii și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        23.603217,
+                        54.083352
+                  ]
             }
       ],
       "en": [
@@ -19934,6 +39959,222 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.694946,
                         54.101641
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinėlis",
+                  "text": "Lake Ešerinėlis in Veisiejai is a small, idyllic lake, ideal for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        23.650645,
+                        54.1342
+                  ]
+            },
+            {
+                  "name": "ež. Samanius",
+                  "text": "Lake Samanius in Veisiejai offers a quiet atmosphere in the middle of a green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.670759,
+                        54.070636
+                  ]
+            },
+            {
+                  "name": "ež. Pirtukas",
+                  "text": "Lake Pirtukas in Veisiejai is a tranquil water body, ideal for a short rest in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.645986,
+                        54.159757
+                  ]
+            },
+            {
+                  "name": "ež. Bludelis",
+                  "text": "Lake Bludelis in Veisiejai is a natural lake that invites visitors to relax.",
+                  "category": "natural",
+                  "coords": [
+                        23.659263,
+                        54.080274
+                  ]
+            },
+            {
+                  "name": "ež. Mekšrinė",
+                  "text": "Lake Mekšrinė in Veisiejai offers a peaceful backdrop for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.720077,
+                        54.080518
+                  ]
+            },
+            {
+                  "name": "ež. Melešiškės",
+                  "text": "Lake Melešiškės in Veisiejai is a quiet water body, ideal for restful moments.",
+                  "category": "natural",
+                  "coords": [
+                        23.592694,
+                        54.091005
+                  ]
+            },
+            {
+                  "name": "Aradninkų ež.",
+                  "text": "Lake Aradninkų in Veisiejai is surrounded by forests and offers a very quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        23.595174,
+                        54.076439
+                  ]
+            },
+            {
+                  "name": "ež. Liūbelis",
+                  "text": "Lake Liūbelis in Veisiejai invites visitors for relaxed walks in a peaceful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.638977,
+                        54.143722
+                  ]
+            },
+            {
+                  "name": "ež. Šikinežeris",
+                  "text": "Lake Šikinežeris in Veisiejai is a tranquil water body, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.621322,
+                        54.111246
+                  ]
+            },
+            {
+                  "name": "Kanaukų ež.",
+                  "text": "Lake Kanaukų in Veisiejai offers a quiet backdrop for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.630636,
+                        54.155687
+                  ]
+            },
+            {
+                  "name": "ež. Bliūdelis",
+                  "text": "Lake Bliūdelis in Veisiejai is a small, peaceful water body in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.647344,
+                        54.133062
+                  ]
+            },
+            {
+                  "name": "ež. Vilkinys",
+                  "text": "Lake Vilkinys in Veisiejai is known for its natural beauty and clear air.",
+                  "category": "natural",
+                  "coords": [
+                        23.783422,
+                        54.047919
+                  ]
+            },
+            {
+                  "name": "ež. Snaigynas",
+                  "text": "Lake Snaigynas in Veisiejai is a popular destination for hikers and those seeking tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        23.735734,
+                        54.090142
+                  ]
+            },
+            {
+                  "name": "ež. Veisiejis",
+                  "text": "Lake Veisiejis in Veisiejai offers wide water surfaces and a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.614593,
+                        54.050244
+                  ]
+            },
+            {
+                  "name": "ež. Ančia",
+                  "text": "Lake Ančia in Veisiejai is a large, branched water body, ideal for leisure activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.682376,
+                        54.067898
+                  ]
+            },
+            {
+                  "name": "ež. Vilkas",
+                  "text": "Lake Vilkas in Veisiejai offers a quiet atmosphere for relaxed hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.807031,
+                        54.125999
+                  ]
+            },
+            {
+                  "name": "ež. Galstas",
+                  "text": "Lake Galstas in Veisiejai is a scenic lake well-suited for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.57064,
+                        54.153404
+                  ]
+            },
+            {
+                  "name": "ež. Trikojis",
+                  "text": "Lake Trikojis in Veisiejai invites visitors for restful moments in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        23.76106,
+                        54.068164
+                  ]
+            },
+            {
+                  "name": "ež. Veprynas",
+                  "text": "A scenic lake in Veisiejai, perfect for a relaxing walk and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.757173,
+                        54.055897
+                  ]
+            },
+            {
+                  "name": "ež. Vilkaitis",
+                  "text": "A quiet lake in Veisiejai, offering a beautiful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.779133,
+                        54.071066
+                  ]
+            },
+            {
+                  "name": "ež. Balsis",
+                  "text": "A beautiful lake in Veisiejai, ideal for hiking and relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.659254,
+                        54.142403
+                  ]
+            },
+            {
+                  "name": "ež. Šlavantas",
+                  "text": "A natural lake in Veisiejai, inviting quiet walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.646423,
+                        54.145054
+                  ]
+            },
+            {
+                  "name": "Vainežeris",
+                  "text": "A peaceful lake in Veisiejai, nestled in a scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.670952,
+                        54.075243
+                  ]
+            },
+            {
+                  "name": "ež. Naudoris",
+                  "text": "A small lake in Veisiejai, ideal for nature observation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.603217,
+                        54.083352
                   ]
             }
       ]
@@ -21099,6 +41340,24 @@ imageHint: "Lazdijai border crossing and church",
                         24.717464,
                         55.76922
                   ]
+            },
+            {
+                  "name": "Stirniškių tv.",
+                  "text": "Ein ruhiger Stausee in Subacius, ideal für eine kurze Rast.",
+                  "category": "natural",
+                  "coords": [
+                        24.863387,
+                        55.776434
+                  ]
+            },
+            {
+                  "name": "ež. Marnaka",
+                  "text": "Ein kleiner See in Subacius, der eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.67263,
+                        55.807362
+                  ]
             }
       ],
       "hu": [
@@ -21118,6 +41377,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.717464,
                         55.76922
+                  ]
+            },
+            {
+                  "name": "Stirniškių tv.",
+                  "text": "Csendes víztározó Subacius területén, ideális egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        24.863387,
+                        55.776434
+                  ]
+            },
+            {
+                  "name": "ež. Marnaka",
+                  "text": "Kicsi tó Subacius területén, amely békés környezetet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        24.67263,
+                        55.807362
                   ]
             }
       ],
@@ -21139,6 +41416,24 @@ imageHint: "Lazdijai border crossing and church",
                         24.717464,
                         55.76922
                   ]
+            },
+            {
+                  "name": "Stirniškių tv.",
+                  "text": "Un lac de acumulare liniștit în Subacius, ideal pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        24.863387,
+                        55.776434
+                  ]
+            },
+            {
+                  "name": "ež. Marnaka",
+                  "text": "Un lac mic în Subacius, oferind un mediu pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        24.67263,
+                        55.807362
+                  ]
             }
       ],
       "en": [
@@ -21158,6 +41453,24 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.717464,
                         55.76922
+                  ]
+            },
+            {
+                  "name": "Stirniškių tv.",
+                  "text": "A quiet reservoir in Subacius, ideal for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        24.863387,
+                        55.776434
+                  ]
+            },
+            {
+                  "name": "ež. Marnaka",
+                  "text": "A small lake in Subacius, providing a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.67263,
+                        55.807362
                   ]
             }
       ]
@@ -21206,7 +41519,916 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-subacius-cities-v2.webp",
   },
   {
-    id: "lithuania-obeliai-cities-v2",
+    id: "lithuania-obeliai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ež. Audrelis",
+                  "text": "Der See Audrelis in Obeliai bietet eine friedliche Kulisse für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        25.681504,
+                        55.940187
+                  ]
+            },
+            {
+                  "name": "Kubiliškio ež.",
+                  "text": "Der See von Kubiliškis bei Obeliai ist ein stilles Gewässer in grüner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.904453,
+                        55.940024
+                  ]
+            },
+            {
+                  "name": "ež. Kriaunelis",
+                  "text": "Der Kriaunelis-See in Obeliai lädt zur Erholung in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.898604,
+                        55.966474
+                  ]
+            },
+            {
+                  "name": "ež. Dumblinis",
+                  "text": "Der See Dumblinis in Obeliai besticht durch seine ruhige und naturnahe Lage.",
+                  "category": "natural",
+                  "coords": [
+                        25.900966,
+                        55.976283
+                  ]
+            },
+            {
+                  "name": "Pakriaunių tv.",
+                  "text": "Das Pakriauniai-Reservoir in Obeliai bietet eine angenehme Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.870856,
+                        55.97337
+                  ]
+            },
+            {
+                  "name": "Skemų I tv.",
+                  "text": "Das Reservoir Skemų I in Obeliai ist ein Ziel für die lokale Naherholung.",
+                  "category": "natural",
+                  "coords": [
+                        25.710058,
+                        55.97647
+                  ]
+            },
+            {
+                  "name": "Skemų II tv.",
+                  "text": "Das Reservoir Skemų II in Obeliai lädt zu entspannten Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.704231,
+                        55.977167
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Der See ež. Baltys in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.798862,
+                        55.914887
+                  ]
+            },
+            {
+                  "name": "Ažubalių ež.",
+                  "text": "Der See Ažubalių ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.759557,
+                        55.895879
+                  ]
+            },
+            {
+                  "name": "Skaistinės ež.",
+                  "text": "Der See Skaistinės ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.780316,
+                        55.967372
+                  ]
+            },
+            {
+                  "name": "Obelių ež.",
+                  "text": "Der See Obelių ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.788909,
+                        55.938632
+                  ]
+            },
+            {
+                  "name": "ež. Sulpys",
+                  "text": "Der See ež. Sulpys in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.895514,
+                        55.932591
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinis",
+                  "text": "Der See ež. Dėlinis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.888693,
+                        55.914192
+                  ]
+            },
+            {
+                  "name": "ež. Kukninis",
+                  "text": "Der See ež. Kukninis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.893501,
+                        55.924887
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio tv.",
+                  "text": "Der See Ratuokliškio tv. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.860017,
+                        55.880121
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio ež.",
+                  "text": "Der See Ratuokliškio ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.862109,
+                        55.878434
+                  ]
+            },
+            {
+                  "name": "ež. Juknas",
+                  "text": "Der See ež. Juknas in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.761785,
+                        55.903718
+                  ]
+            },
+            {
+                  "name": "ež. Ožiškis",
+                  "text": "Der See ež. Ožiškis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.75804,
+                        55.880703
+                  ]
+            },
+            {
+                  "name": "Dručkų ež.",
+                  "text": "Der See Dručkų ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.900035,
+                        55.949212
+                  ]
+            },
+            {
+                  "name": "Pokenės ež.",
+                  "text": "Der See Pokenės ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.767908,
+                        55.873788
+                  ]
+            },
+            {
+                  "name": "ež. Kuojinis",
+                  "text": "Der See ež. Kuojinis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.908251,
+                        55.896775
+                  ]
+            },
+            {
+                  "name": "ež. Kryžinis",
+                  "text": "Der See ež. Kryžinis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.890981,
+                        55.917727
+                  ]
+            },
+            {
+                  "name": "ež. Padvarinis",
+                  "text": "Der See ež. Padvarinis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.908673,
+                        55.914778
+                  ]
+            },
+            {
+                  "name": "ež. Miškinis",
+                  "text": "Der See ež. Miškinis in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.907913,
+                        55.923547
+                  ]
+            },
+            {
+                  "name": "Apeikiškio ež.",
+                  "text": "Der See Apeikiškio ež. in Obeliai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.881955,
+                        55.894129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ež. Audrelis",
+                  "text": "Az Audrelis-tó Obeliai vidékén békés környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.681504,
+                        55.940187
+                  ]
+            },
+            {
+                  "name": "Kubiliškio ež.",
+                  "text": "Az Obeliai melletti Kubiliškio-tó egy csendes állóvíz zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.904453,
+                        55.940024
+                  ]
+            },
+            {
+                  "name": "ež. Kriaunelis",
+                  "text": "A Kriaunelis-tó Obeliai területén természeti kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.898604,
+                        55.966474
+                  ]
+            },
+            {
+                  "name": "ež. Dumblinis",
+                  "text": "Az Obeliai melletti Dumblinis-tó nyugodt és természetközeli fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        25.900966,
+                        55.976283
+                  ]
+            },
+            {
+                  "name": "Pakriaunių tv.",
+                  "text": "A Pakriaunių-víztározó Obeliai környékén kellemes hangulatot áraszt a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        25.870856,
+                        55.97337
+                  ]
+            },
+            {
+                  "name": "Skemų I tv.",
+                  "text": "A Skemų I-víztározó Obeliai területén a helyi pihenés egyik célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        25.710058,
+                        55.97647
+                  ]
+            },
+            {
+                  "name": "Skemų II tv.",
+                  "text": "A Skemų II-víztározó Obeliai vidékén pihentető pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        25.704231,
+                        55.977167
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "A(z) ež. Baltys tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.798862,
+                        55.914887
+                  ]
+            },
+            {
+                  "name": "Ažubalių ež.",
+                  "text": "A(z) Ažubalių ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.759557,
+                        55.895879
+                  ]
+            },
+            {
+                  "name": "Skaistinės ež.",
+                  "text": "A(z) Skaistinės ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.780316,
+                        55.967372
+                  ]
+            },
+            {
+                  "name": "Obelių ež.",
+                  "text": "A(z) Obelių ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.788909,
+                        55.938632
+                  ]
+            },
+            {
+                  "name": "ež. Sulpys",
+                  "text": "A(z) ež. Sulpys tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.895514,
+                        55.932591
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinis",
+                  "text": "A(z) ež. Dėlinis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.888693,
+                        55.914192
+                  ]
+            },
+            {
+                  "name": "ež. Kukninis",
+                  "text": "A(z) ež. Kukninis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.893501,
+                        55.924887
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio tv.",
+                  "text": "A(z) Ratuokliškio tv. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.860017,
+                        55.880121
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio ež.",
+                  "text": "A(z) Ratuokliškio ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.862109,
+                        55.878434
+                  ]
+            },
+            {
+                  "name": "ež. Juknas",
+                  "text": "A(z) ež. Juknas tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.761785,
+                        55.903718
+                  ]
+            },
+            {
+                  "name": "ež. Ožiškis",
+                  "text": "A(z) ež. Ožiškis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.75804,
+                        55.880703
+                  ]
+            },
+            {
+                  "name": "Dručkų ež.",
+                  "text": "A(z) Dručkų ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.900035,
+                        55.949212
+                  ]
+            },
+            {
+                  "name": "Pokenės ež.",
+                  "text": "A(z) Pokenės ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.767908,
+                        55.873788
+                  ]
+            },
+            {
+                  "name": "ež. Kuojinis",
+                  "text": "A(z) ež. Kuojinis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.908251,
+                        55.896775
+                  ]
+            },
+            {
+                  "name": "ež. Kryžinis",
+                  "text": "A(z) ež. Kryžinis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.890981,
+                        55.917727
+                  ]
+            },
+            {
+                  "name": "ež. Padvarinis",
+                  "text": "A(z) ež. Padvarinis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.908673,
+                        55.914778
+                  ]
+            },
+            {
+                  "name": "ež. Miškinis",
+                  "text": "A(z) ež. Miškinis tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.907913,
+                        55.923547
+                  ]
+            },
+            {
+                  "name": "Apeikiškio ež.",
+                  "text": "A(z) Apeikiškio ež. tó Obeliai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.881955,
+                        55.894129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ež. Audrelis",
+                  "text": "Lacul Audrelis din Obeliai oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        25.681504,
+                        55.940187
+                  ]
+            },
+            {
+                  "name": "Kubiliškio ež.",
+                  "text": "Lacul Kubiliškio de lângă Obeliai este o apă liniștită într-un cadru verde.",
+                  "category": "natural",
+                  "coords": [
+                        25.904453,
+                        55.940024
+                  ]
+            },
+            {
+                  "name": "ež. Kriaunelis",
+                  "text": "Lacul Kriaunelis din Obeliai invită la recreere în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.898604,
+                        55.966474
+                  ]
+            },
+            {
+                  "name": "ež. Dumblinis",
+                  "text": "Lacul Dumblinis din Obeliai se remarcă prin locația sa liniștită și naturală.",
+                  "category": "natural",
+                  "coords": [
+                        25.900966,
+                        55.976283
+                  ]
+            },
+            {
+                  "name": "Pakriaunių tv.",
+                  "text": "Rezervorul Pakriaunių din Obeliai oferă o atmosferă plăcută la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.870856,
+                        55.97337
+                  ]
+            },
+            {
+                  "name": "Skemų I tv.",
+                  "text": "Rezervorul Skemų I din Obeliai este o destinație pentru recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        25.710058,
+                        55.97647
+                  ]
+            },
+            {
+                  "name": "Skemų II tv.",
+                  "text": "Rezervorul Skemų II din Obeliai invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.704231,
+                        55.977167
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "Lacul ež. Baltys din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.798862,
+                        55.914887
+                  ]
+            },
+            {
+                  "name": "Ažubalių ež.",
+                  "text": "Lacul Ažubalių ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.759557,
+                        55.895879
+                  ]
+            },
+            {
+                  "name": "Skaistinės ež.",
+                  "text": "Lacul Skaistinės ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.780316,
+                        55.967372
+                  ]
+            },
+            {
+                  "name": "Obelių ež.",
+                  "text": "Lacul Obelių ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.788909,
+                        55.938632
+                  ]
+            },
+            {
+                  "name": "ež. Sulpys",
+                  "text": "Lacul ež. Sulpys din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.895514,
+                        55.932591
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinis",
+                  "text": "Lacul ež. Dėlinis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.888693,
+                        55.914192
+                  ]
+            },
+            {
+                  "name": "ež. Kukninis",
+                  "text": "Lacul ež. Kukninis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.893501,
+                        55.924887
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio tv.",
+                  "text": "Lacul Ratuokliškio tv. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.860017,
+                        55.880121
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio ež.",
+                  "text": "Lacul Ratuokliškio ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.862109,
+                        55.878434
+                  ]
+            },
+            {
+                  "name": "ež. Juknas",
+                  "text": "Lacul ež. Juknas din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.761785,
+                        55.903718
+                  ]
+            },
+            {
+                  "name": "ež. Ožiškis",
+                  "text": "Lacul ež. Ožiškis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.75804,
+                        55.880703
+                  ]
+            },
+            {
+                  "name": "Dručkų ež.",
+                  "text": "Lacul Dručkų ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.900035,
+                        55.949212
+                  ]
+            },
+            {
+                  "name": "Pokenės ež.",
+                  "text": "Lacul Pokenės ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.767908,
+                        55.873788
+                  ]
+            },
+            {
+                  "name": "ež. Kuojinis",
+                  "text": "Lacul ež. Kuojinis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.908251,
+                        55.896775
+                  ]
+            },
+            {
+                  "name": "ež. Kryžinis",
+                  "text": "Lacul ež. Kryžinis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.890981,
+                        55.917727
+                  ]
+            },
+            {
+                  "name": "ež. Padvarinis",
+                  "text": "Lacul ež. Padvarinis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.908673,
+                        55.914778
+                  ]
+            },
+            {
+                  "name": "ež. Miškinis",
+                  "text": "Lacul ež. Miškinis din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.907913,
+                        55.923547
+                  ]
+            },
+            {
+                  "name": "Apeikiškio ež.",
+                  "text": "Lacul Apeikiškio ež. din Obeliai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.881955,
+                        55.894129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ež. Audrelis",
+                  "text": "Audrelis Lake in Obeliai offers a peaceful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.681504,
+                        55.940187
+                  ]
+            },
+            {
+                  "name": "Kubiliškio ež.",
+                  "text": "Kubiliškis Lake near Obeliai is a quiet body of water in green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.904453,
+                        55.940024
+                  ]
+            },
+            {
+                  "name": "ež. Kriaunelis",
+                  "text": "Kriaunelis Lake in Obeliai invites visitors to recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.898604,
+                        55.966474
+                  ]
+            },
+            {
+                  "name": "ež. Dumblinis",
+                  "text": "Dumblinis Lake in Obeliai is characterized by its quiet and natural location.",
+                  "category": "natural",
+                  "coords": [
+                        25.900966,
+                        55.976283
+                  ]
+            },
+            {
+                  "name": "Pakriaunių tv.",
+                  "text": "Pakriaunių reservoir in Obeliai offers a pleasant atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.870856,
+                        55.97337
+                  ]
+            },
+            {
+                  "name": "Skemų I tv.",
+                  "text": "Skemų I reservoir in Obeliai is a destination for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.710058,
+                        55.97647
+                  ]
+            },
+            {
+                  "name": "Skemų II tv.",
+                  "text": "Skemų II reservoir in Obeliai invites visitors to relaxed moments on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.704231,
+                        55.977167
+                  ]
+            },
+            {
+                  "name": "ež. Baltys",
+                  "text": "ež. Baltys is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.798862,
+                        55.914887
+                  ]
+            },
+            {
+                  "name": "Ažubalių ež.",
+                  "text": "Ažubalių ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.759557,
+                        55.895879
+                  ]
+            },
+            {
+                  "name": "Skaistinės ež.",
+                  "text": "Skaistinės ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.780316,
+                        55.967372
+                  ]
+            },
+            {
+                  "name": "Obelių ež.",
+                  "text": "Obelių ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.788909,
+                        55.938632
+                  ]
+            },
+            {
+                  "name": "ež. Sulpys",
+                  "text": "ež. Sulpys is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.895514,
+                        55.932591
+                  ]
+            },
+            {
+                  "name": "ež. Dėlinis",
+                  "text": "ež. Dėlinis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.888693,
+                        55.914192
+                  ]
+            },
+            {
+                  "name": "ež. Kukninis",
+                  "text": "ež. Kukninis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.893501,
+                        55.924887
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio tv.",
+                  "text": "Ratuokliškio tv. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.860017,
+                        55.880121
+                  ]
+            },
+            {
+                  "name": "Ratuokliškio ež.",
+                  "text": "Ratuokliškio ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.862109,
+                        55.878434
+                  ]
+            },
+            {
+                  "name": "ež. Juknas",
+                  "text": "ež. Juknas is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.761785,
+                        55.903718
+                  ]
+            },
+            {
+                  "name": "ež. Ožiškis",
+                  "text": "ež. Ožiškis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.75804,
+                        55.880703
+                  ]
+            },
+            {
+                  "name": "Dručkų ež.",
+                  "text": "Dručkų ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.900035,
+                        55.949212
+                  ]
+            },
+            {
+                  "name": "Pokenės ež.",
+                  "text": "Pokenės ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.767908,
+                        55.873788
+                  ]
+            },
+            {
+                  "name": "ež. Kuojinis",
+                  "text": "ež. Kuojinis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.908251,
+                        55.896775
+                  ]
+            },
+            {
+                  "name": "ež. Kryžinis",
+                  "text": "ež. Kryžinis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.890981,
+                        55.917727
+                  ]
+            },
+            {
+                  "name": "ež. Padvarinis",
+                  "text": "ež. Padvarinis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.908673,
+                        55.914778
+                  ]
+            },
+            {
+                  "name": "ež. Miškinis",
+                  "text": "ež. Miškinis is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.907913,
+                        55.923547
+                  ]
+            },
+            {
+                  "name": "Apeikiškio ež.",
+                  "text": "Apeikiškio ež. is a lake in Obeliai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.881955,
+                        55.894129
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Obeliai", hu: "Obeliai", ro: "Obeliai", en: "Obeliai" },
@@ -21324,6 +42546,60 @@ imageHint: "Lazdijai border crossing and church",
                         24.097743,
                         55.545798
                   ]
+            },
+            {
+                  "name": "Pašilių ež.",
+                  "text": "Ein ruhiger See in Krekenava, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.221203,
+                        55.502593
+                  ]
+            },
+            {
+                  "name": "Valmoniškių tv.",
+                  "text": "Ein lokaler See in Krekenava, der eine friedliche Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.092678,
+                        55.557697
+                  ]
+            },
+            {
+                  "name": "ež. Glitėnas",
+                  "text": "Ein malerischer See in Krekenava, ideal zum Entspannen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.03156,
+                        55.570322
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Ein kleiner, ruhiger See in Krekenava, umgeben von natürlicher Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        24.057956,
+                        55.47824
+                  ]
+            },
+            {
+                  "name": "Krekenavos tv.",
+                  "text": "Ein friedlicher See in Krekenava, perfekt für einen kurzen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.099103,
+                        55.553692
+                  ]
+            },
+            {
+                  "name": "ež. Lieležeris",
+                  "text": "Ein schöner See in Krekenava, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.22828,
+                        55.512383
+                  ]
             }
       ],
       "hu": [
@@ -21397,6 +42673,60 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.097743,
                         55.545798
+                  ]
+            },
+            {
+                  "name": "Pašilių ež.",
+                  "text": "Csendes tó Krekenava területén, amely alkalmas természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.221203,
+                        55.502593
+                  ]
+            },
+            {
+                  "name": "Valmoniškių tv.",
+                  "text": "Helyi tó Krekenava városában, amely békés környezetet nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.092678,
+                        55.557697
+                  ]
+            },
+            {
+                  "name": "ež. Glitėnas",
+                  "text": "Festői tó Krekenava területén, amely ideális a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.03156,
+                        55.570322
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Kicsi, csendes tó Krekenava területén, természeti szépséggel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.057956,
+                        55.47824
+                  ]
+            },
+            {
+                  "name": "Krekenavos tv.",
+                  "text": "Békés tó Krekenava közelében, amely tökéletes egy rövid természetjáró kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.099103,
+                        55.553692
+                  ]
+            },
+            {
+                  "name": "ež. Lieležeris",
+                  "text": "Szép tó Krekenava területén, amely vízparti kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        24.22828,
+                        55.512383
                   ]
             }
       ],
@@ -21472,6 +42802,60 @@ imageHint: "Lazdijai border crossing and church",
                         24.097743,
                         55.545798
                   ]
+            },
+            {
+                  "name": "Pašilių ež.",
+                  "text": "Un lac liniștit în Krekenava, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.221203,
+                        55.502593
+                  ]
+            },
+            {
+                  "name": "Valmoniškių tv.",
+                  "text": "Un lac local în Krekenava, oferind un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        24.092678,
+                        55.557697
+                  ]
+            },
+            {
+                  "name": "ež. Glitėnas",
+                  "text": "Un lac pitoresc în Krekenava, ideal pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.03156,
+                        55.570322
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Un lac mic și liniștit în Krekenava, înconjurat de frumusețe naturală.",
+                  "category": "natural",
+                  "coords": [
+                        24.057956,
+                        55.47824
+                  ]
+            },
+            {
+                  "name": "Krekenavos tv.",
+                  "text": "Un lac liniștit în Krekenava, perfect pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.099103,
+                        55.553692
+                  ]
+            },
+            {
+                  "name": "ež. Lieležeris",
+                  "text": "Un lac frumos în Krekenava, care invită la recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.22828,
+                        55.512383
+                  ]
             }
       ],
       "en": [
@@ -21545,6 +42929,60 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.097743,
                         55.545798
+                  ]
+            },
+            {
+                  "name": "Pašilių ež.",
+                  "text": "A quiet lake in Krekenava, well-suited for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.221203,
+                        55.502593
+                  ]
+            },
+            {
+                  "name": "Valmoniškių tv.",
+                  "text": "A local lake in Krekenava, offering a peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        24.092678,
+                        55.557697
+                  ]
+            },
+            {
+                  "name": "ež. Glitėnas",
+                  "text": "A scenic lake in Krekenava, ideal for relaxing outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.03156,
+                        55.570322
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A small, quiet lake in Krekenava, surrounded by natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        24.057956,
+                        55.47824
+                  ]
+            },
+            {
+                  "name": "Krekenavos tv.",
+                  "text": "A peaceful lake in Krekenava, perfect for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.099103,
+                        55.553692
+                  ]
+            },
+            {
+                  "name": "ež. Lieležeris",
+                  "text": "A lovely lake in Krekenava, inviting recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.22828,
+                        55.512383
                   ]
             }
       ]

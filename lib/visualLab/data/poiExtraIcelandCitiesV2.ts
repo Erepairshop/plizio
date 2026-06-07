@@ -2260,6 +2260,159 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.886374,
                         64.107817
                   ]
+            },
+            {
+                  "name": "Miðvarartjörn",
+                  "text": "Miðvarartjörn ist ein See in Kopavogur, der eine schöne Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -21.915238,
+                        64.169542
+                  ]
+            },
+            {
+                  "name": "Illatjörn",
+                  "text": "Illatjörn ist ein See in Kopavogur, ideal für einen ruhigen Moment in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -21.909867,
+                        64.167225
+                  ]
+            },
+            {
+                  "name": "Elliðavatn",
+                  "text": "Elliðavatn ist ein See in Kopavogur, der für seine malerische Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -21.783546,
+                        64.085949
+                  ]
+            },
+            {
+                  "name": "Urriðavatn",
+                  "text": "Urriðavatn ist ein See in Kopavogur, der zu einem erholsamen Aufenthalt am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -21.914329,
+                        64.068268
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Vífilsstaðavatn ist ein See in Kopavogur, ein schöner Ort für Spaziergänge und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        -21.871644,
+                        64.079132
+                  ]
+            },
+            {
+                  "name": "Helluvatn",
+                  "text": "Helluvatn ist ein See in Kopavogur, der Besuchern eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -21.75796,
+                        64.090145
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Arena ist eine Spielhalle in Kopavogur, die Spaß und Spiele für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -21.879518,
+                        64.102639
+                  ]
+            },
+            {
+                  "name": "Holtsvöllur",
+                  "text": "Holtsvöllur ist ein Spielplatz in Kopavogur, ein toller Ort für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        -21.932295,
+                        64.110764
+                  ]
+            },
+            {
+                  "name": "Lækjavöllur",
+                  "text": "Lækjavöllur ist ein familienfreundlicher Spielplatz in Kopavogur mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -21.887309,
+                        64.105235
+                  ]
+            },
+            {
+                  "name": "Hjallavöllur",
+                  "text": "Hjallavöllur ist ein Spielplatz in Kopavogur, der Kindern eine sichere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -21.86158,
+                        64.110088
+                  ]
+            },
+            {
+                  "name": "Hvammsvöllur",
+                  "text": "Hvammsvöllur ist ein Spielplatz in Kopavogur, der zu Spiel und Spaß im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -21.859857,
+                        64.096465
+                  ]
+            },
+            {
+                  "name": "Aparóló",
+                  "text": "Aparóló ist ein Spielplatz in Kopavogur, ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -21.898831,
+                        64.100723
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Engjasmára",
+                  "text": "Leikvöllurinn Engjasmára ist ein Spielplatz in Kopavogur, der vielfältigen Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        -21.894984,
+                        64.099524
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Fitjasmára",
+                  "text": "Leikvöllurinn Fitjasmára ist ein moderner Spielplatz in Kopavogur für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -21.892695,
+                        64.098845
+                  ]
+            },
+            {
+                  "name": "Leiksvæðið við Hjalla",
+                  "text": "Leiksvæðið við Hjalla ist ein Spielplatz in Kopavogur, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -21.87875,
+                        64.106551
+                  ]
+            },
+            {
+                  "name": "Asparlundur",
+                  "text": "Asparlundur ist ein Spielplatz in Kopavogur, ideal für einen aktiven Nachmittag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -21.881639,
+                        64.116922
+                  ]
+            },
+            {
+                  "name": "Heilsuhringur",
+                  "text": "Heilsuhringur ist ein Spielplatz in Kopavogur, der Bewegung und Spaß an der frischen Luft fördert.",
+                  "category": "family",
+                  "coords": [
+                        -21.910931,
+                        64.106555
+                  ]
             }
       ],
       "hu": [
@@ -2513,6 +2666,159 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.886374,
                         64.107817
+                  ]
+            },
+            {
+                  "name": "Miðvarartjörn",
+                  "text": "A Miðvarartjörn egy tó Kopavogurban, amely szép hátteret biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -21.915238,
+                        64.169542
+                  ]
+            },
+            {
+                  "name": "Illatjörn",
+                  "text": "Az Illatjörn egy tó Kopavogurban, ideális egy nyugodt pillanathoz a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        -21.909867,
+                        64.167225
+                  ]
+            },
+            {
+                  "name": "Elliðavatn",
+                  "text": "Az Elliðavatn egy tó Kopavogurban, amely festői tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -21.783546,
+                        64.085949
+                  ]
+            },
+            {
+                  "name": "Urriðavatn",
+                  "text": "Az Urriðavatn egy tó Kopavogurban, amely pihentető időtöltésre invitál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -21.914329,
+                        64.068268
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "A Vífilsstaðavatn egy tó Kopavogurban, szép helyszín sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -21.871644,
+                        64.079132
+                  ]
+            },
+            {
+                  "name": "Helluvatn",
+                  "text": "A Helluvatn egy tó Kopavogurban, amely békés légkört kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -21.75796,
+                        64.090145
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Az Arena egy játékterem Kopavogurban, amely szórakozást és játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -21.879518,
+                        64.102639
+                  ]
+            },
+            {
+                  "name": "Holtsvöllur",
+                  "text": "A Holtsvöllur egy játszótér Kopavogurban, remek hely a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -21.932295,
+                        64.110764
+                  ]
+            },
+            {
+                  "name": "Lækjavöllur",
+                  "text": "A Lækjavöllur egy családbarát játszótér Kopavogurban, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -21.887309,
+                        64.105235
+                  ]
+            },
+            {
+                  "name": "Hjallavöllur",
+                  "text": "A Hjallavöllur egy játszótér Kopavogurban, amely biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -21.86158,
+                        64.110088
+                  ]
+            },
+            {
+                  "name": "Hvammsvöllur",
+                  "text": "A Hvammsvöllur egy játszótér Kopavogurban, amely szabadtéri játékra és szórakozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        -21.859857,
+                        64.096465
+                  ]
+            },
+            {
+                  "name": "Aparóló",
+                  "text": "Az Aparóló egy játszótér Kopavogurban, a kisgyermekes családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        -21.898831,
+                        64.100723
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Engjasmára",
+                  "text": "A Leikvöllurinn Engjasmára egy játszótér Kopavogurban, amely változatos játékélményt kínál.",
+                  "category": "family",
+                  "coords": [
+                        -21.894984,
+                        64.099524
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Fitjasmára",
+                  "text": "A Leikvöllurinn Fitjasmára egy modern játszótér Kopavogurban minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -21.892695,
+                        64.098845
+                  ]
+            },
+            {
+                  "name": "Leiksvæðið við Hjalla",
+                  "text": "A Leiksvæðið við Hjalla egy játszótér Kopavogurban, amely sok örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -21.87875,
+                        64.106551
+                  ]
+            },
+            {
+                  "name": "Asparlundur",
+                  "text": "Az Asparlundur egy játszótér Kopavogurban, ideális egy aktív délutánhoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        -21.881639,
+                        64.116922
+                  ]
+            },
+            {
+                  "name": "Heilsuhringur",
+                  "text": "A Heilsuhringur egy játszótér Kopavogurban, amely elősegíti a mozgást és a szórakozást a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        -21.910931,
+                        64.106555
                   ]
             }
       ],
@@ -2768,6 +3074,159 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.886374,
                         64.107817
                   ]
+            },
+            {
+                  "name": "Miðvarartjörn",
+                  "text": "Miðvarartjörn este un lac din Kopavogur, oferind un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -21.915238,
+                        64.169542
+                  ]
+            },
+            {
+                  "name": "Illatjörn",
+                  "text": "Illatjörn este un lac din Kopavogur, ideal pentru un moment de liniște în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        -21.909867,
+                        64.167225
+                  ]
+            },
+            {
+                  "name": "Elliðavatn",
+                  "text": "Elliðavatn este un lac din Kopavogur, cunoscut pentru peisajul său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -21.783546,
+                        64.085949
+                  ]
+            },
+            {
+                  "name": "Urriðavatn",
+                  "text": "Urriðavatn este un lac din Kopavogur, care invită la o ședere relaxantă la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -21.914329,
+                        64.068268
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Vífilsstaðavatn este un lac din Kopavogur, un loc frumos pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -21.871644,
+                        64.079132
+                  ]
+            },
+            {
+                  "name": "Helluvatn",
+                  "text": "Helluvatn este un lac din Kopavogur, oferind vizitatorilor o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -21.75796,
+                        64.090145
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Arena este o sală de jocuri din Kopavogur, oferind distracție și jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -21.879518,
+                        64.102639
+                  ]
+            },
+            {
+                  "name": "Holtsvöllur",
+                  "text": "Holtsvöllur este un teren de joacă din Kopavogur, un loc minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -21.932295,
+                        64.110764
+                  ]
+            },
+            {
+                  "name": "Lækjavöllur",
+                  "text": "Lækjavöllur este un teren de joacă pentru familii din Kopavogur, cu diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -21.887309,
+                        64.105235
+                  ]
+            },
+            {
+                  "name": "Hjallavöllur",
+                  "text": "Hjallavöllur este un teren de joacă din Kopavogur, oferind copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -21.86158,
+                        64.110088
+                  ]
+            },
+            {
+                  "name": "Hvammsvöllur",
+                  "text": "Hvammsvöllur este un teren de joacă din Kopavogur, invitând la joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -21.859857,
+                        64.096465
+                  ]
+            },
+            {
+                  "name": "Aparóló",
+                  "text": "Aparóló este un teren de joacă din Kopavogur, un loc de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -21.898831,
+                        64.100723
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Engjasmára",
+                  "text": "Leikvöllurinn Engjasmára este un teren de joacă din Kopavogur, oferind distracție variată.",
+                  "category": "family",
+                  "coords": [
+                        -21.894984,
+                        64.099524
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Fitjasmára",
+                  "text": "Leikvöllurinn Fitjasmára este un teren de joacă modern din Kopavogur pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -21.892695,
+                        64.098845
+                  ]
+            },
+            {
+                  "name": "Leiksvæðið við Hjalla",
+                  "text": "Leiksvæðið við Hjalla este un teren de joacă din Kopavogur, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -21.87875,
+                        64.106551
+                  ]
+            },
+            {
+                  "name": "Asparlundur",
+                  "text": "Asparlundur este un teren de joacă din Kopavogur, ideal pentru o după-amiază activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -21.881639,
+                        64.116922
+                  ]
+            },
+            {
+                  "name": "Heilsuhringur",
+                  "text": "Heilsuhringur este un teren de joacă din Kopavogur, care promovează mișcarea și distracția în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -21.910931,
+                        64.106555
+                  ]
             }
       ],
       "en": [
@@ -3021,6 +3480,159 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.886374,
                         64.107817
+                  ]
+            },
+            {
+                  "name": "Miðvarartjörn",
+                  "text": "Miðvarartjörn is a lake in Kopavogur, providing a beautiful backdrop for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -21.915238,
+                        64.169542
+                  ]
+            },
+            {
+                  "name": "Illatjörn",
+                  "text": "Illatjörn is a lake in Kopavogur, ideal for a quiet moment in the area.",
+                  "category": "natural",
+                  "coords": [
+                        -21.909867,
+                        64.167225
+                  ]
+            },
+            {
+                  "name": "Elliðavatn",
+                  "text": "Elliðavatn is a lake in Kopavogur, known for its scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -21.783546,
+                        64.085949
+                  ]
+            },
+            {
+                  "name": "Urriðavatn",
+                  "text": "Urriðavatn is a lake in Kopavogur, inviting a relaxing stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -21.914329,
+                        64.068268
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Vífilsstaðavatn is a lake in Kopavogur, a beautiful spot for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -21.871644,
+                        64.079132
+                  ]
+            },
+            {
+                  "name": "Helluvatn",
+                  "text": "Helluvatn is a lake in Kopavogur, offering visitors a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -21.75796,
+                        64.090145
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Arena is an amusement arcade in Kopavogur, offering fun and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -21.879518,
+                        64.102639
+                  ]
+            },
+            {
+                  "name": "Holtsvöllur",
+                  "text": "Holtsvöllur is a playground in Kopavogur, a great place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -21.932295,
+                        64.110764
+                  ]
+            },
+            {
+                  "name": "Lækjavöllur",
+                  "text": "Lækjavöllur is a family-friendly playground in Kopavogur with various play options.",
+                  "category": "family",
+                  "coords": [
+                        -21.887309,
+                        64.105235
+                  ]
+            },
+            {
+                  "name": "Hjallavöllur",
+                  "text": "Hjallavöllur is a playground in Kopavogur, offering a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -21.86158,
+                        64.110088
+                  ]
+            },
+            {
+                  "name": "Hvammsvöllur",
+                  "text": "Hvammsvöllur is a playground in Kopavogur, inviting outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        -21.859857,
+                        64.096465
+                  ]
+            },
+            {
+                  "name": "Aparóló",
+                  "text": "Aparóló is a playground in Kopavogur, a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -21.898831,
+                        64.100723
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Engjasmára",
+                  "text": "Leikvöllurinn Engjasmára is a playground in Kopavogur, offering diverse play fun.",
+                  "category": "family",
+                  "coords": [
+                        -21.894984,
+                        64.099524
+                  ]
+            },
+            {
+                  "name": "Leikvöllurinn Fitjasmára",
+                  "text": "Leikvöllurinn Fitjasmára is a modern playground in Kopavogur for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -21.892695,
+                        64.098845
+                  ]
+            },
+            {
+                  "name": "Leiksvæðið við Hjalla",
+                  "text": "Leiksvæðið við Hjalla is a playground in Kopavogur, bringing much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        -21.87875,
+                        64.106551
+                  ]
+            },
+            {
+                  "name": "Asparlundur",
+                  "text": "Asparlundur is a playground in Kopavogur, ideal for an active afternoon with the family.",
+                  "category": "family",
+                  "coords": [
+                        -21.881639,
+                        64.116922
+                  ]
+            },
+            {
+                  "name": "Heilsuhringur",
+                  "text": "Heilsuhringur is a playground in Kopavogur, promoting movement and fun in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -21.910931,
+                        64.106555
                   ]
             }
       ]

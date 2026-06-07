@@ -471,6 +471,24 @@ export const monacoDistricts: POI[] = [
                         7.404412,
                         43.720018
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Der Larvotto playground in Monaco Ville ist ein moderner Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Dieser Spielplatz Jardin Des Enfants in Monaco Ville bietet Freizeitspaß für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "hu": [
@@ -877,6 +895,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.404412,
                         43.720018
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "A Monaco Ville területén található Larvotto playground egy modern játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A Monaco Ville településen található Jardin Des Enfants játszótér kikapcsolódást nyújt a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ],
@@ -1285,6 +1321,24 @@ export const monacoDistricts: POI[] = [
                         7.404412,
                         43.720018
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground din Monaco Ville este un teren de joacă modern pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Locul de joacă Jardin Des Enfants din Monaco Ville oferă momente de recreere pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "en": [
@@ -1691,6 +1745,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.404412,
                         43.720018
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground in Monaco Ville is a modern playground for families.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "The Jardin Des Enfants playground in Monaco Ville offers recreational fun for families with children.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ]
@@ -2144,6 +2216,24 @@ export const monacoDistricts: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground ist ein Spielplatz in Monte Carlo, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants ist ein Spielplatz in Monte Carlo, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "hu": [
@@ -2550,6 +2640,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "A Larvotto playground egy játszótér Monte Carlo területén, amely szórakozást kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A Jardin Des Enfants egy játszótér Monte Carlo területén, amely szórakozást kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ],
@@ -2958,6 +3066,24 @@ export const monacoDistricts: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground este un teren de joacă în Monte Carlo, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants este un teren de joacă în Monte Carlo, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "en": [
@@ -3364,6 +3490,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Larvotto playground is a playground in Monte Carlo, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "Jardin Des Enfants is a playground in Monte Carlo, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ]
@@ -5488,6 +5632,24 @@ export const monacoDistricts: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Der Larvotto-Spielplatz in La Condamine ist ein beliebtes Ziel für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "In La Condamine bietet der Spielplatz Jardin Des Enfants verschiedene Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "hu": [
@@ -5894,6 +6056,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "A La Condamine városában lévő Larvotto játszótér népszerű úti cél a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "A La Condamine területén fekvő Jardin Des Enfants játszótér különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ],
@@ -6302,6 +6482,24 @@ export const monacoDistricts: POI[] = [
                         7.448012,
                         43.753679
                   ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "Locul de joacă Larvotto din La Condamine este o destinație populară pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "În La Condamine, locul de joacă Jardin Des Enfants oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
+                  ]
             }
       ],
       "en": [
@@ -6708,6 +6906,24 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.448012,
                         43.753679
+                  ]
+            },
+            {
+                  "name": "Larvotto playground",
+                  "text": "The Larvotto playground in La Condamine is a popular destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        7.432512,
+                        43.744796
+                  ]
+            },
+            {
+                  "name": "Jardin Des Enfants",
+                  "text": "In La Condamine, the Jardin Des Enfants playground provides various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        7.431272,
+                        43.748126
                   ]
             }
       ]

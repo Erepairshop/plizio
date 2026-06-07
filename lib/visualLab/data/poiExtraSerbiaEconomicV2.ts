@@ -543,7 +543,88 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-valjevo-industrial-hub-economic-v2.webp",
   },
   {
-    id: "serbia-cacak-trade-center-economic-v2",
+    id: "serbia-cacak-trade-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Парменачко језеро",
+                  "text": "Ein malerischer See bei Cacak, der eine friedliche Umgebung zum Wandern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Рекреативно језеро",
+                  "text": "Ein Erholungssee in der Gegend von Cacak, perfekt für Aktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Парменачко језеро",
+                  "text": "Festői tó Cacak közelében, amely nyugodt környezetet biztosít a sétához és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Рекреативно језеро",
+                  "text": "Szabadidős tó Cacak környékén, amely tökéletes a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Парменачко језеро",
+                  "text": "Un lac pitoresc lângă Čačak, oferind un mediu pașnic pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Рекреативно језеро",
+                  "text": "Un lac recreativ în zona Čačak, perfect pentru activități în aer liber și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Парменачко језеро",
+                  "text": "A scenic lake near Cacak, offering a peaceful environment for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Рекреативно језеро",
+                  "text": "A recreational lake in the Cacak area, perfect for enjoying outdoor activities and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Handelszentrum Čačak", hu: "Csacsaki kereskedelmi központ", ro: "Centrul comercial Čačak", en: "Cacak Trade Center" },
@@ -1867,6 +1948,15 @@ export const serbiaEconomicV2: POI[] = [
                         21.60424,
                         43.237676
                   ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Ein ruhiger See bei Prokuplje, ideal für einen stillen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
             }
       ],
       "hu": [
@@ -1904,6 +1994,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         21.60424,
                         43.237676
+                  ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Csendes tó Prokuplje közelében, amely alkalmas egy nyugodt természetbeli sétára.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
                   ]
             }
       ],
@@ -1943,6 +2042,15 @@ export const serbiaEconomicV2: POI[] = [
                         21.60424,
                         43.237676
                   ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Un lac liniștit situat lângă Prokuplje, potrivit pentru o plimbare calmă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
             }
       ],
       "en": [
@@ -1980,6 +2088,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         21.60424,
                         43.237676
+                  ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "A quiet lake located near Prokuplje, suitable for a calm walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
                   ]
             }
       ]

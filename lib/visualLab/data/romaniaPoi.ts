@@ -8780,6 +8780,15 @@ export const romaniaCities: POI[] = [
                         24.79289,
                         46.21969
                   ]
+            },
+            {
+                  "name": "Adventure Park (Golf)",
+                  "text": "Ein Minigolfplatz in Sighișoara, der ein tolles Erlebnis für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.794182,
+                        46.229721
+                  ]
             }
       ],
       "hu": [
@@ -8881,6 +8890,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.79289,
                         46.21969
+                  ]
+            },
+            {
+                  "name": "Adventure Park (Golf)",
+                  "text": "Egy minigolfpálya Segesváron, amely nagyszerű élményt nyújt családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.794182,
+                        46.229721
                   ]
             }
       ],
@@ -8984,6 +9002,15 @@ export const romaniaCities: POI[] = [
                         24.79289,
                         46.21969
                   ]
+            },
+            {
+                  "name": "Adventure Park (Golf)",
+                  "text": "Un teren de minigolf în Sighișoara, oferind o experiență minunată pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.794182,
+                        46.229721
+                  ]
             }
       ],
       "en": [
@@ -9085,6 +9112,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.79289,
                         46.21969
+                  ]
+            },
+            {
+                  "name": "Adventure Park (Golf)",
+                  "text": "A miniature golf course in Sighisoara, offering a great experience for families.",
+                  "category": "family",
+                  "coords": [
+                        24.794182,
+                        46.229721
                   ]
             }
       ]
@@ -10624,6 +10660,222 @@ export const romaniaCities: POI[] = [
                         26.062926,
                         44.484324
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Der Lacul Morii im Herastrau Park ist ein großer Stausee, der eine weite Aussicht und Wege für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Der Lacul Drumul Taberei im Herastrau Park ist ein zentrales Gewässer, das eine angenehme Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Der Lake Băneasa im Herastrau Park ist ein naturnaher See, der sich ideal für erholsame Stunden im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Der Lacul Chitila im Herastrau Park bietet eine ruhige Atmosphäre für Besucher, die die Natur am Wasser genießen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Der Lacul Străulești im Herastrau Park ist ein lokaler See, der Raum für Spaziergänge und Entspannung im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Das Bazin decantare im Herastrau Park ist ein technisches Gewässer, das Teil der lokalen Wasserlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Das Bazin apa Cotroceni im Herastrau Park ist ein lokales Wasserreservoir in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Der Lacul Grivița im Herastrau Park ist ein malerischer See, der zu ruhigen Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Der Lacul IOR im Herastrau Park ist ein beliebtes Ziel für Freizeitaktivitäten und Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Die Balta Pipera im Herastrau Park ist ein ruhiges Gewässer, das eine natürliche Oase in der Region darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Der Lacul Tineretului im Herastrau Park ist ein schöner See, der in eine weitläufige Grünanlage eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Der Lacul Plumbuita im Herastrau Park bietet eine friedliche Atmosphäre und ist ein Rückzugsort für Naturbeobachter.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lebedelor-See",
+                  "text": "Der Swan Lake im Herastrau Park ist ein kleiner, eleganter See, der zur Entspannung und zum Betrachten der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Der Lacul Dobroești im Herastrau Park ist ein ruhiges Gewässer, das sich gut für Spaziergänge in einer natürlichen Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Lake Fundeni im Herastrau Park bietet eine weite Wasserfläche und Möglichkeiten für Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Das Roata Mare im Herastrau Park ist ein Riesenrad, das Familien eine unterhaltsame Fahrt mit Aussicht bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Die Minigolf-Anlage im Herastrau Park bietet Freizeitspaß für Familien in einer gepflegten Außenanlage.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "Die închirieri biciclete im Herastrau Park bietet Familien die Möglichkeit, den Park aktiv auf zwei Rädern zu erkunden.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "Das Ponei-Reiten im Herastrau Park ist eine beliebte Attraktion für Kinder und bietet ein besonderes Erlebnis für Familien.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Das Bungee Jumping Herăstrău im Herastrau Park bietet spannende Erlebnisse für abenteuerlustige Besucher in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Ambasador Play",
+                  "text": "Ein familienfreundlicher Spielplatz im Herastrau-Park.",
+                  "category": "family",
+                  "coords": [
+                        26.114738,
+                        44.465145
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "Eine Spielhalle für Familienunterhaltung im Herastrau-Park.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Ein lustiger Spielplatz für Kinder im Herastrau-Park.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "Ein Spielplatz im Herastrau-Park, der Spaß im Freien für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
             }
       ],
       "hu": [
@@ -11073,6 +11325,222 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.062926,
                         44.484324
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A Herastrau Park területén található Lacul Morii egy nagy víztározó, amely tágas kilátást és sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "A Herastrau Park városrészben lévő Lacul Drumul Taberei egy központi vízfelület, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "A Herastrau Park területén található Lake Băneasa egy természetközeli tó, amely ideális a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A Herastrau Park környékén lévő Lacul Chitila nyugodt légkört biztosít a vízparti természetet kedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A Herastrau Park területén található Lacul Străulești egy helyi tó, amely teret ad a sétáknak és a zöldövezeti pihenésnek.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A Herastrau Park területén lévő Bazin decantare egy technikai jellegű vízfelület, amely a helyi vízrendszer része.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "A Herastrau Park környékén található Bazin apa Cotroceni egy helyi víztározó nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Herastrau Park területén lévő Lacul Grivița egy festői tó, amely nyugodt pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A Herastrau Park környékén található Lacul IOR népszerű helyszín szabadidős tevékenységekhez és parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Herastrau Park területén található Balta Pipera egy nyugodt vízfelület, amely természetes oázist jelent a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A Herastrau Park környékén lévő Lacul Tineretului egy szép tó, amely egy kiterjedt zöldterületbe ágyazódik.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Herastrau Park területén található Lacul Plumbuita békés légkört kínál, és kedvelt hely a természet megfigyelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "A Herastrau Park területén található Hattyú-tó egy kicsi, elegáns tó, amely pihenésre és nézelődésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A Herastrau Park környékén lévő Lacul Dobroești egy nyugodt tó, amely alkalmas természetes környezetben tett sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Herastrau Park területén található Lake Fundeni tágas vízfelületet és szabadtéri kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "A Herastrau Park területén található Roata Mare egy óriáskerék, amely szórakoztató utazást kínál családoknak szép kilátással.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "A Herastrau Park minigolf pályája szabadtéri szórakozást kínál a családoknak egy gondozott környezetben.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "A Herastrau Park kerékpárkölcsönzője lehetőséget ad a családoknak a park aktív felfedezésére két keréken.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "A Herastrau Park pónilovaglása népszerű attrakció a gyermekek számára, különleges élményt nyújtva a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "A Herastrau Park bungee jumping lehetősége izgalmas élményt kínál a kalandvágyó látogatóknak biztonságos körülmények között.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Ambasador Play",
+                  "text": "Családbarát játszótér a Herastrau parkban.",
+                  "category": "family",
+                  "coords": [
+                        26.114738,
+                        44.465145
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "Családi szórakozást kínáló játékterem a Herastrau parkban.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Vidám játszótér gyerekeknek a Herastrau parkban.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "Játszótér a Herastrau parkban, amely szabadtéri szórakozást kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
                   ]
             }
       ],
@@ -11524,6 +11992,222 @@ export const romaniaCities: POI[] = [
                         26.062926,
                         44.484324
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii din Herastrau Park este un lac de acumulare mare ce oferă perspective largi și alei pentru plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Lacul Drumul Taberei din Herastrau Park este un luciu de apă central ce oferă un cadru plăcut pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Lacul Băneasa din Herastrau Park este un lac apropiat de natură, ideal pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila din Herastrau Park oferă o atmosferă liniștită pentru vizitatorii care doresc să se bucure de natură lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești din Herastrau Park este un lac local ce oferă spațiu pentru plimbări și relaxare în zone verzi.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Bazinul de decantare din Herastrau Park este un luciu de apă cu rol tehnic, parte din peisajul hidrografic local.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazinul de apă Cotroceni din Herastrau Park este un rezervor de apă local situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița din Herastrau Park este un lac pitoresc ce invită la momente liniștite în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR din Herastrau Park este o destinație populară pentru activități recreative și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera din Herastrau Park este un luciu de apă liniștit ce reprezintă o oază naturală în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului din Herastrau Park este un lac frumos, integrat într-o zonă verde extinsă.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita din Herastrau Park oferă o atmosferă pașnică și este un refugiu pentru observatorii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Lacul Lebedelor (Swan Lake) din Herastrau Park este un lac mic și elegant, ce invită la relaxare și contemplare.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești din Herastrau Park este un luciu de apă liniștit, potrivit pentru plimbări într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lacul Fundeni din Herastrau Park oferă o suprafață de apă extinsă și posibilități pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Roata Mare din Herastrau Park este o roată panoramică ce oferă familiilor o cursă distractivă cu vedere asupra parcului.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Terenul de minigolf din Herastrau Park oferă distracție în aer liber pentru familii, într-un cadru bine întreținut.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "Centrul de închirieri biciclete din Herastrau Park oferă familiilor posibilitatea de a explora activ parcul pe două roți.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "Plimbările cu ponei din Herastrau Park sunt o atracție populară pentru copii, oferind o experiență deosebită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Bungee Jumping Herăstrău din Herastrau Park oferă experiențe palpitante pentru vizitatorii dornici de aventură, într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Ambasador Play",
+                  "text": "Un loc de joacă pentru familii situat în Parcul Herăstrău.",
+                  "category": "family",
+                  "coords": [
+                        26.114738,
+                        44.465145
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "O sală de jocuri pentru divertismentul familiei în Parcul Herăstrău.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Un loc de joacă distractiv pentru copii în Parcul Herăstrău.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "Un loc de joacă în Parcul Herăstrău care oferă distracție în aer liber pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
             }
       ],
       "en": [
@@ -11974,6 +12658,222 @@ export const romaniaCities: POI[] = [
                         26.062926,
                         44.484324
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii in Herastrau Park is a large reservoir offering wide views and paths for walking.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Lacul Drumul Taberei in Herastrau Park is a central body of water providing a pleasant setting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "Lake Băneasa in Herastrau Park is a nature-oriented lake, ideal for restful hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila in Herastrau Park offers a quiet atmosphere for visitors looking to enjoy nature by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești in Herastrau Park is a local lake offering space for walks and relaxation in green areas.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Bazin decantare in Herastrau Park is a technical body of water that is part of the local water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni in Herastrau Park is a local water reservoir situated in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița in Herastrau Park is a scenic lake inviting for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR in Herastrau Park is a popular destination for leisure activities and lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera in Herastrau Park is a quiet body of water that serves as a natural oasis in the area.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului in Herastrau Park is a beautiful lake embedded in a vast green area.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita in Herastrau Park offers a peaceful atmosphere and is a haven for nature watchers.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Swan Lake",
+                  "text": "Swan Lake in Herastrau Park is a small, elegant lake inviting for relaxation and viewing the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești in Herastrau Park is a quiet body of water well-suited for walks in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni in Herastrau Park offers a vast water surface and opportunities for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Roata Mare in Herastrau Park is a Ferris wheel offering families a fun ride with scenic views.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "The minigolf course in Herastrau Park provides outdoor fun for families in a well-kept setting.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "The bicycle rental in Herastrau Park offers families the opportunity to actively explore the park on two wheels.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "The pony rides in Herastrau Park are a popular attraction for children, providing a special experience for families.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Bungee Jumping Herăstrău in Herastrau Park offers thrilling experiences for adventurous visitors in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Ambasador Play",
+                  "text": "A family-friendly playground located in Herastrau Park.",
+                  "category": "family",
+                  "coords": [
+                        26.114738,
+                        44.465145
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "An amusement arcade for family entertainment in Herastrau Park.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "A fun playground for children in Herastrau Park.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "A playground in Herastrau Park offering family outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
             }
       ]
 }
@@ -12419,6 +13319,231 @@ export const romaniaCities: POI[] = [
                         26.093286,
                         44.465233
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Ein weitläufiger See, der für Spaziergänge und Erholung am Wasser geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Ein hübscher See in einer Parkanlage, ideal zum Entspannen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Ein bekannter See, der Ruhe und eine schöne natürliche Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Ein See mit ruhigem Wasser, perfekt für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Ein See, der zu ruhigen Momenten und Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Ein funktionales Wasserbecken, das die lokale Szenerie ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Ein Wasserreservoir, das einen interessanten Punkt in der Landschaft bildet.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Ein See, der eine friedliche Umgebung für Freizeitaktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Ein beliebter Ort am Wasser, ideal für Spaziergänge und zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Ein weitläufiger und bekannter See, ideal für vielfältige Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Ein See, der Ruhe ausstrahlt und eine schöne Kulisse für Naturfreunde ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Ein See in einer grünen Umgebung, der ideal für erholsame Pausen ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Der Lacul Plumbuita ist ein See beim Dorfmuseum Dimitrie Gusti, der eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lebedelor-See",
+                  "text": "Der Schwanensee (Lacul Lebedelor) ist ein malerischer See beim Dorfmuseum Dimitrie Gusti.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Der Lacul Dobroești ist ein See beim Dorfmuseum Dimitrie Gusti, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Lake Fundeni ist ein See beim Dorfmuseum Dimitrie Gusti, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Roata Mare ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Dieser Minigolfplatz beim Dorfmuseum Dimitrie Gusti ist ein tolles Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "Der Fahrradverleih beim Dorfmuseum Dimitrie Gusti ermöglicht aktive Familienerlebnisse im Freien.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "Ponei ist ein Spielbereich beim Dorfmuseum Dimitrie Gusti, der speziell auf Kinder ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Bungee Jumping Herăstrău beim Dorfmuseum Dimitrie Gusti bietet spannende Erlebnisse für abenteuerlustige Familien.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "Golf Room ist eine Spielhalle beim Dorfmuseum Dimitrie Gusti, die moderne Unterhaltung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Crazy toboggan ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, ideal zum Austoben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "La Pedale ist ein Spielbereich beim Dorfmuseum Dimitrie Gusti, der zu körperlicher Aktivität einlädt.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
+            },
+            {
+                  "name": "Skatepark 2",
+                  "text": "Skatepark 2 ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, der für Jugendliche und Familien geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        26.080673,
+                        44.479265
+                  ]
             }
       ],
       "hu": [
@@ -12836,6 +13961,231 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.093286,
                         44.465233
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Egy kiterjedt tó, amelyet tóparti sétákért és pihenésért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Egy csinos tó egy park területén, amely ideális a szabadban való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Egy ismert tó, amely nyugalmat és szép természeti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Egy tó nyugodt vízzel, amely tökéletes egy pihentető természetbeni naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Egy tó, amely nyugodt pillanatokra és természetmegfigyelésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Egy funkcionális víztározó, amely kiegészíti a helyi környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Egy víztározó, amely érdekes pontot képez a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Egy tó, amely békés környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Egy népszerű hely a vízparton, amely ideális sétákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Egy kiterjedt és ismert tó, amely ideális a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Egy tó, amely nyugalmat áraszt és szép környezet a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Egy tó zöld környezetben, amely ideális pihentető szünetekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Lacul Plumbuita egy tó a Dimitrie Gusti Falumúzeumnál, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "A Hattyú-tó (Lacul Lebedelor) egy festői tó a Dimitrie Gusti Falumúzeumnál.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A Lacul Dobroești egy tó a Dimitrie Gusti Falumúzeumnál, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Lake Fundeni egy tó a Dimitrie Gusti Falumúzeumnál, amely pihentető vízparti pillanatokat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "A Roata Mare egy játszótér a Dimitrie Gusti Falumúzeumnál, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Ez a minigolfpálya a Dimitrie Gusti Falumúzeumnál remek úti cél egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "A Dimitrie Gusti Falumúzeumnál található kerékpárkölcsönző aktív családi élményeket tesz lehetővé a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "A Ponei egy játszóhely a Dimitrie Gusti Falumúzeumnál, amelyet kifejezetten gyermekeknek alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "A Bungee Jumping Herăstrău a Dimitrie Gusti Falumúzeumnál izgalmas élményeket kínál a kalandvágyó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "A Golf Room egy játékterem a Dimitrie Gusti Falumúzeumnál, amely modern szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "A Crazy toboggan egy játszótér a Dimitrie Gusti Falumúzeumnál, amely ideális a gyerekek számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "A La Pedale egy játszóhely a Dimitrie Gusti Falumúzeumnál, amely fizikai aktivitásra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
+            },
+            {
+                  "name": "Skatepark 2",
+                  "text": "A Skatepark 2 egy játszótér a Dimitrie Gusti Falumúzeumnál, amely alkalmas fiatalok és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        26.080673,
+                        44.479265
                   ]
             }
       ],
@@ -13255,6 +14605,231 @@ export const romaniaCities: POI[] = [
                         26.093286,
                         44.465233
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Un lac întins, apreciat pentru plimbări și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Un lac frumos într-un parc, ideal pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Un lac cunoscut, care oferă liniște și un cadru natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Un lac cu ape liniștite, perfect pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Un lac care invită la momente de liniște și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Un bazin de apă funcțional, care completează scenariul local.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Un rezervor de apă, ce formează un punct interesant în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Un lac ce oferă un mediu pașnic pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Un loc popular lângă apă, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Un lac întins și cunoscut, ideal pentru diverse forme de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Un lac ce emană liniște și reprezintă un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Un lac într-un cadru verde, ideal pentru pauze relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita este un lac lângă Muzeul Satului Dimitrie Gusti, oferind un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Lebedelor",
+                  "text": "Lacul Lebedelor este un lac pitoresc situat lângă Muzeul Satului Dimitrie Gusti.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești este un lac lângă Muzeul Satului Dimitrie Gusti, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lake Fundeni este un lac lângă Muzeul Satului Dimitrie Gusti, invitând la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Roata Mare este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Acest teren de minigolf de lângă Muzeul Satului Dimitrie Gusti este o destinație excelentă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "Centrul de închirieri biciclete de lângă Muzeul Satului Dimitrie Gusti permite experiențe active în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "Ponei este o zonă de joacă lângă Muzeul Satului Dimitrie Gusti, destinată special copiilor.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Bungee Jumping Herăstrău de lângă Muzeul Satului Dimitrie Gusti oferă experiențe incitante pentru familiile dornice de aventură.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "Golf Room este o sală de jocuri lângă Muzeul Satului Dimitrie Gusti, oferind divertisment modern pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Crazy toboggan este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, ideal pentru energia celor mici.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "La Pedale este o zonă de joacă lângă Muzeul Satului Dimitrie Gusti, care invită la activitate fizică.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
+            },
+            {
+                  "name": "Skatepark 2",
+                  "text": "Skatepark 2 este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, potrivit pentru tineri și familii.",
+                  "category": "family",
+                  "coords": [
+                        26.080673,
+                        44.479265
+                  ]
             }
       ],
       "en": [
@@ -13672,6 +15247,231 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.093286,
                         44.465233
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A large lake, appreciated for walks and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "A pretty lake in a park setting, ideal for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "A well-known lake, providing peace and a beautiful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A lake with calm waters, perfect for a relaxing day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A lake inviting quiet moments and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A functional water basin, complementing the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "A water reservoir, forming an interesting point in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A lake offering a peaceful environment for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A popular spot by the water, ideal for walks and spending time.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A vast and well-known lake, ideal for various types of recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A lake exuding peace and providing a beautiful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A lake in a green setting, ideal for relaxing breaks.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita is a lake near the Dimitrie Gusti National Village Museum, offering a peaceful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Swan Lake",
+                  "text": "Swan Lake (Lacul Lebedelor) is a scenic lake located near the Dimitrie Gusti National Village Museum.",
+                  "category": "natural",
+                  "coords": [
+                        26.088734,
+                        44.439013
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești is a lake near the Dimitrie Gusti National Village Museum, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni is a lake near the Dimitrie Gusti National Village Museum, inviting relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Roata Mare",
+                  "text": "Roata Mare is a playground near the Dimitrie Gusti National Village Museum, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        26.083221,
+                        44.481985
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "This minigolf course near the Dimitrie Gusti National Village Museum is a great destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        26.084964,
+                        44.469598
+                  ]
+            },
+            {
+                  "name": "închirieri biciclete",
+                  "text": "The bicycle rental at the Dimitrie Gusti National Village Museum enables active family experiences outdoors.",
+                  "category": "family",
+                  "coords": [
+                        26.087191,
+                        44.471278
+                  ]
+            },
+            {
+                  "name": "Ponei",
+                  "text": "Ponei is a play area near the Dimitrie Gusti National Village Museum, specifically designed for children.",
+                  "category": "family",
+                  "coords": [
+                        26.083966,
+                        44.469498
+                  ]
+            },
+            {
+                  "name": "Bungee Jumping Herăstrău",
+                  "text": "Bungee Jumping Herăstrău near the Dimitrie Gusti National Village Museum offers exciting experiences for adventurous families.",
+                  "category": "family",
+                  "coords": [
+                        26.083514,
+                        44.46754
+                  ]
+            },
+            {
+                  "name": "Golf Room",
+                  "text": "Golf Room is an amusement arcade near the Dimitrie Gusti National Village Museum, offering modern entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        26.100422,
+                        44.460872
+                  ]
+            },
+            {
+                  "name": "Crazy toboggan",
+                  "text": "Crazy toboggan is a playground near the Dimitrie Gusti National Village Museum, ideal for kids to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        26.099236,
+                        44.464153
+                  ]
+            },
+            {
+                  "name": "La Pedale",
+                  "text": "La Pedale is a play area near the Dimitrie Gusti National Village Museum that encourages physical activity.",
+                  "category": "family",
+                  "coords": [
+                        26.08201,
+                        44.467741
+                  ]
+            },
+            {
+                  "name": "Skatepark 2",
+                  "text": "Skatepark 2 is a playground near the Dimitrie Gusti National Village Museum, suitable for youths and families.",
+                  "category": "family",
+                  "coords": [
+                        26.080673,
+                        44.479265
                   ]
             }
       ]
@@ -15342,6 +17142,186 @@ export const romaniaCities: POI[] = [
                         26.103709,
                         44.443503
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Ein malerischer See in der Nähe der Patriarchal-Kathedrale, ideal zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Ein lokaler See in der Umgebung der Patriarchal-Kathedrale, geeignet für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Ein See mit friedlicher Landschaft in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Ein Wasserbecken im Bereich der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Ein Gewässer in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Ein lokaler See in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Ein beliebter See zum Spazierengehen und für die Aussicht in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Ein See mit schöner Aussicht in der Umgebung der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Ein großer, malerischer See in der Nähe der Patriarchal-Kathedrale, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Ein lokales Gewässer im Bereich der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Ein See, der sich für Spaziergänge und Entspannung in der Nähe der Patriarchal-Kathedrale eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Ein malerischer See im Bereich der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Ein See in natürlicher Umgebung in der Umgebung der Patriarchal-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Ein See im Bereich der Patriarchal-Kathedrale, ideal für die Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Ein Spielplatz für Familien in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "Eine Spielhalle für Familienspaß in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Ein familienfreundlicher Spielplatz in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "Eine Spielhalle, die Familienunterhaltung im Bereich der Patriarchal-Kathedrale bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Ein Spielplatz für Kinder in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele Off-Road",
+                  "text": "Ein Erholungsbereich für Familien in der Nähe der Patriarchal-Kathedrale.",
+                  "category": "family",
+                  "coords": [
+                        26.116163,
+                        44.405436
+                  ]
             }
       ],
       "hu": [
@@ -15848,6 +17828,186 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.103709,
                         44.443503
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Festői tó a Patriarkális székesegyház közelében, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Egy helyi tó a Patriarkális székesegyház környékén, alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Nyugodt környezetet kínáló tó a Patriarkális székesegyház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Vízmedence a Patriarkális székesegyház területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Vízfelület a Patriarkális székesegyház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Egy helyi tó a Patriarkális székesegyház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Népszerű tó sétáláshoz és nézelődéshez a Patriarkális székesegyház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Szép kilátást nyújtó tó a Patriarkális székesegyház környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Nagy festői tó a Patriarkális székesegyház közelében, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Helyi vízfelület a Patriarkális székesegyház területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Sétákra és pihenésre alkalmas tó a Patriarkális székesegyház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Festői tó a Patriarkális székesegyház területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Természetes környezetet biztosító tó a Patriarkális székesegyház környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Patriarkális székesegyház területén található tó, ideális a táj kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Játszótér családoknak a Patriarkális székesegyház közelében.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "Családi szórakozást kínáló játékterem a Patriarkális székesegyház közelében.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Családbarát játszótér a Patriarkális székesegyház közelében.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "Családi szórakozást kínáló játékterem a Patriarkális székesegyház területén.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Játszótér gyerekeknek a Patriarkális székesegyház közelében.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele Off-Road",
+                  "text": "Családi kikapcsolódási terület a Patriarkális székesegyház közelében.",
+                  "category": "family",
+                  "coords": [
+                        26.116163,
+                        44.405436
                   ]
             }
       ],
@@ -16356,6 +18516,186 @@ export const romaniaCities: POI[] = [
                         26.103709,
                         44.443503
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Un lac pitoresc în apropierea zonei Catedralei Patriarhale, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Un lac local în vecinătatea Catedralei Patriarhale, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Un lac care oferă un peisaj liniștit în apropierea zonei Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Un bazin de apă situat în zona Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Un corp de apă situat lângă Catedrala Patriarhală.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "Un lac local în apropierea zonei Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Un lac popular pentru plimbări și peisaj lângă Catedrala Patriarhală.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Un lac care oferă vederi pitorești în vecinătatea Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Un lac mare și pitoresc lângă Catedrala Patriarhală, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Un corp de apă local în zona Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Un lac potrivit pentru plimbări și relaxare lângă Catedrala Patriarhală.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Un lac pitoresc situat în zona Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Un lac care oferă un cadru natural în vecinătatea Catedralei Patriarhale.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Un lac situat în zona Catedralei Patriarhale, ideal pentru peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Un loc de joacă pentru familii lângă Catedrala Patriarhală.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "O sală de jocuri pentru distracție în familie lângă Catedrala Patriarhală.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Un loc de joacă pentru familii situat lângă Catedrala Patriarhală.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "O sală de jocuri care oferă divertisment pentru familii în zona Catedralei Patriarhale.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Un loc de joacă pentru copii lângă Catedrala Patriarhală.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele Off-Road",
+                  "text": "O zonă de recreere pentru familii lângă Catedrala Patriarhală.",
+                  "category": "family",
+                  "coords": [
+                        26.116163,
+                        44.405436
+                  ]
             }
       ],
       "en": [
@@ -16863,6 +19203,186 @@ export const romaniaCities: POI[] = [
                         26.103709,
                         44.443503
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A scenic lake near the Patriarchal Cathedral area, ideal for walking.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "A local lake in the Patriarchal Cathedral vicinity, suitable for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "A lake offering peaceful scenery near the Patriarchal Cathedral area.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A water basin located in the Patriarchal Cathedral area.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "A water body located near the Patriarchal Cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Balta Floarea Popeștiului",
+                  "text": "A local lake near the Patriarchal Cathedral area.",
+                  "category": "natural",
+                  "coords": [
+                        26.179957,
+                        44.383457
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A popular lake for walking and scenery near the Patriarchal Cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A lake offering scenic views in the Patriarchal Cathedral vicinity.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A large scenic lake near the Patriarchal Cathedral, ideal for strolls.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A local water body in the Patriarchal Cathedral area.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A lake suitable for walks and relaxation near the Patriarchal Cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A scenic lake located in the Patriarchal Cathedral area.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A lake providing a natural setting in the Patriarchal Cathedral vicinity.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "A lake located in the Patriarchal Cathedral area, ideal for scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "A playground for families near the Patriarchal Cathedral.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "An amusement arcade for family fun near the Patriarchal Cathedral.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "A family-friendly playground located near the Patriarchal Cathedral.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "An arcade offering family entertainment in the Patriarchal Cathedral area.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "A playground for children near the Patriarchal Cathedral.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele Off-Road",
+                  "text": "A family recreation area near the Patriarchal Cathedral.",
+                  "category": "family",
+                  "coords": [
+                        26.116163,
+                        44.405436
+                  ]
             }
       ]
 }
@@ -16912,6 +19432,51 @@ export const romaniaCities: POI[] = [
                         26.00392,
                         44.523421
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Der Lacul Morii ist ein großer See beim Schloss Mogoșoaia, der für seine weite Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Der Lacul Chitila ist ein ruhiger See beim Schloss Mogoșoaia, ideal für einen Spaziergang im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Der Lacul Străulești ist ein See beim Schloss Mogoșoaia, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Der Lacul Grivița ist ein See beim Schloss Mogoșoaia, umgeben von natürlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Der Lacul Herăstrău beim Schloss Mogoșoaia ist ein beliebtes Ziel für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
             }
       ],
       "hu": [
@@ -16933,6 +19498,51 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.00392,
                         44.523421
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A Lacul Morii egy nagy tó a Mogoșoaia-palotánál, amely tágas kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "A Lacul Chitila egy csendes tó a Mogoșoaia-palotánál, amely ideális egy zöldövezeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "A Lacul Străulești egy tó a Mogoșoaia-palotánál, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Lacul Grivița egy tó a Mogoșoaia-palotánál, természetes tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Lacul Herăstrău a Mogoșoaia-palotánál népszerű úti cél vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
                   ]
             }
       ],
@@ -16956,6 +19566,51 @@ export const romaniaCities: POI[] = [
                         26.00392,
                         44.523421
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii este un lac mare situat lângă Palatul Mogoșoaia, cunoscut pentru priveliștea sa vastă.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila este un lac liniștit lângă Palatul Mogoșoaia, ideal pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești este un lac lângă Palatul Mogoșoaia, oferind o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița este un lac lângă Palatul Mogoșoaia, înconjurat de un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău de lângă Palatul Mogoșoaia este o destinație populară pentru activități de recreere pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
             }
       ],
       "en": [
@@ -16977,6 +19632,51 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.00392,
                         44.523421
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii is a large lake near Mogosoaia Palace, known for its wide views.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Lacul Chitila is a quiet lake near Mogosoaia Palace, ideal for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.00146,
+                        44.51089
+                  ]
+            },
+            {
+                  "name": "Lacul Străulești",
+                  "text": "Lacul Străulești is a lake near Mogosoaia Palace, offering a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        26.011649,
+                        44.502876
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița is a lake near Mogosoaia Palace, surrounded by a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău near Mogosoaia Palace is a popular destination for waterfront leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
                   ]
             }
       ]
@@ -17523,6 +20223,222 @@ export const romaniaCities: POI[] = [
                         26.090355,
                         44.437217
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii beim Schloss Cotroceni ist ein weitläufiger See, der ideal für lange Spaziergänge am Wasser ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Lacul Drumul Taberei beim Schloss Cotroceni bietet eine angenehme Umgebung für Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Der Băneasa-See beim Schloss Cotroceni ist ein schöner Ort für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Bazin decantare beim Schloss Cotroceni ist ein ruhiges Gewässer in einer städtischen Parklandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni beim Schloss Cotroceni ist eine funktionale Wasserfläche inmitten der Parkanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița beim Schloss Cotroceni lädt zu entspannten Spaziergängen in einer naturnahen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR beim Schloss Cotroceni ist ein beliebter See für Freizeitaktivitäten und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Lacul Herăstrău beim Schloss Cotroceni ist ein bekanntes Ausflugsziel für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera beim Schloss Cotroceni ist ein ruhiger See, der eine kleine Auszeit vom Stadtleben bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului beim Schloss Cotroceni bietet eine malerische Kulisse für Freizeit und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita beim Schloss Cotroceni ist ein idyllischer See für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Der Fundeni-See beim Schloss Cotroceni bietet eine ruhige Wasserfläche für Erholungsuchende.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Parc beim Schloss Cotroceni ist ein schöner Spielplatz, auf dem Kinder sicher spielen und toben können.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "Lasermaxx",
+                  "text": "Lasermaxx beim Schloss Cotroceni bietet ein spannendes Unterhaltungserlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        26.051313,
+                        44.430314
+                  ]
+            },
+            {
+                  "name": "Gymboland",
+                  "text": "Gymboland beim Schloss Cotroceni ist ein bunter Indoor-Spielplatz, der viel Freude für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.03589,
+                        44.417437
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet beim Schloss Cotroceni ist ein großartiger Ort für Kinder, um gemeinsam zu spielen und Abenteuer zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        26.034633,
+                        44.428061
+                  ]
+            },
+            {
+                  "name": "Poiana Muntelui",
+                  "text": "Poiana Muntelui beim Schloss Cotroceni bietet Kindern viel Platz zum Spielen in einer angenehmen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        26.030463,
+                        44.422789
+                  ]
+            },
+            {
+                  "name": "Loc De Joacă Dr. Felix",
+                  "text": "Loc De Joacă Dr. Felix beim Schloss Cotroceni ist ein freundlicher Spielplatz für täglichen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        26.079377,
+                        44.455319
+                  ]
+            },
+            {
+                  "name": "Parcul Dreptății",
+                  "text": "Parcul Dreptății beim Schloss Cotroceni ist ein einladender Spielbereich für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        26.02697,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Playground Veteranilor",
+                  "text": "Playground Veteranilor beim Schloss Cotroceni ist ein toller Ort für Kinder zum Toben und Kontakteknüpfen.",
+                  "category": "family",
+                  "coords": [
+                        26.032331,
+                        44.438856
+                  ]
+            },
+            {
+                  "name": "Playground Uverturii",
+                  "text": "Playground Uverturii beim Schloss Cotroceni bietet vielfältige Spielmöglichkeiten für einen aktiven Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        26.030962,
+                        44.437844
+                  ]
+            },
+            {
+                  "name": "Playground Cetatea de Balta",
+                  "text": "Playground Cetatea de Balta beim Schloss Cotroceni ist ein sicherer Spielplatz für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        26.030732,
+                        44.444463
+                  ]
+            },
+            {
+                  "name": "Parc O3",
+                  "text": "Parc O3 beim Schloss Cotroceni lädt Familien zu einem entspannten Aufenthalt auf dem Spielplatz ein.",
+                  "category": "family",
+                  "coords": [
+                        26.027977,
+                        44.437232
+                  ]
+            },
+            {
+                  "name": "Parcul Dealului",
+                  "text": "Parcul Dealului beim Schloss Cotroceni bietet eine schöne Umgebung für Kinder zum Spielen an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        26.033765,
+                        44.442986
+                  ]
             }
       ],
       "hu": [
@@ -18040,6 +20956,222 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.090355,
                         44.437217
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A Cotroceni-palota közelében lévő Lacul Morii egy tágas tó, amely ideális nagy vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "A Cotroceni-palotánál található Lacul Drumul Taberei kellemes környezetet biztosít a zöldben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "A Cotroceni-palota környékén lévő Băneasa-tó szép hely a természet kedvelői és a sétálni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A Cotroceni-palotánál található Bazin decantare egy nyugodt vízfelület a városi parkos környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "A Cotroceni-palotánál lévő Bazin apa Cotroceni egy funkcionális vízfelület a parkos területen.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Cotroceni-palota közelében található Lacul Grivița kellemes sétákra hív a természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A Cotroceni-palotánál fekvő Lacul IOR népszerű hely a szabadidős tevékenységekhez és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Cotroceni-palota melletti Lacul Herăstrău kedvelt kirándulóhely sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Cotroceni-palota közelében lévő Balta Pipera egy nyugodt tó, amely rövid pihenőt kínál a városi élettől.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A Cotroceni-palotánál található Lacul Tineretului festői környezetet biztosít a szabadidőhöz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Cotroceni-palota környékén lévő Lacul Plumbuita idilli tó a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Cotroceni-palota melletti Fundeni-tó nyugodt vízfelületet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "A Cotroceni-palotánál lévő park egy szép játszótér, ahol a gyermekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "Lasermaxx",
+                  "text": "A Cotroceni-palotánál található Lasermaxx izgalmas szórakozást nyújt az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        26.051313,
+                        44.430314
+                  ]
+            },
+            {
+                  "name": "Gymboland",
+                  "text": "A Cotroceni-palotánál lévő Gymboland egy színes beltéri játszóhely, amely sok örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        26.03589,
+                        44.417437
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "A Cotroceni-palotánál található Fun Planet remek hely a gyerekeknek a közös játékhoz és kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        26.034633,
+                        44.428061
+                  ]
+            },
+            {
+                  "name": "Poiana Muntelui",
+                  "text": "A Cotroceni-palotánál lévő Poiana Muntelui tágas helyet biztosít a gyerekeknek a játékhoz kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        26.030463,
+                        44.422789
+                  ]
+            },
+            {
+                  "name": "Loc De Joacă Dr. Felix",
+                  "text": "A Cotroceni-palotánál található Loc De Joacă Dr. Felix egy barátságos játszótér a napi családi mókához.",
+                  "category": "family",
+                  "coords": [
+                        26.079377,
+                        44.455319
+                  ]
+            },
+            {
+                  "name": "Parcul Dreptății",
+                  "text": "A Cotroceni-palotánál lévő Parcul Dreptății egy hívogató játszóhely minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        26.02697,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Playground Veteranilor",
+                  "text": "A Cotroceni-palotánál található Playground Veteranilor remek hely a gyerekeknek a mozgáshoz és a barátkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.032331,
+                        44.438856
+                  ]
+            },
+            {
+                  "name": "Playground Uverturii",
+                  "text": "A Cotroceni-palotánál lévő Playground Uverturii változatos játéklehetőségeket kínál egy aktív délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        26.030962,
+                        44.437844
+                  ]
+            },
+            {
+                  "name": "Playground Cetatea de Balta",
+                  "text": "A Cotroceni-palotánál található Playground Cetatea de Balta egy biztonságos játszótér a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        26.030732,
+                        44.444463
+                  ]
+            },
+            {
+                  "name": "Parc O3",
+                  "text": "A Cotroceni-palotánál lévő Parc O3 pihentető kikapcsolódásra hívja a családokat a játszótéren.",
+                  "category": "family",
+                  "coords": [
+                        26.027977,
+                        44.437232
+                  ]
+            },
+            {
+                  "name": "Parcul Dealului",
+                  "text": "A Cotroceni-palotánál található Parcul Dealului szép környezetet biztosít a gyerekeknek a szabadban való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        26.033765,
+                        44.442986
                   ]
             }
       ],
@@ -18559,6 +21691,222 @@ export const romaniaCities: POI[] = [
                         26.090355,
                         44.437217
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii de lângă Palatul Cotroceni este un lac întins, ideal pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Lacul Drumul Taberei de la Palatul Cotroceni oferă un mediu plăcut pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Lacul Băneasa de lângă Palatul Cotroceni este un loc frumos pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Bazin decantare de la Palatul Cotroceni este o acumulare de apă liniștită într-un cadru de parc urban.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni de la Palatul Cotroceni este o suprafață de apă situată în zona parcului.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița de lângă Palatul Cotroceni invită la plimbări relaxante într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR de la Palatul Cotroceni este un lac popular pentru activități recreative și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău de lângă Palatul Cotroceni este o destinație cunoscută pentru plimbări și recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera de lângă Palatul Cotroceni este un lac liniștit, ce oferă o mică evadare din viața urbană.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului de la Palatul Cotroceni oferă un cadru pitoresc pentru timp liber și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita de lângă Palatul Cotroceni este un lac idilic pentru momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lacul Fundeni de lângă Palatul Cotroceni oferă o suprafață de apă liniștită pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Parcul de la Palatul Cotroceni este un loc de joacă frumos, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "Lasermaxx",
+                  "text": "Lasermaxx de la Palatul Cotroceni oferă o experiență de divertisment captivantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        26.051313,
+                        44.430314
+                  ]
+            },
+            {
+                  "name": "Gymboland",
+                  "text": "Gymboland de la Palatul Cotroceni este un spațiu de joacă colorat, care oferă multă veselie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        26.03589,
+                        44.417437
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet de la Palatul Cotroceni este un loc grozav pentru copii, unde se pot juca și pot avea aventuri împreună.",
+                  "category": "family",
+                  "coords": [
+                        26.034633,
+                        44.428061
+                  ]
+            },
+            {
+                  "name": "Poiana Muntelui",
+                  "text": "Poiana Muntelui de la Palatul Cotroceni oferă copiilor mult spațiu de joacă într-o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        26.030463,
+                        44.422789
+                  ]
+            },
+            {
+                  "name": "Loc De Joacă Dr. Felix",
+                  "text": "Loc De Joacă Dr. Felix de la Palatul Cotroceni este un spațiu de joacă prietenos pentru distracția zilnică a familiei.",
+                  "category": "family",
+                  "coords": [
+                        26.079377,
+                        44.455319
+                  ]
+            },
+            {
+                  "name": "Parcul Dreptății",
+                  "text": "Parcul Dreptății de la Palatul Cotroceni este un spațiu de joacă primitor pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.02697,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Playground Veteranilor",
+                  "text": "Playground Veteranilor de la Palatul Cotroceni este un loc excelent pentru copii, unde se pot juca și își pot face prieteni.",
+                  "category": "family",
+                  "coords": [
+                        26.032331,
+                        44.438856
+                  ]
+            },
+            {
+                  "name": "Playground Uverturii",
+                  "text": "Playground Uverturii de la Palatul Cotroceni oferă diverse posibilități de joacă pentru o după-amiază activă.",
+                  "category": "family",
+                  "coords": [
+                        26.030962,
+                        44.437844
+                  ]
+            },
+            {
+                  "name": "Playground Cetatea de Balta",
+                  "text": "Playground Cetatea de Balta de la Palatul Cotroceni este un spațiu de joacă sigur pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        26.030732,
+                        44.444463
+                  ]
+            },
+            {
+                  "name": "Parc O3",
+                  "text": "Parc O3 de la Palatul Cotroceni invită familiile la momente de relaxare în zona de joacă.",
+                  "category": "family",
+                  "coords": [
+                        26.027977,
+                        44.437232
+                  ]
+            },
+            {
+                  "name": "Parcul Dealului",
+                  "text": "Parcul Dealului de la Palatul Cotroceni oferă un cadru frumos pentru copiii care vor să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.033765,
+                        44.442986
+                  ]
             }
       ],
       "en": [
@@ -19077,6 +22425,222 @@ export const romaniaCities: POI[] = [
                         26.090355,
                         44.437217
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Lacul Morii near Cotroceni Palace is a large lake, perfect for long walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Lacul Drumul Taberei at Cotroceni Palace offers a pleasant environment for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "Lake Băneasa near Cotroceni Palace is a lovely spot for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Bazin decantare at Cotroceni Palace is a calm body of water within an urban park setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.001661,
+                        44.444654
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni at Cotroceni Palace is a water feature located within the park grounds.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița near Cotroceni Palace invites visitors for relaxing walks in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR at Cotroceni Palace is a popular lake for leisure activities and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău near Cotroceni Palace is a well-known destination for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera near Cotroceni Palace is a quiet lake that offers a brief escape from urban life.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului at Cotroceni Palace provides a scenic backdrop for leisure and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita near Cotroceni Palace is an idyllic lake for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni near Cotroceni Palace offers a calm body of water for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Parc at Cotroceni Palace is a lovely playground where children can play and have fun safely.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "Lasermaxx",
+                  "text": "Lasermaxx at Cotroceni Palace offers an exciting entertainment experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        26.051313,
+                        44.430314
+                  ]
+            },
+            {
+                  "name": "Gymboland",
+                  "text": "Gymboland at Cotroceni Palace is a colorful indoor play area that brings lots of joy to children.",
+                  "category": "family",
+                  "coords": [
+                        26.03589,
+                        44.417437
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet at Cotroceni Palace is a great place for children to play and experience adventures together.",
+                  "category": "family",
+                  "coords": [
+                        26.034633,
+                        44.428061
+                  ]
+            },
+            {
+                  "name": "Poiana Muntelui",
+                  "text": "Poiana Muntelui at Cotroceni Palace offers plenty of space for children to play in a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        26.030463,
+                        44.422789
+                  ]
+            },
+            {
+                  "name": "Loc De Joacă Dr. Felix",
+                  "text": "Loc De Joacă Dr. Felix at Cotroceni Palace is a friendly playground for daily family fun.",
+                  "category": "family",
+                  "coords": [
+                        26.079377,
+                        44.455319
+                  ]
+            },
+            {
+                  "name": "Parcul Dreptății",
+                  "text": "Parcul Dreptății at Cotroceni Palace is an inviting play area for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.02697,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Playground Veteranilor",
+                  "text": "Playground Veteranilor at Cotroceni Palace is a great spot for children to play and socialize.",
+                  "category": "family",
+                  "coords": [
+                        26.032331,
+                        44.438856
+                  ]
+            },
+            {
+                  "name": "Playground Uverturii",
+                  "text": "Playground Uverturii at Cotroceni Palace offers various play opportunities for an active afternoon.",
+                  "category": "family",
+                  "coords": [
+                        26.030962,
+                        44.437844
+                  ]
+            },
+            {
+                  "name": "Playground Cetatea de Balta",
+                  "text": "Playground Cetatea de Balta at Cotroceni Palace is a safe playground for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        26.030732,
+                        44.444463
+                  ]
+            },
+            {
+                  "name": "Parc O3",
+                  "text": "Parc O3 at Cotroceni Palace invites families for a relaxing time at the playground.",
+                  "category": "family",
+                  "coords": [
+                        26.027977,
+                        44.437232
+                  ]
+            },
+            {
+                  "name": "Parcul Dealului",
+                  "text": "Parcul Dealului at Cotroceni Palace provides a lovely setting for children to play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        26.033765,
+                        44.442986
+                  ]
             }
       ]
 }
@@ -19152,6 +22716,60 @@ export const romaniaCities: POI[] = [
                         26.090542,
                         44.618646
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Ein natürlicher See im Bereich der Therme Bukarest.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Ein See mit schöner Aussicht in der Nähe der Therme Bukarest.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Ein malerischer See in der Umgebung der Therme Bukarest.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Ein See mit friedlicher Landschaft in der Nähe der Therme Bukarest.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Ein großer See, ideal für die Aussicht und zum Spazierengehen in der Nähe der Therme Bukarest.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Ein lustiger Spielplatz für Familien im Bereich der Therme Bukarest.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
+                  ]
             }
       ],
       "hu": [
@@ -19199,6 +22817,60 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.090542,
                         44.618646
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Természetes tó a bukaresti Therme területén.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Szép kilátást nyújtó tó a bukaresti Therme közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Festői tó a bukaresti Therme környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Nyugodt környezetet kínáló tó a bukaresti Therme közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Nagy tó, amely ideális nézelődésre és sétálásra a bukaresti Therme közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Vidám játszótér családoknak a bukaresti Therme területén.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
                   ]
             }
       ],
@@ -19248,6 +22920,60 @@ export const romaniaCities: POI[] = [
                         26.090542,
                         44.618646
                   ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "Un lac natural situat în zona Therme București.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "Un lac care oferă vederi pitorești lângă Therme București.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "Un lac pitoresc situat în vecinătatea Therme București.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "Un lac care oferă un peisaj liniștit lângă Therme București.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Un lac mare, ideal pentru peisaj și plimbări lângă Therme București.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "Un loc de joacă distractiv pentru familii în zona Therme București.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
+                  ]
             }
       ],
       "en": [
@@ -19295,6 +23021,60 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.090542,
                         44.618646
+                  ]
+            },
+            {
+                  "name": "Cociovalistea",
+                  "text": "A natural lake located in the Therme Bucharest area.",
+                  "category": "natural",
+                  "coords": [
+                        26.071465,
+                        44.613718
+                  ]
+            },
+            {
+                  "name": "Tâncăbești 2",
+                  "text": "A lake providing scenic views near the Therme Bucharest.",
+                  "category": "natural",
+                  "coords": [
+                        26.067923,
+                        44.672438
+                  ]
+            },
+            {
+                  "name": "Tâncăbești",
+                  "text": "A scenic lake located in the Therme Bucharest vicinity.",
+                  "category": "natural",
+                  "coords": [
+                        26.048918,
+                        44.674839
+                  ]
+            },
+            {
+                  "name": "Lacul Vlasia",
+                  "text": "A lake offering peaceful scenery near Therme Bucharest.",
+                  "category": "natural",
+                  "coords": [
+                        26.076743,
+                        44.646594
+                  ]
+            },
+            {
+                  "name": "Lake Snagov",
+                  "text": "A large lake ideal for scenery and walking near Therme Bucharest.",
+                  "category": "natural",
+                  "coords": [
+                        26.14178,
+                        44.706596
+                  ]
+            },
+            {
+                  "name": "Yupi Land",
+                  "text": "A fun playground for families in the Therme Bucharest area.",
+                  "category": "family",
+                  "coords": [
+                        26.067965,
+                        44.605068
                   ]
             }
       ]
@@ -19355,6 +23135,168 @@ export const romaniaCities: POI[] = [
                         27.58595,
                         47.156828
                   ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu ist ein See bei Palas Iași, der sich gut für Erholung im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț ist ein See bei Palas Iași, der eine schöne Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Der Lacul Ciric I ist ein See bei Palas Iași, bekannt als Ort für Freizeit und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Der Lacul Veneția ist ein kleiner See bei Palas Iași, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Der Lacul Chirița ist ein See bei Palas Iași, der die lokale Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri ist ein See bei Palas Iași, ein ruhiger Ort für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Dieser See im Botanischen Garten Anastasie Fătu bei Palas Iași bietet eine idyllische Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Der Lacul Ciric II ist ein See bei Palas Iași, ideal für Ausflüge in die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura ist ein Spielplatz bei Palas Iași, der Kindern Raum zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet ist eine Spielhalle bei Palas Iași mit verschiedenen Unterhaltungsangeboten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "LaserTag Galaxy Arena",
+                  "text": "LaserTag Galaxy Arena bei Palas Iași bietet spannenden Spielspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        27.618331,
+                        47.150196
+                  ]
+            },
+            {
+                  "name": "oZplay",
+                  "text": "oZplay ist ein Spielplatz bei Palas Iași, der speziell auf die Bedürfnisse von Familien zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        27.621957,
+                        47.157083
+                  ]
+            },
+            {
+                  "name": "Happy Hop",
+                  "text": "Happy Hop ist ein Spielplatz bei Palas Iași, ideal für Kinder, die gerne springen und spielen.",
+                  "category": "family",
+                  "coords": [
+                        27.595894,
+                        47.144661
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Der Playground bloc 260 bei Palas Iași ist ein lokaler Spielbereich für Familien.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor ist ein Spielplatz bei Palas Iași, der sich gut für kurze Freizeitpausen eignet.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "Dieser Minigolfplatz bei Palas Iași bietet Unterhaltung und Geschicklichkeitstraining für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Der Playground blocuri 258 bei Palas Iași ist ein praktischer Spielort für Familien in der Nähe.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 ist ein Spielplatz bei Palas Iași, der eine einfache Möglichkeit zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
+                  ]
             }
       ],
       "hu": [
@@ -19386,6 +23328,168 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.58595,
                         47.156828
+                  ]
+            },
+            {
+                  "name": "Aroneanu gyűjtő",
+                  "text": "Az Acumularea Aroneanu egy tó a Palas Iași közelében, amely kiválóan alkalmas szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Az Acumularea Dorobanț egy tó a Palas Iași közelében, amely szép hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "A Lacul Ciric I egy tó a Palas Iași közelében, amely szabadidős és pihenőhelyként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "A Lacul Veneția egy kis tó a Palas Iași közelében, amely természetközeli időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "A Lacul Chirița egy tó a Palas Iași közelében, amely gazdagítja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "A Doi Peri egy tó a Palas Iași közelében, csendes hely a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Ez a tó a Palas Iași melletti Anastasie Fătu Botanikus Kertben idilli hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "A Lacul Ciric II egy tó a Palas Iași közelében, ideális a környékbeli kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "A De-a dura egy játszótér a Palas Iași területén, amely teret ad a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "A Starnet egy játékterem a Palas Iași területén, különféle szórakozási lehetőségekkel családoknak.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "LaserTag Galaxy Arena",
+                  "text": "A LaserTag Galaxy Arena a Palas Iași területén izgalmas szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        27.618331,
+                        47.150196
+                  ]
+            },
+            {
+                  "name": "oZplay",
+                  "text": "Az oZplay egy játszótér a Palas Iași területén, amelyet kifejezetten családok igényeire szabtak.",
+                  "category": "family",
+                  "coords": [
+                        27.621957,
+                        47.157083
+                  ]
+            },
+            {
+                  "name": "Happy Hop",
+                  "text": "A Happy Hop egy játszótér a Palas Iași területén, ideális ugrálni és játszani vágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.595894,
+                        47.144661
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "A Playground bloc 260 a Palas Iași területén egy helyi játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Az Irinel Nistor egy játszótér a Palas Iași területén, amely kiválóan alkalmas rövid pihenőkre.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "Ez a minigolfpálya a Palas Iași területén szórakozást és ügyességi tréninget kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "A Playground blocuri 258 a Palas Iași területén praktikus játszóhely a közelben lakó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "A Parc bloc R5 egy játszótér a Palas Iași területén, amely egyszerű lehetőséget nyújt a szabadtéri játékra.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
                   ]
             }
       ],
@@ -19419,6 +23523,168 @@ export const romaniaCities: POI[] = [
                         27.58595,
                         47.156828
                   ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu este un lac lângă Palas Iași, potrivit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț este un lac lângă Palas Iași, oferind un decor frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Lacul Ciric I este un lac lângă Palas Iași, cunoscut ca loc pentru agrement și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Lacul Veneția este un lac mic lângă Palas Iași, invitând la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Lacul Chirița este un lac lângă Palas Iași, care îmbogățește peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri este un lac lângă Palas Iași, un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Acest lac din Grădina Botanică Anastasie Fătu de lângă Palas Iași oferă o atmosferă idilică.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Lacul Ciric II este un lac lângă Palas Iași, ideal pentru excursii în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura este un teren de joacă în Palas Iași, oferind copiilor spațiu pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet este o sală de jocuri în Palas Iași, cu diverse opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "LaserTag Galaxy Arena",
+                  "text": "LaserTag Galaxy Arena din Palas Iași oferă distracție captivantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        27.618331,
+                        47.150196
+                  ]
+            },
+            {
+                  "name": "oZplay",
+                  "text": "oZplay este un teren de joacă în Palas Iași, adaptat special pentru nevoile familiilor.",
+                  "category": "family",
+                  "coords": [
+                        27.621957,
+                        47.157083
+                  ]
+            },
+            {
+                  "name": "Happy Hop",
+                  "text": "Happy Hop este un teren de joacă în Palas Iași, ideal pentru copiii cărora le place să sară și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        27.595894,
+                        47.144661
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Playground bloc 260 din Palas Iași este un spațiu de joacă local pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor este un teren de joacă în Palas Iași, potrivit pentru scurte pauze de recreere.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "Acest teren de minigolf din Palas Iași oferă divertisment și antrenament de dexteritate pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Playground blocuri 258 din Palas Iași este un loc de joacă practic pentru familiile din apropiere.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 este un teren de joacă în Palas Iași, oferind o opțiune simplă pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
+                  ]
             }
       ],
       "en": [
@@ -19450,6 +23716,168 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.58595,
                         47.156828
+                  ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu is a lake near Palas Iasi, suitable for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț is a lake near Palas Iasi, providing a nice backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Lacul Ciric I is a lake near Palas Iasi, known as a spot for leisure and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Lacul Veneția is a small lake near Palas Iasi, inviting nature-focused downtime.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Lacul Chirița is a lake near Palas Iasi, enriching the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri is a lake near Palas Iasi, a quiet spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "This lake in the Anastasie Fatu Botanical Garden near Palas Iasi offers an idyllic atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Lacul Ciric II is a lake near Palas Iasi, ideal for local excursions.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura is a playground in Palas Iasi, providing space for children to play and move.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet is an amusement arcade in Palas Iasi with various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "LaserTag Galaxy Arena",
+                  "text": "LaserTag Galaxy Arena in Palas Iasi offers exciting game fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        27.618331,
+                        47.150196
+                  ]
+            },
+            {
+                  "name": "oZplay",
+                  "text": "oZplay is a playground in Palas Iasi, specially tailored for family needs.",
+                  "category": "family",
+                  "coords": [
+                        27.621957,
+                        47.157083
+                  ]
+            },
+            {
+                  "name": "Happy Hop",
+                  "text": "Happy Hop is a playground in Palas Iasi, ideal for kids who love to jump and play.",
+                  "category": "family",
+                  "coords": [
+                        27.595894,
+                        47.144661
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Playground bloc 260 in Palas Iasi is a local play area for families.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor is a playground in Palas Iasi, suitable for short leisure breaks.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "This minigolf course in Palas Iasi offers entertainment and skill practice for all ages.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Playground blocuri 258 in Palas Iasi is a convenient play spot for nearby families.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 is a playground in Palas Iasi, offering a simple option for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
                   ]
             }
       ]
@@ -19526,6 +23954,69 @@ export const romaniaCities: POI[] = [
                         24.116125,
                         45.755186
                   ]
+            },
+            {
+                  "name": "Lacul Binder",
+                  "text": "Binder Lake beim Astra Museum ist ein ruhiger See, der zu erholsamen Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.13421,
+                        45.80997
+                  ]
+            },
+            {
+                  "name": "Lacul Dumbrava Zoo",
+                  "text": "Lacul Dumbrava Zoo beim Astra Museum ist ein malerisches Gewässer in der Nähe des Zoos.",
+                  "category": "natural",
+                  "coords": [
+                        24.121923,
+                        45.760879
+                  ]
+            },
+            {
+                  "name": "Livada Tocile",
+                  "text": "Livada Tocile beim Astra Museum ist ein idyllischer See, der von einer schönen Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.196122,
+                        45.714474
+                  ]
+            },
+            {
+                  "name": "Lac Insulă Cisnădie",
+                  "text": "Lac Insulă Cisnădie beim Astra Museum bietet eine friedliche Atmosphäre für Naturbeobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.131679,
+                        45.708898
+                  ]
+            },
+            {
+                  "name": "Lacul Grădina Zoologică",
+                  "text": "Lacul Grădina Zoologică beim Astra Museum lädt zu entspannten Momenten in einer grünen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.125927,
+                        45.762838
+                  ]
+            },
+            {
+                  "name": "Parc de Joacă Valea Aurie",
+                  "text": "Parc de Joacă Valea Aurie beim Astra Museum ist ein toller Spielplatz für Kinder inmitten der Natur.",
+                  "category": "family",
+                  "coords": [
+                        24.129403,
+                        45.76779
+                  ]
+            },
+            {
+                  "name": "Loc de joacă Movilă",
+                  "text": "Loc de joacă Movilă beim Astra Museum bietet Kindern eine sichere und unterhaltsame Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        24.118154,
+                        45.771874
+                  ]
             }
       ],
       "hu": [
@@ -19573,6 +24064,69 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.116125,
                         45.755186
+                  ]
+            },
+            {
+                  "name": "Lacul Binder",
+                  "text": "Az Astra Múzeumnál található Binder Lake egy nyugodt tó, amely pihentető sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.13421,
+                        45.80997
+                  ]
+            },
+            {
+                  "name": "Lacul Dumbrava Zoo",
+                  "text": "Az Astra Múzeumnál fekvő Lacul Dumbrava Zoo egy festői vízfelület az állatkert közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.121923,
+                        45.760879
+                  ]
+            },
+            {
+                  "name": "Livada Tocile",
+                  "text": "Az Astra Múzeumnál található Livada Tocile egy idilli tó, amelyet szép táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        24.196122,
+                        45.714474
+                  ]
+            },
+            {
+                  "name": "Lac Insulă Cisnădie",
+                  "text": "Az Astra Múzeumnál lévő Lac Insulă Cisnădie békés hangulatot kínál a vízparti természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.131679,
+                        45.708898
+                  ]
+            },
+            {
+                  "name": "Lacul Grădina Zoologică",
+                  "text": "Az Astra Múzeumnál található Lacul Grădina Zoologică pihentető percekre hív a zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.125927,
+                        45.762838
+                  ]
+            },
+            {
+                  "name": "Parc de Joacă Valea Aurie",
+                  "text": "Az Astra Múzeumnál lévő Parc de Joacă Valea Aurie egy remek játszótér a gyerekeknek a természet lágyán.",
+                  "category": "family",
+                  "coords": [
+                        24.129403,
+                        45.76779
+                  ]
+            },
+            {
+                  "name": "Loc de joacă Movilă",
+                  "text": "Az Astra Múzeumnál található Loc de joacă Movilă biztonságos és szórakoztató környezetet nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.118154,
+                        45.771874
                   ]
             }
       ],
@@ -19622,6 +24176,69 @@ export const romaniaCities: POI[] = [
                         24.116125,
                         45.755186
                   ]
+            },
+            {
+                  "name": "Lacul Binder",
+                  "text": "Binder Lake de la Muzeul Astra este un lac liniștit, care invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.13421,
+                        45.80997
+                  ]
+            },
+            {
+                  "name": "Lacul Dumbrava Zoo",
+                  "text": "Lacul Dumbrava Zoo de la Muzeul Astra este o apă pitorească situată în apropierea grădinii zoologice.",
+                  "category": "natural",
+                  "coords": [
+                        24.121923,
+                        45.760879
+                  ]
+            },
+            {
+                  "name": "Livada Tocile",
+                  "text": "Livada Tocile de la Muzeul Astra este un lac idilic, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.196122,
+                        45.714474
+                  ]
+            },
+            {
+                  "name": "Lac Insulă Cisnădie",
+                  "text": "Lac Insulă Cisnădie de la Muzeul Astra oferă o atmosferă pașnică pentru observarea naturii de pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.131679,
+                        45.708898
+                  ]
+            },
+            {
+                  "name": "Lacul Grădina Zoologică",
+                  "text": "Lacul Grădina Zoologică de la Muzeul Astra invită la momente de relaxare într-un cadru verde.",
+                  "category": "natural",
+                  "coords": [
+                        24.125927,
+                        45.762838
+                  ]
+            },
+            {
+                  "name": "Parc de Joacă Valea Aurie",
+                  "text": "Parc de Joacă Valea Aurie de la Muzeul Astra este un loc de joacă excelent pentru copii, în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        24.129403,
+                        45.76779
+                  ]
+            },
+            {
+                  "name": "Loc de joacă Movilă",
+                  "text": "Loc de joacă Movilă de la Muzeul Astra oferă copiilor un mediu sigur și distractiv pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.118154,
+                        45.771874
+                  ]
             }
       ],
       "en": [
@@ -19669,6 +24286,69 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.116125,
                         45.755186
+                  ]
+            },
+            {
+                  "name": "Binder Lake",
+                  "text": "Binder Lake near Astra Museum is a calm lake that invites visitors for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.13421,
+                        45.80997
+                  ]
+            },
+            {
+                  "name": "Lacul Dumbrava Zoo",
+                  "text": "Lacul Dumbrava Zoo near Astra Museum is a scenic body of water located near the zoo.",
+                  "category": "natural",
+                  "coords": [
+                        24.121923,
+                        45.760879
+                  ]
+            },
+            {
+                  "name": "Livada Tocile",
+                  "text": "Livada Tocile near Astra Museum is an idyllic lake surrounded by beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.196122,
+                        45.714474
+                  ]
+            },
+            {
+                  "name": "Lac Insulă Cisnădie",
+                  "text": "Lac Insulă Cisnădie near Astra Museum offers a peaceful atmosphere for nature observation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.131679,
+                        45.708898
+                  ]
+            },
+            {
+                  "name": "Lacul Grădina Zoologică",
+                  "text": "Lacul Grădina Zoologică near Astra Museum invites visitors for relaxing moments in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        24.125927,
+                        45.762838
+                  ]
+            },
+            {
+                  "name": "Parc de Joacă Valea Aurie",
+                  "text": "Parc de Joacă Valea Aurie near Astra Museum is a great playground for children in the middle of nature.",
+                  "category": "family",
+                  "coords": [
+                        24.129403,
+                        45.76779
+                  ]
+            },
+            {
+                  "name": "Loc de joacă Movilă",
+                  "text": "Loc de joacă Movilă near Astra Museum provides a safe and fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        24.118154,
+                        45.771874
                   ]
             }
       ]
@@ -20078,6 +24758,231 @@ export const romaniaCities: POI[] = [
                         23.588268,
                         46.769709
                   ]
+            },
+            {
+                  "name": "Rezervor apă",
+                  "text": "Ein Wasserreservoir im Botanischen Garten von Cluj-Napoca.",
+                  "category": "natural",
+                  "coords": [
+                        23.574861,
+                        46.758546
+                  ]
+            },
+            {
+                  "name": "Lacul Chios",
+                  "text": "Ein malerischer See in der Nähe des Botanischen Gartens von Cluj-Napoca, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        23.576887,
+                        46.768203
+                  ]
+            },
+            {
+                  "name": "Jumping House",
+                  "text": "Ein Trampolinpark, der aktiven Familienspaß in der Nähe des Botanischen Gartens von Cluj-Napoca bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.580808,
+                        46.784607
+                  ]
+            },
+            {
+                  "name": "Laser Tag Cluj",
+                  "text": "Ein Vergnügungszentrum für Familienunterhaltung in der Nähe des Botanischen Gartens von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.570249,
+                        46.763506
+                  ]
+            },
+            {
+                  "name": "Colo Colo",
+                  "text": "Ein Spielplatz für Kinder im Bereich des Botanischen Gartens von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.572682,
+                        46.767027
+                  ]
+            },
+            {
+                  "name": "Piața Fraternității",
+                  "text": "Ein Spielplatz für Familien in der Nähe des Botanischen Gartens von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.612113,
+                        46.773941
+                  ]
+            },
+            {
+                  "name": "Bartók Béla",
+                  "text": "Ein Spielplatz für Familien in der Nähe des Botanischen Gartens von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.55884,
+                        46.76867
+                  ]
+            },
+            {
+                  "name": "Parc Aleea Slănic",
+                  "text": "Ein Spielplatz, der Erholung im Freien für Familien in Cluj-Napoca bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.61992,
+                        46.770222
+                  ]
+            },
+            {
+                  "name": "Parcul Stadion",
+                  "text": "Ein Spielplatz für Kinder im Bereich des Stadions von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.574176,
+                        46.768785
+                  ]
+            },
+            {
+                  "name": "Grădinița Mica Sirenă",
+                  "text": "Ein kleiner Spielplatz für Familien im Bereich von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.557221,
+                        46.769392
+                  ]
+            },
+            {
+                  "name": "Parâng/Biserică",
+                  "text": "Ein Spielplatz für Familienspaß in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.552564,
+                        46.753929
+                  ]
+            },
+            {
+                  "name": "Meteor/Jupiter",
+                  "text": "Ein Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.590047,
+                        46.754578
+                  ]
+            },
+            {
+                  "name": "Calea Dorobanților 89",
+                  "text": "Ein lokaler Spielplatz für Kinder in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.608812,
+                        46.774586
+                  ]
+            },
+            {
+                  "name": "Virgil Onițiu 17",
+                  "text": "Ein kleiner Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.561425,
+                        46.772013
+                  ]
+            },
+            {
+                  "name": "Scărișoara 1-3",
+                  "text": "Ein Spielplatz für die Nutzung durch Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.621541,
+                        46.764729
+                  ]
+            },
+            {
+                  "name": "Băița 3",
+                  "text": "Ein Spielplatz für Kinder im Bereich von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.621505,
+                        46.766625
+                  ]
+            },
+            {
+                  "name": "Băișoara 1-3",
+                  "text": "Ein lokaler Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622722,
+                        46.763103
+                  ]
+            },
+            {
+                  "name": "Liviu Rebreanu 58",
+                  "text": "Ein Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.620014,
+                        46.763617
+                  ]
+            },
+            {
+                  "name": "Băița 10-12",
+                  "text": "Ein kleiner Spielplatz für Kinder in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623163,
+                        46.765162
+                  ]
+            },
+            {
+                  "name": "Bizușa 8",
+                  "text": "Ein Spielplatz zur Familienerholung in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622787,
+                        46.767281
+                  ]
+            },
+            {
+                  "name": "Unirii 7-9",
+                  "text": "Ein Spielplatz für Familien im Stadtbereich von Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.624332,
+                        46.768507
+                  ]
+            },
+            {
+                  "name": "Borsec 4",
+                  "text": "Ein lokaler Spielplatz für Kinder in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623922,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Aleea Azuga 2",
+                  "text": "Ein Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.618169,
+                        46.763313
+                  ]
+            },
+            {
+                  "name": "Albac 8",
+                  "text": "Ein Spielplatz für Kinder in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.616283,
+                        46.763064
+                  ]
+            },
+            {
+                  "name": "Rășinari 5",
+                  "text": "Ein kleiner Spielplatz für Familien in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.61652,
+                        46.762072
+                  ]
             }
       ],
       "hu": [
@@ -20458,6 +25363,231 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.588268,
                         46.769709
+                  ]
+            },
+            {
+                  "name": "Rezervor apă",
+                  "text": "Víztározó a Kolozsvári Botanikus Kertben.",
+                  "category": "natural",
+                  "coords": [
+                        23.574861,
+                        46.758546
+                  ]
+            },
+            {
+                  "name": "Lacul Chios",
+                  "text": "Festői tó a Kolozsvári Botanikus Kert közelében, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.576887,
+                        46.768203
+                  ]
+            },
+            {
+                  "name": "Jumping House",
+                  "text": "Trambulinpark, amely aktív családi szórakozást kínál a Kolozsvári Botanikus Kert közelében.",
+                  "category": "family",
+                  "coords": [
+                        23.580808,
+                        46.784607
+                  ]
+            },
+            {
+                  "name": "Laser Tag Cluj",
+                  "text": "Családi szórakoztató központ a Kolozsvári Botanikus Kert közelében.",
+                  "category": "family",
+                  "coords": [
+                        23.570249,
+                        46.763506
+                  ]
+            },
+            {
+                  "name": "Colo Colo",
+                  "text": "Játszótér gyerekeknek a Kolozsvári Botanikus Kert területén.",
+                  "category": "family",
+                  "coords": [
+                        23.572682,
+                        46.767027
+                  ]
+            },
+            {
+                  "name": "Testvériség tér",
+                  "text": "Családi játszótér a Kolozsvári Botanikus Kert közelében.",
+                  "category": "family",
+                  "coords": [
+                        23.612113,
+                        46.773941
+                  ]
+            },
+            {
+                  "name": "Bartók Béla",
+                  "text": "Családi játszótér a Kolozsvári Botanikus Kert közelében.",
+                  "category": "family",
+                  "coords": [
+                        23.55884,
+                        46.76867
+                  ]
+            },
+            {
+                  "name": "Parc Aleea Slănic",
+                  "text": "Játszótér, amely szabadtéri kikapcsolódást kínál családoknak Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.61992,
+                        46.770222
+                  ]
+            },
+            {
+                  "name": "Parcul Stadion",
+                  "text": "Játszótér gyerekeknek a kolozsvári stadion környékén.",
+                  "category": "family",
+                  "coords": [
+                        23.574176,
+                        46.768785
+                  ]
+            },
+            {
+                  "name": "Grădinița Mica Sirenă",
+                  "text": "Kis játszótér családoknak Kolozsvár területén.",
+                  "category": "family",
+                  "coords": [
+                        23.557221,
+                        46.769392
+                  ]
+            },
+            {
+                  "name": "Parâng/Biserică",
+                  "text": "Játszótér családi szórakozáshoz Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.552564,
+                        46.753929
+                  ]
+            },
+            {
+                  "name": "Meteor/Jupiter",
+                  "text": "Családi játszótér Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.590047,
+                        46.754578
+                  ]
+            },
+            {
+                  "name": "Calea Dorobanților 89",
+                  "text": "Helyi játszótér gyerekeknek Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.608812,
+                        46.774586
+                  ]
+            },
+            {
+                  "name": "Virgil Onițiu 17",
+                  "text": "Kis játszótér családoknak Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.561425,
+                        46.772013
+                  ]
+            },
+            {
+                  "name": "Scărișoara 1-3",
+                  "text": "Játszótér családok részére Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.621541,
+                        46.764729
+                  ]
+            },
+            {
+                  "name": "Băița 3",
+                  "text": "Játszótér gyerekeknek Kolozsvár területén.",
+                  "category": "family",
+                  "coords": [
+                        23.621505,
+                        46.766625
+                  ]
+            },
+            {
+                  "name": "Băișoara 1-3",
+                  "text": "Helyi játszótér családoknak Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.622722,
+                        46.763103
+                  ]
+            },
+            {
+                  "name": "Liviu Rebreanu 58",
+                  "text": "Családi játszótér Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.620014,
+                        46.763617
+                  ]
+            },
+            {
+                  "name": "Băița 10-12",
+                  "text": "Kis játszótér gyerekeknek Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.623163,
+                        46.765162
+                  ]
+            },
+            {
+                  "name": "Bizușa 8",
+                  "text": "Játszótér családi kikapcsolódáshoz Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.622787,
+                        46.767281
+                  ]
+            },
+            {
+                  "name": "Unirii 7-9",
+                  "text": "Játszótér családoknak Kolozsvár városi területén.",
+                  "category": "family",
+                  "coords": [
+                        23.624332,
+                        46.768507
+                  ]
+            },
+            {
+                  "name": "Borsec 4",
+                  "text": "Helyi játszótér gyerekeknek Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.623922,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Aleea Azuga 2",
+                  "text": "Családi játszótér Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.618169,
+                        46.763313
+                  ]
+            },
+            {
+                  "name": "Albac 8",
+                  "text": "Játszótér gyerekeknek Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.616283,
+                        46.763064
+                  ]
+            },
+            {
+                  "name": "Rășinari 5",
+                  "text": "Kis játszótér családoknak Kolozsváron.",
+                  "category": "family",
+                  "coords": [
+                        23.61652,
+                        46.762072
                   ]
             }
       ],
@@ -20840,6 +25970,231 @@ export const romaniaCities: POI[] = [
                         23.588268,
                         46.769709
                   ]
+            },
+            {
+                  "name": "Rezervor apă",
+                  "text": "Un rezervor de apă situat în Grădina Botanică din Cluj-Napoca.",
+                  "category": "natural",
+                  "coords": [
+                        23.574861,
+                        46.758546
+                  ]
+            },
+            {
+                  "name": "Lacul Chios",
+                  "text": "Un lac pitoresc lângă Grădina Botanică din Cluj-Napoca, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        23.576887,
+                        46.768203
+                  ]
+            },
+            {
+                  "name": "Jumping House",
+                  "text": "Un parc de trambuline care oferă distracție activă pentru familie lângă Grădina Botanică din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.580808,
+                        46.784607
+                  ]
+            },
+            {
+                  "name": "Laser Tag Cluj",
+                  "text": "Un centru de divertisment pentru familii lângă Grădina Botanică din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.570249,
+                        46.763506
+                  ]
+            },
+            {
+                  "name": "Colo Colo",
+                  "text": "Un loc de joacă pentru copii în zona Grădinii Botanice din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.572682,
+                        46.767027
+                  ]
+            },
+            {
+                  "name": "Piața Fraternității",
+                  "text": "Un loc de joacă pentru familii situat lângă Grădina Botanică din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.612113,
+                        46.773941
+                  ]
+            },
+            {
+                  "name": "Bartók Béla",
+                  "text": "Un loc de joacă pentru familii lângă Grădina Botanică din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.55884,
+                        46.76867
+                  ]
+            },
+            {
+                  "name": "Parc Aleea Slănic",
+                  "text": "Un loc de joacă care oferă recreere în aer liber pentru familii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.61992,
+                        46.770222
+                  ]
+            },
+            {
+                  "name": "Parcul Stadion",
+                  "text": "Un loc de joacă pentru copii situat în zona stadionului din Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.574176,
+                        46.768785
+                  ]
+            },
+            {
+                  "name": "Grădinița Mica Sirenă",
+                  "text": "Un mic loc de joacă pentru familii în zona Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.557221,
+                        46.769392
+                  ]
+            },
+            {
+                  "name": "Parâng/Biserică",
+                  "text": "Un loc de joacă pentru distracție în familie în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.552564,
+                        46.753929
+                  ]
+            },
+            {
+                  "name": "Meteor/Jupiter",
+                  "text": "Un loc de joacă pentru familii situat în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.590047,
+                        46.754578
+                  ]
+            },
+            {
+                  "name": "Calea Dorobanților 89",
+                  "text": "Un loc de joacă local pentru copii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.608812,
+                        46.774586
+                  ]
+            },
+            {
+                  "name": "Virgil Onițiu 17",
+                  "text": "Un mic loc de joacă pentru familii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.561425,
+                        46.772013
+                  ]
+            },
+            {
+                  "name": "Scărișoara 1-3",
+                  "text": "Un loc de joacă pentru uz familial în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.621541,
+                        46.764729
+                  ]
+            },
+            {
+                  "name": "Băița 3",
+                  "text": "Un loc de joacă pentru copii în zona Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.621505,
+                        46.766625
+                  ]
+            },
+            {
+                  "name": "Băișoara 1-3",
+                  "text": "Un loc de joacă local pentru familii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622722,
+                        46.763103
+                  ]
+            },
+            {
+                  "name": "Liviu Rebreanu 58",
+                  "text": "Un loc de joacă pentru familii situat în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.620014,
+                        46.763617
+                  ]
+            },
+            {
+                  "name": "Băița 10-12",
+                  "text": "Un mic loc de joacă pentru copii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623163,
+                        46.765162
+                  ]
+            },
+            {
+                  "name": "Bizușa 8",
+                  "text": "Un loc de joacă pentru recreere în familie în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622787,
+                        46.767281
+                  ]
+            },
+            {
+                  "name": "Unirii 7-9",
+                  "text": "Un loc de joacă pentru familii în zona orașului Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.624332,
+                        46.768507
+                  ]
+            },
+            {
+                  "name": "Borsec 4",
+                  "text": "Un loc de joacă local pentru copii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623922,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Aleea Azuga 2",
+                  "text": "Un loc de joacă pentru familii situat în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.618169,
+                        46.763313
+                  ]
+            },
+            {
+                  "name": "Albac 8",
+                  "text": "Un loc de joacă pentru copii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.616283,
+                        46.763064
+                  ]
+            },
+            {
+                  "name": "Rășinari 5",
+                  "text": "Un mic loc de joacă pentru familii în Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.61652,
+                        46.762072
+                  ]
             }
       ],
       "en": [
@@ -21220,6 +26575,231 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.588268,
                         46.769709
+                  ]
+            },
+            {
+                  "name": "Rezervor apă",
+                  "text": "A water reservoir located in the Cluj Napoca Botanical Garden.",
+                  "category": "natural",
+                  "coords": [
+                        23.574861,
+                        46.758546
+                  ]
+            },
+            {
+                  "name": "Chios Lake",
+                  "text": "A scenic lake near the Cluj Napoca Botanical Garden, ideal for strolls.",
+                  "category": "natural",
+                  "coords": [
+                        23.576887,
+                        46.768203
+                  ]
+            },
+            {
+                  "name": "Jumping House",
+                  "text": "A trampoline park offering active family fun near the Cluj Napoca Botanical Garden.",
+                  "category": "family",
+                  "coords": [
+                        23.580808,
+                        46.784607
+                  ]
+            },
+            {
+                  "name": "Laser Tag Cluj",
+                  "text": "An amusement center for family entertainment near the Cluj Napoca Botanical Garden.",
+                  "category": "family",
+                  "coords": [
+                        23.570249,
+                        46.763506
+                  ]
+            },
+            {
+                  "name": "Colo Colo",
+                  "text": "A playground for children in the Cluj Napoca Botanical Garden area.",
+                  "category": "family",
+                  "coords": [
+                        23.572682,
+                        46.767027
+                  ]
+            },
+            {
+                  "name": "Piața Fraternității",
+                  "text": "A family playground located near the Cluj Napoca Botanical Garden.",
+                  "category": "family",
+                  "coords": [
+                        23.612113,
+                        46.773941
+                  ]
+            },
+            {
+                  "name": "Bartók Béla",
+                  "text": "A playground for families near the Cluj Napoca Botanical Garden.",
+                  "category": "family",
+                  "coords": [
+                        23.55884,
+                        46.76867
+                  ]
+            },
+            {
+                  "name": "Parc Aleea Slănic",
+                  "text": "A playground offering outdoor recreation for families in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.61992,
+                        46.770222
+                  ]
+            },
+            {
+                  "name": "Parcul Stadion",
+                  "text": "A playground for children located near the Cluj-Napoca stadium area.",
+                  "category": "family",
+                  "coords": [
+                        23.574176,
+                        46.768785
+                  ]
+            },
+            {
+                  "name": "Grădinița Mica Sirenă",
+                  "text": "A small playground for families in the Cluj-Napoca area.",
+                  "category": "family",
+                  "coords": [
+                        23.557221,
+                        46.769392
+                  ]
+            },
+            {
+                  "name": "Parâng/Biserică",
+                  "text": "A playground for family fun in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.552564,
+                        46.753929
+                  ]
+            },
+            {
+                  "name": "Meteor/Jupiter",
+                  "text": "A playground for families located in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.590047,
+                        46.754578
+                  ]
+            },
+            {
+                  "name": "Calea Dorobanților 89",
+                  "text": "A local playground for children in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.608812,
+                        46.774586
+                  ]
+            },
+            {
+                  "name": "Virgil Onițiu 17",
+                  "text": "A small playground for families in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.561425,
+                        46.772013
+                  ]
+            },
+            {
+                  "name": "Scărișoara 1-3",
+                  "text": "A playground for family use in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.621541,
+                        46.764729
+                  ]
+            },
+            {
+                  "name": "Băița 3",
+                  "text": "A playground for children in the Cluj-Napoca area.",
+                  "category": "family",
+                  "coords": [
+                        23.621505,
+                        46.766625
+                  ]
+            },
+            {
+                  "name": "Băișoara 1-3",
+                  "text": "A local playground for families in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622722,
+                        46.763103
+                  ]
+            },
+            {
+                  "name": "Liviu Rebreanu 58",
+                  "text": "A playground for families located in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.620014,
+                        46.763617
+                  ]
+            },
+            {
+                  "name": "Băița 10-12",
+                  "text": "A small playground for children in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623163,
+                        46.765162
+                  ]
+            },
+            {
+                  "name": "Bizușa 8",
+                  "text": "A playground for family recreation in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.622787,
+                        46.767281
+                  ]
+            },
+            {
+                  "name": "Unirii 7-9",
+                  "text": "A playground for families in the Cluj-Napoca city area.",
+                  "category": "family",
+                  "coords": [
+                        23.624332,
+                        46.768507
+                  ]
+            },
+            {
+                  "name": "Borsec 4",
+                  "text": "A local playground for children in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.623922,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Aleea Azuga 2",
+                  "text": "A playground for families located in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.618169,
+                        46.763313
+                  ]
+            },
+            {
+                  "name": "Albac 8",
+                  "text": "A playground for children in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.616283,
+                        46.763064
+                  ]
+            },
+            {
+                  "name": "Rășinari 5",
+                  "text": "A small playground for families in Cluj-Napoca.",
+                  "category": "family",
+                  "coords": [
+                        23.61652,
+                        46.762072
                   ]
             }
       ]
@@ -22829,6 +28409,186 @@ export const romaniaCities: POI[] = [
                         27.566722,
                         47.178389
                   ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu bei der Gheorghe Asachi Universität ist ein weitläufiger See, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț bei der Gheorghe Asachi Universität bietet eine ruhige Kulisse für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Lacul Ciric I bei der Gheorghe Asachi Universität ist ein beliebtes Ziel für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Lacul Veneția bei der Gheorghe Asachi Universität ist ein malerischer See, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Lacul Chirița bei der Gheorghe Asachi Universität bietet eine friedliche Atmosphäre für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri bei der Gheorghe Asachi Universität ist ein ruhiger See, der ideal für eine Pause im Grünen ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Lacul Grădinii Botanice Anastasie Fătu bei der Gheorghe Asachi Universität ist ein idyllisches Gewässer im botanischen Garten.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Lacul Ciric II bei der Gheorghe Asachi Universität lädt zu erholsamen Stunden in einer wasserreichen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura bei der Gheorghe Asachi Universität ist ein lebendiger Spielplatz, auf dem Kinder viel Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet bei der Gheorghe Asachi Universität bietet moderne Unterhaltungsmöglichkeiten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Playground bloc 260 bei der Gheorghe Asachi Universität ist ein praktischer Spielplatz für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Ciprian Ionașcu",
+                  "text": "Ciprian Ionașcu bei der Gheorghe Asachi Universität bietet Kindern einen freundlichen Ort zum gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        27.555622,
+                        47.174823
+                  ]
+            },
+            {
+                  "name": "Abandoned Playground",
+                  "text": "Abandoned Playground bei der Gheorghe Asachi Universität ist ein stillgelegter Spielbereich mit einer besonderen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        27.548303,
+                        47.172429
+                  ]
+            },
+            {
+                  "name": "Playground Canta",
+                  "text": "Playground Canta bei der Gheorghe Asachi Universität ist ein einladender Ort für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        27.547123,
+                        47.173904
+                  ]
+            },
+            {
+                  "name": "Lumea Copiilor",
+                  "text": "Lumea Copiilor bei der Gheorghe Asachi Universität ist ein wunderbarer Ort, der ganz den Bedürfnissen von Kindern gewidmet ist.",
+                  "category": "family",
+                  "coords": [
+                        27.560585,
+                        47.185747
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor bei der Gheorghe Asachi Universität bietet Kindern einen sicheren Platz für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "Teren minigolf bei der Gheorghe Asachi Universität bietet sportlichen Spaß und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground Razboieni 2",
+                  "text": "Playground Razboieni 2 bei der Gheorghe Asachi Universität ist ein schöner Bereich für Kinder zum aktiven Spielen.",
+                  "category": "family",
+                  "coords": [
+                        27.546791,
+                        47.17282
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Playground blocuri 258 bei der Gheorghe Asachi Universität bietet eine wohnortnahe Spielmöglichkeit für Familien.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 bei der Gheorghe Asachi Universität ist ein kleiner Spielplatz, der ideal für kurze Pausen im Freien ist.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
+                  ]
             }
       ],
       "hu": [
@@ -22850,6 +28610,186 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.566722,
                         47.178389
+                  ]
+            },
+            {
+                  "name": "Aroneanu gyűjtő",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Acumularea Aroneanu egy tágas tó, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "A Gheorghe Asachi Egyetemnél található Acumularea Dorobanț nyugodt környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "A Gheorghe Asachi Egyetem közelében fekvő Lacul Ciric I népszerű hely a vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "A Gheorghe Asachi Egyetemnél található Lacul Veneția egy festői tó, amely a természetben való időzésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Lacul Chirița békés hangulatot kínál a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "A Gheorghe Asachi Egyetemnél található Doi Peri egy nyugodt tó, amely tökéletes egy kis pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "A botanikus kertben található tó idilli környezetet biztosít az egyetem közelében.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "A Gheorghe Asachi Egyetemnél fekvő Lacul Ciric II pihentető órákra hív a vízparti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "A Gheorghe Asachi Egyetemnél található De-a dura egy életteli játszótér, ahol a gyerekek jól szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Starnet modern szórakozási lehetőségeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "A Gheorghe Asachi Egyetemnél található Playground bloc 260 egy praktikus játszótér a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Ciprian Ionașcu",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Ciprian Ionașcu barátságos helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.555622,
+                        47.174823
+                  ]
+            },
+            {
+                  "name": "Abandoned Playground",
+                  "text": "A Gheorghe Asachi Egyetemnél található Abandoned Playground egy használaton kívüli terület különleges hangulattal.",
+                  "category": "family",
+                  "coords": [
+                        27.548303,
+                        47.172429
+                  ]
+            },
+            {
+                  "name": "Playground Canta",
+                  "text": "A Gheorghe Asachi Egyetem közelében fekvő Playground Canta hívogató hely a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.547123,
+                        47.173904
+                  ]
+            },
+            {
+                  "name": "Lumea Copiilor",
+                  "text": "A Gheorghe Asachi Egyetemnél lévő Lumea Copiilor egy csodás hely, amelyet a gyerekek igényeire terveztek.",
+                  "category": "family",
+                  "coords": [
+                        27.560585,
+                        47.185747
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "A Gheorghe Asachi Egyetem közelében található Irinel Nistor biztonságos helyet nyújt a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "A Gheorghe Asachi Egyetemnél található minigolfpálya sportos szórakozást kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground Razboieni 2",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Playground Razboieni 2 szép terület az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.546791,
+                        47.17282
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "A Gheorghe Asachi Egyetemnél található Playground blocuri 258 lakóhely közeli játéklehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "A Gheorghe Asachi Egyetem közelében lévő Parc bloc R5 egy kis játszótér a rövid szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
                   ]
             }
       ],
@@ -22873,6 +28813,186 @@ export const romaniaCities: POI[] = [
                         27.566722,
                         47.178389
                   ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu de lângă Universitatea Gheorghe Asachi este un lac întins, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț de la Universitatea Gheorghe Asachi oferă un cadru liniștit pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Lacul Ciric I de lângă Universitatea Gheorghe Asachi este o destinație populară pentru activități recreative pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Lacul Veneția de la Universitatea Gheorghe Asachi este un lac pitoresc care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Lacul Chirița de lângă Universitatea Gheorghe Asachi oferă o atmosferă pașnică pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri de la Universitatea Gheorghe Asachi este un lac liniștit, ideal pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Lacul Grădinii Botanice Anastasie Fătu de lângă Universitatea Gheorghe Asachi este o apă idilică în grădina botanică.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Lacul Ciric II de la Universitatea Gheorghe Asachi invită la momente de relaxare într-un cadru bogat în ape.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura de la Universitatea Gheorghe Asachi este un spațiu de joacă plin de viață, unde copiii se pot distra de minune.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet de lângă Universitatea Gheorghe Asachi oferă opțiuni moderne de divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Playground bloc 260 de la Universitatea Gheorghe Asachi este un spațiu de joacă practic pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Ciprian Ionașcu",
+                  "text": "Ciprian Ionașcu de lângă Universitatea Gheorghe Asachi oferă copiilor un loc prietenos pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        27.555622,
+                        47.174823
+                  ]
+            },
+            {
+                  "name": "Abandoned Playground",
+                  "text": "Abandoned Playground de la Universitatea Gheorghe Asachi este un spațiu de joacă abandonat, cu o atmosferă aparte.",
+                  "category": "family",
+                  "coords": [
+                        27.548303,
+                        47.172429
+                  ]
+            },
+            {
+                  "name": "Playground Canta",
+                  "text": "Playground Canta de lângă Universitatea Gheorghe Asachi este un loc primitor pentru copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        27.547123,
+                        47.173904
+                  ]
+            },
+            {
+                  "name": "Lumea Copiilor",
+                  "text": "Lumea Copiilor de la Universitatea Gheorghe Asachi este un loc minunat, dedicat în întregime nevoilor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        27.560585,
+                        47.185747
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor de lângă Universitatea Gheorghe Asachi oferă copiilor un loc sigur pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "Terenul de minigolf de la Universitatea Gheorghe Asachi oferă distracție sportivă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground Razboieni 2",
+                  "text": "Playground Razboieni 2 de lângă Universitatea Gheorghe Asachi este o zonă frumoasă pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        27.546791,
+                        47.17282
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Playground blocuri 258 de la Universitatea Gheorghe Asachi oferă o variantă de joacă aproape de casă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 de lângă Universitatea Gheorghe Asachi este un mic loc de joacă, ideal pentru scurte pauze afară.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
+                  ]
             }
       ],
       "en": [
@@ -22894,6 +29014,186 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.566722,
                         47.178389
+                  ]
+            },
+            {
+                  "name": "Acumularea Aroneanu",
+                  "text": "Acumularea Aroneanu near Gheorghe Asachi University is a large lake, ideal for walking.",
+                  "category": "natural",
+                  "coords": [
+                        27.594207,
+                        47.201347
+                  ]
+            },
+            {
+                  "name": "Acumularea Dorobanț",
+                  "text": "Acumularea Dorobanț at Gheorghe Asachi University offers a peaceful setting for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.588105,
+                        47.222835
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric I",
+                  "text": "Lacul Ciric I near Gheorghe Asachi University is a popular spot for lakeside leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        27.60063,
+                        47.187965
+                  ]
+            },
+            {
+                  "name": "Lacul Veneția",
+                  "text": "Lacul Veneția at Gheorghe Asachi University is a scenic lake that invites visitors to enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.614289,
+                        47.169879
+                  ]
+            },
+            {
+                  "name": "Lacul Chirița",
+                  "text": "Lacul Chirița near Gheorghe Asachi University offers a peaceful atmosphere for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.64925,
+                        47.172277
+                  ]
+            },
+            {
+                  "name": "Doi Peri",
+                  "text": "Doi Peri at Gheorghe Asachi University is a calm lake, perfect for a break in the green.",
+                  "category": "natural",
+                  "coords": [
+                        27.607414,
+                        47.129279
+                  ]
+            },
+            {
+                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
+                  "text": "Lacul Grădinii Botanice Anastasie Fătu near Gheorghe Asachi University is an idyllic lake within the botanical garden.",
+                  "category": "natural",
+                  "coords": [
+                        27.548701,
+                        47.185717
+                  ]
+            },
+            {
+                  "name": "Lacul Ciric II",
+                  "text": "Lacul Ciric II at Gheorghe Asachi University invites visitors for relaxing hours in a waterside setting.",
+                  "category": "natural",
+                  "coords": [
+                        27.605615,
+                        47.179802
+                  ]
+            },
+            {
+                  "name": "De-a dura",
+                  "text": "De-a dura at Gheorghe Asachi University is a lively playground where children can have a lot of fun.",
+                  "category": "family",
+                  "coords": [
+                        27.57682,
+                        47.177907
+                  ]
+            },
+            {
+                  "name": "Starnet",
+                  "text": "Starnet near Gheorghe Asachi University offers modern entertainment options for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        27.588783,
+                        47.152831
+                  ]
+            },
+            {
+                  "name": "Playground bloc 260",
+                  "text": "Playground bloc 260 at Gheorghe Asachi University is a convenient playground for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        27.556029,
+                        47.167581
+                  ]
+            },
+            {
+                  "name": "Ciprian Ionașcu",
+                  "text": "Ciprian Ionașcu near Gheorghe Asachi University offers a friendly spot for children to play together.",
+                  "category": "family",
+                  "coords": [
+                        27.555622,
+                        47.174823
+                  ]
+            },
+            {
+                  "name": "Abandoned Playground",
+                  "text": "Abandoned Playground at Gheorghe Asachi University is a disused play area with a unique atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        27.548303,
+                        47.172429
+                  ]
+            },
+            {
+                  "name": "Playground Canta",
+                  "text": "Playground Canta near Gheorghe Asachi University is an inviting spot for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        27.547123,
+                        47.173904
+                  ]
+            },
+            {
+                  "name": "Lumea Copiilor",
+                  "text": "Lumea Copiilor at Gheorghe Asachi University is a wonderful place dedicated entirely to children's needs.",
+                  "category": "family",
+                  "coords": [
+                        27.560585,
+                        47.185747
+                  ]
+            },
+            {
+                  "name": "Irinel Nistor",
+                  "text": "Irinel Nistor near Gheorghe Asachi University provides a safe spot for children to enjoy outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        27.559367,
+                        47.161644
+                  ]
+            },
+            {
+                  "name": "Teren minigolf",
+                  "text": "The minigolf course at Gheorghe Asachi University offers sporting fun and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        27.604536,
+                        47.179435
+                  ]
+            },
+            {
+                  "name": "Playground Razboieni 2",
+                  "text": "Playground Razboieni 2 near Gheorghe Asachi University is a nice area for children to play actively.",
+                  "category": "family",
+                  "coords": [
+                        27.546791,
+                        47.17282
+                  ]
+            },
+            {
+                  "name": "Playground blocuri 258",
+                  "text": "Playground blocuri 258 at Gheorghe Asachi University provides a nearby play option for local families.",
+                  "category": "family",
+                  "coords": [
+                        27.55503,
+                        47.168532
+                  ]
+            },
+            {
+                  "name": "Parc bloc R5",
+                  "text": "Parc bloc R5 near Gheorghe Asachi University is a small playground, perfect for short breaks outdoors.",
+                  "category": "family",
+                  "coords": [
+                        27.553562,
+                        47.168323
                   ]
             }
       ]
@@ -23481,6 +29781,186 @@ export const romaniaCities: POI[] = [
                         26.103709,
                         44.443503
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Ein malerischer See in der Nähe der Bukarester Altstadt, ideal für Spaziergänge und Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Ein See in entspannender Umgebung in der Nähe der Bukarester Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Ein malerischer See in der Umgebung der Bukarester Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Ein Absetzbecken in Bucharest Old Town, das Teil der lokalen Wasserlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.002994,
+                        44.444706
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni ist ein Wasserbecken in Bucharest Old Town, das einen ruhigen Platz am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița ist ein weitläufiger See in Bucharest Old Town, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR ist ein beliebter See in Bucharest Old Town, der sich perfekt zum Entspannen im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon in Bucharest Old Town ist ein schöner See, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Herăstrău-See",
+                  "text": "Der Herăstrău-See ist ein bekannter See in Bucharest Old Town, ideal für Bootsfahrten und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera ist ein malerisches Gewässer in Bucharest Old Town, das eine natürliche Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului ist ein zentraler See in Bucharest Old Town, umgeben von Grünflächen für die Freizeitgestaltung.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita in Bucharest Old Town ist ein ruhiger See, der sich gut für entspannte Nachmittage eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești ist ein See in Bucharest Old Town, der eine schöne Kulisse für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lake Fundeni ist ein markanter See in Bucharest Old Town, ideal zum Entspannen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Dieser Park in Bucharest Old Town bietet einen sicheren und freundlichen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "GV PvP VR in Bucharest Old Town bietet aufregende Virtual-Reality-Erlebnisse für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet ist ein Indoor-Spielplatz in Bucharest Old Town mit vielen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "GAME WORLD in Bucharest Old Town ist ein Unterhaltungszentrum mit verschiedenen Spielen für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Parcul Patrat ist ein lokaler Spielplatz in Bucharest Old Town, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele On-Road",
+                  "text": "Diese On-Road-Modellautorennbahn in Bucharest Old Town bietet Spaß für kleine und große Rennfahrer.",
+                  "category": "family",
+                  "coords": [
+                        26.115783,
+                        44.405645
+                  ]
             }
       ],
       "hu": [
@@ -24039,6 +30519,186 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.103709,
                         44.443503
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Festői tó a bukaresti óváros közelében, ideális sétákhoz és a kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Pihentető környezetet kínáló tó a bukaresti óváros közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Festői tó a bukaresti óváros környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Egy ülepítő medence Bucharest Old Town területén, amely a helyi vízfelületek része.",
+                  "category": "natural",
+                  "coords": [
+                        26.002994,
+                        44.444706
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "A Bazin apa Cotroceni egy víztározó Bucharest Old Town területén, amely csendes helyet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "A Lacul Grivița egy tágas tó Bucharest Old Town területén, amely ideális a part menti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "A Lacul IOR egy népszerű tó Bucharest Old Town területén, amely tökéletes a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "A Lacul Pantelimon Bucharest Old Town területén egy szép tó, amely hívogató a természetben való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "A Herăstrău-tó egy jól ismert tó Bucharest Old Town területén, amely ideális csónakázáshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "A Balta Pipera egy festői vízfelület Bucharest Old Town területén, amely természetes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "A Lacul Tineretului egy központi tó Bucharest Old Town területén, amelyet szabadidős tevékenységekre alkalmas zöldövezet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "A Lacul Plumbuita Bucharest Old Town területén egy nyugodt tó, amely kiválóan alkalmas a pihentető délutánokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "A Lacul Dobroești egy tó Bucharest Old Town területén, amely szép hátteret biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "A Lake Fundeni egy jelentős tó Bucharest Old Town területén, amely ideális a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Ez a Bucharest Old Town területén található park biztonságos és barátságos játszóhelyet kínál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "A GV PvP VR Bucharest Old Town területén izgalmas virtuális valóság élményeket kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "A Fun Planet egy beltéri játszóház Bucharest Old Town területén, számos tevékenységgel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "A GAME WORLD Bucharest Old Town területén egy szórakoztató központ, különféle játékokkal a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "A Parcul Patrat egy helyi játszótér Bucharest Old Town területén, amely ideális egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele On-Road",
+                  "text": "Ez az on-road modellautó pálya Bucharest Old Town területén szórakozást nyújt kicsi és nagy versenyzőknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        26.115783,
+                        44.405645
                   ]
             }
       ],
@@ -24599,6 +31259,186 @@ export const romaniaCities: POI[] = [
                         26.103709,
                         44.443503
                   ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Un lac pitoresc lângă Centrul Vechi al Bucureștiului, ideal pentru plimbări și vederi.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "Un lac care oferă un cadru relaxant lângă Centrul Vechi al Bucureștiului.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lacul Băneasa",
+                  "text": "Un lac pitoresc în vecinătatea Centrului Vechi al Bucureștiului.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "Un bazin de decantare din Bucharest Old Town, care face parte din peisajul acvatic local.",
+                  "category": "natural",
+                  "coords": [
+                        26.002994,
+                        44.444706
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni este un bazin de apă din Bucharest Old Town, oferind un loc liniștit lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița este un lac întins din Bucharest Old Town, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR este un lac popular din Bucharest Old Town, perfect pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon din Bucharest Old Town este un lac frumos, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău este un lac binecunoscut din Bucharest Old Town, ideal pentru plimbări cu barca și promenadă.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera este un luciu de apă pitoresc din Bucharest Old Town, oferind un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului este un lac central din Bucharest Old Town, înconjurat de spații verzi pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita din Bucharest Old Town este un lac liniștit, potrivit pentru după-amiezi relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești este un lac din Bucharest Old Town, care oferă un cadru frumos pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lacul Fundeni",
+                  "text": "Lake Fundeni este un lac proeminent din Bucharest Old Town, ideal pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Acest parc din Bucharest Old Town oferă un spațiu de joacă sigur și primitor pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "GV PvP VR din Bucharest Old Town oferă experiențe captivante de realitate virtuală pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet este un spațiu de joacă interior din Bucharest Old Town, cu multe activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "GAME WORLD din Bucharest Old Town este un centru de divertisment cu diverse jocuri pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Parcul Patrat este un loc de joacă local din Bucharest Old Town, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele On-Road",
+                  "text": "Această pistă de automodelism on-road din Bucharest Old Town oferă distracție pentru piloții mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        26.115783,
+                        44.405645
+                  ]
             }
       ],
       "en": [
@@ -25157,6 +31997,186 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.103709,
                         44.443503
+                  ]
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "A scenic lake near Bucharest Old Town, ideal for walks and views.",
+                  "category": "natural",
+                  "coords": [
+                        26.02768,
+                        44.454233
+                  ]
+            },
+            {
+                  "name": "Lacul Drumul Taberei",
+                  "text": "A lake offering a relaxing setting near Bucharest Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        26.031161,
+                        44.420762
+                  ]
+            },
+            {
+                  "name": "Lake Băneasa",
+                  "text": "A scenic lake in the vicinity of Bucharest Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        26.126792,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Bazin decantare",
+                  "text": "A settling basin in Bucharest Old Town that forms part of the local water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.002994,
+                        44.444706
+                  ]
+            },
+            {
+                  "name": "Bazin apa Cotroceni",
+                  "text": "Bazin apa Cotroceni is a water basin in Bucharest Old Town offering a quiet spot by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.057237,
+                        44.435057
+                  ]
+            },
+            {
+                  "name": "Lacul Grivița",
+                  "text": "Lacul Grivița is a spacious lake in Bucharest Old Town, ideal for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.042831,
+                        44.499222
+                  ]
+            },
+            {
+                  "name": "Lacul IOR",
+                  "text": "Lacul IOR is a popular lake in Bucharest Old Town, perfect for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.155788,
+                        44.423381
+                  ]
+            },
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Lacul Pantelimon in Bucharest Old Town is a beautiful lake that invites visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.209104,
+                        44.441318
+                  ]
+            },
+            {
+                  "name": "Lacul Herăstrău",
+                  "text": "Lacul Herăstrău is a well-known lake in Bucharest Old Town, ideal for boat rides and walking.",
+                  "category": "natural",
+                  "coords": [
+                        26.082021,
+                        44.480881
+                  ]
+            },
+            {
+                  "name": "Balta Pipera",
+                  "text": "Balta Pipera is a scenic body of water in Bucharest Old Town, offering a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.123002,
+                        44.494553
+                  ]
+            },
+            {
+                  "name": "Lacul Tineretului",
+                  "text": "Lacul Tineretului is a central lake in Bucharest Old Town, surrounded by green spaces for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.105651,
+                        44.406062
+                  ]
+            },
+            {
+                  "name": "Lacul Plumbuita",
+                  "text": "Lacul Plumbuita in Bucharest Old Town is a calm lake, well-suited for relaxing afternoons.",
+                  "category": "natural",
+                  "coords": [
+                        26.131876,
+                        44.471172
+                  ]
+            },
+            {
+                  "name": "Lacul Dobroești",
+                  "text": "Lacul Dobroești is a lake in Bucharest Old Town that provides a nice backdrop for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.173695,
+                        44.449024
+                  ]
+            },
+            {
+                  "name": "Lake Fundeni",
+                  "text": "Lake Fundeni is a prominent lake in Bucharest Old Town, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.150077,
+                        44.455844
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "This park in Bucharest Old Town offers a safe and friendly play area for children.",
+                  "category": "family",
+                  "coords": [
+                        26.084353,
+                        44.416817
+                  ]
+            },
+            {
+                  "name": "GV PvP VR",
+                  "text": "GV PvP VR in Bucharest Old Town offers exciting virtual reality experiences for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        26.120635,
+                        44.439112
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet is an indoor playground in Bucharest Old Town with many activities for children.",
+                  "category": "family",
+                  "coords": [
+                        26.127267,
+                        44.420431
+                  ]
+            },
+            {
+                  "name": "GAME WORLD",
+                  "text": "GAME WORLD in Bucharest Old Town is an entertainment center with various games for visitors.",
+                  "category": "family",
+                  "coords": [
+                        26.120016,
+                        44.44395
+                  ]
+            },
+            {
+                  "name": "Parcul Patrat",
+                  "text": "Parcul Patrat is a local playground in Bucharest Old Town, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        26.117177,
+                        44.436666
+                  ]
+            },
+            {
+                  "name": "Pista Automodele On-Road",
+                  "text": "This on-road model car track in Bucharest Old Town offers fun for racers of all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.115783,
+                        44.405645
                   ]
             }
       ]
@@ -29652,6 +36672,24 @@ export const romaniaExtraPois: POI[] = [
                         24.502778,
                         47.130711
                   ]
+            },
+            {
+                  "name": "Lacul de agrement",
+                  "text": "Der Lacul de agrement in Bistrița ist ein See, der sich ideal für Freizeitaktivitäten und Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.521055,
+                        47.146284
+                  ]
+            },
+            {
+                  "name": "WiniLand",
+                  "text": "WiniLand in Bistrița ist ein familienfreundlicher Spielplatz mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        24.486399,
+                        47.132293
+                  ]
             }
       ],
       "hu": [
@@ -29723,6 +36761,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.502778,
                         47.130711
+                  ]
+            },
+            {
+                  "name": "Lacul de agrement",
+                  "text": "A besztercei Lacul de agrement egy tó, amely ideális szabadidős tevékenységekhez és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.521055,
+                        47.146284
+                  ]
+            },
+            {
+                  "name": "WiniLand",
+                  "text": "A besztercei WiniLand egy családbarát játszótér számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        24.486399,
+                        47.132293
                   ]
             }
       ],
@@ -29796,6 +36852,24 @@ export const romaniaExtraPois: POI[] = [
                         24.502778,
                         47.130711
                   ]
+            },
+            {
+                  "name": "Lacul de agrement",
+                  "text": "Lacul de agrement din Bistrița este un lac ideal pentru activități de timp liber și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.521055,
+                        47.146284
+                  ]
+            },
+            {
+                  "name": "WiniLand",
+                  "text": "WiniLand din Bistrița este un teren de joacă pentru familii, cu multe opțiuni de distracție.",
+                  "category": "family",
+                  "coords": [
+                        24.486399,
+                        47.132293
+                  ]
             }
       ],
       "en": [
@@ -29867,6 +36941,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.502778,
                         47.130711
+                  ]
+            },
+            {
+                  "name": "Lacul de agrement",
+                  "text": "Lacul de agrement in Bistrita is a lake ideal for leisure activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.521055,
+                        47.146284
+                  ]
+            },
+            {
+                  "name": "WiniLand",
+                  "text": "WiniLand in Bistrita is a family-friendly playground with many play options.",
+                  "category": "family",
+                  "coords": [
+                        24.486399,
+                        47.132293
                   ]
             }
       ]
@@ -30242,6 +37334,24 @@ export const romaniaExtraPois: POI[] = [
                         22.423736,
                         44.888922
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare Prisaca",
+                  "text": "Lacul de acumulare Prisaca in Baile Herculane ist ein beeindruckender Stausee inmitten einer wunderschönen Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.467289,
+                        44.948541
+                  ]
+            },
+            {
+                  "name": "Balta Mehadia",
+                  "text": "Balta Mehadia ist ein See in Baile Herculane, der eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.355188,
+                        44.923055
+                  ]
             }
       ],
       "hu": [
@@ -30328,6 +37438,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         22.423736,
                         44.888922
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Prisaca",
+                  "text": "A Baile Herculane területén található Prisaca-víztározó egy lenyűgöző tó a gyönyörű hegyi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.467289,
+                        44.948541
+                  ]
+            },
+            {
+                  "name": "Balta Mehadia",
+                  "text": "A Balta Mehadia egy tó Baile Herculane területén, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.355188,
+                        44.923055
                   ]
             }
       ],
@@ -30416,6 +37544,24 @@ export const romaniaExtraPois: POI[] = [
                         22.423736,
                         44.888922
                   ]
+            },
+            {
+                  "name": "Lacul de acumulare Prisaca",
+                  "text": "Lacul de acumulare Prisaca din Băile Herculane este un lac impresionant situat într-un peisaj montan superb.",
+                  "category": "natural",
+                  "coords": [
+                        22.467289,
+                        44.948541
+                  ]
+            },
+            {
+                  "name": "Balta Mehadia",
+                  "text": "Balta Mehadia este un lac din Băile Herculane, oferind un cadru liniștit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.355188,
+                        44.923055
+                  ]
             }
       ],
       "en": [
@@ -30502,6 +37648,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         22.423736,
                         44.888922
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Prisaca",
+                  "text": "Lacul de acumulare Prisaca in Baile Herculane is an impressive reservoir set in a beautiful mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.467289,
+                        44.948541
+                  ]
+            },
+            {
+                  "name": "Balta Mehadia",
+                  "text": "Balta Mehadia is a lake in Baile Herculane, offering a peaceful setting for walks and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.355188,
+                        44.923055
                   ]
             }
       ]
@@ -30712,6 +37876,51 @@ export const romaniaExtraPois: POI[] = [
                         25.785883,
                         45.863765
                   ]
+            },
+            {
+                  "name": "Lacul din Ilieni",
+                  "text": "Lacul din Ilieni ist ein ruhiger See bei Sfantu Gheorghe, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        25.778987,
+                        45.803592
+                  ]
+            },
+            {
+                  "name": "Bányató 2.-Lacul de mină 1.",
+                  "text": "Dieser ehemalige Bergbausee in Sfantu Gheorghe ist heute ein malerisches Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.797964,
+                        45.797712
+                  ]
+            },
+            {
+                  "name": "Lacul Criș",
+                  "text": "Lacul Criș ist ein kleiner See in Sfantu Gheorghe, der eine friedliche Umgebung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.784588,
+                        45.910282
+                  ]
+            },
+            {
+                  "name": "Lac artificial",
+                  "text": "Dieser künstliche See in Sfantu Gheorghe ist ein schöner Ort zum Entspannen und Beobachten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.806092,
+                        45.861635
+                  ]
+            },
+            {
+                  "name": "Lacul Gémvári",
+                  "text": "Lacul Gémvári ist ein See in Sfantu Gheorghe, der sich hervorragend für ruhige Momente am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.759526,
+                        45.874449
+                  ]
             }
       ],
       "hu": [
@@ -30864,6 +38073,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.785883,
                         45.863765
+                  ]
+            },
+            {
+                  "name": "Illyefalvi tó",
+                  "text": "Az ilieni-tó Sfantu Gheorghe közelében egy nyugodt vízfelület, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.778987,
+                        45.803592
+                  ]
+            },
+            {
+                  "name": "Bányató 2.-Lacul de mină 1.",
+                  "text": "Ez az egykori bányató Sfantu Gheorghe területén ma festői úti cél a természet kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        25.797964,
+                        45.797712
+                  ]
+            },
+            {
+                  "name": "Körös-tó",
+                  "text": "A Lacul Criș egy kis tó Sfantu Gheorghe területén, amely békés szabadtéri környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.784588,
+                        45.910282
+                  ]
+            },
+            {
+                  "name": "Lac artificial",
+                  "text": "Ez a mesterséges tó Sfantu Gheorghe területén szép hely a pihenésre és a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.806092,
+                        45.861635
+                  ]
+            },
+            {
+                  "name": "Gémvári tó",
+                  "text": "A Lacul Gémvári egy tó Sfantu Gheorghe területén, amely kiválóan alkalmas a vízparti csendes percekhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.759526,
+                        45.874449
                   ]
             }
       ],
@@ -31018,6 +38272,51 @@ export const romaniaExtraPois: POI[] = [
                         25.785883,
                         45.863765
                   ]
+            },
+            {
+                  "name": "Lacul din Ilieni",
+                  "text": "Lacul din Ilieni este un lac liniștit de lângă Sfântu Gheorghe, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.778987,
+                        45.803592
+                  ]
+            },
+            {
+                  "name": "Bányató 2.-Lacul de mină 1.",
+                  "text": "Acest fost lac de mină din Sfântu Gheorghe este astăzi o destinație pitorească pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.797964,
+                        45.797712
+                  ]
+            },
+            {
+                  "name": "Lacul Criș",
+                  "text": "Lacul Criș este un lac mic din Sfântu Gheorghe, care oferă un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.784588,
+                        45.910282
+                  ]
+            },
+            {
+                  "name": "Lac artificial",
+                  "text": "Acest lac artificial din Sfântu Gheorghe este un loc plăcut pentru relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.806092,
+                        45.861635
+                  ]
+            },
+            {
+                  "name": "Lacul Gémvári",
+                  "text": "Lacul Gémvári este un lac din Sfântu Gheorghe, excelent pentru momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.759526,
+                        45.874449
+                  ]
             }
       ],
       "en": [
@@ -31170,6 +38469,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.785883,
                         45.863765
+                  ]
+            },
+            {
+                  "name": "Lacul din Ilieni",
+                  "text": "Lacul din Ilieni is a calm lake near Sfantu Gheorghe, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        25.778987,
+                        45.803592
+                  ]
+            },
+            {
+                  "name": "Bányató 2.-Lacul de mină 1.",
+                  "text": "This former mine lake in Sfantu Gheorghe is now a scenic destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.797964,
+                        45.797712
+                  ]
+            },
+            {
+                  "name": "Lacul Criș",
+                  "text": "Lacul Criș is a small lake in Sfantu Gheorghe providing a peaceful outdoor setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.784588,
+                        45.910282
+                  ]
+            },
+            {
+                  "name": "Lac artificial",
+                  "text": "This artificial lake in Sfantu Gheorghe is a nice spot for relaxing and observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.806092,
+                        45.861635
+                  ]
+            },
+            {
+                  "name": "Lacul Gémvári",
+                  "text": "Lacul Gémvári is a lake in Sfantu Gheorghe, excellent for quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.759526,
+                        45.874449
                   ]
             }
       ]
@@ -31602,6 +38946,15 @@ export const romaniaExtraPois: POI[] = [
                         27.359966,
                         44.55733
                   ]
+            },
+            {
+                  "name": "Lacul Iezer - Gheorghe Lazăr",
+                  "text": "Der Lacul Iezer - Gheorghe Lazăr in Slobozia ist ein See, der zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.422003,
+                        44.606362
+                  ]
             }
       ],
       "hu": [
@@ -31698,6 +39051,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.359966,
                         44.55733
+                  ]
+            },
+            {
+                  "name": "Lacul Iezer - Gheorghe Lazăr",
+                  "text": "A sloboziai Lacul Iezer - Gheorghe Lazăr egy tó, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.422003,
+                        44.606362
                   ]
             }
       ],
@@ -31796,6 +39158,15 @@ export const romaniaExtraPois: POI[] = [
                         27.359966,
                         44.55733
                   ]
+            },
+            {
+                  "name": "Lacul Iezer - Gheorghe Lazăr",
+                  "text": "Lacul Iezer - Gheorghe Lazăr din Slobozia este un lac care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.422003,
+                        44.606362
+                  ]
             }
       ],
       "en": [
@@ -31892,6 +39263,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.359966,
                         44.55733
+                  ]
+            },
+            {
+                  "name": "Lacul Iezer - Gheorghe Lazăr",
+                  "text": "Lacul Iezer - Gheorghe Lazăr in Slobozia is a lake that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.422003,
+                        44.606362
                   ]
             }
       ]
@@ -32303,6 +39683,15 @@ export const romaniaExtraPois: POI[] = [
                         24.354213,
                         44.430837
                   ]
+            },
+            {
+                  "name": "Open air public children playground",
+                  "text": "Dieser öffentliche Freiluft-Spielplatz in Slatina bietet Kindern einen sicheren Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        24.363535,
+                        44.428023
+                  ]
             }
       ],
       "hu": [
@@ -32457,6 +39846,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.354213,
                         44.430837
+                  ]
+            },
+            {
+                  "name": "Open air public children playground",
+                  "text": "Ez a slatinai nyilvános szabadtéri játszótér biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        24.363535,
+                        44.428023
                   ]
             }
       ],
@@ -32613,6 +40011,15 @@ export const romaniaExtraPois: POI[] = [
                         24.354213,
                         44.430837
                   ]
+            },
+            {
+                  "name": "Open air public children playground",
+                  "text": "Acest loc de joacă public în aer liber din Slatina oferă un spațiu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        24.363535,
+                        44.428023
+                  ]
             }
       ],
       "en": [
@@ -32767,6 +40174,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.354213,
                         44.430837
+                  ]
+            },
+            {
+                  "name": "Open air public children playground",
+                  "text": "This open-air public playground in Slatina provides a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        24.363535,
+                        44.428023
                   ]
             }
       ]
@@ -32959,6 +40375,15 @@ export const romaniaExtraPois: POI[] = [
                         23.057299,
                         47.1801
                   ]
+            },
+            {
+                  "name": "Parc Brădet",
+                  "text": "Parc Brădet in Zalau ist ein freundlicher Spielplatz für Kinder in einer grünen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        23.06707,
+                        47.171703
+                  ]
             }
       ],
       "hu": [
@@ -33095,6 +40520,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         23.057299,
                         47.1801
+                  ]
+            },
+            {
+                  "name": "Parc Brădet",
+                  "text": "A zalai Parc Brădet egy barátságos játszótér a gyermekek számára, zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        23.06707,
+                        47.171703
                   ]
             }
       ],
@@ -33233,6 +40667,15 @@ export const romaniaExtraPois: POI[] = [
                         23.057299,
                         47.1801
                   ]
+            },
+            {
+                  "name": "Parc Brădet",
+                  "text": "Parc Brădet din Zalău este un loc de joacă prietenos pentru copii, situat într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        23.06707,
+                        47.171703
+                  ]
             }
       ],
       "en": [
@@ -33369,6 +40812,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         23.057299,
                         47.1801
+                  ]
+            },
+            {
+                  "name": "Parc Brădet",
+                  "text": "Parc Brădet in Zalau is a friendly playground for children set in a green area.",
+                  "category": "family",
+                  "coords": [
+                        23.06707,
+                        47.171703
                   ]
             }
       ]

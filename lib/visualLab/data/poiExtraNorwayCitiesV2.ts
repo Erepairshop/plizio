@@ -121,6 +121,69 @@ export const norwayCitiesV2: POI[] = [
                         7.160347,
                         62.73837
                   ]
+            },
+            {
+                  "name": "Bergsvatnet",
+                  "text": "Bergsvatnet ist ein See bei Molde, der von einer malerischen Berglandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.213381,
+                        62.764336
+                  ]
+            },
+            {
+                  "name": "Bårdsdalsvatnet",
+                  "text": "Bårdsdalsvatnet ist ein ruhiger Bergsee in der Region Molde für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        7.223012,
+                        62.773006
+                  ]
+            },
+            {
+                  "name": "Fjellbrudammen",
+                  "text": "Fjellbrudammen ist ein See bei Molde, der sich für Wanderungen in der Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        7.169901,
+                        62.75262
+                  ]
+            },
+            {
+                  "name": "Moldevatnet",
+                  "text": "Moldevatnet ist ein See oberhalb von Molde mit schöner Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.184995,
+                        62.775705
+                  ]
+            },
+            {
+                  "name": "Holstjørna",
+                  "text": "Holstjørna ist ein kleinerer See bei Molde für ruhige Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        7.17126,
+                        62.775665
+                  ]
+            },
+            {
+                  "name": "Øverlandsvatnet",
+                  "text": "Øverlandsvatnet ist ein beliebtes Wanderziel bei Molde an einem ruhigen See.",
+                  "category": "natural",
+                  "coords": [
+                        7.205762,
+                        62.758918
+                  ]
+            },
+            {
+                  "name": "Krokodilla",
+                  "text": "Krokodilla ist ein fantasievoller Spielplatz in Molde für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        7.169824,
+                        62.753577
+                  ]
             }
       ],
       "hu": [
@@ -239,6 +302,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.160347,
                         62.73837
+                  ]
+            },
+            {
+                  "name": "Bergsvatnet",
+                  "text": "A Bergsvatnet egy Molde közeli tó, amelyet festői hegyi táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        7.213381,
+                        62.764336
+                  ]
+            },
+            {
+                  "name": "Bårdsdalsvatnet",
+                  "text": "A Bårdsdalsvatnet egy nyugodt hegyi tó Molde régiójában a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        7.223012,
+                        62.773006
+                  ]
+            },
+            {
+                  "name": "Fjellbrudammen",
+                  "text": "A Fjellbrudammen egy Molde közeli víztározó, amely alkalmas a környékbeli túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        7.169901,
+                        62.75262
+                  ]
+            },
+            {
+                  "name": "Moldevatnet",
+                  "text": "A Moldevatnet egy Molde feletti tó, szép kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.184995,
+                        62.775705
+                  ]
+            },
+            {
+                  "name": "Holstjørna",
+                  "text": "A Holstjørna egy kisebb tó Molde közelében a nyugodt természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        7.17126,
+                        62.775665
+                  ]
+            },
+            {
+                  "name": "Øverlandsvatnet",
+                  "text": "Az Øverlandsvatnet egy népszerű túracélpont Molde közelében egy nyugodt tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        7.205762,
+                        62.758918
+                  ]
+            },
+            {
+                  "name": "Krokodilla",
+                  "text": "A Krokodilla egy fantáziadús játszótér Moldéban a gyermekek számára a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        7.169824,
+                        62.753577
                   ]
             }
       ],
@@ -359,6 +485,69 @@ export const norwayCitiesV2: POI[] = [
                         7.160347,
                         62.73837
                   ]
+            },
+            {
+                  "name": "Bergsvatnet",
+                  "text": "Bergsvatnet este un lac lângă Molde, înconjurat de un peisaj montan pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        7.213381,
+                        62.764336
+                  ]
+            },
+            {
+                  "name": "Bårdsdalsvatnet",
+                  "text": "Bårdsdalsvatnet este un lac montan liniștit în regiunea Molde pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.223012,
+                        62.773006
+                  ]
+            },
+            {
+                  "name": "Fjellbrudammen",
+                  "text": "Fjellbrudammen este un lac de acumulare lângă Molde, potrivit pentru drumeții în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        7.169901,
+                        62.75262
+                  ]
+            },
+            {
+                  "name": "Moldevatnet",
+                  "text": "Moldevatnet este un lac deasupra orașului Molde, cu o vedere frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        7.184995,
+                        62.775705
+                  ]
+            },
+            {
+                  "name": "Holstjørna",
+                  "text": "Holstjørna este un lac mai mic lângă Molde pentru experiențe liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.17126,
+                        62.775665
+                  ]
+            },
+            {
+                  "name": "Øverlandsvatnet",
+                  "text": "Øverlandsvatnet este o destinație populară de drumeție lângă Molde, pe malul unui lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        7.205762,
+                        62.758918
+                  ]
+            },
+            {
+                  "name": "Krokodilla",
+                  "text": "Krokodilla este un loc de joacă plin de imaginație în Molde pentru copii, pentru explorare.",
+                  "category": "family",
+                  "coords": [
+                        7.169824,
+                        62.753577
+                  ]
             }
       ],
       "en": [
@@ -477,6 +666,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.160347,
                         62.73837
+                  ]
+            },
+            {
+                  "name": "Bergsvatnet",
+                  "text": "Bergsvatnet is a lake near Molde, surrounded by a picturesque mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.213381,
+                        62.764336
+                  ]
+            },
+            {
+                  "name": "Bårdsdalsvatnet",
+                  "text": "Bårdsdalsvatnet is a quiet mountain lake in the Molde region for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.223012,
+                        62.773006
+                  ]
+            },
+            {
+                  "name": "Fjellbrudammen",
+                  "text": "Fjellbrudammen is a reservoir near Molde, suitable for hiking in the area.",
+                  "category": "natural",
+                  "coords": [
+                        7.169901,
+                        62.75262
+                  ]
+            },
+            {
+                  "name": "Moldevatnet",
+                  "text": "Moldevatnet is a lake above Molde with a beautiful view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.184995,
+                        62.775705
+                  ]
+            },
+            {
+                  "name": "Holstjørna",
+                  "text": "Holstjørna is a smaller lake near Molde for quiet nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        7.17126,
+                        62.775665
+                  ]
+            },
+            {
+                  "name": "Øverlandsvatnet",
+                  "text": "Øverlandsvatnet is a popular hiking destination near Molde by a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        7.205762,
+                        62.758918
+                  ]
+            },
+            {
+                  "name": "Krokodilla",
+                  "text": "Krokodilla is an imaginative playground in Molde for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        7.169824,
+                        62.753577
                   ]
             }
       ]
@@ -1390,6 +1642,24 @@ export const norwayCitiesV2: POI[] = [
                         11.091217,
                         59.27057
                   ]
+            },
+            {
+                  "name": "Lekeområde",
+                  "text": "Dieser Spielplatz in Sarpsborg bietet verschiedene Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.089421,
+                        59.29625
+                  ]
+            },
+            {
+                  "name": "Trafikksikkerhetsløype",
+                  "text": "Dieser Spielplatz in Sarpsborg bietet eine sicherheitsorientierte Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.061808,
+                        59.296843
+                  ]
             }
       ],
       "hu": [
@@ -1589,6 +1859,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.091217,
                         59.27057
+                  ]
+            },
+            {
+                  "name": "Lekeområde",
+                  "text": "Ez a sarpsborgi játszótér különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        11.089421,
+                        59.29625
+                  ]
+            },
+            {
+                  "name": "Trafikksikkerhetsløype",
+                  "text": "Ez a sarpsborgi játszótér biztonságos környezetet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.061808,
+                        59.296843
                   ]
             }
       ],
@@ -1790,6 +2078,24 @@ export const norwayCitiesV2: POI[] = [
                         11.091217,
                         59.27057
                   ]
+            },
+            {
+                  "name": "Lekeområde",
+                  "text": "Acest loc de joacă din Sarpsborg oferă diverse facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.089421,
+                        59.29625
+                  ]
+            },
+            {
+                  "name": "Trafikksikkerhetsløype",
+                  "text": "Acest loc de joacă din Sarpsborg oferă un mediu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.061808,
+                        59.296843
+                  ]
             }
       ],
       "en": [
@@ -1990,6 +2296,24 @@ export const norwayCitiesV2: POI[] = [
                         11.091217,
                         59.27057
                   ]
+            },
+            {
+                  "name": "Lekeområde",
+                  "text": "This playground in Sarpsborg offers various play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        11.089421,
+                        59.29625
+                  ]
+            },
+            {
+                  "name": "Trafikksikkerhetsløype",
+                  "text": "This playground in Sarpsborg provides a safety-oriented environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        11.061808,
+                        59.296843
+                  ]
             }
       ]
 },
@@ -2037,7 +2361,340 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sarpsborg-cities-v2.webp",
   },
   {
-    id: "norway-skien-cities-v2",
+    id: "norway-skien-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulvsvann",
+                  "text": "Ulvsvann ist ein See in Skien, der Möglichkeiten zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.531413,
+                        59.246529
+                  ]
+            },
+            {
+                  "name": "Nordre Trytetjenn",
+                  "text": "Nordre Trytetjenn ist ein See in der Natur von Skien für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        9.526032,
+                        59.22458
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen ist ein See in Skien, der eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Limitjenn",
+                  "text": "Limitjenn ist ein lokaler See in Skien für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.544704,
+                        59.234234
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø ist ein großer See bei Skien für vielfältige Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet ist ein malerischer See in Skien, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            },
+            {
+                  "name": "Gampedalen",
+                  "text": "Gampedalen ist ein lokaler Spielplatz in Skien, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.61874,
+                        59.202201
+                  ]
+            },
+            {
+                  "name": "Kapitelberget",
+                  "text": "Kapitelberget ist ein lokaler Spielplatz in Skien, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.625921,
+                        59.201345
+                  ]
+            },
+            {
+                  "name": "Rottejomfruen",
+                  "text": "Rottejomfruen ist ein lokaler Spielplatz in Skien, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.604784,
+                        59.202469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulvsvann",
+                  "text": "Az Ulvsvann egy tó Skienben, amely túrázási és pihenési lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.531413,
+                        59.246529
+                  ]
+            },
+            {
+                  "name": "Nordre Trytetjenn",
+                  "text": "A Nordre Trytetjenn egy nyugodt tó Skien természetében egy zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.526032,
+                        59.22458
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "A Kverndammen egy tó Skienben, amely békés hangulatot áraszt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Limitjenn",
+                  "text": "A Limitjenn egy helyi tó Skienben vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.544704,
+                        59.234234
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "A Norsjø egy nagy és jelentős tó Skien közelében a változatos szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "A Hjellevannet egy festői tó Skien városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            },
+            {
+                  "name": "Gampedalen",
+                  "text": "A Gampedalen egy helyi játszótér Skien városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.61874,
+                        59.202201
+                  ]
+            },
+            {
+                  "name": "Kapitelberget",
+                  "text": "A Kapitelberget egy helyi játszótér Skien városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.625921,
+                        59.201345
+                  ]
+            },
+            {
+                  "name": "Rottejomfruen",
+                  "text": "A Rottejomfruen egy helyi játszótér Skien városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.604784,
+                        59.202469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulvsvann",
+                  "text": "Ulvsvann este un lac în Skien care oferă posibilități de drumeție și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.531413,
+                        59.246529
+                  ]
+            },
+            {
+                  "name": "Nordre Trytetjenn",
+                  "text": "Nordre Trytetjenn este un lac liniștit în natura din Skien pentru o ieșire în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.526032,
+                        59.22458
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen este un lac în Skien care oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Limitjenn",
+                  "text": "Limitjenn este un lac local în Skien pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.544704,
+                        59.234234
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø este un lac mare și important lângă Skien pentru diverse activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet este un lac pitoresc din Skien, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            },
+            {
+                  "name": "Gampedalen",
+                  "text": "Gampedalen este un loc de joacă local din Skien, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.61874,
+                        59.202201
+                  ]
+            },
+            {
+                  "name": "Kapitelberget",
+                  "text": "Kapitelberget este un loc de joacă local din Skien, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.625921,
+                        59.201345
+                  ]
+            },
+            {
+                  "name": "Rottejomfruen",
+                  "text": "Rottejomfruen este un loc de joacă local din Skien, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.604784,
+                        59.202469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulvsvann",
+                  "text": "Ulvsvann is a lake in Skien offering opportunities for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.531413,
+                        59.246529
+                  ]
+            },
+            {
+                  "name": "Nordre Trytetjenn",
+                  "text": "Nordre Trytetjenn is a quiet lake in the nature of Skien for an outing in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.526032,
+                        59.22458
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen is a lake in Skien offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Limitjenn",
+                  "text": "Limitjenn is a local lake in Skien for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.544704,
+                        59.234234
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø is a large and significant lake near Skien for diverse recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet is a scenic lake in Skien, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            },
+            {
+                  "name": "Gampedalen",
+                  "text": "Gampedalen is a local playground in Skien, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        9.61874,
+                        59.202201
+                  ]
+            },
+            {
+                  "name": "Kapitelberget",
+                  "text": "Kapitelberget is a local playground in Skien, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        9.625921,
+                        59.201345
+                  ]
+            },
+            {
+                  "name": "Rottejomfruen",
+                  "text": "Rottejomfruen is a local playground in Skien, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        9.604784,
+                        59.202469
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Skien", hu: "Skien", ro: "Skien", en: "Skien" },
@@ -2856,7 +3513,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-haugesund-cities-v2.webp",
   },
   {
-    id: "norway-moss-cities-v2",
+    id: "norway-moss-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Damåstjern",
+                  "text": "Damåstjern ist ein lokaler See in Moss, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        10.69742,
+                        59.498828
+                  ]
+            },
+            {
+                  "name": "Kongshavntjern",
+                  "text": "Kongshavntjern ist ein See in Moss, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.661739,
+                        59.496974
+                  ]
+            },
+            {
+                  "name": "Molbekktjernet",
+                  "text": "Molbekktjernet ist ein malerischer See in Moss, ideal für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        10.676832,
+                        59.45892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Damåstjern",
+                  "text": "A Damåstjern egy helyi tó Moss városában, amely ideális sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.69742,
+                        59.498828
+                  ]
+            },
+            {
+                  "name": "Kongshavntjern",
+                  "text": "A Kongshavntjern egy tó Moss közelében, amely nyugodt természeti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        10.661739,
+                        59.496974
+                  ]
+            },
+            {
+                  "name": "Molbekktjernet",
+                  "text": "A Molbekktjernet egy festői tó Mossban, amely kiváló a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.676832,
+                        59.45892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Damåstjern",
+                  "text": "Damåstjern este un lac local din Moss, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.69742,
+                        59.498828
+                  ]
+            },
+            {
+                  "name": "Kongshavntjern",
+                  "text": "Kongshavntjern este un lac din Moss, oferind un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        10.661739,
+                        59.496974
+                  ]
+            },
+            {
+                  "name": "Molbekktjernet",
+                  "text": "Molbekktjernet este un lac pitoresc din Moss, ideal pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.676832,
+                        59.45892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Damåstjern",
+                  "text": "Damåstjern is a local lake in Moss, ideal for walks and observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.69742,
+                        59.498828
+                  ]
+            },
+            {
+                  "name": "Kongshavntjern",
+                  "text": "Kongshavntjern is a lake in Moss, offering a peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        10.661739,
+                        59.496974
+                  ]
+            },
+            {
+                  "name": "Molbekktjernet",
+                  "text": "Molbekktjernet is a scenic lake in Moss, ideal for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        10.676832,
+                        59.45892
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Moss", hu: "Moss", ro: "Moss", en: "Moss" },
@@ -2901,7 +3675,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-moss-cities-v2.webp",
   },
   {
-    id: "norway-sandefjord-cities-v2",
+    id: "norway-sandefjord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Åshildrødtjernet",
+                  "text": "Åshildrødtjernet ist ein malerischer See in Sandefjord, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        10.118194,
+                        59.174818
+                  ]
+            },
+            {
+                  "name": "Goksjø",
+                  "text": "Goksjø ist ein malerischer See in Sandefjord, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        10.148129,
+                        59.176162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Åshildrødtjernet",
+                  "text": "A Åshildrødtjernet egy festői tó Sandefjord városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.118194,
+                        59.174818
+                  ]
+            },
+            {
+                  "name": "Goksjø",
+                  "text": "A Goksjø egy festői tó Sandefjord városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.148129,
+                        59.176162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Åshildrødtjernet",
+                  "text": "Åshildrødtjernet este un lac pitoresc din Sandefjord, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.118194,
+                        59.174818
+                  ]
+            },
+            {
+                  "name": "Goksjø",
+                  "text": "Goksjø este un lac pitoresc din Sandefjord, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.148129,
+                        59.176162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Åshildrødtjernet",
+                  "text": "Åshildrødtjernet is a scenic lake in Sandefjord, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.118194,
+                        59.174818
+                  ]
+            },
+            {
+                  "name": "Goksjø",
+                  "text": "Goksjø is a scenic lake in Sandefjord, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.148129,
+                        59.176162
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sandefjord", hu: "Sandefjord", ro: "Sandefjord", en: "Sandefjord" },
@@ -2946,7 +3801,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sandefjord-cities-v2.webp",
   },
   {
-    id: "norway-arendal-cities-v2",
+    id: "norway-arendal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Longumvannet",
+                  "text": "Der Longumvannet ist ein See in Arendal, der eine ruhige Naturumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.759163,
+                        58.492576
+                  ]
+            },
+            {
+                  "name": "Skyland",
+                  "text": "Dieser Trampolinpark in Arendal ist ein toller Ort für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.747043,
+                        58.464563
+                  ]
+            },
+            {
+                  "name": "Sletta",
+                  "text": "Dieser Spielplatz in Arendal bietet Kindern einen Platz zum Toben im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.770032,
+                        58.453564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Longumvannet",
+                  "text": "A Longumvannet egy tó Arendal területén, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.759163,
+                        58.492576
+                  ]
+            },
+            {
+                  "name": "Skyland",
+                  "text": "Ez a Arendal városában található trambulinpark remek hely az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.747043,
+                        58.464563
+                  ]
+            },
+            {
+                  "name": "Sletta",
+                  "text": "Ez a Arendal városában található játszótér helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.770032,
+                        58.453564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Longumvannet",
+                  "text": "Longumvannet este un lac din Arendal care oferă un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        8.759163,
+                        58.492576
+                  ]
+            },
+            {
+                  "name": "Skyland",
+                  "text": "Acest parc de trambuline din Arendal este un loc minunat pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.747043,
+                        58.464563
+                  ]
+            },
+            {
+                  "name": "Sletta",
+                  "text": "Acest loc de joacă din Arendal oferă copiilor un spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.770032,
+                        58.453564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Longumvannet",
+                  "text": "Longumvannet is a lake in Arendal that offers a peaceful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.759163,
+                        58.492576
+                  ]
+            },
+            {
+                  "name": "Skyland",
+                  "text": "This trampoline park in Arendal is a great place for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        8.747043,
+                        58.464563
+                  ]
+            },
+            {
+                  "name": "Sletta",
+                  "text": "This playground in Arendal provides children with a place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        8.770032,
+                        58.453564
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Arendal", hu: "Arendal", ro: "Arendal", en: "Arendal" },
@@ -3145,6 +4117,60 @@ export const norwayCitiesV2: POI[] = [
                         10.070269,
                         59.037331
                   ]
+            },
+            {
+                  "name": "Mølledammen",
+                  "text": "Mølledammen ist ein See in Larvik, der zum Spazierengehen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.910426,
+                        59.015964
+                  ]
+            },
+            {
+                  "name": "Plaskedammen",
+                  "text": "Plaskedammen ist ein lokaler See in Larvik, ideal zum Genießen der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        10.033135,
+                        59.046385
+                  ]
+            },
+            {
+                  "name": "Vannbassenget",
+                  "text": "Vannbassenget ist ein See in Larvik, der Möglichkeiten für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.026685,
+                        59.000531
+                  ]
+            },
+            {
+                  "name": "Farrisvannet",
+                  "text": "Farrisvannet ist ein großer See bei Larvik, bekannt für seine schöne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.933805,
+                        59.136229
+                  ]
+            },
+            {
+                  "name": "Rush trampolinepark Larvik",
+                  "text": "Dieser Trampolinpark in Larvik bietet aktiven Spaß und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.07738,
+                        59.053477
+                  ]
+            },
+            {
+                  "name": "Jerpeveien lekeplass",
+                  "text": "Dieser Spielplatz in Larvik bietet verschiedene Spielgeräte für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.044009,
+                        59.058548
+                  ]
             }
       ],
       "hu": [
@@ -3299,6 +4325,60 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.070269,
                         59.037331
+                  ]
+            },
+            {
+                  "name": "Mølledammen",
+                  "text": "A Mølledammen egy tó Larvikban, amely hívogató környezetet kínál a sétáláshoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.910426,
+                        59.015964
+                  ]
+            },
+            {
+                  "name": "Plaskedammen",
+                  "text": "A Plaskedammen egy helyi tó Larvikban, amely ideális a környék élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.033135,
+                        59.046385
+                  ]
+            },
+            {
+                  "name": "Vannbassenget",
+                  "text": "A Vannbassenget egy tó Larvikban, amely lehetőséget nyújt szabadtéri sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        10.026685,
+                        59.000531
+                  ]
+            },
+            {
+                  "name": "Farrisvannet",
+                  "text": "A Farrisvannet egy nagy tó Larvik közelében, amely szép tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.933805,
+                        59.136229
+                  ]
+            },
+            {
+                  "name": "Rush trampolinepark Larvik",
+                  "text": "Ez a larviki trambulinpark aktív szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.07738,
+                        59.053477
+                  ]
+            },
+            {
+                  "name": "Jerpeveien lekeplass",
+                  "text": "Ez a larviki játszótér különféle játékokat kínál a gyermekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.044009,
+                        59.058548
                   ]
             }
       ],
@@ -3455,6 +4535,60 @@ export const norwayCitiesV2: POI[] = [
                         10.070269,
                         59.037331
                   ]
+            },
+            {
+                  "name": "Mølledammen",
+                  "text": "Mølledammen este un lac din Larvik, oferind un cadru plăcut pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.910426,
+                        59.015964
+                  ]
+            },
+            {
+                  "name": "Plaskedammen",
+                  "text": "Plaskedammen este un lac local din Larvik, ideal pentru a se bucura de împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        10.033135,
+                        59.046385
+                  ]
+            },
+            {
+                  "name": "Vannbassenget",
+                  "text": "Vannbassenget este un lac din Larvik, oferind oportunități pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.026685,
+                        59.000531
+                  ]
+            },
+            {
+                  "name": "Farrisvannet",
+                  "text": "Farrisvannet este un lac mare de lângă Larvik, cunoscut pentru peisajele sale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        9.933805,
+                        59.136229
+                  ]
+            },
+            {
+                  "name": "Rush trampolinepark Larvik",
+                  "text": "Acest parc de trambuline din Larvik oferă distracție activă și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.07738,
+                        59.053477
+                  ]
+            },
+            {
+                  "name": "Jerpeveien lekeplass",
+                  "text": "Acest loc de joacă din Larvik oferă diverse echipamente de joacă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        10.044009,
+                        59.058548
+                  ]
             }
       ],
       "en": [
@@ -3609,6 +4743,60 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.070269,
                         59.037331
+                  ]
+            },
+            {
+                  "name": "Mølledammen",
+                  "text": "Mølledammen is a lake in Larvik, offering an inviting setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        9.910426,
+                        59.015964
+                  ]
+            },
+            {
+                  "name": "Plaskedammen",
+                  "text": "Plaskedammen is a local lake in Larvik, ideal for enjoying the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        10.033135,
+                        59.046385
+                  ]
+            },
+            {
+                  "name": "Vannbassenget",
+                  "text": "Vannbassenget is a lake in Larvik, providing opportunities for outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        10.026685,
+                        59.000531
+                  ]
+            },
+            {
+                  "name": "Farrisvannet",
+                  "text": "Farrisvannet is a large lake near Larvik, known for its beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.933805,
+                        59.136229
+                  ]
+            },
+            {
+                  "name": "Rush trampolinepark Larvik",
+                  "text": "This trampoline park in Larvik features active fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.07738,
+                        59.053477
+                  ]
+            },
+            {
+                  "name": "Jerpeveien lekeplass",
+                  "text": "This playground in Larvik offers various play equipment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        10.044009,
+                        59.058548
                   ]
             }
       ]
@@ -4765,6 +5953,24 @@ export const norwayCitiesV2: POI[] = [
                         11.24423,
                         60.32341
                   ]
+            },
+            {
+                  "name": "Hurdalssjøen",
+                  "text": "Der Hurdalssjøen ist ein See in Eidsvoll, der eine schöne Kulisse für Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.086243,
+                        60.350631
+                  ]
+            },
+            {
+                  "name": "Nedre Holsjøen",
+                  "text": "Der Nedre Holsjøen ist ein See in Eidsvoll, der Ruhe und Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.342469,
+                        60.371984
+                  ]
             }
       ],
       "hu": [
@@ -4775,6 +5981,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.24423,
                         60.32341
+                  ]
+            },
+            {
+                  "name": "Hurdalssjøen",
+                  "text": "A Hurdalssjøen egy tó Eidsvoll területén, amely szép környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.086243,
+                        60.350631
+                  ]
+            },
+            {
+                  "name": "Nedre Holsjøen",
+                  "text": "A Nedre Holsjøen egy tó Eidsvoll területén, amely nyugalmat és természetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        11.342469,
+                        60.371984
                   ]
             }
       ],
@@ -4787,6 +6011,24 @@ export const norwayCitiesV2: POI[] = [
                         11.24423,
                         60.32341
                   ]
+            },
+            {
+                  "name": "Hurdalssjøen",
+                  "text": "Hurdalssjøen este un lac din Eidsvoll care oferă un cadru frumos pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.086243,
+                        60.350631
+                  ]
+            },
+            {
+                  "name": "Nedre Holsjøen",
+                  "text": "Nedre Holsjøen este un lac din Eidsvoll care oferă liniște și natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.342469,
+                        60.371984
+                  ]
             }
       ],
       "en": [
@@ -4797,6 +6039,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.24423,
                         60.32341
+                  ]
+            },
+            {
+                  "name": "Hurdalssjøen",
+                  "text": "Hurdalssjøen is a lake in Eidsvoll that offers a beautiful setting for nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        11.086243,
+                        60.350631
+                  ]
+            },
+            {
+                  "name": "Nedre Holsjøen",
+                  "text": "Nedre Holsjøen is a lake in Eidsvoll that offers peace and nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.342469,
+                        60.371984
                   ]
             }
       ]
@@ -5692,6 +6952,69 @@ export const norwayCitiesV2: POI[] = [
                         11.015102,
                         59.95263
                   ]
+            },
+            {
+                  "name": "Ramstadsjøen",
+                  "text": "Der Ramstadsjøen ist ein See in Lillestrøm, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        11.057571,
+                        59.889559
+                  ]
+            },
+            {
+                  "name": "Øyeren",
+                  "text": "Der Øyeren ist ein See in Lillestrøm, der eine weite Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.18401,
+                        59.77617
+                  ]
+            },
+            {
+                  "name": "Svellet",
+                  "text": "Der Svellet ist ein See in Lillestrøm, der zu erholsamen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.109239,
+                        59.920594
+                  ]
+            },
+            {
+                  "name": "Åmotdammen",
+                  "text": "Der Åmotdammen ist ein See in Lillestrøm, ein schönes Ziel für Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        11.029823,
+                        59.916421
+                  ]
+            },
+            {
+                  "name": "Torva Lekeplass",
+                  "text": "Dieser Spielplatz in Lillestrøm bietet Kindern Raum zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        11.050061,
+                        59.947722
+                  ]
+            },
+            {
+                  "name": "Lekeplass",
+                  "text": "Dieser Spielplatz in Lillestrøm ist ein Ort für Kinder, um sich im Freien zu vergnügen.",
+                  "category": "family",
+                  "coords": [
+                        11.001351,
+                        59.956128
+                  ]
+            },
+            {
+                  "name": "barne lodge",
+                  "text": "Dieser Spielplatz in Lillestrøm bietet eine kinderfreundliche Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.050069,
+                        59.939671
+                  ]
             }
       ],
       "hu": [
@@ -5747,6 +7070,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.015102,
                         59.95263
+                  ]
+            },
+            {
+                  "name": "Ramstadsjøen",
+                  "text": "A Ramstadsjøen egy tó Lillestrøm területén, ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.057571,
+                        59.889559
+                  ]
+            },
+            {
+                  "name": "Øyeren",
+                  "text": "Az Øyeren egy tó Lillestrøm területén, amely tágas természeti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        11.18401,
+                        59.77617
+                  ]
+            },
+            {
+                  "name": "Svellet",
+                  "text": "A Svellet egy tó Lillestrøm területén, amely pihentető pillanatokat kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        11.109239,
+                        59.920594
+                  ]
+            },
+            {
+                  "name": "Åmotdammen",
+                  "text": "Az Åmotdammen egy tó Lillestrøm területén, kedvelt célpont a zöldövezeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.029823,
+                        59.916421
+                  ]
+            },
+            {
+                  "name": "Torva Lekeplass",
+                  "text": "Ez a Lillestrøm városában található játszótér játékra és felfedezésre várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        11.050061,
+                        59.947722
+                  ]
+            },
+            {
+                  "name": "Lekeplass",
+                  "text": "Ez a Lillestrøm városában található játszótér remek hely a gyerekeknek a szabadtéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.001351,
+                        59.956128
+                  ]
+            },
+            {
+                  "name": "barne lodge",
+                  "text": "Ez a Lillestrøm városában található játszótér gyerekbarát környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.050069,
+                        59.939671
                   ]
             }
       ],
@@ -5804,6 +7190,69 @@ export const norwayCitiesV2: POI[] = [
                         11.015102,
                         59.95263
                   ]
+            },
+            {
+                  "name": "Ramstadsjøen",
+                  "text": "Ramstadsjøen este un lac din Lillestrøm, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.057571,
+                        59.889559
+                  ]
+            },
+            {
+                  "name": "Øyeren",
+                  "text": "Øyeren este un lac din Lillestrøm care oferă un peisaj natural vast.",
+                  "category": "natural",
+                  "coords": [
+                        11.18401,
+                        59.77617
+                  ]
+            },
+            {
+                  "name": "Svellet",
+                  "text": "Svellet este un lac din Lillestrøm care invită la momente relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.109239,
+                        59.920594
+                  ]
+            },
+            {
+                  "name": "Åmotdammen",
+                  "text": "Åmotdammen este un lac din Lillestrøm, o destinație frumoasă pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.029823,
+                        59.916421
+                  ]
+            },
+            {
+                  "name": "Torva Lekeplass",
+                  "text": "Acest loc de joacă din Lillestrøm oferă spațiu pentru joacă și explorare copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.050061,
+                        59.947722
+                  ]
+            },
+            {
+                  "name": "Lekeplass",
+                  "text": "Acest loc de joacă din Lillestrøm este un loc unde copiii se pot distra în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.001351,
+                        59.956128
+                  ]
+            },
+            {
+                  "name": "barne lodge",
+                  "text": "Acest loc de joacă din Lillestrøm oferă un mediu prietenos pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.050069,
+                        59.939671
+                  ]
             }
       ],
       "en": [
@@ -5859,6 +7308,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.015102,
                         59.95263
+                  ]
+            },
+            {
+                  "name": "Ramstadsjøen",
+                  "text": "Ramstadsjøen is a lake in Lillestrøm, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        11.057571,
+                        59.889559
+                  ]
+            },
+            {
+                  "name": "Øyeren",
+                  "text": "Øyeren is a lake in Lillestrøm that offers a vast natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.18401,
+                        59.77617
+                  ]
+            },
+            {
+                  "name": "Svellet",
+                  "text": "Svellet is a lake in Lillestrøm that invites relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.109239,
+                        59.920594
+                  ]
+            },
+            {
+                  "name": "Åmotdammen",
+                  "text": "Åmotdammen is a lake in Lillestrøm, a nice destination for trips into the green.",
+                  "category": "natural",
+                  "coords": [
+                        11.029823,
+                        59.916421
+                  ]
+            },
+            {
+                  "name": "Torva Lekeplass",
+                  "text": "This playground in Lillestrøm offers space for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        11.050061,
+                        59.947722
+                  ]
+            },
+            {
+                  "name": "Lekeplass",
+                  "text": "This playground in Lillestrøm is a place for children to enjoy themselves outdoors.",
+                  "category": "family",
+                  "coords": [
+                        11.001351,
+                        59.956128
+                  ]
+            },
+            {
+                  "name": "barne lodge",
+                  "text": "This playground in Lillestrøm offers a child-friendly environment for play.",
+                  "category": "family",
+                  "coords": [
+                        11.050069,
+                        59.939671
                   ]
             }
       ]
@@ -6610,6 +8122,24 @@ export const norwayCitiesV2: POI[] = [
                         11.49409,
                         64.014901
                   ]
+            },
+            {
+                  "name": "Fossemvatnet",
+                  "text": "Fossemvatnet ist ein See in Steinkjer, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        11.631356,
+                        64.064439
+                  ]
+            },
+            {
+                  "name": "Reinsvatnet",
+                  "text": "Reinsvatnet ist ein See in Steinkjer, der eine ruhige Umgebung für Aktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.581206,
+                        64.041097
+                  ]
             }
       ],
       "hu": [
@@ -6701,6 +8231,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.49409,
                         64.014901
+                  ]
+            },
+            {
+                  "name": "Fossemvatnet",
+                  "text": "A Fossemvatnet egy tó Steinkjerben, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.631356,
+                        64.064439
+                  ]
+            },
+            {
+                  "name": "Reinsvatnet",
+                  "text": "A Reinsvatnet egy tó Steinkjer közelében, amely nyugodt környezetet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.581206,
+                        64.041097
                   ]
             }
       ],
@@ -6794,6 +8342,24 @@ export const norwayCitiesV2: POI[] = [
                         11.49409,
                         64.014901
                   ]
+            },
+            {
+                  "name": "Fossemvatnet",
+                  "text": "Fossemvatnet este un lac din Steinkjer, ideal pentru plimbări și pentru a se bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.631356,
+                        64.064439
+                  ]
+            },
+            {
+                  "name": "Reinsvatnet",
+                  "text": "Reinsvatnet este un lac din Steinkjer, oferind un cadru liniștit pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        11.581206,
+                        64.041097
+                  ]
             }
       ],
       "en": [
@@ -6885,6 +8451,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.49409,
                         64.014901
+                  ]
+            },
+            {
+                  "name": "Fossemvatnet",
+                  "text": "Fossemvatnet is a lake in Steinkjer, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.631356,
+                        64.064439
+                  ]
+            },
+            {
+                  "name": "Reinsvatnet",
+                  "text": "Reinsvatnet is a lake in Steinkjer, offering a peaceful setting for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        11.581206,
+                        64.041097
                   ]
             }
       ]
@@ -7024,6 +8608,69 @@ export const norwayCitiesV2: POI[] = [
                         11.494992,
                         64.465682
                   ]
+            },
+            {
+                  "name": "Barstadvatnet",
+                  "text": "Barstadvatnet ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.565607,
+                        64.409903
+                  ]
+            },
+            {
+                  "name": "Fiskløysa",
+                  "text": "Fiskløysa ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.581454,
+                        64.425776
+                  ]
+            },
+            {
+                  "name": "Spillumsvatnet",
+                  "text": "Spillumsvatnet ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.56696,
+                        64.425929
+                  ]
+            },
+            {
+                  "name": "Havikvatnet",
+                  "text": "Havikvatnet ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.530564,
+                        64.487277
+                  ]
+            },
+            {
+                  "name": "Tavlåvatnet",
+                  "text": "Tavlåvatnet ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.620983,
+                        64.45505
+                  ]
+            },
+            {
+                  "name": "Smørauga",
+                  "text": "Smørauga ist ein malerischer See in Namsos, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.642198,
+                        64.439588
+                  ]
+            },
+            {
+                  "name": "Lekeplass Hestmarkvegen",
+                  "text": "Lekeplass Hestmarkvegen ist ein lokaler Spielplatz in Namsos, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.531637,
+                        64.470837
+                  ]
             }
       ],
       "hu": [
@@ -7115,6 +8762,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.494992,
                         64.465682
+                  ]
+            },
+            {
+                  "name": "Barstadvatnet",
+                  "text": "A Barstadvatnet egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.565607,
+                        64.409903
+                  ]
+            },
+            {
+                  "name": "Fiskløysa",
+                  "text": "A Fiskløysa egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.581454,
+                        64.425776
+                  ]
+            },
+            {
+                  "name": "Spillumsvatnet",
+                  "text": "A Spillumsvatnet egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.56696,
+                        64.425929
+                  ]
+            },
+            {
+                  "name": "Havikvatnet",
+                  "text": "A Havikvatnet egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.530564,
+                        64.487277
+                  ]
+            },
+            {
+                  "name": "Tavlåvatnet",
+                  "text": "A Tavlåvatnet egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.620983,
+                        64.45505
+                  ]
+            },
+            {
+                  "name": "Smørauga",
+                  "text": "A Smørauga egy festői tó Namsos városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.642198,
+                        64.439588
+                  ]
+            },
+            {
+                  "name": "Lekeplass Hestmarkvegen",
+                  "text": "A Lekeplass Hestmarkvegen egy helyi játszótér Namsos városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.531637,
+                        64.470837
                   ]
             }
       ],
@@ -7208,6 +8918,69 @@ export const norwayCitiesV2: POI[] = [
                         11.494992,
                         64.465682
                   ]
+            },
+            {
+                  "name": "Barstadvatnet",
+                  "text": "Barstadvatnet este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.565607,
+                        64.409903
+                  ]
+            },
+            {
+                  "name": "Fiskløysa",
+                  "text": "Fiskløysa este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.581454,
+                        64.425776
+                  ]
+            },
+            {
+                  "name": "Spillumsvatnet",
+                  "text": "Spillumsvatnet este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.56696,
+                        64.425929
+                  ]
+            },
+            {
+                  "name": "Havikvatnet",
+                  "text": "Havikvatnet este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.530564,
+                        64.487277
+                  ]
+            },
+            {
+                  "name": "Tavlåvatnet",
+                  "text": "Tavlåvatnet este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.620983,
+                        64.45505
+                  ]
+            },
+            {
+                  "name": "Smørauga",
+                  "text": "Smørauga este un lac pitoresc din Namsos, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.642198,
+                        64.439588
+                  ]
+            },
+            {
+                  "name": "Lekeplass Hestmarkvegen",
+                  "text": "Lekeplass Hestmarkvegen este un loc de joacă local din Namsos, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.531637,
+                        64.470837
+                  ]
             }
       ],
       "en": [
@@ -7299,6 +9072,69 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.494992,
                         64.465682
+                  ]
+            },
+            {
+                  "name": "Barstadvatnet",
+                  "text": "Barstadvatnet is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.565607,
+                        64.409903
+                  ]
+            },
+            {
+                  "name": "Fiskløysa",
+                  "text": "Fiskløysa is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.581454,
+                        64.425776
+                  ]
+            },
+            {
+                  "name": "Spillumsvatnet",
+                  "text": "Spillumsvatnet is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.56696,
+                        64.425929
+                  ]
+            },
+            {
+                  "name": "Havikvatnet",
+                  "text": "Havikvatnet is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.530564,
+                        64.487277
+                  ]
+            },
+            {
+                  "name": "Tavlåvatnet",
+                  "text": "Tavlåvatnet is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.620983,
+                        64.45505
+                  ]
+            },
+            {
+                  "name": "Smørauga",
+                  "text": "Smørauga is a scenic lake in Namsos, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.642198,
+                        64.439588
+                  ]
+            },
+            {
+                  "name": "Lekeplass Hestmarkvegen",
+                  "text": "Lekeplass Hestmarkvegen is a local playground in Namsos, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        11.531637,
+                        64.470837
                   ]
             }
       ]
@@ -7447,6 +9283,15 @@ export const norwayCitiesV2: POI[] = [
                         13.204012,
                         65.84447
                   ]
+            },
+            {
+                  "name": "Andåsdammen",
+                  "text": "Der Andåsdammen ist ein See in Mosjøen, der eine ruhige Kulisse in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.273041,
+                        65.823221
+                  ]
             }
       ],
       "hu": [
@@ -7547,6 +9392,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         13.204012,
                         65.84447
+                  ]
+            },
+            {
+                  "name": "Andåsdammen",
+                  "text": "Az Andåsdammen egy tó Mosjøen területén, amely nyugodt környezetet biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.273041,
+                        65.823221
                   ]
             }
       ],
@@ -7649,6 +9503,15 @@ export const norwayCitiesV2: POI[] = [
                         13.204012,
                         65.84447
                   ]
+            },
+            {
+                  "name": "Andåsdammen",
+                  "text": "Andåsdammen este un lac din Mosjøen care oferă un cadru liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.273041,
+                        65.823221
+                  ]
             }
       ],
       "en": [
@@ -7750,6 +9613,15 @@ export const norwayCitiesV2: POI[] = [
                         13.204012,
                         65.84447
                   ]
+            },
+            {
+                  "name": "Andåsdammen",
+                  "text": "Andåsdammen is a lake in Mosjøen that offers a peaceful setting in nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.273041,
+                        65.823221
+                  ]
             }
       ]
 },
@@ -7797,7 +9669,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-mosjoen-cities-v2.webp",
   },
   {
-    id: "norway-mo-i-rana-cities-v2",
+    id: "norway-mo-i-rana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Langvatnet",
+                  "text": "Langvatnet ist ein See in Mo i Rana, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.117594,
+                        66.375723
+                  ]
+            },
+            {
+                  "name": "Andfiskvatnet",
+                  "text": "Der Andfiskvatnet ist ein See in Mo I Rana, der eine ruhige Umgebung für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.19314,
+                        66.265845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Langvatnet",
+                  "text": "A Langvatnet egy tó Mo i Rana közelében, amely ideális sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.117594,
+                        66.375723
+                  ]
+            },
+            {
+                  "name": "Andfiskvatnet",
+                  "text": "Az Andfiskvatnet egy tó Mo I Rana városában, amely nyugodt környezetet biztosít a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.19314,
+                        66.265845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Langvatnet",
+                  "text": "Langvatnet este un lac din Mo i Rana, ideal pentru plimbări și pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        14.117594,
+                        66.375723
+                  ]
+            },
+            {
+                  "name": "Andfiskvatnet",
+                  "text": "Andfiskvatnet este un lac din Mo I Rana, care oferă un mediu liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.19314,
+                        66.265845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Langvatnet",
+                  "text": "Langvatnet is a lake in Mo i Rana, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.117594,
+                        66.375723
+                  ]
+            },
+            {
+                  "name": "Andfiskvatnet",
+                  "text": "Andfiskvatnet is a lake in Mo I Rana, offering a peaceful environment for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.19314,
+                        66.265845
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Mo i Rana", hu: "Mo i Rana", ro: "Mo i Rana", en: "Mo i Rana" },
@@ -8635,6 +10588,105 @@ export const norwayCitiesV2: POI[] = [
                         6.661879,
                         58.296047
                   ]
+            },
+            {
+                  "name": "Haugelandsvann",
+                  "text": "Der Haugelandsvann ist ein See in Flekkefjord, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        6.779819,
+                        58.257582
+                  ]
+            },
+            {
+                  "name": "Sagevannet",
+                  "text": "Der Sagevannet ist ein See in Flekkefjord, der zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.786995,
+                        58.259273
+                  ]
+            },
+            {
+                  "name": "Dunsædvatnet",
+                  "text": "Der Dunsædvatnet ist ein See in Flekkefjord, ein ruhiger Ort in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.773695,
+                        58.332202
+                  ]
+            },
+            {
+                  "name": "Fiskelausvannet",
+                  "text": "Der Fiskelausvannet ist ein See in Flekkefjord, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.76603,
+                        58.257707
+                  ]
+            },
+            {
+                  "name": "Ronevatnet",
+                  "text": "Der Ronevatnet ist ein See in Flekkefjord, der eine malerische Naturumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.778255,
+                        58.283292
+                  ]
+            },
+            {
+                  "name": "Lundevatnet",
+                  "text": "Der Lundevatnet ist ein See in Flekkefjord, bekannt für seine weite Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        6.550457,
+                        58.376096
+                  ]
+            },
+            {
+                  "name": "Teinelaga",
+                  "text": "Der Teinelaga ist ein See in Flekkefjord, der Ruhe in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.608443,
+                        58.222579
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Der Stemmevatnet ist ein See in Flekkefjord, ideal für erholsame Momente.",
+                  "category": "natural",
+                  "coords": [
+                        6.631994,
+                        58.328675
+                  ]
+            },
+            {
+                  "name": "Gompevatn",
+                  "text": "Der Gompevatn ist ein See in Flekkefjord, der eine naturbelassene Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.749109,
+                        58.307316
+                  ]
+            },
+            {
+                  "name": "Mjåvatn",
+                  "text": "Der Mjåvatn ist ein See in Flekkefjord, ein ruhiges Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.767491,
+                        58.302084
+                  ]
+            },
+            {
+                  "name": "Selura",
+                  "text": "Der Selura ist ein See in Flekkefjord, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        6.699382,
+                        58.306293
+                  ]
             }
       ],
       "hu": [
@@ -8690,6 +10742,105 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.661879,
                         58.296047
+                  ]
+            },
+            {
+                  "name": "Haugelandsvann",
+                  "text": "A Haugelandsvann egy tó Flekkefjord területén, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        6.779819,
+                        58.257582
+                  ]
+            },
+            {
+                  "name": "Sagevannet",
+                  "text": "A Sagevannet egy tó Flekkefjord területén, amely vízparti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.786995,
+                        58.259273
+                  ]
+            },
+            {
+                  "name": "Dunsædvatnet",
+                  "text": "A Dunsædvatnet egy tó Flekkefjord területén, csendes hely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.773695,
+                        58.332202
+                  ]
+            },
+            {
+                  "name": "Fiskelausvannet",
+                  "text": "A Fiskelausvannet egy tó Flekkefjord területén, amely békés légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.76603,
+                        58.257707
+                  ]
+            },
+            {
+                  "name": "Ronevatnet",
+                  "text": "A Ronevatnet egy tó Flekkefjord területén, amely festői természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.778255,
+                        58.283292
+                  ]
+            },
+            {
+                  "name": "Lundevatnet",
+                  "text": "A Lundevatnet egy tó Flekkefjord területén, amely kiterjedt vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.550457,
+                        58.376096
+                  ]
+            },
+            {
+                  "name": "Teinelaga",
+                  "text": "A Teinelaga egy tó Flekkefjord területén, amely nyugalmat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.608443,
+                        58.222579
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "A Stemmevatnet egy tó Flekkefjord területén, ideális pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.631994,
+                        58.328675
+                  ]
+            },
+            {
+                  "name": "Gompevatn",
+                  "text": "A Gompevatn egy tó Flekkefjord területén, amely érintetlen környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.749109,
+                        58.307316
+                  ]
+            },
+            {
+                  "name": "Mjåvatn",
+                  "text": "A Mjåvatn egy tó Flekkefjord területén, csendes célpont a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        6.767491,
+                        58.302084
+                  ]
+            },
+            {
+                  "name": "Selura",
+                  "text": "A Selura egy tó Flekkefjord területén, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        6.699382,
+                        58.306293
                   ]
             }
       ],
@@ -8747,6 +10898,105 @@ export const norwayCitiesV2: POI[] = [
                         6.661879,
                         58.296047
                   ]
+            },
+            {
+                  "name": "Haugelandsvann",
+                  "text": "Haugelandsvann este un lac din Flekkefjord, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.779819,
+                        58.257582
+                  ]
+            },
+            {
+                  "name": "Sagevannet",
+                  "text": "Sagevannet este un lac din Flekkefjord care invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.786995,
+                        58.259273
+                  ]
+            },
+            {
+                  "name": "Dunsædvatnet",
+                  "text": "Dunsædvatnet este un lac din Flekkefjord, un loc liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.773695,
+                        58.332202
+                  ]
+            },
+            {
+                  "name": "Fiskelausvannet",
+                  "text": "Fiskelausvannet este un lac din Flekkefjord care oferă o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        6.76603,
+                        58.257707
+                  ]
+            },
+            {
+                  "name": "Ronevatnet",
+                  "text": "Ronevatnet este un lac din Flekkefjord care oferă un mediu natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        6.778255,
+                        58.283292
+                  ]
+            },
+            {
+                  "name": "Lundevatnet",
+                  "text": "Lundevatnet este un lac din Flekkefjord, cunoscut pentru suprafața sa mare de apă.",
+                  "category": "natural",
+                  "coords": [
+                        6.550457,
+                        58.376096
+                  ]
+            },
+            {
+                  "name": "Teinelaga",
+                  "text": "Teinelaga este un lac din Flekkefjord care oferă liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.608443,
+                        58.222579
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Stemmevatnet este un lac din Flekkefjord, ideal pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.631994,
+                        58.328675
+                  ]
+            },
+            {
+                  "name": "Gompevatn",
+                  "text": "Gompevatn este un lac din Flekkefjord care oferă un cadru natural nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        6.749109,
+                        58.307316
+                  ]
+            },
+            {
+                  "name": "Mjåvatn",
+                  "text": "Mjåvatn este un lac din Flekkefjord, o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.767491,
+                        58.302084
+                  ]
+            },
+            {
+                  "name": "Selura",
+                  "text": "Selura este un lac din Flekkefjord care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        6.699382,
+                        58.306293
+                  ]
             }
       ],
       "en": [
@@ -8802,6 +11052,105 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.661879,
                         58.296047
+                  ]
+            },
+            {
+                  "name": "Haugelandsvann",
+                  "text": "Haugelandsvann is a lake in Flekkefjord, ideal for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.779819,
+                        58.257582
+                  ]
+            },
+            {
+                  "name": "Sagevannet",
+                  "text": "Sagevannet is a lake in Flekkefjord that invites walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        6.786995,
+                        58.259273
+                  ]
+            },
+            {
+                  "name": "Dunsædvatnet",
+                  "text": "Dunsædvatnet is a lake in Flekkefjord, a quiet place in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.773695,
+                        58.332202
+                  ]
+            },
+            {
+                  "name": "Fiskelausvannet",
+                  "text": "Fiskelausvannet is a lake in Flekkefjord that offers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        6.76603,
+                        58.257707
+                  ]
+            },
+            {
+                  "name": "Ronevatnet",
+                  "text": "Ronevatnet is a lake in Flekkefjord that offers a scenic natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        6.778255,
+                        58.283292
+                  ]
+            },
+            {
+                  "name": "Lundevatnet",
+                  "text": "Lundevatnet is a lake in Flekkefjord, known for its extensive water surface.",
+                  "category": "natural",
+                  "coords": [
+                        6.550457,
+                        58.376096
+                  ]
+            },
+            {
+                  "name": "Teinelaga",
+                  "text": "Teinelaga is a lake in Flekkefjord that offers peace in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.608443,
+                        58.222579
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Stemmevatnet is a lake in Flekkefjord, ideal for relaxing moments.",
+                  "category": "natural",
+                  "coords": [
+                        6.631994,
+                        58.328675
+                  ]
+            },
+            {
+                  "name": "Gompevatn",
+                  "text": "Gompevatn is a lake in Flekkefjord that offers a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        6.749109,
+                        58.307316
+                  ]
+            },
+            {
+                  "name": "Mjåvatn",
+                  "text": "Mjåvatn is a lake in Flekkefjord, a quiet destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.767491,
+                        58.302084
+                  ]
+            },
+            {
+                  "name": "Selura",
+                  "text": "Selura is a lake in Flekkefjord that blends harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.699382,
+                        58.306293
                   ]
             }
       ]
@@ -9157,6 +11506,24 @@ export const norwayCitiesV2: POI[] = [
                         5.862852,
                         61.455796
                   ]
+            },
+            {
+                  "name": "Digrenesvatnet",
+                  "text": "Digrenesvatnet ist ein malerischer See in F Rde, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.862789,
+                        61.411423
+                  ]
+            },
+            {
+                  "name": "Movatnet",
+                  "text": "Movatnet ist ein malerischer See in F Rde, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.962459,
+                        61.432327
+                  ]
             }
       ],
       "hu": [
@@ -9194,6 +11561,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.862852,
                         61.455796
+                  ]
+            },
+            {
+                  "name": "Digrenesvatnet",
+                  "text": "A Digrenesvatnet egy festői tó F Rde városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.862789,
+                        61.411423
+                  ]
+            },
+            {
+                  "name": "Movatnet",
+                  "text": "A Movatnet egy festői tó F Rde városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.962459,
+                        61.432327
                   ]
             }
       ],
@@ -9233,6 +11618,24 @@ export const norwayCitiesV2: POI[] = [
                         5.862852,
                         61.455796
                   ]
+            },
+            {
+                  "name": "Digrenesvatnet",
+                  "text": "Digrenesvatnet este un lac pitoresc din F Rde, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.862789,
+                        61.411423
+                  ]
+            },
+            {
+                  "name": "Movatnet",
+                  "text": "Movatnet este un lac pitoresc din F Rde, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.962459,
+                        61.432327
+                  ]
             }
       ],
       "en": [
@@ -9270,6 +11673,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.862852,
                         61.455796
+                  ]
+            },
+            {
+                  "name": "Digrenesvatnet",
+                  "text": "Digrenesvatnet is a scenic lake in F Rde, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.862789,
+                        61.411423
+                  ]
+            },
+            {
+                  "name": "Movatnet",
+                  "text": "Movatnet is a scenic lake in F Rde, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.962459,
+                        61.432327
                   ]
             }
       ]
@@ -9318,7 +11739,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-førde-cities-v2.webp",
   },
   {
-    id: "norway-måløy-cities-v2",
+    id: "norway-måløy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skramsvatnet",
+                  "text": "Der Skramsvatnet ist ein See in Måløy, der eine schöne Aussicht auf die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.099951,
+                        61.937205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skramsvatnet",
+                  "text": "A Skramsvatnet egy tó Måløy területén, amely szép kilátást nyújt a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        5.099951,
+                        61.937205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skramsvatnet",
+                  "text": "Skramsvatnet este un lac din Måløy care oferă o vedere frumoasă asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.099951,
+                        61.937205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skramsvatnet",
+                  "text": "Skramsvatnet is a lake in Måløy that offers a nice view of nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.099951,
+                        61.937205
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Måløy", hu: "Måløy", ro: "Måløy", en: "Måløy" },
@@ -9580,6 +12046,24 @@ export const norwayCitiesV2: POI[] = [
                         12.61822,
                         66.019218
                   ]
+            },
+            {
+                  "name": "Fjellsåsdammen",
+                  "text": "Fjellsåsdammen ist ein malerischer See in Sandnessj En, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.590162,
+                        65.969252
+                  ]
+            },
+            {
+                  "name": "Grytfotvatnet",
+                  "text": "Grytfotvatnet ist ein malerischer See in Sandnessj En, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.614303,
+                        65.963099
+                  ]
             }
       ],
       "hu": [
@@ -9599,6 +12083,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.61822,
                         66.019218
+                  ]
+            },
+            {
+                  "name": "Fjellsåsdammen",
+                  "text": "A Fjellsåsdammen egy festői tó Sandnessj En városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.590162,
+                        65.969252
+                  ]
+            },
+            {
+                  "name": "Grytfotvatnet",
+                  "text": "A Grytfotvatnet egy festői tó Sandnessj En városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.614303,
+                        65.963099
                   ]
             }
       ],
@@ -9620,6 +12122,24 @@ export const norwayCitiesV2: POI[] = [
                         12.61822,
                         66.019218
                   ]
+            },
+            {
+                  "name": "Fjellsåsdammen",
+                  "text": "Fjellsåsdammen este un lac pitoresc din Sandnessj En, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.590162,
+                        65.969252
+                  ]
+            },
+            {
+                  "name": "Grytfotvatnet",
+                  "text": "Grytfotvatnet este un lac pitoresc din Sandnessj En, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.614303,
+                        65.963099
+                  ]
             }
       ],
       "en": [
@@ -9639,6 +12159,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.61822,
                         66.019218
+                  ]
+            },
+            {
+                  "name": "Fjellsåsdammen",
+                  "text": "Fjellsåsdammen is a scenic lake in Sandnessj En, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.590162,
+                        65.969252
+                  ]
+            },
+            {
+                  "name": "Grytfotvatnet",
+                  "text": "Grytfotvatnet is a scenic lake in Sandnessj En, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.614303,
+                        65.963099
                   ]
             }
       ]
@@ -9732,7 +12270,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-vadsø-cities-v2.webp",
   },
   {
-    id: "norway-hammerfest-cities-v2",
+    id: "norway-hammerfest-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vestfjelldammen",
+                  "text": "Der Vestfjelldammen ist ein See in Hammerfest, ideal für Erholung im Freien und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.788696,
+                        70.64115
+                  ]
+            },
+            {
+                  "name": "Rundvannet",
+                  "text": "Der Rundvannet ist ein malerischer See in Hammerfest, der zu entspannten Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.796507,
+                        70.63123
+                  ]
+            },
+            {
+                  "name": "Kuskarvannene - Gámmejávrrit",
+                  "text": "Der Kuskarvannene - Gámmejávrrit ist ein See in Hammerfest, der für seine ruhige Naturkulisse bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.735591,
+                        70.729749
+                  ]
+            },
+            {
+                  "name": "Inntaksdammen",
+                  "text": "Der Inntaksdammen ist ein See in Hammerfest, der eine friedliche Atmosphäre für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.733338,
+                        70.655442
+                  ]
+            },
+            {
+                  "name": "Glimmevannet - Riebansilbajávri",
+                  "text": "Der Glimmevannet - Riebansilbajávri ist ein See in Hammerfest, ideal für Beobachtungen der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.788852,
+                        70.659585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vestfjelldammen",
+                  "text": "A Vestfjelldammen egy tó Hammerfest területén, amely ideális szabadtéri kikapcsolódásra és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        23.788696,
+                        70.64115
+                  ]
+            },
+            {
+                  "name": "Rundvannet",
+                  "text": "A Rundvannet egy festői tó Hammerfestben, amely kellemes sétákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        23.796507,
+                        70.63123
+                  ]
+            },
+            {
+                  "name": "Kuskarvannene - Gámmejávrrit",
+                  "text": "A Kuskarvannene - Gámmejávrrit egy tó Hammerfestben, amely nyugodt természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.735591,
+                        70.729749
+                  ]
+            },
+            {
+                  "name": "Inntaksdammen",
+                  "text": "Az Inntaksdammen egy tó Hammerfest területén, amely békés hangulatot kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.733338,
+                        70.655442
+                  ]
+            },
+            {
+                  "name": "Glimmevannet - Riebansilbajávri",
+                  "text": "A Glimmevannet - Riebansilbajávri egy tó Hammerfestben, amely ideális a helyi táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.788852,
+                        70.659585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vestfjelldammen",
+                  "text": "Vestfjelldammen este un lac din Hammerfest, ideal pentru recreere în aer liber și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        23.788696,
+                        70.64115
+                  ]
+            },
+            {
+                  "name": "Rundvannet",
+                  "text": "Rundvannet este un lac pitoresc din Hammerfest, care invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.796507,
+                        70.63123
+                  ]
+            },
+            {
+                  "name": "Kuskarvannene - Gámmejávrrit",
+                  "text": "Kuskarvannene - Gámmejávrrit este un lac din Hammerfest, cunoscut pentru cadrul său natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        23.735591,
+                        70.729749
+                  ]
+            },
+            {
+                  "name": "Inntaksdammen",
+                  "text": "Inntaksdammen este un lac din Hammerfest, oferind o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.733338,
+                        70.655442
+                  ]
+            },
+            {
+                  "name": "Glimmevannet - Riebansilbajávri",
+                  "text": "Glimmevannet - Riebansilbajávri este un lac din Hammerfest, ideal pentru observarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        23.788852,
+                        70.659585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vestfjelldammen",
+                  "text": "Vestfjelldammen is a lake in Hammerfest, ideal for outdoor recreation and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        23.788696,
+                        70.64115
+                  ]
+            },
+            {
+                  "name": "Rundvannet",
+                  "text": "Rundvannet is a scenic lake in Hammerfest, inviting for relaxed walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.796507,
+                        70.63123
+                  ]
+            },
+            {
+                  "name": "Kuskarvannene - Gámmejávrrit",
+                  "text": "Kuskarvannene - Gámmejávrrit is a lake in Hammerfest, known for its peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        23.735591,
+                        70.729749
+                  ]
+            },
+            {
+                  "name": "Inntaksdammen",
+                  "text": "Inntaksdammen is a lake in Hammerfest, offering a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.733338,
+                        70.655442
+                  ]
+            },
+            {
+                  "name": "Glimmevannet - Riebansilbajávri",
+                  "text": "Glimmevannet - Riebansilbajávri is a lake in Hammerfest, ideal for observing the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.788852,
+                        70.659585
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Hammerfest", hu: "Hammerfest", ro: "Hammerfest", en: "Hammerfest" },
@@ -9777,7 +12504,268 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-hammerfest-cities-v2.webp",
   },
   {
-    id: "norway-kirkenes-cities-v2",
+    id: "norway-kirkenes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pikevatnet - Нейтиярви",
+                  "text": "Pikevatnet - Нейтиярви ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.188337,
+                        69.657943
+                  ]
+            },
+            {
+                  "name": "Stuorra Juranjávri",
+                  "text": "Stuorra Juranjávri ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.231286,
+                        69.714196
+                  ]
+            },
+            {
+                  "name": "Guhkesjávri",
+                  "text": "Guhkesjávri ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.193299,
+                        69.720951
+                  ]
+            },
+            {
+                  "name": "Vuolit Nieidajávri",
+                  "text": "Vuolit Nieidajávri ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.154991,
+                        69.692476
+                  ]
+            },
+            {
+                  "name": "Uhca Juranjávri",
+                  "text": "Uhca Juranjávri ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.207734,
+                        69.754364
+                  ]
+            },
+            {
+                  "name": "Holmbergvatnet",
+                  "text": "Holmbergvatnet ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.153462,
+                        69.719342
+                  ]
+            },
+            {
+                  "name": "Stuorrajávri",
+                  "text": "Stuorrajávri ist ein malerischer See in Kirkenes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        30.03426,
+                        69.700405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pikevatnet - Нейтиярви",
+                  "text": "A Pikevatnet - Нейтиярви egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.188337,
+                        69.657943
+                  ]
+            },
+            {
+                  "name": "Stuorra Juranjávri",
+                  "text": "A Stuorra Juranjávri egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.231286,
+                        69.714196
+                  ]
+            },
+            {
+                  "name": "Guhkesjávri",
+                  "text": "A Guhkesjávri egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.193299,
+                        69.720951
+                  ]
+            },
+            {
+                  "name": "Vuolit Nieidajávri",
+                  "text": "A Vuolit Nieidajávri egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.154991,
+                        69.692476
+                  ]
+            },
+            {
+                  "name": "Uhca Juranjávri",
+                  "text": "A Uhca Juranjávri egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.207734,
+                        69.754364
+                  ]
+            },
+            {
+                  "name": "Holmbergvatnet",
+                  "text": "A Holmbergvatnet egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.153462,
+                        69.719342
+                  ]
+            },
+            {
+                  "name": "Stuorrajávri",
+                  "text": "A Stuorrajávri egy festői tó Kirkenes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        30.03426,
+                        69.700405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pikevatnet - Нейтиярви",
+                  "text": "Pikevatnet - Нейтиярви este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.188337,
+                        69.657943
+                  ]
+            },
+            {
+                  "name": "Stuorra Juranjávri",
+                  "text": "Stuorra Juranjávri este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.231286,
+                        69.714196
+                  ]
+            },
+            {
+                  "name": "Guhkesjávri",
+                  "text": "Guhkesjávri este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.193299,
+                        69.720951
+                  ]
+            },
+            {
+                  "name": "Vuolit Nieidajávri",
+                  "text": "Vuolit Nieidajávri este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.154991,
+                        69.692476
+                  ]
+            },
+            {
+                  "name": "Uhca Juranjávri",
+                  "text": "Uhca Juranjávri este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.207734,
+                        69.754364
+                  ]
+            },
+            {
+                  "name": "Holmbergvatnet",
+                  "text": "Holmbergvatnet este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.153462,
+                        69.719342
+                  ]
+            },
+            {
+                  "name": "Stuorrajávri",
+                  "text": "Stuorrajávri este un lac pitoresc din Kirkenes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        30.03426,
+                        69.700405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pikevatnet - Нейтиярви",
+                  "text": "Pikevatnet - Нейтиярви is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.188337,
+                        69.657943
+                  ]
+            },
+            {
+                  "name": "Stuorra Juranjávri",
+                  "text": "Stuorra Juranjávri is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.231286,
+                        69.714196
+                  ]
+            },
+            {
+                  "name": "Guhkesjávri",
+                  "text": "Guhkesjávri is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.193299,
+                        69.720951
+                  ]
+            },
+            {
+                  "name": "Vuolit Nieidajávri",
+                  "text": "Vuolit Nieidajávri is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.154991,
+                        69.692476
+                  ]
+            },
+            {
+                  "name": "Uhca Juranjávri",
+                  "text": "Uhca Juranjávri is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.207734,
+                        69.754364
+                  ]
+            },
+            {
+                  "name": "Holmbergvatnet",
+                  "text": "Holmbergvatnet is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.153462,
+                        69.719342
+                  ]
+            },
+            {
+                  "name": "Stuorrajávri",
+                  "text": "Stuorrajávri is a scenic lake in Kirkenes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        30.03426,
+                        69.700405
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kirkenes", hu: "Kirkenes", ro: "Kirkenes", en: "Kirkenes" },
@@ -9948,7 +12936,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-bardufoss-cities-v2.webp",
   },
   {
-    id: "norway-finnsnes-cities-v2",
+    id: "norway-finnsnes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Finnfjordvatnet - Várevuoljávri",
+                  "text": "Der Finnfjordvatnet - Várevuoljávri ist ein See in Finnsnes, der zu Erholung und Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.213231,
+                        69.226494
+                  ]
+            },
+            {
+                  "name": "Grasmyrskogvatnet - Rásmiirjávri",
+                  "text": "Der Grasmyrskogvatnet - Rásmiirjávri ist ein malerischer See in Finnsnes, ideal für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        17.827669,
+                        69.285713
+                  ]
+            },
+            {
+                  "name": "Lekeparken",
+                  "text": "Lekeparken ist ein Spielplatz in Finnsnes, der Kindern einen sicheren und unterhaltsamen Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.987715,
+                        69.230223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Finnfjordvatnet - Várevuoljávri",
+                  "text": "A Finnfjordvatnet - Várevuoljávri egy tó Finnsnesben, amely kikapcsolódásra és természeti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.213231,
+                        69.226494
+                  ]
+            },
+            {
+                  "name": "Grasmyrskogvatnet - Rásmiirjávri",
+                  "text": "A Grasmyrskogvatnet - Rásmiirjávri egy festői tó Finnsnesben, amely ideális a nyugodt szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.827669,
+                        69.285713
+                  ]
+            },
+            {
+                  "name": "Lekeparken",
+                  "text": "A Lekeparken egy játszótér Finnsnesben, amely biztonságos és szórakoztató helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.987715,
+                        69.230223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Finnfjordvatnet - Várevuoljávri",
+                  "text": "Finnfjordvatnet - Várevuoljávri este un lac din Finnsnes, care invită la recreere și plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.213231,
+                        69.226494
+                  ]
+            },
+            {
+                  "name": "Grasmyrskogvatnet - Rásmiirjávri",
+                  "text": "Grasmyrskogvatnet - Rásmiirjávri este un lac pitoresc din Finnsnes, ideal pentru momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.827669,
+                        69.285713
+                  ]
+            },
+            {
+                  "name": "Lekeparken",
+                  "text": "Lekeparken este un teren de joacă din Finnsnes care oferă un loc sigur și distractiv de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.987715,
+                        69.230223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Finnfjordvatnet - Várevuoljávri",
+                  "text": "Finnfjordvatnet - Várevuoljávri is a lake in Finnsnes, inviting for recreation and nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.213231,
+                        69.226494
+                  ]
+            },
+            {
+                  "name": "Grasmyrskogvatnet - Rásmiirjávri",
+                  "text": "Grasmyrskogvatnet - Rásmiirjávri is a scenic lake in Finnsnes, ideal for quiet outdoor moments.",
+                  "category": "natural",
+                  "coords": [
+                        17.827669,
+                        69.285713
+                  ]
+            },
+            {
+                  "name": "Lekeparken",
+                  "text": "Lekeparken is a playground in Finnsnes providing a safe and fun place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.987715,
+                        69.230223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Finnsnes", hu: "Finnsnes", ro: "Finnsnes", en: "Finnsnes" },
@@ -10038,7 +13143,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-harstad-cities-v2.webp",
   },
   {
-    id: "norway-sortland-cities-v2",
+    id: "norway-sortland-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storvatnet",
+                  "text": "Der Storvatnet ist ein See in Sortland, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.341469,
+                        68.707785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storvatnet",
+                  "text": "A Storvatnet egy tó Sortland területén, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        15.341469,
+                        68.707785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storvatnet",
+                  "text": "Storvatnet este un lac din Sortland care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.341469,
+                        68.707785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storvatnet",
+                  "text": "Storvatnet is a lake in Sortland that invites recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.341469,
+                        68.707785
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sortland", hu: "Sortland", ro: "Sortland", en: "Sortland" },
@@ -10174,6 +13324,24 @@ export const norwayCitiesV2: POI[] = [
                         13.616782,
                         68.149507
                   ]
+            },
+            {
+                  "name": "Farstadvatnet",
+                  "text": "Farstadvatnet ist ein malerischer See in Leknes, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.64516,
+                        68.19461
+                  ]
+            },
+            {
+                  "name": "Solbakken Lekeplass",
+                  "text": "Solbakken Lekeplass ist ein lokaler Spielplatz in Leknes, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.641162,
+                        68.148456
+                  ]
             }
       ],
       "hu": [
@@ -10220,6 +13388,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         13.616782,
                         68.149507
+                  ]
+            },
+            {
+                  "name": "Farstadvatnet",
+                  "text": "A Farstadvatnet egy festői tó Leknes városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.64516,
+                        68.19461
+                  ]
+            },
+            {
+                  "name": "Solbakken Lekeplass",
+                  "text": "A Solbakken Lekeplass egy helyi játszótér Leknes városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.641162,
+                        68.148456
                   ]
             }
       ],
@@ -10268,6 +13454,24 @@ export const norwayCitiesV2: POI[] = [
                         13.616782,
                         68.149507
                   ]
+            },
+            {
+                  "name": "Farstadvatnet",
+                  "text": "Farstadvatnet este un lac pitoresc din Leknes, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.64516,
+                        68.19461
+                  ]
+            },
+            {
+                  "name": "Solbakken Lekeplass",
+                  "text": "Solbakken Lekeplass este un loc de joacă local din Leknes, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.641162,
+                        68.148456
+                  ]
             }
       ],
       "en": [
@@ -10314,6 +13518,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         13.616782,
                         68.149507
+                  ]
+            },
+            {
+                  "name": "Farstadvatnet",
+                  "text": "Farstadvatnet is a scenic lake in Leknes, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.64516,
+                        68.19461
+                  ]
+            },
+            {
+                  "name": "Solbakken Lekeplass",
+                  "text": "Solbakken Lekeplass is a local playground in Leknes, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        13.641162,
+                        68.148456
                   ]
             }
       ]
@@ -10722,7 +13944,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-setermoen-cities-v2.webp",
   },
   {
-    id: "norway-skjervøy-cities-v2",
+    id: "norway-skjervøy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isbuktvannet",
+                  "text": "Isbuktvannet ist ein malerischer See in Skjerv Y, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.842652,
+                        70.012909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isbuktvannet",
+                  "text": "A Isbuktvannet egy festői tó Skjerv Y városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.842652,
+                        70.012909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isbuktvannet",
+                  "text": "Isbuktvannet este un lac pitoresc din Skjerv Y, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.842652,
+                        70.012909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isbuktvannet",
+                  "text": "Isbuktvannet is a scenic lake in Skjerv Y, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.842652,
+                        70.012909
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Skjervøy", hu: "Skjervøy", ro: "Skjervøy", en: "Skjervøy" },
@@ -11137,6 +14404,60 @@ export const norwayCitiesV2: POI[] = [
                         13.083045,
                         67.940254
                   ]
+            },
+            {
+                  "name": "Sørvågvatnet",
+                  "text": "Sørvågvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.017494,
+                        67.892576
+                  ]
+            },
+            {
+                  "name": "Solbjørnvatnet",
+                  "text": "Solbjørnvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.102911,
+                        68.001631
+                  ]
+            },
+            {
+                  "name": "Krokvatnet",
+                  "text": "Krokvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.950931,
+                        67.929389
+                  ]
+            },
+            {
+                  "name": "Tennesvatnet",
+                  "text": "Tennesvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.993981,
+                        67.932701
+                  ]
+            },
+            {
+                  "name": "Tindsvatnet",
+                  "text": "Tindsvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.001228,
+                        67.891189
+                  ]
+            },
+            {
+                  "name": "Ågvatnet",
+                  "text": "Ågvatnet ist ein malerischer See in Reine, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.950508,
+                        67.884618
+                  ]
             }
       ],
       "hu": [
@@ -11255,6 +14576,60 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         13.083045,
                         67.940254
+                  ]
+            },
+            {
+                  "name": "Sørvågvatnet",
+                  "text": "A Sørvågvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.017494,
+                        67.892576
+                  ]
+            },
+            {
+                  "name": "Solbjørnvatnet",
+                  "text": "A Solbjørnvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.102911,
+                        68.001631
+                  ]
+            },
+            {
+                  "name": "Krokvatnet",
+                  "text": "A Krokvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.950931,
+                        67.929389
+                  ]
+            },
+            {
+                  "name": "Tennesvatnet",
+                  "text": "A Tennesvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.993981,
+                        67.932701
+                  ]
+            },
+            {
+                  "name": "Tindsvatnet",
+                  "text": "A Tindsvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.001228,
+                        67.891189
+                  ]
+            },
+            {
+                  "name": "Ågvatnet",
+                  "text": "A Ågvatnet egy festői tó Reine városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.950508,
+                        67.884618
                   ]
             }
       ],
@@ -11375,6 +14750,60 @@ export const norwayCitiesV2: POI[] = [
                         13.083045,
                         67.940254
                   ]
+            },
+            {
+                  "name": "Sørvågvatnet",
+                  "text": "Sørvågvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.017494,
+                        67.892576
+                  ]
+            },
+            {
+                  "name": "Solbjørnvatnet",
+                  "text": "Solbjørnvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.102911,
+                        68.001631
+                  ]
+            },
+            {
+                  "name": "Krokvatnet",
+                  "text": "Krokvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.950931,
+                        67.929389
+                  ]
+            },
+            {
+                  "name": "Tennesvatnet",
+                  "text": "Tennesvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.993981,
+                        67.932701
+                  ]
+            },
+            {
+                  "name": "Tindsvatnet",
+                  "text": "Tindsvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.001228,
+                        67.891189
+                  ]
+            },
+            {
+                  "name": "Ågvatnet",
+                  "text": "Ågvatnet este un lac pitoresc din Reine, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.950508,
+                        67.884618
+                  ]
             }
       ],
       "en": [
@@ -11493,6 +14922,60 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         13.083045,
                         67.940254
+                  ]
+            },
+            {
+                  "name": "Sørvågvatnet",
+                  "text": "Sørvågvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.017494,
+                        67.892576
+                  ]
+            },
+            {
+                  "name": "Solbjørnvatnet",
+                  "text": "Solbjørnvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.102911,
+                        68.001631
+                  ]
+            },
+            {
+                  "name": "Krokvatnet",
+                  "text": "Krokvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.950931,
+                        67.929389
+                  ]
+            },
+            {
+                  "name": "Tennesvatnet",
+                  "text": "Tennesvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.993981,
+                        67.932701
+                  ]
+            },
+            {
+                  "name": "Tindsvatnet",
+                  "text": "Tindsvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.001228,
+                        67.891189
+                  ]
+            },
+            {
+                  "name": "Ågvatnet",
+                  "text": "Ågvatnet is a scenic lake in Reine, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.950508,
+                        67.884618
                   ]
             }
       ]
@@ -11866,6 +15349,33 @@ export const norwayCitiesV2: POI[] = [
                         9.657862,
                         59.160256
                   ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
             }
       ],
       "hu": [
@@ -11948,6 +15458,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.657862,
                         59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "A Kverndammen egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "A Norsjø egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "A Hjellevannet egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
                   ]
             }
       ],
@@ -12032,6 +15569,33 @@ export const norwayCitiesV2: POI[] = [
                         9.657862,
                         59.160256
                   ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
             }
       ],
       "en": [
@@ -12114,6 +15678,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.657862,
                         59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
                   ]
             }
       ]
@@ -13081,6 +16672,42 @@ export const norwayCitiesV2: POI[] = [
                         9.208835,
                         58.71719
                   ]
+            },
+            {
+                  "name": "Leivann",
+                  "text": "Der Leivann ist ein See in Ris R, der eine ruhige Umgebung für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.301508,
+                        58.783925
+                  ]
+            },
+            {
+                  "name": "Dalsvann",
+                  "text": "Der Dalsvann ist ein malerischer See in Ris R, ideal für entspannte Spaziergänge in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.137231,
+                        58.768547
+                  ]
+            },
+            {
+                  "name": "Skarvann",
+                  "text": "Der Skarvann ist ein See in Ris R, der zu ruhigen Momenten am Wasser und in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.229866,
+                        58.777427
+                  ]
+            },
+            {
+                  "name": "Hasdalen",
+                  "text": "Hasdalen ist ein Spielplatz in Ris R, auf dem Familien und Kinder Zeit im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        9.23335,
+                        58.719379
+                  ]
             }
       ],
       "hu": [
@@ -13262,6 +16889,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.208835,
                         58.71719
+                  ]
+            },
+            {
+                  "name": "Leivann",
+                  "text": "A Leivann egy tó Ris R területén, amely nyugodt környezetet biztosít a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.301508,
+                        58.783925
+                  ]
+            },
+            {
+                  "name": "Dalsvann",
+                  "text": "A Dalsvann egy festői tó Ris R területén, amely ideális a tájban való pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.137231,
+                        58.768547
+                  ]
+            },
+            {
+                  "name": "Skarvann",
+                  "text": "A Skarvann egy tó Ris R területén, amely nyugodt vízparti és természeti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.229866,
+                        58.777427
+                  ]
+            },
+            {
+                  "name": "Hasdalen",
+                  "text": "A Hasdalen egy játszótér Ris R területén, ahol a családok és gyerekek szabadtéri időt tölthetnek.",
+                  "category": "family",
+                  "coords": [
+                        9.23335,
+                        58.719379
                   ]
             }
       ],
@@ -13445,6 +17108,42 @@ export const norwayCitiesV2: POI[] = [
                         9.208835,
                         58.71719
                   ]
+            },
+            {
+                  "name": "Leivann",
+                  "text": "Leivann este un lac din Ris R, oferind un mediu liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.301508,
+                        58.783925
+                  ]
+            },
+            {
+                  "name": "Dalsvann",
+                  "text": "Dalsvann este un lac pitoresc din Ris R, ideal pentru plimbări relaxante în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.137231,
+                        58.768547
+                  ]
+            },
+            {
+                  "name": "Skarvann",
+                  "text": "Skarvann este un lac din Ris R, care invită la momente liniștite pe malul apei și în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.229866,
+                        58.777427
+                  ]
+            },
+            {
+                  "name": "Hasdalen",
+                  "text": "Hasdalen este un teren de joacă din Ris R, unde familiile și copiii se pot bucura de timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.23335,
+                        58.719379
+                  ]
             }
       ],
       "en": [
@@ -13626,6 +17325,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.208835,
                         58.71719
+                  ]
+            },
+            {
+                  "name": "Leivann",
+                  "text": "Leivann is a lake in Ris R, offering a quiet environment for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.301508,
+                        58.783925
+                  ]
+            },
+            {
+                  "name": "Dalsvann",
+                  "text": "Dalsvann is a scenic lake in Ris R, ideal for relaxing walks in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.137231,
+                        58.768547
+                  ]
+            },
+            {
+                  "name": "Skarvann",
+                  "text": "Skarvann is a lake in Ris R, inviting for quiet moments by the water and in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.229866,
+                        58.777427
+                  ]
+            },
+            {
+                  "name": "Hasdalen",
+                  "text": "Hasdalen is a playground in Ris R where families and children can enjoy outdoor time.",
+                  "category": "family",
+                  "coords": [
+                        9.23335,
+                        58.719379
                   ]
             }
       ]
@@ -14160,7 +17895,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-tvedestrand-cities-v2.webp",
   },
   {
-    id: "norway-grimstad-cities-v2",
+    id: "norway-grimstad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Landvikvannet",
+                  "text": "Der Landvikvannet ist ein See in Grimstad, ein ruhiger Ort für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        8.504583,
+                        58.325041
+                  ]
+            },
+            {
+                  "name": "Reddalsvannet",
+                  "text": "Der Reddalsvannet ist ein See in Grimstad, der eine malerische Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.46481,
+                        58.319545
+                  ]
+            },
+            {
+                  "name": "Røynevannet",
+                  "text": "Der Røynevannet ist ein See in Grimstad, ideal für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        8.557848,
+                        58.411811
+                  ]
+            },
+            {
+                  "name": "Syndle",
+                  "text": "Syndle ist ein See in Grimstad, der eine schöne Naturkulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.497291,
+                        58.371019
+                  ]
+            },
+            {
+                  "name": "Grimstad minigolf",
+                  "text": "Diese Minigolfanlage in Grimstad bietet Spaß und Wettbewerb für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.595591,
+                        58.341559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Landvikvannet",
+                  "text": "A Landvikvannet egy tó Grimstad területén, csendes hely a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.504583,
+                        58.325041
+                  ]
+            },
+            {
+                  "name": "Reddalsvannet",
+                  "text": "A Reddalsvannet egy tó Grimstad területén, amely festői környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.46481,
+                        58.319545
+                  ]
+            },
+            {
+                  "name": "Røynevannet",
+                  "text": "A Røynevannet egy tó Grimstad területén, ideális a csendes szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.557848,
+                        58.411811
+                  ]
+            },
+            {
+                  "name": "Syndle",
+                  "text": "A Syndle egy tó Grimstad területén, amely szép természeti környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        8.497291,
+                        58.371019
+                  ]
+            },
+            {
+                  "name": "Grimstad minigolf",
+                  "text": "Ez a Grimstad városában található minigolfpálya szórakozást és versenyt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.595591,
+                        58.341559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Landvikvannet",
+                  "text": "Landvikvannet este un lac din Grimstad, un loc liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.504583,
+                        58.325041
+                  ]
+            },
+            {
+                  "name": "Reddalsvannet",
+                  "text": "Reddalsvannet este un lac din Grimstad care oferă un mediu pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        8.46481,
+                        58.319545
+                  ]
+            },
+            {
+                  "name": "Røynevannet",
+                  "text": "Røynevannet este un lac din Grimstad, ideal pentru momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.557848,
+                        58.411811
+                  ]
+            },
+            {
+                  "name": "Syndle",
+                  "text": "Syndle este un lac din Grimstad care oferă un cadru natural frumos pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        8.497291,
+                        58.371019
+                  ]
+            },
+            {
+                  "name": "Grimstad minigolf",
+                  "text": "Acest teren de minigolf din Grimstad oferă distracție și competiție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.595591,
+                        58.341559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Landvikvannet",
+                  "text": "Landvikvannet is a lake in Grimstad, a quiet place for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.504583,
+                        58.325041
+                  ]
+            },
+            {
+                  "name": "Reddalsvannet",
+                  "text": "Reddalsvannet is a lake in Grimstad that offers a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.46481,
+                        58.319545
+                  ]
+            },
+            {
+                  "name": "Røynevannet",
+                  "text": "Røynevannet is a lake in Grimstad, ideal for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        8.557848,
+                        58.411811
+                  ]
+            },
+            {
+                  "name": "Syndle",
+                  "text": "Syndle is a lake in Grimstad that offers a beautiful natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        8.497291,
+                        58.371019
+                  ]
+            },
+            {
+                  "name": "Grimstad minigolf",
+                  "text": "This miniature golf course in Grimstad offers fun and competition for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.595591,
+                        58.341559
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Grimstad", hu: "Grimstad", ro: "Grimstad", en: "Grimstad" },
@@ -15663,7 +19587,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-mandal-cities-v2.webp",
   },
   {
-    id: "norway-lyngdal-cities-v2",
+    id: "norway-lyngdal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jovatnet",
+                  "text": "Der Jovatnet ist ein See in Lyngdal, der eine friedliche Kulisse für Spaziergänge und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.128801,
+                        58.166853
+                  ]
+            },
+            {
+                  "name": "Åveslandsvannet",
+                  "text": "Der Åveslandsvannet ist ein See in Lyngdal, ideal für Naturbeobachtungen und entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        7.088738,
+                        58.11969
+                  ]
+            },
+            {
+                  "name": "Preststemmen",
+                  "text": "Der Preststemmen ist ein See in Lyngdal, der zu ruhigen Momenten in einer natürlichen Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.107693,
+                        58.167347
+                  ]
+            },
+            {
+                  "name": "Klatrestativet",
+                  "text": "Klatrestativet ist ein Spielplatz in Lyngdal, der Kindern aktive Unterhaltung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.068605,
+                        58.135932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jovatnet",
+                  "text": "A Jovatnet egy tó Lyngdalban, amely békés környezetet biztosít sétákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        7.128801,
+                        58.166853
+                  ]
+            },
+            {
+                  "name": "Åveslandsvannet",
+                  "text": "Az Åveslandsvannet egy tó Lyngdalban, amely ideális természetmegfigyelésre és szabadtéri pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        7.088738,
+                        58.11969
+                  ]
+            },
+            {
+                  "name": "Preststemmen",
+                  "text": "A Preststemmen egy tó Lyngdalban, amely nyugodt pillanatokra hív természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.107693,
+                        58.167347
+                  ]
+            },
+            {
+                  "name": "Klatrestativet",
+                  "text": "A Klatrestativet egy játszótér Lyngdalban, amely aktív szabadtéri szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.068605,
+                        58.135932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jovatnet",
+                  "text": "Jovatnet este un lac din Lyngdal, oferind un cadru liniștit pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        7.128801,
+                        58.166853
+                  ]
+            },
+            {
+                  "name": "Åveslandsvannet",
+                  "text": "Åveslandsvannet este un lac din Lyngdal, ideal pentru observarea naturii și ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        7.088738,
+                        58.11969
+                  ]
+            },
+            {
+                  "name": "Preststemmen",
+                  "text": "Preststemmen este un lac din Lyngdal, care invită la momente liniștite într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        7.107693,
+                        58.167347
+                  ]
+            },
+            {
+                  "name": "Klatrestativet",
+                  "text": "Klatrestativet este un teren de joacă din Lyngdal care oferă divertisment activ în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.068605,
+                        58.135932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jovatnet",
+                  "text": "Jovatnet is a lake in Lyngdal, offering a peaceful setting for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        7.128801,
+                        58.166853
+                  ]
+            },
+            {
+                  "name": "Åveslandsvannet",
+                  "text": "Åveslandsvannet is a lake in Lyngdal, ideal for nature observation and relaxed outdoor hours.",
+                  "category": "natural",
+                  "coords": [
+                        7.088738,
+                        58.11969
+                  ]
+            },
+            {
+                  "name": "Preststemmen",
+                  "text": "Preststemmen is a lake in Lyngdal, inviting for quiet moments in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        7.107693,
+                        58.167347
+                  ]
+            },
+            {
+                  "name": "Klatrestativet",
+                  "text": "Klatrestativet is a playground in Lyngdal offering active outdoor entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        7.068605,
+                        58.135932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Lyngdal", hu: "Lyngdal", ro: "Lyngdal", en: "Lyngdal" },
@@ -15790,6 +19867,15 @@ export const norwayCitiesV2: POI[] = [
                         7.095709,
                         61.226599
                   ]
+            },
+            {
+                  "name": "Rødstokken leikeplass",
+                  "text": "Rødstokken leikeplass ist ein lokaler Spielplatz in Sogndal, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.096184,
+                        61.225408
+                  ]
             }
       ],
       "hu": [
@@ -15872,6 +19958,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.095709,
                         61.226599
+                  ]
+            },
+            {
+                  "name": "Rødstokken leikeplass",
+                  "text": "A Rødstokken leikeplass egy helyi játszótér Sogndal városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.096184,
+                        61.225408
                   ]
             }
       ],
@@ -15956,6 +20051,15 @@ export const norwayCitiesV2: POI[] = [
                         7.095709,
                         61.226599
                   ]
+            },
+            {
+                  "name": "Rødstokken leikeplass",
+                  "text": "Rødstokken leikeplass este un loc de joacă local din Sogndal, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.096184,
+                        61.225408
+                  ]
             }
       ],
       "en": [
@@ -16038,6 +20142,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.095709,
                         61.226599
+                  ]
+            },
+            {
+                  "name": "Rødstokken leikeplass",
+                  "text": "Rødstokken leikeplass is a local playground in Sogndal, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        7.096184,
+                        61.225408
                   ]
             }
       ]
@@ -16131,7 +20244,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-stryn-cities-v2.webp",
   },
   {
-    id: "norway-ulvik-cities-v2",
+    id: "norway-ulvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solsævatnet",
+                  "text": "Der Solsævatnet ist ein malerischer See in Ulvik, ideal für Spaziergänge und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.925109,
+                        60.59819
+                  ]
+            },
+            {
+                  "name": "Døgrdalsvatnet",
+                  "text": "Der Døgrdalsvatnet ist ein See in Ulvik, der eine ruhige Atmosphäre für Erholungsuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.014611,
+                        60.539423
+                  ]
+            },
+            {
+                  "name": "Skrulsvatnet",
+                  "text": "Der Skrulsvatnet ist ein See in Ulvik, der zu entspannten Stunden in der natürlichen Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.988845,
+                        60.627978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solsævatnet",
+                  "text": "A Solsævatnet egy festői tó Ulvikban, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.925109,
+                        60.59819
+                  ]
+            },
+            {
+                  "name": "Døgrdalsvatnet",
+                  "text": "A Døgrdalsvatnet egy tó Ulvikban, amely nyugodt légkört kínál a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        7.014611,
+                        60.539423
+                  ]
+            },
+            {
+                  "name": "Skrulsvatnet",
+                  "text": "A Skrulsvatnet egy tó Ulvikban, amely pihentető órákra hív a természeti tájban.",
+                  "category": "natural",
+                  "coords": [
+                        6.988845,
+                        60.627978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solsævatnet",
+                  "text": "Solsævatnet este un lac pitoresc din Ulvik, ideal pentru plimbări și admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.925109,
+                        60.59819
+                  ]
+            },
+            {
+                  "name": "Døgrdalsvatnet",
+                  "text": "Døgrdalsvatnet este un lac din Ulvik, oferind o atmosferă liniștită pentru cei care caută recreere.",
+                  "category": "natural",
+                  "coords": [
+                        7.014611,
+                        60.539423
+                  ]
+            },
+            {
+                  "name": "Skrulsvatnet",
+                  "text": "Skrulsvatnet este un lac din Ulvik, care invită la ore relaxante în peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        6.988845,
+                        60.627978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solsævatnet",
+                  "text": "Solsævatnet is a scenic lake in Ulvik, ideal for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.925109,
+                        60.59819
+                  ]
+            },
+            {
+                  "name": "Døgrdalsvatnet",
+                  "text": "Døgrdalsvatnet is a lake in Ulvik, offering a quiet atmosphere for those seeking recreation.",
+                  "category": "natural",
+                  "coords": [
+                        7.014611,
+                        60.539423
+                  ]
+            },
+            {
+                  "name": "Skrulsvatnet",
+                  "text": "Skrulsvatnet is a lake in Ulvik, inviting for relaxed hours in the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.988845,
+                        60.627978
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Ulvik", hu: "Ulvik", ro: "Ulvik", en: "Ulvik" },
@@ -16231,6 +20461,33 @@ export const norwayCitiesV2: POI[] = [
                         6.416868,
                         60.628777
                   ]
+            },
+            {
+                  "name": "Leikegrenda",
+                  "text": "Leikegrenda ist ein lokaler Spielplatz in Voss, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.425845,
+                        60.627939
+                  ]
+            },
+            {
+                  "name": "Minigolfen",
+                  "text": "Minigolfen in Voss ist ein Minigolfplatz, der familienfreundliche Unterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.41543,
+                        60.627518
+                  ]
+            },
+            {
+                  "name": "Vangen skule",
+                  "text": "Vangen skule ist ein lokaler Spielplatz in Voss, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.423747,
+                        60.628152
+                  ]
             }
       ],
       "hu": [
@@ -16286,6 +20543,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.416868,
                         60.628777
+                  ]
+            },
+            {
+                  "name": "Leikegrenda",
+                  "text": "A Leikegrenda egy helyi játszótér Voss városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.425845,
+                        60.627939
+                  ]
+            },
+            {
+                  "name": "Minigolfen",
+                  "text": "A Minigolfen egy minigolfpálya Voss városában, amely családbarát szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        6.41543,
+                        60.627518
+                  ]
+            },
+            {
+                  "name": "Vangen skule",
+                  "text": "A Vangen skule egy helyi játszótér Voss városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.423747,
+                        60.628152
                   ]
             }
       ],
@@ -16343,6 +20627,33 @@ export const norwayCitiesV2: POI[] = [
                         6.416868,
                         60.628777
                   ]
+            },
+            {
+                  "name": "Leikegrenda",
+                  "text": "Leikegrenda este un loc de joacă local din Voss, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.425845,
+                        60.627939
+                  ]
+            },
+            {
+                  "name": "Minigolfen",
+                  "text": "Minigolfen din Voss este un teren de minigolf care oferă divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.41543,
+                        60.627518
+                  ]
+            },
+            {
+                  "name": "Vangen skule",
+                  "text": "Vangen skule este un loc de joacă local din Voss, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.423747,
+                        60.628152
+                  ]
             }
       ],
       "en": [
@@ -16399,6 +20710,33 @@ export const norwayCitiesV2: POI[] = [
                         6.416868,
                         60.628777
                   ]
+            },
+            {
+                  "name": "Leikegrenda",
+                  "text": "Leikegrenda is a local playground in Voss, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        6.425845,
+                        60.627939
+                  ]
+            },
+            {
+                  "name": "Minigolfen",
+                  "text": "Minigolfen in Voss is a miniature golf course that provides family-friendly entertainment.",
+                  "category": "family",
+                  "coords": [
+                        6.41543,
+                        60.627518
+                  ]
+            },
+            {
+                  "name": "Vangen skule",
+                  "text": "Vangen skule is a local playground in Voss, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        6.423747,
+                        60.628152
+                  ]
             }
       ]
 },
@@ -16446,7 +20784,304 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-voss-cities-v2.webp",
   },
   {
-    id: "norway-karmøy-cities-v2",
+    id: "norway-karmøy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tistreivatnet",
+                  "text": "Der Tistreivatnet ist ein See in Karmøy, der eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.254397,
+                        59.25551
+                  ]
+            },
+            {
+                  "name": "Søre Brekkevatnet",
+                  "text": "Der Søre Brekkevatnet ist ein See in Karmøy, ideal für Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        5.262516,
+                        59.260855
+                  ]
+            },
+            {
+                  "name": "Stiklevatnet",
+                  "text": "Der Stiklevatnet ist ein See in Karmøy, der eine ruhige Umgebung für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.28197,
+                        59.218973
+                  ]
+            },
+            {
+                  "name": "Ytra Holmavatnet",
+                  "text": "Der Ytra Holmavatnet ist ein See in Karmøy, eingebettet in die Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.235089,
+                        59.206058
+                  ]
+            },
+            {
+                  "name": "Reiarsvatnet",
+                  "text": "Der Reiarsvatnet ist ein See in Karmøy, der eine naturnahe Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.299904,
+                        59.232837
+                  ]
+            },
+            {
+                  "name": "Indra Holmavatnet",
+                  "text": "Der Indra Holmavatnet ist ein See in Karmøy, ein ruhiger Ort für Entdeckungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.247298,
+                        59.203797
+                  ]
+            },
+            {
+                  "name": "Midtra Fotvatnet",
+                  "text": "Der Midtra Fotvatnet ist ein See in Karmøy, der zur Erholung im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.283497,
+                        59.297586
+                  ]
+            },
+            {
+                  "name": "Stora Fotvatnet",
+                  "text": "Der Stora Fotvatnet ist ein See in Karmøy, bekannt für seine ruhige Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.277389,
+                        59.295545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tistreivatnet",
+                  "text": "A Tistreivatnet egy tó Karmøy területén, amely békés természeti légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        5.254397,
+                        59.25551
+                  ]
+            },
+            {
+                  "name": "Søre Brekkevatnet",
+                  "text": "A Søre Brekkevatnet egy tó Karmøy területén, ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.262516,
+                        59.260855
+                  ]
+            },
+            {
+                  "name": "Stiklevatnet",
+                  "text": "A Stiklevatnet egy tó Karmøy területén, amely nyugodt környezetet biztosít a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.28197,
+                        59.218973
+                  ]
+            },
+            {
+                  "name": "Ytra Holmavatnet",
+                  "text": "Az Ytra Holmavatnet egy tó Karmøy területén, a tengerparti tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        5.235089,
+                        59.206058
+                  ]
+            },
+            {
+                  "name": "Reiarsvatnet",
+                  "text": "A Reiarsvatnet egy tó Karmøy területén, amely természetközeli környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        5.299904,
+                        59.232837
+                  ]
+            },
+            {
+                  "name": "Indra Holmavatnet",
+                  "text": "Az Indra Holmavatnet egy tó Karmøy területén, csendes hely a természeti felfedezésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.247298,
+                        59.203797
+                  ]
+            },
+            {
+                  "name": "Midtra Fotvatnet",
+                  "text": "A Midtra Fotvatnet egy tó Karmøy területén, amely szabadtéri kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.283497,
+                        59.297586
+                  ]
+            },
+            {
+                  "name": "Stora Fotvatnet",
+                  "text": "A Stora Fotvatnet egy tó Karmøy területén, amely nyugodt természeti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.277389,
+                        59.295545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tistreivatnet",
+                  "text": "Tistreivatnet este un lac din Karmøy care oferă o atmosferă pașnică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.254397,
+                        59.25551
+                  ]
+            },
+            {
+                  "name": "Søre Brekkevatnet",
+                  "text": "Søre Brekkevatnet este un lac din Karmøy, ideal pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.262516,
+                        59.260855
+                  ]
+            },
+            {
+                  "name": "Stiklevatnet",
+                  "text": "Stiklevatnet este un lac din Karmøy care oferă un mediu liniștit pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        5.28197,
+                        59.218973
+                  ]
+            },
+            {
+                  "name": "Ytra Holmavatnet",
+                  "text": "Ytra Holmavatnet este un lac din Karmøy, integrat în peisajul de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        5.235089,
+                        59.206058
+                  ]
+            },
+            {
+                  "name": "Reiarsvatnet",
+                  "text": "Reiarsvatnet este un lac din Karmøy care oferă un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        5.299904,
+                        59.232837
+                  ]
+            },
+            {
+                  "name": "Indra Holmavatnet",
+                  "text": "Indra Holmavatnet este un lac din Karmøy, un loc liniștit pentru explorări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.247298,
+                        59.203797
+                  ]
+            },
+            {
+                  "name": "Midtra Fotvatnet",
+                  "text": "Midtra Fotvatnet este un lac din Karmøy care invită la recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.283497,
+                        59.297586
+                  ]
+            },
+            {
+                  "name": "Stora Fotvatnet",
+                  "text": "Stora Fotvatnet este un lac din Karmøy, cunoscut pentru peisajul său natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        5.277389,
+                        59.295545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tistreivatnet",
+                  "text": "Tistreivatnet is a lake in Karmøy that offers a peaceful natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        5.254397,
+                        59.25551
+                  ]
+            },
+            {
+                  "name": "Søre Brekkevatnet",
+                  "text": "Søre Brekkevatnet is a lake in Karmøy, ideal for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.262516,
+                        59.260855
+                  ]
+            },
+            {
+                  "name": "Stiklevatnet",
+                  "text": "Stiklevatnet is a lake in Karmøy that offers a quiet environment for trips.",
+                  "category": "natural",
+                  "coords": [
+                        5.28197,
+                        59.218973
+                  ]
+            },
+            {
+                  "name": "Ytra Holmavatnet",
+                  "text": "Ytra Holmavatnet is a lake in Karmøy, nestled in the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.235089,
+                        59.206058
+                  ]
+            },
+            {
+                  "name": "Reiarsvatnet",
+                  "text": "Reiarsvatnet is a lake in Karmøy that offers a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        5.299904,
+                        59.232837
+                  ]
+            },
+            {
+                  "name": "Indra Holmavatnet",
+                  "text": "Indra Holmavatnet is a lake in Karmøy, a quiet place for nature discoveries.",
+                  "category": "natural",
+                  "coords": [
+                        5.247298,
+                        59.203797
+                  ]
+            },
+            {
+                  "name": "Midtra Fotvatnet",
+                  "text": "Midtra Fotvatnet is a lake in Karmøy that invites outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.283497,
+                        59.297586
+                  ]
+            },
+            {
+                  "name": "Stora Fotvatnet",
+                  "text": "Stora Fotvatnet is a lake in Karmøy, known for its peaceful natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.277389,
+                        59.295545
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Karmøy", hu: "Karmøy", ro: "Karmøy", en: "Karmøy" },
@@ -17716,6 +22351,33 @@ export const norwayCitiesV2: POI[] = [
                         5.598874,
                         58.794943
                   ]
+            },
+            {
+                  "name": "Stokkelandsvatnet",
+                  "text": "Der Stokkelandsvatnet ist ein See in Kleppe, der eine schöne Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.72873,
+                        58.821962
+                  ]
+            },
+            {
+                  "name": "Orrevatnet",
+                  "text": "Der Orrevatnet ist ein See in Kleppe, bekannt für die umliegende Natur und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        5.551306,
+                        58.757058
+                  ]
+            },
+            {
+                  "name": "Horpestadvatnet",
+                  "text": "Der Horpestadvatnet in Kleppe ist ein ruhiger See, der sich ideal für einen entspannten Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        5.572327,
+                        58.7382
+                  ]
             }
       ],
       "hu": [
@@ -17780,6 +22442,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.598874,
                         58.794943
+                  ]
+            },
+            {
+                  "name": "Stokkelandsvatnet",
+                  "text": "A Stokkelandsvatnet egy tó Kleppe területén, amely szép környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.72873,
+                        58.821962
+                  ]
+            },
+            {
+                  "name": "Orrevatnet",
+                  "text": "Az Orrevatnet egy tó Kleppe területén, amely a környező természetről és nyugalomról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.551306,
+                        58.757058
+                  ]
+            },
+            {
+                  "name": "Horpestadvatnet",
+                  "text": "A Kleppe területén található Horpestadvatnet egy csendes tó, amely tökéletes egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.572327,
+                        58.7382
                   ]
             }
       ],
@@ -17846,6 +22535,33 @@ export const norwayCitiesV2: POI[] = [
                         5.598874,
                         58.794943
                   ]
+            },
+            {
+                  "name": "Stokkelandsvatnet",
+                  "text": "Stokkelandsvatnet este un lac din Kleppe care oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.72873,
+                        58.821962
+                  ]
+            },
+            {
+                  "name": "Orrevatnet",
+                  "text": "Orrevatnet este un lac din Kleppe, cunoscut pentru natura înconjurătoare și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        5.551306,
+                        58.757058
+                  ]
+            },
+            {
+                  "name": "Horpestadvatnet",
+                  "text": "Horpestadvatnet din Kleppe este un lac liniștit, perfect pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.572327,
+                        58.7382
+                  ]
             }
       ],
       "en": [
@@ -17910,6 +22626,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.598874,
                         58.794943
+                  ]
+            },
+            {
+                  "name": "Stokkelandsvatnet",
+                  "text": "Stokkelandsvatnet is a lake in Kleppe that offers a beautiful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.72873,
+                        58.821962
+                  ]
+            },
+            {
+                  "name": "Orrevatnet",
+                  "text": "Orrevatnet is a lake in Kleppe, known for its surrounding nature and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        5.551306,
+                        58.757058
+                  ]
+            },
+            {
+                  "name": "Horpestadvatnet",
+                  "text": "Horpestadvatnet in Kleppe is a quiet lake, perfect for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.572327,
+                        58.7382
                   ]
             }
       ]
@@ -18175,6 +22918,51 @@ export const norwayCitiesV2: POI[] = [
                         5.619411,
                         58.99978
                   ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Mosvatnet",
+                  "text": "Mosvatnet ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.711822,
+                        58.956811
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Rygghagen",
+                  "text": "Rygghagen ist ein lokaler Spielplatz in Randaberg, der Familien einen tollen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.623787,
+                        58.998262
+                  ]
             }
       ],
       "hu": [
@@ -18347,6 +23135,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.619411,
                         58.99978
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "A Litle Stokkavatn egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "A Store Stokkavatn egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Mosvatnet",
+                  "text": "A Mosvatnet egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.711822,
+                        58.956811
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "A Hålandsvannet egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Rygghagen",
+                  "text": "A Rygghagen egy helyi játszótér Randaberg városában, amely szórakoztató szabadtéri kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.623787,
+                        58.998262
                   ]
             }
       ],
@@ -18521,6 +23354,51 @@ export const norwayCitiesV2: POI[] = [
                         5.619411,
                         58.99978
                   ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Mosvatnet",
+                  "text": "Mosvatnet este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.711822,
+                        58.956811
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Rygghagen",
+                  "text": "Rygghagen este un loc de joacă local din Randaberg, oferind un spațiu plăcut în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.623787,
+                        58.998262
+                  ]
             }
       ],
       "en": [
@@ -18694,6 +23572,51 @@ export const norwayCitiesV2: POI[] = [
                         5.619411,
                         58.99978
                   ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Mosvatnet",
+                  "text": "Mosvatnet is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.711822,
+                        58.956811
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Rygghagen",
+                  "text": "Rygghagen is a local playground in Randaberg, offering a fun outdoor space for families.",
+                  "category": "family",
+                  "coords": [
+                        5.623787,
+                        58.998262
+                  ]
             }
       ]
 },
@@ -18741,7 +23664,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-randaberg-cities-v2.webp",
   },
   {
-    id: "norway-tysvær-cities-v2",
+    id: "norway-tysvær-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storavatnet",
+                  "text": "Der Storavatnet in Tysv R ist ein malerischer See, ideal zum Wandern und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.563421,
+                        59.386012
+                  ]
+            },
+            {
+                  "name": "Stakkastadvatnet",
+                  "text": "Der Stakkastadvatnet ist ein schöner See in Tysv R, der zu erholsamen Stunden im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.388547,
+                        59.465902
+                  ]
+            },
+            {
+                  "name": "Aksdalsvatnet",
+                  "text": "Der Aksdalsvatnet in Tysv R bietet eine friedliche Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        5.426616,
+                        59.409899
+                  ]
+            },
+            {
+                  "name": "Trampoliner",
+                  "text": "Trampoliner in Tysv R ist ein toller Spielplatz, der Kindern viel Raum für Bewegung und Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.481888,
+                        59.434301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storavatnet",
+                  "text": "A Tysv R területén fekvő Storavatnet egy festői tó, amely ideális túrázáshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.563421,
+                        59.386012
+                  ]
+            },
+            {
+                  "name": "Stakkastadvatnet",
+                  "text": "A Stakkastadvatnet egy szép tó Tysv R területén, amely pihentető szabadtéri órákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        5.388547,
+                        59.465902
+                  ]
+            },
+            {
+                  "name": "Aksdalsvatnet",
+                  "text": "Az Aksdalsvatnet Tysv R területén békés környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.426616,
+                        59.409899
+                  ]
+            },
+            {
+                  "name": "Trampoliner",
+                  "text": "A Tysv R területén található Trampoliner egy nagyszerű játszótér, amely sok mozgást és szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.481888,
+                        59.434301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storavatnet",
+                  "text": "Storavatnet din Tysv R este un lac pitoresc, ideal pentru drumeții și relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.563421,
+                        59.386012
+                  ]
+            },
+            {
+                  "name": "Stakkastadvatnet",
+                  "text": "Stakkastadvatnet este un lac frumos în Tysv R, care invită la ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.388547,
+                        59.465902
+                  ]
+            },
+            {
+                  "name": "Aksdalsvatnet",
+                  "text": "Aksdalsvatnet din Tysv R oferă un cadru liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.426616,
+                        59.409899
+                  ]
+            },
+            {
+                  "name": "Trampoliner",
+                  "text": "Trampoliner din Tysv R este un loc de joacă minunat, care oferă copiilor mult spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        5.481888,
+                        59.434301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storavatnet",
+                  "text": "Storavatnet in Tysv R is a scenic lake, ideal for hiking and enjoying the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.563421,
+                        59.386012
+                  ]
+            },
+            {
+                  "name": "Stakkastadvatnet",
+                  "text": "Stakkastadvatnet is a beautiful lake in Tysv R, inviting for relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        5.388547,
+                        59.465902
+                  ]
+            },
+            {
+                  "name": "Aksdalsvatnet",
+                  "text": "Aksdalsvatnet in Tysv R offers a peaceful setting for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.426616,
+                        59.409899
+                  ]
+            },
+            {
+                  "name": "Trampoliner",
+                  "text": "Trampoliner in Tysv R is a great playground offering children plenty of space for movement and fun.",
+                  "category": "family",
+                  "coords": [
+                        5.481888,
+                        59.434301
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Tysvær", hu: "Tysvær", ro: "Tysvær", en: "Tysvær" },
@@ -18786,7 +23862,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-tysvær-cities-v2.webp",
   },
   {
-    id: "norway-vindafjord-cities-v2",
+    id: "norway-vindafjord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lysevatnet",
+                  "text": "Der Lysevatnet ist ein See in Vindafjord, ideal für Naturspaziergänge und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        6.028668,
+                        59.591943
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Der Stemmevatnet ist ein See in Vindafjord, der eine friedliche Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.783315,
+                        59.552427
+                  ]
+            },
+            {
+                  "name": "Fjellgardsvatnet",
+                  "text": "Der Fjellgardsvatnet ist ein malerischer See in Vindafjord, der zu ruhigen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.02858,
+                        59.563184
+                  ]
+            },
+            {
+                  "name": "Gjerdesdalsvatnet",
+                  "text": "Der Gjerdesdalsvatnet ist ein See in Vindafjord, ideal für entspannte Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.778025,
+                        59.504757
+                  ]
+            },
+            {
+                  "name": "Ølmedalsvatnet",
+                  "text": "Der Ølmedalsvatnet ist ein See in Vindafjord, der eine schöne Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.993355,
+                        59.493577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lysevatnet",
+                  "text": "A Lysevatnet egy tó Vindafjordban, amely ideális természeti sétákhoz és szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        6.028668,
+                        59.591943
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "A Stemmevatnet egy tó Vindafjordban, amely békés környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.783315,
+                        59.552427
+                  ]
+            },
+            {
+                  "name": "Fjellgardsvatnet",
+                  "text": "A Fjellgardsvatnet egy festői tó Vindafjordban, amely nyugodt vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.02858,
+                        59.563184
+                  ]
+            },
+            {
+                  "name": "Gjerdesdalsvatnet",
+                  "text": "A Gjerdesdalsvatnet egy tó Vindafjordban, amely ideális a természetben töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.778025,
+                        59.504757
+                  ]
+            },
+            {
+                  "name": "Ølmedalsvatnet",
+                  "text": "Az Ølmedalsvatnet egy tó Vindafjordban, amely szép környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.993355,
+                        59.493577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lysevatnet",
+                  "text": "Lysevatnet este un lac din Vindafjord, ideal pentru plimbări în natură și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        6.028668,
+                        59.591943
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Stemmevatnet este un lac din Vindafjord, oferind un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.783315,
+                        59.552427
+                  ]
+            },
+            {
+                  "name": "Fjellgardsvatnet",
+                  "text": "Fjellgardsvatnet este un lac pitoresc din Vindafjord, care invită la momente liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.02858,
+                        59.563184
+                  ]
+            },
+            {
+                  "name": "Gjerdesdalsvatnet",
+                  "text": "Gjerdesdalsvatnet este un lac din Vindafjord, ideal pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.778025,
+                        59.504757
+                  ]
+            },
+            {
+                  "name": "Ølmedalsvatnet",
+                  "text": "Ølmedalsvatnet este un lac din Vindafjord, oferind un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.993355,
+                        59.493577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lysevatnet",
+                  "text": "Lysevatnet is a lake in Vindafjord, ideal for nature walks and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        6.028668,
+                        59.591943
+                  ]
+            },
+            {
+                  "name": "Stemmevatnet",
+                  "text": "Stemmevatnet is a lake in Vindafjord, offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.783315,
+                        59.552427
+                  ]
+            },
+            {
+                  "name": "Fjellgardsvatnet",
+                  "text": "Fjellgardsvatnet is a scenic lake in Vindafjord, inviting for quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.02858,
+                        59.563184
+                  ]
+            },
+            {
+                  "name": "Gjerdesdalsvatnet",
+                  "text": "Gjerdesdalsvatnet is a lake in Vindafjord, ideal for relaxed hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.778025,
+                        59.504757
+                  ]
+            },
+            {
+                  "name": "Ølmedalsvatnet",
+                  "text": "Ølmedalsvatnet is a lake in Vindafjord, offering a beautiful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.993355,
+                        59.493577
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Vindafjord", hu: "Vindafjord", ro: "Vindafjord", en: "Vindafjord" },
@@ -18886,6 +24151,33 @@ export const norwayCitiesV2: POI[] = [
                         6.354408,
                         59.65179
                   ]
+            },
+            {
+                  "name": "Hattaløfttjørna",
+                  "text": "Hattaløfttjørna ist ein malerischer See in Sauda, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.419607,
+                        59.69863
+                  ]
+            },
+            {
+                  "name": "Annanutvatnet",
+                  "text": "Annanutvatnet ist ein malerischer See in Sauda, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.393368,
+                        59.700703
+                  ]
+            },
+            {
+                  "name": "Fetavatnet",
+                  "text": "Fetavatnet ist ein malerischer See in Sauda, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.423181,
+                        59.705462
+                  ]
             }
       ],
       "hu": [
@@ -18941,6 +24233,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.354408,
                         59.65179
+                  ]
+            },
+            {
+                  "name": "Hattaløfttjørna",
+                  "text": "A Hattaløfttjørna egy festői tó Sauda városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.419607,
+                        59.69863
+                  ]
+            },
+            {
+                  "name": "Annanutvatnet",
+                  "text": "A Annanutvatnet egy festői tó Sauda városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.393368,
+                        59.700703
+                  ]
+            },
+            {
+                  "name": "Fetavatnet",
+                  "text": "A Fetavatnet egy festői tó Sauda városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.423181,
+                        59.705462
                   ]
             }
       ],
@@ -18998,6 +24317,33 @@ export const norwayCitiesV2: POI[] = [
                         6.354408,
                         59.65179
                   ]
+            },
+            {
+                  "name": "Hattaløfttjørna",
+                  "text": "Hattaløfttjørna este un lac pitoresc din Sauda, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.419607,
+                        59.69863
+                  ]
+            },
+            {
+                  "name": "Annanutvatnet",
+                  "text": "Annanutvatnet este un lac pitoresc din Sauda, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.393368,
+                        59.700703
+                  ]
+            },
+            {
+                  "name": "Fetavatnet",
+                  "text": "Fetavatnet este un lac pitoresc din Sauda, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.423181,
+                        59.705462
+                  ]
             }
       ],
       "en": [
@@ -19053,6 +24399,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.354408,
                         59.65179
+                  ]
+            },
+            {
+                  "name": "Hattaløfttjørna",
+                  "text": "Hattaløfttjørna is a scenic lake in Sauda, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.419607,
+                        59.69863
+                  ]
+            },
+            {
+                  "name": "Annanutvatnet",
+                  "text": "Annanutvatnet is a scenic lake in Sauda, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.393368,
+                        59.700703
+                  ]
+            },
+            {
+                  "name": "Fetavatnet",
+                  "text": "Fetavatnet is a scenic lake in Sauda, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.423181,
+                        59.705462
                   ]
             }
       ]
@@ -19992,7 +25365,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skjold-cities-v2.webp",
   },
   {
-    id: "norway-sveio-cities-v2",
+    id: "norway-sveio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigdarvatnet",
+                  "text": "Der Vigdarvatnet ist ein See in Sveio, der ideale Bedingungen für Erholung und Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.391191,
+                        59.515152
+                  ]
+            },
+            {
+                  "name": "Åsevatnet",
+                  "text": "Der Åsevatnet ist ein malerischer See in Sveio, der zu ruhigen Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.342667,
+                        59.552735
+                  ]
+            },
+            {
+                  "name": "Liervatnet",
+                  "text": "Der Liervatnet ist ein See in Sveio, der eine friedliche Atmosphäre für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.480933,
+                        59.583201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigdarvatnet",
+                  "text": "A Vigdarvatnet egy tó Sveióban, amely ideális feltételeket kínál a pihenéshez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.391191,
+                        59.515152
+                  ]
+            },
+            {
+                  "name": "Åsevatnet",
+                  "text": "Az Åsevatnet egy festői tó Sveióban, amely nyugodt természeti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.342667,
+                        59.552735
+                  ]
+            },
+            {
+                  "name": "Liervatnet",
+                  "text": "A Liervatnet egy tó Sveióban, amely békés légkört biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.480933,
+                        59.583201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigdarvatnet",
+                  "text": "Vigdarvatnet este un lac din Sveio, oferind condiții ideale pentru recreere și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.391191,
+                        59.515152
+                  ]
+            },
+            {
+                  "name": "Åsevatnet",
+                  "text": "Åsevatnet este un lac pitoresc din Sveio, care invită la momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.342667,
+                        59.552735
+                  ]
+            },
+            {
+                  "name": "Liervatnet",
+                  "text": "Liervatnet este un lac din Sveio, oferind o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.480933,
+                        59.583201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigdarvatnet",
+                  "text": "Vigdarvatnet is a lake in Sveio, offering ideal conditions for recreation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.391191,
+                        59.515152
+                  ]
+            },
+            {
+                  "name": "Åsevatnet",
+                  "text": "Åsevatnet is a scenic lake in Sveio, inviting for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.342667,
+                        59.552735
+                  ]
+            },
+            {
+                  "name": "Liervatnet",
+                  "text": "Liervatnet is a lake in Sveio, offering a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.480933,
+                        59.583201
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sveio", hu: "Sveio", ro: "Sveio", en: "Sveio" },
@@ -20065,6 +25555,24 @@ export const norwayCitiesV2: POI[] = [
                         5.934852,
                         59.664087
                   ]
+            },
+            {
+                  "name": "Myrkavatnet",
+                  "text": "Myrkavatnet ist ein malerischer See in Etne, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.834585,
+                        59.637852
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Stordalsvatnet ist ein malerischer See in Etne, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
+                  ]
             }
       ],
       "hu": [
@@ -20093,6 +25601,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.934852,
                         59.664087
+                  ]
+            },
+            {
+                  "name": "Myrkavatnet",
+                  "text": "A Myrkavatnet egy festői tó Etne városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.834585,
+                        59.637852
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "A Stordalsvatnet egy festői tó Etne városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
                   ]
             }
       ],
@@ -20123,6 +25649,24 @@ export const norwayCitiesV2: POI[] = [
                         5.934852,
                         59.664087
                   ]
+            },
+            {
+                  "name": "Myrkavatnet",
+                  "text": "Myrkavatnet este un lac pitoresc din Etne, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.834585,
+                        59.637852
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Stordalsvatnet este un lac pitoresc din Etne, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
+                  ]
             }
       ],
       "en": [
@@ -20151,6 +25695,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.934852,
                         59.664087
+                  ]
+            },
+            {
+                  "name": "Myrkavatnet",
+                  "text": "Myrkavatnet is a scenic lake in Etne, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.834585,
+                        59.637852
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Stordalsvatnet is a scenic lake in Etne, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
                   ]
             }
       ]
@@ -20236,6 +25798,15 @@ export const norwayCitiesV2: POI[] = [
                         5.939343,
                         59.731992
                   ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Der Stordalsvatnet in Skanevik ist ein ruhiger See, ideal für Naturfreunde und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
+                  ]
             }
       ],
       "hu": [
@@ -20273,6 +25844,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.939343,
                         59.731992
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "A Skanevik területén található Stordalsvatnet egy csendes tó, amely ideális a természet kedvelőinek és a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
                   ]
             }
       ],
@@ -20312,6 +25892,15 @@ export const norwayCitiesV2: POI[] = [
                         5.939343,
                         59.731992
                   ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Stordalsvatnet din Skanevik este un lac liniștit, ideal pentru iubitorii de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
+                  ]
             }
       ],
       "en": [
@@ -20349,6 +25938,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.939343,
                         59.731992
+                  ]
+            },
+            {
+                  "name": "Stordalsvatnet",
+                  "text": "Stordalsvatnet in Skanevik is a quiet lake, ideal for nature lovers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        6.084646,
+                        59.702551
                   ]
             }
       ]
@@ -20397,7 +25995,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skånevik-cities-v2.webp",
   },
   {
-    id: "norway-rosendal-cities-v2",
+    id: "norway-rosendal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Der Mannsvatnet ist ein See in Rosendal, ideal für ruhige Spaziergänge und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Prestavatnet",
+                  "text": "Der Prestavatnet ist ein malerischer See in Rosendal, der zu entspannten Stunden im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.092665,
+                        59.96718
+                  ]
+            },
+            {
+                  "name": "Juklavatnet",
+                  "text": "Der Juklavatnet ist ein See in Rosendal, der eine friedliche Umgebung für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.13849,
+                        60.013208
+                  ]
+            },
+            {
+                  "name": "Svartavatnet",
+                  "text": "Der Svartavatnet ist ein See in Rosendal, ideal für Naturbeobachtungen und ruhige Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.141446,
+                        59.976613
+                  ]
+            },
+            {
+                  "name": "Myrdalsvatnet",
+                  "text": "Der Myrdalsvatnet ist ein See in Rosendal, der eine schöne Kulisse für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.081642,
+                        60.033561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mannsvatnet",
+                  "text": "A Mannsvatnet egy tó Rosendalban, amely ideális nyugodt sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Prestavatnet",
+                  "text": "A Prestavatnet egy festői tó Rosendalban, amely pihentető szabadtéri órákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.092665,
+                        59.96718
+                  ]
+            },
+            {
+                  "name": "Juklavatnet",
+                  "text": "A Juklavatnet egy tó Rosendalban, amely nyugodt környezetet biztosít a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.13849,
+                        60.013208
+                  ]
+            },
+            {
+                  "name": "Svartavatnet",
+                  "text": "A Svartavatnet egy tó Rosendalban, amely ideális természetmegfigyelésre és nyugodt vízparti pillanatokra.",
+                  "category": "natural",
+                  "coords": [
+                        6.141446,
+                        59.976613
+                  ]
+            },
+            {
+                  "name": "Myrdalsvatnet",
+                  "text": "A Myrdalsvatnet egy tó Rosendalban, amely szép környezetet biztosít a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.081642,
+                        60.033561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Mannsvatnet este un lac din Rosendal, ideal pentru plimbări liniștite și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Prestavatnet",
+                  "text": "Prestavatnet este un lac pitoresc din Rosendal, care invită la ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        6.092665,
+                        59.96718
+                  ]
+            },
+            {
+                  "name": "Juklavatnet",
+                  "text": "Juklavatnet este un lac din Rosendal, oferind un mediu liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.13849,
+                        60.013208
+                  ]
+            },
+            {
+                  "name": "Svartavatnet",
+                  "text": "Svartavatnet este un lac din Rosendal, ideal pentru observarea naturii și momente liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.141446,
+                        59.976613
+                  ]
+            },
+            {
+                  "name": "Myrdalsvatnet",
+                  "text": "Myrdalsvatnet este un lac din Rosendal, oferind un cadru frumos pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.081642,
+                        60.033561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Mannsvatnet is a lake in Rosendal, ideal for quiet walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Prestavatnet",
+                  "text": "Prestavatnet is a scenic lake in Rosendal, inviting for relaxed hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        6.092665,
+                        59.96718
+                  ]
+            },
+            {
+                  "name": "Juklavatnet",
+                  "text": "Juklavatnet is a lake in Rosendal, offering a peaceful environment for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.13849,
+                        60.013208
+                  ]
+            },
+            {
+                  "name": "Svartavatnet",
+                  "text": "Svartavatnet is a lake in Rosendal, ideal for nature observation and quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.141446,
+                        59.976613
+                  ]
+            },
+            {
+                  "name": "Myrdalsvatnet",
+                  "text": "Myrdalsvatnet is a lake in Rosendal, offering a beautiful setting for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.081642,
+                        60.033561
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Rosendal", hu: "Rosendal", ro: "Rosendal", en: "Rosendal" },
@@ -20640,7 +26427,304 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-husnes-cities-v2.webp",
   },
   {
-    id: "norway-kvinnherad-cities-v2",
+    id: "norway-kvinnherad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nesjastølsvatnet",
+                  "text": "Der Nesjastølsvatnet in Kvinnherad ist ein malerischer Bergsee, perfekt für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.105757,
+                        59.858214
+                  ]
+            },
+            {
+                  "name": "Botnavatna",
+                  "text": "Botnavatna in Kvinnherad ist ein friedlicher See, der sich hervorragend für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.128443,
+                        59.910466
+                  ]
+            },
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Der Mannsvatnet ist ein ruhiger See in Kvinnherad, ideal zum Entspannen in der norwegischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Opstveitvatnet",
+                  "text": "Der Opstveitvatnet in Kvinnherad bietet eine wunderschöne Umgebung für erholsame Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.002108,
+                        59.851559
+                  ]
+            },
+            {
+                  "name": "Fjellhaugvatn",
+                  "text": "Der Fjellhaugvatn in Kvinnherad ist ein stimmungsvoller See, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.055931,
+                        59.865009
+                  ]
+            },
+            {
+                  "name": "Jamtelandsvatn",
+                  "text": "Der Jamtelandsvatn ist ein friedlicher See in Kvinnherad, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.097581,
+                        59.881263
+                  ]
+            },
+            {
+                  "name": "Sandvatna",
+                  "text": "Sandvatna in Kvinnherad ist ein malerischer See, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.132355,
+                        59.866222
+                  ]
+            },
+            {
+                  "name": "Staffivatnet",
+                  "text": "Der Staffivatnet in Kvinnherad ist ein ruhiger See, ideal zum Genießen der umliegenden Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.088975,
+                        59.871191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nesjastølsvatnet",
+                  "text": "A Kvinnherad területén fekvő Nesjastølsvatnet egy festői hegyi tó, amely tökéletes egy természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.105757,
+                        59.858214
+                  ]
+            },
+            {
+                  "name": "Botnavatna",
+                  "text": "A Kvinnherad területén található Botnavatna egy békés tó, amely kiválóan alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        6.128443,
+                        59.910466
+                  ]
+            },
+            {
+                  "name": "Mannsvatnet",
+                  "text": "A Mannsvatnet egy csendes tó Kvinnherad területén, amely ideális a kikapcsolódáshoz a norvég tájon.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Opstveitvatnet",
+                  "text": "Az Opstveitvatnet Kvinnherad területén gyönyörű környezetet kínál a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        6.002108,
+                        59.851559
+                  ]
+            },
+            {
+                  "name": "Fjellhaugvatn",
+                  "text": "A Kvinnherad területén fekvő Fjellhaugvatn egy hangulatos tó, amely tökéletes a természet kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.055931,
+                        59.865009
+                  ]
+            },
+            {
+                  "name": "Jamtelandsvatn",
+                  "text": "A Jamtelandsvatn egy békés tó Kvinnherad területén, amely ideális a természetben töltött nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.097581,
+                        59.881263
+                  ]
+            },
+            {
+                  "name": "Sandvatna",
+                  "text": "A Kvinnherad területén található Sandvatna egy festői tó, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        6.132355,
+                        59.866222
+                  ]
+            },
+            {
+                  "name": "Staffivatnet",
+                  "text": "A Kvinnherad területén fekvő Staffivatnet egy csendes tó, amely ideális a környező táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.088975,
+                        59.871191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nesjastølsvatnet",
+                  "text": "Nesjastølsvatnet din Kvinnherad este un lac montan pitoresc, perfect pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.105757,
+                        59.858214
+                  ]
+            },
+            {
+                  "name": "Botnavatna",
+                  "text": "Botnavatna din Kvinnherad este un lac pașnic, excelent pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        6.128443,
+                        59.910466
+                  ]
+            },
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Mannsvatnet este un lac liniștit în Kvinnherad, ideal pentru relaxare în peisajul norvegian.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Opstveitvatnet",
+                  "text": "Opstveitvatnet din Kvinnherad oferă o împrejurime minunată pentru ore relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.002108,
+                        59.851559
+                  ]
+            },
+            {
+                  "name": "Fjellhaugvatn",
+                  "text": "Fjellhaugvatn din Kvinnherad este un lac atmosferic, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.055931,
+                        59.865009
+                  ]
+            },
+            {
+                  "name": "Jamtelandsvatn",
+                  "text": "Jamtelandsvatn este un lac pașnic în Kvinnherad, ideal pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.097581,
+                        59.881263
+                  ]
+            },
+            {
+                  "name": "Sandvatna",
+                  "text": "Sandvatna din Kvinnherad este un lac pitoresc care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        6.132355,
+                        59.866222
+                  ]
+            },
+            {
+                  "name": "Staffivatnet",
+                  "text": "Staffivatnet din Kvinnherad este un lac liniștit, ideal pentru a te bucura de peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        6.088975,
+                        59.871191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nesjastølsvatnet",
+                  "text": "Nesjastølsvatnet in Kvinnherad is a scenic mountain lake, perfect for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.105757,
+                        59.858214
+                  ]
+            },
+            {
+                  "name": "Botnavatna",
+                  "text": "Botnavatna in Kvinnherad is a peaceful lake, excellent for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.128443,
+                        59.910466
+                  ]
+            },
+            {
+                  "name": "Mannsvatnet",
+                  "text": "Mannsvatnet is a quiet lake in Kvinnherad, ideal for relaxing in the Norwegian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.939323,
+                        59.921444
+                  ]
+            },
+            {
+                  "name": "Opstveitvatnet",
+                  "text": "Opstveitvatnet in Kvinnherad offers a beautiful setting for restful hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.002108,
+                        59.851559
+                  ]
+            },
+            {
+                  "name": "Fjellhaugvatn",
+                  "text": "Fjellhaugvatn in Kvinnherad is an atmospheric lake, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.055931,
+                        59.865009
+                  ]
+            },
+            {
+                  "name": "Jamtelandsvatn",
+                  "text": "Jamtelandsvatn is a peaceful lake in Kvinnherad, ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.097581,
+                        59.881263
+                  ]
+            },
+            {
+                  "name": "Sandvatna",
+                  "text": "Sandvatna in Kvinnherad is a scenic lake that invites relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.132355,
+                        59.866222
+                  ]
+            },
+            {
+                  "name": "Staffivatnet",
+                  "text": "Staffivatnet in Kvinnherad is a quiet lake, ideal for enjoying the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.088975,
+                        59.871191
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kvinnherad", hu: "Kvinnherad", ro: "Kvinnherad", en: "Kvinnherad" },

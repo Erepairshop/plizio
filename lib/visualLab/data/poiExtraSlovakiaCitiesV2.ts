@@ -2295,7 +2295,736 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       ]
 }
   },  {
-    id: "slovakia-kosice-cities-v2",
+    id: "slovakia-kosice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ryba",
+                  "text": "Ryba ist ein See in Kosice. Ein ruhiger Ort, der sich gut für einen entspannten Spaziergang am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.255561,
+                        48.744015
+                  ]
+            },
+            {
+                  "name": "Seligovo jazero",
+                  "text": "Seligovo jazero ist ein See in Kosice. Er bietet eine friedliche Atmosphäre für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.277461,
+                        48.696583
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Pod Bukovcom",
+                  "text": "Vodná nádrž Pod Bukovcom ist ein See in Kosice. Ein beliebter Ort für Spaziergänge und um die natürliche Umgebung zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        21.157034,
+                        48.700956
+                  ]
+            },
+            {
+                  "name": "Jazierko v Mestskom Parku",
+                  "text": "Jazierko v Mestskom Parku ist ein See in Kosice, gelegen im Stadtpark. Er bietet eine schöne Kulisse für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        21.26216,
+                        48.723211
+                  ]
+            },
+            {
+                  "name": "Planíkove pleso",
+                  "text": "Planíkove pleso ist ein kleiner See in Kosice. Er bietet eine naturnahe Umgebung für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        21.268027,
+                        48.768018
+                  ]
+            },
+            {
+                  "name": "Jazero",
+                  "text": "Jazero ist ein See in Kosice. Ein bekanntes Ziel für Erholung und Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        21.285947,
+                        48.692047
+                  ]
+            },
+            {
+                  "name": "Pľuvatko",
+                  "text": "Pľuvatko ist ein kleiner See in Kosice. Er bietet eine ruhige Atmosphäre für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        21.230698,
+                        48.702278
+                  ]
+            },
+            {
+                  "name": "Jazierko pre žaby",
+                  "text": "Jazierko pre žaby ist ein kleiner See in Kosice. Ein beschaulicher Ort für einen kurzen Moment der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        21.264929,
+                        48.724151
+                  ]
+            },
+            {
+                  "name": "štrkovisko Krásna",
+                  "text": "štrkovisko Krásna ist ein See in Kosice. Er bietet eine weitläufige Wasserfläche für Freizeitaktivitäten am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        21.315213,
+                        48.663135
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park ist ein Spielplatz in Kosice. Er bietet modernen Spielraum für Kinder und Treffpunkte für Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.256207,
+                        48.701586
+                  ]
+            },
+            {
+                  "name": "ASTORIA miniGolf",
+                  "text": "ASTORIA miniGolf ist eine Minigolfanlage in Kosice. Sie bietet unterhaltsames Freizeitvergnügen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.259688,
+                        48.711099
+                  ]
+            },
+            {
+                  "name": "Fun Zone",
+                  "text": "Fun Zone ist eine Spielhalle in Kosice. Ein tolles Ziel für einen Familienausflug mit verschiedenen Unterhaltungsmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        21.266651,
+                        48.740747
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Adventure Golf ist eine Minigolfanlage in Kosice. Sie bietet spannende Parcours für Spielspaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.241706,
+                        48.707139
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Dopravné ihrisko ist ein Spielplatz in Kosice. Hier können Kinder spielerisch Verkehrsregeln lernen und Zeit im Freien verbringen.",
+                  "category": "family",
+                  "coords": [
+                        21.248645,
+                        48.700977
+                  ]
+            },
+            {
+                  "name": "Lienka",
+                  "text": "Lienka ist ein Spielplatz in Kosice. Er bietet Kindern bunte Spielgeräte für einen fröhlichen Tag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        21.259545,
+                        48.709989
+                  ]
+            },
+            {
+                  "name": "Jump Arena",
+                  "text": "Jump Arena ist ein Trampolinpark in Kosice. Ein Ort für aktive Bewegung und Spaß für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        21.238659,
+                        48.69627
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko MŠ bl. Imeldy",
+                  "text": "Detské ihrisko MŠ bl. Imeldy ist ein Spielplatz in Kosice. Er bietet einen sicheren Raum für gemeinsames Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        21.252357,
+                        48.725106
+                  ]
+            },
+            {
+                  "name": "Safari park",
+                  "text": "Safari park ist ein Spielplatz in Kosice. Ein abenteuerlicher Bereich für Kinder, der zu Spiel und Bewegung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        21.262045,
+                        48.717551
+                  ]
+            },
+            {
+                  "name": "Gaštanko",
+                  "text": "Gaštanko ist ein Spielplatz in Kosice. Er bietet eine freundliche Umgebung für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.253114,
+                        48.709436
+                  ]
+            },
+            {
+                  "name": "Vodný svet",
+                  "text": "Vodný svet ist ein Spielplatz in Kosice. Er bietet verschiedene Möglichkeiten für Wasserspaß und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        21.260031,
+                        48.713992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ryba",
+                  "text": "A Ryba egy tó Kosice városában. Csendes hely, amely kiválóan alkalmas egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.255561,
+                        48.744015
+                  ]
+            },
+            {
+                  "name": "Seligovo jazero",
+                  "text": "A Seligovo jazero egy tó Kosice városában. Békés légkört biztosít a természetbeni pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.277461,
+                        48.696583
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Pod Bukovcom",
+                  "text": "A Vodná nádrž Pod Bukovcom egy tó Kosice közelében. Kedvelt hely sétákhoz és a természetes környezet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.157034,
+                        48.700956
+                  ]
+            },
+            {
+                  "name": "Jazierko v Mestskom Parku",
+                  "text": "A Jazierko v Mestskom Parku egy tó Kosice városában, a városi parkban. Szép környezetet kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.26216,
+                        48.723211
+                  ]
+            },
+            {
+                  "name": "Planíkove pleso",
+                  "text": "A Planíkove pleso egy kis tó Kosice közelében. Természetközeli környezetet kínál egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        21.268027,
+                        48.768018
+                  ]
+            },
+            {
+                  "name": "Jazero",
+                  "text": "A Jazero egy tó Kosice városában. Ismert célpont a kikapcsolódáshoz és a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.285947,
+                        48.692047
+                  ]
+            },
+            {
+                  "name": "Pľuvatko",
+                  "text": "A Pľuvatko egy kisméretű tó Kosice városában. Nyugodt légkört biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.230698,
+                        48.702278
+                  ]
+            },
+            {
+                  "name": "Jazierko pre žaby",
+                  "text": "A Jazierko pre žaby egy apró tó Kosice városában. Megnyugtató hely egy rövid ideig tartó pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.264929,
+                        48.724151
+                  ]
+            },
+            {
+                  "name": "štrkovisko Krásna",
+                  "text": "A štrkovisko Krásna egy tó Kosice városában. Tágas vízfelületet kínál a parti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.315213,
+                        48.663135
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "A K Park egy játszótér Kosice városában. Modern játékteret kínál a gyerekeknek és találkozóhelyet a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.256207,
+                        48.701586
+                  ]
+            },
+            {
+                  "name": "ASTORIA miniGolf",
+                  "text": "Az ASTORIA miniGolf egy minigolfpálya Kosice városában. Szórakoztató kikapcsolódást nyújt az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        21.259688,
+                        48.711099
+                  ]
+            },
+            {
+                  "name": "Fun Zone",
+                  "text": "A Fun Zone egy játékterem Kosice városában. Nagyszerű célpont egy családi kiránduláshoz különféle szórakozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        21.266651,
+                        48.740747
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Az Adventure Golf egy minigolfpálya Kosice városában. Izgalmas pályákat kínál a családi közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.241706,
+                        48.707139
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "A Dopravné ihrisko egy játszótér Kosice városában. Itt a gyerekek játékosan tanulhatják meg a közlekedési szabályokat a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        21.248645,
+                        48.700977
+                  ]
+            },
+            {
+                  "name": "Lienka",
+                  "text": "A Lienka egy játszótér Kosice városában. Színes játékokkal várja a gyerekeket egy vidám szabadtéri napra.",
+                  "category": "family",
+                  "coords": [
+                        21.259545,
+                        48.709989
+                  ]
+            },
+            {
+                  "name": "Jump Arena",
+                  "text": "A Jump Arena egy trambulinpark Kosice városában. Az aktív mozgás és szórakozás helyszíne gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        21.238659,
+                        48.69627
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko MŠ bl. Imeldy",
+                  "text": "A Detské ihrisko MŠ bl. Imeldy egy játszótér Kosice városában. Biztonságos helyet nyújt a közös játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        21.252357,
+                        48.725106
+                  ]
+            },
+            {
+                  "name": "Safari park",
+                  "text": "A Safari park egy játszótér Kosice városában. Kalandos terület a gyerekeknek, amely játékra és mozgásra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        21.262045,
+                        48.717551
+                  ]
+            },
+            {
+                  "name": "Gaštanko",
+                  "text": "A Gaštanko egy játszótér Kosice városában. Barátságos környezetet biztosít a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.253114,
+                        48.709436
+                  ]
+            },
+            {
+                  "name": "Vodný svet",
+                  "text": "A Vodný svet egy játszótér Kosice városában. Különféle lehetőségeket kínál a vizes szórakozáshoz és a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.260031,
+                        48.713992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ryba",
+                  "text": "Ryba este un lac în Kosice. Un loc liniștit, potrivit pentru o plimbare relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        21.255561,
+                        48.744015
+                  ]
+            },
+            {
+                  "name": "Seligovo jazero",
+                  "text": "Seligovo jazero este un lac în Kosice. Oferă o atmosferă liniștită pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.277461,
+                        48.696583
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Pod Bukovcom",
+                  "text": "Vodná nádrž Pod Bukovcom este un lac în Kosice. Un loc popular pentru plimbări și pentru a admira mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        21.157034,
+                        48.700956
+                  ]
+            },
+            {
+                  "name": "Jazierko v Mestskom Parku",
+                  "text": "Jazierko v Mestskom Parku este un lac în Kosice, situat în parcul orașului. Oferă un cadru frumos pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.26216,
+                        48.723211
+                  ]
+            },
+            {
+                  "name": "Planíkove pleso",
+                  "text": "Planíkove pleso este un lac mic în Kosice. Oferă un mediu natural pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        21.268027,
+                        48.768018
+                  ]
+            },
+            {
+                  "name": "Jazero",
+                  "text": "Jazero este un lac în Kosice. O destinație cunoscută pentru recreere și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        21.285947,
+                        48.692047
+                  ]
+            },
+            {
+                  "name": "Pľuvatko",
+                  "text": "Pľuvatko este un lac mic în Kosice. Oferă o atmosferă liniștită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.230698,
+                        48.702278
+                  ]
+            },
+            {
+                  "name": "Jazierko pre žaby",
+                  "text": "Jazierko pre žaby este un lac mic în Kosice. Un loc liniștit pentru un scurt moment de repaus.",
+                  "category": "natural",
+                  "coords": [
+                        21.264929,
+                        48.724151
+                  ]
+            },
+            {
+                  "name": "štrkovisko Krásna",
+                  "text": "štrkovisko Krásna este un lac în Kosice. Oferă o suprafață de apă vastă pentru activități de agrement pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        21.315213,
+                        48.663135
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park este un teren de joacă în Kosice. Oferă un spațiu de joacă modern pentru copii și locuri de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.256207,
+                        48.701586
+                  ]
+            },
+            {
+                  "name": "ASTORIA miniGolf",
+                  "text": "ASTORIA miniGolf este un teren de minigolf în Kosice. Oferă divertisment plăcut pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.259688,
+                        48.711099
+                  ]
+            },
+            {
+                  "name": "Fun Zone",
+                  "text": "Fun Zone este o sală de jocuri în Kosice. O destinație grozavă pentru o ieșire în familie, cu diverse opțiuni de divertisment.",
+                  "category": "family",
+                  "coords": [
+                        21.266651,
+                        48.740747
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Adventure Golf este un teren de minigolf în Kosice. Oferă trasee captivante pentru distracție alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        21.241706,
+                        48.707139
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Dopravné ihrisko este un teren de joacă în Kosice. Aici copiii pot învăța regulile de circulație prin joacă și pot petrece timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        21.248645,
+                        48.700977
+                  ]
+            },
+            {
+                  "name": "Lienka",
+                  "text": "Lienka este un teren de joacă în Kosice. Oferă copiilor echipamente de joacă colorate pentru o zi veselă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        21.259545,
+                        48.709989
+                  ]
+            },
+            {
+                  "name": "Jump Arena",
+                  "text": "Jump Arena este un parc de trambuline în Kosice. Un loc pentru mișcare activă și distracție pentru copii și adulți deopotrivă.",
+                  "category": "family",
+                  "coords": [
+                        21.238659,
+                        48.69627
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko MŠ bl. Imeldy",
+                  "text": "Detské ihrisko MŠ bl. Imeldy este un teren de joacă în Kosice. Oferă un spațiu sigur pentru joacă comună și explorare.",
+                  "category": "family",
+                  "coords": [
+                        21.252357,
+                        48.725106
+                  ]
+            },
+            {
+                  "name": "Safari park",
+                  "text": "Safari park este un teren de joacă în Kosice. O zonă plină de aventură pentru copii, care invită la joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        21.262045,
+                        48.717551
+                  ]
+            },
+            {
+                  "name": "Gaštanko",
+                  "text": "Gaštanko este un teren de joacă în Kosice. Oferă un mediu prietenos pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        21.253114,
+                        48.709436
+                  ]
+            },
+            {
+                  "name": "Vodný svet",
+                  "text": "Vodný svet este un teren de joacă în Kosice. Oferă diverse posibilități pentru distracție cu apă și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        21.260031,
+                        48.713992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ryba",
+                  "text": "Ryba is a lake in Kosice. A quiet spot suitable for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.255561,
+                        48.744015
+                  ]
+            },
+            {
+                  "name": "Seligovo jazero",
+                  "text": "Seligovo jazero is a lake in Kosice. It provides a peaceful atmosphere for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.277461,
+                        48.696583
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Pod Bukovcom",
+                  "text": "Vodná nádrž Pod Bukovcom is a lake in Kosice. A popular spot for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.157034,
+                        48.700956
+                  ]
+            },
+            {
+                  "name": "Jazierko v Mestskom Parku",
+                  "text": "Jazierko v Mestskom Parku is a lake in Kosice, located in the city park. It offers a nice setting for outdoor leisure.",
+                  "category": "natural",
+                  "coords": [
+                        21.26216,
+                        48.723211
+                  ]
+            },
+            {
+                  "name": "Planíkove pleso",
+                  "text": "Planíkove pleso is a small lake in Kosice. It offers a nature-like environment for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        21.268027,
+                        48.768018
+                  ]
+            },
+            {
+                  "name": "Jazero",
+                  "text": "Jazero is a lake in Kosice. A well-known destination for recreation and walks by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        21.285947,
+                        48.692047
+                  ]
+            },
+            {
+                  "name": "Pľuvatko",
+                  "text": "Pľuvatko is a small lake in Kosice. It offers a quiet atmosphere for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.230698,
+                        48.702278
+                  ]
+            },
+            {
+                  "name": "Jazierko pre žaby",
+                  "text": "Jazierko pre žaby is a small lake in Kosice. A tranquil spot for a brief moment of quiet.",
+                  "category": "natural",
+                  "coords": [
+                        21.264929,
+                        48.724151
+                  ]
+            },
+            {
+                  "name": "štrkovisko Krásna",
+                  "text": "štrkovisko Krásna is a lake in Kosice. It offers a wide water surface for leisure activities by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        21.315213,
+                        48.663135
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park is a playground in Kosice. It offers modern play space for children and meeting spots for families.",
+                  "category": "family",
+                  "coords": [
+                        21.256207,
+                        48.701586
+                  ]
+            },
+            {
+                  "name": "ASTORIA miniGolf",
+                  "text": "ASTORIA miniGolf is a miniature golf course in Kosice. It offers enjoyable leisure fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.259688,
+                        48.711099
+                  ]
+            },
+            {
+                  "name": "Fun Zone",
+                  "text": "Fun Zone is an amusement arcade in Kosice. A great destination for a family outing with various entertainment options.",
+                  "category": "family",
+                  "coords": [
+                        21.266651,
+                        48.740747
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Adventure Golf is a miniature golf course in Kosice. It offers exciting courses for play fun with the family.",
+                  "category": "family",
+                  "coords": [
+                        21.241706,
+                        48.707139
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Dopravné ihrisko is a playground in Kosice. Here children can learn traffic rules through play and spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        21.248645,
+                        48.700977
+                  ]
+            },
+            {
+                  "name": "Lienka",
+                  "text": "Lienka is a playground in Kosice. It offers children colorful play equipment for a cheerful day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        21.259545,
+                        48.709989
+                  ]
+            },
+            {
+                  "name": "Jump Arena",
+                  "text": "Jump Arena is a trampoline park in Kosice. A place for active movement and fun for both children and adults.",
+                  "category": "family",
+                  "coords": [
+                        21.238659,
+                        48.69627
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko MŠ bl. Imeldy",
+                  "text": "Detské ihrisko MŠ bl. Imeldy is a playground in Kosice. It offers a safe space for shared play and exploration.",
+                  "category": "family",
+                  "coords": [
+                        21.252357,
+                        48.725106
+                  ]
+            },
+            {
+                  "name": "Safari park",
+                  "text": "Safari park is a playground in Kosice. An adventurous area for children that invites play and movement.",
+                  "category": "family",
+                  "coords": [
+                        21.262045,
+                        48.717551
+                  ]
+            },
+            {
+                  "name": "Gaštanko",
+                  "text": "Gaštanko is a playground in Kosice. It offers a friendly environment for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        21.253114,
+                        48.709436
+                  ]
+            },
+            {
+                  "name": "Vodný svet",
+                  "text": "Vodný svet is a playground in Kosice. It offers various opportunities for water fun and outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        21.260031,
+                        48.713992
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Košice", hu: "Kassa", ro: "Košice", en: "Košice"},
@@ -2621,6 +3350,213 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                         21.239121,
                         48.997044
                   ]
+            },
+            {
+                  "name": "Cemjatský rybník",
+                  "text": "Cemjatský rybník ist ein See in Presov, der sich für einen ruhigen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.174561,
+                        48.983709
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Delňa",
+                  "text": "Prírodné kúpalisko Delňa ist ein Naturbadesee in Presov.",
+                  "category": "natural",
+                  "coords": [
+                        21.262833,
+                        48.959897
+                  ]
+            },
+            {
+                  "name": "Diviačia obora",
+                  "text": "Diviačia obora ist ein malerischer See in Presov, ideal für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        21.175701,
+                        48.988627
+                  ]
+            },
+            {
+                  "name": "Šebešský rybník",
+                  "text": "Šebešský rybník in Presov bietet eine friedliche Umgebung zum Wandern und Genießen der Seekulisse.",
+                  "category": "natural",
+                  "coords": [
+                        21.330909,
+                        48.996729
+                  ]
+            },
+            {
+                  "name": "Borkútsky rybník",
+                  "text": "Borkútsky rybník ist ein lokaler See in Presov, der sich für ruhige Erholung und Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.23079,
+                        48.965485
+                  ]
+            },
+            {
+                  "name": "Mindžala",
+                  "text": "Mindžala ist ein See in der Gegend von Presov, der einen natürlichen Rahmen für einen ruhigen Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.274461,
+                        48.97748
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Dieser Minigolfplatz in Presov bietet eine unterhaltsame Outdoor-Aktivität für Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.229972,
+                        49.016464
+                  ]
+            },
+            {
+                  "name": "ZABAVKA.sk",
+                  "text": "ZABAVKA.sk in Presov ist eine Spielhalle mit verschiedenen Spielen und Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.247994,
+                        49.007945
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bernolákova 15-Višňová 2",
+                  "text": "Dieser Spielplatz in Presov bietet einen sicheren Raum mit Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.273787,
+                        48.99095
+                  ]
+            },
+            {
+                  "name": "Detský park Eperia",
+                  "text": "Der Detský park Eperia in Presov ist ein moderner Spielplatz für Familienspaß und Kinderaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.263478,
+                        48.989061
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Centrál",
+                  "text": "Detské ihrisko Centrál ist ein verkehrsgünstig gelegener Spielplatz in Presov für einheimische Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.225154,
+                        48.998821
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Železničiarska 1",
+                  "text": "Dieser Spielplatz in Presov bietet verschiedene Einrichtungen für die Erholung von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        21.235817,
+                        48.991056
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Astória",
+                  "text": "Detské ihrisko Astória in Presov ist ein beliebter Nachbarschaftsspielplatz für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.227002,
+                        49.010656
+                  ]
+            },
+            {
+                  "name": "Družba",
+                  "text": "Der Spielplatz Družba in Presov bietet eine angenehme Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        21.224402,
+                        49.006496
+                  ]
+            },
+            {
+                  "name": "Gardenka",
+                  "text": "Gardenka ist ein charmanter Spielplatz in Presov, auf dem Familien eine schöne Zeit im Freien verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        21.230751,
+                        48.996691
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko pri súkromnej MŠ ELBA",
+                  "text": "Dieser Verkehrsübungsplatz in Presov hilft Kindern, Verkehrsregeln spielerisch zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        21.266001,
+                        48.981368
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Kozmonautov - Dargovská",
+                  "text": "Dieser lokale Spielplatz in Presov bietet Standard-Spielgeräte für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        21.269726,
+                        48.987151
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Oravská - Popradská",
+                  "text": "Dieser Spielplatz ist ein toller Ort für Familienausflüge in Presov mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        21.268363,
+                        48.988008
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bratislavská 8-10",
+                  "text": "Dieser Spielplatz im Wohngebiet von Presov bietet eine sichere und unterhaltsame Zone für einheimische Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.266764,
+                        48.988913
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Vihorlatská",
+                  "text": "Das Detské ihrisko Vihorlatská in Presov verfügt über Spielbereiche für Kinder verschiedenen Alters.",
+                  "category": "family",
+                  "coords": [
+                        21.272138,
+                        48.998992
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko Sídlisko III",
+                  "text": "Ein Verkehrsübungsplatz in Presov, auf dem Kinder Fahrradfahren und Sicherheitsregeln üben können.",
+                  "category": "family",
+                  "coords": [
+                        21.229108,
+                        49.007968
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Bernolákova",
+                  "text": "Dieser spezialisierte Spielplatz im Kindergarten Bernolákova in Presov konzentriert sich auf die Verkehrserziehung.",
+                  "category": "family",
+                  "coords": [
+                        21.272501,
+                        48.990509
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Čsl. armády",
+                  "text": "Dieser Verkehrsübungsplatz in einem Kindergarten in Presov bietet einen sicheren Raum zum spielerischen Lernen.",
+                  "category": "family",
+                  "coords": [
+                        21.223676,
+                        48.99751
+                  ]
             }
       ],
       "hu": [
@@ -2901,6 +3837,213 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                   "coords": [
                         21.239121,
                         48.997044
+                  ]
+            },
+            {
+                  "name": "Cemjatský rybník",
+                  "text": "A Cemjatský rybník egy tó Presov városában, amely alkalmas egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.174561,
+                        48.983709
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Delňa",
+                  "text": "A Prírodné kúpalisko Delňa egy természetes fürdőtó Presov városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.262833,
+                        48.959897
+                  ]
+            },
+            {
+                  "name": "Diviačia obora",
+                  "text": "A Diviačia obora egy festői tó Presov városában, amely ideális pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.175701,
+                        48.988627
+                  ]
+            },
+            {
+                  "name": "Šebešský rybník",
+                  "text": "A Šebešský rybník Presovban nyugodt környezetet kínál a sétáláshoz és a tóparti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.330909,
+                        48.996729
+                  ]
+            },
+            {
+                  "name": "Borkútsky rybník",
+                  "text": "A Borkútsky rybník egy helyi tó Presovban, amely alkalmas csendes kikapcsolódásra és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        21.23079,
+                        48.965485
+                  ]
+            },
+            {
+                  "name": "Mindžala",
+                  "text": "Mindžala egy tó Presov környékén, amely természetes környezetet biztosít egy nyugodt látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.274461,
+                        48.97748
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Ez a Presov-i minigolfpálya szórakoztató szabadtéri tevékenységet kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.229972,
+                        49.016464
+                  ]
+            },
+            {
+                  "name": "ZABAVKA.sk",
+                  "text": "A ZABAVKA.sk Presovban egy szórakoztató központ, amely különféle játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.247994,
+                        49.007945
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bernolákova 15-Višňová 2",
+                  "text": "Ez a Presov-i játszótér biztonságos teret és játéklehetőségeket kínál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.273787,
+                        48.99095
+                  ]
+            },
+            {
+                  "name": "Detský park Eperia",
+                  "text": "A Detský park Eperia Presovban egy modern játszótér, amelyet családi szórakozásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        21.263478,
+                        48.989061
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Centrál",
+                  "text": "A Detské ihrisko Centrál egy kényelmes helyen fekvő játszótér Presovban a helyi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.225154,
+                        48.998821
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Železničiarska 1",
+                  "text": "Ez a Presov-i játszótér különféle eszközökkel várja a gyerekeket a szabadtéri kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.235817,
+                        48.991056
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Astória",
+                  "text": "A Detské ihrisko Astória Presovban egy népszerű környékbeli játszótér családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.227002,
+                        49.010656
+                  ]
+            },
+            {
+                  "name": "Družba",
+                  "text": "A Družba játszótér Presovban kellemes környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.224402,
+                        49.006496
+                  ]
+            },
+            {
+                  "name": "Gardenka",
+                  "text": "A Gardenka egy bájos játszótér Presovban, ahol a családok minőségi időt tölthetnek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        21.230751,
+                        48.996691
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko pri súkromnej MŠ ELBA",
+                  "text": "Ez a Presov-i közlekedési játszótér segít a gyerekeknek játékosan megtanulni a KRESZ-szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        21.266001,
+                        48.981368
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Kozmonautov - Dargovská",
+                  "text": "Ez a helyi játszótér Presovban alapvető játéklehetőségeket kínál a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.269726,
+                        48.987151
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Oravská - Popradská",
+                  "text": "Ez a játszótér remek hely családi kirándulásokhoz Presovban, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        21.268363,
+                        48.988008
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bratislavská 8-10",
+                  "text": "Ez a Presov-i lakóövezeti játszótér biztonságos és szórakoztató zónát biztosít a helyi gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.266764,
+                        48.988913
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Vihorlatská",
+                  "text": "A Presov-i Vihorlatská játszótér különféle korosztályú gyermekek számára alkalmas játékterekkel rendelkezik.",
+                  "category": "family",
+                  "coords": [
+                        21.272138,
+                        48.998992
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko Sídlisko III",
+                  "text": "Közlekedési játszótér Presovban, ahol a gyerekek a kerékpározást és a biztonsági szabályokat gyakorolhatják.",
+                  "category": "family",
+                  "coords": [
+                        21.229108,
+                        49.007968
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Bernolákova",
+                  "text": "Ez a Bernolákova óvodánál található játszótér Presovban a közlekedési nevelésre összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        21.272501,
+                        48.990509
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Čsl. armády",
+                  "text": "Egy Presov-i óvodánál található közlekedési játszótér, amely biztonságos helyet kínál a tanuláshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.223676,
+                        48.99751
                   ]
             }
       ],
@@ -3183,6 +4326,213 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                         21.239121,
                         48.997044
                   ]
+            },
+            {
+                  "name": "Cemjatský rybník",
+                  "text": "Cemjatský rybník este un lac în Presov, potrivit pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.174561,
+                        48.983709
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Delňa",
+                  "text": "Prírodné kúpalisko Delňa este un lac natural pentru înot în Presov.",
+                  "category": "natural",
+                  "coords": [
+                        21.262833,
+                        48.959897
+                  ]
+            },
+            {
+                  "name": "Diviačia obora",
+                  "text": "Diviačia obora este un lac pitoresc în Presov, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        21.175701,
+                        48.988627
+                  ]
+            },
+            {
+                  "name": "Šebešský rybník",
+                  "text": "Šebešský rybník din Presov oferă un mediu liniștit pentru plimbări și pentru a te bucura de peisajul lacustru.",
+                  "category": "natural",
+                  "coords": [
+                        21.330909,
+                        48.996729
+                  ]
+            },
+            {
+                  "name": "Borkútsky rybník",
+                  "text": "Borkútsky rybník este un lac local din Presov, potrivit pentru recreere liniștită și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.23079,
+                        48.965485
+                  ]
+            },
+            {
+                  "name": "Mindžala",
+                  "text": "Mindžala este un lac din zona Presov care oferă un cadru natural pentru o vizită liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.274461,
+                        48.97748
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Acest teren de minigolf din Presov oferă o activitate distractivă în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.229972,
+                        49.016464
+                  ]
+            },
+            {
+                  "name": "ZABAVKA.sk",
+                  "text": "ZABAVKA.sk din Presov este o sală de jocuri ce oferă diverse jocuri și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.247994,
+                        49.007945
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bernolákova 15-Višňová 2",
+                  "text": "Acest loc de joacă din Presov oferă un spațiu sigur cu echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.273787,
+                        48.99095
+                  ]
+            },
+            {
+                  "name": "Detský park Eperia",
+                  "text": "Detský park Eperia din Presov este un loc de joacă modern, conceput pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        21.263478,
+                        48.989061
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Centrál",
+                  "text": "Detské ihrisko Centrál este un loc de joacă situat convenabil în Presov pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        21.225154,
+                        48.998821
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Železničiarska 1",
+                  "text": "Situat în Presov, acest loc de joacă dispune de diverse facilități pentru recreerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.235817,
+                        48.991056
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Astória",
+                  "text": "Detské ihrisko Astória din Presov este un loc de joacă popular din cartier pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        21.227002,
+                        49.010656
+                  ]
+            },
+            {
+                  "name": "Družba",
+                  "text": "Locul de joacă Družba din Presov oferă un mediu plăcut pentru ca copiii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        21.224402,
+                        49.006496
+                  ]
+            },
+            {
+                  "name": "Gardenka",
+                  "text": "Gardenka este un loc de joacă fermecător din Presov unde familiile pot petrece timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        21.230751,
+                        48.996691
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko pri súkromnej MŠ ELBA",
+                  "text": "Acest loc de joacă rutier din Presov îi ajută pe copii să învețe regulile de circulație prin joc.",
+                  "category": "family",
+                  "coords": [
+                        21.266001,
+                        48.981368
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Kozmonautov - Dargovská",
+                  "text": "Acest loc de joacă local din Presov oferă echipamente de joacă standard pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        21.269726,
+                        48.987151
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Oravská - Popradská",
+                  "text": "Acest loc de joacă este un loc minunat pentru ieșiri în familie în Presov, având diverse facilități.",
+                  "category": "family",
+                  "coords": [
+                        21.268363,
+                        48.988008
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bratislavská 8-10",
+                  "text": "Acest loc de joacă din zonă rezidențială din Presov oferă o zonă sigură și distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.266764,
+                        48.988913
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Vihorlatská",
+                  "text": "Detské ihrisko Vihorlatská din Presov dispune de zone de joacă potrivite pentru copii de diferite vârste.",
+                  "category": "family",
+                  "coords": [
+                        21.272138,
+                        48.998992
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko Sídlisko III",
+                  "text": "Un loc de joacă cu specific rutier în Presov, unde copiii pot exersa mersul pe bicicletă în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        21.229108,
+                        49.007968
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Bernolákova",
+                  "text": "Acest loc de joacă de la grădinița Bernolákova din Presov se concentrează pe educația rutieră.",
+                  "category": "family",
+                  "coords": [
+                        21.272501,
+                        48.990509
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Čsl. armády",
+                  "text": "Situat la o grădiniță din Presov, acest loc de joacă rutier oferă un spațiu sigur pentru învățare.",
+                  "category": "family",
+                  "coords": [
+                        21.223676,
+                        48.99751
+                  ]
             }
       ],
       "en": [
@@ -3463,6 +4813,213 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                   "coords": [
                         21.239121,
                         48.997044
+                  ]
+            },
+            {
+                  "name": "Cemjatský rybník",
+                  "text": "Cemjatský rybník is a lake in Presov, suitable for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.174561,
+                        48.983709
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Delňa",
+                  "text": "Prírodné kúpalisko Delňa is a natural swimming lake in Presov.",
+                  "category": "natural",
+                  "coords": [
+                        21.262833,
+                        48.959897
+                  ]
+            },
+            {
+                  "name": "Diviačia obora",
+                  "text": "Diviačia obora is a scenic lake in Presov, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.175701,
+                        48.988627
+                  ]
+            },
+            {
+                  "name": "Šebešský rybník",
+                  "text": "Šebešský rybník in Presov offers a peaceful environment for walking and enjoying the lakeside scenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.330909,
+                        48.996729
+                  ]
+            },
+            {
+                  "name": "Borkútsky rybník",
+                  "text": "Borkútsky rybník is a local lake in Presov suitable for quiet recreation and outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.23079,
+                        48.965485
+                  ]
+            },
+            {
+                  "name": "Mindžala",
+                  "text": "Mindžala is a lake in the Presov area providing a natural setting for a calm visit.",
+                  "category": "natural",
+                  "coords": [
+                        21.274461,
+                        48.97748
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "This miniature golf course in Presov provides a fun outdoor activity for families.",
+                  "category": "family",
+                  "coords": [
+                        21.229972,
+                        49.016464
+                  ]
+            },
+            {
+                  "name": "ZABAVKA.sk",
+                  "text": "ZABAVKA.sk in Presov is an amusement arcade featuring various games and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        21.247994,
+                        49.007945
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bernolákova 15-Višňová 2",
+                  "text": "This playground in Presov offers a safe space with play equipment for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        21.273787,
+                        48.99095
+                  ]
+            },
+            {
+                  "name": "Detský park Eperia",
+                  "text": "Detský park Eperia in Presov is a modern playground designed for family fun and children's activities.",
+                  "category": "family",
+                  "coords": [
+                        21.263478,
+                        48.989061
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Centrál",
+                  "text": "Detské ihrisko Centrál is a conveniently located playground in Presov for local families.",
+                  "category": "family",
+                  "coords": [
+                        21.225154,
+                        48.998821
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Železničiarska 1",
+                  "text": "Located in Presov, this playground features various facilities for children's outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        21.235817,
+                        48.991056
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Astória",
+                  "text": "Detské ihrisko Astória in Presov is a popular neighborhood playground for families and kids.",
+                  "category": "family",
+                  "coords": [
+                        21.227002,
+                        49.010656
+                  ]
+            },
+            {
+                  "name": "Družba",
+                  "text": "The Družba playground in Presov offers a pleasant environment for children to play and socialize.",
+                  "category": "family",
+                  "coords": [
+                        21.224402,
+                        49.006496
+                  ]
+            },
+            {
+                  "name": "Gardenka",
+                  "text": "Gardenka is a charming playground in Presov where families can spend quality time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        21.230751,
+                        48.996691
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko pri súkromnej MŠ ELBA",
+                  "text": "This traffic playground in Presov helps children learn road rules in a fun and safe environment.",
+                  "category": "family",
+                  "coords": [
+                        21.266001,
+                        48.981368
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Kozmonautov - Dargovská",
+                  "text": "This local playground in Presov offers standard play equipment for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        21.269726,
+                        48.987151
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Oravská - Popradská",
+                  "text": "This playground is a great spot for family outings in Presov, offering various play options.",
+                  "category": "family",
+                  "coords": [
+                        21.268363,
+                        48.988008
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Bratislavská 8-10",
+                  "text": "This residential area playground in Presov provides a safe and fun zone for local kids.",
+                  "category": "family",
+                  "coords": [
+                        21.266764,
+                        48.988913
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Vihorlatská",
+                  "text": "Detské ihrisko Vihorlatská in Presov features play areas suitable for children of various ages.",
+                  "category": "family",
+                  "coords": [
+                        21.272138,
+                        48.998992
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko Sídlisko III",
+                  "text": "A traffic playground in Presov designed for children to practice bicycle and safety skills.",
+                  "category": "family",
+                  "coords": [
+                        21.229108,
+                        49.007968
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Bernolákova",
+                  "text": "This specialized playground at the Bernolákova kindergarten in Presov focuses on early traffic education.",
+                  "category": "family",
+                  "coords": [
+                        21.272501,
+                        48.990509
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko MŠ Čsl. armády",
+                  "text": "Located at a kindergarten in Presov, this traffic playground offers a safe space for learning through play.",
+                  "category": "family",
+                  "coords": [
+                        21.223676,
+                        48.99751
                   ]
             }
       ]
@@ -5172,6 +6729,150 @@ imageHint: "Building of Matica slovenská in Martin",
                         18.014928,
                         48.876151
                   ]
+            },
+            {
+                  "name": "Ihrisko Vnútroblok ul. J. Halašu",
+                  "text": "Der Spielplatz Vnútroblok in Trenčín bietet Kindern einen sicheren Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.042403,
+                        48.877849
+                  ]
+            },
+            {
+                  "name": "Lanová pyramída",
+                  "text": "Die Seilpyramide in Trenčín ist ein spannendes Klettergerüst für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.044335,
+                        48.891296
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 137",
+                  "text": "Detské ihrisko 137 ist ein lokaler Spielplatz in Trenčín mit verschiedenen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        18.030364,
+                        48.877946
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 120",
+                  "text": "Detské ihrisko 120 in Trenčín lädt Familien zum gemeinsamen Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        18.0194,
+                        48.88248
+                  ]
+            },
+            {
+                  "name": "Ihrisko Pádivec",
+                  "text": "Ihrisko Pádivec ist ein freundlicher Spielplatz in Trenčín für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        18.074526,
+                        48.899358
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Žihadielko",
+                  "text": "Detské ihrisko Žihadielko in Trenčín ist ein moderner und farbenfroher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.037285,
+                        48.873902
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 119",
+                  "text": "Detské ihrisko 119 bietet Kindern in Trenčín eine klassische Spielumgebung.",
+                  "category": "family",
+                  "coords": [
+                        18.020415,
+                        48.882919
+                  ]
+            },
+            {
+                  "name": "Detský zábavný areál Ostrov",
+                  "text": "Detský zábavný areál Ostrov in Trenčín bietet vielfältige Aktivitäten für einen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        18.042896,
+                        48.902108
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 353",
+                  "text": "Detské ihrisko 353 in Trenčín ist ein praktischer Spielbereich für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        18.082583,
+                        48.89364
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 332",
+                  "text": "Detské ihrisko 332 ist ein kleinerer Spielplatz in Trenčín für kurze Spielpausen.",
+                  "category": "family",
+                  "coords": [
+                        18.078822,
+                        48.893022
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 125",
+                  "text": "Detské ihrisko 125 in Trenčín ist ein gut ausgestatteter Platz für Bewegung und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        18.048362,
+                        48.89557
+                  ]
+            },
+            {
+                  "name": "Srdiečko",
+                  "text": "Srdiečko in Trenčín ist ein liebevoll gestalteter Spielplatz für die Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        18.046451,
+                        48.883989
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 102",
+                  "text": "Detské ihrisko 102 in Trenčín ist ein einfacher Ort für tägliches Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        18.032933,
+                        48.878701
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 103",
+                  "text": "Detské ihrisko 103 bietet Kindern in Trenčín eine weitere Möglichkeit zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        18.033849,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 334",
+                  "text": "Detské ihrisko 334 in Trenčín dient als Treffpunkt für Familien im Wohnviertel.",
+                  "category": "family",
+                  "coords": [
+                        18.068493,
+                        48.89499
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 333",
+                  "text": "Detské ihrisko 333 in Trenčín bietet eine solide Auswahl an Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.070862,
+                        48.894617
+                  ]
             }
       ],
       "hu": [
@@ -5380,6 +7081,150 @@ imageHint: "Building of Matica slovenská in Martin",
                   "coords": [
                         18.014928,
                         48.876151
+                  ]
+            },
+            {
+                  "name": "Ihrisko Vnútroblok ul. J. Halašu",
+                  "text": "A trencséni Vnútroblok játszótér biztonságos helyet nyújt a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.042403,
+                        48.877849
+                  ]
+            },
+            {
+                  "name": "Lanová pyramída",
+                  "text": "A trencséni kötélpiramis izgalmas mászóka az aktív gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.044335,
+                        48.891296
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 137",
+                  "text": "A 137-es számú játszótér egy helyi pihenőhely Trencsénben különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        18.030364,
+                        48.877946
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 120",
+                  "text": "A trencséni 120-as számú játszótér szabadtéri játékra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        18.0194,
+                        48.88248
+                  ]
+            },
+            {
+                  "name": "Ihrisko Pádivec",
+                  "text": "Az Ihrisko Pádivec egy barátságos lakótelepi játszótér Trencsénben.",
+                  "category": "family",
+                  "coords": [
+                        18.074526,
+                        48.899358
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Žihadielko",
+                  "text": "A trencséni Žihadielko játszótér modern és színes játékhely a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.037285,
+                        48.873902
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 119",
+                  "text": "A 119-es számú játszótér klasszikus játékkörnyezetet biztosít a gyerekeknek Trencsénben.",
+                  "category": "family",
+                  "coords": [
+                        18.020415,
+                        48.882919
+                  ]
+            },
+            {
+                  "name": "Detský zábavný areál Ostrov",
+                  "text": "A trencséni Ostrov gyermekszórakoztató központ változatos programokat kínál egy családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        18.042896,
+                        48.902108
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 353",
+                  "text": "A trencséni 353-as számú játszótér praktikus játszóhely a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.082583,
+                        48.89364
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 332",
+                  "text": "A 332-es számú játszótér egy kisebb játékhely Trencsénben rövid szünetekhez.",
+                  "category": "family",
+                  "coords": [
+                        18.078822,
+                        48.893022
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 125",
+                  "text": "A trencséni 125-ös számú játszótér jól felszerelt hely a mozgáshoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.048362,
+                        48.89557
+                  ]
+            },
+            {
+                  "name": "Srdiečko",
+                  "text": "A trencséni Srdiečko egy kedvesen kialakított játszótér a legkisebbek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.046451,
+                        48.883989
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 102",
+                  "text": "A trencséni 102-es számú játszótér egyszerű hely a mindennapi szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.032933,
+                        48.878701
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 103",
+                  "text": "A 103-as számú játszótér újabb lehetőséget nyújt a gyerekeknek Trencsénben a játékra.",
+                  "category": "family",
+                  "coords": [
+                        18.033849,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 334",
+                  "text": "A trencséni 334-es számú játszótér találkozóhelyként szolgál a lakónegyed családjai számára.",
+                  "category": "family",
+                  "coords": [
+                        18.068493,
+                        48.89499
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 333",
+                  "text": "A trencséni 333-as számú játszótér alapvető játékeszközöket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.070862,
+                        48.894617
                   ]
             }
       ],
@@ -5590,6 +7435,150 @@ imageHint: "Building of Matica slovenská in Martin",
                         18.014928,
                         48.876151
                   ]
+            },
+            {
+                  "name": "Ihrisko Vnútroblok ul. J. Halašu",
+                  "text": "Locul de joacă Vnútroblok din Trenčín oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.042403,
+                        48.877849
+                  ]
+            },
+            {
+                  "name": "Lanová pyramída",
+                  "text": "Piramida de frânghii din Trenčín este o structură de cățărare captivantă pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        18.044335,
+                        48.891296
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 137",
+                  "text": "Detské ihrisko 137 este un loc de joacă local din Trenčín, dotat cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        18.030364,
+                        48.877946
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 120",
+                  "text": "Detské ihrisko 120 din Trenčín invită familiile la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.0194,
+                        48.88248
+                  ]
+            },
+            {
+                  "name": "Ihrisko Pádivec",
+                  "text": "Ihrisko Pádivec este un loc de joacă prietenos din Trenčín pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        18.074526,
+                        48.899358
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Žihadielko",
+                  "text": "Detské ihrisko Žihadielko din Trenčín este un loc de joacă modern și colorat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.037285,
+                        48.873902
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 119",
+                  "text": "Detské ihrisko 119 oferă copiilor din Trenčín un mediu de joacă clasic.",
+                  "category": "family",
+                  "coords": [
+                        18.020415,
+                        48.882919
+                  ]
+            },
+            {
+                  "name": "Detský zábavný areál Ostrov",
+                  "text": "Complexul de distracție Ostrov din Trenčín oferă activități variate pentru o zi în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.042896,
+                        48.902108
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 353",
+                  "text": "Detské ihrisko 353 din Trenčín este o zonă de joacă practică pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        18.082583,
+                        48.89364
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 332",
+                  "text": "Detské ihrisko 332 este un loc de joacă mai mic din Trenčín pentru pauze scurte de joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.078822,
+                        48.893022
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 125",
+                  "text": "Detské ihrisko 125 din Trenčín este un loc bine echipat pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        18.048362,
+                        48.89557
+                  ]
+            },
+            {
+                  "name": "Srdiečko",
+                  "text": "Srdiečko din Trenčín este un loc de joacă amenajat cu drag pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        18.046451,
+                        48.883989
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 102",
+                  "text": "Detské ihrisko 102 din Trenčín este un loc simplu pentru joaca zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.032933,
+                        48.878701
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 103",
+                  "text": "Detské ihrisko 103 oferă copiilor din Trenčín o altă opțiune pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.033849,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 334",
+                  "text": "Detské ihrisko 334 din Trenčín servește ca punct de întâlnire pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        18.068493,
+                        48.89499
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 333",
+                  "text": "Detské ihrisko 333 din Trenčín oferă o selecție de echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.070862,
+                        48.894617
+                  ]
             }
       ],
       "en": [
@@ -5798,6 +7787,150 @@ imageHint: "Building of Matica slovenská in Martin",
                   "coords": [
                         18.014928,
                         48.876151
+                  ]
+            },
+            {
+                  "name": "Ihrisko Vnútroblok ul. J. Halašu",
+                  "text": "The Vnútroblok playground in Trencin provides a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        18.042403,
+                        48.877849
+                  ]
+            },
+            {
+                  "name": "Lanová pyramída",
+                  "text": "The rope pyramid in Trencin is an exciting climbing structure for active kids.",
+                  "category": "family",
+                  "coords": [
+                        18.044335,
+                        48.891296
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 137",
+                  "text": "Detské ihrisko 137 is a local playground in Trencin with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        18.030364,
+                        48.877946
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 120",
+                  "text": "Detské ihrisko 120 in Trencin invites families for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        18.0194,
+                        48.88248
+                  ]
+            },
+            {
+                  "name": "Ihrisko Pádivec",
+                  "text": "Ihrisko Pádivec is a friendly neighborhood playground in Trencin.",
+                  "category": "family",
+                  "coords": [
+                        18.074526,
+                        48.899358
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko Žihadielko",
+                  "text": "Detské ihrisko Žihadielko in Trencin is a modern and colorful playground for kids.",
+                  "category": "family",
+                  "coords": [
+                        18.037285,
+                        48.873902
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 119",
+                  "text": "Detské ihrisko 119 provides a classic play environment for children in Trencin.",
+                  "category": "family",
+                  "coords": [
+                        18.020415,
+                        48.882919
+                  ]
+            },
+            {
+                  "name": "Detský zábavný areál Ostrov",
+                  "text": "Detský zábavný areál Ostrov in Trencin offers diverse activities for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        18.042896,
+                        48.902108
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 353",
+                  "text": "Detské ihrisko 353 in Trencin is a convenient play area for local children.",
+                  "category": "family",
+                  "coords": [
+                        18.082583,
+                        48.89364
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 332",
+                  "text": "Detské ihrisko 332 is a smaller playground in Trencin for quick play breaks.",
+                  "category": "family",
+                  "coords": [
+                        18.078822,
+                        48.893022
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 125",
+                  "text": "Detské ihrisko 125 in Trencin is a well-equipped spot for exercise and fun.",
+                  "category": "family",
+                  "coords": [
+                        18.048362,
+                        48.89557
+                  ]
+            },
+            {
+                  "name": "Srdiečko",
+                  "text": "Srdiečko in Trencin is a charmingly designed playground for young children.",
+                  "category": "family",
+                  "coords": [
+                        18.046451,
+                        48.883989
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 102",
+                  "text": "Detské ihrisko 102 in Trencin is a simple spot for daily outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        18.032933,
+                        48.878701
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 103",
+                  "text": "Detské ihrisko 103 provides children in Trencin another option for recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.033849,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 334",
+                  "text": "Detské ihrisko 334 in Trencin serves as a meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        18.068493,
+                        48.89499
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko 333",
+                  "text": "Detské ihrisko 333 in Trencin offers a solid selection of play equipment for kids.",
+                  "category": "family",
+                  "coords": [
+                        18.070862,
+                        48.894617
                   ]
             }
       ]
@@ -6226,7 +8359,88 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
     },
     image: "/poi-images/slovakia-prievidza-cities-v2.webp",
 },  {
-    id: "slovakia-zvolen-cities-v2",
+    id: "slovakia-zvolen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "Der Stausee Môťová in Zvolen ist bekannt für seine schöne Aussicht und Spaziergänge am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland in Zvolen ist ein Indoor-Spielplatz, der verschiedene Attraktionen und Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zólyomi víztározó",
+                  "text": "A Môťová víztározó Zvolenban népszerű a szép kilátás és a tóparti séták miatt.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "A Mixiland Zvolenban egy fedett játszótér, amely különféle attrakciókkal és szórakozással várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "Lacul de acumulare Môťová din Zvolen este popular pentru priveliști pitorești și plimbări pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland din Zvolen este un loc de joacă interior care oferă diverse atracții și distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "Vodná nádrž Môťová is a large reservoir in Zvolen popular for scenic views and lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland in Zvolen is an indoor playground offering various attractions and fun for children.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Zvolen", hu: "Zólyom", ro: "Zvolen", en: "Zvolen"},
@@ -6272,7 +8486,160 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
     },
     image: "/poi-images/slovakia-zvolen-cities-v2.webp",
 },  {
-    id: "slovakia-povazska-bystrica-cities-v2",
+    id: "slovakia-povazska-bystrica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nosická priehrada",
+                  "text": "Die Nosická priehrada bei Považská Bystrica ist ein großer Stausee, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Kúpeľné jazierko in Považská Bystrica ist ein kleiner, ruhiger Parksee.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
+            },
+            {
+                  "name": "ihrisko Jupík",
+                  "text": "Der Spielplatz Jupík in Považská Bystrica bietet Kindern eine freundliche Atmosphäre zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.469902,
+                        49.098643
+                  ]
+            },
+            {
+                  "name": "DO-ZVU-KI",
+                  "text": "DO-ZVU-KI in Považská Bystrica ist ein origineller Spielplatz für kreative Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.432423,
+                        49.121605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nosická priehrada",
+                  "text": "A Považská Bystrica melletti Nosická priehrada egy nagy víztározó, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "A Považská Bystrica-i Kúpeľné jazierko egy kicsi, csendes parki tó.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
+            },
+            {
+                  "name": "ihrisko Jupík",
+                  "text": "A Považská Bystrica-i Jupík játszótér barátságos légkört biztosít a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.469902,
+                        49.098643
+                  ]
+            },
+            {
+                  "name": "DO-ZVU-KI",
+                  "text": "A Považská Bystrica-i DO-ZVU-KI egy eredeti játszótér a kreatív gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.432423,
+                        49.121605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nosická priehrada",
+                  "text": "Nosická priehrada de lângă Považská Bystrica este un rezervuar mare, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Kúpeľné jazierko din Považská Bystrica este un lac de parc mic și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
+            },
+            {
+                  "name": "ihrisko Jupík",
+                  "text": "Locul de joacă Jupík din Považská Bystrica oferă copiilor o atmosferă prietenoasă de joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.469902,
+                        49.098643
+                  ]
+            },
+            {
+                  "name": "DO-ZVU-KI",
+                  "text": "DO-ZVU-KI din Považská Bystrica este un loc de joacă original pentru copiii creativi.",
+                  "category": "family",
+                  "coords": [
+                        18.432423,
+                        49.121605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nosická priehrada",
+                  "text": "Nosická priehrada near Povazska Bystrica is a large reservoir ideal for scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Kúpeľné jazierko in Povazska Bystrica is a small, tranquil park pond.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
+            },
+            {
+                  "name": "ihrisko Jupík",
+                  "text": "The Jupík playground in Povazska Bystrica offers a friendly atmosphere for children to play.",
+                  "category": "family",
+                  "coords": [
+                        18.469902,
+                        49.098643
+                  ]
+            },
+            {
+                  "name": "DO-ZVU-KI",
+                  "text": "DO-ZVU-KI in Povazska Bystrica is an original playground for creative children.",
+                  "category": "family",
+                  "coords": [
+                        18.432423,
+                        49.121605
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Považská Bystrica", hu: "Vágbeszterce", ro: "Považská Bystrica", en: "Považská Bystrica"},
@@ -7266,7 +9633,160 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
     },
     image: "/poi-images/slovakia-spisska-nova-ves-cities-v2.webp",
 },  {
-    id: "slovakia-komarno-cities-v2",
+    id: "slovakia-komarno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kavicsbánya-tó",
+                  "text": "Kavicsbánya-tó ist ein See in Komarno. Ein ruhiger Ort, ideal für einen erholsamen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.218266,
+                        47.729116
+                  ]
+            },
+            {
+                  "name": "Rüdiger-tó",
+                  "text": "Rüdiger-tó ist ein See in Komarno. Er bietet eine schöne natürliche Kulisse für Entspannung und Freizeit.",
+                  "category": "natural",
+                  "coords": [
+                        18.122542,
+                        47.737425
+                  ]
+            },
+            {
+                  "name": "rekuiltivált ülepítő medence",
+                  "text": "Ein See in Komarno, der sich zum Spazierengehen und Entspannen in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.204022,
+                        47.737872
+                  ]
+            },
+            {
+                  "name": "Čistinka",
+                  "text": "Ein moderner Spielplatz in Komarno, der Spaß und Bewegung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.114619,
+                        47.785594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kavicsbánya-tó",
+                  "text": "A Kavicsbánya-tó egy tó Komarno közelében. Csendes hely, ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.218266,
+                        47.729116
+                  ]
+            },
+            {
+                  "name": "Rüdiger-tó",
+                  "text": "A Rüdiger-tó egy tó Komarno városában. Szép természeti környezetet kínál a pihenéshez és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.122542,
+                        47.737425
+                  ]
+            },
+            {
+                  "name": "rekuiltivált ülepítő medence",
+                  "text": "Komáromi tó, amely alkalmas sétára és kikapcsolódásra a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.204022,
+                        47.737872
+                  ]
+            },
+            {
+                  "name": "Čistinka",
+                  "text": "Modern játszótér Komáromban, amely szórakozást és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.114619,
+                        47.785594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kavicsbánya-tó",
+                  "text": "Kavicsbánya-tó este un lac în Komarno. Un loc liniștit, ideal pentru o plimbare relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.218266,
+                        47.729116
+                  ]
+            },
+            {
+                  "name": "Rüdiger-tó",
+                  "text": "Rüdiger-tó este un lac în Komarno. Oferă un cadru natural frumos pentru relaxare și petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.122542,
+                        47.737425
+                  ]
+            },
+            {
+                  "name": "rekuiltivált ülepítő medence",
+                  "text": "Un lac în Komarno, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.204022,
+                        47.737872
+                  ]
+            },
+            {
+                  "name": "Čistinka",
+                  "text": "Un loc de joacă modern în Komarno, care oferă distracție și mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.114619,
+                        47.785594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kavicsbánya-tó",
+                  "text": "Kavicsbánya-tó is a lake in Komarno. A quiet spot, ideal for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.218266,
+                        47.729116
+                  ]
+            },
+            {
+                  "name": "Rüdiger-tó",
+                  "text": "Rüdiger-tó is a lake in Komarno. It offers a nice natural setting for relaxation and leisure.",
+                  "category": "natural",
+                  "coords": [
+                        18.122542,
+                        47.737425
+                  ]
+            },
+            {
+                  "name": "rekuiltivált ülepítő medence",
+                  "text": "A lake in Komarno, suitable for walking and relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.204022,
+                        47.737872
+                  ]
+            },
+            {
+                  "name": "Čistinka",
+                  "text": "A modern playground in Komarno, offering fun and activity for children.",
+                  "category": "family",
+                  "coords": [
+                        18.114619,
+                        47.785594
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Komárno", hu: "Komárom", ro: "Komárno", en: "Komárno"},
@@ -7467,6 +9987,69 @@ imageHint: "Humenné Renaissance palace and surrounding park",
                         18.608523,
                         48.218401
                   ]
+            },
+            {
+                  "name": "Koala",
+                  "text": "Koala in Levice ist ein Indoor-Spielplatz, der Spaß bei jedem Wetter bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.600418,
+                        48.213724
+                  ]
+            },
+            {
+                  "name": "Sova",
+                  "text": "Sova in Levice ist ein gemütlicher Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        18.611482,
+                        48.2112
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Dopravné ihrisko in Levice hilft Kindern, spielerisch die Verkehrsregeln zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        18.626757,
+                        48.216736
+                  ]
+            },
+            {
+                  "name": "Čarovná rybka",
+                  "text": "Čarovná rybka in Levice ist ein fantasievoll gestalteter Spielbereich für kleine Gäste.",
+                  "category": "family",
+                  "coords": [
+                        18.604432,
+                        48.215381
+                  ]
+            },
+            {
+                  "name": "Gibon",
+                  "text": "Gibon in Levice bietet Kindern verschiedene Kletter- und Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        18.609382,
+                        48.214763
+                  ]
+            },
+            {
+                  "name": "Čajka",
+                  "text": "Čajka in Levice ist ein beliebter Treffpunkt für Familien mit einem schönen Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        18.60512,
+                        48.209253
+                  ]
+            },
+            {
+                  "name": "Pirát",
+                  "text": "Pirát in Levice ist ein Themenspielplatz, der kleine Abenteurer zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.608841,
+                        48.208982
+                  ]
             }
       ],
       "hu": [
@@ -7576,6 +10159,69 @@ imageHint: "Humenné Renaissance palace and surrounding park",
                   "coords": [
                         18.608523,
                         48.218401
+                  ]
+            },
+            {
+                  "name": "Koala",
+                  "text": "A lévai Koala egy beltéri játszóház, amely minden időben szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        18.600418,
+                        48.213724
+                  ]
+            },
+            {
+                  "name": "Sova",
+                  "text": "A lévai Sova egy barátságos hely a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.611482,
+                        48.2112
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "A lévai közlekedési játszótér segít a gyerekeknek játékosan megtanulni a közlekedési szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        18.626757,
+                        48.216736
+                  ]
+            },
+            {
+                  "name": "Čarovná rybka",
+                  "text": "A lévai Čarovná rybka egy fantáziadúsan kialakított játszóhely a kis vendégeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.604432,
+                        48.215381
+                  ]
+            },
+            {
+                  "name": "Gibon",
+                  "text": "A lévai Gibon különféle mászási és játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.609382,
+                        48.214763
+                  ]
+            },
+            {
+                  "name": "Čajka",
+                  "text": "A lévai Čajka népszerű találkozóhely a családok számára egy szép játszótérrel.",
+                  "category": "family",
+                  "coords": [
+                        18.60512,
+                        48.209253
+                  ]
+            },
+            {
+                  "name": "Pirát",
+                  "text": "A lévai Pirát egy tematikus játszótér, amely játékra hívja a kis kalandorokat.",
+                  "category": "family",
+                  "coords": [
+                        18.608841,
+                        48.208982
                   ]
             }
       ],
@@ -7687,6 +10333,69 @@ imageHint: "Humenné Renaissance palace and surrounding park",
                         18.608523,
                         48.218401
                   ]
+            },
+            {
+                  "name": "Koala",
+                  "text": "Koala din Levice este un loc de joacă interior care oferă distracție pe orice vreme.",
+                  "category": "family",
+                  "coords": [
+                        18.600418,
+                        48.213724
+                  ]
+            },
+            {
+                  "name": "Sova",
+                  "text": "Sova din Levice este un loc primitor pentru copii, ideal pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        18.611482,
+                        48.2112
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Terenul de educație rutieră din Levice îi ajută pe copii să învețe regulile de circulație prin joc.",
+                  "category": "family",
+                  "coords": [
+                        18.626757,
+                        48.216736
+                  ]
+            },
+            {
+                  "name": "Čarovná rybka",
+                  "text": "Čarovná rybka din Levice este o zonă de joacă plină de imaginație pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        18.604432,
+                        48.215381
+                  ]
+            },
+            {
+                  "name": "Gibon",
+                  "text": "Gibon din Levice oferă copiilor diverse oportunități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.609382,
+                        48.214763
+                  ]
+            },
+            {
+                  "name": "Čajka",
+                  "text": "Čajka din Levice este un punct de întâlnire popular pentru familii, având un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        18.60512,
+                        48.209253
+                  ]
+            },
+            {
+                  "name": "Pirát",
+                  "text": "Pirát din Levice este un loc de joacă tematic care îi invită pe micii aventurieri la joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.608841,
+                        48.208982
+                  ]
             }
       ],
       "en": [
@@ -7796,6 +10505,69 @@ imageHint: "Humenné Renaissance palace and surrounding park",
                   "coords": [
                         18.608523,
                         48.218401
+                  ]
+            },
+            {
+                  "name": "Koala",
+                  "text": "Koala in Levice is an indoor playground providing fun in any weather.",
+                  "category": "family",
+                  "coords": [
+                        18.600418,
+                        48.213724
+                  ]
+            },
+            {
+                  "name": "Sova",
+                  "text": "Sova in Levice is a cozy spot for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        18.611482,
+                        48.2112
+                  ]
+            },
+            {
+                  "name": "Dopravné ihrisko",
+                  "text": "Dopravné ihrisko in Levice helps children learn traffic rules through play.",
+                  "category": "family",
+                  "coords": [
+                        18.626757,
+                        48.216736
+                  ]
+            },
+            {
+                  "name": "Čarovná rybka",
+                  "text": "Čarovná rybka in Levice is an imaginatively designed play area for young guests.",
+                  "category": "family",
+                  "coords": [
+                        18.604432,
+                        48.215381
+                  ]
+            },
+            {
+                  "name": "Gibon",
+                  "text": "Gibon in Levice offers various climbing and play options for children.",
+                  "category": "family",
+                  "coords": [
+                        18.609382,
+                        48.214763
+                  ]
+            },
+            {
+                  "name": "Čajka",
+                  "text": "Čajka in Levice is a popular gathering spot for families with a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        18.60512,
+                        48.209253
+                  ]
+            },
+            {
+                  "name": "Pirát",
+                  "text": "Pirát in Levice is a themed playground that invites little adventurers to play.",
+                  "category": "family",
+                  "coords": [
+                        18.608841,
+                        48.208982
                   ]
             }
       ]
@@ -9162,6 +11934,33 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
                         19.667087,
                         48.325053
                   ]
+            },
+            {
+                  "name": "Ľadovo",
+                  "text": "Ľadovo in Lučenec ist ein ruhiger See, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.62632,
+                        48.332052
+                  ]
+            },
+            {
+                  "name": "Jazierko Nájdenej Víly",
+                  "text": "Jazierko Nájdenej Víly in Lučenec ist ein kleiner Teich in einer entspannten Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.617494,
+                        48.318733
+                  ]
+            },
+            {
+                  "name": "Jazierko Stratenej Víly",
+                  "text": "Jazierko Stratenej Víly in Lučenec ist ein idyllischer Ort für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.62784,
+                        48.321935
+                  ]
             }
       ],
       "hu": [
@@ -9253,6 +12052,33 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
                   "coords": [
                         19.667087,
                         48.325053
+                  ]
+            },
+            {
+                  "name": "Ľadovo",
+                  "text": "A losonci Ľadovo egy csendes tó, amely alkalmas a természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.62632,
+                        48.332052
+                  ]
+            },
+            {
+                  "name": "Jazierko Nájdenej Víly",
+                  "text": "A losonci Jazierko Nájdenej Víly egy kis tó nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.617494,
+                        48.318733
+                  ]
+            },
+            {
+                  "name": "Jazierko Stratenej Víly",
+                  "text": "A losonci Jazierko Stratenej Víly idilli hely egy rövid pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        19.62784,
+                        48.321935
                   ]
             }
       ],
@@ -9346,6 +12172,33 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
                         19.667087,
                         48.325053
                   ]
+            },
+            {
+                  "name": "Ľadovo",
+                  "text": "Ľadovo din Lučenec este un lac liniștit, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.62632,
+                        48.332052
+                  ]
+            },
+            {
+                  "name": "Jazierko Nájdenej Víly",
+                  "text": "Jazierko Nájdenej Víly din Lučenec este un iaz mic situat într-un cadru relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        19.617494,
+                        48.318733
+                  ]
+            },
+            {
+                  "name": "Jazierko Stratenej Víly",
+                  "text": "Jazierko Stratenej Víly din Lučenec este un loc idilic pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.62784,
+                        48.321935
+                  ]
             }
       ],
       "en": [
@@ -9437,6 +12290,33 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
                   "coords": [
                         19.667087,
                         48.325053
+                  ]
+            },
+            {
+                  "name": "Ľadovo",
+                  "text": "Ľadovo in Lucenec is a peaceful lake well-suited for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.62632,
+                        48.332052
+                  ]
+            },
+            {
+                  "name": "Jazierko Nájdenej Víly",
+                  "text": "Jazierko Nájdenej Víly in Lucenec is a small pond set in a relaxing environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.617494,
+                        48.318733
+                  ]
+            },
+            {
+                  "name": "Jazierko Stratenej Víly",
+                  "text": "Jazierko Stratenej Víly in Lucenec is an idyllic spot for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.62784,
+                        48.321935
                   ]
             }
       ]
@@ -12472,6 +15352,24 @@ imageHint: "Rimavská Sobota main square with the church",
                         17.616858,
                         47.992429
                   ]
+            },
+            {
+                  "name": "Štrkovisko Vieska",
+                  "text": "Ein See bei Dunajská Streda, ideal für Erholung am Wasser und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.515633,
+                        47.99995
+                  ]
+            },
+            {
+                  "name": "Polcestný rybník",
+                  "text": "Ein ruhiger See in der Nähe von Dunajská Streda, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.612695,
+                        47.979582
+                  ]
             }
       ],
       "hu": [
@@ -12509,6 +15407,24 @@ imageHint: "Rimavská Sobota main square with the church",
                   "coords": [
                         17.616858,
                         47.992429
+                  ]
+            },
+            {
+                  "name": "Dunakisfaludi Kavicsbánya-tó",
+                  "text": "Dunaszerdahely melletti tó, ideális vízparti pihenésre és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        17.515633,
+                        47.99995
+                  ]
+            },
+            {
+                  "name": "Félúti tó",
+                  "text": "Csendes tó Dunaszerdahely közelében, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.612695,
+                        47.979582
                   ]
             }
       ],
@@ -12548,6 +15464,24 @@ imageHint: "Rimavská Sobota main square with the church",
                         17.616858,
                         47.992429
                   ]
+            },
+            {
+                  "name": "Štrkovisko Vieska",
+                  "text": "Un lac lângă Dunajská Streda, ideal pentru recreere la malul apei și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.515633,
+                        47.99995
+                  ]
+            },
+            {
+                  "name": "Polcestný rybník",
+                  "text": "Un lac liniștit lângă Dunajská Streda, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.612695,
+                        47.979582
+                  ]
             }
       ],
       "en": [
@@ -12585,6 +15519,24 @@ imageHint: "Rimavská Sobota main square with the church",
                   "coords": [
                         17.616858,
                         47.992429
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Vieska",
+                  "text": "A lake near Dunajská Streda, ideal for waterfront recreation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.515633,
+                        47.99995
+                  ]
+            },
+            {
+                  "name": "Polcestný rybník",
+                  "text": "A peaceful lake near Dunajská Streda, offering a quiet escape in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.612695,
+                        47.979582
                   ]
             }
       ]
@@ -12744,6 +15696,42 @@ imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
                         19.644915,
                         48.808696
                   ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Tále",
+                  "text": "Das Naturbad Prírodné kúpalisko Tále in Brezno ist ein schöner See, der zum Schwimmen und Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.601553,
+                        48.872562
+                  ]
+            },
+            {
+                  "name": "Tajch",
+                  "text": "Der See Tajch in Brezno bietet eine ruhige Atmosphäre für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.546219,
+                        48.82195
+                  ]
+            },
+            {
+                  "name": "Hnusnô I.",
+                  "text": "Hnusnô I. in Brezno ist ein kleiner See in waldreicher Umgebung, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.557218,
+                        48.831066
+                  ]
+            },
+            {
+                  "name": "Hnusnô II.",
+                  "text": "Hnusnô II. in Brezno ist ein ruhiges Gewässer, das sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.563529,
+                        48.837973
+                  ]
             }
       ],
       "hu": [
@@ -12808,6 +15796,42 @@ imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
                   "coords": [
                         19.644915,
                         48.808696
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Tále",
+                  "text": "A Breznóbányán található Prírodné kúpalisko Tále egy természetes fürdőtó, amely kiválóan alkalmas úszásra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        19.601553,
+                        48.872562
+                  ]
+            },
+            {
+                  "name": "Tajch",
+                  "text": "A Breznóbányán található Tajch tó nyugodt környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.546219,
+                        48.82195
+                  ]
+            },
+            {
+                  "name": "Hnusnô I.",
+                  "text": "A Breznóbányán található Hnusnô I. egy erdei környezetben fekvő kis tó, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.557218,
+                        48.831066
+                  ]
+            },
+            {
+                  "name": "Hnusnô II.",
+                  "text": "A Breznóbányán fekvő Hnusnô II. egy csendes állóvíz, amely kiválóan alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.563529,
+                        48.837973
                   ]
             }
       ],
@@ -12874,6 +15898,42 @@ imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
                         19.644915,
                         48.808696
                   ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Tále",
+                  "text": "Prírodné kúpalisko Tále din Brezno este un lac natural ideal pentru înot și relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.601553,
+                        48.872562
+                  ]
+            },
+            {
+                  "name": "Tajch",
+                  "text": "Lacul Tajch din Brezno oferă o atmosferă liniștită pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.546219,
+                        48.82195
+                  ]
+            },
+            {
+                  "name": "Hnusnô I.",
+                  "text": "Hnusnô I. din Brezno este un lac mic situat într-un cadru forestier, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.557218,
+                        48.831066
+                  ]
+            },
+            {
+                  "name": "Hnusnô II.",
+                  "text": "Hnusnô II. din Brezno este un corp de apă liniștit, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        19.563529,
+                        48.837973
+                  ]
             }
       ],
       "en": [
@@ -12938,6 +15998,42 @@ imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
                   "coords": [
                         19.644915,
                         48.808696
+                  ]
+            },
+            {
+                  "name": "Prírodné kúpalisko Tále",
+                  "text": "Prírodné kúpalisko Tále in Brezno is a natural swimming lake perfect for relaxation and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.601553,
+                        48.872562
+                  ]
+            },
+            {
+                  "name": "Tajch",
+                  "text": "Tajch lake in Brezno offers a peaceful atmosphere for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.546219,
+                        48.82195
+                  ]
+            },
+            {
+                  "name": "Hnusnô I.",
+                  "text": "Hnusnô I. in Brezno is a small lake in a forested area, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        19.557218,
+                        48.831066
+                  ]
+            },
+            {
+                  "name": "Hnusnô II.",
+                  "text": "Hnusnô II. in Brezno is a quiet body of water suitable for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        19.563529,
+                        48.837973
                   ]
             }
       ]
@@ -13069,6 +16165,24 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.771124,
                         48.446739
                   ]
+            },
+            {
+                  "name": "Štrkoviská Zelenice",
+                  "text": "Ein Seeareal bei Hlohovec, das Möglichkeiten zum Spazierengehen am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.771805,
+                        48.391838
+                  ]
+            },
+            {
+                  "name": "Cupky Dupky",
+                  "text": "Ein familienfreundlicher Spielplatz in Hlohovec, der zum Spielen und Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.791131,
+                        48.432851
+                  ]
             }
       ],
       "hu": [
@@ -13151,6 +16265,24 @@ imageHint: "Brezno main square with the historic tower and park",
                   "coords": [
                         17.771124,
                         48.446739
+                  ]
+            },
+            {
+                  "name": "Štrkoviská Zelenice",
+                  "text": "Galgóc melletti tórendszer, amely lehetőséget nyújt vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        17.771805,
+                        48.391838
+                  ]
+            },
+            {
+                  "name": "Cupky Dupky",
+                  "text": "Családbarát játszótér Galgócon, amely játékra és kikapcsolódásra hív.",
+                  "category": "family",
+                  "coords": [
+                        17.791131,
+                        48.432851
                   ]
             }
       ],
@@ -13235,6 +16367,24 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.771124,
                         48.446739
                   ]
+            },
+            {
+                  "name": "Štrkoviská Zelenice",
+                  "text": "O zonă de lacuri lângă Hlohovec, oferind posibilități de plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.771805,
+                        48.391838
+                  ]
+            },
+            {
+                  "name": "Cupky Dupky",
+                  "text": "Un loc de joacă pentru familii în Hlohovec, care invită la joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.791131,
+                        48.432851
+                  ]
             }
       ],
       "en": [
@@ -13318,6 +16468,24 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.771124,
                         48.446739
                   ]
+            },
+            {
+                  "name": "Štrkoviská Zelenice",
+                  "text": "A lake area near Hlohovec, offering opportunities for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.771805,
+                        48.391838
+                  ]
+            },
+            {
+                  "name": "Cupky Dupky",
+                  "text": "A family-friendly playground in Hlohovec, inviting children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        17.791131,
+                        48.432851
+                  ]
             }
       ]
 },
@@ -13366,7 +16534,88 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
     },
     image: "/poi-images/slovakia-hlohovec-cities-v2.webp",
 },  {
-    id: "slovakia-snina-cities-v2",
+    id: "slovakia-snina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Dlhé",
+                  "text": "Vodná nádrž Dlhé ist ein ruhiger See bei Snina, ideal um die Natur und die Umgebung zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.079496,
+                        48.96349
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko pri CSŠ",
+                  "text": "Dieser Spielplatz in Snina bietet einen sicheren Erholungsbereich für Kinder in der Nähe der Schule.",
+                  "category": "family",
+                  "coords": [
+                        22.135606,
+                        48.989745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Dlhé",
+                  "text": "A Dlhé víztározó Snina közelében egy csendes tó, amely ideális a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.079496,
+                        48.96349
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko pri CSŠ",
+                  "text": "Ez a Snina-i játszótér biztonságos kikapcsolódási lehetőséget nyújt a gyerekeknek az iskola közelében.",
+                  "category": "family",
+                  "coords": [
+                        22.135606,
+                        48.989745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Dlhé",
+                  "text": "Vodná nádrž Dlhé este un lac liniștit lângă Snina, ideal pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.079496,
+                        48.96349
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko pri CSŠ",
+                  "text": "Acest loc de joacă din Snina oferă o zonă de recreere sigură pentru copii lângă școală.",
+                  "category": "family",
+                  "coords": [
+                        22.135606,
+                        48.989745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Dlhé",
+                  "text": "Vodná nádrž Dlhé is a quiet lake near Snina, ideal for enjoying nature and peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        22.079496,
+                        48.96349
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko pri CSŠ",
+                  "text": "This playground in Snina provides a safe recreational area for children near the school.",
+                  "category": "family",
+                  "coords": [
+                        22.135606,
+                        48.989745
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Snina", hu: "Szinna", ro: "Snina", en: "Snina"},
@@ -13449,6 +16698,33 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                         17.367699,
                         48.679497
                   ]
+            },
+            {
+                  "name": "Vodná Nádrž Prietrž",
+                  "text": "Der Stausee Vodná Nádrž Prietrž bei Senica ist ein beliebtes Ziel für Wanderungen und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.452062,
+                        48.664941
+                  ]
+            },
+            {
+                  "name": "Hlbocká priehrada",
+                  "text": "Hlbocká priehrada in Senica ist ein Stausee, der sich ideal für Spaziergänge in der natürlichen Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.41802,
+                        48.638704
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Der Spielplatz Žihadielko in Senica bietet moderne Spielgeräte für einen abwechslungsreichen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        17.358443,
+                        48.678777
+                  ]
             }
       ],
       "hu": [
@@ -13486,6 +16762,33 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                   "coords": [
                         17.367699,
                         48.679497
+                  ]
+            },
+            {
+                  "name": "Vodná Nádrž Prietrž",
+                  "text": "A Szenice közelében található Vodná Nádrž Prietrž víztározó népszerű hely a túrázásra és a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.452062,
+                        48.664941
+                  ]
+            },
+            {
+                  "name": "Hlbocká priehrada",
+                  "text": "A Szenicén található Hlbocká priehrada egy víztározó, amely ideális a természetes környezetben tett sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.41802,
+                        48.638704
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A szenicei Žihadielko játszótér modern játékaival várja a családokat egy élménydús napra.",
+                  "category": "family",
+                  "coords": [
+                        17.358443,
+                        48.678777
                   ]
             }
       ],
@@ -13525,6 +16828,33 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                         17.367699,
                         48.679497
                   ]
+            },
+            {
+                  "name": "Vodná Nádrž Prietrž",
+                  "text": "Rezervorul Vodná Nádrž Prietrž de lângă Senica este o destinație populară pentru drumeții și relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        17.452062,
+                        48.664941
+                  ]
+            },
+            {
+                  "name": "Hlbocká priehrada",
+                  "text": "Hlbocká priehrada din Senica este un rezervor ideal pentru plimbări în mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        17.41802,
+                        48.638704
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Locul de joacă Žihadielko din Senica oferă echipamente moderne pentru o zi distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.358443,
+                        48.678777
+                  ]
             }
       ],
       "en": [
@@ -13562,6 +16892,33 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                   "coords": [
                         17.367699,
                         48.679497
+                  ]
+            },
+            {
+                  "name": "Vodná Nádrž Prietrž",
+                  "text": "The Vodná Nádrž Prietrž reservoir near Senica is a popular destination for hiking and lakeside relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.452062,
+                        48.664941
+                  ]
+            },
+            {
+                  "name": "Hlbocká priehrada",
+                  "text": "Hlbocká priehrada in Senica is a reservoir ideal for walks in natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        17.41802,
+                        48.638704
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "The Žihadielko playground in Senica offers modern equipment for a fun-filled family outing.",
+                  "category": "family",
+                  "coords": [
+                        17.358443,
+                        48.678777
                   ]
             }
       ]
@@ -14423,6 +17780,51 @@ imageHint: "Pezinok Castle and surrounding park",
                         18.244122,
                         48.709075
                   ]
+            },
+            {
+                  "name": "Nedašovce",
+                  "text": "Der See bei Nedašovce bietet einen ruhigen Naturraum für Erholung und malerische Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.312573,
+                        48.663178
+                  ]
+            },
+            {
+                  "name": "Haláčovce",
+                  "text": "Haláčovce verfügt über einen lokalen See, der sich für friedliche Outdoor-Aktivitäten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.184654,
+                        48.712002
+                  ]
+            },
+            {
+                  "name": "Prusy",
+                  "text": "Der Stausee in Prusy bietet eine ruhige Umgebung zum Wandern und Beobachten des Wassers.",
+                  "category": "natural",
+                  "coords": [
+                        18.272588,
+                        48.745438
+                  ]
+            },
+            {
+                  "name": "Brezolupy",
+                  "text": "Brezolupy beheimatet einen See, der ein natürlicher Ort für Erholung in der Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.306951,
+                        48.688284
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Žihadielko ist ein moderner Spielplatz in Banovce Nad Bebravou mit vielen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.254312,
+                        48.730696
+                  ]
             }
       ],
       "hu": [
@@ -14496,6 +17898,51 @@ imageHint: "Pezinok Castle and surrounding park",
                   "coords": [
                         18.244122,
                         48.709075
+                  ]
+            },
+            {
+                  "name": "Nedašovce",
+                  "text": "A Nedašovce melletti tó nyugodt természeti környezetet kínál a kikapcsolódáshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.312573,
+                        48.663178
+                  ]
+            },
+            {
+                  "name": "Haláčovce",
+                  "text": "Haláčovce egy helyi tóval rendelkezik, amely alkalmas nyugodt szabadtéri tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        18.184654,
+                        48.712002
+                  ]
+            },
+            {
+                  "name": "Prusy",
+                  "text": "A Prusy-i víztározó nyugodt környezetet biztosít a sétáláshoz és a vízi táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.272588,
+                        48.745438
+                  ]
+            },
+            {
+                  "name": "Brezolupy",
+                  "text": "Brezolupy egy tónak ad otthont, amely természetes helyszínt kínál a kikapcsolódáshoz a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        18.306951,
+                        48.688284
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A Žihadielko egy modern játszótér Banovce Nad Bebravou városában, számos játékkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.254312,
+                        48.730696
                   ]
             }
       ],
@@ -14571,6 +18018,51 @@ imageHint: "Pezinok Castle and surrounding park",
                         18.244122,
                         48.709075
                   ]
+            },
+            {
+                  "name": "Nedašovce",
+                  "text": "Lacul de la Nedašovce oferă un cadru natural liniștit pentru relaxare și plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        18.312573,
+                        48.663178
+                  ]
+            },
+            {
+                  "name": "Haláčovce",
+                  "text": "Haláčovce are un lac local potrivit pentru activități liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.184654,
+                        48.712002
+                  ]
+            },
+            {
+                  "name": "Prusy",
+                  "text": "Rezervorul din Prusy oferă un mediu liniștit pentru plimbări și admirarea apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.272588,
+                        48.745438
+                  ]
+            },
+            {
+                  "name": "Brezolupy",
+                  "text": "Brezolupy găzduiește un lac care oferă un loc natural pentru relaxare în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        18.306951,
+                        48.688284
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Žihadielko este un loc de joacă modern în Banovce Nad Bebravou, cu multe atracții pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.254312,
+                        48.730696
+                  ]
             }
       ],
       "en": [
@@ -14644,6 +18136,51 @@ imageHint: "Pezinok Castle and surrounding park",
                   "coords": [
                         18.244122,
                         48.709075
+                  ]
+            },
+            {
+                  "name": "Nedašovce",
+                  "text": "The lake at Nedašovce offers a calm natural setting for relaxation and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.312573,
+                        48.663178
+                  ]
+            },
+            {
+                  "name": "Haláčovce",
+                  "text": "Haláčovce features a local lake suitable for peaceful outdoor activities and enjoying the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.184654,
+                        48.712002
+                  ]
+            },
+            {
+                  "name": "Prusy",
+                  "text": "The reservoir in Prusy provides a quiet environment for walking and viewing the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.272588,
+                        48.745438
+                  ]
+            },
+            {
+                  "name": "Brezolupy",
+                  "text": "Brezolupy is home to a lake that offers a natural spot for relaxation in the region.",
+                  "category": "natural",
+                  "coords": [
+                        18.306951,
+                        48.688284
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Žihadielko is a modern playground in Banovce Nad Bebravou with many attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        18.254312,
+                        48.730696
                   ]
             }
       ]
@@ -14739,7 +18276,160 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
     },
     image: "/poi-images/slovakia-dolny-kubin-cities-v2.webp",
 },  {
-    id: "slovakia-ziar-nad-hronom-cities-v2",
+    id: "slovakia-ziar-nad-hronom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terezka",
+                  "text": "Ein Spielplatz in Žiar nad Hronom, der Kindern einen sicheren Ort zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.852985,
+                        48.59579
+                  ]
+            },
+            {
+                  "name": "Vetrík",
+                  "text": "Dieser Spielplatz in Žiar nad Hronom bietet vielfältige Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.840607,
+                        48.598847
+                  ]
+            },
+            {
+                  "name": "Guliver",
+                  "text": "Ein thematischer Spielplatz in Žiar nad Hronom, der ideal für einen Familienausflug ist.",
+                  "category": "family",
+                  "coords": [
+                        18.848267,
+                        48.588612
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Ein freundlicher Spielplatz in Žiar nad Hronom, der zum Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.844002,
+                        48.591533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terezka",
+                  "text": "Garamszentkereszti játszótér, amely biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.852985,
+                        48.59579
+                  ]
+            },
+            {
+                  "name": "Vetrík",
+                  "text": "Ez a garamszentkereszti játszótér változatos játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.840607,
+                        48.598847
+                  ]
+            },
+            {
+                  "name": "Guliver",
+                  "text": "Tematikus játszótér Garamszentkereszten, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.848267,
+                        48.588612
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Barátságos játszótér Garamszentkereszten, amely szabadtéri játékra csábít.",
+                  "category": "family",
+                  "coords": [
+                        18.844002,
+                        48.591533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terezka",
+                  "text": "Un loc de joacă în Žiar nad Hronom, oferind copiilor un spațiu sigur pentru distracție.",
+                  "category": "family",
+                  "coords": [
+                        18.852985,
+                        48.59579
+                  ]
+            },
+            {
+                  "name": "Vetrík",
+                  "text": "Acest loc de joacă din Žiar nad Hronom oferă diverse opțiuni de distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.840607,
+                        48.598847
+                  ]
+            },
+            {
+                  "name": "Guliver",
+                  "text": "Un loc de joacă tematic în Žiar nad Hronom, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        18.848267,
+                        48.588612
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Un loc de joacă primitor în Žiar nad Hronom, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.844002,
+                        48.591533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terezka",
+                  "text": "A playground in Žiar nad Hronom, providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        18.852985,
+                        48.59579
+                  ]
+            },
+            {
+                  "name": "Vetrík",
+                  "text": "This playground in Žiar nad Hronom offers various play options for families.",
+                  "category": "family",
+                  "coords": [
+                        18.840607,
+                        48.598847
+                  ]
+            },
+            {
+                  "name": "Guliver",
+                  "text": "A themed playground in Žiar nad Hronom, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        18.848267,
+                        48.588612
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "A friendly playground in Žiar nad Hronom, inviting children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        18.844002,
+                        48.591533
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Žiar nad Hronom", hu: "Garamszentkereszt", ro: "Žiar nad Hronom", en: "Žiar nad Hronom"},
@@ -14876,6 +18566,60 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                         20.531658,
                         48.663547
                   ]
+            },
+            {
+                  "name": "Kačató",
+                  "text": "Kačató ist ein See in Roznava, der eine friedliche Atmosphäre für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.549283,
+                        48.647801
+                  ]
+            },
+            {
+                  "name": "Indiánske jazero",
+                  "text": "Der Indiánske jazero in Roznava ist ein malerisches Gewässer für ruhige Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        20.520084,
+                        48.649496
+                  ]
+            },
+            {
+                  "name": "Lidl Čistinka",
+                  "text": "Lidl Čistinka in Roznava ist ein Gemeinschaftsspielplatz mit unterhaltsamen Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.540665,
+                        48.659358
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Der Spielplatz Žihadielko in Roznava bietet farbenfrohe Geräte und eine sichere Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        20.540091,
+                        48.650492
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park in Roznava ist ein aktives Erholungsgebiet mit Einrichtungen für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        20.522632,
+                        48.656213
+                  ]
+            },
+            {
+                  "name": "Ihrisko pre každé dieťa",
+                  "text": "Dieser inklusive Spielplatz in Roznava ist so konzipiert, dass er Kindern aller Fähigkeiten Spaß macht.",
+                  "category": "family",
+                  "coords": [
+                        20.537222,
+                        48.652396
+                  ]
             }
       ],
       "hu": [
@@ -14967,6 +18711,60 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                   "coords": [
                         20.531658,
                         48.663547
+                  ]
+            },
+            {
+                  "name": "Kačató",
+                  "text": "A Kačató egy tó Roznava városában, amely nyugodt légkört biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        20.549283,
+                        48.647801
+                  ]
+            },
+            {
+                  "name": "Indiánske jazero",
+                  "text": "Az Indiánske jazero Roznava-ban egy festői tó, amely ideális a nyugodt kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.520084,
+                        48.649496
+                  ]
+            },
+            {
+                  "name": "Lidl Čistinka",
+                  "text": "A rozsnyói Lidl Čistinka egy közösségi játszótér, amely szórakoztató programokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        20.540665,
+                        48.659358
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A rozsnyói Žihadielko játszótér színes eszközökkel és biztonságos környezettel várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        20.540091,
+                        48.650492
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "A rozsnyói K Park egy aktív szabadidős terület gyerekeknek és fiataloknak kialakított eszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        20.522632,
+                        48.656213
+                  ]
+            },
+            {
+                  "name": "Ihrisko pre každé dieťa",
+                  "text": "Ez a rozsnyói befogadó játszótér úgy lett kialakítva, hogy minden gyermek számára szórakozást nyújtson.",
+                  "category": "family",
+                  "coords": [
+                        20.537222,
+                        48.652396
                   ]
             }
       ],
@@ -15060,6 +18858,60 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                         20.531658,
                         48.663547
                   ]
+            },
+            {
+                  "name": "Kačató",
+                  "text": "Kačató este un lac din Roznava care oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.549283,
+                        48.647801
+                  ]
+            },
+            {
+                  "name": "Indiánske jazero",
+                  "text": "Indiánske jazero din Roznava este un lac pitoresc, ideal pentru relaxare liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        20.520084,
+                        48.649496
+                  ]
+            },
+            {
+                  "name": "Lidl Čistinka",
+                  "text": "Lidl Čistinka din Roznava este un loc de joacă comunitar care oferă activități pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.540665,
+                        48.659358
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Locul de joacă Žihadielko din Roznava are echipamente colorate și un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        20.540091,
+                        48.650492
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park din Roznava este o zonă de recreere activă cu facilități pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        20.522632,
+                        48.656213
+                  ]
+            },
+            {
+                  "name": "Ihrisko pre každé dieťa",
+                  "text": "Acest loc de joacă incluziv din Roznava este conceput pentru a oferi distracție tuturor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        20.537222,
+                        48.652396
+                  ]
             }
       ],
       "en": [
@@ -15151,6 +19003,60 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                   "coords": [
                         20.531658,
                         48.663547
+                  ]
+            },
+            {
+                  "name": "Kačató",
+                  "text": "Kačató is a lake in Roznava providing a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.549283,
+                        48.647801
+                  ]
+            },
+            {
+                  "name": "Indiánske jazero",
+                  "text": "Indiánske jazero in Roznava is a scenic water body ideal for calm outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.520084,
+                        48.649496
+                  ]
+            },
+            {
+                  "name": "Lidl Čistinka",
+                  "text": "Lidl Čistinka in Roznava is a community playground offering fun activities for families and kids.",
+                  "category": "family",
+                  "coords": [
+                        20.540665,
+                        48.659358
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "The Žihadielko playground in Roznava features colorful equipment and a safe environment for play.",
+                  "category": "family",
+                  "coords": [
+                        20.540091,
+                        48.650492
+                  ]
+            },
+            {
+                  "name": "K Park",
+                  "text": "K Park in Roznava is an active recreation area with facilities for children and youth.",
+                  "category": "family",
+                  "coords": [
+                        20.522632,
+                        48.656213
+                  ]
+            },
+            {
+                  "name": "Ihrisko pre každé dieťa",
+                  "text": "This inclusive playground in Roznava is designed to provide fun for children of all abilities.",
+                  "category": "family",
+                  "coords": [
+                        20.537222,
+                        48.652396
                   ]
             }
       ]
@@ -15282,6 +19188,105 @@ imageHint: "Rožňava main square with the historic watchtower",
                         18.325337,
                         49.113988
                   ]
+            },
+            {
+                  "name": "Nosická priehrada",
+                  "text": "Der Stausee Nosická priehrada bei Púchov bietet weite Ausblicke und Möglichkeiten für lange Uferwege.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "VN Ihrište",
+                  "text": "VN Ihrište in Púchov ist ein kleinerer Stausee, der sich gut für ruhige Momente in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.308345,
+                        49.158671
+                  ]
+            },
+            {
+                  "name": "Odhanka 1",
+                  "text": "Odhanka 1 in Púchov ist Teil einer Seengruppe, die ideal für kurze Spaziergänge im Grünen ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.326127,
+                        49.119031
+                  ]
+            },
+            {
+                  "name": "Odhanka 7",
+                  "text": "Odhanka 7 in Púchov ist ein ruhiger See, der sich gut für die Erholung abseits des Trubels eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.319996,
+                        49.115731
+                  ]
+            },
+            {
+                  "name": "Odhanka 5",
+                  "text": "Odhanka 5 in Púchov bietet eine friedliche Atmosphäre für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        18.321918,
+                        49.116696
+                  ]
+            },
+            {
+                  "name": "Odhanka 3",
+                  "text": "Odhanka 3 in Púchov ist ein kleinerer See, der zu einer gemütlichen Pause im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.324036,
+                        49.117829
+                  ]
+            },
+            {
+                  "name": "Odhanka 2",
+                  "text": "Odhanka 2 in Púchov ist ein naturbelassener See, ideal für entspannende Beobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.325079,
+                        49.118431
+                  ]
+            },
+            {
+                  "name": "Odhanka 4",
+                  "text": "Odhanka 4 in Púchov bietet eine grüne Umgebung für Erholungssuchende und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        18.32294,
+                        49.117247
+                  ]
+            },
+            {
+                  "name": "Odhanka 9",
+                  "text": "Odhanka 9 in Púchov ist ein stilles Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.317643,
+                        49.114854
+                  ]
+            },
+            {
+                  "name": "Odhanka 8",
+                  "text": "Odhanka 8 in Púchov ist ein ruhiger Ort für kleine Ausflüge und Naturgenuss am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        18.318716,
+                        49.115316
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Das Kúpeľné jazierko in Púchov ist ein kleiner Kursee, der sich ideal für ruhige Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
             }
       ],
       "hu": [
@@ -15364,6 +19369,105 @@ imageHint: "Rožňava main square with the historic watchtower",
                   "coords": [
                         18.325337,
                         49.113988
+                  ]
+            },
+            {
+                  "name": "Nosická priehrada",
+                  "text": "A Puhó melletti Nosická priehrada víztározó tágas kilátást és hosszú vízparti sétákat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "VN Ihrište",
+                  "text": "A Puhón található VN Ihrište egy kisebb víztározó, amely alkalmas a természetben való csendes pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        18.308345,
+                        49.158671
+                  ]
+            },
+            {
+                  "name": "Odhanka 1",
+                  "text": "A puhói Odhanka 1 egy tócsoport része, amely ideális a zöldövezetben tett rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.326127,
+                        49.119031
+                  ]
+            },
+            {
+                  "name": "Odhanka 7",
+                  "text": "A puhói Odhanka 7 egy csendes tó, amely kiválóan alkalmas a tömegtől távoli kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.319996,
+                        49.115731
+                  ]
+            },
+            {
+                  "name": "Odhanka 5",
+                  "text": "A puhói Odhanka 5 békés környezetet biztosít a természetbarátok és a sétálni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.321918,
+                        49.116696
+                  ]
+            },
+            {
+                  "name": "Odhanka 3",
+                  "text": "A puhói Odhanka 3 egy kisebb tó, amely hívogató hely egy kellemes szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.324036,
+                        49.117829
+                  ]
+            },
+            {
+                  "name": "Odhanka 2",
+                  "text": "A puhói Odhanka 2 egy természetközeli tó, amely ideális a vízparti pihentető megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.325079,
+                        49.118431
+                  ]
+            },
+            {
+                  "name": "Odhanka 4",
+                  "text": "A puhói Odhanka 4 zöld környezetet biztosít a pihenni vágyók és a kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.32294,
+                        49.117247
+                  ]
+            },
+            {
+                  "name": "Odhanka 9",
+                  "text": "A puhói Odhanka 9 egy csendes állóvíz, amely a természetben való időtöltésre ösztönöz.",
+                  "category": "natural",
+                  "coords": [
+                        18.317643,
+                        49.114854
+                  ]
+            },
+            {
+                  "name": "Odhanka 8",
+                  "text": "A puhói Odhanka 8 egy nyugodt hely kisebb kirándulásokhoz és a tóparti természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.318716,
+                        49.115316
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "A puhói Kúpeľné jazierko egy kis fürdőtó, amely kiválóan alkalmas a csendes sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
                   ]
             }
       ],
@@ -15448,6 +19552,105 @@ imageHint: "Rožňava main square with the historic watchtower",
                         18.325337,
                         49.113988
                   ]
+            },
+            {
+                  "name": "Nosická priehrada",
+                  "text": "Rezervorul Nosická priehrada de lângă Púchov oferă vederi panoramice și posibilități de plimbări lungi pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "VN Ihrište",
+                  "text": "VN Ihrište din Púchov este un rezervor mai mic, potrivit pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.308345,
+                        49.158671
+                  ]
+            },
+            {
+                  "name": "Odhanka 1",
+                  "text": "Odhanka 1 din Púchov face parte dintr-un grup de lacuri, fiind ideală pentru scurte plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.326127,
+                        49.119031
+                  ]
+            },
+            {
+                  "name": "Odhanka 7",
+                  "text": "Odhanka 7 din Púchov este un lac liniștit, potrivit pentru relaxare departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        18.319996,
+                        49.115731
+                  ]
+            },
+            {
+                  "name": "Odhanka 5",
+                  "text": "Odhanka 5 din Púchov oferă o atmosferă pașnică pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.321918,
+                        49.116696
+                  ]
+            },
+            {
+                  "name": "Odhanka 3",
+                  "text": "Odhanka 3 din Púchov este un lac mai mic, ce invită la o pauză plăcută în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.324036,
+                        49.117829
+                  ]
+            },
+            {
+                  "name": "Odhanka 2",
+                  "text": "Odhanka 2 din Púchov este un lac natural, ideal pentru observații relaxante la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.325079,
+                        49.118431
+                  ]
+            },
+            {
+                  "name": "Odhanka 4",
+                  "text": "Odhanka 4 din Púchov oferă un mediu verde pentru cei care caută relaxare și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        18.32294,
+                        49.117247
+                  ]
+            },
+            {
+                  "name": "Odhanka 9",
+                  "text": "Odhanka 9 din Púchov este un luciu de apă liniștit care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.317643,
+                        49.114854
+                  ]
+            },
+            {
+                  "name": "Odhanka 8",
+                  "text": "Odhanka 8 din Púchov este un loc liniștit pentru mici excursii și bucuria naturii pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        18.318716,
+                        49.115316
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Kúpeľné jazierko din Púchov este un mic lac balnear, ideal pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
             }
       ],
       "en": [
@@ -15531,6 +19734,105 @@ imageHint: "Rožňava main square with the historic watchtower",
                         18.325337,
                         49.113988
                   ]
+            },
+            {
+                  "name": "Nosická priehrada",
+                  "text": "The Nosická priehrada reservoir near Púchov offers wide views and opportunities for long shoreline walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.401761,
+                        49.139674
+                  ]
+            },
+            {
+                  "name": "VN Ihrište",
+                  "text": "VN Ihrište in Púchov is a smaller reservoir suitable for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.308345,
+                        49.158671
+                  ]
+            },
+            {
+                  "name": "Odhanka 1",
+                  "text": "Odhanka 1 in Púchov is part of a group of lakes, ideal for short walks in green areas.",
+                  "category": "natural",
+                  "coords": [
+                        18.326127,
+                        49.119031
+                  ]
+            },
+            {
+                  "name": "Odhanka 7",
+                  "text": "Odhanka 7 in Púchov is a quiet lake suitable for relaxation away from the crowds.",
+                  "category": "natural",
+                  "coords": [
+                        18.319996,
+                        49.115731
+                  ]
+            },
+            {
+                  "name": "Odhanka 5",
+                  "text": "Odhanka 5 in Púchov offers a peaceful atmosphere for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.321918,
+                        49.116696
+                  ]
+            },
+            {
+                  "name": "Odhanka 3",
+                  "text": "Odhanka 3 in Púchov is a smaller lake that invites visitors to a pleasant outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        18.324036,
+                        49.117829
+                  ]
+            },
+            {
+                  "name": "Odhanka 2",
+                  "text": "Odhanka 2 in Púchov is a natural lake, ideal for relaxing observations by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.325079,
+                        49.118431
+                  ]
+            },
+            {
+                  "name": "Odhanka 4",
+                  "text": "Odhanka 4 in Púchov provides a green setting for those seeking relaxation and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        18.32294,
+                        49.117247
+                  ]
+            },
+            {
+                  "name": "Odhanka 9",
+                  "text": "Odhanka 9 in Púchov is a quiet body of water that invites lingering in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.317643,
+                        49.114854
+                  ]
+            },
+            {
+                  "name": "Odhanka 8",
+                  "text": "Odhanka 8 in Púchov is a calm spot for small outings and enjoying nature by the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        18.318716,
+                        49.115316
+                  ]
+            },
+            {
+                  "name": "Kúpeľné jazierko",
+                  "text": "Kúpeľné jazierko in Púchov is a small spa lake ideal for peaceful strolls.",
+                  "category": "natural",
+                  "coords": [
+                        18.373295,
+                        49.130812
+                  ]
             }
       ]
 },
@@ -15607,6 +19909,33 @@ imageHint: "Púchov town square with modern administrative buildings",
                         18.760777,
                         48.728868
                   ]
+            },
+            {
+                  "name": "Čertove jazierko",
+                  "text": "Ein kleiner See bei Handlová, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.757732,
+                        48.686578
+                  ]
+            },
+            {
+                  "name": "Malé jazero",
+                  "text": "Ein ruhiges Gewässer in Handlová, das sich gut für eine kurze Auszeit im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.770877,
+                        48.676418
+                  ]
+            },
+            {
+                  "name": "Lehotske oko",
+                  "text": "Ein interessanter See in der Umgebung von Handlová, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.746668,
+                        48.689643
+                  ]
             }
       ],
       "hu": [
@@ -15635,6 +19964,33 @@ imageHint: "Púchov town square with modern administrative buildings",
                   "coords": [
                         18.760777,
                         48.728868
+                  ]
+            },
+            {
+                  "name": "Čertove jazierko",
+                  "text": "Nyitrabánya melletti kis tó, ideális sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.757732,
+                        48.686578
+                  ]
+            },
+            {
+                  "name": "Malé jazero",
+                  "text": "Nyitrabányai csendes állóvíz, amely alkalmas egy rövid zöldövezeti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        18.770877,
+                        48.676418
+                  ]
+            },
+            {
+                  "name": "Lehotske oko",
+                  "text": "Érdekes tó Nyitrabánya környékén, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        18.746668,
+                        48.689643
                   ]
             }
       ],
@@ -15665,6 +20021,33 @@ imageHint: "Púchov town square with modern administrative buildings",
                         18.760777,
                         48.728868
                   ]
+            },
+            {
+                  "name": "Čertove jazierko",
+                  "text": "Un lac mic lângă Handlová, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.757732,
+                        48.686578
+                  ]
+            },
+            {
+                  "name": "Malé jazero",
+                  "text": "Un ochi de apă liniștit în Handlová, potrivit pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.770877,
+                        48.676418
+                  ]
+            },
+            {
+                  "name": "Lehotske oko",
+                  "text": "Un lac interesant în împrejurimile localității Handlová, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.746668,
+                        48.689643
+                  ]
             }
       ],
       "en": [
@@ -15693,6 +20076,33 @@ imageHint: "Púchov town square with modern administrative buildings",
                   "coords": [
                         18.760777,
                         48.728868
+                  ]
+            },
+            {
+                  "name": "Čertove jazierko",
+                  "text": "A small lake near Handlová, ideal for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.757732,
+                        48.686578
+                  ]
+            },
+            {
+                  "name": "Malé jazero",
+                  "text": "A peaceful body of water in Handlová, suitable for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.770877,
+                        48.676418
+                  ]
+            },
+            {
+                  "name": "Lehotske oko",
+                  "text": "An interesting lake in the surroundings of Handlová, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.746668,
+                        48.689643
                   ]
             }
       ]
@@ -15788,6 +20198,51 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                         17.020911,
                         48.437366
                   ]
+            },
+            {
+                  "name": "Pieskovňa",
+                  "text": "Pieskovňa ist ein See in Malacky, der für sein klares Wasser und seine angenehme Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.003017,
+                        48.365566
+                  ]
+            },
+            {
+                  "name": "Bahná",
+                  "text": "Bahná bietet eine natürliche Seeumgebung in Malacky für ruhige Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        17.059665,
+                        48.46731
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Jakubov I",
+                  "text": "Štrkovisko Jakubov I ist ein lokales Gewässer im Bezirk Malacky, das sich zur Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.913927,
+                        48.407932
+                  ]
+            },
+            {
+                  "name": "Rudava",
+                  "text": "Rudava ist ein beliebter See in der Gegend von Malacky, ideal für schöne Ausblicke und Zeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        16.953827,
+                        48.494042
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "Dieser Minigolfplatz am Freibad in Malacky ist eine tolle Aktivität für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.0304,
+                        48.435119
+                  ]
             }
       ],
       "hu": [
@@ -15834,6 +20289,51 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                   "coords": [
                         17.020911,
                         48.437366
+                  ]
+            },
+            {
+                  "name": "Pieskovňa",
+                  "text": "A Pieskovňa egy tó Malacky városában, amely tiszta vizéről és kellemes tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.003017,
+                        48.365566
+                  ]
+            },
+            {
+                  "name": "Bahná",
+                  "text": "A Bahná természetes tóparti környezetet kínál Malacky-ban a csendes sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.059665,
+                        48.46731
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Jakubov I",
+                  "text": "A Štrkovisko Jakubov I egy helyi tó Malacky környékén, amely alkalmas a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.913927,
+                        48.407932
+                  ]
+            },
+            {
+                  "name": "Rudava",
+                  "text": "A Rudava egy népszerű tó Malacky környékén, amely tökéletes a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.953827,
+                        48.494042
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "Ez a Malacky-i strand mellett található minigolfpálya remek családi program.",
+                  "category": "family",
+                  "coords": [
+                        17.0304,
+                        48.435119
                   ]
             }
       ],
@@ -15882,6 +20382,51 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                         17.020911,
                         48.437366
                   ]
+            },
+            {
+                  "name": "Pieskovňa",
+                  "text": "Pieskovňa este un lac din Malacky cunoscut pentru apa sa limpede și peisajul plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        17.003017,
+                        48.365566
+                  ]
+            },
+            {
+                  "name": "Bahná",
+                  "text": "Bahná oferă un mediu natural pe malul lacului în Malacky pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.059665,
+                        48.46731
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Jakubov I",
+                  "text": "Štrkovisko Jakubov I este un corp de apă local din districtul Malacky, potrivit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.913927,
+                        48.407932
+                  ]
+            },
+            {
+                  "name": "Rudava",
+                  "text": "Rudava este un lac popular din zona Malacky, perfect pentru timp petrecut în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.953827,
+                        48.494042
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "Acest teren de minigolf situat lângă piscină în Malacky este o activitate excelentă pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        17.0304,
+                        48.435119
+                  ]
             }
       ],
       "en": [
@@ -15928,6 +20473,51 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                   "coords": [
                         17.020911,
                         48.437366
+                  ]
+            },
+            {
+                  "name": "Pieskovňa",
+                  "text": "Pieskovňa is a lake in Malacky known for its clear water and pleasant scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.003017,
+                        48.365566
+                  ]
+            },
+            {
+                  "name": "Bahná",
+                  "text": "Bahná offers a natural lakeside environment in Malacky for quiet walks and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.059665,
+                        48.46731
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Jakubov I",
+                  "text": "Štrkovisko Jakubov I is a local water body in the Malacky district suitable for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.913927,
+                        48.407932
+                  ]
+            },
+            {
+                  "name": "Rudava",
+                  "text": "Rudava is a popular lake in the Malacky area, perfect for scenic views and outdoor time.",
+                  "category": "natural",
+                  "coords": [
+                        16.953827,
+                        48.494042
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "This miniature golf course located by the swimming pool in Malacky is a great family activity.",
+                  "category": "family",
+                  "coords": [
+                        17.0304,
+                        48.435119
                   ]
             }
       ]
@@ -16059,6 +20649,24 @@ imageHint: "Pálffy Mansion and park in Malacky",
                         17.752853,
                         48.271877
                   ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "Das Vodné dielo Kráľová bei Sereď ist ein großes Stauseesystem, ideal für Freizeitaktivitäten und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Der Spielplatz Žihadielko in Sereď bietet sichere und unterhaltsame Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        17.734942,
+                        48.286057
+                  ]
             }
       ],
       "hu": [
@@ -16141,6 +20749,24 @@ imageHint: "Pálffy Mansion and park in Malacky",
                   "coords": [
                         17.752853,
                         48.271877
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "A Szered melletti Vodné dielo Kráľová egy nagy víztározó rendszer, amely ideális szabadidős tevékenységekhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A szeredi Žihadielko játszótér biztonságos és szórakoztató játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.734942,
+                        48.286057
                   ]
             }
       ],
@@ -16225,6 +20851,24 @@ imageHint: "Pálffy Mansion and park in Malacky",
                         17.752853,
                         48.271877
                   ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "Rezervorul Vodná dielo Kráľová de lângă Sereď este un sistem vast de lacuri, ideal pentru activități recreative și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Locul de joacă Žihadielko din Sereď oferă posibilități sigure și distractive de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.734942,
+                        48.286057
+                  ]
             }
       ],
       "en": [
@@ -16307,6 +20951,24 @@ imageHint: "Pálffy Mansion and park in Malacky",
                   "coords": [
                         17.752853,
                         48.271877
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "The Vodné dielo Kráľová near Sereď is a large reservoir system ideal for recreational activities and walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "The Žihadielko playground in Sereď offers safe and entertaining play options for children.",
+                  "category": "family",
+                  "coords": [
+                        17.734942,
+                        48.286057
                   ]
             }
       ]
@@ -16908,6 +21570,51 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
                         17.740588,
                         48.196565
                   ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "Das Vodné dielo Kráľová bei Galanta ist eine bedeutende Talsperre mit vielen Möglichkeiten für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko \"Revolučná\" - centrálne",
+                  "text": "Das zentrale Detské ihrisko \"Revolučná\" in Galanta ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        17.727685,
+                        48.191946
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Der Spielplatz Žihadielko in Galanta lädt Kinder zu aktivem Spiel in einer freundlichen Umgebung ein.",
+                  "category": "family",
+                  "coords": [
+                        17.733046,
+                        48.193004
+                  ]
+            },
+            {
+                  "name": "Za Depresom",
+                  "text": "Der Spielplatz Za Depresom in Galanta bietet Abwechslung und Spaß für einen Familiennachmittag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        17.733346,
+                        48.19412
+                  ]
+            },
+            {
+                  "name": "\"JAS\" - centrálne",
+                  "text": "Der zentrale Spielplatz \"JAS\" in Galanta ist ein modern ausgestatteter Bereich für Kinder jeder Altersstufe.",
+                  "category": "family",
+                  "coords": [
+                        17.723761,
+                        48.18941
+                  ]
             }
       ],
       "hu": [
@@ -16999,6 +21706,51 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
                   "coords": [
                         17.740588,
                         48.196565
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "A Galánta melletti Vodné dielo Kráľová egy jelentős víztározó, amely számos lehetőséget kínál a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko \"Revolučná\" - centrálne",
+                  "text": "A galántai központi „Revolučná” játszótér a gyermekes családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        17.727685,
+                        48.191946
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A galántai Žihadielko játszótér aktív játékra hívja a gyerekeket egy barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        17.733046,
+                        48.193004
+                  ]
+            },
+            {
+                  "name": "Za Depresom",
+                  "text": "A galántai Za Depresom játszótér változatosságot és szórakozást nyújt egy családi délutánhoz a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        17.733346,
+                        48.19412
+                  ]
+            },
+            {
+                  "name": "\"JAS\" - centrálne",
+                  "text": "A galántai központi „JAS” játszótér egy modern felszerelésű terület minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        17.723761,
+                        48.18941
                   ]
             }
       ],
@@ -17092,6 +21844,51 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
                         17.740588,
                         48.196565
                   ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "Rezervorul Vodná dielo Kráľová de lângă Galanta este un baraj important cu multe oportunități de observare a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko \"Revolučná\" - centrálne",
+                  "text": "Locul de joacă central „Revolučná” din Galanta este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        17.727685,
+                        48.191946
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Locul de joacă Žihadielko din Galanta invită copiii la joacă activă într-un mediu prietenos.",
+                  "category": "family",
+                  "coords": [
+                        17.733046,
+                        48.193004
+                  ]
+            },
+            {
+                  "name": "Za Depresom",
+                  "text": "Locul de joacă Za Depresom din Galanta oferă diversitate și distracție pentru o după-amiază în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.733346,
+                        48.19412
+                  ]
+            },
+            {
+                  "name": "\"JAS\" - centrálne",
+                  "text": "Locul de joacă central „JAS” din Galanta este o zonă modern echipat pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        17.723761,
+                        48.18941
+                  ]
             }
       ],
       "en": [
@@ -17184,6 +21981,51 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
                         17.740588,
                         48.196565
                   ]
+            },
+            {
+                  "name": "Vodné dielo Kráľová",
+                  "text": "The Vodná dielo Kráľová near Galanta is a significant dam offering many opportunities for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        17.786429,
+                        48.240346
+                  ]
+            },
+            {
+                  "name": "Detské ihrisko \"Revolučná\" - centrálne",
+                  "text": "The central \"Revolučná\" playground in Galanta is a popular meeting spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        17.727685,
+                        48.191946
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "The Žihadielko playground in Galanta invites children to active play in a friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        17.733046,
+                        48.193004
+                  ]
+            },
+            {
+                  "name": "Za Depresom",
+                  "text": "The Za Depresom playground in Galanta offers variety and fun for a family afternoon outdoors.",
+                  "category": "family",
+                  "coords": [
+                        17.733346,
+                        48.19412
+                  ]
+            },
+            {
+                  "name": "\"JAS\" - centrálne",
+                  "text": "The central \"JAS\" playground in Galanta is a modernly equipped area for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        17.723761,
+                        48.18941
+                  ]
             }
       ]
 },
@@ -17232,7 +22074,268 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
     },
     image: "/poi-images/slovakia-galanta-cities-v2.webp",
 },  {
-    id: "slovakia-senec-cities-v2",
+    id: "slovakia-senec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veľkobielske jazero \"Šutrovka\"",
+                  "text": "Ein bekannter See bei Senec, der Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.35527,
+                        48.207709
+                  ]
+            },
+            {
+                  "name": "Čiernovodské jazero",
+                  "text": "Ein malerischer See in der Nähe von Senec, ideal für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        17.430559,
+                        48.21139
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Ein Stausee bei Senec, der zu entspannten Stunden in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Hať Nová Dedinka",
+                  "text": "Ein Gewässer bei Senec, das sich gut für einen ruhigen Spaziergang am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.328944,
+                        48.172981
+                  ]
+            },
+            {
+                  "name": "Bikarét",
+                  "text": "Ein See in der Region Senec, der eine ruhige Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.448765,
+                        48.238
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá",
+                  "text": "Die Sonnenseen bei Senec sind ein beliebtes Ziel für Freizeitaktivitäten und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.422569,
+                        48.218662
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Ein moderner Themenspielplatz in Senec, der viel Platz zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.399683,
+                        48.222093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veľkobielske jazero \"Šutrovka\"",
+                  "text": "Szenc melletti ismert tó, amely vízparti kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.35527,
+                        48.207709
+                  ]
+            },
+            {
+                  "name": "Mély-tó",
+                  "text": "Szenc közeli festői tó, ideális a természet kedvelőinek és sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.430559,
+                        48.21139
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Szenc melletti víztározó, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Hať Nová Dedinka",
+                  "text": "Szenc melletti állóvíz, amely alkalmas egy csendes parti sétára.",
+                  "category": "natural",
+                  "coords": [
+                        17.328944,
+                        48.172981
+                  ]
+            },
+            {
+                  "name": "Bikarét",
+                  "text": "Tó a szenci régióban, amely csendes környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.448765,
+                        48.238
+                  ]
+            },
+            {
+                  "name": "Napfényes-tavak",
+                  "text": "A szenci Napfényes-tavak népszerű célpont a szabadidős tevékenységekhez és a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.422569,
+                        48.218662
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Modern tematikus játszótér Szencen, amely tágas teret kínál a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        17.399683,
+                        48.222093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veľkobielske jazero \"Šutrovka\"",
+                  "text": "Un lac cunoscut lângă Senec, oferind posibilități de recreere la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.35527,
+                        48.207709
+                  ]
+            },
+            {
+                  "name": "Čiernovodské jazero",
+                  "text": "Un lac pitoresc lângă Senec, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.430559,
+                        48.21139
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Un rezervuar de apă lângă Senec, care invită la ore de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Hať Nová Dedinka",
+                  "text": "Un curs de apă lângă Senec, potrivit pentru o plimbare liniștită pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.328944,
+                        48.172981
+                  ]
+            },
+            {
+                  "name": "Bikarét",
+                  "text": "Un lac în regiunea Senec, oferind un mediu liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.448765,
+                        48.238
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá",
+                  "text": "Lacurile însorite de lângă Senec sunt o destinație populară pentru activități de agrement și relaxare la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.422569,
+                        48.218662
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Un loc de joacă tematic modern în Senec, oferind mult spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        17.399683,
+                        48.222093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veľkobielske jazero \"Šutrovka\"",
+                  "text": "A well-known lake near Senec, offering opportunities for waterfront recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.35527,
+                        48.207709
+                  ]
+            },
+            {
+                  "name": "Čiernovodské jazero",
+                  "text": "A picturesque lake near Senec, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.430559,
+                        48.21139
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "A water reservoir near Senec, inviting for relaxed hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Hať Nová Dedinka",
+                  "text": "A body of water near Senec, suitable for a quiet walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.328944,
+                        48.172981
+                  ]
+            },
+            {
+                  "name": "Bikarét",
+                  "text": "A lake in the Senec region, providing a peaceful environment for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.448765,
+                        48.238
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá",
+                  "text": "The Sun Lakes near Senec are a popular destination for leisure activities and waterfront relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.422569,
+                        48.218662
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A modern themed playground in Senec, offering plenty of space for play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        17.399683,
+                        48.222093
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Senec", hu: "Szenc", ro: "Senec", en: "Senec"},
@@ -17513,7 +22616,268 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
     },
     image: "/poi-images/slovakia-detva-cities-v2.webp",
 },  {
-    id: "slovakia-skalica-cities-v2",
+    id: "slovakia-skalica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Radošovce",
+                  "text": "Die Vodná nádrž Radošovce bei Skalica ist ein ruhiger Stausee, ideal für Entspannung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.283259,
+                        48.786641
+                  ]
+            },
+            {
+                  "name": "vodní nádrž Mlýnky",
+                  "text": "Die Vodní nádrž Mlýnky bei Skalica bietet malerische Wege am Wasser für gemütliche Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        17.308352,
+                        48.843226
+                  ]
+            },
+            {
+                  "name": "Roztrhánky",
+                  "text": "Roztrhánky in Skalica ist ein naturnaher See, der sich gut für kleine Entdeckungstouren im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.187209,
+                        48.893121
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "Die Vodná nádrž Prietržka bei Skalica ist ein ruhiges Gewässer, ideal für erholsame Stunden am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "Das Altwasser Mŕtve rameno Žlutnica in Skalica bietet eine einzigartige Flusslandschaft für Naturbeobachter.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "Mŕtve rameno Lipa in Skalica ist ein friedlicher Altarm, der zu entspannten Spaziergängen im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Mŕtve rameno Ivánek in Skalica ist ein ruhiges Altwasser, ideal für Erholung und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Radošovce",
+                  "text": "A Szakolca közelében található Vodná nádrž Radošovce egy csendes víztározó, ideális a természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.283259,
+                        48.786641
+                  ]
+            },
+            {
+                  "name": "vodní nádrž Mlýnky",
+                  "text": "A Szakolca melletti Mlýnky víztározó festői vízparti utakat kínál a kellemes kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.308352,
+                        48.843226
+                  ]
+            },
+            {
+                  "name": "Roztrhánky",
+                  "text": "A szakolcai Roztrhánky egy természetközeli tó, amely alkalmas a zöldövezeti felfedezőutakra.",
+                  "category": "natural",
+                  "coords": [
+                        17.187209,
+                        48.893121
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "A Szakolca melletti Vodná nádrž Prietržka egy csendes állóvíz, amely ideális a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "A szakolcai Mŕtve rameno Žlutnica holtág egyedülálló folyóparti tájat kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "A szakolcai Mŕtve rameno Lipa egy békés holtág, amely pihentető sétákra hív a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "A szakolcai Mŕtve rameno Ivánek egy csendes holtág, amely kiválóan alkalmas kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Radošovce",
+                  "text": "Rezervorul Vodná nádrž Radošovce de lângă Skalica este un lac liniștit, ideal pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.283259,
+                        48.786641
+                  ]
+            },
+            {
+                  "name": "vodní nádrž Mlýnky",
+                  "text": "Rezervorul Mlýnky de lângă Skalica oferă trasee pitorești pe malul apei pentru drumeții plăcute.",
+                  "category": "natural",
+                  "coords": [
+                        17.308352,
+                        48.843226
+                  ]
+            },
+            {
+                  "name": "Roztrhánky",
+                  "text": "Roztrhánky din Skalica este un lac natural, potrivit pentru mici tururi de explorare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.187209,
+                        48.893121
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "Rezervorul Vodná nádrž Prietržka de lângă Skalica este un lac liniștit, ideal pentru ore relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "Brațul mort Mŕtve rameno Žlutnica din Skalica oferă un peisaj fluvial unic pentru observatorii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "Brațul mort Mŕtve rameno Lipa din Skalica este un loc liniștit care invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Brațul mort Mŕtve rameno Ivánek din Skalica este un curs de apă liniștit, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Radošovce",
+                  "text": "The Vodná nádrž Radošovce reservoir near Skalica is a peaceful lake, ideal for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.283259,
+                        48.786641
+                  ]
+            },
+            {
+                  "name": "vodní nádrž Mlýnky",
+                  "text": "The Mlýnky reservoir near Skalica offers scenic paths along the water for pleasant walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.308352,
+                        48.843226
+                  ]
+            },
+            {
+                  "name": "Roztrhánky",
+                  "text": "Roztrhánky in Skalica is a natural lake suitable for small exploration trips in green areas.",
+                  "category": "natural",
+                  "coords": [
+                        17.187209,
+                        48.893121
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "The Vodná nádrž Prietržka reservoir near Skalica is a calm body of water, ideal for restful hours on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "The Mŕtve rameno Žlutnica oxbow lake in Skalica offers a unique river landscape for nature observers.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "The Mŕtve rameno Lipa oxbow lake in Skalica is a peaceful spot that invites relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "The Mŕtve rameno Ivánek oxbow lake in Skalica is a quiet body of water, ideal for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Skalica", hu: "Szakolca", ro: "Skalica", en: "Skalica"},
@@ -17641,6 +23005,15 @@ imageHint: "Romanesque Rotunda of St. George in Skalica",
                         20.591471,
                         49.023426
                   ]
+            },
+            {
+                  "name": "Levočská priehrada",
+                  "text": "Ein Stausee bei Levoča, der ideal für Spaziergänge in einer reizvollen Umgebung ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.583399,
+                        49.051477
+                  ]
             }
       ],
       "hu": [
@@ -17723,6 +23096,15 @@ imageHint: "Romanesque Rotunda of St. George in Skalica",
                   "coords": [
                         20.591471,
                         49.023426
+                  ]
+            },
+            {
+                  "name": "Levočská priehrada",
+                  "text": "Lőcse melletti víztározó, amely ideális sétákhoz a hangulatos környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.583399,
+                        49.051477
                   ]
             }
       ],
@@ -17807,6 +23189,15 @@ imageHint: "Romanesque Rotunda of St. George in Skalica",
                         20.591471,
                         49.023426
                   ]
+            },
+            {
+                  "name": "Levočská priehrada",
+                  "text": "Un rezervuar de apă lângă Levoča, ideal pentru plimbări într-un cadru încântător.",
+                  "category": "natural",
+                  "coords": [
+                        20.583399,
+                        49.051477
+                  ]
             }
       ],
       "en": [
@@ -17889,6 +23280,15 @@ imageHint: "Romanesque Rotunda of St. George in Skalica",
                   "coords": [
                         20.591471,
                         49.023426
+                  ]
+            },
+            {
+                  "name": "Levočská priehrada",
+                  "text": "A water reservoir near Levoča, ideal for walks in a charming environment.",
+                  "category": "natural",
+                  "coords": [
+                        20.583399,
+                        49.051477
                   ]
             }
       ]
@@ -18029,6 +23429,33 @@ imageHint: "Levoča main square with the historic town hall and church",
                         21.097045,
                         49.102687
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Jakubovany",
+                  "text": "Vodná nádrž Jakubovany ist ein friedlicher Stausee in Sabinov, ideal für Spaziergänge am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        21.128719,
+                        49.121336
+                  ]
+            },
+            {
+                  "name": "Michaľanské jazerá",
+                  "text": "Michaľanské jazerá sind lokale Seen in der Gegend von Sabinov mit einer ruhigen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        21.111158,
+                        49.076267
+                  ]
+            },
+            {
+                  "name": "Žabka",
+                  "text": "Žabka ist ein freundlicher Spielplatz in Sabinov, der verschiedene Spielgeräte für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.062037,
+                        49.091962
+                  ]
             }
       ],
       "hu": [
@@ -18120,6 +23547,33 @@ imageHint: "Levoča main square with the historic town hall and church",
                   "coords": [
                         21.097045,
                         49.102687
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Jakubovany",
+                  "text": "A Jakubovany víztározó Sabinov mellett egy nyugodt tó, amely ideális a tóparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.128719,
+                        49.121336
+                  ]
+            },
+            {
+                  "name": "Michaľanské jazerá",
+                  "text": "A Michaľanské jazerá helyi tavak Sabinov környékén, amelyek nyugodt légkört kínálnak.",
+                  "category": "natural",
+                  "coords": [
+                        21.111158,
+                        49.076267
+                  ]
+            },
+            {
+                  "name": "Žabka",
+                  "text": "A Žabka egy barátságos játszótér Sabinovban, amely különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.062037,
+                        49.091962
                   ]
             }
       ],
@@ -18213,6 +23667,33 @@ imageHint: "Levoča main square with the historic town hall and church",
                         21.097045,
                         49.102687
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Jakubovany",
+                  "text": "Vodná nádrž Jakubovany este un lac de acumulare liniștit în Sabinov, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.128719,
+                        49.121336
+                  ]
+            },
+            {
+                  "name": "Michaľanské jazerá",
+                  "text": "Michaľanské jazerá sunt lacuri locale din zona Sabinov care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.111158,
+                        49.076267
+                  ]
+            },
+            {
+                  "name": "Žabka",
+                  "text": "Žabka este un loc de joacă prietenos în Sabinov, care oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.062037,
+                        49.091962
+                  ]
             }
       ],
       "en": [
@@ -18304,6 +23785,33 @@ imageHint: "Levoča main square with the historic town hall and church",
                   "coords": [
                         21.097045,
                         49.102687
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Jakubovany",
+                  "text": "Vodná nádrž Jakubovany is a peaceful reservoir in Sabinov ideal for lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.128719,
+                        49.121336
+                  ]
+            },
+            {
+                  "name": "Michaľanské jazerá",
+                  "text": "Michaľanské jazerá are local lakes in the Sabinov area offering a calm natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.111158,
+                        49.076267
+                  ]
+            },
+            {
+                  "name": "Žabka",
+                  "text": "Žabka is a friendly playground in Sabinov providing various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        21.062037,
+                        49.091962
                   ]
             }
       ]
@@ -18598,6 +24106,24 @@ imageHint: "Veľký Krtíš town center and surroundings",
                         17.566582,
                         48.753415
                   ]
+            },
+            {
+                  "name": "Dubník II",
+                  "text": "Ein See bei Myjava, der zur Entspannung und zum Aufenthalt im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.677843,
+                        48.766313
+                  ]
+            },
+            {
+                  "name": "Protipožiarna nádrž",
+                  "text": "Ein kleines Gewässer bei Myjava, das eine ruhige Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.494819,
+                        48.733292
+                  ]
             }
       ],
       "hu": [
@@ -18644,6 +24170,24 @@ imageHint: "Veľký Krtíš town center and surroundings",
                   "coords": [
                         17.566582,
                         48.753415
+                  ]
+            },
+            {
+                  "name": "Dubník II",
+                  "text": "Miava melletti tó, amely pihenésre és szabadtéri időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        17.677843,
+                        48.766313
+                  ]
+            },
+            {
+                  "name": "Protipožiarna nádrž",
+                  "text": "Miava melletti kis állóvíz, amely csendes erdei környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.494819,
+                        48.733292
                   ]
             }
       ],
@@ -18692,6 +24236,24 @@ imageHint: "Veľký Krtíš town center and surroundings",
                         17.566582,
                         48.753415
                   ]
+            },
+            {
+                  "name": "Dubník II",
+                  "text": "Un lac lângă Myjava, care invită la relaxare și petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.677843,
+                        48.766313
+                  ]
+            },
+            {
+                  "name": "Protipožiarna nádrž",
+                  "text": "Un mic ochi de apă lângă Myjava, oferind o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.494819,
+                        48.733292
+                  ]
             }
       ],
       "en": [
@@ -18738,6 +24300,24 @@ imageHint: "Veľký Krtíš town center and surroundings",
                   "coords": [
                         17.566582,
                         48.753415
+                  ]
+            },
+            {
+                  "name": "Dubník II",
+                  "text": "A lake near Myjava, inviting for relaxation and spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        17.677843,
+                        48.766313
+                  ]
+            },
+            {
+                  "name": "Protipožiarna nádrž",
+                  "text": "A small body of water near Myjava, offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.494819,
+                        48.733292
                   ]
             }
       ]
@@ -18842,6 +24422,42 @@ imageHint: "Folklore festival in Myjava with traditional music",
                         20.11391,
                         48.684341
                   ]
+            },
+            {
+                  "name": "vodná nádrž Miková",
+                  "text": "Vodná nádrž Miková ist ein ruhiger Stausee in Revuca, der sich zur Naturbeobachtung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.16771,
+                        48.664063
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Der Spielplatz Žihadielko in Revuca bietet einen modernen und sicheren Raum für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.116971,
+                        48.681915
+                  ]
+            },
+            {
+                  "name": "Detské dopravné ihrisko",
+                  "text": "Dieser Verkehrsübungsplatz in Revuca ist ein lehrreicher Ort für Kinder, um Sicherheitsregeln zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        20.121707,
+                        48.689241
+                  ]
+            },
+            {
+                  "name": "Minigolf - Mokrá Lúka",
+                  "text": "Dieser Minigolfplatz in Mokrá Lúka bei Revuca bietet Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        20.14613,
+                        48.672919
+                  ]
             }
       ],
       "hu": [
@@ -18897,6 +24513,42 @@ imageHint: "Folklore festival in Myjava with traditional music",
                   "coords": [
                         20.11391,
                         48.684341
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Miková",
+                  "text": "A Miková víztározó Revuca városában egy csendes tó, amely alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        20.16771,
+                        48.664063
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "A Revuca-i Žihadielko játszótér modern és biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.116971,
+                        48.681915
+                  ]
+            },
+            {
+                  "name": "Detské dopravné ihrisko",
+                  "text": "Ez a Revuca-i közlekedési játszótér oktatási helyszín a gyerekeknek a biztonsági szabályok elsajátítására.",
+                  "category": "family",
+                  "coords": [
+                        20.121707,
+                        48.689241
+                  ]
+            },
+            {
+                  "name": "Minigolf - Mokrá Lúka",
+                  "text": "Ez a Mokrá Lúka melletti minigolfpálya szabadtéri szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        20.14613,
+                        48.672919
                   ]
             }
       ],
@@ -18954,6 +24606,42 @@ imageHint: "Folklore festival in Myjava with traditional music",
                         20.11391,
                         48.684341
                   ]
+            },
+            {
+                  "name": "vodná nádrž Miková",
+                  "text": "Vodná nádrž Miková este un lac de acumulare liniștit în Revuca, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        20.16771,
+                        48.664063
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Locul de joacă Žihadielko din Revuca oferă un spațiu modern și sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.116971,
+                        48.681915
+                  ]
+            },
+            {
+                  "name": "Detské dopravné ihrisko",
+                  "text": "Acest loc de joacă rutier din Revuca este un punct educațional pentru ca copiii să învețe regulile.",
+                  "category": "family",
+                  "coords": [
+                        20.121707,
+                        48.689241
+                  ]
+            },
+            {
+                  "name": "Minigolf - Mokrá Lúka",
+                  "text": "Acest teren de minigolf din Mokrá Lúka oferă divertisment în aer liber pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        20.14613,
+                        48.672919
+                  ]
             }
       ],
       "en": [
@@ -19009,6 +24697,42 @@ imageHint: "Folklore festival in Myjava with traditional music",
                   "coords": [
                         20.11391,
                         48.684341
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Miková",
+                  "text": "Vodná nádrž Miková is a quiet reservoir in Revuca suitable for walking and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        20.16771,
+                        48.664063
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "The Žihadielko playground in Revuca offers a modern and safe space for kids to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        20.116971,
+                        48.681915
+                  ]
+            },
+            {
+                  "name": "Detské dopravné ihrisko",
+                  "text": "This traffic playground in Revuca is an educational and fun spot for children to learn safety rules.",
+                  "category": "family",
+                  "coords": [
+                        20.121707,
+                        48.689241
+                  ]
+            },
+            {
+                  "name": "Minigolf - Mokrá Lúka",
+                  "text": "This minigolf course in Mokrá Lúka near Revuca provides outdoor entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        20.14613,
+                        48.672919
                   ]
             }
       ]
@@ -19140,6 +24864,114 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                         17.34992,
                         48.033531
                   ]
+            },
+            {
+                  "name": "Heléna-tó",
+                  "text": "Der See Heléna-tó in Šamorín ist ein malerischer Ort für ruhige Momente und Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        17.288979,
+                        47.990995
+                  ]
+            },
+            {
+                  "name": "Medúzák tava",
+                  "text": "Der See Medúzák tava in Šamorín bietet eine angenehme natürliche Umgebung für die Freizeitgestaltung.",
+                  "category": "natural",
+                  "coords": [
+                        17.290925,
+                        47.990285
+                  ]
+            },
+            {
+                  "name": "Tilosi-tavak",
+                  "text": "Die Tilosi-tavak in Šamorín sind eine Gruppe kleiner Seen, ideal für kurze Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.237734,
+                        48.006442
+                  ]
+            },
+            {
+                  "name": "Császárligeti-tó",
+                  "text": "Der Császárligeti-tó in Šamorín ist ein idyllischer See, der zur Erholung in grüner Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.240175,
+                        48.00821
+                  ]
+            },
+            {
+                  "name": "Alsó Homoki-tó",
+                  "text": "Der Alsó Homoki-tó in Šamorín ist ein ruhiger See, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.232946,
+                        48.008592
+                  ]
+            },
+            {
+                  "name": "Szigetparti-tó",
+                  "text": "Der Szigetparti-tó in Šamorín liegt in einer reizvollen Landschaft und bietet Ruhe am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.249203,
+                        48.00033
+                  ]
+            },
+            {
+                  "name": "Közép Homoki-tó",
+                  "text": "Der See Közép Homoki-tó in Šamorín ist ein schöner Ort für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        17.230563,
+                        48.006732
+                  ]
+            },
+            {
+                  "name": "Zdrž Hrušov",
+                  "text": "Das Hrušov Reservoir bei Šamorín ist eine große Wasserfläche, ideal für lange Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        17.270245,
+                        48.028689
+                  ]
+            },
+            {
+                  "name": "Ördögszigeti-tavak",
+                  "text": "Die Ördögszigeti-tavak in Šamorín bieten eine abwechslungsreiche Seenlandschaft für Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        17.267585,
+                        47.987482
+                  ]
+            },
+            {
+                  "name": "ihrisko v Šámote",
+                  "text": "Der Spielplatz in Šámot (Šamorín) bietet Kindern viel Platz für Bewegung und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        17.34753,
+                        48.032226
+                  ]
+            },
+            {
+                  "name": "AdventureLand",
+                  "text": "AdventureLand in Šamorín ist ein großer Spielplatz with vielfältigen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        17.300906,
+                        48.014424
+                  ]
+            },
+            {
+                  "name": "Rodinka",
+                  "text": "Der Spielplatz Rodinka in Šamorín bietet moderne Klettergerüste und Rutschen für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        17.307133,
+                        48.025738
+                  ]
             }
       ],
       "hu": [
@@ -19222,6 +25054,114 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                   "coords": [
                         17.34992,
                         48.033531
+                  ]
+            },
+            {
+                  "name": "Heléna-tó",
+                  "text": "A somorjai Heléna-tó egy festői hely a csendes pillanatokhoz és a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.288979,
+                        47.990995
+                  ]
+            },
+            {
+                  "name": "Medúzák tava",
+                  "text": "A somorjai Medúzák tava kellemes természeti környezetet kínál a szabadidő eltöltéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.290925,
+                        47.990285
+                  ]
+            },
+            {
+                  "name": "Tilosi-tavak",
+                  "text": "A somorjai Tilosi-tavak kis tavak csoportja, amelyek ideálisak a rövid természetjáró kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.237734,
+                        48.006442
+                  ]
+            },
+            {
+                  "name": "Császárligeti-tó",
+                  "text": "A somorjai Császárligeti-tó egy idilli tó, amely zöld környezetben kínál pihenési lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        17.240175,
+                        48.00821
+                  ]
+            },
+            {
+                  "name": "Alsó Homoki-tó",
+                  "text": "A somorjai Alsó Homoki-tó egy csendes tó, amely kiválóan alkalmas a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.232946,
+                        48.008592
+                  ]
+            },
+            {
+                  "name": "Szigetparti-tó",
+                  "text": "A somorjai Szigetparti-tó bájos környezetben fekszik, és nyugalmat kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        17.249203,
+                        48.00033
+                  ]
+            },
+            {
+                  "name": "Közép Homoki-tó",
+                  "text": "A somorjai Közép Homoki-tó szép hely a természet megfigyelésére és a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.230563,
+                        48.006732
+                  ]
+            },
+            {
+                  "name": "Körtvélyesi víztározó",
+                  "text": "A somorjai Hrušov víztározó egy hatalmas vízfelület, amely ideális hosszú sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.270245,
+                        48.028689
+                  ]
+            },
+            {
+                  "name": "Ördögszigeti-tavak",
+                  "text": "A somorjai Ördögszigeti-tavak változatos tóvidéket kínálnak a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.267585,
+                        47.987482
+                  ]
+            },
+            {
+                  "name": "ihrisko v Šámote",
+                  "text": "A somorjai Šámot városrészben található játszótér tágas helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.34753,
+                        48.032226
+                  ]
+            },
+            {
+                  "name": "AdventureLand",
+                  "text": "A somorjai AdventureLand egy hatalmas játszótér, amely változatos attrakciókkal várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        17.300906,
+                        48.014424
+                  ]
+            },
+            {
+                  "name": "Rodinka",
+                  "text": "A somorjai Rodinka játszótér modern mászókákkal és csúszdákkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        17.307133,
+                        48.025738
                   ]
             }
       ],
@@ -19306,6 +25246,114 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                         17.34992,
                         48.033531
                   ]
+            },
+            {
+                  "name": "Heléna-tó",
+                  "text": "Lacul Heléna-tó din Šamorín este un loc pitoresc pentru momente de liniște și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.288979,
+                        47.990995
+                  ]
+            },
+            {
+                  "name": "Medúzák tava",
+                  "text": "Lacul Medúzák tava din Šamorín oferă un cadru natural plăcut pentru petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.290925,
+                        47.990285
+                  ]
+            },
+            {
+                  "name": "Tilosi-tavak",
+                  "text": "Tilosi-tavak din Šamorín sunt un grup de lacuri mici, ideale pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.237734,
+                        48.006442
+                  ]
+            },
+            {
+                  "name": "Császárligeti-tó",
+                  "text": "Császárligeti-tó din Šamorín este un lac idilic care invită la relaxare într-un cadru verde.",
+                  "category": "natural",
+                  "coords": [
+                        17.240175,
+                        48.00821
+                  ]
+            },
+            {
+                  "name": "Alsó Homoki-tó",
+                  "text": "Alsó Homoki-tó din Šamorín este un lac liniștit, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        17.232946,
+                        48.008592
+                  ]
+            },
+            {
+                  "name": "Szigetparti-tó",
+                  "text": "Szigetparti-tó din Šamorín este situat într-un peisaj încântător și oferă liniște la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.249203,
+                        48.00033
+                  ]
+            },
+            {
+                  "name": "Közép Homoki-tó",
+                  "text": "Lacul Közép Homoki-tó din Šamorín este un loc frumos pentru observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.230563,
+                        48.006732
+                  ]
+            },
+            {
+                  "name": "Zdrž Hrušov",
+                  "text": "Rezervorul Hrušov de lângă Šamorín este o suprafață mare de apă, ideală pentru plimbări lungi.",
+                  "category": "natural",
+                  "coords": [
+                        17.270245,
+                        48.028689
+                  ]
+            },
+            {
+                  "name": "Ördögszigeti-tavak",
+                  "text": "Ördögszigeti-tavak din Šamorín oferă un peisaj lacustru variat pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        17.267585,
+                        47.987482
+                  ]
+            },
+            {
+                  "name": "ihrisko v Šámote",
+                  "text": "Locul de joacă din Šámot (Šamorín) oferă copiilor mult spațiu pentru mișcare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.34753,
+                        48.032226
+                  ]
+            },
+            {
+                  "name": "AdventureLand",
+                  "text": "AdventureLand din Šamorín este un loc de joacă mare, cu atracții diverse pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.300906,
+                        48.014424
+                  ]
+            },
+            {
+                  "name": "Rodinka",
+                  "text": "Locul de joacă Rodinka din Šamorín oferă structuri moderne de cățărat și tobogane pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.307133,
+                        48.025738
+                  ]
             }
       ],
       "en": [
@@ -19388,6 +25436,114 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                   "coords": [
                         17.34992,
                         48.033531
+                  ]
+            },
+            {
+                  "name": "Heléna-tó",
+                  "text": "Heléna-tó lake in Šamorín is a scenic spot for quiet moments and strolls along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.288979,
+                        47.990995
+                  ]
+            },
+            {
+                  "name": "Medúzák tava",
+                  "text": "Medúzák tava lake in Šamorín offers a pleasant natural setting for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.290925,
+                        47.990285
+                  ]
+            },
+            {
+                  "name": "Tilosi-tavak",
+                  "text": "Tilosi-tavak in Šamorín are a group of small lakes ideal for short nature trips.",
+                  "category": "natural",
+                  "coords": [
+                        17.237734,
+                        48.006442
+                  ]
+            },
+            {
+                  "name": "Császárligeti-tó",
+                  "text": "Császárligeti-tó in Šamorín is an idyllic lake that invites visitors to relax in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        17.240175,
+                        48.00821
+                  ]
+            },
+            {
+                  "name": "Alsó Homoki-tó",
+                  "text": "Alsó Homoki-tó in Šamorín is a quiet lake suitable for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.232946,
+                        48.008592
+                  ]
+            },
+            {
+                  "name": "Szigetparti-tó",
+                  "text": "Szigetparti-tó in Šamorín is located in a charming landscape and offers tranquility by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.249203,
+                        48.00033
+                  ]
+            },
+            {
+                  "name": "Közép Homoki-tó",
+                  "text": "Közép Homoki-tó lake in Šamorín is a beautiful spot for nature observation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.230563,
+                        48.006732
+                  ]
+            },
+            {
+                  "name": "Hrušov Reservoir",
+                  "text": "Hrušov Reservoir near Šamorín is a vast water surface ideal for long walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.270245,
+                        48.028689
+                  ]
+            },
+            {
+                  "name": "Ördögszigeti-tavak",
+                  "text": "Ördögszigeti-tavak in Šamorín offer a diverse lake landscape for outings.",
+                  "category": "natural",
+                  "coords": [
+                        17.267585,
+                        47.987482
+                  ]
+            },
+            {
+                  "name": "ihrisko v Šámote",
+                  "text": "The playground in Šámot (Šamorín) offers children plenty of space for movement and outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        17.34753,
+                        48.032226
+                  ]
+            },
+            {
+                  "name": "AdventureLand",
+                  "text": "AdventureLand in Šamorín is a large playground with a wide variety of attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        17.300906,
+                        48.014424
+                  ]
+            },
+            {
+                  "name": "Rodinka",
+                  "text": "The Rodinka playground in Šamorín offers modern climbing frames and slides for family outings.",
+                  "category": "family",
+                  "coords": [
+                        17.307133,
+                        48.025738
                   ]
             }
       ]
@@ -19483,7 +25639,88 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
     },
     image: "/poi-images/slovakia-sabur-cities-v2.webp",
 },  {
-    id: "slovakia-bytca-cities-v2",
+    id: "slovakia-bytca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Mikšová",
+                  "text": "Vodná nádrž Mikšová ist Teil eines Staudammsystems in Bytca und bietet eine beeindruckende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.503821,
+                        49.200578
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Beňov",
+                  "text": "Vodná nádrž Beňov ist ein ruhiger See in der Gegend von Bytca, ideal für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.491693,
+                        49.190019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Mikšová",
+                  "text": "A Mikšová víztározó egy gátrendszer része Bytca városában, amely lenyűgöző tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.503821,
+                        49.200578
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Beňov",
+                  "text": "A Beňov víztározó Bytca környékén egy nyugodt tó, amely ideális a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.491693,
+                        49.190019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Mikšová",
+                  "text": "Vodná nádrž Mikšová face parte dintr-un sistem de baraje din Bytca, oferind un peisaj impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        18.503821,
+                        49.200578
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Beňov",
+                  "text": "Vodná nádrž Beňov este un lac liniștit în zona Bytca, ideal pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.491693,
+                        49.190019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Mikšová",
+                  "text": "Vodná nádrž Mikšová is part of a water dam system in Bytca, offering impressive scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.503821,
+                        49.200578
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Beňov",
+                  "text": "Vodná nádrž Beňov is a calm lake in the Bytca area, ideal for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.491693,
+                        49.190019
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Bytča", hu: "Nagybiccse", ro: "Bytča", en: "Bytča"},
@@ -19529,7 +25766,160 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
     },
     image: "/poi-images/slovakia-bytca-cities-v2.webp",
 },  {
-    id: "slovakia-svaty-jur-cities-v2",
+    id: "slovakia-svaty-jur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Vajspeter",
+                  "text": "Die Vodná nádrž Vajspeter bei Svätý Jur ist ein ruhiger See in Weinbergnähe, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.128292,
+                        48.20533
+                  ]
+            },
+            {
+                  "name": "Zlaté piesky",
+                  "text": "Zlaté piesky bei Svätý Jur ist ein bekannter See, der sich hervorragend zum Schwimmen und für Freizeitaktivitäten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.188175,
+                        48.18478
+                  ]
+            },
+            {
+                  "name": "Vajnorské jazero",
+                  "text": "Das Vajnorské jazero bei Svätý Jur bietet eine natürliche Kulisse für Erholung und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.210465,
+                        48.192812
+                  ]
+            },
+            {
+                  "name": "Kalné jazero",
+                  "text": "Kalné jazero bei Svätý Jur ist ein ruhiger See, der sich gut für eine Pause in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.179834,
+                        48.192783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Vajspeter",
+                  "text": "Szentgyörgy közelében található Vajspeter víztározó egy csendes tó a szőlőhegyek alatt, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.128292,
+                        48.20533
+                  ]
+            },
+            {
+                  "name": "Zlaté piesky",
+                  "text": "A Szentgyörgy melletti Zlaté piesky egy ismert tó, amely kiválóan alkalmas úszásra és szabadidős tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        17.188175,
+                        48.18478
+                  ]
+            },
+            {
+                  "name": "Vajnorské jazero",
+                  "text": "A Szentgyörgy melletti Vajnorské jazero természetes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.210465,
+                        48.192812
+                  ]
+            },
+            {
+                  "name": "Kalné jazero",
+                  "text": "A Szentgyörgy melletti Kalné jazero egy csendes tó, amely kiválóan alkalmas egy természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        17.179834,
+                        48.192783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Vajspeter",
+                  "text": "Rezervorul Vodná nádrž Vajspeter de lângă Svätý Jur este un lac liniștit aproape de podgorii, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.128292,
+                        48.20533
+                  ]
+            },
+            {
+                  "name": "Zlaté piesky",
+                  "text": "Zlaté piesky de lângă Svätý Jur este un lac cunoscut, excelent pentru înot și activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        17.188175,
+                        48.18478
+                  ]
+            },
+            {
+                  "name": "Vajnorské jazero",
+                  "text": "Vajnorské jazero de lângă Svätý Jur oferă un cadru natural pentru relaxare și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.210465,
+                        48.192812
+                  ]
+            },
+            {
+                  "name": "Kalné jazero",
+                  "text": "Lacul Kalné jazero de lângă Svätý Jur este un lac liniștit, potrivit pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.179834,
+                        48.192783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Vajspeter",
+                  "text": "The Vodná nádrž Vajspeter reservoir near Svätý Jur is a peaceful lake near vineyards, ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.128292,
+                        48.20533
+                  ]
+            },
+            {
+                  "name": "Zlaté piesky",
+                  "text": "Zlaté piesky near Svätý Jur is a well-known lake perfect for swimming and recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.188175,
+                        48.18478
+                  ]
+            },
+            {
+                  "name": "Vajnorské jazero",
+                  "text": "Vajnorské jazero lake near Svätý Jur offers a natural setting for relaxation and lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.210465,
+                        48.192812
+                  ]
+            },
+            {
+                  "name": "Kalné jazero",
+                  "text": "Kalné jazero lake near Svätý Jur is a quiet lake suitable for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.179834,
+                        48.192783
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Svätý Jur", hu: "Szentgyörgy", ro: "Svätý Jur", en: "Svätý Jur"},
@@ -19594,6 +25984,24 @@ imageHint: "Historic center of Svätý Jur with the church tower",
                         20.958408,
                         48.607009
                   ]
+            },
+            {
+                  "name": "Sivé",
+                  "text": "Ein See in der Nähe von Moldava nad Bodvou, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        21.048626,
+                        48.641943
+                  ]
+            },
+            {
+                  "name": "Mier",
+                  "text": "Ein zentral gelegener Spielplatz in Moldava nad Bodvou für Kinder aller Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        20.99683,
+                        48.616908
+                  ]
             }
       ],
       "hu": [
@@ -19613,6 +26021,24 @@ imageHint: "Historic center of Svätý Jur with the church tower",
                   "coords": [
                         20.958408,
                         48.607009
+                  ]
+            },
+            {
+                  "name": "Sivé",
+                  "text": "Szepsi közeli tó, ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        21.048626,
+                        48.641943
+                  ]
+            },
+            {
+                  "name": "Mier",
+                  "text": "Központi fekvésű játszótér Szepsi városában, minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        20.99683,
+                        48.616908
                   ]
             }
       ],
@@ -19634,6 +26060,24 @@ imageHint: "Historic center of Svätý Jur with the church tower",
                         20.958408,
                         48.607009
                   ]
+            },
+            {
+                  "name": "Sivé",
+                  "text": "Un lac lângă Moldava nad Bodvou, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.048626,
+                        48.641943
+                  ]
+            },
+            {
+                  "name": "Mier",
+                  "text": "Un loc de joacă situat central în Moldava nad Bodvou, pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.99683,
+                        48.616908
+                  ]
             }
       ],
       "en": [
@@ -19653,6 +26097,24 @@ imageHint: "Historic center of Svätý Jur with the church tower",
                   "coords": [
                         20.958408,
                         48.607009
+                  ]
+            },
+            {
+                  "name": "Sivé",
+                  "text": "A lake near Moldava nad Bodvou, ideal for a break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        21.048626,
+                        48.641943
+                  ]
+            },
+            {
+                  "name": "Mier",
+                  "text": "A centrally located playground in Moldava nad Bodvou for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.99683,
+                        48.616908
                   ]
             }
       ]
@@ -19766,6 +26228,42 @@ imageHint: "Moldava nad Bodvou town center and churches",
                         17.161679,
                         48.810151
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "Vodná nádrž Prietržka ist ein lokaler Stausee bei Holic, der einen natürlichen Rahmen für einen Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "Mŕtve rameno Žlutnica ist ein ruhiger Altwasserarm in Holic, ideal um die lokale Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "Dieser Altwasserarm in Holic bietet einen ruhigen Ort zum Wandern und Beobachten der Uferflora.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Mŕtve rameno Ivánek ist ein malerisches Gewässer in Holic, ideal für ruhige Zeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
             }
       ],
       "hu": [
@@ -19830,6 +26328,42 @@ imageHint: "Moldava nad Bodvou town center and churches",
                   "coords": [
                         17.161679,
                         48.810151
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "A Prietržka víztározó Holic közelében egy tó, amely természetes környezetet kínál a látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "A Žlutnica holtág Holicban egy nyugodt vízfelület, amely tökéletes a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "Ez a holicsi holtág nyugodt helyet biztosít a sétáláshoz és a tóparti növényvilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Az Ivánek holtág Holicban egy festői vízfelület, amely ideális a csendes kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
                   ]
             }
       ],
@@ -19896,6 +26430,42 @@ imageHint: "Moldava nad Bodvou town center and churches",
                         17.161679,
                         48.810151
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "Vodná nádrž Prietržka este un lac de acumulare lângă Holic, oferind un cadru natural pentru o vizită.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "Mŕtve rameno Žlutnica este un braț mort liniștit în Holic, perfect pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "Acest braț mort din Holic oferă un loc liniștit pentru plimbări și observarea florei.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Mŕtve rameno Ivánek este un corp de apă natural din Holic, ideal pentru timp liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
+                  ]
             }
       ],
       "en": [
@@ -19960,6 +26530,42 @@ imageHint: "Moldava nad Bodvou town center and churches",
                   "coords": [
                         17.161679,
                         48.810151
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Prietržka",
+                  "text": "Vodná nádrž Prietržka is a local reservoir near Holic offering a natural setting for a visit.",
+                  "category": "natural",
+                  "coords": [
+                        17.227426,
+                        48.802501
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Žlutnica",
+                  "text": "Mŕtve rameno Žlutnica is a tranquil oxbow lake in Holic, perfect for enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.167311,
+                        48.854202
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Lipa",
+                  "text": "This oxbow lake in Holic provides a peaceful spot for walking and observing the lakeside flora.",
+                  "category": "natural",
+                  "coords": [
+                        17.177523,
+                        48.858392
+                  ]
+            },
+            {
+                  "name": "Mŕtve rameno Ivánek",
+                  "text": "Mŕtve rameno Ivánek is a scenic natural water body in Holic ideal for quiet outdoor time.",
+                  "category": "natural",
+                  "coords": [
+                        17.160302,
+                        48.849722
                   ]
             }
       ]
@@ -22382,6 +28988,78 @@ imageHint: "Krompachy city center with mountains in background",
                         17.312264,
                         48.332861
                   ]
+            },
+            {
+                  "name": "Kučišdorfská priehrada",
+                  "text": "Kučišdorfská priehrada ist ein beliebter Stausee bei Modra, der sich zum Wandern und zur Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.262932,
+                        48.326499
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Budmerice",
+                  "text": "Vodná nádrž Budmerice ist ein malerischer See bei Modra, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.385519,
+                        48.376432
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Malerischer See in Modra, ideal für ruhige Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Šenkvice",
+                  "text": "Ruhiges Gewässer in Modra, das eine schöne Kulisse für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.362583,
+                        48.305414
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Slnečné údolie",
+                  "text": "Ein friedlicher See in Modra, perfekt für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        17.209319,
+                        48.323604
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Vištuk",
+                  "text": "Malerisches Gewässer bei Modra, das zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.378031,
+                        48.334263
+                  ]
+            },
+            {
+                  "name": "Hájiček",
+                  "text": "Ein kleiner, ruhiger See in Modra, umgeben von natürlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.391306,
+                        48.370676
+                  ]
+            },
+            {
+                  "name": "Lidl Žihadielko",
+                  "text": "Ein familienfreundlicher Spielplatz in Modra, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        17.30725,
+                        48.329408
+                  ]
             }
       ],
       "hu": [
@@ -22500,6 +29178,78 @@ imageHint: "Krompachy city center with mountains in background",
                   "coords": [
                         17.312264,
                         48.332861
+                  ]
+            },
+            {
+                  "name": "Kučišdorfská priehrada",
+                  "text": "A Kučišdorf víztározó Modra közelében egy tó, amely alkalmas sétálásra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.262932,
+                        48.326499
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Budmerice",
+                  "text": "A Budmerice víztározó Modra közelében egy festői tó, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        17.385519,
+                        48.376432
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Festői tó Modra közelében, amely ideális csendes természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Šenkvice",
+                  "text": "Nyugodt vízfelület Modra területén, amely szép környezetet kínál a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.362583,
+                        48.305414
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Slnečné údolie",
+                  "text": "Békés tó Modra közelében, tökéletes a természet kedvelőinek és sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.209319,
+                        48.323604
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Vištuk",
+                  "text": "Festői vízfelület Modra mellett, amely szabadtéri időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        17.378031,
+                        48.334263
+                  ]
+            },
+            {
+                  "name": "Hájiček",
+                  "text": "Kicsi, nyugodt tó Modra területén, természetes tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        17.391306,
+                        48.370676
+                  ]
+            },
+            {
+                  "name": "Lidl Žihadielko",
+                  "text": "Családbarát játszótér Modra területén, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        17.30725,
+                        48.329408
                   ]
             }
       ],
@@ -22620,6 +29370,78 @@ imageHint: "Krompachy city center with mountains in background",
                         17.312264,
                         48.332861
                   ]
+            },
+            {
+                  "name": "Kučišdorfská priehrada",
+                  "text": "Kučišdorfská priehrada este un lac de acumulare lângă Modra, potrivit pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.262932,
+                        48.326499
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Budmerice",
+                  "text": "Vodná nádrž Budmerice este un lac pitoresc lângă Modra care oferă un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        17.385519,
+                        48.376432
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Lac pitoresc în Modra, ideal pentru plimbări liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Šenkvice",
+                  "text": "Lac liniștit în Modra, oferind un cadru frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.362583,
+                        48.305414
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Slnečné údolie",
+                  "text": "Un lac liniștit în Modra, perfect pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.209319,
+                        48.323604
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Vištuk",
+                  "text": "Lac pitoresc lângă Modra, care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.378031,
+                        48.334263
+                  ]
+            },
+            {
+                  "name": "Hájiček",
+                  "text": "Un lac mic și liniștit în Modra, înconjurat de un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        17.391306,
+                        48.370676
+                  ]
+            },
+            {
+                  "name": "Lidl Žihadielko",
+                  "text": "Un loc de joacă pentru familii în Modra, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        17.30725,
+                        48.329408
+                  ]
             }
       ],
       "en": [
@@ -22739,6 +29561,78 @@ imageHint: "Krompachy city center with mountains in background",
                         17.312264,
                         48.332861
                   ]
+            },
+            {
+                  "name": "Kučišdorfská priehrada",
+                  "text": "Kučišdorfská priehrada is a popular reservoir near Modra suitable for walking and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.262932,
+                        48.326499
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Budmerice",
+                  "text": "Vodná nádrž Budmerice is a scenic lake near Modra providing a calm environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        17.385519,
+                        48.376432
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Blatné",
+                  "text": "Scenic lake in Modra, ideal for peaceful walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.390492,
+                        48.28575
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Šenkvice",
+                  "text": "Quiet body of water in Modra, providing a nice setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.362583,
+                        48.305414
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Slnečné údolie",
+                  "text": "A peaceful lake in Modra, perfect for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.209319,
+                        48.323604
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Vištuk",
+                  "text": "Scenic body of water near Modra, inviting for outdoor time.",
+                  "category": "natural",
+                  "coords": [
+                        17.378031,
+                        48.334263
+                  ]
+            },
+            {
+                  "name": "Hájiček",
+                  "text": "A small, quiet lake in Modra, surrounded by natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.391306,
+                        48.370676
+                  ]
+            },
+            {
+                  "name": "Lidl Žihadielko",
+                  "text": "A family-friendly playground in Modra where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        17.30725,
+                        48.329408
+                  ]
             }
       ]
 },
@@ -22787,7 +29681,52 @@ imageHint: "Modra main square with the church and historic houses",
     },
     image: "/poi-images/slovakia-modra-cities-v2.webp",
 },  {
-    id: "slovakia-zeliezovce-cities-v2",
+    id: "slovakia-zeliezovce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodné dielo Želiezovce",
+                  "text": "Das Vodné dielo Želiezovce ist ein Stausee an der Gran, der schöne Ausblicke und Wege am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.660303,
+                        48.085208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garammikolai víztározó",
+                  "text": "A zselízi Vodné dielo Želiezovce a Garam mentén fekvő víztározó, amely szép kilátást és vízparti utakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.660303,
+                        48.085208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodné dielo Želiezovce",
+                  "text": "Rezervorul Vodná dielo Želiezovce este un baraj pe râul Hron, oferind vederi frumoase și trasee pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.660303,
+                        48.085208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodné dielo Želiezovce",
+                  "text": "The Vodné dielo Želiezovce is a reservoir on the Hron river, offering beautiful views and shoreline paths.",
+                  "category": "natural",
+                  "coords": [
+                        18.660303,
+                        48.085208
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Želiezovce", hu: "Zselíz", ro: "Želiezovce", en: "Želiezovce"},
@@ -23592,6 +30531,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                         20.928003,
                         49.147575
                   ]
+            },
+            {
+                  "name": "Hradný rybník Mikuláša Tarczaya",
+                  "text": "Der Hradný rybník Mikuláša Tarczaya in Lipany ist ein malerischer Schlossteich, ideal für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        20.969822,
+                        49.197034
+                  ]
             }
       ],
       "hu": [
@@ -23665,6 +30613,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                   "coords": [
                         20.928003,
                         49.147575
+                  ]
+            },
+            {
+                  "name": "Hradný rybník Mikuláša Tarczaya",
+                  "text": "A héthársi Hradný rybník Mikuláša Tarczaya egy festői vár-tó, amely ideális a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.969822,
+                        49.197034
                   ]
             }
       ],
@@ -23740,6 +30697,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                         20.928003,
                         49.147575
                   ]
+            },
+            {
+                  "name": "Hradný rybník Mikuláša Tarczaya",
+                  "text": "Lacul Hradný rybník Mikuláša Tarczaya din Lipany este un heleșteu pitoresc, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        20.969822,
+                        49.197034
+                  ]
             }
       ],
       "en": [
@@ -23813,6 +30779,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                   "coords": [
                         20.928003,
                         49.147575
+                  ]
+            },
+            {
+                  "name": "Hradný rybník Mikuláša Tarczaya",
+                  "text": "The Hradný rybník Mikuláša Tarczaya in Lipany is a scenic castle pond, ideal for relaxing strolls.",
+                  "category": "natural",
+                  "coords": [
+                        20.969822,
+                        49.197034
                   ]
             }
       ]
@@ -24188,6 +31163,24 @@ imageHint: "UNESCO wooden church in Tvrdošín",
                         19.516937,
                         49.407206
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Tvrdošín",
+                  "text": "Bedeutender Stausee bei Namestovo, ideal für Ausblicke auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.545689,
+                        49.348983
+                  ]
+            },
+            {
+                  "name": "Arwa-Stausee",
+                  "text": "Großer See bei Namestovo, der als beliebtes Ziel für Naturerholung dient.",
+                  "category": "natural",
+                  "coords": [
+                        19.550876,
+                        49.412963
+                  ]
             }
       ],
       "hu": [
@@ -24207,6 +31200,24 @@ imageHint: "UNESCO wooden church in Tvrdošín",
                   "coords": [
                         19.516937,
                         49.407206
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Tvrdošín",
+                  "text": "Jelentős víztározó Namestovo közelében, ideális a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        19.545689,
+                        49.348983
+                  ]
+            },
+            {
+                  "name": "Árvai-víztározó",
+                  "text": "Nagy tó Namestovo mellett, amely népszerű úti cél a természetbeli kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.550876,
+                        49.412963
                   ]
             }
       ],
@@ -24228,6 +31239,24 @@ imageHint: "UNESCO wooden church in Tvrdošín",
                         19.516937,
                         49.407206
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Tvrdošín",
+                  "text": "Rezervor important lângă Namestovo, ideal pentru priveliști asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        19.545689,
+                        49.348983
+                  ]
+            },
+            {
+                  "name": "Oravská priehrada",
+                  "text": "Lac mare lângă Namestovo, servind ca destinație populară pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.550876,
+                        49.412963
+                  ]
             }
       ],
       "en": [
@@ -24247,6 +31276,24 @@ imageHint: "UNESCO wooden church in Tvrdošín",
                   "coords": [
                         19.516937,
                         49.407206
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Tvrdošín",
+                  "text": "Significant reservoir near Namestovo, ideal for landscape views.",
+                  "category": "natural",
+                  "coords": [
+                        19.545689,
+                        49.348983
+                  ]
+            },
+            {
+                  "name": "Orava reservoir",
+                  "text": "Large lake near Namestovo, serving as a popular destination for nature recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.550876,
+                        49.412963
                   ]
             }
       ]
@@ -28460,7 +35507,916 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
     },
     image: "/poi-images/slovakia-spisska-kapitula-cities-v2.webp",
 },  {
-    id: "slovakia-vysoke-tatry-cities-v2",
+    id: "slovakia-vysoke-tatry-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Botzdorfer See",
+                  "text": "Das Batizovské pleso in der Hohen Tatra ist ein beeindruckender Gebirgssee mit spektakulärer Bergkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        20.130091,
+                        49.152035
+                  ]
+            },
+            {
+                  "name": "Dlhé pleso",
+                  "text": "Dlhé pleso in der Hohen Tatra liegt in einem malerischen Tal und bietet herrliche Aussichten auf die Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        20.144115,
+                        49.165859
+                  ]
+            },
+            {
+                  "name": "Vyšné Sivé pleso",
+                  "text": "Das Vyšné Sivé pleso in der Hohen Tatra ist ein klarer Bergsee in einer unberührten Hochgebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.174592,
+                        49.185143
+                  ]
+            },
+            {
+                  "name": "Prostredné Sivé pleso",
+                  "text": "Das Prostredné Sivé pleso in der Hohen Tatra bietet Wanderern eine ruhige Atmosphäre inmitten der Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        20.175269,
+                        49.18412
+                  ]
+            },
+            {
+                  "name": "Nižné Sivé pleso",
+                  "text": "Nižné Sivé pleso in der Hohen Tatra ist Teil einer Seenlandschaft, die ideal für Naturfotografie ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.17531,
+                        49.18311
+                  ]
+            },
+            {
+                  "name": "Zamrznute pleso",
+                  "text": "Das Zamrznuté pleso in der Hohen Tatra ist ein hochgelegener See, der oft lange Zeit mit Eis bedeckt bleibt.",
+                  "category": "natural",
+                  "coords": [
+                        20.138264,
+                        49.175936
+                  ]
+            },
+            {
+                  "name": "Velické pleso",
+                  "text": "Das Velické pleso in der Hohen Tatra ist ein bekannter Gebirgssee, umgeben von majestätischen Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        20.156004,
+                        49.157655
+                  ]
+            },
+            {
+                  "name": "Pusté pleso",
+                  "text": "Pusté pleso in der Hohen Tatra liegt in einer abgeschiedenen Gegend und bietet absolute Ruhe in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        20.153876,
+                        49.1823
+                  ]
+            },
+            {
+                  "name": "Malé Zbojnícke pleso",
+                  "text": "Das Malé Zbojnícke pleso in der Hohen Tatra ist ein kleinerer See, der harmonisch in die alpine Welt eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.162061,
+                        49.178542
+                  ]
+            },
+            {
+                  "name": "Malé Szontaghovo pliesko",
+                  "text": "Dieser malerische Bergsee in Vysoke Tatry bietet eine ruhige Kulisse für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        20.162938,
+                        49.166447
+                  ]
+            },
+            {
+                  "name": "Malé Pusté pleso",
+                  "text": "Ein kleiner Bergsee in Vysoke Tatry, ideal für Naturbeobachtungen beim Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        20.154995,
+                        49.183391
+                  ]
+            },
+            {
+                  "name": "Mittlerer Zipser See",
+                  "text": "Dieser See in Vysoke Tatry besticht durch seine klare Gebirgsatmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        20.198376,
+                        49.191526
+                  ]
+            },
+            {
+                  "name": "Trümmersee",
+                  "text": "Ein beeindruckender Bergsee in Vysoke Tatry, umgeben von alpiner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.161391,
+                        49.183964
+                  ]
+            },
+            {
+                  "name": "Großer Zipser See",
+                  "text": "Einer der größeren Bergseen in Vysoke Tatry, bekannt für seine schöne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        20.194925,
+                        49.192926
+                  ]
+            },
+            {
+                  "name": "Unterer Zipser See",
+                  "text": "Dieser See in Vysoke Tatry ist ein ruhiges Ziel für Bergwanderer.",
+                  "category": "natural",
+                  "coords": [
+                        20.196567,
+                        49.190006
+                  ]
+            },
+            {
+                  "name": "Kleienr Zipser See",
+                  "text": "Ein kleinerer See in Vysoke Tatry, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.200223,
+                        49.190336
+                  ]
+            },
+            {
+                  "name": "Steinbachsee",
+                  "text": "Ein bekannter Bergsee in Vysoke Tatry, der ein beliebtes Ziel für Ausflüge ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.231977,
+                        49.188553
+                  ]
+            },
+            {
+                  "name": "Modré pleso",
+                  "text": "Dieser Gebirgssee in Vysoke Tatry besticht durch seine besondere Lage in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        20.185579,
+                        49.192258
+                  ]
+            },
+            {
+                  "name": "Oberer Zipser See",
+                  "text": "Ein hochgelegener See in Vysoke Tatry, der eine tolle Aussicht auf die Gipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.196291,
+                        49.194561
+                  ]
+            },
+            {
+                  "name": "Starolesnianske pleso",
+                  "text": "Dieser See in Vysoke Tatry bietet Wanderern eine friedliche Rastmöglichkeit.",
+                  "category": "natural",
+                  "coords": [
+                        20.166557,
+                        49.180179
+                  ]
+            },
+            {
+                  "name": "Žabie Javorové pleso",
+                  "text": "Ein ruhiger Bergsee in Vysoke Tatry, ideal für einen entspannten Naturspaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        20.168229,
+                        49.191378
+                  ]
+            },
+            {
+                  "name": "Sesterské pleso",
+                  "text": "Dieser See in Vysoke Tatry ist Teil der beeindruckenden alpinen Seenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.166994,
+                        49.177477
+                  ]
+            },
+            {
+                  "name": "Vyšné Zbojnícke pleso",
+                  "text": "Ein malerischer See in Vysoke Tatry, umgeben von schroffen Berggipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        20.158303,
+                        49.178663
+                  ]
+            },
+            {
+                  "name": "Vareškové pleso",
+                  "text": "Ein Bergsee in Vysoke Tatry, der eine ruhige Atmosphäre für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.177193,
+                        49.174312
+                  ]
+            },
+            {
+                  "name": "Nižné Zbojnícke pleso",
+                  "text": "Dieser Bergsee in Vysoke Tatry ist ein schönes Ziel für Wanderungen in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        20.161803,
+                        49.177274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batizfalvi-tó",
+                  "text": "A Magas-Tátrában található Batizfalvi-tó egy lenyűgöző hegyi tó, látványos panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        20.130091,
+                        49.152035
+                  ]
+            },
+            {
+                  "name": "Hosszú-tó",
+                  "text": "A Magas-Tátrában fekvő Hosszú-tó egy festői völgyben található, és csodás kilátást nyújt a csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        20.144115,
+                        49.165859
+                  ]
+            },
+            {
+                  "name": "Metélőhagymás-tavak",
+                  "text": "A Magas-Tátrában található Vyšné Sivé pleso egy tiszta hegyi tó, érintetlen magashegyi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.174592,
+                        49.185143
+                  ]
+            },
+            {
+                  "name": "Metélőhagymás-tavak",
+                  "text": "A Magas-Tátrában fekvő Középső-Szi-tó nyugodt légkört kínál a sziklák között túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.175269,
+                        49.18412
+                  ]
+            },
+            {
+                  "name": "Metélőhagymás-tavak",
+                  "text": "A Magas-Tátrában található Alsó-Szi-tó egy tóvidék része, amely ideális a természetfotózáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.17531,
+                        49.18311
+                  ]
+            },
+            {
+                  "name": "Fagyott-tó",
+                  "text": "A Magas-Tátrában található Fagyott-tó egy magasan fekvő tó, amelyet gyakran hosszú ideig jég borít.",
+                  "category": "natural",
+                  "coords": [
+                        20.138264,
+                        49.175936
+                  ]
+            },
+            {
+                  "name": "Felkai-tó",
+                  "text": "A Magas-Tátrában fekvő Felkai-tó egy ismert hegyi tó, amelyet fenséges csúcsok vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        20.156004,
+                        49.157655
+                  ]
+            },
+            {
+                  "name": "Törmelék-tavak",
+                  "text": "A Magas-Tátrában található Pusté pleso egy eldugott területen fekszik, teljes nyugalmat árasztva.",
+                  "category": "natural",
+                  "coords": [
+                        20.153876,
+                        49.1823
+                  ]
+            },
+            {
+                  "name": "Bucholtz-tavak",
+                  "text": "A Magas-Tátrában fekvő Kis-Rabló-tó egy kisebb tó, amely harmonikusan illeszkedik az alpesi világba.",
+                  "category": "natural",
+                  "coords": [
+                        20.162061,
+                        49.178542
+                  ]
+            },
+            {
+                  "name": "Szontágh-tó",
+                  "text": "Ez a festői tátrai tó (Vysoke Tatry) nyugodt környezetet kínál a túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.162938,
+                        49.166447
+                  ]
+            },
+            {
+                  "name": "Malé Pusté pleso",
+                  "text": "Kisméretű hegyi tó a Magas-Tátrában, amely ideális a természet megfigyelésére túrázás közben.",
+                  "category": "natural",
+                  "coords": [
+                        20.154995,
+                        49.183391
+                  ]
+            },
+            {
+                  "name": "Szepesi-Középső-tó",
+                  "text": "Ez a Vysoke Tatry-i tó lenyűgöző hegyvidéki hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        20.198376,
+                        49.191526
+                  ]
+            },
+            {
+                  "name": "Nagytarpataki-Jeges-tó",
+                  "text": "Lenyűgöző hegyi tó a Magas-Tátrában, alpesi tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        20.161391,
+                        49.183964
+                  ]
+            },
+            {
+                  "name": "Szepesi-Nagy-tó",
+                  "text": "Vysoke Tatry egyik nagyobb hegyi tava, amely szép környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.194925,
+                        49.192926
+                  ]
+            },
+            {
+                  "name": "Szepesi-Alsó-tó",
+                  "text": "Ez a tó a Magas-Tátrában nyugodt úti cél a hegyi túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        20.196567,
+                        49.190006
+                  ]
+            },
+            {
+                  "name": "Szepesi-Kis-tó",
+                  "text": "Kisebb tó a Magas-Tátrában, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.200223,
+                        49.190336
+                  ]
+            },
+            {
+                  "name": "Kőpataki-tó",
+                  "text": "Ismert hegyi tó a Magas-Tátrában, amely népszerű kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        20.231977,
+                        49.188553
+                  ]
+            },
+            {
+                  "name": "Kék-tavacska",
+                  "text": "Ez a hegyi tó a Magas-Tátrában különleges fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        20.185579,
+                        49.192258
+                  ]
+            },
+            {
+                  "name": "Szepesi-Felső-tó",
+                  "text": "Magasan fekvő tó a Magas-Tátrában, amely nagyszerű kilátást nyújt a csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        20.196291,
+                        49.194561
+                  ]
+            },
+            {
+                  "name": "Fuchs-tó",
+                  "text": "Ez a Vysoke Tatry-i tó békés pihenőhelyet kínál a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        20.166557,
+                        49.180179
+                  ]
+            },
+            {
+                  "name": "Varangyos-tó",
+                  "text": "Nyugodt hegyi tó a Magas-Tátrában, ideális egy pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.168229,
+                        49.191378
+                  ]
+            },
+            {
+                  "name": "Testvér-tavak",
+                  "text": "Ez a tó a Magas-Tátrában az alpesi tóvidék lenyűgöző része.",
+                  "category": "natural",
+                  "coords": [
+                        20.166994,
+                        49.177477
+                  ]
+            },
+            {
+                  "name": "Bucholtz-tavak",
+                  "text": "Festői tó a Magas-Tátrában, meredek hegycsúcsokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        20.158303,
+                        49.178663
+                  ]
+            },
+            {
+                  "name": "Kanalastorma-tó",
+                  "text": "Hegyi tó a Magas-Tátrában, amely nyugodt légkört biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.177193,
+                        49.174312
+                  ]
+            },
+            {
+                  "name": "Bucholtz-tavak",
+                  "text": "Ez a tátrai tó szép célpont a környékbeli túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.161803,
+                        49.177274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batizovské pleso",
+                  "text": "Lacul Batizovské pleso din Tatra Înaltă este un lac montan impresionant, cu un decor spectaculos.",
+                  "category": "natural",
+                  "coords": [
+                        20.130091,
+                        49.152035
+                  ]
+            },
+            {
+                  "name": "Dlhé pleso",
+                  "text": "Lacul Dlhé pleso din Tatra Înaltă este situat într-o vale pitorească și oferă vederi superbe spre creste.",
+                  "category": "natural",
+                  "coords": [
+                        20.144115,
+                        49.165859
+                  ]
+            },
+            {
+                  "name": "Vyšné Sivé pleso",
+                  "text": "Vyšné Sivé pleso din Tatra Înaltă este un lac montan limpede într-un peisaj alpin neatins.",
+                  "category": "natural",
+                  "coords": [
+                        20.174592,
+                        49.185143
+                  ]
+            },
+            {
+                  "name": "Prostredné Sivé pleso",
+                  "text": "Prostredné Sivé pleso din Tatra Înaltă oferă drumeților o atmosferă liniștită în mijlocul stâncilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.175269,
+                        49.18412
+                  ]
+            },
+            {
+                  "name": "Nižné Sivé pleso",
+                  "text": "Nižné Sivé pleso din Tatra Înaltă face parte dintr-un peisaj lacustru, ideal pentru fotografia de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.17531,
+                        49.18311
+                  ]
+            },
+            {
+                  "name": "Zamrznute pleso",
+                  "text": "Lacul Zamrznuté pleso din Tatra Înaltă este un lac de mare altitudine, care rămâne adesea înghețat mult timp.",
+                  "category": "natural",
+                  "coords": [
+                        20.138264,
+                        49.175936
+                  ]
+            },
+            {
+                  "name": "Velické pleso",
+                  "text": "Lacul Velické pleso din Tatra Înaltă este un lac montan renumit, înconjurat de vârfuri maiestuoase.",
+                  "category": "natural",
+                  "coords": [
+                        20.156004,
+                        49.157655
+                  ]
+            },
+            {
+                  "name": "Pusté pleso",
+                  "text": "Pusté pleso din Tatra Înaltă este situat într-o zonă retrasă și oferă liniște absolută în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.153876,
+                        49.1823
+                  ]
+            },
+            {
+                  "name": "Malé Zbojnícke pleso",
+                  "text": "Malé Zbojnícke pleso din Tatra Înaltă este un lac mai mic, integrat armonios în lumea alpină.",
+                  "category": "natural",
+                  "coords": [
+                        20.162061,
+                        49.178542
+                  ]
+            },
+            {
+                  "name": "Malé Szontaghovo pliesko",
+                  "text": "Acest lac montan pitoresc din Vysoke Tatry oferă un cadru liniștit pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        20.162938,
+                        49.166447
+                  ]
+            },
+            {
+                  "name": "Malé Pusté pleso",
+                  "text": "Un mic lac de munte în Vysoke Tatry, ideal pentru observarea naturii în timpul drumețiilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.154995,
+                        49.183391
+                  ]
+            },
+            {
+                  "name": "Prostredné Spišské pleso",
+                  "text": "Acest lac din Vysoke Tatry impresionează prin atmosfera sa montană clară.",
+                  "category": "natural",
+                  "coords": [
+                        20.198376,
+                        49.191526
+                  ]
+            },
+            {
+                  "name": "Ľadové pleso",
+                  "text": "Un lac montan impresionant în Vysoke Tatry, înconjurat de un peisaj alpin.",
+                  "category": "natural",
+                  "coords": [
+                        20.161391,
+                        49.183964
+                  ]
+            },
+            {
+                  "name": "Veľké Spišské pleso",
+                  "text": "Unul dintre lacurile montane mai mari din Vysoke Tatry, cunoscut pentru împrejurimile sale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        20.194925,
+                        49.192926
+                  ]
+            },
+            {
+                  "name": "Nižné Spišské pleso",
+                  "text": "Acest lac din Vysoke Tatry este o destinație liniștită pentru excursioniștii montani.",
+                  "category": "natural",
+                  "coords": [
+                        20.196567,
+                        49.190006
+                  ]
+            },
+            {
+                  "name": "Malé Spišské pleso",
+                  "text": "Un lac mai mic din Vysoke Tatry care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.200223,
+                        49.190336
+                  ]
+            },
+            {
+                  "name": "Skalnaté pleso",
+                  "text": "Un lac montan cunoscut în Vysoke Tatry, fiind o destinație populară pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        20.231977,
+                        49.188553
+                  ]
+            },
+            {
+                  "name": "Modré pleso",
+                  "text": "Acest lac montan din Vysoke Tatry impresionează prin locația sa specială în munți.",
+                  "category": "natural",
+                  "coords": [
+                        20.185579,
+                        49.192258
+                  ]
+            },
+            {
+                  "name": "Vyšné Spišské pleso",
+                  "text": "Un lac situat la altitudine mare în Vysoke Tatry, oferind o vedere minunată asupra vârfurilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.196291,
+                        49.194561
+                  ]
+            },
+            {
+                  "name": "Starolesnianske pleso",
+                  "text": "Acest lac din Vysoke Tatry oferă excursioniștilor o oportunitate de odihnă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        20.166557,
+                        49.180179
+                  ]
+            },
+            {
+                  "name": "Žabie Javorové pleso",
+                  "text": "Un lac montan liniștit în Vysoke Tatry, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.168229,
+                        49.191378
+                  ]
+            },
+            {
+                  "name": "Sesterské pleso",
+                  "text": "Acest lac din Vysoke Tatry face parte din peisajul impresionant al lacurilor alpine.",
+                  "category": "natural",
+                  "coords": [
+                        20.166994,
+                        49.177477
+                  ]
+            },
+            {
+                  "name": "Vyšné Zbojnícke pleso",
+                  "text": "Un lac pitoresc în Vysoke Tatry, înconjurat de vârfuri muntoase abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        20.158303,
+                        49.178663
+                  ]
+            },
+            {
+                  "name": "Vareškové pleso",
+                  "text": "Un lac montan în Vysoke Tatry, care oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.177193,
+                        49.174312
+                  ]
+            },
+            {
+                  "name": "Nižné Zbojnícke pleso",
+                  "text": "Acest lac montan din Vysoke Tatry este o destinație frumoasă pentru drumeții în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        20.161803,
+                        49.177274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batizovské pleso",
+                  "text": "Batizovské pleso in the High Tatras is an impressive mountain lake with spectacular alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.130091,
+                        49.152035
+                  ]
+            },
+            {
+                  "name": "Dlhé pleso",
+                  "text": "Dlhé pleso in the High Tatras is situated in a scenic valley and offers wonderful views of the peaks.",
+                  "category": "natural",
+                  "coords": [
+                        20.144115,
+                        49.165859
+                  ]
+            },
+            {
+                  "name": "Vyšné Sivé pleso",
+                  "text": "Vyšné Sivé pleso in the High Tatras is a clear mountain lake in a pristine alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.174592,
+                        49.185143
+                  ]
+            },
+            {
+                  "name": "Prostredné Sivé pleso",
+                  "text": "Prostredné Sivé pleso in the High Tatras offers hikers a peaceful atmosphere amidst the rocks.",
+                  "category": "natural",
+                  "coords": [
+                        20.175269,
+                        49.18412
+                  ]
+            },
+            {
+                  "name": "Nižné Sivé pleso",
+                  "text": "Nižné Sivé pleso in the High Tatras is part of a lake landscape ideal for nature photography.",
+                  "category": "natural",
+                  "coords": [
+                        20.17531,
+                        49.18311
+                  ]
+            },
+            {
+                  "name": "Zamrznute pleso",
+                  "text": "Zamrznuté pleso in the High Tatras is a high-altitude lake that often remains covered in ice for long periods.",
+                  "category": "natural",
+                  "coords": [
+                        20.138264,
+                        49.175936
+                  ]
+            },
+            {
+                  "name": "Velické pleso",
+                  "text": "Velické pleso in the High Tatras is a well-known mountain lake surrounded by majestic peaks.",
+                  "category": "natural",
+                  "coords": [
+                        20.156004,
+                        49.157655
+                  ]
+            },
+            {
+                  "name": "Pusté pleso",
+                  "text": "Pusté pleso in the High Tatras is located in a secluded area and offers absolute peace in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.153876,
+                        49.1823
+                  ]
+            },
+            {
+                  "name": "Malé Zbojnícke pleso",
+                  "text": "Malé Zbojnícke pleso in the High Tatras is a smaller lake harmoniously nestled in the alpine world.",
+                  "category": "natural",
+                  "coords": [
+                        20.162061,
+                        49.178542
+                  ]
+            },
+            {
+                  "name": "Malé Szontaghovo pliesko",
+                  "text": "This scenic mountain lake in Vysoke Tatry offers a peaceful setting for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        20.162938,
+                        49.166447
+                  ]
+            },
+            {
+                  "name": "Malé Pusté pleso",
+                  "text": "A small mountain lake in Vysoke Tatry, ideal for nature observation while hiking.",
+                  "category": "natural",
+                  "coords": [
+                        20.154995,
+                        49.183391
+                  ]
+            },
+            {
+                  "name": "Prostredné Spišské pleso",
+                  "text": "This lake in Vysoke Tatry impresses with its clear mountain atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        20.198376,
+                        49.191526
+                  ]
+            },
+            {
+                  "name": "Ľadové pleso",
+                  "text": "An impressive mountain lake in Vysoke Tatry surrounded by alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.161391,
+                        49.183964
+                  ]
+            },
+            {
+                  "name": "Veľké Spišské pleso",
+                  "text": "One of the larger mountain lakes in Vysoke Tatry, known for its beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        20.194925,
+                        49.192926
+                  ]
+            },
+            {
+                  "name": "Nižné Spišské pleso",
+                  "text": "This lake in Vysoke Tatry is a quiet destination for mountain hikers.",
+                  "category": "natural",
+                  "coords": [
+                        20.196567,
+                        49.190006
+                  ]
+            },
+            {
+                  "name": "Malé Spišské pleso",
+                  "text": "A smaller lake in Vysoke Tatry that invites visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.200223,
+                        49.190336
+                  ]
+            },
+            {
+                  "name": "Skalnaté pleso",
+                  "text": "A well-known mountain lake in Vysoke Tatry, which is a popular destination for trips.",
+                  "category": "natural",
+                  "coords": [
+                        20.231977,
+                        49.188553
+                  ]
+            },
+            {
+                  "name": "Modré pleso",
+                  "text": "This mountain lake in Vysoke Tatry stands out due to its special location in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        20.185579,
+                        49.192258
+                  ]
+            },
+            {
+                  "name": "Vyšné Spišské pleso",
+                  "text": "A high-altitude lake in Vysoke Tatry offering great views of the peaks.",
+                  "category": "natural",
+                  "coords": [
+                        20.196291,
+                        49.194561
+                  ]
+            },
+            {
+                  "name": "Starolesnianske pleso",
+                  "text": "This lake in Vysoke Tatry offers hikers a peaceful resting spot.",
+                  "category": "natural",
+                  "coords": [
+                        20.166557,
+                        49.180179
+                  ]
+            },
+            {
+                  "name": "Žabie Javorové pleso",
+                  "text": "A quiet mountain lake in Vysoke Tatry, ideal for a relaxed nature walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.168229,
+                        49.191378
+                  ]
+            },
+            {
+                  "name": "Sesterské pleso",
+                  "text": "This lake in Vysoke Tatry is part of the impressive alpine lake landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.166994,
+                        49.177477
+                  ]
+            },
+            {
+                  "name": "Vyšné Zbojnícke pleso",
+                  "text": "A picturesque lake in Vysoke Tatry surrounded by rugged mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        20.158303,
+                        49.178663
+                  ]
+            },
+            {
+                  "name": "Vareškové pleso",
+                  "text": "A mountain lake in Vysoke Tatry providing a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.177193,
+                        49.174312
+                  ]
+            },
+            {
+                  "name": "Nižné Zbojnícke pleso",
+                  "text": "This mountain lake in Vysoke Tatry is a beautiful destination for hikes in the region.",
+                  "category": "natural",
+                  "coords": [
+                        20.161803,
+                        49.177274
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Vysoké Tatry", hu: "Magas-Tátra", ro: "Vysoké Tatry", en: "Vysoké Tatry"},
@@ -29789,7 +37745,52 @@ imageHint: "Neo-Gothic church in Vráble town center",
     image: "/poi-images/slovakia-stropkov-cities-v2.webp",
   },
   {
-    id: "slovakia-hrustin-cities-v2",
+    id: "slovakia-hrustin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Požiarnícka nádrž",
+                  "text": "Ein ruhiger See in Hrustin, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.199323,
+                        49.339064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Požiarnícka nádrž",
+                  "text": "Nyugodt tó Hrustin területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        19.199323,
+                        49.339064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Požiarnícka nádrž",
+                  "text": "Un lac liniștit în Hrustin, oferind o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        19.199323,
+                        49.339064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Požiarnícka nádrž",
+                  "text": "A quiet lake in Hrustin, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        19.199323,
+                        49.339064
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SK",
     name: { de: "Hruštín", hu: "Hrustin", ro: "Hruštín", en: "Hruštín" },
@@ -29834,7 +37835,124 @@ imageHint: "Neo-Gothic church in Vráble town center",
     image: "/poi-images/slovakia-hrustin-cities-v2.webp",
   },
   {
-    id: "slovakia-kovacova-cities-v2",
+    id: "slovakia-kovacova-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "Dieser Stausee bei Kovacova ist ein beliebtes Ziel für Erholungssuchende und Angler.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland in Kovacova bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            },
+            {
+                  "name": "Ihrisko ŠLÚ Marina",
+                  "text": "Ein schöner Spielplatz in Kovacova, ideal für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        19.096912,
+                        48.611194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zólyomi víztározó",
+                  "text": "Ez a Kovácsfalva (Kovacova) melletti víztározó népszerű a pihenni vágyók és horgászok körében.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "A kovacovai Mixiland változatos játéklehetőségeket kínál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            },
+            {
+                  "name": "Ihrisko ŠLÚ Marina",
+                  "text": "Szép játszótér Kovácsfalván, ideális kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.096912,
+                        48.611194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "Acest lac de acumulare de lângă Kovacova este o destinație populară pentru recreere și pescari.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland din Kovacova oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            },
+            {
+                  "name": "Ihrisko ŠLÚ Marina",
+                  "text": "Un loc de joacă frumos în Kovacova, ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        19.096912,
+                        48.611194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "vodná nádrž Môťová",
+                  "text": "This reservoir near Kovacova is a popular destination for relaxation and anglers.",
+                  "category": "natural",
+                  "coords": [
+                        19.174552,
+                        48.557555
+                  ]
+            },
+            {
+                  "name": "Mixiland",
+                  "text": "Mixiland in Kovacova offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        19.107056,
+                        48.585174
+                  ]
+            },
+            {
+                  "name": "Ihrisko ŠLÚ Marina",
+                  "text": "A nice playground in Kovacova, ideal for families with small children.",
+                  "category": "family",
+                  "coords": [
+                        19.096912,
+                        48.611194
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SK",
     name: { de: "Kováčová", hu: "Kovácsfalva", ro: "Kováčová", en: "Kováčová" },
@@ -29879,7 +37997,88 @@ imageHint: "Neo-Gothic church in Vráble town center",
     image: "/poi-images/slovakia-kovacova-cities-v2.webp",
   },
   {
-    id: "slovakia-krupina-cities-v2",
+    id: "slovakia-krupina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Krupina",
+                  "text": "Ein Stausee bei Krupina, der sich gut für Spaziergänge und Erholung am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.033206,
+                        48.353611
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Kozí Vrbovok",
+                  "text": "Ein ruhig gelegener See bei Krupina, ideal zum Entspannen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.099047,
+                        48.286917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Krupina",
+                  "text": "Korpona melletti víztározó, amely alkalmas sétákra és vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        19.033206,
+                        48.353611
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Kozí Vrbovok",
+                  "text": "Csendes fekvésű tó Korpona közelében, ideális természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.099047,
+                        48.286917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Krupina",
+                  "text": "Un rezervuar de apă lângă Krupina, potrivit pentru plimbări și recreere la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.033206,
+                        48.353611
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Kozí Vrbovok",
+                  "text": "Un lac situat liniștit lângă Krupina, ideal pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.099047,
+                        48.286917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Krupina",
+                  "text": "A water reservoir near Krupina, suitable for walks and waterfront recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.033206,
+                        48.353611
+                  ]
+            },
+            {
+                  "name": "vodná nádrž Kozí Vrbovok",
+                  "text": "A quietly located lake near Krupina, ideal for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.099047,
+                        48.286917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SK",
     name: { de: "Krupina", hu: "Korpona", ro: "Krupina", en: "Krupina" },

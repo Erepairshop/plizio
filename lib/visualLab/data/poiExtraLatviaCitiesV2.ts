@@ -49,6 +49,24 @@ export const latviaCitiesV2: POI[] = [
                         27.264963,
                         57.132782
                   ]
+            },
+            {
+                  "name": "Pērkonu ezers",
+                  "text": "Ein großer See in Balvi, der eine schöne Kulisse für Aktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.301146,
+                        57.146019
+                  ]
+            },
+            {
+                  "name": "Balvu ezers",
+                  "text": "Der Balvu ezers in Balvi ist ein ruhiger See, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.231484,
+                        57.131755
+                  ]
             }
       ],
       "hu": [
@@ -95,6 +113,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.264963,
                         57.132782
+                  ]
+            },
+            {
+                  "name": "Pērkonu ezers",
+                  "text": "Nagy tó Balvi városában, amely szép hátteret biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        27.301146,
+                        57.146019
+                  ]
+            },
+            {
+                  "name": "Balvu ezers",
+                  "text": "A Balvu ezers Balvi területén található tó kellemes helyszín a természetben való sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.231484,
+                        57.131755
                   ]
             }
       ],
@@ -143,6 +179,24 @@ export const latviaCitiesV2: POI[] = [
                         27.264963,
                         57.132782
                   ]
+            },
+            {
+                  "name": "Pērkonu ezers",
+                  "text": "Un lac mare în Balvi, oferind un cadru frumos pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.301146,
+                        57.146019
+                  ]
+            },
+            {
+                  "name": "Balvu ezers",
+                  "text": "Lacul Balvu ezers din Balvi este un loc liniștit, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.231484,
+                        57.131755
+                  ]
             }
       ],
       "en": [
@@ -189,6 +243,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.264963,
                         57.132782
+                  ]
+            },
+            {
+                  "name": "Pērkonu ezers",
+                  "text": "A large lake in Balvi, providing a beautiful backdrop for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        27.301146,
+                        57.146019
+                  ]
+            },
+            {
+                  "name": "Balvu ezers",
+                  "text": "Balvu ezers in Balvi is a calm lake, well-suited for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.231484,
+                        57.131755
                   ]
             }
       ]
@@ -652,6 +724,105 @@ export const latviaCitiesV2: POI[] = [
                         26.217381,
                         56.853657
                   ]
+            },
+            {
+                  "name": "Salu ezers",
+                  "text": "Ein malerischer See in Madona, ideal für Spaziergänge in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.250487,
+                        56.843943
+                  ]
+            },
+            {
+                  "name": "Mazais Klauģis",
+                  "text": "Ein kleiner, friedlicher See in Madona, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.17228,
+                        56.803891
+                  ]
+            },
+            {
+                  "name": "Dziļūksnis",
+                  "text": "Ein ruhiger See in Madona, perfekt für eine erholsame Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.178465,
+                        56.809996
+                  ]
+            },
+            {
+                  "name": "Lielais Klauģis",
+                  "text": "Ein schöner See in Madona, der eine natürliche Kulisse für Wanderungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.176719,
+                        56.805234
+                  ]
+            },
+            {
+                  "name": "Lellītes ezers",
+                  "text": "Ein kleiner lokaler See in Madona, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.152816,
+                        56.793951
+                  ]
+            },
+            {
+                  "name": "Vardūkļa ezers",
+                  "text": "Ein friedlicher See in Madona, umgeben von grüner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.127931,
+                        56.80314
+                  ]
+            },
+            {
+                  "name": "Madonas ezers",
+                  "text": "Der Madonas-See, ein zentraler Ort in der Stadt für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        26.181308,
+                        56.86058
+                  ]
+            },
+            {
+                  "name": "attīrīšanas iekārtas",
+                  "text": "Ein funktionaler See in Madona, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.247336,
+                        56.85912
+                  ]
+            },
+            {
+                  "name": "Sakārnītis",
+                  "text": "Ein natürlicher See in Madona, ideal für Beobachtungen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.251846,
+                        56.82652
+                  ]
+            },
+            {
+                  "name": "Slāpes ezers",
+                  "text": "Ein ruhiges Gewässer in Madona, das zu Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.27161,
+                        56.884915
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieks",
+                  "text": "Ein lokaler See in Madona, perfekt für einen entspannten Nachmittag.",
+                  "category": "natural",
+                  "coords": [
+                        26.300299,
+                        56.813163
+                  ]
             }
       ],
       "hu": [
@@ -689,6 +860,105 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.217381,
                         56.853657
+                  ]
+            },
+            {
+                  "name": "Salu ezers",
+                  "text": "Festői tó Madona városában, amely ideális sétákhoz nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.250487,
+                        56.843943
+                  ]
+            },
+            {
+                  "name": "Mazais Klauģis",
+                  "text": "Kicsi, békés tó Madona közelében, szép természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        26.17228,
+                        56.803891
+                  ]
+            },
+            {
+                  "name": "Dziļūksnis",
+                  "text": "Csendes tó Madona területén, amely tökéletes egy pihentető kikapcsolódáshoz a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        26.178465,
+                        56.809996
+                  ]
+            },
+            {
+                  "name": "Lielais Klauģis",
+                  "text": "Szép tó Madona közelében, amely természetes környezetet biztosít a túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.176719,
+                        56.805234
+                  ]
+            },
+            {
+                  "name": "Lellītes ezers",
+                  "text": "Helyi kis tó Madona területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.152816,
+                        56.793951
+                  ]
+            },
+            {
+                  "name": "Vardūkļa ezers",
+                  "text": "Békés tó Madona közelében, zöld tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        26.127931,
+                        56.80314
+                  ]
+            },
+            {
+                  "name": "Madonas ezers",
+                  "text": "A Madonai-tó, a város központi helye rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.181308,
+                        56.86058
+                  ]
+            },
+            {
+                  "name": "attīrīšanas iekārtas",
+                  "text": "Funkcionális tó Madona területén, a helyi tájba illeszkedve.",
+                  "category": "natural",
+                  "coords": [
+                        26.247336,
+                        56.85912
+                  ]
+            },
+            {
+                  "name": "Sakārnītis",
+                  "text": "Természetes tó Madona közelében, amely ideális szabadtéri megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.251846,
+                        56.82652
+                  ]
+            },
+            {
+                  "name": "Slāpes ezers",
+                  "text": "Csendes vízfelület Madona területén, amely pihenésre hívogat a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.27161,
+                        56.884915
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieks",
+                  "text": "Helyi tó Madona városában, amely tökéletes egy pihentető délutánhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.300299,
+                        56.813163
                   ]
             }
       ],
@@ -728,6 +998,105 @@ export const latviaCitiesV2: POI[] = [
                         26.217381,
                         56.853657
                   ]
+            },
+            {
+                  "name": "Salu ezers",
+                  "text": "Un lac pitoresc în Madona, ideal pentru plimbări într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.250487,
+                        56.843943
+                  ]
+            },
+            {
+                  "name": "Mazais Klauģis",
+                  "text": "Un lac mic și liniștit în Madona, înconjurat de o natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        26.17228,
+                        56.803891
+                  ]
+            },
+            {
+                  "name": "Dziļūksnis",
+                  "text": "Un lac liniștit în Madona, perfect pentru o pauză relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.178465,
+                        56.809996
+                  ]
+            },
+            {
+                  "name": "Lielais Klauģis",
+                  "text": "Un lac frumos în Madona, oferind un cadru natural pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        26.176719,
+                        56.805234
+                  ]
+            },
+            {
+                  "name": "Lellītes ezers",
+                  "text": "Un mic lac local în Madona, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.152816,
+                        56.793951
+                  ]
+            },
+            {
+                  "name": "Vardūkļa ezers",
+                  "text": "Un lac liniștit în Madona, înconjurat de un peisaj verde.",
+                  "category": "natural",
+                  "coords": [
+                        26.127931,
+                        56.80314
+                  ]
+            },
+            {
+                  "name": "Madonas ezers",
+                  "text": "Lacul Madonas, un loc central în oraș pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        26.181308,
+                        56.86058
+                  ]
+            },
+            {
+                  "name": "attīrīšanas iekārtas",
+                  "text": "Un lac funcțional în Madona, integrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        26.247336,
+                        56.85912
+                  ]
+            },
+            {
+                  "name": "Sakārnītis",
+                  "text": "Un lac natural în Madona, ideal pentru observații în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.251846,
+                        56.82652
+                  ]
+            },
+            {
+                  "name": "Slāpes ezers",
+                  "text": "O apă liniștită în Madona, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.27161,
+                        56.884915
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieks",
+                  "text": "Un lac local în Madona, perfect pentru o după-amiază relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        26.300299,
+                        56.813163
+                  ]
             }
       ],
       "en": [
@@ -765,6 +1134,105 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.217381,
                         56.853657
+                  ]
+            },
+            {
+                  "name": "Salu ezers",
+                  "text": "A scenic lake in Madona, ideal for walks in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        26.250487,
+                        56.843943
+                  ]
+            },
+            {
+                  "name": "Mazais Klauģis",
+                  "text": "A small, peaceful lake in Madona, surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.17228,
+                        56.803891
+                  ]
+            },
+            {
+                  "name": "Dziļūksnis",
+                  "text": "A quiet lake in Madona, perfect for a relaxing break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.178465,
+                        56.809996
+                  ]
+            },
+            {
+                  "name": "Lielais Klauģis",
+                  "text": "A lovely lake in Madona, offering a natural backdrop for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        26.176719,
+                        56.805234
+                  ]
+            },
+            {
+                  "name": "Lellītes ezers",
+                  "text": "A small local lake in Madona, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.152816,
+                        56.793951
+                  ]
+            },
+            {
+                  "name": "Vardūkļa ezers",
+                  "text": "A peaceful lake in Madona, surrounded by green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.127931,
+                        56.80314
+                  ]
+            },
+            {
+                  "name": "Madonas ezers",
+                  "text": "Madonas lake, a central spot in the town for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        26.181308,
+                        56.86058
+                  ]
+            },
+            {
+                  "name": "attīrīšanas iekārtas",
+                  "text": "A functional lake in Madona, integrated into the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.247336,
+                        56.85912
+                  ]
+            },
+            {
+                  "name": "Sakārnītis",
+                  "text": "A natural lake in Madona, ideal for outdoor observations.",
+                  "category": "natural",
+                  "coords": [
+                        26.251846,
+                        56.82652
+                  ]
+            },
+            {
+                  "name": "Slāpes ezers",
+                  "text": "A quiet body of water in Madona, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.27161,
+                        56.884915
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieks",
+                  "text": "A local lake in Madona, perfect for a relaxed afternoon.",
+                  "category": "natural",
+                  "coords": [
+                        26.300299,
+                        56.813163
                   ]
             }
       ]
@@ -868,6 +1336,114 @@ export const latviaCitiesV2: POI[] = [
                         27.729625,
                         56.547792
                   ]
+            },
+            {
+                  "name": "Cirmas ezers",
+                  "text": "Der Cirmas ezers in Ludza bietet eine friedliche Kulisse für Erholung und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        27.611683,
+                        56.558999
+                  ]
+            },
+            {
+                  "name": "Franapoles ezers",
+                  "text": "Der Franapoles ezers in Ludza ist ein malerischer See, ideal für Naturbeobachtungen und ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        27.784663,
+                        56.561522
+                  ]
+            },
+            {
+                  "name": "Mazais Ludzas ezers",
+                  "text": "Der Mazais Ludzas ezers in Ludza ist ein kleinerer See, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.714272,
+                        56.548244
+                  ]
+            },
+            {
+                  "name": "Runtortas ezers",
+                  "text": "Der Runtortas ezers in Ludza bietet eine ruhige Atmosphäre für Erholungsuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.685662,
+                        56.529125
+                  ]
+            },
+            {
+                  "name": "Soidu ezers",
+                  "text": "Der Soidu ezers in Ludza ist ein schöner Ort für einen Spaziergang an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        27.654006,
+                        56.511808
+                  ]
+            },
+            {
+                  "name": "Pauguļu ezers",
+                  "text": "Der Pauguļu ezers in Ludza ist ein Natursee, der sich hervorragend für eine Auszeit im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.6646,
+                        56.548869
+                  ]
+            },
+            {
+                  "name": "Zeiļu ezers",
+                  "text": "Der Zeiļu ezers in Ludza ist ein ruhiges Gewässer, ideal zum Entspannen und Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        27.669197,
+                        56.508387
+                  ]
+            },
+            {
+                  "name": "Valna ezers",
+                  "text": "Der Valna ezers in Ludza bietet eine natürliche Umgebung für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        27.776453,
+                        56.57186
+                  ]
+            },
+            {
+                  "name": "Lielais Ludzas ezers",
+                  "text": "Der Lielais Ludzas ezers in Ludza ist ein bedeutender See, der weite Ausblicke und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.765069,
+                        56.540524
+                  ]
+            },
+            {
+                  "name": "Pildas ezers",
+                  "text": "Der Pildas ezers in Ludza ist ein malerischer See, der zur Erholung in der freien Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.771769,
+                        56.473286
+                  ]
+            },
+            {
+                  "name": "Zvirgzdenes ezers",
+                  "text": "Der Zvirgzdenes ezers in Ludza bietet eine ruhige Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        27.686035,
+                        56.560721
+                  ]
+            },
+            {
+                  "name": "Dūnakļu ezers",
+                  "text": "Der Dūnakļu ezers in Ludza ist ein stiller See, ideal für eine kleine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        27.712933,
+                        56.558704
+                  ]
             }
       ],
       "hu": [
@@ -923,6 +1499,114 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.729625,
                         56.547792
+                  ]
+            },
+            {
+                  "name": "Cirmas ezers",
+                  "text": "A Cirmas ezers Ludza közelében nyugodt környezetet biztosít a kikapcsolódáshoz és a vízi sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.611683,
+                        56.558999
+                  ]
+            },
+            {
+                  "name": "Franapoles ezers",
+                  "text": "A Franapoles ezers Ludza területén egy festői tó, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.784663,
+                        56.561522
+                  ]
+            },
+            {
+                  "name": "Mazais Ludzas ezers",
+                  "text": "A Mazais Ludzas ezers Ludza városában egy kisebb tó, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        27.714272,
+                        56.548244
+                  ]
+            },
+            {
+                  "name": "Runtortas ezers",
+                  "text": "A Runtortas ezers Ludza területén nyugodt légkört kínál a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.685662,
+                        56.529125
+                  ]
+            },
+            {
+                  "name": "Soidu ezers",
+                  "text": "A Soidu ezers Ludza környékén szép helyszín egy friss levegőn tett sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.654006,
+                        56.511808
+                  ]
+            },
+            {
+                  "name": "Pauguļu ezers",
+                  "text": "A Pauguļu ezers Ludza területén egy természetes tó, amely kiváló a zöldben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.6646,
+                        56.548869
+                  ]
+            },
+            {
+                  "name": "Zeiļu ezers",
+                  "text": "A Zeiļu ezers Ludza közelében egy nyugodt vízfelület, amely ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        27.669197,
+                        56.508387
+                  ]
+            },
+            {
+                  "name": "Valna ezers",
+                  "text": "A Valna ezers Ludza területén természetes környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.776453,
+                        56.57186
+                  ]
+            },
+            {
+                  "name": "Lielais Ludzas ezers",
+                  "text": "A Lielais Ludzas ezers Ludza nagy tava, amely tágas kilátást és természetközeli élményeket nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        27.765069,
+                        56.540524
+                  ]
+            },
+            {
+                  "name": "Pildas ezers",
+                  "text": "A Pildas ezers Ludza területén egy festői tó, amely a szabad természetben való pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        27.771769,
+                        56.473286
+                  ]
+            },
+            {
+                  "name": "Zvirgzdenes ezers",
+                  "text": "A Zvirgzdenes ezers Ludza közelében nyugodt környezetet kínál a sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        27.686035,
+                        56.560721
+                  ]
+            },
+            {
+                  "name": "Dūnakļu ezers",
+                  "text": "A Dūnakļu ezers Ludza területén egy csendes tó, ideális egy rövid szünetre a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        27.712933,
+                        56.558704
                   ]
             }
       ],
@@ -980,6 +1664,114 @@ export const latviaCitiesV2: POI[] = [
                         27.729625,
                         56.547792
                   ]
+            },
+            {
+                  "name": "Cirmas ezers",
+                  "text": "Lacul Cirmas ezers din Ludza oferă un cadru liniștit pentru relaxare și plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.611683,
+                        56.558999
+                  ]
+            },
+            {
+                  "name": "Franapoles ezers",
+                  "text": "Franapoles ezers din Ludza este un lac pitoresc, ideal pentru observarea naturii și momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        27.784663,
+                        56.561522
+                  ]
+            },
+            {
+                  "name": "Mazais Ludzas ezers",
+                  "text": "Mazais Ludzas ezers din Ludza este un lac mai mic care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        27.714272,
+                        56.548244
+                  ]
+            },
+            {
+                  "name": "Runtortas ezers",
+                  "text": "Lacul Runtortas ezers din Ludza oferă o atmosferă liniștită pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.685662,
+                        56.529125
+                  ]
+            },
+            {
+                  "name": "Soidu ezers",
+                  "text": "Soidu ezers din Ludza este un loc plăcut pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.654006,
+                        56.511808
+                  ]
+            },
+            {
+                  "name": "Pauguļu ezers",
+                  "text": "Pauguļu ezers din Ludza este un lac natural, excelent pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.6646,
+                        56.548869
+                  ]
+            },
+            {
+                  "name": "Zeiļu ezers",
+                  "text": "Lacul Zeiļu ezers din Ludza este o apă liniștită, ideală pentru relaxare și popas.",
+                  "category": "natural",
+                  "coords": [
+                        27.669197,
+                        56.508387
+                  ]
+            },
+            {
+                  "name": "Valna ezers",
+                  "text": "Valna ezers din Ludza oferă un mediu natural pentru plimbări revigorante.",
+                  "category": "natural",
+                  "coords": [
+                        27.776453,
+                        56.57186
+                  ]
+            },
+            {
+                  "name": "Lielais Ludzas ezers",
+                  "text": "Lielais Ludzas ezers din Ludza este un lac important ce oferă perspective largi și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.765069,
+                        56.540524
+                  ]
+            },
+            {
+                  "name": "Pildas ezers",
+                  "text": "Lacul Pildas ezers din Ludza este un lac pitoresc care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.771769,
+                        56.473286
+                  ]
+            },
+            {
+                  "name": "Zvirgzdenes ezers",
+                  "text": "Zvirgzdenes ezers din Ludza oferă un cadru liniștit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.686035,
+                        56.560721
+                  ]
+            },
+            {
+                  "name": "Dūnakļu ezers",
+                  "text": "Dūnakļu ezers din Ludza este un lac liniștit, ideal pentru o scurtă pauză de la viața cotidiană.",
+                  "category": "natural",
+                  "coords": [
+                        27.712933,
+                        56.558704
+                  ]
             }
       ],
       "en": [
@@ -1035,6 +1827,114 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.729625,
                         56.547792
+                  ]
+            },
+            {
+                  "name": "Cirmas ezers",
+                  "text": "Cirmas ezers in Ludza provides a peaceful setting for relaxation and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.611683,
+                        56.558999
+                  ]
+            },
+            {
+                  "name": "Franapoles ezers",
+                  "text": "Franapoles ezers in Ludza is a scenic lake, ideal for nature observation and quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        27.784663,
+                        56.561522
+                  ]
+            },
+            {
+                  "name": "Mazais Ludzas ezers",
+                  "text": "Mazais Ludzas ezers in Ludza is a smaller lake that invites visitors for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.714272,
+                        56.548244
+                  ]
+            },
+            {
+                  "name": "Runtortas ezers",
+                  "text": "Runtortas ezers in Ludza offers a peaceful atmosphere for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.685662,
+                        56.529125
+                  ]
+            },
+            {
+                  "name": "Soidu ezers",
+                  "text": "Soidu ezers in Ludza is a nice spot for a walk in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        27.654006,
+                        56.511808
+                  ]
+            },
+            {
+                  "name": "Pauguļu ezers",
+                  "text": "Pauguļu ezers in Ludza is a natural lake, great for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.6646,
+                        56.548869
+                  ]
+            },
+            {
+                  "name": "Zeiļu ezers",
+                  "text": "Zeiļu ezers in Ludza is a calm body of water, ideal for relaxing and spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        27.669197,
+                        56.508387
+                  ]
+            },
+            {
+                  "name": "Valna ezers",
+                  "text": "Valna ezers in Ludza provides a natural environment for refreshing walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.776453,
+                        56.57186
+                  ]
+            },
+            {
+                  "name": "Lielais Ludzas ezers",
+                  "text": "Lielais Ludzas ezers in Ludza is a significant lake offering broad views and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        27.765069,
+                        56.540524
+                  ]
+            },
+            {
+                  "name": "Pildas ezers",
+                  "text": "Pildas ezers in Ludza is a scenic lake that invites visitors to enjoy recreation in the open air.",
+                  "category": "natural",
+                  "coords": [
+                        27.771769,
+                        56.473286
+                  ]
+            },
+            {
+                  "name": "Zvirgzdenes ezers",
+                  "text": "Zvirgzdenes ezers in Ludza offers a calm backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.686035,
+                        56.560721
+                  ]
+            },
+            {
+                  "name": "Dūnakļu ezers",
+                  "text": "Dūnakļu ezers in Ludza is a quiet lake, ideal for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        27.712933,
+                        56.558704
                   ]
             }
       ]
@@ -1471,6 +2371,96 @@ export const latviaCitiesV2: POI[] = [
                         24.857003,
                         57.150919
                   ]
+            },
+            {
+                  "name": "Matiņu ezers",
+                  "text": "Ein schöner See in Sigulda, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        24.872974,
+                        57.129861
+                  ]
+            },
+            {
+                  "name": "Ummuru ezers",
+                  "text": "Ein ruhiger Waldsee in Sigulda, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.920794,
+                        57.11589
+                  ]
+            },
+            {
+                  "name": "Jūdažu ezers",
+                  "text": "Ein malerischer See in Sigulda, perfekt für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.951971,
+                        57.104746
+                  ]
+            },
+            {
+                  "name": "Inderdēļu ezers",
+                  "text": "Der Inderdēļu ezers ist ein malerischer See in Sigulda Town, ideal für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        24.98715,
+                        57.143877
+                  ]
+            },
+            {
+                  "name": "Jērkules ezers",
+                  "text": "Der Jērkules ezers ist ein ruhiger See in Sigulda Town, der eine schöne Kulisse für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.76253,
+                        57.209252
+                  ]
+            },
+            {
+                  "name": "Nurmižu dzirnavu ezers",
+                  "text": "Der Nurmižu dzirnavu ezers ist ein friedlicher See in Sigulda Town, ideal für Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.94887,
+                        57.199849
+                  ]
+            },
+            {
+                  "name": "Linezers",
+                  "text": "Der Linezers ist ein kleiner, malerischer See in Sigulda Town, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.809302,
+                        57.086216
+                  ]
+            },
+            {
+                  "name": "Grebītis",
+                  "text": "Grebītis ist ein ruhiges Gewässer in Sigulda Town, ideal für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        24.839609,
+                        57.126613
+                  ]
+            },
+            {
+                  "name": "Ancīšu dīķi",
+                  "text": "Ancīšu dīķi ist ein friedlicher Ort am Wasser in Sigulda Town, der sich gut für einen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.845126,
+                        57.129696
+                  ]
+            },
+            {
+                  "name": "Roķēnu ūdenskrātuve",
+                  "text": "Die Roķēnu ūdenskrātuve ist ein Stausee in Sigulda Town, der eine weite Aussicht auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.889017,
+                        57.128251
+                  ]
             }
       ],
       "hu": [
@@ -1769,6 +2759,96 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         24.857003,
                         57.150919
+                  ]
+            },
+            {
+                  "name": "Matiņu ezers",
+                  "text": "Szép tó Sigulda városában, amely ideális a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.872974,
+                        57.129861
+                  ]
+            },
+            {
+                  "name": "Ummuru ezers",
+                  "text": "Csendes erdei tó Sigulda közelében, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        24.920794,
+                        57.11589
+                  ]
+            },
+            {
+                  "name": "Jūdažu ezers",
+                  "text": "Festői tó Sigulda területén, amely tökéletes egy természetjáró kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.951971,
+                        57.104746
+                  ]
+            },
+            {
+                  "name": "Inderdēļu ezers",
+                  "text": "Az Inderdēļu ezers egy festői tó Sigulda Town területén, amely ideális egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.98715,
+                        57.143877
+                  ]
+            },
+            {
+                  "name": "Jērkules ezers",
+                  "text": "A Jērkules ezers egy nyugodt tó Sigulda Town területén, amely szép környezetet kínál a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        24.76253,
+                        57.209252
+                  ]
+            },
+            {
+                  "name": "Nurmižu dzirnavu ezers",
+                  "text": "A Nurmižu dzirnavu ezers egy békés tó Sigulda Town területén, ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.94887,
+                        57.199849
+                  ]
+            },
+            {
+                  "name": "Linezers",
+                  "text": "A Linezers egy kicsi, festői tó Sigulda Town területén, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.809302,
+                        57.086216
+                  ]
+            },
+            {
+                  "name": "Grebītis",
+                  "text": "A Grebītis egy nyugodt vizű tó Sigulda Town területén, ideális egy rövid kiránduláshoz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        24.839609,
+                        57.126613
+                  ]
+            },
+            {
+                  "name": "Ancīšu dīķi",
+                  "text": "Az Ancīšu dīķi egy békés vízparti hely Sigulda Town területén, amely alkalmas egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.845126,
+                        57.129696
+                  ]
+            },
+            {
+                  "name": "Roķēnu ūdenskrātuve",
+                  "text": "A Roķēnu ūdenskrātuve egy víztározó Sigulda Town területén, amely tágas kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        24.889017,
+                        57.128251
                   ]
             }
       ],
@@ -2069,6 +3149,96 @@ export const latviaCitiesV2: POI[] = [
                         24.857003,
                         57.150919
                   ]
+            },
+            {
+                  "name": "Matiņu ezers",
+                  "text": "Un lac frumos în Sigulda, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.872974,
+                        57.129861
+                  ]
+            },
+            {
+                  "name": "Ummuru ezers",
+                  "text": "Un lac de pădure liniștit în Sigulda, oferind o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        24.920794,
+                        57.11589
+                  ]
+            },
+            {
+                  "name": "Jūdažu ezers",
+                  "text": "Un lac pitoresc în Sigulda, perfect pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.951971,
+                        57.104746
+                  ]
+            },
+            {
+                  "name": "Inderdēļu ezers",
+                  "text": "Inderdēļu ezers este un lac pitoresc în Sigulda Town, ideal pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.98715,
+                        57.143877
+                  ]
+            },
+            {
+                  "name": "Jērkules ezers",
+                  "text": "Jērkules ezers este un lac liniștit în Sigulda Town, oferind un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.76253,
+                        57.209252
+                  ]
+            },
+            {
+                  "name": "Nurmižu dzirnavu ezers",
+                  "text": "Nurmižu dzirnavu ezers este un lac liniștit în Sigulda Town, ideal pentru relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        24.94887,
+                        57.199849
+                  ]
+            },
+            {
+                  "name": "Linezers",
+                  "text": "Linezers este un lac mic și pitoresc în Sigulda Town, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.809302,
+                        57.086216
+                  ]
+            },
+            {
+                  "name": "Grebītis",
+                  "text": "Grebītis este un lac liniștit în Sigulda Town, ideal pentru o scurtă escapadă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.839609,
+                        57.126613
+                  ]
+            },
+            {
+                  "name": "Ancīšu dīķi",
+                  "text": "Ancīšu dīķi este un loc liniștit lângă apă în Sigulda Town, potrivit pentru o plimbare plăcută.",
+                  "category": "natural",
+                  "coords": [
+                        24.845126,
+                        57.129696
+                  ]
+            },
+            {
+                  "name": "Roķēnu ūdenskrātuve",
+                  "text": "Roķēnu ūdenskrātuve este un lac de acumulare în Sigulda Town, oferind o priveliște largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        24.889017,
+                        57.128251
+                  ]
             }
       ],
       "en": [
@@ -2368,6 +3538,96 @@ export const latviaCitiesV2: POI[] = [
                         24.857003,
                         57.150919
                   ]
+            },
+            {
+                  "name": "Matiņu ezers",
+                  "text": "A lovely lake in Sigulda, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        24.872974,
+                        57.129861
+                  ]
+            },
+            {
+                  "name": "Ummuru ezers",
+                  "text": "A quiet forest lake in Sigulda, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.920794,
+                        57.11589
+                  ]
+            },
+            {
+                  "name": "Jūdažu ezers",
+                  "text": "A scenic lake in Sigulda, perfect for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.951971,
+                        57.104746
+                  ]
+            },
+            {
+                  "name": "Inderdēļu ezers",
+                  "text": "Inderdēļu ezers is a scenic lake in Sigulda Town, ideal for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.98715,
+                        57.143877
+                  ]
+            },
+            {
+                  "name": "Jērkules ezers",
+                  "text": "Jērkules ezers is a peaceful lake in Sigulda Town, providing a beautiful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.76253,
+                        57.209252
+                  ]
+            },
+            {
+                  "name": "Nurmižu dzirnavu ezers",
+                  "text": "Nurmižu dzirnavu ezers is a peaceful lake in Sigulda Town, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.94887,
+                        57.199849
+                  ]
+            },
+            {
+                  "name": "Linezers",
+                  "text": "Linezers is a small, scenic lake in Sigulda Town, inviting visitors to enjoy the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.809302,
+                        57.086216
+                  ]
+            },
+            {
+                  "name": "Grebītis",
+                  "text": "Grebītis is a quiet body of water in Sigulda Town, ideal for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.839609,
+                        57.126613
+                  ]
+            },
+            {
+                  "name": "Ancīšu dīķi",
+                  "text": "Ancīšu dīķi is a peaceful waterfront spot in Sigulda Town, suitable for a pleasant walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.845126,
+                        57.129696
+                  ]
+            },
+            {
+                  "name": "Roķēnu ūdenskrātuve",
+                  "text": "Roķēnu ūdenskrātuve is a reservoir in Sigulda Town, offering a wide view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.889017,
+                        57.128251
+                  ]
             }
       ]
 },
@@ -2542,6 +3802,24 @@ export const latviaCitiesV2: POI[] = [
                         26.317338,
                         56.964418
                   ]
+            },
+            {
+                  "name": "Bedres ezers",
+                  "text": "Der Bedres ezers ist ein natürlicher See in Cesvaine, ideal für eine Pause an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        26.437842,
+                        56.968903
+                  ]
+            },
+            {
+                  "name": "Dzeņu ūdenskrātuve",
+                  "text": "Die Dzeņu ūdenskrātuve ist ein ruhiges Gewässer in Cesvaine, das zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.290826,
+                        56.960049
+                  ]
             }
       ],
       "hu": [
@@ -2579,6 +3857,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.317338,
                         56.964418
+                  ]
+            },
+            {
+                  "name": "Bedres ezers",
+                  "text": "A Bedres ezers egy természetes tó Cesvaine területén, ideális egy friss levegőn töltött pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.437842,
+                        56.968903
+                  ]
+            },
+            {
+                  "name": "Dzeņu ūdenskrātuve",
+                  "text": "A Dzeņu ūdenskrātuve egy nyugodt vízfelület Cesvaine területén, amely kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.290826,
+                        56.960049
                   ]
             }
       ],
@@ -2618,6 +3914,24 @@ export const latviaCitiesV2: POI[] = [
                         26.317338,
                         56.964418
                   ]
+            },
+            {
+                  "name": "Bedres ezers",
+                  "text": "Bedres ezers este un lac natural în Cesvaine, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.437842,
+                        56.968903
+                  ]
+            },
+            {
+                  "name": "Dzeņu ūdenskrātuve",
+                  "text": "Dzeņu ūdenskrātuve este un lac liniștit în Cesvaine, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.290826,
+                        56.960049
+                  ]
             }
       ],
       "en": [
@@ -2655,6 +3969,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.317338,
                         56.964418
+                  ]
+            },
+            {
+                  "name": "Bedres ezers",
+                  "text": "Bedres ezers is a natural lake in Cesvaine, ideal for a break in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        26.437842,
+                        56.968903
+                  ]
+            },
+            {
+                  "name": "Dzeņu ūdenskrātuve",
+                  "text": "Dzeņu ūdenskrātuve is a quiet body of water in Cesvaine, inviting recreation in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.290826,
+                        56.960049
                   ]
             }
       ]
@@ -3019,6 +4351,78 @@ export const latviaCitiesV2: POI[] = [
                         26.267676,
                         55.975055
                   ]
+            },
+            {
+                  "name": "Sasaļu ezers",
+                  "text": "Der Sasaļu ezers ist ein malerischer See in Ilukste, ideal für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.305584,
+                        55.931163
+                  ]
+            },
+            {
+                  "name": "Melnais ezers",
+                  "text": "Der Melnais ezers ist ein ruhiger See in Ilukste, der von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.315286,
+                        55.926578
+                  ]
+            },
+            {
+                  "name": "Tartaka ezers",
+                  "text": "Der Tartaka ezers ist ein friedliches Gewässer in Ilukste, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        26.264976,
+                        55.978577
+                  ]
+            },
+            {
+                  "name": "Pastarītis",
+                  "text": "Pastarītis ist ein kleiner See in Ilukste, der einen ruhigen Rückzugsort im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.255584,
+                        55.982757
+                  ]
+            },
+            {
+                  "name": "Lake Puru",
+                  "text": "Lake Puru ist ein malerischer See in Ilukste, ideal für einen ruhigen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        26.236123,
+                        55.997965
+                  ]
+            },
+            {
+                  "name": "Baltais ezers",
+                  "text": "Der Baltais ezers ist ein klarer See in Ilukste, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.309214,
+                        55.941838
+                  ]
+            },
+            {
+                  "name": "Dubezers",
+                  "text": "Der Dubezers ist ein ruhiger See in Ilukste, ideal für eine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.252106,
+                        55.984434
+                  ]
+            },
+            {
+                  "name": "Apaļais ezers",
+                  "text": "Der Apaļais ezers ist ein kleiner, kreisrunder See in Ilukste, der ein friedliches Ambiente bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.359597,
+                        55.973314
+                  ]
             }
       ],
       "hu": [
@@ -3092,6 +4496,78 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.267676,
                         55.975055
+                  ]
+            },
+            {
+                  "name": "Sasaļu ezers",
+                  "text": "A Sasaļu ezers egy festői tó Ilukste területén, amely ideális egy pihentető naphoz a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        26.305584,
+                        55.931163
+                  ]
+            },
+            {
+                  "name": "Melnais ezers",
+                  "text": "A Melnais ezers egy csendes tó Ilukste területén, amelyet természet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        26.315286,
+                        55.926578
+                  ]
+            },
+            {
+                  "name": "Tartaka ezers",
+                  "text": "A Tartaka ezers egy békés tó Ilukste területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.264976,
+                        55.978577
+                  ]
+            },
+            {
+                  "name": "Pastarītis",
+                  "text": "A Pastarītis egy kis tó Ilukste területén, amely csendes szabadtéri menedéket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.255584,
+                        55.982757
+                  ]
+            },
+            {
+                  "name": "Lake Puru",
+                  "text": "A Lake Puru egy festői tó Ilukste területén, ideális egy csendes sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        26.236123,
+                        55.997965
+                  ]
+            },
+            {
+                  "name": "Baltais ezers",
+                  "text": "A Baltais ezers egy tiszta vizű tó Ilukste területén, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.309214,
+                        55.941838
+                  ]
+            },
+            {
+                  "name": "Dubezers",
+                  "text": "A Dubezers egy csendes tó Ilukste területén, ideális egy kis kikapcsolódáshoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.252106,
+                        55.984434
+                  ]
+            },
+            {
+                  "name": "Apaļais ezers",
+                  "text": "Az Apaļais ezers egy kicsi, kerek tó Ilukste területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        26.359597,
+                        55.973314
                   ]
             }
       ],
@@ -3167,6 +4643,78 @@ export const latviaCitiesV2: POI[] = [
                         26.267676,
                         55.975055
                   ]
+            },
+            {
+                  "name": "Sasaļu ezers",
+                  "text": "Sasaļu ezers este un lac pitoresc în Ilukste, ideal pentru o zi relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.305584,
+                        55.931163
+                  ]
+            },
+            {
+                  "name": "Melnais ezers",
+                  "text": "Melnais ezers este un lac liniștit în Ilukste, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.315286,
+                        55.926578
+                  ]
+            },
+            {
+                  "name": "Tartaka ezers",
+                  "text": "Tartaka ezers este un lac liniștit în Ilukste, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.264976,
+                        55.978577
+                  ]
+            },
+            {
+                  "name": "Pastarītis",
+                  "text": "Pastarītis este un lac mic în Ilukste, oferind un refugiu liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.255584,
+                        55.982757
+                  ]
+            },
+            {
+                  "name": "Lake Puru",
+                  "text": "Lake Puru este un lac pitoresc în Ilukste, ideal pentru o plimbare liniștită pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        26.236123,
+                        55.997965
+                  ]
+            },
+            {
+                  "name": "Baltais ezers",
+                  "text": "Baltais ezers este un lac cu apă limpede în Ilukste, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.309214,
+                        55.941838
+                  ]
+            },
+            {
+                  "name": "Dubezers",
+                  "text": "Dubezers este un lac liniștit în Ilukste, ideal pentru o escapadă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.252106,
+                        55.984434
+                  ]
+            },
+            {
+                  "name": "Apaļais ezers",
+                  "text": "Apaļais ezers este un lac mic și rotund în Ilukste, oferind o ambianță liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        26.359597,
+                        55.973314
+                  ]
             }
       ],
       "en": [
@@ -3240,6 +4788,78 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.267676,
                         55.975055
+                  ]
+            },
+            {
+                  "name": "Sasaļu ezers",
+                  "text": "Sasaļu ezers is a scenic lake in Ilukste, ideal for a relaxing day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.305584,
+                        55.931163
+                  ]
+            },
+            {
+                  "name": "Melnais ezers",
+                  "text": "Melnais ezers is a quiet lake in Ilukste, surrounded by natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.315286,
+                        55.926578
+                  ]
+            },
+            {
+                  "name": "Tartaka ezers",
+                  "text": "Tartaka ezers is a peaceful body of water in Ilukste, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.264976,
+                        55.978577
+                  ]
+            },
+            {
+                  "name": "Pastarītis",
+                  "text": "Pastarītis is a small lake in Ilukste, offering a quiet outdoor retreat.",
+                  "category": "natural",
+                  "coords": [
+                        26.255584,
+                        55.982757
+                  ]
+            },
+            {
+                  "name": "Lake Puru",
+                  "text": "Lake Puru is a scenic lake in Ilukste, ideal for a peaceful walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.236123,
+                        55.997965
+                  ]
+            },
+            {
+                  "name": "Baltais ezers",
+                  "text": "Baltais ezers is a clear lake in Ilukste, inviting visitors to relax in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        26.309214,
+                        55.941838
+                  ]
+            },
+            {
+                  "name": "Dubezers",
+                  "text": "Dubezers is a quiet lake in Ilukste, ideal for time spent in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.252106,
+                        55.984434
+                  ]
+            },
+            {
+                  "name": "Apaļais ezers",
+                  "text": "Apaļais ezers is a small, round lake in Ilukste, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        26.359597,
+                        55.973314
                   ]
             }
       ]
@@ -3811,6 +5431,15 @@ export const latviaCitiesV2: POI[] = [
                         23.773727,
                         56.969585
                   ]
+            },
+            {
+                  "name": "Babbit-See",
+                  "text": "Der Babītes ezers ist ein großer, bekannter See bei Priedaine, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.743318,
+                        56.924548
+                  ]
             }
       ],
       "hu": [
@@ -3902,6 +5531,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.773727,
                         56.969585
+                  ]
+            },
+            {
+                  "name": "Babītes ezers",
+                  "text": "A Babītes ezers egy nagy, ismert tó Priedaine közelében, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.743318,
+                        56.924548
                   ]
             }
       ],
@@ -3995,6 +5633,15 @@ export const latviaCitiesV2: POI[] = [
                         23.773727,
                         56.969585
                   ]
+            },
+            {
+                  "name": "Babītes ezers",
+                  "text": "Babītes ezers este un lac mare și cunoscut lângă Priedaine, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.743318,
+                        56.924548
+                  ]
             }
       ],
       "en": [
@@ -4087,6 +5734,15 @@ export const latviaCitiesV2: POI[] = [
                         23.773727,
                         56.969585
                   ]
+            },
+            {
+                  "name": "Babītes ezers",
+                  "text": "Babītes ezers is a large, well-known lake near Priedaine, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        23.743318,
+                        56.924548
+                  ]
             }
       ]
 },
@@ -4153,6 +5809,24 @@ export const latviaCitiesV2: POI[] = [
                         26.696067,
                         57.529564
                   ]
+            },
+            {
+                  "name": "Kalekaura ezers",
+                  "text": "Der Kalekaura ezers in Ape ist ein Natursee, der sich gut für ruhige Erkundungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.786374,
+                        57.568367
+                  ]
+            },
+            {
+                  "name": "Mazezers",
+                  "text": "Der Mazezers in Ape bietet eine friedliche Atmosphäre für einen entspannten Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.800008,
+                        57.568214
+                  ]
             }
       ],
       "hu": [
@@ -4172,6 +5846,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.696067,
                         57.529564
+                  ]
+            },
+            {
+                  "name": "Kalekaura ezers",
+                  "text": "A Kalekaura ezers Ape területén egy természetes tó, amely alkalmas a csendes felfedezésre.",
+                  "category": "natural",
+                  "coords": [
+                        26.786374,
+                        57.568367
+                  ]
+            },
+            {
+                  "name": "Mazezers",
+                  "text": "A Mazezers Ape területén békés légkört biztosít a pihentető szabadtéri időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.800008,
+                        57.568214
                   ]
             }
       ],
@@ -4193,6 +5885,24 @@ export const latviaCitiesV2: POI[] = [
                         26.696067,
                         57.529564
                   ]
+            },
+            {
+                  "name": "Kalekaura ezers",
+                  "text": "Kalekaura ezers din Ape este un lac natural, potrivit pentru explorări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        26.786374,
+                        57.568367
+                  ]
+            },
+            {
+                  "name": "Mazezers",
+                  "text": "Mazezers din Ape oferă o atmosferă pașnică pentru un sejur relaxant în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.800008,
+                        57.568214
+                  ]
             }
       ],
       "en": [
@@ -4212,6 +5922,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.696067,
                         57.529564
+                  ]
+            },
+            {
+                  "name": "Kalekaura ezers",
+                  "text": "Kalekaura ezers in Ape is a natural lake, well-suited for quiet exploration.",
+                  "category": "natural",
+                  "coords": [
+                        26.786374,
+                        57.568367
+                  ]
+            },
+            {
+                  "name": "Mazezers",
+                  "text": "Mazezers in Ape offers a peaceful atmosphere for a relaxed outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        26.800008,
+                        57.568214
                   ]
             }
       ]
@@ -4260,7 +5988,88 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-ape-cities-v2.webp",
   },
   {
-    id: "latvia-valdemarpils-cities-v2",
+    id: "latvia-valdemarpils-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sasmakas ezers",
+                  "text": "Ein ruhiger See bei Valdemarpils, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.619891,
+                        57.364908
+                  ]
+            },
+            {
+                  "name": "Lubes ezers",
+                  "text": "Dieser See in Valdemarpils bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.641012,
+                        57.39413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sasmakas ezers",
+                  "text": "Egy nyugodt tó Valdemarpils közelében, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.619891,
+                        57.364908
+                  ]
+            },
+            {
+                  "name": "Lubes ezers",
+                  "text": "Ez a tó Valdemarpilsben békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        22.641012,
+                        57.39413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sasmakas ezers",
+                  "text": "Un lac liniștit lângă Valdemarpils, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.619891,
+                        57.364908
+                  ]
+            },
+            {
+                  "name": "Lubes ezers",
+                  "text": "Acest lac din Valdemarpils oferă o atmosferă liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        22.641012,
+                        57.39413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sasmakas ezers",
+                  "text": "A calm lake near Valdemarpils, ideal for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.619891,
+                        57.364908
+                  ]
+            },
+            {
+                  "name": "Lubes ezers",
+                  "text": "This lake in Valdemarpils offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.641012,
+                        57.39413
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Valdemārpils", hu: "Valdemārpils", ro: "Valdemārpils", en: "Valdemārpils" },
@@ -4305,7 +6114,88 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-valdemarpils-cities-v2.webp",
   },
   {
-    id: "latvia-stende-cities-v2",
+    id: "latvia-stende-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dižstendes dzirnavdīķis",
+                  "text": "Der Dižstendes dzirnavdīķis ist ein ruhiger Mühlenteich in Stende, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        22.552781,
+                        57.194763
+                  ]
+            },
+            {
+                  "name": "Kūju ezers",
+                  "text": "Der Kūju ezers ist ein friedliches Gewässer in Stende, das von grüner Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.634502,
+                        57.119902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dižstendes dzirnavdīķis",
+                  "text": "A Dižstendes dzirnavdīķis egy nyugodt malomtó Stende területén, ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        22.552781,
+                        57.194763
+                  ]
+            },
+            {
+                  "name": "Kūju ezers",
+                  "text": "A Kūju ezers egy békés tó Stende területén, amelyet zöld táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        22.634502,
+                        57.119902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dižstendes dzirnavdīķis",
+                  "text": "Dižstendes dzirnavdīķis este un iaz liniștit în Stende, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        22.552781,
+                        57.194763
+                  ]
+            },
+            {
+                  "name": "Kūju ezers",
+                  "text": "Kūju ezers este un lac liniștit în Stende, înconjurat de un peisaj verde.",
+                  "category": "natural",
+                  "coords": [
+                        22.634502,
+                        57.119902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dižstendes dzirnavdīķis",
+                  "text": "Dižstendes dzirnavdīķis is a peaceful mill pond in Stende, ideal for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        22.552781,
+                        57.194763
+                  ]
+            },
+            {
+                  "name": "Kūju ezers",
+                  "text": "Kūju ezers is a peaceful body of water in Stende, surrounded by green landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        22.634502,
+                        57.119902
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Stende", hu: "Stende", ro: "Stende", en: "Stende" },
@@ -5197,6 +7087,123 @@ export const latviaCitiesV2: POI[] = [
                         27.538749,
                         56.105363
                   ]
+            },
+            {
+                  "name": "Janovas ezers",
+                  "text": "Ein malerischer See in Dagda, der sich gut für Erholung im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.563602,
+                        56.133091
+                  ]
+            },
+            {
+                  "name": "Narūts",
+                  "text": "Ein natürlicher See bei Dagda, der zum Entspannen in der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.541929,
+                        56.105423
+                  ]
+            },
+            {
+                  "name": "Purpļu ezers",
+                  "text": "Ein ruhiges Gewässer in Dagda, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        27.544183,
+                        56.109691
+                  ]
+            },
+            {
+                  "name": "Gaļšuns",
+                  "text": "Dieser See in Dagda bietet eine schöne Kulisse für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        27.562997,
+                        56.118464
+                  ]
+            },
+            {
+                  "name": "Visolda ezers",
+                  "text": "Ein kleiner See in Dagda, der zur lokalen Naturlandschaft gehört.",
+                  "category": "natural",
+                  "coords": [
+                        27.439012,
+                        56.139412
+                  ]
+            },
+            {
+                  "name": "Tīvgols",
+                  "text": "Ein ruhiger Ort am See in Dagda, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        27.461855,
+                        56.125368
+                  ]
+            },
+            {
+                  "name": "Opsas ezers",
+                  "text": "Ein See in der Region Dagda, der zum Wandern und Entdecken einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.515597,
+                        56.076749
+                  ]
+            },
+            {
+                  "name": "Kauseņš",
+                  "text": "Ein friedlicher See in Dagda, der sich gut für Beobachtungen in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.544865,
+                        56.107965
+                  ]
+            },
+            {
+                  "name": "Obiteļa dzirnavu dīķis",
+                  "text": "Ein Mühlenteich in Dagda, der ein ruhiges Ziel für einen Spaziergang darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        27.596198,
+                        56.143771
+                  ]
+            },
+            {
+                  "name": "Praļņica",
+                  "text": "Ein naturnaher See in Dagda, ideal für erholsame Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        27.497659,
+                        56.136087
+                  ]
+            },
+            {
+                  "name": "Kromančuks",
+                  "text": "Ein kleiner, ruhiger See in Dagda für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        27.479825,
+                        56.152265
+                  ]
+            },
+            {
+                  "name": "Dagdas ezers",
+                  "text": "Der Dagda-See bietet eine weite Wasserfläche für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.589489,
+                        56.083055
+                  ]
+            },
+            {
+                  "name": "Eša ezers",
+                  "text": "Ein malerischer See bei Dagda, der sich gut für die Freizeitgestaltung im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.596719,
+                        56.168578
+                  ]
             }
       ],
       "hu": [
@@ -5234,6 +7241,123 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.538749,
                         56.105363
+                  ]
+            },
+            {
+                  "name": "Janovas ezers",
+                  "text": "Festői tó Dagdában, amely kiválóan alkalmas szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        27.563602,
+                        56.133091
+                  ]
+            },
+            {
+                  "name": "Narūts",
+                  "text": "Természetes tó Dagda közelében, amely pihenésre hív a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        27.541929,
+                        56.105423
+                  ]
+            },
+            {
+                  "name": "Purpļu ezers",
+                  "text": "Csendes vízfelület Dagdában, ideális a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.544183,
+                        56.109691
+                  ]
+            },
+            {
+                  "name": "Gaļšuns",
+                  "text": "Ez a tó Dagdában szép környezetet biztosít a nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.562997,
+                        56.118464
+                  ]
+            },
+            {
+                  "name": "Visolda ezers",
+                  "text": "Egy kis tó Dagdában, amely a helyi természeti táj része.",
+                  "category": "natural",
+                  "coords": [
+                        27.439012,
+                        56.139412
+                  ]
+            },
+            {
+                  "name": "Tīvgols",
+                  "text": "Csendes vízparti hely Dagdában, ideális egy pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        27.461855,
+                        56.125368
+                  ]
+            },
+            {
+                  "name": "Opsas ezers",
+                  "text": "Egy tó Dagda régiójában, amely túrázásra és felfedezésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.515597,
+                        56.076749
+                  ]
+            },
+            {
+                  "name": "Kauseņš",
+                  "text": "Békés tó Dagdában, amely alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.544865,
+                        56.107965
+                  ]
+            },
+            {
+                  "name": "Obiteļa dzirnavu dīķis",
+                  "text": "Egy malom-tó Dagdában, amely nyugodt célpont egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.596198,
+                        56.143771
+                  ]
+            },
+            {
+                  "name": "Praļņica",
+                  "text": "Természetközeli tó Dagdában, ideális a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.497659,
+                        56.136087
+                  ]
+            },
+            {
+                  "name": "Kromančuks",
+                  "text": "Egy kicsi, csendes tó Dagdában a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.479825,
+                        56.152265
+                  ]
+            },
+            {
+                  "name": "Dagdas ezers",
+                  "text": "A Dagdai-tó tágas vízfelületet kínál a természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.589489,
+                        56.083055
+                  ]
+            },
+            {
+                  "name": "Eša ezers",
+                  "text": "Festői tó Dagda közelében, amely alkalmas a szabadtéri szabadidős tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        27.596719,
+                        56.168578
                   ]
             }
       ],
@@ -5273,6 +7397,123 @@ export const latviaCitiesV2: POI[] = [
                         27.538749,
                         56.105363
                   ]
+            },
+            {
+                  "name": "Janovas ezers",
+                  "text": "Un lac pitoresc în Dagda, potrivit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.563602,
+                        56.133091
+                  ]
+            },
+            {
+                  "name": "Narūts",
+                  "text": "Un lac natural lângă Dagda, care invită la relaxare în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        27.541929,
+                        56.105423
+                  ]
+            },
+            {
+                  "name": "Purpļu ezers",
+                  "text": "O apă liniștită în Dagda, ideală pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        27.544183,
+                        56.109691
+                  ]
+            },
+            {
+                  "name": "Gaļšuns",
+                  "text": "Acest lac din Dagda oferă un cadru frumos pentru momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        27.562997,
+                        56.118464
+                  ]
+            },
+            {
+                  "name": "Visolda ezers",
+                  "text": "Un lac mic în Dagda, care face parte din peisajul natural local.",
+                  "category": "natural",
+                  "coords": [
+                        27.439012,
+                        56.139412
+                  ]
+            },
+            {
+                  "name": "Tīvgols",
+                  "text": "Un loc liniștit lângă lac în Dagda, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.461855,
+                        56.125368
+                  ]
+            },
+            {
+                  "name": "Opsas ezers",
+                  "text": "Un lac în regiunea Dagda, care invită la drumeții și explorare.",
+                  "category": "natural",
+                  "coords": [
+                        27.515597,
+                        56.076749
+                  ]
+            },
+            {
+                  "name": "Kauseņš",
+                  "text": "Un lac pașnic în Dagda, potrivit pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.544865,
+                        56.107965
+                  ]
+            },
+            {
+                  "name": "Obiteļa dzirnavu dīķis",
+                  "text": "Un iaz de moară în Dagda, care reprezintă o destinație liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        27.596198,
+                        56.143771
+                  ]
+            },
+            {
+                  "name": "Praļņica",
+                  "text": "Un lac aproape de natură în Dagda, ideal pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.497659,
+                        56.136087
+                  ]
+            },
+            {
+                  "name": "Kromančuks",
+                  "text": "Un lac mic și liniștit în Dagda pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        27.479825,
+                        56.152265
+                  ]
+            },
+            {
+                  "name": "Dagdas ezers",
+                  "text": "Lacul Dagda oferă o suprafață mare de apă pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.589489,
+                        56.083055
+                  ]
+            },
+            {
+                  "name": "Eša ezers",
+                  "text": "Un lac pitoresc lângă Dagda, potrivit pentru activități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.596719,
+                        56.168578
+                  ]
             }
       ],
       "en": [
@@ -5310,6 +7551,123 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         27.538749,
                         56.105363
+                  ]
+            },
+            {
+                  "name": "Janovas ezers",
+                  "text": "A picturesque lake in Dagda, well-suited for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        27.563602,
+                        56.133091
+                  ]
+            },
+            {
+                  "name": "Narūts",
+                  "text": "A natural lake near Dagda, inviting for relaxation in the area.",
+                  "category": "natural",
+                  "coords": [
+                        27.541929,
+                        56.105423
+                  ]
+            },
+            {
+                  "name": "Purpļu ezers",
+                  "text": "A calm body of water in Dagda, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        27.544183,
+                        56.109691
+                  ]
+            },
+            {
+                  "name": "Gaļšuns",
+                  "text": "This lake in Dagda provides a beautiful backdrop for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        27.562997,
+                        56.118464
+                  ]
+            },
+            {
+                  "name": "Visolda ezers",
+                  "text": "A small lake in Dagda that is part of the local natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.439012,
+                        56.139412
+                  ]
+            },
+            {
+                  "name": "Tīvgols",
+                  "text": "A quiet spot by the lake in Dagda, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.461855,
+                        56.125368
+                  ]
+            },
+            {
+                  "name": "Opsas ezers",
+                  "text": "A lake in the Dagda region, inviting for hiking and exploration.",
+                  "category": "natural",
+                  "coords": [
+                        27.515597,
+                        56.076749
+                  ]
+            },
+            {
+                  "name": "Kauseņš",
+                  "text": "A peaceful lake in Dagda, suitable for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        27.544865,
+                        56.107965
+                  ]
+            },
+            {
+                  "name": "Obiteļs mill pond",
+                  "text": "A mill pond in Dagda, representing a quiet destination for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        27.596198,
+                        56.143771
+                  ]
+            },
+            {
+                  "name": "Praļņica",
+                  "text": "A lake close to nature in Dagda, ideal for relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        27.497659,
+                        56.136087
+                  ]
+            },
+            {
+                  "name": "Kromančuks",
+                  "text": "A small, quiet lake in Dagda for relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.479825,
+                        56.152265
+                  ]
+            },
+            {
+                  "name": "Dagdas ezers",
+                  "text": "Dagda Lake offers a wide water surface for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.589489,
+                        56.083055
+                  ]
+            },
+            {
+                  "name": "Eša ezers",
+                  "text": "A picturesque lake near Dagda, suitable for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        27.596719,
+                        56.168578
                   ]
             }
       ]
@@ -5845,6 +8203,15 @@ export const latviaCitiesV2: POI[] = [
                         21.3634,
                         56.60684
                   ]
+            },
+            {
+                  "name": "Durbes ezers",
+                  "text": "Ein großer See bei Durbe, ideal zum Beobachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        21.368302,
+                        56.614165
+                  ]
             }
       ],
       "hu": [
@@ -5909,6 +8276,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.3634,
                         56.60684
+                  ]
+            },
+            {
+                  "name": "Durbes ezers",
+                  "text": "Egy nagy tó Durbe közelében, ideális a táj megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.368302,
+                        56.614165
                   ]
             }
       ],
@@ -5975,6 +8351,15 @@ export const latviaCitiesV2: POI[] = [
                         21.3634,
                         56.60684
                   ]
+            },
+            {
+                  "name": "Durbes ezers",
+                  "text": "Un lac mare lângă Durbe, ideal pentru observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        21.368302,
+                        56.614165
+                  ]
             }
       ],
       "en": [
@@ -6039,6 +8424,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.3634,
                         56.60684
+                  ]
+            },
+            {
+                  "name": "Durbes ezers",
+                  "text": "A large lake near Durbe, ideal for observing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.368302,
+                        56.614165
                   ]
             }
       ]
@@ -6106,6 +8500,33 @@ export const latviaCitiesV2: POI[] = [
                         21.844833,
                         56.417491
                   ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Der Bātas dzirnavu dīķis ist ein historisch wirkender Teich in Vainode, ideal für eine kurze Rast.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Kalšu ezers / Kalčių ežeras",
+                  "text": "Kalšu ezers ist ein malerischer See an der Grenze in Vainode, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        21.870306,
+                        56.363878
+                  ]
+            },
+            {
+                  "name": "Juodkaičių ež.",
+                  "text": "Juodkaičių ež. ist ein ruhiger See in Vainode, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.823375,
+                        56.348565
+                  ]
             }
       ],
       "hu": [
@@ -6125,6 +8546,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.844833,
                         56.417491
+                  ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "A Bātas dzirnavu dīķis egy történelmi hangulatú tó Vainode területén, ideális egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Kalšu ezers / Kalčių ežeras",
+                  "text": "A Kalšu ezers egy festői tó a határnál Vainode területén, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        21.870306,
+                        56.363878
+                  ]
+            },
+            {
+                  "name": "Juodkaičių ež.",
+                  "text": "A Juodkaičių ež. egy csendes tó Vainode területén, amely alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.823375,
+                        56.348565
                   ]
             }
       ],
@@ -6146,6 +8594,33 @@ export const latviaCitiesV2: POI[] = [
                         21.844833,
                         56.417491
                   ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Bātas dzirnavu dīķis este un iaz cu aspect istoric în Vainode, ideal pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Kalšu ezers / Kalčių ežeras",
+                  "text": "Kalšu ezers este un lac pitoresc la graniță în Vainode, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.870306,
+                        56.363878
+                  ]
+            },
+            {
+                  "name": "Juodkaičių ež.",
+                  "text": "Juodkaičių ež. este un lac liniștit în Vainode, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.823375,
+                        56.348565
+                  ]
             }
       ],
       "en": [
@@ -6165,6 +8640,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.844833,
                         56.417491
+                  ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Bātas dzirnavu dīķis is a historic-feeling pond in Vainode, ideal for a brief rest.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Kalšu ezers / Kalčių ežeras",
+                  "text": "Kalšu ezers is a scenic lake at the border in Vainode, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        21.870306,
+                        56.363878
+                  ]
+            },
+            {
+                  "name": "Juodkaičių ež.",
+                  "text": "Juodkaičių ež. is a quiet lake in Vainode, suitable for a relaxed walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.823375,
+                        56.348565
                   ]
             }
       ]
@@ -6223,6 +8725,33 @@ export const latviaCitiesV2: POI[] = [
                         22.62737,
                         56.681429
                   ]
+            },
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Der Brocēnu ezers in Brocēni ist ein bekannter See, ideal zum Wandern und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Lāca ezeriņš",
+                  "text": "Der Lāca ezeriņš in Brocēni ist ein kleiner, charmanter See für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        22.685316,
+                        56.725796
+                  ]
+            },
+            {
+                  "name": "Cieceres ezers",
+                  "text": "Der Cieceres ezers in Brocēni bietet weite Wasserflächen und eine schöne Umgebung für Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        22.563736,
+                        56.646487
+                  ]
             }
       ],
       "hu": [
@@ -6233,6 +8762,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.62737,
                         56.681429
+                  ]
+            },
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "A Brocēnu ezers Brocēni városában egy ismert tó, amely ideális túrázásra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Lāca ezeriņš",
+                  "text": "A Lāca ezeriņš Brocēni területén egy apró, bájos tó a rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.685316,
+                        56.725796
+                  ]
+            },
+            {
+                  "name": "Cieceres ezers",
+                  "text": "A Cieceres ezers Brocēni közelében tágas vízfelületet és szép környezetet kínál a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.563736,
+                        56.646487
                   ]
             }
       ],
@@ -6245,6 +8801,33 @@ export const latviaCitiesV2: POI[] = [
                         22.62737,
                         56.681429
                   ]
+            },
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Lacul Brocēnu ezers din Brocēni este un lac cunoscut, ideal pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Lāca ezeriņš",
+                  "text": "Lāca ezeriņš din Brocēni este un lac mic și fermecător pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        22.685316,
+                        56.725796
+                  ]
+            },
+            {
+                  "name": "Cieceres ezers",
+                  "text": "Cieceres ezers din Brocēni oferă suprafețe vaste de apă și o împrejurime frumoasă pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        22.563736,
+                        56.646487
+                  ]
             }
       ],
       "en": [
@@ -6255,6 +8838,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.62737,
                         56.681429
+                  ]
+            },
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Brocēnu ezers in Brocēni is a well-known lake, ideal for hiking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Lāca ezeriņš",
+                  "text": "Lāca ezeriņš in Brocēni is a small, charming lake suitable for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.685316,
+                        56.725796
+                  ]
+            },
+            {
+                  "name": "Cieceres ezers",
+                  "text": "Cieceres ezers in Brocēni offers vast water surfaces and a beautiful environment for outings.",
+                  "category": "natural",
+                  "coords": [
+                        22.563736,
+                        56.646487
                   ]
             }
       ]
@@ -6970,6 +9580,15 @@ export const latviaCitiesV2: POI[] = [
                         23.383175,
                         56.638466
                   ]
+            },
+            {
+                  "name": "Bērze",
+                  "text": "Ein ruhiges Gewässer in Berze, das sich gut für einen kurzen Stopp in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.437527,
+                        56.676448
+                  ]
             }
       ],
       "hu": [
@@ -6980,6 +9599,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.383175,
                         56.638466
+                  ]
+            },
+            {
+                  "name": "Bērze",
+                  "text": "Csendes vízfelület Berze területén, amely alkalmas egy rövid természeti megállóra.",
+                  "category": "natural",
+                  "coords": [
+                        23.437527,
+                        56.676448
                   ]
             }
       ],
@@ -6992,6 +9620,15 @@ export const latviaCitiesV2: POI[] = [
                         23.383175,
                         56.638466
                   ]
+            },
+            {
+                  "name": "Bērze",
+                  "text": "O apă liniștită în Berze, potrivită pentru o scurtă oprire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.437527,
+                        56.676448
+                  ]
             }
       ],
       "en": [
@@ -7002,6 +9639,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.383175,
                         56.638466
+                  ]
+            },
+            {
+                  "name": "Bērze",
+                  "text": "A calm body of water in Berze, suitable for a short nature stop.",
+                  "category": "natural",
+                  "coords": [
+                        23.437527,
+                        56.676448
                   ]
             }
       ]
@@ -7428,7 +10074,232 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-zante-cities-v2.webp",
   },
   {
-    id: "latvia-zirni-cities-v2",
+    id: "latvia-zirni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Der Brocēnu ezers ist ein großer See in Zirni, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Slimnīcas dīķis",
+                  "text": "Der Slimnīcas dīķis ist ein ruhiger Teich in Zirni, ideal für einen kurzen Moment der Stille.",
+                  "category": "natural",
+                  "coords": [
+                        22.490405,
+                        56.671535
+                  ]
+            },
+            {
+                  "name": "Sātiņu-Sesiles karjers",
+                  "text": "Sātiņu-Sesiles karjers ist ein ehemaliger Steinbruch in Zirni, der heute als ruhiges Gewässer dient.",
+                  "category": "natural",
+                  "coords": [
+                        22.419981,
+                        56.638215
+                  ]
+            },
+            {
+                  "name": "Cieceres dzirnavu dīķis",
+                  "text": "Der Cieceres dzirnavu dīķis ist ein friedlicher Teich in Zirni, der zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.527709,
+                        56.663743
+                  ]
+            },
+            {
+                  "name": "Pakuļu ūdenskrātuve",
+                  "text": "Die Pakuļu ūdenskrātuve ist ein weitläufiger Stausee in Zirni, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        22.326458,
+                        56.689116
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieku dīķis",
+                  "text": "Der Dzirnavnieku dīķis ist ein ruhiges Gewässer in Zirni, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.473177,
+                        56.653779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "A Brocēnu ezers egy nagy tó Zirni területén, amely sokféle lehetőséget kínál a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Slimnīcas dīķis",
+                  "text": "A Slimnīcas dīķis egy csendes tó Zirni területén, ideális egy rövid, nyugodt pillanathoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.490405,
+                        56.671535
+                  ]
+            },
+            {
+                  "name": "Sātiņu-Sesiles karjers",
+                  "text": "A Sātiņu-Sesiles karjers egy egykori kőfejtő Zirni területén, amely ma nyugodt vízfelületként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        22.419981,
+                        56.638215
+                  ]
+            },
+            {
+                  "name": "Cieceres dzirnavu dīķis",
+                  "text": "A Cieceres dzirnavu dīķis egy békés tó Zirni területén, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.527709,
+                        56.663743
+                  ]
+            },
+            {
+                  "name": "Pakuļu ūdenskrātuve",
+                  "text": "A Pakuļu ūdenskrātuve egy tágas víztározó Zirni területén, ideális a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.326458,
+                        56.689116
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieku dīķis",
+                  "text": "A Dzirnavnieku dīķis egy nyugodt tó Zirni területén, ideális egy természetben töltött pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        22.473177,
+                        56.653779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Brocēnu ezers este un lac mare în Zirni, oferind diverse posibilități de recreere lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Slimnīcas dīķis",
+                  "text": "Slimnīcas dīķis este un iaz liniștit în Zirni, ideal pentru un scurt moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        22.490405,
+                        56.671535
+                  ]
+            },
+            {
+                  "name": "Sātiņu-Sesiles karjers",
+                  "text": "Sātiņu-Sesiles karjers este o fostă carieră în Zirni, care acum servește ca un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        22.419981,
+                        56.638215
+                  ]
+            },
+            {
+                  "name": "Cieceres dzirnavu dīķis",
+                  "text": "Cieceres dzirnavu dīķis este un iaz liniștit în Zirni, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.527709,
+                        56.663743
+                  ]
+            },
+            {
+                  "name": "Pakuļu ūdenskrātuve",
+                  "text": "Pakuļu ūdenskrātuve este un lac de acumulare întins în Zirni, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        22.326458,
+                        56.689116
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieku dīķis",
+                  "text": "Dzirnavnieku dīķis este un lac liniștit în Zirni, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.473177,
+                        56.653779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brocēnu ezers",
+                  "text": "Brocēnu ezers is a large lake in Zirni, offering various opportunities for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.554349,
+                        56.698034
+                  ]
+            },
+            {
+                  "name": "Slimnīcas dīķis",
+                  "text": "Slimnīcas dīķis is a quiet pond in Zirni, ideal for a brief moment of quietude.",
+                  "category": "natural",
+                  "coords": [
+                        22.490405,
+                        56.671535
+                  ]
+            },
+            {
+                  "name": "Sātiņu-Sesiles karjers",
+                  "text": "Sātiņu-Sesiles karjers is a former quarry in Zirni, which now serves as a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        22.419981,
+                        56.638215
+                  ]
+            },
+            {
+                  "name": "Cieceres dzirnavu dīķis",
+                  "text": "Cieceres dzirnavu dīķis is a peaceful pond in Zirni, inviting relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        22.527709,
+                        56.663743
+                  ]
+            },
+            {
+                  "name": "Pakuļu ūdenskrātuve",
+                  "text": "Pakuļu ūdenskrātuve is a spacious reservoir in Zirni, ideal for shoreline walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.326458,
+                        56.689116
+                  ]
+            },
+            {
+                  "name": "Dzirnavnieku dīķis",
+                  "text": "Dzirnavnieku dīķis is a quiet body of water in Zirni, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.473177,
+                        56.653779
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Zirņi", hu: "Zirņi", ro: "Zirņi", en: "Zirņi" },
@@ -7473,7 +10344,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-zirni-cities-v2.webp",
   },
   {
-    id: "latvia-kursisi-cities-v2",
+    id: "latvia-kursisi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pampāļu dzirnavu dīķis",
+                  "text": "Der Pampāļu dzirnavu dīķis in Kursīši ist ein ruhiger Mühlenteich, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        22.214897,
+                        56.545506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pampāļu dzirnavu dīķis",
+                  "text": "A Pampāļu dzirnavu dīķis Kursīši területén egy nyugodt malomtó, ideális egy zöldben töltött pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        22.214897,
+                        56.545506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pampāļu dzirnavu dīķis",
+                  "text": "Pampāļu dzirnavu dīķis din Kursīši este un iaz de moară liniștit, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.214897,
+                        56.545506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pampāļu dzirnavu dīķis",
+                  "text": "Pampāļu dzirnavu dīķis in Kursīši is a quiet mill pond, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.214897,
+                        56.545506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Kursīši", hu: "Kursīši", ro: "Kursīši", en: "Kursīši" },
@@ -7618,6 +10534,15 @@ export const latviaCitiesV2: POI[] = [
                         21.06481,
                         56.353919
                   ]
+            },
+            {
+                  "name": "Libauer See",
+                  "text": "Der Liepājas ezers ist ein großer, naturbelassener See bei Nica, bekannt für seine Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        21.053685,
+                        56.460139
+                  ]
             }
       ],
       "hu": [
@@ -7628,6 +10553,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.06481,
                         56.353919
+                  ]
+            },
+            {
+                  "name": "Liepājas ezers",
+                  "text": "A Liepājas ezers egy nagy, természetes tó Nica közelében, amely gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.053685,
+                        56.460139
                   ]
             }
       ],
@@ -7640,6 +10574,15 @@ export const latviaCitiesV2: POI[] = [
                         21.06481,
                         56.353919
                   ]
+            },
+            {
+                  "name": "Liepājas ezers",
+                  "text": "Liepājas ezers este un lac mare și natural lângă Nica, cunoscut pentru fauna sa aviară.",
+                  "category": "natural",
+                  "coords": [
+                        21.053685,
+                        56.460139
+                  ]
             }
       ],
       "en": [
@@ -7650,6 +10593,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.06481,
                         56.353919
+                  ]
+            },
+            {
+                  "name": "Liepājas ezers",
+                  "text": "Liepājas ezers is a large, natural lake near Nica, known for its birdlife and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.053685,
+                        56.460139
                   ]
             }
       ]
@@ -7753,6 +10705,33 @@ export const latviaCitiesV2: POI[] = [
                         21.525387,
                         56.404916
                   ]
+            },
+            {
+                  "name": "Kalētu ezers",
+                  "text": "Ein friedlicher See in Kaleti für entspannte Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        21.588172,
+                        56.361954
+                  ]
+            },
+            {
+                  "name": "Jāņkalna dīķis",
+                  "text": "Ein kleiner Teich in Kaleti, der zum Verweilen im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.478196,
+                        56.354339
+                  ]
+            },
+            {
+                  "name": "Trekņu dzirnavu dīķis",
+                  "text": "Ein lokaler Mühlenteich in Kaleti, ideal für eine ruhige Pause.",
+                  "category": "natural",
+                  "coords": [
+                        21.600221,
+                        56.379581
+                  ]
             }
       ],
       "hu": [
@@ -7763,6 +10742,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.525387,
                         56.404916
+                  ]
+            },
+            {
+                  "name": "Kalētu ezers",
+                  "text": "Békés tó Kaleti területén a vízparti pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.588172,
+                        56.361954
+                  ]
+            },
+            {
+                  "name": "Jāņkalna dīķis",
+                  "text": "Egy kis tó Kaleti területén, amely pihenésre hív a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        21.478196,
+                        56.354339
+                  ]
+            },
+            {
+                  "name": "Trekņu dzirnavu dīķis",
+                  "text": "Egy helyi malom-tó Kaleti területén, ideális egy nyugodt pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        21.600221,
+                        56.379581
                   ]
             }
       ],
@@ -7775,6 +10781,33 @@ export const latviaCitiesV2: POI[] = [
                         21.525387,
                         56.404916
                   ]
+            },
+            {
+                  "name": "Kalētu ezers",
+                  "text": "Un lac pașnic în Kaleti pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        21.588172,
+                        56.361954
+                  ]
+            },
+            {
+                  "name": "Jāņkalna dīķis",
+                  "text": "Un iaz mic în Kaleti, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.478196,
+                        56.354339
+                  ]
+            },
+            {
+                  "name": "Trekņu dzirnavu dīķis",
+                  "text": "Un iaz de moară local în Kaleti, ideal pentru o pauză liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.600221,
+                        56.379581
+                  ]
             }
       ],
       "en": [
@@ -7785,6 +10818,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.525387,
                         56.404916
+                  ]
+            },
+            {
+                  "name": "Kalētu ezers",
+                  "text": "A peaceful lake in Kaleti for relaxed walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        21.588172,
+                        56.361954
+                  ]
+            },
+            {
+                  "name": "Jāņkalna dīķis",
+                  "text": "A small pond in Kaleti, inviting for a stay in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.478196,
+                        56.354339
+                  ]
+            },
+            {
+                  "name": "Trekņu dzirnavu dīķis",
+                  "text": "A local mill pond in Kaleti, ideal for a quiet break.",
+                  "category": "natural",
+                  "coords": [
+                        21.600221,
+                        56.379581
                   ]
             }
       ]
@@ -7861,6 +10921,24 @@ export const latviaCitiesV2: POI[] = [
                         21.813362,
                         56.505586
                   ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Der Bātas dzirnavu dīķis in Embute ist ein friedlicher Ort, der sich gut für eine kurze Rast eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Dēseles dzirnavu ezers",
+                  "text": "Der Dēseles dzirnavu ezers ist ein malerischer See in Embute, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        21.926618,
+                        56.488638
+                  ]
             }
       ],
       "hu": [
@@ -7889,6 +10967,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.813362,
                         56.505586
+                  ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "A Bātas dzirnavu dīķis Embute területén egy békés hely, amely alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Dēseles dzirnavu ezers",
+                  "text": "A Dēseles dzirnavu ezers egy festői tó Embute területén, ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.926618,
+                        56.488638
                   ]
             }
       ],
@@ -7919,6 +11015,24 @@ export const latviaCitiesV2: POI[] = [
                         21.813362,
                         56.505586
                   ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Bātas dzirnavu dīķis din Embute este un loc liniștit, potrivit pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Dēseles dzirnavu ezers",
+                  "text": "Dēseles dzirnavu ezers este un lac pitoresc în Embute, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        21.926618,
+                        56.488638
+                  ]
             }
       ],
       "en": [
@@ -7947,6 +11061,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.813362,
                         56.505586
+                  ]
+            },
+            {
+                  "name": "Bātas dzirnavu dīķis",
+                  "text": "Bātas dzirnavu dīķis in Embute is a peaceful spot, suitable for a brief rest during a visit.",
+                  "category": "natural",
+                  "coords": [
+                        21.891147,
+                        56.446598
+                  ]
+            },
+            {
+                  "name": "Dēseles dzirnavu ezers",
+                  "text": "Dēseles dzirnavu ezers is a scenic lake in Embute, ideal for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.926618,
+                        56.488638
                   ]
             }
       ]
@@ -8095,6 +11227,51 @@ export const latviaCitiesV2: POI[] = [
                         21.529473,
                         56.925306
                   ]
+            },
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Ein kleiner Teich bei Alsunga, der Teil der lokalen Umgebung ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Ein ruhiger See in Alsunga, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "Ein friedliches Gewässer bei Alsunga für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Alsungas dzirnavezers",
+                  "text": "Ein Mühlensee in Alsunga, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.5731,
+                        56.98028
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Ein kleiner See in Alsunga, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
             }
       ],
       "hu": [
@@ -8105,6 +11282,51 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.529473,
                         56.925306
+                  ]
+            },
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Egy kis tó Alsunga közelében, amely a helyi környezet része.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Csendes tó Alsungában, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "Békés vízfelület Alsunga közelében a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Alsungas dzirnavezers",
+                  "text": "Egy malom-tó Alsungában, amely kiválóan alkalmas természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.5731,
+                        56.98028
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Egy kis tó Alsungában, amely nyugodt hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
                   ]
             }
       ],
@@ -8117,6 +11339,51 @@ export const latviaCitiesV2: POI[] = [
                         21.529473,
                         56.925306
                   ]
+            },
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Un iaz mic lângă Alsunga, care face parte din mediul local.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Un lac liniștit în Alsunga, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "O apă pașnică lângă Alsunga pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Alsungas dzirnavezers",
+                  "text": "Un lac de moară în Alsunga, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.5731,
+                        56.98028
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Un lac mic în Alsunga, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
             }
       ],
       "en": [
@@ -8127,6 +11394,51 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.529473,
                         56.925306
+                  ]
+            },
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "A small pond near Alsunga, part of the local surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "A calm lake in Alsunga, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "A peaceful body of water near Alsunga for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Alsungas dzirnavezers",
+                  "text": "A mill lake in Alsunga, well-suited for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.5731,
+                        56.98028
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "A small lake in Alsunga, offering a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
                   ]
             }
       ]
@@ -8175,7 +11487,196 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-alsunga-cities-v2.webp",
   },
   {
-    id: "latvia-gudenieki-cities-v2",
+    id: "latvia-gudenieki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Der Poparāju dīķis ist ein ruhiger Teich in Gudenieki, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Der Zvirgzdu ezers ist ein schöner See in Gudenieki, ideal für Erholung in der freien Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "Dēlene ist ein kleiner, ruhiger See in Gudenieki, der sich gut für eine Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Ērkules ezers",
+                  "text": "Der Ērkules ezers ist ein natürliches Gewässer in Gudenieki, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        21.717624,
+                        56.912855
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Der Kukšezers ist ein friedlicher See in Gudenieki, der zu einem entspannten Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "A Poparāju dīķis egy csendes tó Gudenieki területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "A Zvirgzdu ezers egy szép tó Gudenieki területén, ideális a szabadban való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "A Dēlene egy kicsi, csendes tó Gudenieki területén, amely alkalmas egy zöldben töltött pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Ērkules ezers",
+                  "text": "Az Ērkules ezers egy természetes tó Gudenieki területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        21.717624,
+                        56.912855
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "A Kukšezers egy békés tó Gudenieki területén, amely egy pihentető sétára hív.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Poparāju dīķis este un iaz liniștit în Gudenieki, oferind o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Zvirgzdu ezers este un lac frumos în Gudenieki, ideal pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "Dēlene este un lac mic și liniștit în Gudenieki, potrivit pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Ērkules ezers",
+                  "text": "Ērkules ezers este un lac natural în Gudenieki, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.717624,
+                        56.912855
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Kukšezers este un lac liniștit în Gudenieki, care invită la o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poparāju dīķis",
+                  "text": "Poparāju dīķis is a quiet pond in Gudenieki, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.603081,
+                        56.94387
+                  ]
+            },
+            {
+                  "name": "Zvirgzdu ezers",
+                  "text": "Zvirgzdu ezers is a beautiful lake in Gudenieki, ideal for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        21.647636,
+                        56.934749
+                  ]
+            },
+            {
+                  "name": "Dēlene",
+                  "text": "Dēlene is a small, quiet lake in Gudenieki, suitable for a break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        21.631183,
+                        56.940923
+                  ]
+            },
+            {
+                  "name": "Ērkules ezers",
+                  "text": "Ērkules ezers is a natural lake in Gudenieki, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        21.717624,
+                        56.912855
+                  ]
+            },
+            {
+                  "name": "Kukšezers",
+                  "text": "Kukšezers is a peaceful lake in Gudenieki, inviting visitors for a relaxed walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.682437,
+                        56.957595
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Gudenieki", hu: "Gudenieki", ro: "Gudenieki", en: "Gudenieki" },
@@ -8517,7 +12018,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-ugale-cities-v2.webp",
   },
   {
-    id: "latvia-zuras-cities-v2",
+    id: "latvia-zuras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vecventas ezers",
+                  "text": "Der Vecventas ezers in Žūras bietet eine naturnahe Kulisse für entspannte Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        21.610592,
+                        57.279696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vecventas ezers",
+                  "text": "A Vecventas ezers Žūras közelében természetközeli környezetet kínál a pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.610592,
+                        57.279696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vecventas ezers",
+                  "text": "Vecventas ezers din Žūras oferă un cadru natural pentru ore relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        21.610592,
+                        57.279696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vecventas ezers",
+                  "text": "Vecventas ezers in Žūras provides a nature-oriented setting for relaxed hours.",
+                  "category": "natural",
+                  "coords": [
+                        21.610592,
+                        57.279696
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Zūras", hu: "Zūras", ro: "Zūras", en: "Zūras" },
@@ -8733,7 +12279,88 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-usma-cities-v2.webp",
   },
   {
-    id: "latvia-targale-cities-v2",
+    id: "latvia-targale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Būšnieku ezers",
+                  "text": "Der Būšnieku ezers in Tārgale ist ein beliebtes Ziel für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        21.643414,
+                        57.445117
+                  ]
+            },
+            {
+                  "name": "Ventspils Adventure Park Wake Park",
+                  "text": "Der Ventspils Adventure Park Wake Park in Tārgale bietet Möglichkeiten für Wasseraktivitäten in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.548342,
+                        57.370933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Būšnieku ezers",
+                  "text": "A Būšnieku ezers Tārgale területén kedvelt célpont a természetbarátok és sétálók számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.643414,
+                        57.445117
+                  ]
+            },
+            {
+                  "name": "Ventspils Adventure Park Wake Park",
+                  "text": "A Ventspils Adventure Park Wake Park Tārgale területén vízi tevékenységeket kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.548342,
+                        57.370933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Būšnieku ezers",
+                  "text": "Būšnieku ezers din Tārgale este o destinație populară pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.643414,
+                        57.445117
+                  ]
+            },
+            {
+                  "name": "Ventspils Adventure Park Wake Park",
+                  "text": "Ventspils Adventure Park Wake Park din Tārgale oferă oportunități pentru activități acvatice în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.548342,
+                        57.370933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Būšnieku ezers",
+                  "text": "Būšnieku ezers in Tārgale is a popular destination for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        21.643414,
+                        57.445117
+                  ]
+            },
+            {
+                  "name": "Ventspils Adventure Park Wake Park",
+                  "text": "Ventspils Adventure Park Wake Park in Tārgale offers opportunities for water activities in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.548342,
+                        57.370933
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Tārgale", hu: "Tārgale", ro: "Tārgale", en: "Tārgale" },

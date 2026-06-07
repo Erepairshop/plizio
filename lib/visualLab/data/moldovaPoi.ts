@@ -38,7 +38,88 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-027-straseni-city",
+    id: "MD-027-straseni-city", "sights": {
+      "de": [
+            {
+                  "name": "Râmnic",
+                  "text": "Ein See in Straseni, der sich gut für Landschaftsaufnahmen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.564894,
+                        47.145763
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Ein bedeutender Stausee bei Straseni für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Râmnic",
+                  "text": "Tó Straseniben, amely jól alkalmas tájképek készítésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.564894,
+                        47.145763
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Jelentős víztározó Straseni mellett a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Râmnic",
+                  "text": "Un lac în Strășeni, potrivit pentru fotografierea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        28.564894,
+                        47.145763
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Un lac de acumulare important lângă Strășeni pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Râmnic",
+                  "text": "A lake in Straseni suitable for landscape photography.",
+                  "category": "natural",
+                  "coords": [
+                        28.564894,
+                        47.145763
+                  ]
+            },
+            {
+                  "name": "Ghidighici Reservoir",
+                  "text": "A significant reservoir near Straseni for recreation seekers.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-027",
     coords: [28.6103, 47.1414],
@@ -242,6 +323,15 @@ export const moldovaPoi: POI[] = [
                         28.823989,
                         47.374107
                   ]
+            },
+            {
+                  "name": "Lacul Orhei",
+                  "text": "Der See von Orhei bietet eine schöne Kulisse für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        28.824961,
+                        47.396079
+                  ]
             }
       ],
       "hu": [
@@ -306,6 +396,15 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.823989,
                         47.374107
+                  ]
+            },
+            {
+                  "name": "Lacul Orhei",
+                  "text": "Az orhei tó szép környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.824961,
+                        47.396079
                   ]
             }
       ],
@@ -372,6 +471,15 @@ export const moldovaPoi: POI[] = [
                         28.823989,
                         47.374107
                   ]
+            },
+            {
+                  "name": "Lacul Orhei",
+                  "text": "Lacul Orhei oferă un cadru frumos pentru activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        28.824961,
+                        47.396079
+                  ]
             }
       ],
       "en": [
@@ -436,6 +544,15 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.823989,
                         47.374107
+                  ]
+            },
+            {
+                  "name": "Lacul Orhei",
+                  "text": "Orhei Lake provides a beautiful setting for recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        28.824961,
+                        47.396079
                   ]
             }
       ]
@@ -717,6 +834,33 @@ export const moldovaPoi: POI[] = [
                         29.616911,
                         46.837231
                   ]
+            },
+            {
+                  "name": "Насосная станция №9",
+                  "text": "Ein Gewässer in Tiraspol in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Ein See in Tiraspol, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Пустой",
+                  "text": "Ein kleiner See in Tiraspol für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
             }
       ],
       "hu": [
@@ -925,6 +1069,33 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         29.616911,
                         46.837231
+                  ]
+            },
+            {
+                  "name": "Насосная станция №9",
+                  "text": "Vízfelület Tiraspolban, csendes környéken.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Tó Tiraspolban, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Пустой",
+                  "text": "Kisméretű tó Tiraspolban a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
                   ]
             }
       ],
@@ -1135,6 +1306,33 @@ export const moldovaPoi: POI[] = [
                         29.616911,
                         46.837231
                   ]
+            },
+            {
+                  "name": "Насосная станция №9",
+                  "text": "O apă în Tiraspol, într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "Un lac în Tiraspol care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Пустой",
+                  "text": "Un mic lac în Tiraspol pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
             }
       ],
       "en": [
@@ -1344,6 +1542,33 @@ export const moldovaPoi: POI[] = [
                         29.616911,
                         46.837231
                   ]
+            },
+            {
+                  "name": "Насосная станция №9",
+                  "text": "A water body in Tiraspol located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "озеро Вай-Водына",
+                  "text": "A lake in Tiraspol that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Пустой",
+                  "text": "A small lake in Tiraspol for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
             }
       ]
 },
@@ -1417,7 +1642,700 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-031-chisinau-city",
+    id: "MD-031-chisinau-city", "sights": {
+      "de": [
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "Der Vasimiorca-See in Chisinau ist ein ruhiger Ort, ideal für einen stillen Spaziergang und zum Genießen der Seenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Der See Nr. 1 in Chisinau bietet eine neutrale und ruhige Umgebung, in der Besucher einen Spaziergang am Wasser genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Der See Nr. 2 in Chisinau ist ein ruhiges Gewässer, ideal für einen entspannten Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Der See Nr. 3 in Chisinau bietet eine ruhige natürliche Umgebung für alle, die einen einfachen Spaziergang am Ufer suchen.",
+                  "category": "natural",
+                  "coords": [
+                        28.872622,
+                        47.050285
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Der Albișoara-See in Chisinau ist ein angenehmes Seengebiet, das sich für einen ruhigen Spaziergang und zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Der Tortuga-See in Chisinau bietet eine friedliche und neutrale Umgebung für einen entspannten Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Iazul „Colonița”",
+                  "text": "Der Colonița-See in Chisinau ist ein ruhiges Gewässer, ideal um einen friedlichen Spaziergang in der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        28.953967,
+                        47.019424
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM in Chisinau bietet ein ruhiges Wassergebiet, ideal für einen einfachen und stillen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Iazul „Humulești”",
+                  "text": "Der Humulești-See in Chisinau ist ein friedlicher See, der eine neutrale Umgebung für einen Spaziergang im Freien am Ufer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.967558,
+                        46.998632
+                  ]
+            },
+            {
+                  "name": "Iazul Râșcani",
+                  "text": "Der Râșcani-See in Chisinau ist ein malerisches Gewässer, ideal für einen entspannten Spaziergang und um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        28.870825,
+                        47.039027
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Der See Nr. 4 in Chisinau bietet eine ruhige und einfache Umgebung für einen stillen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Der Valley's Lake in Chisinau ist ein ruhiges Gewässer, ideal um einen friedlichen Spaziergang und die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Der See Valea Morilor in Chisinau ist ein wunderschöner und beliebter See, der eine malerische Umgebung zum Wandern und Erholen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids ist ein unterhaltsamer Spielplatz in Chisinau, der einen sicheren und unterhaltsamen Raum für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de Joacă pentru Copii „Copfer”",
+                  "text": "Copfer ist ein einladender Spielplatz in Chisinau, ideal für einen unterhaltsamen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        28.856659,
+                        47.012961
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Wonderland ist ein aufregender Spielplatz in Chisinau, der verschiedene unterhaltsame Aktivitäten für Kinder und ihre Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.85602,
+                        47.014837
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă",
+                  "text": "Dieser Spielplatz in Chisinau bietet einen einfachen und angenehmen Raum für lokale Familien und Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        28.867971,
+                        46.98784
+                  ]
+            },
+            {
+                  "name": "Ram Zam Zam",
+                  "text": "Ram Zam Zam ist ein lebhafter Spielplatz in Chisinau, auf dem Kinder spielen können, während sich die Familien entspannen.",
+                  "category": "family",
+                  "coords": [
+                        28.836895,
+                        47.025114
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă de pe str. Pușkin, 50",
+                  "text": "Dieser Spielplatz in der Pușkin-Straße in Chisinau bietet einen praktischen Ort für Familien und Kinder, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        28.840525,
+                        47.027603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "A kisinyovi Vasimiorca-tó egy nyugodt hely, amely tökéletes egy csendes sétához és a tavi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "A kisinyovi 1-es számú tó semleges és nyugodt környezetet kínál a látogatóknak egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A kisinyovi 2-es számú tó egy békés vízfelület, amely ideális egy pihentető szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A kisinyovi 3-as számú tó nyugodt természeti környezetet biztosít azoknak, akik egy egyszerű sétát keresnek a parton.",
+                  "category": "natural",
+                  "coords": [
+                        28.872622,
+                        47.050285
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "A kisinyovi Albișoara-tó egy kellemes tóvidék, amely alkalmas egy nyugodt sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "A kisinyovi Tortuga-tó békés és semleges környezetet kínál egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Iazul „Colonița”",
+                  "text": "A kisinyovi Colonița-tó egy nyugodt vízfelület, amely ideális egy békés természetbeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.953967,
+                        47.019424
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "A kisinyovi Bazinul de înot al USM nyugodt vízfelületet biztosít, amely tökéletes egy egyszerű és csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Iazul „Humulești”",
+                  "text": "A kisinyovi Humulești-tó egy békés tó, amely semleges környezetet kínál egy szabadtéri sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        28.967558,
+                        46.998632
+                  ]
+            },
+            {
+                  "name": "Iazul Râșcani",
+                  "text": "A kisinyovi Râșcani-tó egy festői vízfelület, amely ideális egy pihentető sétához és a helyi táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.870825,
+                        47.039027
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "A kisinyovi 4-es számú tó nyugodt és egyszerű környezetet biztosít egy csendes vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "A kisinyovi Valley's Lake egy nyugodt vízfelület, amely tökéletes egy békés séta és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "A kisinyovi Valea Morilor-tó egy gyönyörű és népszerű tó, amely festői környezetet biztosít a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "A Panda Kids egy szórakoztató játszótér Kisinyovban, amely biztonságos és élvezetes helyet kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de Joacă pentru Copii „Copfer”",
+                  "text": "A Copfer egy barátságos játszótér Kisinyovban, amely tökéletes egy vidám családi kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        28.856659,
+                        47.012961
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "A Wonderland egy izgalmas játszótér Kisinyovban, amely különféle szórakoztató tevékenységeket kínál a gyerekeknek és családjaiknak.",
+                  "category": "family",
+                  "coords": [
+                        28.85602,
+                        47.014837
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă",
+                  "text": "Ez a kisinyovi játszótér egyszerű és élvezetes helyet biztosít a helyi családoknak és gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.867971,
+                        46.98784
+                  ]
+            },
+            {
+                  "name": "Ram Zam Zam",
+                  "text": "A Ram Zam Zam egy élénk játszótér Kisinyovban, ahol a gyerekek játszhatnak, miközben a családok pihennek.",
+                  "category": "family",
+                  "coords": [
+                        28.836895,
+                        47.025114
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă de pe str. Pușkin, 50",
+                  "text": "Ez a kisinyovi, Puskin utcai játszótér kényelmes helyet biztosít a családoknak és gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.840525,
+                        47.027603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul „Vasimiorca”",
+                  "text": "Lacul „Vasimiorca” din Chișinău este un loc liniștit, perfect pentru o plimbare calmă și pentru a admira peisajul lacustru.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lacul nr. 1 din Chișinău oferă un cadru neutru și calm pentru vizitatorii care doresc să se bucure de o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lacul nr. 2 din Chișinău este o întindere de apă liniștită, ideală pentru o plimbare relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lacul nr. 3 din Chișinău oferă un mediu natural liniștit pentru cei care caută o simplă plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.872622,
+                        47.050285
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Lacul Albișoara din Chișinău este o zonă lacustră plăcută, potrivită pentru o plimbare calmă și pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Lacul Tortuga din Chișinău oferă un cadru liniștit și neutru pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Iazul „Colonița”",
+                  "text": "Iazul „Colonița” din Chișinău este un curs de apă liniștit, ideal pentru a te bucura de o plimbare calmă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.953967,
+                        47.019424
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM din Chișinău oferă o zonă acvatică liniștită, perfectă pentru o plimbare simplă și calmă.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Iazul „Humulești”",
+                  "text": "Iazul „Humulești” din Chișinău este un lac liniștit, oferind un cadru neutru pentru o plimbare în aer liber pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.967558,
+                        46.998632
+                  ]
+            },
+            {
+                  "name": "Iazul Râșcani",
+                  "text": "Lacul Râșcani din Chișinău este o întindere de apă pitorească, ideală pentru o plimbare relaxantă și pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        28.870825,
+                        47.039027
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Lacul nr. 4 din Chișinău oferă un mediu calm și simplu pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Lacul Valley din Chișinău este o întindere de apă liniștită, perfectă pentru a te bucura de o plimbare calmă și de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Lacul Valea Morilor din Chișinău este un lac frumos și popular, oferind un cadru pitoresc pentru plimbare și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids este un loc de joacă distractiv în Chișinău, oferind un spațiu sigur și distractiv pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de Joacă pentru Copii „Copfer”",
+                  "text": "Terenul de joacă „Copfer” este un loc primitor în Chișinău, perfect pentru o ieșire distractivă în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        28.856659,
+                        47.012961
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Wonderland este un loc de joacă captivant în Chișinău, oferind diverse activități distractive pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        28.85602,
+                        47.014837
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă",
+                  "text": "Acest teren de joacă din Chișinău oferă un spațiu simplu și plăcut în care familiile locale și copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        28.867971,
+                        46.98784
+                  ]
+            },
+            {
+                  "name": "Ram Zam Zam",
+                  "text": "Ram Zam Zam este un loc de joacă plin de viață în Chișinău, perfect pentru copii, în timp ce familiile se relaxează.",
+                  "category": "family",
+                  "coords": [
+                        28.836895,
+                        47.025114
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă de pe str. Pușkin, 50",
+                  "text": "Acest teren de joacă de pe strada Pușkin din Chișinău oferă un loc convenabil pentru familii și copii, unde aceștia se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        28.840525,
+                        47.027603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Vasimiorca\" Lake",
+                  "text": "\"Vasimiorca\" Lake in Chisinau is a tranquil spot, perfect for a quiet walk and enjoying the lake scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.877672,
+                        46.969661
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lacul nr. 1 in Chisinau offers a neutral and calm setting for visitors to enjoy a stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lacul nr. 2 in Chisinau is a peaceful body of water, ideal for a relaxing outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lacul nr. 3 in Chisinau provides a quiet natural environment for those seeking a simple walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.872622,
+                        47.050285
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "Albișoara Lake in Chisinau is a pleasant lake area, suitable for a calm stroll and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Tortuga Lake",
+                  "text": "Tortuga Lake in Chisinau offers a peaceful and neutral setting for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Iazul „Colonița”",
+                  "text": "Iazul „Colonița” in Chisinau is a quiet body of water, ideal for enjoying a peaceful walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.953967,
+                        47.019424
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM in Chisinau provides a calm water area, perfect for a simple and quiet stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Iazul „Humulești”",
+                  "text": "Iazul „Humulești” in Chisinau is a peaceful lake, offering a neutral setting for an outdoor walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.967558,
+                        46.998632
+                  ]
+            },
+            {
+                  "name": "Râșcani Lake",
+                  "text": "Râșcani Lake in Chisinau is a scenic body of water, ideal for a relaxing walk and taking in the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.870825,
+                        47.039027
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "Lake No. 4 in Chisinau provides a calm and simple environment for a quiet stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Valley's Lake",
+                  "text": "Valley's Lake in Chisinau is a tranquil body of water, perfect for enjoying a peaceful walk and the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "Valea Morilor Lake in Chisinau is a beautiful and popular lake, offering a scenic setting for walking and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Panda Kids",
+                  "text": "Panda Kids is a fun playground in Chisinau, providing a safe and entertaining space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        28.833081,
+                        46.99503
+                  ]
+            },
+            {
+                  "name": "Teren de Joacă pentru Copii „Copfer”",
+                  "text": "Copfer is a welcoming playground in Chisinau, perfect for a fun family outing with children.",
+                  "category": "family",
+                  "coords": [
+                        28.856659,
+                        47.012961
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Wonderland is an exciting playground in Chisinau, offering various fun activities for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        28.85602,
+                        47.014837
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă",
+                  "text": "This playground in Chisinau provides a simple and enjoyable space for local families and children to play.",
+                  "category": "family",
+                  "coords": [
+                        28.867971,
+                        46.98784
+                  ]
+            },
+            {
+                  "name": "Ram Zam Zam",
+                  "text": "Ram Zam Zam is a lively playground in Chisinau, perfect for children to play while families relax.",
+                  "category": "family",
+                  "coords": [
+                        28.836895,
+                        47.025114
+                  ]
+            },
+            {
+                  "name": "Terenul de Joacă de pe str. Pușkin, 50",
+                  "text": "This playground on Pușkin Street in Chisinau offers a convenient spot for families and children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        28.840525,
+                        47.027603
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-031",
     coords: [28.8638, 47.0105],

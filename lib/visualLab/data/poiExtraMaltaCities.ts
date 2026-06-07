@@ -436,6 +436,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510831,
                         35.898701
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ein malerischer See in Valletta, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein malerischer See in Valletta, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ein malerischer See in Valletta, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein malerischer See in Valletta, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ein lokaler Spielplatz in Valletta, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ein lokaler Spielplatz in Valletta, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ein lokaler Spielplatz in Valletta, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ein lokaler Spielplatz in Valletta, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ein lokaler Spielplatz in Valletta, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -869,6 +950,87 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510831,
                         35.898701
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Festői tó Valletta területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Festői tó Valletta területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Festői tó Valletta területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Festői tó Valletta területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Helyi játszótér Valletta városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Helyi játszótér Valletta városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Helyi játszótér Valletta városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Helyi játszótér Valletta városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Helyi játszótér Valletta városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -1304,6 +1466,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510831,
                         35.898701
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Un lac pitoresc în Valletta, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un lac pitoresc în Valletta, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Un lac pitoresc în Valletta, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un lac pitoresc în Valletta, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Un loc de joacă local în Valletta, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Un loc de joacă local în Valletta, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Un loc de joacă local în Valletta, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Un loc de joacă local în Valletta, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Un loc de joacă local în Valletta, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -1738,6 +1981,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510831,
                         35.898701
                   ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "A scenic lake in Valletta, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A scenic lake in Valletta, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A scenic lake in Valletta, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A scenic lake in Valletta, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A local playground in Valletta, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "A local playground in Valletta, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A local playground in Valletta, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A local playground in Valletta, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A local playground in Valletta, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ]
 },
@@ -2170,6 +2494,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.513302,
                         35.906631
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Sliema bietet eine industrielle und ruhige Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein Wasserbecken in Sliema, das zur lokalen Infrastruktur gehört.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Historische Naval-Reservoirs in Sliema, die einen interessanten Anblick bieten.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein funktionales Reservoir in Sliema, das Teil der Stadtlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Diese Spielhalle in Sliema bietet moderne Spiele und Unterhaltung für Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ein Spielzimmer in Sliema, ideal für Familien, die eine Pause vom Sightseeing suchen.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Ein ruhiger Garten in Sliema mit einem Bereich für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Dieser Spielplatz in Sliema ist ein beliebter Ort für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ein kleiner Erholungsraum in Sliema, der Platz für Freizeit und Spiel bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ein Spielbereich in Sliema, der sicher und einladend für Kinder gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Bereich in Sliema bietet zusätzliche Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ein moderner Spielplatz in Sliema, der für verschiedene Altersgruppen geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -2558,6 +2990,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.513302,
                         35.906631
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Sliemában található tározó ipari és nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Víztározó Sliemában, amely a helyi infrastruktúra része.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Történelmi tengerészeti tározók Sliemában, amelyek érdekes látványt nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Funkcionális tározó Sliemában, amely a városi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Ez a Sliemában található játékterem modern játékokat és szórakozást kínál a fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Játékszoba Sliemában, ideális a városnézés közben pihenni vágyó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Nyugodt kert Sliemában, ahol a gyerekek számára kialakított játszórész is található.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ez a Sliemában található játszótér a helyi családok kedvelt helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Kisméretű szabadidős tér Sliemában, amely helyet biztosít a kikapcsolódásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Biztonságos és hívogató játszórész Sliemában a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Sliemában található terület további szabadtéri játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Modern játszótér Sliemában, amely különféle korosztályok számára alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -2948,6 +3488,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.513302,
                         35.906631
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Sliema oferă un cadru industrial și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un bazin de apă în Sliema, care face parte din infrastructura locală.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Rezervoare navale istorice în Sliema, care oferă o priveliște interesantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un rezervor funcțional în Sliema, care face parte din peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Această sală de jocuri din Sliema oferă jocuri moderne și divertisment pentru tineri.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "O cameră de jocuri în Sliema, ideală pentru familiile care caută o pauză de la vizitare.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "O grădină liniștită în Sliema, cu o zonă de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Acest teren de joacă din Sliema este un loc popular pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Un mic spațiu de recreere în Sliema, care oferă loc pentru petrecerea timpului liber și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "O zonă de joacă în Sliema, concepută pentru a fi sigură și primitoare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Această zonă din Sliema oferă opțiuni suplimentare de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Un teren de joacă modern în Sliema, potrivit pentru diverse grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -3336,6 +3984,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.513302,
                         35.906631
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Sliema offers an industrial and calm backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A water basin in Sliema that is part of the local infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Historic naval reservoirs in Sliema offering an interesting sight.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A functional reservoir in Sliema that is part of the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "This arcade in Sliema offers modern games and entertainment for young people.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A games room in Sliema, ideal for families seeking a break from sightseeing.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "A quiet garden in Sliema with a section for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "This playground in Sliema is a popular spot for local families.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "A small recreational space in Sliema offering room for leisure and play.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A play area in Sliema designed to be safe and inviting for children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This area in Sliema offers additional outdoor play options.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A modern playground in Sliema suitable for various age groups.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ]
@@ -5818,6 +6574,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.51692,
                         35.899526
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ein malerischer See in Gzira, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein malerischer See in Gzira, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ein malerischer See in Gzira, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ein malerischer See in Gzira, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein malerischer See in Gzira, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eine Spielhalle in Gzira mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Eine Spielhalle in Gzira mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ein lokaler Spielplatz in Gzira, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -6224,6 +7124,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.51692,
                         35.899526
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Festői tó Gzira területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Festői tó Gzira területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Festői tó Gzira területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Festői tó Gzira területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Festői tó Gzira területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Szórakoztató játékterem Gzira területén, különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Szórakoztató játékterem Gzira területén, különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Helyi játszótér Gzira városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -6632,6 +7676,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.51692,
                         35.899526
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Un lac pitoresc în Gzira, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un lac pitoresc în Gzira, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Un lac pitoresc în Gzira, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Un lac pitoresc în Gzira, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un lac pitoresc în Gzira, perfect für o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "O sală de jocuri în Gzira cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "O sală de jocuri în Gzira cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Un loc de joacă local în Gzira, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -7038,6 +8226,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.51692,
                         35.899526
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "A scenic lake in Gzira, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A scenic lake in Gzira, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A scenic lake in Gzira, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A scenic lake in Gzira, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A scenic lake in Gzira, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "An amusement arcade in Gzira with various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "An amusement arcade in Gzira with various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A local playground in Gzira, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -7480,6 +8812,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.465354,
                         35.899989
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Dieses Gewässer in Msida bietet einen ruhigen Anblick in der städtischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ein Reservoir in Msida, das funktional ist und die Umgebung ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieses Wasserreservoir in Msida ist ein Teil der lokalen Versorgungslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ein Bereich in Msida, der durch seine Wasserflächen eine besondere Note erhält.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoirs in Msida zeigen einen interessanten Teil der lokalen Technik.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein funktionales Becken in Msida, das zur städtischen Infrastruktur zählt.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Diese Spielhalle in Msida bietet vielfältigen Spielspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ein Ort für Videospiele und Unterhaltung in Msida, ideal für Regentage.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ein freundlicher Garten in Msida mit Platz zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Dieser Spielplatz in Msida bietet eine sichere Umgebung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ein städtischer Erholungsraum in Msida, der zum Spielen und Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ein kleiner Park in Msida mit Spielgeräten für die jüngsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ein gut ausgestatteter Spielbereich in Msida für tägliche Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Bereich in Msida ergänzt das lokale Angebot an kinderfreundlichen Plätzen.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Der Spazju Rikreattiv George Dingli in Msida ist ein familienfreundlicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon ist ein lokaler Spielplatz in Msida, der sich für Familienausflüge eignet.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -7877,6 +9353,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.465354,
                         35.899989
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ez a Msidában található vízfelület nyugodt látványt nyújt a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Tározó Msidában, amely funkcionális és kiegészíti a környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Msidában található víztározó a helyi ellátási hálózat része.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Msida egyik területe, amely a vízfelületek révén különleges karaktert kap.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a Msidában található tározók a helyi mérnöki munka érdekes részét mutatják be.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Funkcionális medence Msidában, amely a városi infrastruktúra része.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Ez a Msidában található játékterem változatos szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Videojátékok és szórakozás helyszíne Msidában, ideális esős napokra.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Barátságos kert Msidában, ahol a gyerekeknek van helyük játszani.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ez a Msidában található játszótér biztonságos környezetet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Városi szabadidős tér Msidában, amely játékra és időtöltésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Kisméretű park Msidában, játékokkal a legfiatalabb látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Jól felszerelt játszórész Msidában a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Msidában található terület kiegészíti a helyi gyerekbarát helyek kínálatát.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Msida területén található Spazju Rikreattiv George Dingli egy családbarát játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon egy helyi játszótér Msidában, amely alkalmas családi kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -8276,6 +9896,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.465354,
                         35.899989
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Acest corp de apă din Msida oferă o priveliște liniștită în mediul urban.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Un rezervor în Msida, care este funcțional și completează împrejurimile.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest rezervor de apă din Msida face parte din peisajul local de utilități.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "O zonă din Msida care capătă o notă specială datorită suprafețelor de apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Msida prezintă o parte interesantă a ingineriei locale.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un bazin funcțional în Msida, care face parte din infrastructura urbană.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Această sală de jocuri din Msida oferă distracție variată pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Un loc pentru jocuri video și divertisment în Msida, ideal pentru zilele ploioase.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "O grădină prietenoasă în Msida, cu spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Acest teren de joacă din Msida oferă un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Un spațiu urban de recreere în Msida, care invită la joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Un mic parc în Msida cu echipamente de joacă pentru cei mai tineri vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "O zonă de joacă bine echipată în Msida pentru activități zilnice de recreere.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Această zonă din Msida completează oferta locală de locuri prietenoase pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli din Msida este un loc de joacă pentru familii, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon este un loc de joacă local din Msida, potrivit pentru ieșiri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -8673,6 +10437,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.465354,
                         35.899989
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "This body of water in Msida offers a calm sight in the urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "A reservoir in Msida that is functional and complements the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This water reservoir in Msida is a part of the local utility landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "An area in Msida that gets a special touch from its water surfaces.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Msida show an interesting part of local engineering.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A functional basin in Msida that is part of the urban infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "This arcade in Msida offers diverse gaming fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A place for video games and entertainment in Msida, ideal for rainy days.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A friendly garden in Msida with space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "This playground in Msida offers a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "An urban recreational space in Msida that invites play and lingering.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "A small park in Msida with play equipment for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A well-equipped play area in Msida for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This area in Msida complements the local offering of child-friendly spots.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli in Msida is a family-friendly playground for children.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon is a local playground in Msida suitable for family outings.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -9124,6 +11032,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.499189,
                         35.9178
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir ist ein Gewässer in Ta Xbiex. Es ist eine ruhige Gegend, die sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein Stausee in Ta Xbiex. Er bietet einen ruhigen Ort, um die umliegende Landschaft zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas ist ein Wassergebiet in Ta Xbiex. Es bietet eine friedliche Umgebung für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs befinden sich in Ta Xbiex. Dieses Gebiet ist ein ruhiger Ort zur Beobachtung der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir ist ein Wasserspeicher in Ta Xbiex. Es ist ein ruhiger Ort innerhalb des Stadtgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Die Eden XP Arcade in Ta Xbiex bietet eine Vielzahl von Spielen für Kinder und Familien. Es ist ein großartiger Ort für Unterhaltung im Innenbereich.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Der Campus Hub Games Room in Ta Xbiex bietet verschiedene Spielmöglichkeiten für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet ist ein lokaler Spielplatz in Ta Xbiex, der Spielgeräte für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Der Mother Theresa of Calcutta Garden ist ein Gemeinschaftsspielplatz in Ta Xbiex für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Das Johnny Agius Memorial ist ein Spielplatz in Ta Xbiex, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Mandraġġ Recreational Space in Ta Xbiex bietet einen angenehmen Außenbereich für Aktivitäten von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Der Anton Buttigieg Garden ist ein lokaler Spielplatz in Ta Xbiex, ideal für eine Familienpause.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Der SAC Lower Ground ist ein Spielplatzbereich in Ta Xbiex, der für jüngere Besucher konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Der SAC Upper Ground bietet zusätzlichen Spielraum für Kinder in Ta Xbiex.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Der Spazju Rikreattiv George Dingli ist ein Erholungsspielplatz in Ta Xbiex für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon ist ein Spielplatz in Ta Xbiex mit Rutschen und Klettergerüsten.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -9530,6 +11582,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.499189,
                         35.9178
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy vízfelület Ta Xbiexben. Csendes terület, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy víztározó Ta Xbiexben. Nyugodt pontot kínál a környező táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A Salinas egy vízterület Ta Xbiexben. Nyugodt környezetet biztosít egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs Ta Xbiexben található. Ez a terület egy csendes hely a helyi táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy víztározó Ta Xbiexben. Egy nyugodt pont a városi területen belül.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "A Ta Xbiex-i Eden XP Arcade különféle játékokat kínál gyerekeknek és családoknak. Kiváló hely a beltéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A Ta Xbiex-i Campus Hub Games Room számos játéklehetőséget kínál egy szórakoztató családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A Ġnien Esprit Barthet egy helyi játszótér Ta Xbiexben, amely játéklehetőséget biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "A Mother Theresa of Calcutta Garden egy közösségi játszótér Ta Xbiexben a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A Johnny Agius Memorial egy játszótér Ta Xbiexben, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "A Ta Xbiex-i Mandraġġ Recreational Space kellemes szabadtéri területet kínál a gyermekek tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Az Anton Buttigieg Garden egy helyi játszótér Ta Xbiexben, amely ideális egy családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A SAC Lower Ground egy játszótér Ta Xbiexben, amelyet a fiatalabb látogatók számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A SAC Upper Ground további játékteret biztosít a gyermekek számára Ta Xbiexben.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Spazju Rikreattiv George Dingli egy szabadidős játszótér Ta Xbiexben a helyi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon egy játszótér Ta Xbiexben, csúszdákkal és mászókákkal.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -9938,6 +12134,150 @@ export const poiExtraMaltaCities: POI[] = [
                         14.499189,
                         35.9178
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un corp de apă situat în Ta Xbiex. Este o zonă liniștită potrivită pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervuar în Ta Xbiex. Oferă un loc liniștit pentru a admira peisajul din jur.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas este o zonă cu apă situată în Ta Xbiex. Oferă un cadru liniștit pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt situate în Ta Xbiex. Această zonă este o locație liniștită pentru a observa peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un loc de stocare a apei în Ta Xbiex. Este un punct liniștit în zona urbană.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eden XP Arcade din Ta Xbiex oferă o varietate de jocuri pentru copii și familii. Este un loc minunat pentru divertisment în interior.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room din Ta Xbiex oferă diverse opțiuni de jocuri pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet este un loc de joacă local în Ta Xbiex, dotat cu echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Grădina Maica Tereza din Calcutta este un loc de joacă comunitar în Ta Xbiex pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial este un loc de joacă în Ta Xbiex unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Spațiul recreativ Mandraġġ din Ta Xbiex oferă o zonă plăcută în aer liber pentru activitățile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Grădina Anton Buttigieg este un loc de joacă local în Ta Xbiex, ideal pentru o pauză în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground este o zonă de joacă în Ta Xbiex, concepută pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground oferă un spațiu de joacă suplimentar pentru copii în Ta Xbiex.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli este un loc de joacă recreativ în Ta Xbiex pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon este un loc de joacă în Ta Xbiex, dotat cu tobogane și cadre de cățărat.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -10344,6 +12684,150 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.499189,
                         35.9178
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir is a water body in Ta Xbiex. It is a quiet area suitable for a brief walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a reservoir in Ta Xbiex. It offers a calm spot for viewing the surrounding scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas is a water area in Ta Xbiex. It provides a peaceful setting for a stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are situated in Ta Xbiex. This area is a quiet location for observing the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a water storage site in Ta Xbiex. It is a calm spot within the urban area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eden XP Arcade in Ta Xbiex offers a variety of games for children and families. It is a great place for indoor entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "The Campus Hub Games Room in Ta Xbiex features several gaming options for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet is a local playground in Ta Xbiex providing play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "Mother Theresa of Calcutta Garden is a community playground in Ta Xbiex for families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial is a playground in Ta Xbiex where kids can play safely.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "Mandraġġ Recreational Space in Ta Xbiex offers a pleasant outdoor area for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "Anton Buttigieg Garden is a local playground in Ta Xbiex, ideal for a family break.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground is a playground area in Ta Xbiex designed for younger visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground provides an additional play space for children in Ta Xbiex.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli is a recreational playground in Ta Xbiex for local families.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon is a playground in Ta Xbiex featuring slides and climbing frames.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -10831,6 +13315,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.476317,
                         35.942355
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Ein malerischer See in Swieqi, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eine Spielhalle in Swieqi mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Eine Spielhalle in Swieqi mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ein lokaler Spielplatz in Swieqi, der einen tollen Bereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Dieser Spielplatz in Swieqi bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Dieser Spielplatz in Swieqi bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Dieser Spielplatz in Swieqi bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Dieser Spielplatz in Swieqi bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -11273,6 +13874,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.476317,
                         35.942355
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Festői tó Swieqi területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Szórakoztató játékterem Swieqi területén, különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Szórakoztató játékterem Swieqi területén, különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Helyi játszótér Swieqi városában, amely vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Ez a Swieqi városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ez a Swieqi városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Ez a Swieqi városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ez a Swieqi városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -11717,6 +14435,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.476317,
                         35.942355
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Un lac pitoresc în Swieqi, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "O sală de jocuri în Swieqi cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "O sală de jocuri în Swieqi cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Un loc de joacă local în Swieqi, care oferă o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Acest loc de joacă din Swieqi oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Acest loc de joacă din Swieqi oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Acest loc de joacă din Swieqi oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Acest loc de joacă din Swieqi oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -12160,6 +14995,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.476317,
                         35.942355
                   ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A scenic lake in Swieqi, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "An amusement arcade in Swieqi with various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "An amusement arcade in Swieqi with various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A local playground in Swieqi, offering a fun area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "This playground in Swieqi offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "This playground in Swieqi offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Żgħaruna Garden",
+                  "text": "This playground in Swieqi offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "This playground in Swieqi offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ]
 },
@@ -12547,6 +15499,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.476317,
                         35.942355
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Pembroke ist ein ruhiges Gewässer, das zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein malerisches Gewässer in Pembroke, ideal zur Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Pembroke bietet eine ruhige Umgebung an einem lokalen Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs sind ruhige Gewässer in Pembroke, die sich für einen Spaziergang eignen.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Pembroke ist ein funktionales Gewässer mit ruhiger Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Pembroke ist ein lokales Gewässer, das sich zum Betrachten der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eden XP Arcade in Pembroke bietet eine Vielzahl von Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Pembroke ist eine Spielhalle mit Unterhaltungsmöglichkeiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet ist ein Spielplatz in Pembroke, der einen sicheren Bereich für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Der Mother Theresa of Calcutta Garden in Pembroke ist eine familienfreundliche Grünanlage mit Spielbereich.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Das Johnny Agius Memorial in Pembroke ist ein Spielplatz, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden ist ein kleiner Park mit Spielgeräten für Kinder in Pembroke.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
             }
       ],
       "hu": [
@@ -12890,6 +15950,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.476317,
                         35.942355
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Pembroke városában található Ħal Farruġ Naval Reservoir egy nyugodt vízfelület, amely sétálásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy festői vízfelület Pembroke-ban, amely ideális a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A Pembroke-ban található Salinas nyugodt környezetet kínál egy helyi vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs nyugodt vízfelületek Pembroke-ban, amelyek alkalmasak egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Pembroke-ban található Kordin Reservoir egy funkcionális vízfelület nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A Pembroke-i Qawra Pool egy helyi vízfelület, amely alkalmas a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "A Pembroke-ban található Eden XP Arcade különféle játékokat kínál a családok szórakoztatására.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A Pembroke-i Campus Hub Games Room egy szórakoztató központ játéklehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A Ġnien Esprit Barthet egy játszótér Pembroke-ban, amely biztonságos helyet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "A Pembroke-i Mother Theresa of Calcutta Garden egy családbarát park játszótérrel.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A Pembroke-ban található Johnny Agius Memorial egy játszótér, amely teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "A Żgħaruna Garden egy kis park játszóeszközökkel gyerekeknek Pembroke városában.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
                   ]
             }
       ],
@@ -13235,6 +16403,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.476317,
                         35.942355
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Pembroke este o rezervă de apă liniștită, ideală pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este o întindere de apă pitorească din Pembroke, ideală pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din Pembroke oferă un cadru liniștit lângă o întindere de apă locală.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă liniștite din Pembroke, potrivite pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Pembroke este o rezervă de apă funcțională cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool din Pembroke este o întindere de apă locală, potrivită pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eden XP Arcade din Pembroke oferă o varietate de jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room din Pembroke este o sală de jocuri cu opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet este un loc de joacă din Pembroke care oferă o zonă sigură pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Mother Theresa of Calcutta Garden din Pembroke este o grădină pentru familii cu o zonă de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial din Pembroke este un loc de joacă ce oferă spațiu copiilor pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden este un mic parc cu echipamente de joacă pentru copii în Pembroke.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
             }
       ],
       "en": [
@@ -13578,6 +16854,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.476317,
                         35.942355
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Pembroke is a calm body of water inviting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a scenic body of water in Pembroke, ideal for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Pembroke offers a peaceful setting by a local body of water.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are calm bodies of water in Pembroke suitable for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Pembroke is a functional body of water with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Pembroke is a local body of water suitable for viewing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Eden XP Arcade",
+                  "text": "Eden XP Arcade in Pembroke offers a variety of games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.487442,
+                        35.92383
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Pembroke is an amusement arcade with entertainment options for all ages.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet is a playground in Pembroke providing a safe area for children.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "Mother Theresa of Calcutta Garden in Pembroke is a family-friendly garden with a play area.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial in Pembroke is a playground offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Żgħaruna Garden",
+                  "text": "Żgħaruna Garden is a small park with play equipment for children in Pembroke.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
                   ]
             }
       ]
@@ -15835,6 +19219,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.514179,
                         35.901531
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Dieses Reservoir in Pieta bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Pieta bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieses Reservoir in Pieta bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieses Reservoir in Pieta bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieses Reservoir in Pieta bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Dieser Spielraum in Pieta ist ein großartiger Ort für Familienunterhaltung und Spaß im Innenbereich.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Dieser Spielplatz in Pieta bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -16268,6 +19778,132 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.514179,
                         35.901531
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ez a Pieta területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Pieta területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Pieta területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Pieta területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Pieta területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ez a Pieta városában található játékterem remek hely a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ez a Pieta városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -16703,6 +20339,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.514179,
                         35.901531
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Acest rezervor din Pieta oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Pieta oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest rezervor din Pieta oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest rezervor din Pieta oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest rezervor din Pieta oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Această sală de jocuri din Pieta este un loc excelent pentru divertisment în familie și distracție în interior.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Acest loc de joacă din Pieta oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -17136,6 +20898,132 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.514179,
                         35.901531
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "This reservoir in Pieta provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Pieta provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This reservoir in Pieta provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This reservoir in Pieta provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This reservoir in Pieta provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "This games room in Pieta is a great spot for family entertainment and indoor fun.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "This playground in Pieta offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -17587,6 +21475,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.498309,
                         35.899842
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Hamrun ist ein ruhiges Wasserreservoir, ideal für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Hamrun ist ein funktionales Gewässer in städtischer Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir in Hamrun bietet einen ruhigen Anblick inmitten der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs sind lokale Gewässer in Hamrun, die zum Verweilen einladen.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Hamrun ist ein ruhiges Becken, das sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Hamrun bietet moderne Unterhaltung und Spiele für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis ist ein familienfreundlicher Spielplatz für die Anwohner von Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Das Johnny Agius Memorial in Hamrun ist ein sicherer Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Mandraġġ Recreational Space bietet einen kleinen Park und Spielmöglichkeiten in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ġnien Anton Buttigieg ist eine gepflegte Grünanlage mit einem Spielplatz in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground in Hamrun ist ein Sport- und Spielbereich für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground bietet zusätzliche Freizeit- und Spielflächen für Familien in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli in Hamrun ist ein beliebter Treffpunkt für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon bietet einen einladenden Spielplatz für Familien in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -17993,6 +22007,132 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.498309,
                         35.899842
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Hamrunban található Ġibjun San Niklaw egy nyugodt víztározó, ideális egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Hamrun városában található Ħal Farruġ Naval Reservoir egy funkcionális vízfelület városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Hamrunban található Saint Mary Reservoir nyugodt látványt nyújt a város közepén.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs helyi vízfelületek Hamrunban, amelyek pihenésre hívnak.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Hamrun-i Kordin Reservoir egy nyugodt medence, amely alkalmas egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A Hamrun-i Campus Hub Games Room modern szórakozást és játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Ġnien Silvio Parnis egy családbarát játszótér Hamrun lakói számára.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A Hamrunban található Johnny Agius Memorial egy biztonságos játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "A Mandraġġ Recreational Space egy kis parkot és játéklehetőségeket kínál Hamrunban.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "A Ġnien Anton Buttigieg egy gondozott zöldterület játszótérrel Hamrunban.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A Hamrun-i SAC Lower Ground egy sport- és játszóterület fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A SAC Upper Ground további szabadidős és játszóterületeket kínál családoknak Hamrunban.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Hamrunban található Spazju Rikreattiv George Dingli népszerű találkozóhely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon egy hívogató játszóteret kínál családoknak Hamrunban.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -18401,6 +22541,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.498309,
                         35.899842
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Hamrun este un rezervor de apă liniștit, ideal pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Hamrun este o rezervă de apă funcțională într-un cadru urban.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir din Hamrun oferă o priveliște liniștită în mijlocul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă locale din Hamrun care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Hamrun este un bazin liniștit, potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room din Hamrun oferă divertisment modern și jocuri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis este un loc de joacă pentru familii destinat rezidenților din Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial din Hamrun este o zonă de joacă sigură pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Mandraġġ Recreational Space oferă un mic parc și opțiuni de joacă în Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ġnien Anton Buttigieg este o grădină bine întreținută, cu un loc de joacă în Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground din Hamrun este o zonă de sport și joacă pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground oferă spații suplimentare de recreere și joacă pentru familii în Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli din Hamrun este un loc popular de întâlnire pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon oferă un loc de joacă primitor pentru familii în Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -18807,6 +23073,132 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.498309,
                         35.899842
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Hamrun is a calm water reservoir, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Hamrun is a functional body of water in an urban setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir in Hamrun offers a calm sight in the middle of the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are local bodies of water in Hamrun inviting for a pause.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Hamrun is a quiet basin suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Hamrun offers modern entertainment and games for families.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis is a family-friendly playground for the residents of Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial in Hamrun is a safe play area for children.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "Mandraġġ Recreational Space offers a small park and play options in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ġnien Anton Buttigieg is a well-kept green area with a playground in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground in Hamrun is a sports and play area for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground provides additional recreational and play spaces for families in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli in Hamrun is a popular meeting spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon provides an inviting playground for families in Hamrun.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -19267,6 +23659,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.502453,
                         35.891591
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Stausee in Marsa. Er ist ein ruhiger Ort, der sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir ist ein Gewässer in Marsa, ideal zur Beobachtung der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein Stausee in Marsa, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs befinden sich in Marsa. Die Gegend bietet eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir ist ein Wasserspeicher in Marsa. Es befindet sich innerhalb des städtischen Umfelds.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Der Campus Hub Games Room in Marsa bietet verschiedene Spiele für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech ist ein Spielplatz in Marsa, auf dem lokale Kinder die Spielgeräte nutzen können.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis ist ein Gemeinschaftsspielplatz in Marsa für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Der Anton Buttigieg Garden ist ein Spielplatz in Marsa, der einen Außenbereich für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Der SAC Lower Ground ist ein Spielbereich in Marsa, der für Familien mit kleinen Kindern geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Der SAC Upper Ground in Marsa bietet zusätzliche Einrichtungen für das Kinderspiel.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli ist ein lokaler Erholungsort in Marsa für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon ist ein Spielplatz in Marsa, auf dem Kinder Aktivitäten im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -19682,6 +24191,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.502453,
                         35.891591
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Marsában. Csendes hely, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy vízfelület Marsában, amely ideális a környezet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy víztározó Marsában, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs Marsában található. A terület nyugodt környezetet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy víztározó Marsában. A városi környezetben található.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A Marsa-i Campus Hub Games Room különféle játékokat kínál a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "A Bandli Tumas Fenech egy játszótér Marsában, ahol a helyi gyerekek használhatják a játékokat.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Ġnien Silvio Parnis egy közösségi játszótér Marsában a családok kikapcsolódására.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Az Anton Buttigieg Garden egy játszótér Marsában, amely szabadtéri helyet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A SAC Lower Ground egy játszótér Marsában, amely kisgyermekes családok számára alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A Marsa-i SAC Upper Ground további lehetőségeket kínál a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Spazju Rikreattiv George Dingli egy helyi szabadidős helyszín gyerekeknek Marsában.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon egy játszótér Marsában, ahol a gyerekek szabadtéri tevékenységeket élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -20099,6 +24725,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.502453,
                         35.891591
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervuar în Marsa. Este un loc liniștit potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un corp de apă situat în Marsa, ideal pentru a observa împrejurimile.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervuar în Marsa care oferă o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt situate în Marsa. Zona oferă un mediu liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un loc de stocare a apei în Marsa. Este situat în cadrul mediului urban.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room din Marsa oferă diverse jocuri pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech este un loc de joacă în Marsa unde copiii locali se pot bucura de echipamentele de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis este un loc de joacă comunitar în Marsa pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Grădina Anton Buttigieg este un loc de joacă în Marsa care oferă un spațiu în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground este o zonă de joacă în Marsa, potrivită pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground din Marsa oferă facilități suplimentare pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli este un loc recreativ local în Marsa pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon este un loc de joacă în Marsa unde copiii se pot bucura de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -20514,6 +25257,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.502453,
                         35.891591
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Marsa. It is a quiet spot suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water body in Marsa, ideal for observing the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a reservoir in Marsa providing a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are situated in Marsa. The area offers a quiet environment for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a water storage site in Marsa. It is located within the urban setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "The Campus Hub Games Room in Marsa provides various games for children and families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech is a playground in Marsa where local children can enjoy the play equipment.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis is a community playground in Marsa for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "Anton Buttigieg Garden is a playground in Marsa providing an outdoor space for kids.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground is a play area in Marsa suitable for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground in Marsa offers additional facilities for children's play.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli is a local recreational spot in Marsa for kids.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon is a playground in Marsa where children can enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -21019,6 +25879,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.512013,
                         35.900696
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Floriana bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieses Reservoir in Floriana bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieses Reservoir in Floriana bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieses Reservoir in Floriana bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Dieser Spielraum in Floriana ist ein großartiger Ort für Familienunterhaltung und Spaß im Innenbereich.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Dieser Spielplatz in Floriana bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -21479,6 +26456,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.512013,
                         35.900696
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Floriana területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Floriana területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Floriana területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Floriana területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ez a Floriana városában található játékterem remek hely a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ez a Floriana városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -21941,6 +27035,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.512013,
                         35.900696
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Floriana oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest rezervor din Floriana oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest rezervor din Floriana oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest rezervor din Floriana oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Această sală de jocuri din Floriana este un loc excelent pentru divertisment în familie și distracție în interior.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Acest loc de joacă din Floriana oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -22401,6 +27612,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.512013,
                         35.900696
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Floriana provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This reservoir in Floriana provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This reservoir in Floriana provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This reservoir in Floriana provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "This games room in Floriana is a great spot for family entertainment and indoor fun.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "This playground in Floriana offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -24189,7 +29517,340 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["Le Fort Ricasoli a servi de lieu de tournage pour des films célèbres.", "Kalkara est aujourd'hui un centre de communication scientifique.", "La ville offre une vue fantastique sur Valletta.", "Bighi était à l'origine une base navale.", "Le village a un lien très étroit avec la mer.", "Le Kalkara Creek est un site portuaire historique.", "Les remparts de la ville sont encore partiellement intacts."],
     }, image: "/poi-images/city-kalkara-extra.webp"},
   {
-    id: "city-vittoriosa-birgu-extra",
+    id: "city-vittoriosa-birgu-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir ist ein Wasserreservoir in Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs befinden sich in Vittoriosa Birgu. Es ist ein ruhiger Ort am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir ist ein Standort zur Wasserspeicherung in Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis ist ein Gemeinschaftsspielplatz in Vittoriosa Birgu für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Der Mandraġġ Recreational Space in Vittoriosa Birgu bietet einen unterhaltsamen Spielbereich für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila ist ein Spielplatz in Vittoriosa Birgu, auf dem Kinder lokale Geräte genießen können.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Der SAC Lower Ground ist ein Spielbereich in Vittoriosa Birgu, der für jüngere Kinder konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Der SAC Upper Ground bietet zusätzliche Spielmöglichkeiten für Kinder in Vittoriosa Birgu.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Der Spazju Rikreattiv George Dingli ist ein Spielplatz in Vittoriosa Birgu für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó Vittoriosa Birguban.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs Vittoriosa Birguban található. Csendes hely a víz mellett.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy víztározó Vittoriosa Birguban.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Ġnien Silvio Parnis egy közösségi játszótér Vittoriosa Birguban a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "A Vittoriosa Birgu-i Mandraġġ Recreational Space szórakoztató játszóteret kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "A Ġnien Tamara Psaila egy játszótér Vittoriosa Birguban, ahol a gyerekek kipróbálhatják a játékokat.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A SAC Lower Ground egy játszótér Vittoriosa Birguban, amelyet a kisebb gyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A SAC Upper Ground további játéklehetőségeket biztosít a gyermekek számára Vittoriosa Birguban.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Spazju Rikreattiv George Dingli egy játszótér Vittoriosa Birguban a helyi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervuar de apă situat în Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt situate în Vittoriosa Birgu. Este o locație liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un loc pentru stocarea apei în Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis este un loc de joacă comunitar în Vittoriosa Birgu pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Spațiul recreativ Mandraġġ din Vittoriosa Birgu oferă o zonă de joacă distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila este un loc de joacă în Vittoriosa Birgu unde copiii se pot bucura de echipamentele locale.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground este un spațiu de joacă în Vittoriosa Birgu, conceput pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground oferă facilități de joacă suplimentare pentru copii în Vittoriosa Birgu.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli este un loc de joacă în Vittoriosa Birgu pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are situated in Vittoriosa Birgu. It is a quiet location by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a site for water storage in Vittoriosa Birgu.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis is a community playground in Vittoriosa Birgu for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "Mandraġġ Recreational Space in Vittoriosa Birgu offers a fun play area for families.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila is a playground in Vittoriosa Birgu where kids can enjoy local equipment.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground is a play space in Vittoriosa Birgu designed for younger children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground provides additional play facilities for children in Vittoriosa Birgu.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli is a playground in Vittoriosa Birgu for local families.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-03",
     coords: [14.5222, 35.8889],
@@ -24664,6 +30325,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510831,
                         35.898701
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Senglea L Isla bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieses Reservoir in Senglea L Isla bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieses Reservoir in Senglea L Isla bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieses Reservoir in Senglea L Isla bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Dieser Spielplatz in Senglea L Isla bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -25097,6 +30857,105 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510831,
                         35.898701
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Senglea L Isla területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Senglea L Isla területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Senglea L Isla területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Senglea L Isla területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ez a Senglea L Isla városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -25532,6 +31391,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510831,
                         35.898701
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Senglea L Isla oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest rezervor din Senglea L Isla oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest rezervor din Senglea L Isla oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest rezervor din Senglea L Isla oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Acest loc de joacă din Senglea L Isla oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -25965,6 +31923,105 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510831,
                         35.898701
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Senglea L Isla provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This reservoir in Senglea L Isla provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This reservoir in Senglea L Isla provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This reservoir in Senglea L Isla provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "This playground in Senglea L Isla offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ]
@@ -26436,6 +32493,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.512918,
                         35.901216
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Cospicua ist ein ruhiges Gewässer, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Cospicua ist ein lokales Wasserbecken mit ruhiger Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein ruhiges Gewässer in Cospicua, ideal für einen kurzen Halt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs in Cospicua bieten einen friedlichen Anblick am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Cospicua ist ein funktionales Wasserreservoir in der Nähe der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis in Cospicua ist ein kleiner Park mit einem sicheren Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Mandraġġ Recreational Space in Cospicua bietet Raum für Spiel und Erholung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Der Anton Buttigieg Garden ist ein angenehmer Park mit Spielbereich in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila bietet einen sicheren und freundlichen Spielplatz für Kinder in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground in Cospicua ist eine Freizeitanlage, die sich gut für Kinder eignet.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground bietet weitere Möglichkeiten für Spiel und Spaß in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli in Cospicua ist ein lokaler Platz für Spiel und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -26860,6 +33025,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.512918,
                         35.901216
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Cospicuában található Ġibjun San Niklaw egy nyugodt vízfelület, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Cospicuában található Ħal Farruġ Naval Reservoir egy helyi víztározó nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy nyugodt vízfelület Cospicuában, ideális egy rövid megállóra.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A Cospicuai St Helen's Naval Reservoirs békés látványt nyújtanak a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Cospicuában található Kordin Reservoir egy funkcionális víztározó a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Cospicuai Ġnien Silvio Parnis egy kis park biztonságos játszótérrel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "A Cospicuai Mandraġġ Recreational Space teret biztosít a játékhoz és a szabadtéri kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Az Anton Buttigieg Garden egy kellemes park játszótérrel Cospicua városában.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "A Ġnien Tamara Psaila biztonságos és barátságos játszóteret kínál gyerekeknek Cospicuában.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A Cospicuai SAC Lower Ground egy szabadidős létesítmény, amely kiválóan alkalmas gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A SAC Upper Ground további lehetőségeket kínál a játékhoz és szórakozáshoz Cospicuában.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Cospicuai Spazju Rikreattiv George Dingli egy helyi terület a játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -27286,6 +33559,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.512918,
                         35.901216
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Cospicua este o întindere de apă liniștită care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Cospicua este un bazin de apă local cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este o întindere de apă liniștită în Cospicua, ideală pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs din Cospicua oferă o priveliște pașnică lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Cospicua este un rezervor de apă funcțional situat lângă oraș.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis din Cospicua este un mic parc cu un loc de joacă sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Mandraġġ Recreational Space din Cospicua oferă spațiu pentru joacă și recreere în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Anton Buttigieg Garden este un parc plăcut cu o zonă de joacă în Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila oferă un loc de joacă sigur și prietenos pentru copii în Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground din Cospicua este o facilitate de recreere potrivită pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground oferă oportunități suplimentare de joacă și distracție în Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli din Cospicua este un spațiu local pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -27711,6 +34092,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.512918,
                         35.901216
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Cospicua is a calm body of water inviting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Cospicua is a local water basin with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a calm body of water in Cospicua, ideal for a short stop.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs in Cospicua offer a peaceful sight by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Cospicua is a functional water reservoir located near the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis in Cospicua is a small park with a safe playground for children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "Mandraġġ Recreational Space in Cospicua offers space for play and outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "Anton Buttigieg Garden is a pleasant park with a play area in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila offers a safe and friendly playground for children in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground in Cospicua is a recreational facility well-suited for children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground provides more opportunities for play and fun in Cospicua.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli in Cospicua is a local space for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ]
 },
@@ -27757,7 +34246,448 @@ export const poiExtraMaltaCities: POI[] = [
     image: "/poi-images/city-cospicua-bormla-extra.webp",
   },
   {
-    id: "city-fgura-extra",
+    id: "city-fgura-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Stausee in Fgura. Es ist ein ruhiger Ort, der sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir ist ein Gewässer in Fgura, das eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein Stausee in Fgura, der sich zur Beobachtung der umliegenden Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs befinden sich in Fgura. Das Gebiet bietet einen ruhigen Ort für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir ist ein Standort zur Wasserspeicherung in Fgura.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Der Spazju Rikreattiv Emanuel Vassallo ist ein Spielplatz in Fgura für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis ist ein Gemeinschaftsspielplatz in Fgura für lokale Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Der Anton Buttigieg Garden ist ein lokaler Spielplatz in Fgura, der einen Außenbereich für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila ist ein Spielplatz in Fgura, auf dem Kinder spielen und die Natur genießen können.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Der SAC Lower Ground ist ein Spielbereich in Fgura, der für Aktivitäten von Kindern konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Der SAC Upper Ground in Fgura bietet zusätzlichen Spielraum für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Der Spazju Rikreattiv George Dingli ist ein Spielplatz in Fgura für lokale Anwohner und ihre Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Fgurában. Csendes hely, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy vízfelület Fgurában, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy víztározó Fgurában, amely alkalmas a környező táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs Fgurában található. A terület csendes helyet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy víztározó Fgurában.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A Spazju Rikreattiv Emanuel Vassallo egy játszótér Fgurában a családok kikapcsolódására.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Ġnien Silvio Parnis egy közösségi játszótér Fgurában a helyi gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Az Anton Buttigieg Garden egy helyi játszótér Fgurában, amely szabadtéri helyet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "A Ġnien Tamara Psaila egy játszótér Fgurában, ahol a gyerekek játszhatnak és élvezhetik a szabad levegőt.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A SAC Lower Ground egy játszótér Fgurában, amelyet gyermekek tevékenységeihez alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A Fgura-i SAC Upper Ground további játékteret biztosít a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Spazju Rikreattiv George Dingli egy játszótér Fgurában a helyi lakosok és gyermekeik számára.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervuar în Fgura. Este un loc liniștit potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un corp de apă în Fgura, oferind un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervuar în Fgura, potrivit pentru a observa peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt situate în Fgura. Zona oferă un loc liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un loc pentru stocarea apei în Fgura.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo este un loc de joacă în Fgura pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis este un loc de joacă comunitar în Fgura pentru copiii locali.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Grădina Anton Buttigieg este un loc de joacă local în Fgura care oferă un spațiu în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila este un loc de joacă în Fgura unde copiii se pot juca și se pot bucura de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground este o zonă de joacă în Fgura, concepută pentru activitățile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground din Fgura oferă un spațiu de joacă suplimentar pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli este un loc de joacă în Fgura pentru rezidenții locali și copiii lor.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Fgura. It is a quiet spot suitable for a brief walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water body in Fgura, providing a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a reservoir in Fgura suitable for observing the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are situated in Fgura. The area offers a quiet spot for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a site for water storage in Fgura.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo is a playground in Fgura for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis is a community playground in Fgura for local children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "Anton Buttigieg Garden is a local playground in Fgura providing an outdoor space for kids.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ġnien Tamara Psaila is a playground in Fgura where kids can play and enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "SAC Lower Ground is a play area in Fgura designed for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground in Fgura offers additional play space for families with children.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli is a playground in Fgura for local residents and their kids.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-10",
     coords: [14.5125, 35.8731],
@@ -28223,6 +35153,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.51692,
                         35.899526
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Dieses Reservoir in Paola bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Paola bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieses Reservoir in Paola bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieses Reservoir in Paola bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieses Reservoir in Paola bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Dieser Spielplatz in Paola bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -28647,6 +35685,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.51692,
                         35.899526
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ez a Paola területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Paola területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Paola területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Paola területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Paola területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ez a Paola városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -29073,6 +36219,114 @@ export const poiExtraMaltaCities: POI[] = [
                         14.51692,
                         35.899526
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Acest rezervor din Paola oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Paola oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest rezervor din Paola oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest rezervor din Paola oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest rezervor din Paola oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Acest loc de joacă din Paola oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -29497,6 +36751,114 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.51692,
                         35.899526
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "This reservoir in Paola provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Paola provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This reservoir in Paola provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This reservoir in Paola provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This reservoir in Paola provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "This playground in Paola offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ]
@@ -31529,6 +38891,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Stausee in Luqa. Er ist ein ruhiger Ort, der sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir ist ein Gewässer in Luqa, ideal zur Beobachtung der Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein Stausee in Luqa, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs befinden sich in Luqa. Die Gegend bietet eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir ist ein Standort zur Wasserspeicherung in Luqa.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Ein schöner Spielplatz in Luqa für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Luqa bietet Kindern einen sicheren Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ein familienfreundlicher Ort in Luqa, der zum Spielen und Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
             }
       ],
       "hu": [
@@ -31773,6 +39207,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Luqában. Csendes hely, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy vízfelület Luqában, amely ideális a környék megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy víztározó Luqában, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs Luqában található. A terület nyugodt környezetet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy víztározó Luqában.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Kedvelt játszótér Luqa területén a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a luqai játszótér biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Családbarát helyszín Luqa városában, amely játékra és kikapcsolódásra hív.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
                   ]
             }
       ],
@@ -32019,6 +39525,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervuar în Luqa. Este un loc liniștit potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un corp de apă situat în Luqa, ideal pentru a observa zona.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervuar în Luqa care oferă o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt situate în Luqa. Zona oferă un mediu liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un loc pentru stocarea apei în Luqa.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Un loc de joacă frumos în Luqa pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Luqa oferă copiilor un spațiu sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Un loc prietenos pentru familii în Luqa, ideal pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
             }
       ],
       "en": [
@@ -32263,6 +39841,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Luqa. It is a quiet spot suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water body located in Luqa, ideal for observing the area.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a reservoir in Luqa providing a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are situated in Luqa. The area offers a quiet environment for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a site for water storage in Luqa.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A lovely playground in Luqa for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Luqa offers a safe space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "A family-friendly spot in Luqa, perfect for playing and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
                   ]
             }
       ]
@@ -32588,6 +40238,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Dieses Reservoir in Gudja bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieses Reservoir in Gudja bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieses Reservoir in Gudja bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieses Reservoir in Gudja bietet eine ruhige Umgebung für entspannte Spaziergänge und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Dieser Spielplatz in Gudja bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Gudja bietet einen schönen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
             }
       ],
       "hu": [
@@ -32868,6 +40572,60 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ez a Gudja területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Gudja területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Gudja területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Gudja területén lévő víztározó nyugodt környezetet biztosít a kikapcsolódáshoz és a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Ez a Gudja városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a Gudja városában található játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
                   ]
             }
       ],
@@ -33150,6 +40908,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Acest rezervor din Gudja oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest rezervor din Gudja oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest rezervor din Gudja oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest rezervor din Gudja oferă un cadru liniștit pentru plimbări relaxante și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Acest loc de joacă din Gudja oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Gudja oferă un spațiu plăcut în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
             }
       ],
       "en": [
@@ -33430,6 +41242,60 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "This reservoir in Gudja provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This reservoir in Gudja provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This reservoir in Gudja provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This reservoir in Gudja provides a calm setting for a relaxing walk and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "This playground in Gudja offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Gudja offers a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
                   ]
             }
       ]
@@ -33755,6 +41621,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Għaxaq ist ein ruhiges Gewässer, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Għaxaq ist ein friedliches Wasserbecken in ländlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs bieten einen ruhigen Anblick in der Nähe von Għaxaq.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Għaxaq ist ein lokales Gewässer, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo in Għaxaq ist ein moderner Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis in Għaxaq bietet einen sicheren Spielbereich für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
             }
       ],
       "hu": [
@@ -34035,6 +41955,60 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.534519,
                         35.857032
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Għaxaq-i Ġibjun San Niklaw egy nyugodt vízfelület, ideális egy természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Għaxaq-i Ħal Farruġ Naval Reservoir egy békés víztározó vidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs nyugodt látványt nyújtanak Għaxaq közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Għaxaq-i Kordin Reservoir egy helyi vízfelület, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A Għaxaq-i Spazju Rikreattiv Emanuel Vassallo egy modern játszótér családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A Għaxaq-i Ġnien Silvio Parnis biztonságos játszóteret kínál a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
                   ]
             }
       ],
@@ -34317,6 +42291,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Għaxaq este o întindere de apă liniștită, ideală pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Għaxaq este un bazin de apă pașnic într-un cadru rural.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs oferă o priveliște liniștită în apropiere de Għaxaq.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Għaxaq este o întindere de apă locală care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo din Għaxaq este un loc de joacă modern pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis din Għaxaq oferă o zonă de joacă sigură pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
             }
       ],
       "en": [
@@ -34597,6 +42625,60 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.534519,
                         35.857032
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Għaxaq is a calm body of water ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Għaxaq is a peaceful water basin in a rural setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs offer a calm sight near Għaxaq.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Għaxaq is a local body of water inviting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo in Għaxaq is a modern playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ġnien Silvio Parnis in Għaxaq offers a safe play area for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
                   ]
             }
       ]
@@ -35057,6 +43139,96 @@ export const poiExtraMaltaCities: POI[] = [
                         14.513953,
                         35.890712
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Santa Lucija mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Santa Lucija bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein stilles Gewässer in Santa Lucija, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Santa Lucija sind ein ruhiger Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein lokales Gewässer in Santa Lucija, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Ein toller Außenbereich in Santa Lucija für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ein gepflegter Spielplatz in Santa Lucija, der Familien einen schönen Aufenthalt bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Garten in Santa Lucija verfügt über Spielbereiche für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Ein schattiger Spielplatz in Santa Lucija, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Ein moderner Spielbereich in Santa Lucija, der Spaß für verschiedene Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "hu": [
@@ -35472,6 +43644,96 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.513953,
                         35.890712
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Santa Lucija városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A santa luċijai víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Csendes vízfelület Santa Lucija területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a víztározók Santa Lucija városában nyugodt helyszínt biztosítanak vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Helyi vízfelület Santa Lucija területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Nagyszerű szabadtéri terület Santa Lucija városában a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Gondozott játszótér Santa Lucija területén, amely kellemes időtöltést kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ebben a santa luċijai kertben játszóterek várják a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Árnyékos játszótér Santa Lucija városában, ideális családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Modern játszótér Santa Lucija területén, amely szórakozást nyújt a különböző korosztályoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ],
@@ -35889,6 +44151,96 @@ export const poiExtraMaltaCities: POI[] = [
                         14.513953,
                         35.890712
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Santa Lucija, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Santa Lucija oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "O apă liniștită în Santa Lucija, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Santa Lucija sunt un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "O apă locală în Santa Lucija, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Un spațiu exterior minunat în Santa Lucija pentru copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Un loc de joacă bine întreținut în Santa Lucija, oferind familiilor o experiență plăcută.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Această grădină din Santa Lucija dispune de zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "Un loc de joacă umbrit în Santa Lucija, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "O zonă de joacă modernă în Santa Lucija, care oferă distracție pentru diverse grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
             }
       ],
       "en": [
@@ -36304,6 +44656,96 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.513953,
                         35.890712
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Santa Lucija set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Santa Lucija offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A quiet body of water in Santa Lucija, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Santa Lucija are a calm spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A local body of water in Santa Lucija, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A great outdoor area in Santa Lucija for children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "A well-maintained playground in Santa Lucija, offering families a pleasant stay.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This garden in Santa Lucija features play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "Ġnien Tamara Psaila",
+                  "text": "A shaded playground in Santa Lucija, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A modern play area in Santa Lucija providing fun for different age groups.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
                   ]
             }
       ]
@@ -38005,6 +46447,42 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Marsaxlokk ist ein ruhiges Wasserbecken nahe der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs sind malerische Gewässer in Marsaxlokk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Marsaxlokk bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo in Marsaxlokk ist ein beliebter Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
             }
       ],
       "hu": [
@@ -38420,6 +46898,42 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.534519,
                         35.857032
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Marsaxlokk-i Ħal Farruġ Naval Reservoir egy nyugodt víztározó a tengerpart közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs festői vízfelületek Marsaxlokk városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Marsaxlokk-i Kordin Reservoir békés légkört biztosít a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A Marsaxlokk-i Spazju Rikreattiv Emanuel Vassallo egy népszerű játszótér a gyerekek körében.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
                   ]
             }
       ],
@@ -38837,6 +47351,42 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Marsaxlokk este un bazin de apă liniștit lângă coastă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă pitorești din Marsaxlokk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Marsaxlokk oferă o atmosferă pașnică lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo din Marsaxlokk este un loc de joacă popular pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
             }
       ],
       "en": [
@@ -39253,6 +47803,42 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Marsaxlokk is a calm water basin near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are scenic bodies of water in Marsaxlokk.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Marsaxlokk offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Spazju Rikreattiv Emanuel Vassallo in Marsaxlokk is a popular playground for children.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
             }
       ]
 },
@@ -39297,7 +47883,196 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["Le marché aux poissons est l'un des plus connus de Malte.", "La baie est très vaste et protégée.", "Marsaxlokk est l'une des villes côtières les plus importantes sur le plan touristique.", "La tradition du Luzzu remonte à plusieurs siècles.", "L'œil d'Osiris est un ancien talisman.", "Marsaxlokk est un lieu de tournage prisé pour le cinéma.", "On y trouve de nombreux excellents restaurants de poissons."],
     }, image: "/poi-images/city-marsaxlokk-extra.webp"},
   {
-    id: "city-birzebbuga-extra",
+    id: "city-birzebbuga-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Birzebbuga mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Birzebbuga bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Birzebbuga sind ein ruhiger Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein lokales Gewässer in Birzebbuga, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Ein schöner Spielplatz in Birzebbuga für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Birzebbuga városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A birzebbugai víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a víztározók Birzebbuga városában nyugodt helyszínt biztosítanak vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Helyi vízfelület Birzebbuga területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Kedvelt játszótér Birzebbuga területén a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Birzebbuga, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Birzebbuga oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Birzebbuga sunt un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "O apă locală în Birzebbuga, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Un loc de joacă frumos în Birzebbuga pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Birzebbuga set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Birzebbuga offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Birzebbuga are a calm spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A local body of water in Birzebbuga, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A lovely playground in Birzebbuga for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-05",
     coords: [14.5269, 35.8272],
@@ -41305,6 +50080,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Zejtun mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Zejtun bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Zejtun sind ein ruhiger Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein lokales Gewässer in Zejtun, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Ein schöner Spielplatz in Zejtun für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Dieser Spielplatz in Zejtun bietet Kindern einen sicheren Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Tamara Psaila",
+                  "text": "Ein schattiger Spielplatz in Zejtun, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
             }
       ],
       "hu": [
@@ -41666,6 +50504,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.534519,
                         35.857032
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Zejtun városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A zejtuni víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a víztározók Zejtun városában nyugodt helyszínt biztosítanak vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Helyi vízfelület Zejtun területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Kedvelt játszótér Zejtun területén a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Ez a zejtuni játszótér biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Tamara Psaila",
+                  "text": "Árnyékos játszótér Zejtun városában, ideális családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
                   ]
             }
       ],
@@ -42029,6 +50930,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Zejtun, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Zejtun oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Zejtun sunt un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "O apă locală în Zejtun, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "Un loc de joacă frumos în Zejtun pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "Acest loc de joacă din Zejtun oferă copiilor un spațiu sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Tamara Psaila",
+                  "text": "Un loc de joacă umbrit în Zejtun, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
             }
       ],
       "en": [
@@ -42391,6 +51355,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.534519,
                         35.857032
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Zejtun set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Zejtun offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Zejtun are a calm spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A local body of water in Zejtun, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv Emanuel Vassallo",
+                  "text": "A lovely playground in Zejtun for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.518991,
+                        35.847702
+                  ]
+            },
+            {
+                  "name": "Ġnien Silvio Parnis",
+                  "text": "This playground in Zejtun offers a safe space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.504959,
+                        35.868502
+                  ]
+            },
+            {
+                  "name": "Tamara Psaila",
+                  "text": "A shaded playground in Zejtun, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        14.529488,
+                        35.87078
+                  ]
             }
       ]
 },
@@ -42724,6 +51751,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Reservoir in Qrendi, das eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir ist ein Wasserbecken in Qrendi in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in Qrendi, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun ist ein Wasserreservoir in Qrendi, das einen neutralen Ort für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sind Wasseranlagen in Qrendi mit einer ruhigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir ist ein funktionales Reservoir in Qrendi in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja ist ein lokaler Spielplatz in Qrendi für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "hu": [
@@ -43013,6 +52103,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Qrendi területén, amely nyugodt környezetet biztosít a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó Qrendi területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó Qrendi városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A Ġibjun egy víztározó Qrendi területén, amely semleges helyszínt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs víztározók Qrendi területén, nyugodt háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy funkcionális víztározó Qrendi csendes részén.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "A Wesgħa Franġisk Bugeja egy helyi játszótér Qrendi városában a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
                   ]
             }
       ],
@@ -43304,6 +52457,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervor din Qrendi, oferind o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervor din Qrendi situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din Qrendi, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun este un rezervor de apă din Qrendi, oferind un loc neutru pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă din Qrendi cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un rezervor funcțional din Qrendi situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja este un loc de joacă local din Qrendi pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "en": [
@@ -43593,6 +52809,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Qrendi, offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in Qrendi set in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in Qrendi, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun is a water reservoir in Qrendi, providing a neutral spot for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are water facilities in Qrendi with a quiet backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a functional reservoir in Qrendi located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja is a local playground in Qrendi for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
                   ]
             }
       ]
@@ -44995,6 +54274,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Kirkop mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Kirkop bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein stilles Gewässer in Kirkop, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Kirkop sind ein ruhiger Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein lokales Gewässer in Kirkop, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Ein schöner Spielplatz in Kirkop für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "hu": [
@@ -45221,6 +54554,60 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Kirkop városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A kirkopi víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Csendes vízfelület Kirkop területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a víztározók Kirkop városában nyugodt helyszínt biztosítanak vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Helyi vízfelület Kirkop területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Kedvelt játszótér Kirkop területén a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
                   ]
             }
       ],
@@ -45449,6 +54836,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Kirkop, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Kirkop oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "O apă liniștită în Kirkop, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Kirkop sunt un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "O apă locală în Kirkop, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Un loc de joacă frumos în Kirkop pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "en": [
@@ -45676,6 +55117,60 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Kirkop set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Kirkop offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A quiet body of water in Kirkop, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Kirkop are a calm spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A local body of water in Kirkop, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "A lovely playground in Kirkop for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ]
 },
@@ -45720,7 +55215,196 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["STMicroelectronics est l'un des plus gros employeurs de Malte.", "La ville conserve un noyau historique très authentique.", "Kirkop est réputé pour sa petite communauté dynamique.", "Les menhirs constituent une rareté archéologique importante.", "L'urbanisme a su préserver le cachet villageois.", "Il existe une longue histoire d'exploitation agricole.", "Le village est architecturalement très compact."],
     }, image: "/poi-images/city-kirkop-extra.webp"},
   {
-    id: "city-safi-extra",
+    id: "city-safi-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Reservoir in City Safi, das eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir ist ein Wasserbecken in City Safi in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sind Wasseranlagen in City Safi mit einer ruhigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir ist ein funktionales Reservoir in City Safi in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja ist ein lokaler Spielplatz in City Safi für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó City Safi területén, amely nyugodt környezetet biztosít a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó City Safi területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs víztározók City Safi területén, nyugodt háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy funkcionális víztározó City Safi csendes részén.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "A Wesgħa Franġisk Bugeja egy helyi játszótér City Safi városában a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervor din City Safi, oferind o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervor din City Safi situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă din City Safi cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un rezervor funcțional din City Safi situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja este un loc de joacă local din City Safi pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in City Safi, offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in City Safi set in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are water facilities in City Safi with a quiet backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a functional reservoir in City Safi located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja is a local playground in City Safi for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-47",
     coords: [14.4875, 35.8369],
@@ -46015,6 +55699,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Zurrieq ist ein ruhiges Wasserreservoir in landschaftlich schöner Lage.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Zurrieq ist ein lokales Gewässer mit friedlichem Charakter.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs in Zurrieq sind ruhige Becken, ideal zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Das Kordin Reservoir in Zurrieq bietet einen ruhigen Ort zum Verweilen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja in Zurrieq ist ein familienfreundlicher Spielplatz im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "hu": [
@@ -46268,6 +55997,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.483588,
                         35.83382
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Zurrieq-i Ġibjun San Niklaw egy nyugodt víztározó szép táji környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Zurrieq-i Ħal Farruġ Naval Reservoir egy békés karakterű helyi vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A Zurrieq-i St Helen's Naval Reservoirs nyugodt medencék, ideálisak a sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Zurrieq-i Kordin Reservoir nyugodt helyet kínál a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "A Zurrieq-i Wesgħa Franġisk Bugeja egy családbarát szabadtéri játszótér.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
                   ]
             }
       ],
@@ -46523,6 +56297,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Zurrieq este un rezervor de apă liniștit într-un cadru peisagistic frumos.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Zurrieq este o întindere de apă locală cu un caracter pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs din Zurrieq sunt bazine liniștite, ideale pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir din Zurrieq oferă un loc liniștit pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja din Zurrieq este un loc de joacă în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ],
       "en": [
@@ -46777,6 +56596,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.483588,
                         35.83382
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Zurrieq is a calm water reservoir in a beautiful scenic location.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Zurrieq is a local body of water with a peaceful character.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs in Zurrieq are calm basins ideal for walking.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir in Zurrieq offers a quiet spot for lingering in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Wesgħa Franġisk Bugeja",
+                  "text": "Wesgħa Franġisk Bugeja in Zurrieq is a family-friendly outdoor playground.",
+                  "category": "family",
+                  "coords": [
+                        14.469077,
+                        35.828511
+                  ]
             }
       ]
 },
@@ -47011,6 +56875,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.438285,
                         35.872812
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Siggiewi mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieses Reservoir in Siggiewi ist ein stiller Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Siggiewi bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein stilles Gewässer in Siggiewi, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ein lokales Gewässer in Siggiewi, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Siggiewi bieten einen ruhigen Platz am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein ruhiges Becken in Siggiewi, umgeben von einer natürlichen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Ein schöner Spielplatz in Siggiewi für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Ein toller Außenbereich in Siggiewi für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
             }
       ],
       "hu": [
@@ -47201,6 +57146,87 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.438285,
                         35.872812
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Siggiewi városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a siggiewi víztározó csendes helyszín vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A siggiewi víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Csendes vízfelület Siggiewi területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Helyi vízfelület Siggiewi területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a siggiewi víztározók nyugodt helyet kínálnak a víz mellett.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Nyugodt víztározó Siggiewi területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Kedvelt játszótér Siggiewi területén a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Nagyszerű szabadtéri terület Siggiewi városában a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
                   ]
             }
       ],
@@ -47393,6 +57419,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.438285,
                         35.872812
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Siggiewi, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest rezervor din Siggiewi este un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Siggiewi oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "O apă liniștită în Siggiewi, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "O apă locală în Siggiewi, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Siggiewi oferă un loc liniștit lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un bazin liniștit în Siggiewi, înconjurat de un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Un loc de joacă frumos în Siggiewi pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Un spațiu exterior minunat în Siggiewi pentru copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
             }
       ],
       "en": [
@@ -47584,6 +57691,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.438285,
                         35.872812
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Siggiewi set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This reservoir in Siggiewi is a quiet spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Siggiewi offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A quiet body of water in Siggiewi, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A local body of water in Siggiewi, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Siggiewi offer a calm spot by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A calm reservoir in Siggiewi surrounded by a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "A lovely playground in Siggiewi for families and children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "A great outdoor area in Siggiewi for children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
             }
       ]
 },
@@ -47630,7 +57818,376 @@ export const poiExtraMaltaCities: POI[] = [
     image: "/poi-images/city-siggiewi-extra.webp",
   },
   {
-    id: "city-zebbug-malta-extra",
+    id: "city-zebbug-malta-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Reservoir in Zebbug Malta, das eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini ist ein Wasserreservoir in Zebbug Malta in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir ist ein Wasserbecken in Zebbug Malta in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in Zebbug Malta, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun ist ein Wasserreservoir in Zebbug Malta, das einen neutralen Ort für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sind Wasseranlagen in Zebbug Malta mit einer ruhigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir ist ein funktionales Reservoir in Zebbug Malta in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens in Zebbug Malta ist ein beliebter Familienplatz mit Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Naziperia Playground in Zebbug Malta bietet Kindern einen sicheren Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech ist ein öffentlicher Spielplatz in Zebbug Malta für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Zebbug Malta területén, amely nyugodt környezetet biztosít a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy víztározó Zebbug Malta területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó Zebbug Malta területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó Zebbug Malta városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A Ġibjun egy víztározó Zebbug Malta területén, amely semleges helyszínt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs víztározók Zebbug Malta területén, nyugodt háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy funkcionális víztározó Zebbug Malta csendes részén.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "A President's Kitchen Gardens Zebbug Malta városában egy népszerű családi hely játszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "A Naziperia Playground Zebbug Malta városában biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "A Bandli Tumas Fenech egy nyilvános játszótér Zebbug Malta városában a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervor din Zebbug Malta, oferind o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un rezervor de apă din Zebbug Malta situat într-un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervor din Zebbug Malta situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din Zebbug Malta, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun este un rezervor de apă din Zebbug Malta, oferind un loc neutru pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă din Zebbug Malta cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un rezervor funcțional din Zebbug Malta situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens din Zebbug Malta este un loc popular pentru familii cu zone de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Naziperia Playground din Zebbug Malta oferă copiilor un loc sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech este un loc de joacă public din Zebbug Malta pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Zebbug Malta, offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a water reservoir in Zebbug Malta set in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in Zebbug Malta set in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in Zebbug Malta, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun is a water reservoir in Zebbug Malta, providing a neutral spot for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are water facilities in Zebbug Malta with a quiet backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a functional reservoir in Zebbug Malta located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens in Zebbug Malta is a popular family spot with play areas.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Naziperia Playground",
+                  "text": "Naziperia Playground in Zebbug Malta offers children a safe place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.439764,
+                        35.858215
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech is a public playground in Zebbug Malta for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-69",
     coords: [14.4419, 35.8722],
@@ -48080,6 +58637,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Qormi ist ein ruhiges Gewässer, das sich für eine kurze Rast eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Qormi ist ein funktionales Wasserbecken in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir in Qormi bietet einen friedlichen Anblick inmitten der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs in Qormi sind ruhige Gewässer, ideal für eine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieser See in Qormi Citta Pinto bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Diese Spielhalle in Qormi Citta Pinto bietet eine Vielzahl von Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Dieser Spielplatz in Qormi Citta Pinto ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Dieser Spielplatz in Qormi Citta Pinto ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Dieser Spielplatz in Qormi Citta Pinto ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Dieser Spielplatz in Qormi Citta Pinto ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Dieser Spielplatz in Qormi Citta Pinto ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -48486,6 +59142,105 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Qormi-ban található Ġibjun San Niklaw egy nyugodt vízfelület, amely alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Qormi-i Ħal Farruġ Naval Reservoir egy funkcionális víztározó a városban.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Qormi-i Saint Mary Reservoir békés látványt nyújt a környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A Qormi-ban található St Helen's Naval Reservoirs nyugodt vízfelületek, ideálisak egy pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Qormi Citta Pinto városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ez a Qormi Citta Pinto városában található játékterem különféle játékokat kínál a család szórakoztatására.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Ez a Qormi Citta Pinto városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Ez a Qormi Citta Pinto városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Ez a Qormi Citta Pinto városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Ez a Qormi Citta Pinto városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ez a Qormi Citta Pinto városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -48894,6 +59649,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Qormi este o întindere de apă liniștită, potrivită pentru un scurt repaus.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Qormi este un bazin de apă funcțional situat în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir din Qormi oferă o priveliște pașnică în mijlocul împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs din Qormi sunt rezervoare de apă liniștite, ideale pentru o pauză.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest lac din Qormi Citta Pinto oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Această sală de jocuri din Qormi Citta Pinto oferă o varietate de jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Acest loc de joacă din Qormi Citta Pinto este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Acest loc de joacă din Qormi Citta Pinto este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Acest loc de joacă din Qormi Citta Pinto este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Acest loc de joacă din Qormi Citta Pinto este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Acest loc de joacă din Qormi Citta Pinto este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -49300,6 +60154,105 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Qormi is a calm body of water suitable for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Qormi is a functional water basin in the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir in Qormi offers a peaceful sight amidst the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs in Qormi are calm bodies of water ideal for a break.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This lake in Qormi Citta Pinto offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "This amusement arcade in Qormi Citta Pinto provides a variety of games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "This playground in Qormi Citta Pinto is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "This playground in Qormi Citta Pinto is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "This playground in Qormi Citta Pinto is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "This playground in Qormi Citta Pinto is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "This playground in Qormi Citta Pinto is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -50400,6 +61353,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.406671,
                         35.873745
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Reservoir in Dingli, das eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini ist ein Wasserreservoir in Dingli in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in Dingli, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun ist ein Wasserreservoir in Dingli, das einen neutralen Ort für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ġnien Bir l-Iljun in Dingli ist ein schöner Spielplatz für Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
             }
       ],
       "hu": [
@@ -50536,6 +61534,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.406671,
                         35.873745
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Dingli területén, amely nyugodt környezetet biztosít a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy víztározó Dingli területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó Dingli városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A Ġibjun egy víztározó Dingli területén, amely semleges helyszínt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "A Ġnien Bir l-Iljun Dingli városában egy szép játszótér a gyerekek számára a felfedezéshez és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
                   ]
             }
       ],
@@ -50674,6 +61717,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.406671,
                         35.873745
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervor din Dingli, oferind o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un rezervor de apă din Dingli situat într-un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din Dingli, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun este un rezervor de apă din Dingli, oferind un loc neutru pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ġnien Bir l-Iljun din Dingli este un loc de joacă frumos pentru copii pentru explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
             }
       ],
       "en": [
@@ -50810,6 +61898,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.406671,
                         35.873745
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Dingli, offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a water reservoir in Dingli set in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in Dingli, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun is a water reservoir in Dingli, providing a neutral spot for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ġnien Bir l-Iljun in Dingli is a lovely playground for children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
                   ]
             }
       ]
@@ -51207,6 +62340,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Dieser See in Attard bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Dieser Spielplatz in Attard ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Dieser Spielplatz in Attard ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Dieser Spielplatz in Attard ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Dieser Spielplatz in Attard ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -51559,6 +62809,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Ez a Attard városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Ez a Attard városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Ez a Attard városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Ez a Attard városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ez a Attard városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -51913,6 +63280,123 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Acest lac din Attard oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Acest loc de joacă din Attard este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Acest loc de joacă din Attard este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Acest loc de joacă din Attard este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Acest loc de joacă din Attard este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -52265,6 +63749,123 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "This lake in Attard offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "This playground in Attard is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "This playground in Attard is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "This playground in Attard is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "This playground in Attard is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ]
@@ -52725,6 +64326,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ein ruhiges Gewässer in Balzan mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieses Reservoir in Balzan ist ein stiller Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Reservoir in Balzan bietet eine friedliche Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ein stilles Gewässer in Balzan, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ein lokales Gewässer in Balzan, ideal für einen kurzen Spaziergang in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Dieses Gewässer in Balzan bietet eine ruhige Atmosphäre für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Diese Reservoire in Balzan bieten einen ruhigen Platz am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ein ruhiges Becken in Balzan, umgeben von einer natürlichen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Ein friedliches Gewässer in Balzan, perfekt für einen Moment der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ein Unterhaltungszentrum in Balzan mit Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ein toller Außenbereich in Balzan für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Dieser Spielplatz in Balzan bietet Kindern einen sicheren Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Ein moderner Spielbereich in Balzan, der Spaß für verschiedene Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Ein schattiger Spielplatz in Balzan, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "hu": [
@@ -53140,6 +64867,132 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Nyugodt vízparti helyszín Balzan városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a balzani víztározó csendes helyszín vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A balzani víztározó békés hangulatot és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Csendes vízfelület Balzan területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Helyi vízfelület Balzan területén, ideális egy rövid közeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ez a balzani vízfelület nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Ezek a balzani víztározók nyugodt helyet kínálnak a víz mellett.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Nyugodt víztározó Balzan területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Békés vízfelület Balzan városában, tökéletes egy kis nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Szórakoztató központ Balzan területén játékokkal az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Nagyszerű szabadtéri terület Balzan városában a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Ez a balzani játszótér biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Modern játszótér Balzan területén, amely szórakozást nyújt a különböző korosztályoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Árnyékos játszótér Balzan városában, ideális családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
                   ]
             }
       ],
@@ -53557,6 +65410,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "O zonă liniștită cu apă în Balzan, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest rezervor din Balzan este un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Rezervorul din Balzan oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "O apă liniștită în Balzan, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "O apă locală în Balzan, ideală pentru o scurtă plimbare în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Această zonă cu apă din Balzan oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Aceste rezervoare din Balzan oferă un loc liniștit lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Un bazin liniștit în Balzan, înconjurat de un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "O zonă cu apă liniștită în Balzan, perfectă pentru un moment de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Un centru de divertisment în Balzan cu jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Un spațiu exterior minunat în Balzan pentru copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Acest loc de joacă din Balzan oferă copiilor un spațiu sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "O zonă de joacă modernă în Balzan, care oferă distracție pentru diverse grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Un loc de joacă umbrit în Balzan, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ],
       "en": [
@@ -53973,6 +65952,132 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A calm body of water in Balzan set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This reservoir in Balzan is a quiet spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The reservoir in Balzan offers a peaceful atmosphere and nice views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "A quiet body of water in Balzan, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A local body of water in Balzan, ideal for a short nearby walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "This water feature in Balzan provides a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "These reservoirs in Balzan offer a calm spot by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "A calm reservoir in Balzan surrounded by a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A peaceful body of water in Balzan, perfect for a quiet moment.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "An entertainment center in Balzan with games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A great outdoor area in Balzan for children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "This playground in Balzan offers a safe space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "A modern play area in Balzan providing fun for different age groups.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A shaded playground in Balzan, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
             }
       ]
 },
@@ -54017,7 +66122,592 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["Balzan est connue pour ses ruelles très calmes.", "L'architecture des maisons est typiquement maltaise.", "Il existe de nombreuses maisons d'habitation riches en histoire.", "La ville offre une atmosphère très agréable.", "Le village possède une identité locale très forte.", "Balzan est un centre d'architecture traditionnelle.", "La ville est très petite et facile à parcourir."],
     }, image: "/poi-images/city-balzan-extra.webp"},
   {
-    id: "city-lija-extra",
+    id: "city-lija-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw ist ein Reservoir in Lija, das eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini ist ein Wasserreservoir in Lija in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir ist ein Wasserbecken in Lija in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in Lija, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun ist ein Wasserreservoir in Lija, das einen neutralen Ort für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Lija ist ein Wassergebiet mit malerischer Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sind Wasseranlagen in Lija mit einer ruhigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir ist ein funktionales Reservoir in Lija in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Lija ist ein natürliches Gewässer, ideal zur Beobachtung der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens in Lija ist ein beliebter Familienplatz mit Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Lija bietet verschiedene Indoor-Spiele für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet in Lija ist ein lokaler Spielplatz für Kinder zum Genießen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech ist ein öffentlicher Spielplatz in Lija für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "BOV Adventure Park in Lija bietet spannende Spielbereiche für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden in Lija ist ein ruhiger Park mit einem Spielbereich für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon in Lija ist ein lokaler Spielplatz für die Freizeitgestaltung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Ġibjun San Niklaw egy víztározó Lija területén, amely nyugodt környezetet biztosít a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy víztározó Lija területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó Lija területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó Lija városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A Ġibjun egy víztározó Lija területén, amely semleges helyszínt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A Salinas Lija területén egy festői tengerparti tájjal rendelkező vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs víztározók Lija területén, nyugodt háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy funkcionális víztározó Lija csendes részén.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A Qawra Pool Lija területén egy természetes vízfelület, ideális a tengerpart megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "A President's Kitchen Gardens Lija városában egy népszerű családi hely játszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "A Campus Hub Games Room Lija városában különféle beltéri játékokat kínál a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A Ġnien Esprit Barthet Lija városában egy helyi játszótér, ahol a gyerekek élvezhetik a szabadban töltött időt.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "A Bandli Tumas Fenech egy nyilvános játszótér Lija városában a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "A BOV Adventure Park Lija városában izgalmas játszótereket kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "A Żgħaruna Garden Lija városában egy csendes park játszótérrel a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon Lija városában egy helyi játszótér a családok szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw este un rezervor din Lija, oferind o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un rezervor de apă din Lija situat într-un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervor din Lija situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din Lija, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun este un rezervor de apă din Lija, oferind un loc neutru pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din Lija este o zonă de apă cu un peisaj de coastă pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă din Lija cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un rezervor funcțional din Lija situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool din Lija este un curs de apă natural, ideal pentru observarea coastei.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens din Lija este un loc popular pentru familii cu zone de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room din Lija oferă diverse jocuri de interior pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet din Lija este un loc de joacă local pentru copii, pentru a se bucura de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech este un loc de joacă public din Lija pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "BOV Adventure Park din Lija oferă zone de joacă interesante pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden din Lija este un parc liniștit cu o zonă de joacă pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon din Lija este un loc de joacă local pentru activitățile de agrement ale familiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw is a reservoir in Lija, offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a water reservoir in Lija set in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in Lija set in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in Lija, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun is a water reservoir in Lija, providing a neutral spot for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Lija is a water area featuring a scenic coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are water facilities in Lija with a quiet backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a functional reservoir in Lija located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Lija is a natural water feature ideal for coastal viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "President's Kitchen Gardens",
+                  "text": "President's Kitchen Gardens in Lija is a popular family spot with play areas.",
+                  "category": "family",
+                  "coords": [
+                        14.445536,
+                        35.896488
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Campus Hub Games Room in Lija offers various indoor games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet in Lija is a local playground for children to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech is a public playground in Lija for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "BOV Adventure Park in Lija offers exciting play areas for children and families.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Żgħaruna Garden",
+                  "text": "Żgħaruna Garden in Lija is a quiet park with a play area for small children.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon in Lija is a local playground for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-24",
     coords: [14.4503, 35.9011],
@@ -57726,6 +70416,96 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini ist ein Wasserreservoir in Naxxar in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir ist ein Wasserbecken in Naxxar in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in Naxxar, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Naxxar ist ein Wassergebiet mit malerischer Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sind Wasseranlagen in Naxxar mit einer ruhigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir ist ein funktionales Reservoir in Naxxar in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Naxxar ist ein natürliches Gewässer, ideal zur Beobachtung der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet in Naxxar ist ein lokaler Spielplatz für Kinder zum Genießen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden in Naxxar ist ein ruhiger Park mit einem Spielbereich für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Ġnien l-Għarusa tal-Mosta in Naxxar bietet einen weitläufigen Spielbereich für Familienfreizeit.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ],
       "hu": [
@@ -58123,6 +70903,96 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.452406,
                         35.923542
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy víztározó Naxxar területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Ħal Farruġ Naval Reservoir egy víztározó Naxxar területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó Naxxar városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A Salinas Naxxar területén egy festői tengerparti tájjal rendelkező vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A St Helen's Naval Reservoirs víztározók Naxxar területén, nyugodt háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "A Kordin Reservoir egy funkcionális víztározó Naxxar csendes részén.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A Qawra Pool Naxxar területén egy természetes vízfelület, ideális a tengerpart megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "A Ġnien Esprit Barthet Naxxar városában egy helyi játszótér, ahol a gyerekek élvezhetik a szabadban töltött időt.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "A Żgħaruna Garden Naxxar városában egy csendes park játszótérrel a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "A Ġnien l-Għarusa tal-Mosta Naxxar városában tágas játszóteret kínál a családi szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
                   ]
             }
       ],
@@ -58522,6 +71392,96 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un rezervor de apă din Naxxar situat într-un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir este un rezervor din Naxxar situat într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din Naxxar, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din Naxxar este o zonă de apă cu un peisaj de coastă pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs sunt rezervoare de apă din Naxxar cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Kordin Reservoir este un rezervor funcțional din Naxxar situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool din Naxxar este un curs de apă natural, ideal pentru observarea coastei.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet din Naxxar este un loc de joacă local pentru copii, pentru a se bucura de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Żgħaruna Garden din Naxxar este un parc liniștit cu o zonă de joacă pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Ġnien l-Għarusa tal-Mosta din Naxxar oferă o zonă de joacă spațioasă pentru timpul liber al familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ],
       "en": [
@@ -58920,6 +71880,96 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a water reservoir in Naxxar set in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Ħal Farruġ Naval Reservoir is a water reservoir in Naxxar set in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in Naxxar, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Naxxar is a water area featuring a scenic coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs are water facilities in Naxxar with a quiet backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "Kordin Reservoir is a functional reservoir in Naxxar located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Naxxar is a natural water feature ideal for coastal viewing.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ġnien Esprit Barthet in Naxxar is a local playground for children to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Żgħaruna Garden",
+                  "text": "Żgħaruna Garden in Naxxar is a quiet park with a play area for small children.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Ġnien l-Għarusa tal-Mosta in Naxxar offers a spacious play area for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ]
 },
@@ -59289,6 +72339,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Dieser See in G Arg Ur bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Dieser Spielplatz in G Arg Ur ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Dieser Spielplatz in G Arg Ur ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Dieser Spielplatz in G Arg Ur ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Dieser Spielplatz in G Arg Ur ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Dieser Spielplatz in G Arg Ur ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ],
       "hu": [
@@ -59614,6 +72763,105 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.452406,
                         35.923542
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Ez a G Arg Ur városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Ez a G Arg Ur városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Ez a G Arg Ur városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Ez a G Arg Ur városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Ez a G Arg Ur városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Ez a G Arg Ur városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
                   ]
             }
       ],
@@ -59941,6 +73189,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Acest lac din G Arg Ur oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "Acest loc de joacă din G Arg Ur este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Ġnien Madre Teresa ta' Kalkutta",
+                  "text": "Acest loc de joacă din G Arg Ur este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Acest loc de joacă din G Arg Ur este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Ġnien Żgħaruna",
+                  "text": "Acest loc de joacă din G Arg Ur este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "Acest loc de joacă din G Arg Ur este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ],
       "en": [
@@ -60267,6 +73614,105 @@ export const poiExtraMaltaCities: POI[] = [
                         14.452406,
                         35.923542
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "This lake in G Arg Ur offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
+            },
+            {
+                  "name": "Ġnien Esprit Barthet",
+                  "text": "This playground in G Arg Ur is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.468506,
+                        35.917655
+                  ]
+            },
+            {
+                  "name": "Mother Theresa of Calcutta Garden",
+                  "text": "This playground in G Arg Ur is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.478451,
+                        35.927186
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "This playground in G Arg Ur is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Żgħaruna Garden",
+                  "text": "This playground in G Arg Ur is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.455855,
+                        35.923878
+                  ]
+            },
+            {
+                  "name": "Ġnien l-Għarusa tal-Mosta",
+                  "text": "This playground in G Arg Ur is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.419758,
+                        35.919514
+                  ]
             }
       ]
 },
@@ -60591,6 +74037,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.333745,
                         35.964313
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Ein ruhiges Gewässer in Mellieħa mit einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Korallen Lagune",
+                  "text": "Ein markantes Gewässer in Mellieħa, das eine einzigartige Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieses Reservoir in Mellieħa ist ein stiller Ort mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Diese Salzpfannen in Mellieħa bieten eine ruhige Atmosphäre für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Der Qawra Pool in Mellieħa bietet eine malerische Aussicht auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
             }
       ],
       "hu": [
@@ -60871,6 +74362,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.333745,
                         35.964313
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Nyugodt vízparti helyszín Mellieħa városában, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "Jellegzetes vízfelület Mellieħa területén, amely egyedi kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a mellieħai víztározó csendes helyszín vízi kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ezek a mellieħai lepárlók nyugodt környezetet biztosítanak a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "A mellieħai Qawra Pool festői kilátást nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
                   ]
             }
       ],
@@ -61153,6 +74689,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.333745,
                         35.964313
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "O zonă liniștită cu apă în Mellieħa, situată într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "O zonă cu apă distinctivă în Mellieħa, oferind o priveliște unică.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest rezervor din Mellieħa este un loc liniștit cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Aceste saline din Mellieħa oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool din Mellieħa oferă o vedere pitorească spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
+                  ]
             }
       ],
       "en": [
@@ -61433,6 +75014,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.333745,
                         35.964313
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "A calm body of water in Mellieħa set in a scenic environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Dragonara Cave",
+                  "text": "A distinctive body of water in Mellieħa offering a unique view.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This reservoir in Mellieħa is a quiet spot with water views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "These salinas in Mellieħa provide a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Qawra Pool",
+                  "text": "Qawra Pool in Mellieħa offers a scenic view by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.426509,
+                        35.95988
                   ]
             }
       ]
@@ -61740,6 +75366,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata ist ein Wasserreservoir in St Paul S Bay in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Korallen Lagune",
+                  "text": "Dragonara Cave in St Paul S Bay ist ein natürliches Gewässer mit markanter Küstenlage.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini ist ein Wasserreservoir in St Paul S Bay in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir ist ein lokales Reservoir in St Paul S Bay, ideal für eine friedliche Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in St Paul S Bay ist ein Wassergebiet mit malerischer Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove in St Paul S Bay ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Der Salina National Park in St Paul S Bay bietet einen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Der Joseph P. Caruana Garden in St Paul S Bay ist ein Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "hu": [
@@ -62002,6 +75700,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.434377,
                         35.96456
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Az Il-Ġibjun tal-Manikata egy víztározó St Paul S Bay területén, csendes környéken.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "A Dragonara Cave St Paul S Bay területén egy természetes vízfelület, jellegzetes tengerparti elhelyezkedéssel.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy víztározó St Paul S Bay területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy helyi víztározó St Paul S Bay városában, ideális a békés kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A Salinas St Paul S Bay területén egy festői tengerparti tájjal rendelkező vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "A St Paul S Bay-i Kennedy Grove egy játszótér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "A St Paul S Bay-i Salina National Park játszóteret kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "A St Paul S Bay-i Joseph P. Caruana Garden egy játszótér családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
                   ]
             }
       ],
@@ -62266,6 +76036,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata este un rezervor de apă din St Paul S Bay situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "Dragonara Cave din St Paul S Bay este o formațiune naturală cu apă, cu o locație de coastă distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un rezervor de apă din St Paul S Bay situat într-un cadru pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir este un rezervor local din St Paul S Bay, ideal pentru o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din St Paul S Bay este o zonă de apă cu un peisaj de coastă pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove din St Paul S Bay este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Parcul Național Salina din St Paul S Bay oferă o zonă de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Grădina Joseph P. Caruana din St Paul S Bay este un loc de joacă pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "en": [
@@ -62528,6 +76370,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.434377,
                         35.96456
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata is a water reservoir in St Paul S Bay located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Dragonara Cave",
+                  "text": "Dragonara Cave in St Paul S Bay is a natural water feature with a distinctive coastal location.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a water reservoir in St Paul S Bay set in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a local reservoir in St Paul S Bay, ideal for peaceful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in St Paul S Bay is a water area featuring a scenic coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove in St Paul S Bay is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Salina National Park",
+                  "text": "Salina National Park in St Paul S Bay offers a play area for children.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Joseph P. Caruana Garden",
+                  "text": "Joseph P. Caruana Garden in St Paul S Bay is a playground for family outings.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
                   ]
             }
       ]
@@ -62853,6 +76767,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Dieser See in Bugibba bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Korallen Lagune",
+                  "text": "Dieser See in Bugibba bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Dieser See in Bugibba bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Dieser See in Bugibba bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Dieser See in Bugibba bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Dieser Spielplatz in Bugibba ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Dieser Spielplatz in Bugibba ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Dieser Spielplatz in Bugibba ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "hu": [
@@ -63133,6 +77119,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.434377,
                         35.96456
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Ez a Bugibba városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "Ez a Bugibba városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Ez a Bugibba városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ez a Bugibba városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Ez a Bugibba városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Ez a Bugibba városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Ez a Bugibba városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Ez a Bugibba városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
                   ]
             }
       ],
@@ -63415,6 +77473,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Acest lac din Bugibba oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "Acest lac din Bugibba oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Acest lac din Bugibba oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Acest lac din Bugibba oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Acest lac din Bugibba oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Acest loc de joacă din Bugibba este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Acest loc de joacă din Bugibba este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Acest loc de joacă din Bugibba este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "en": [
@@ -63696,6 +77826,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "This lake in Bugibba offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Dragonara Cave",
+                  "text": "This lake in Bugibba offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "This lake in Bugibba offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "This lake in Bugibba offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "This lake in Bugibba offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "This playground in Bugibba is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Salina National Park",
+                  "text": "This playground in Bugibba is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Joseph P. Caruana Garden",
+                  "text": "This playground in Bugibba is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ]
 },
@@ -63975,6 +78177,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Der Il-Ġibjun tal-Manikata ist ein ruhiges Gewässer in Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Korallen Lagune",
+                  "text": "Die Dragonara Cave bei Qawra besticht durch ihre natürliche Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir ist ein friedlicher Ort am Wasser in Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Qawra ist ein interessantes Gewässer für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove in Qawra ist ein beliebter Ort für Familien zum Spielen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Der Salina National Park in Qawra bietet weitläufige Spielflächen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Der Joseph P. Caruana Garden in Qawra ist ein familienfreundlicher Garten mit Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "hu": [
@@ -64210,6 +78475,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.434377,
                         35.96456
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Az Il-Ġibjun tal-Manikata egy nyugodt vízfelület Qawra környékén.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "A Qawra melletti Dragonara Cave természetes környezetével várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Saint Mary Reservoir egy békés vízparti helyszín Qawrában.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A qawrai Salinas érdekes vízfelület a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "A qawrai Kennedy Grove népszerű hely a családok számára játékra és pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "A qawrai Salina Nemzeti Park tágas játszótereket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "A qawrai Joseph P. Caruana Garden egy családbarát kert játszótérrel.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
                   ]
             }
       ],
@@ -64447,6 +78775,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.434377,
                         35.96456
                   ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata este o întindere de apă liniștită în Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Id-Dragunara",
+                  "text": "Peștera Dragonara de lângă Qawra impresionează prin cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Rezervorul Saint Mary este un loc liniștit lângă apă în Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din Qawra este o zonă cu apă interesantă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove din Qawra este un loc popular pentru familii, ideal pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Park Nazzjonali tas-Salina",
+                  "text": "Parcul Național Salina din Qawra oferă spații de joacă generoase pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Ġnien Joseph P. Caruana",
+                  "text": "Grădina Joseph P. Caruana din Qawra este o grădină prietenoasă cu familiile, dotată cu loc de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
+                  ]
             }
       ],
       "en": [
@@ -64682,6 +79073,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.434377,
                         35.96456
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata is a calm body of water in Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Dragonara Cave",
+                  "text": "Dragonara Cave near Qawra features a beautiful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.367726,
+                        35.997844
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir is a peaceful spot by the water in Qawra.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Qawra is an interesting body of water for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Kennedy Grove",
+                  "text": "Kennedy Grove in Qawra is a popular spot for families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        14.419947,
+                        35.944181
+                  ]
+            },
+            {
+                  "name": "Salina National Park",
+                  "text": "Salina National Park in Qawra offers spacious play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        14.417792,
+                        35.945253
+                  ]
+            },
+            {
+                  "name": "Joseph P. Caruana Garden",
+                  "text": "Joseph P. Caruana Garden in Qawra is a family-friendly garden with play facilities.",
+                  "category": "family",
+                  "coords": [
+                        14.415537,
+                        35.946499
                   ]
             }
       ]
@@ -67595,6 +82049,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.285003,
                         36.016828
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Das Dwejra Inland Sea bei Xewkija ist eine einzigartige Lagune mit beeindruckender Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Der Kercem Playground in Xewkija bietet Spaß und Bewegung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Das Victoria Main Playing Field in Xewkija ist ein zentraler Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "hu": [
@@ -67947,6 +82428,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.285003,
                         36.016828
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A Xewkija melletti Dwejra Inland Sea egy egyedülálló lagúna, lenyűgöző környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "A xewkijai Kercem játszótér vidám kikapcsolódást és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "A xewkijai Victoria Main Playing Field a családok központi találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ],
@@ -68301,6 +82809,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.285003,
                         36.016828
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea interioară Dwejra de lângă Xewkija este o lagună unică, cu un peisaj impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Locul de joacă Kercem din Xewkija oferă distracție și mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Terenul principal de joacă Victoria din Xewkija este un punct central de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "en": [
@@ -68653,6 +83188,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.285003,
                         36.016828
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea near Xewkija is a unique lagoon with impressive scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Xewkija offers fun and activity for children.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "Victoria Main Playing Field in Xewkija is a central meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ]
@@ -69086,6 +83648,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.290096,
                         36.016772
                   ]
+            },
+            {
+                  "name": "Bandli ta' San Blas",
+                  "text": "Der San Blas Playground in Nadur ist ein Ort zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.300925,
+                        36.051641
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "Għajnsielem Learning Garden in Nadur ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
+                  ]
             }
       ],
       "hu": [
@@ -69474,6 +84054,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.290096,
                         36.016772
+                  ]
+            },
+            {
+                  "name": "Bandli ta' San Blas",
+                  "text": "A naduri San Blas Playground egy hely a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        14.300925,
+                        36.051641
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "A naduri Għajnsielem Learning Garden egy játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
                   ]
             }
       ],
@@ -69864,6 +84462,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.290096,
                         36.016772
                   ]
+            },
+            {
+                  "name": "Bandli ta' San Blas",
+                  "text": "San Blas Playground din Nadur este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.300925,
+                        36.051641
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "Grădina de învățare Għajnsielem din Nadur este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
+                  ]
             }
       ],
       "en": [
@@ -70253,6 +84869,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.290096,
                         36.016772
                   ]
+            },
+            {
+                  "name": "San Blas Playground",
+                  "text": "San Blas Playground in Nadur is a place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.300925,
+                        36.051641
+                  ]
+            },
+            {
+                  "name": "Għajnsielem Learning Garden (Father Bernerd Hersey)",
+                  "text": "Għajnsielem Learning Garden in Nadur is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
+                  ]
             }
       ]
 },
@@ -70631,6 +85265,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.290096,
                         36.016772
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Das Dwejra-Binnenmeer ist eine einzigartige Lagune in G Ajnsielem, die für ihre malerische Küstenschönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "Dieser Spielplatz in G Ajnsielem ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
+                  ]
             }
       ],
       "hu": [
@@ -70965,6 +85617,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.290096,
                         36.016772
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A Dwejra-beltenger egy egyedülálló lagúna G Ajnsielem városában, amely festői tengerparti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "Ez a G Ajnsielem városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
                   ]
             }
       ],
@@ -71301,6 +85971,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.290096,
                         36.016772
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea interioară Dwejra este o lagună unică din G Ajnsielem, cunoscută pentru frumusețea sa de coastă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Ġnien Patri Bernerd Hersey",
+                  "text": "Acest loc de joacă din G Ajnsielem este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
+                  ]
             }
       ],
       "en": [
@@ -71635,6 +86323,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.290096,
                         36.016772
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "The Dwejra Inland Sea is a unique lagoon in G Ajnsielem known for its scenic coastal beauty.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Għajnsielem Learning Garden (Father Bernerd Hersey)",
+                  "text": "This playground in G Ajnsielem is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.295802,
+                        36.027837
                   ]
             }
       ]
@@ -72667,7 +87373,52 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["Ħondoq ir-Rummien est l'une des baies les plus populaires de Gozo.", "La vue sur Comino est unique.", "Qala est un village très calme et charmant.", "Il existe un très large choix de sentiers de randonnée le long de la côte.", "La ville est un centre pour la protection de la nature.", "Qala préserve son caractère traditionnel.", "Le lieu offre une atmosphère très relaxante."],
     }, image: "/poi-images/city-qala-extra.webp"},
   {
-    id: "city-gharb-extra",
+    id: "city-gharb-extra", "sights": {
+      "de": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Dwejra Inland Sea in G Arb ist ein See mit schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A G Arb-i Dwejra Inland Sea egy szép tájjal rendelkező tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea Interioară Dwejra din G Arb este un lac cu un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea in G Arb is a lake with beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-13",
     coords: [14.2081, 36.0611],
@@ -73706,6 +88457,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Das Dwejra Inland Sea bei Xlendi ist bekannt für sein klares Wasser und die Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Der Kercem Playground in Xlendi ist ein sicherer Ort für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Das Victoria Main Playing Field in Xlendi bietet diverse Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "hu": [
@@ -73896,6 +88674,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A Xlendi melletti Dwejra Inland Sea tiszta vizéről és sziklaképződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "A xlendi Kercem játszótér biztonságos hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "A xlendi Victoria Main Playing Field különféle játékokkal várja a kicsiket.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ],
@@ -74088,6 +88893,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea interioară Dwejra de lângă Xlendi este cunoscută pentru apele sale limpezi și formațiunile stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Locul de joacă Kercem din Xlendi este un spațiu sigur unde copiii se pot juca în voie.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Terenul principal de joacă Victoria din Xlendi oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "en": [
@@ -74278,6 +89110,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea near Xlendi is known for its clear water and rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Xlendi is a safe place for children to play and burn off energy.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "Victoria Main Playing Field in Xlendi features various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ]
@@ -74531,6 +89390,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Dwejra Inland Sea in Munxar ist ein See, der sich für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Munxar ist ein Spielplatz für Familienspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Victoria Main Playing Field in Munxar ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "hu": [
@@ -74739,6 +89625,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A munxari Dwejra Inland Sea egy sétákra alkalmas tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "A munxari Kercem Playground egy szabadtéri játszótér a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "A munxari Victoria Main Playing Field egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ],
@@ -74949,6 +89862,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea Interioară Dwejra din Munxar este un lac potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Locul de joacă Kercem din Munxar este un spațiu de joacă în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Terenul principal de joacă Victoria din Munxar este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "en": [
@@ -75157,6 +90097,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea in Munxar is a lake suitable for walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Munxar is an outdoor playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "Victoria Main Playing Field in Munxar is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ]
@@ -75428,6 +90395,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Das Dwejra-Binnenmeer ist eine einzigartige Lagune in Sannat, die für ihre malerische Küstenschönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Dieser Spielplatz in Sannat ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Dieser Spielplatz in Sannat ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "hu": [
@@ -75654,6 +90648,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A Dwejra-beltenger egy egyedülálló lagúna Sannat városában, amely festői tengerparti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Ez a Sannat városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Ez a Sannat városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ],
@@ -75882,6 +90903,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea interioară Dwejra este o lagună unică din Sannat, cunoscută pentru frumusețea sa de coastă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Acest loc de joacă din Sannat este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Acest loc de joacă din Sannat este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "en": [
@@ -76108,6 +91156,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "The Dwejra Inland Sea is a unique lagoon in Sannat known for its scenic coastal beauty.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "This playground in Sannat is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "This playground in Sannat is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ]
@@ -77888,6 +92963,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Dwejra Inland Sea in Kercem ist ein See mit beeindruckender Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Kercem bietet eine Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Victoria Main Playing Field in Kercem ist ein Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "hu": [
@@ -78168,6 +93270,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A kercemi Dwejra Inland Sea egy lenyűgöző természeti adottságú tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "A kercemi Kercem Playground játéklehetőséget biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "A kercemi Victoria Main Playing Field egy játszótér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ],
@@ -78450,6 +93579,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.234582,
                         36.030799
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea Interioară Dwejra din Kercem este un lac cu o natură impresionantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Locul de joacă Kercem din Kercem oferă un spațiu pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Terenul principal de joacă Victoria din Kercem este un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
             }
       ],
       "en": [
@@ -78730,6 +93886,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.234582,
                         36.030799
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea in Kercem is a lake with impressive nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in Kercem provides a space for children's play.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "Victoria Main Playing Field in Kercem is a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
                   ]
             }
       ]
@@ -81001,7 +96184,160 @@ export const poiExtraMaltaCities: POI[] = [
       fr: ["Żebbuġ est célèbre pour ses excellents marais salants.", "La vue sur la côte nord est phénoménale.", "L'onyx y a été intensément exploité historiquement.", "Le village est architecturalement très paisible.", "La région est un haut lieu pour les études géologiques.", "Żebbuġ est riche en histoire et en valeur culturelle.", "Il existe de nombreux sentiers de randonnée le long des falaises."],
     }, image: "/poi-images/city-zebbug-gozo-extra.webp"},
   {
-    id: "city-ghasri-extra",
+    id: "city-ghasri-extra", "sights": {
+      "de": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Dwejra Inland Sea in G Asri ist ein See in Küstennähe.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in G Asri ist ein Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Dawret tal-Virtut in G Asri ist ein lokaler Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Victoria Main Playing Field in G Asri ist ein Spielplatz für die Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A G Asri-i Dwejra Inland Sea egy tengerparthoz közeli tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "A G Asri-i Kercem Playground egy játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "A G Asri-i Dawret tal-Virtut egy helyi játszótér családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "A G Asri-i Victoria Main Playing Field egy játszótér a szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea Interioară Dwejra din G Asri este un lac situat lângă coastă.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Locul de joacă Kercem din G Asri este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Dawret tal-Virtut din G Asri este un loc de joacă local pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
+            },
+            {
+                  "name": "Bandli tar-Rabat (Għawdex)",
+                  "text": "Terenul principal de joacă Victoria din G Asri este un loc de joacă pentru recreere.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "Dwejra Inland Sea in G Asri is a lake located near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Kercem Playground",
+                  "text": "Kercem Playground in G Asri is a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        14.22797,
+                        36.038846
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Dawret tal-Virtut in G Asri is a local playground for families.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
+            },
+            {
+                  "name": "Victoria Main Playing Field",
+                  "text": "Victoria Main Playing Field in G Asri is a playground for recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.241364,
+                        36.043657
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-12",
     coords: [14.2267, 36.0658],
@@ -81278,6 +96614,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.265023,
                         36.050331
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Das Dwejra-Binnenmeer ist eine einzigartige Lagune in Marsalforn, die für ihre malerische Küstenschönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Dieser Spielplatz in Marsalforn ist ein idealer Ort für Familien mit Kindern, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
             }
       ],
       "hu": [
@@ -81513,6 +96867,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.265023,
                         36.050331
+                  ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "A Dwejra-beltenger egy egyedülálló lagúna Marsalforn városában, amely festői tengerparti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Ez a Marsalforn városában található játszótér ideális hely a gyerekes családok számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
                   ]
             }
       ],
@@ -81750,6 +97122,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.265023,
                         36.050331
                   ]
+            },
+            {
+                  "name": "Qawra tad-Dwejra",
+                  "text": "Marea interioară Dwejra este o lagună unică din Marsalforn, cunoscută pentru frumusețea sa de coastă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "Acest loc de joacă din Marsalforn este un loc ideal pentru familiile cu copii pentru a se bucura de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
+                  ]
             }
       ],
       "en": [
@@ -81985,6 +97375,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.265023,
                         36.050331
+                  ]
+            },
+            {
+                  "name": "Dwejra Inland Sea",
+                  "text": "The Dwejra Inland Sea is a unique lagoon in Marsalforn known for its scenic coastal beauty.",
+                  "category": "natural",
+                  "coords": [
+                        14.19118,
+                        36.053757
+                  ]
+            },
+            {
+                  "name": "Dawret tal-Virtut",
+                  "text": "This playground in Marsalforn is an ideal spot for families with children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.237423,
+                        36.074918
                   ]
             }
       ]
@@ -82265,6 +97673,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.400356,
                         35.884092
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Der Ġibjun San Niklaw in Mtarfa ist ein ruhiges Reservoir in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Der Il-Ġibjun tal-Manikata in Mtarfa bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Der Il-Ġibjun tas-Sentini ist ein kleiner See in der Umgebung von Mtarfa.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir in Mtarfa ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Der Ġibjun in Mtarfa ist ein lokales Gewässer mit schlichter Naturschönheit.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Mtarfa bietet einen weiten Blick auf die Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Der Ġnien Bir l-Iljun in Mtarfa ist ein schöner Spielplatz für einen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Der BOV Adventure Park in Mtarfa bietet abenteuerliche Spielmöglichkeiten für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Der Crafts Village Playground in Mtarfa lädt Familien zum Verweilen und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "hu": [
@@ -82500,6 +97989,87 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.400356,
                         35.884092
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A mtarfai Ġibjun San Niklaw egy nyugodt víztározó a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "A mtarfai Il-Ġibjun tal-Manikata békés vízparti hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Az Il-Ġibjun tas-Sentini egy kis tó Mtarfa környékén.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A mtarfai Saint Mary Reservoir nyugodt hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "A mtarfai Ġibjun egy helyi vízfelület egyszerű természeti szépséggel.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "A mtarfai Salinas tágas kilátást nyújt a vízfelszínre.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "A mtarfai Ġnien Bir l-Iljun egy szép játszótér családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "A mtarfai BOV Adventure Park kalandos játéklehetőségeket kínál kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "A mtarfai Crafts Village játszótér kikapcsolódásra és játékra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ],
@@ -82737,6 +98307,87 @@ export const poiExtraMaltaCities: POI[] = [
                         14.400356,
                         35.884092
                   ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Mtarfa este un rezervor liniștit situat în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata din Mtarfa oferă o atmosferă pașnică lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini este un mic lac în zona localității Mtarfa.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Rezervorul Saint Mary din Mtarfa este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun din Mtarfa este o acumulare de apă locală, de o frumusețe naturală simplă.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas din Mtarfa oferă o vedere largă asupra suprafeței apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ġnien Bir l-Iljun din Mtarfa este un loc de joacă plăcut pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "Parcul de aventură BOV din Mtarfa oferă posibilități de joacă pline de aventură pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Locul de joacă Crafts Village din Mtarfa invită familiile la relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
+                  ]
             }
       ],
       "en": [
@@ -82972,6 +98623,87 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.400356,
                         35.884092
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Mtarfa is a quiet reservoir set in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tal-Manikata",
+                  "text": "Il-Ġibjun tal-Manikata in Mtarfa offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.350408,
+                        35.941758
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun tas-Sentini",
+                  "text": "Il-Ġibjun tas-Sentini is a small lake in the Mtarfa area.",
+                  "category": "natural",
+                  "coords": [
+                        14.376848,
+                        35.888243
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir in Mtarfa is a calm spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "Ġibjun",
+                  "text": "Ġibjun in Mtarfa is a local body of water with simple natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        14.383417,
+                        35.856243
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinas in Mtarfa offers a wide view of the water surface.",
+                  "category": "natural",
+                  "coords": [
+                        14.424453,
+                        35.948362
+                  ]
+            },
+            {
+                  "name": "Ġnien Bir l-Iljun",
+                  "text": "Ġnien Bir l-Iljun in Mtarfa is a lovely playground for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        14.398525,
+                        35.88382
+                  ]
+            },
+            {
+                  "name": "BOV Adventure Park",
+                  "text": "BOV Adventure Park in Mtarfa offers adventurous play options for all ages.",
+                  "category": "family",
+                  "coords": [
+                        14.420565,
+                        35.895581
+                  ]
+            },
+            {
+                  "name": "Crafts Village Playground",
+                  "text": "Crafts Village Playground in Mtarfa invites families to relax and play.",
+                  "category": "family",
+                  "coords": [
+                        14.41845,
+                        35.891793
                   ]
             }
       ]

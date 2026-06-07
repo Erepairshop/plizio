@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraPolandCities: POI[] = [
   {
-    id: "city-jelenia-gora-extra",
+    id: "city-jelenia-gora-extra", "sights": {
+      "de": [
+            {
+                  "name": "Jezioro Wrzeszczyńskie",
+                  "text": "Das Jezioro Wrzeszczyńskie ist ein See bei Jelenia Góra, ideal für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        15.652717,
+                        50.938441
+                  ]
+            },
+            {
+                  "name": "Staw Kresowy",
+                  "text": "Der Staw Kresowy ist ein See in Jelenia Góra, der eine friedliche Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.686952,
+                        50.846751
+                  ]
+            },
+            {
+                  "name": "Staw Leśny",
+                  "text": "Der Staw Leśny ist ein malerischer Waldsee in Jelenia Góra, ideal für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        15.689051,
+                        50.840218
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Balaton ist ein lokaler See in Jelenia Góra, der ein beliebter Ort für Entspannung im Freien ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.736593,
+                        50.871409
+                  ]
+            },
+            {
+                  "name": "Jezioro Modre",
+                  "text": "Das Jezioro Modre ist ein wunderschöner See bei Jelenia Góra, bekannt für sein klares blaues Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.69545,
+                        50.923425
+                  ]
+            },
+            {
+                  "name": "osadnik wtórny",
+                  "text": "Der osadnik wtórny ist ein technisches Gewässer in Jelenia Góra, das die lokale Infrastruktur ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        15.72539,
+                        50.912038
+                  ]
+            },
+            {
+                  "name": "Play City",
+                  "text": "Play City ist eine Spielhalle in Jelenia Góra, die Spaß und Action für Kinder und Jugendliche bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.763761,
+                        50.92295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezioro Wrzeszczyńskie",
+                  "text": "A Jezioro Wrzeszczyńskie egy tó Jelenia Góra közelében, ideális a természet kedvelőinek és túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.652717,
+                        50.938441
+                  ]
+            },
+            {
+                  "name": "Staw Kresowy",
+                  "text": "A Staw Kresowy egy tó Jelenia Górában, amely békés környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.686952,
+                        50.846751
+                  ]
+            },
+            {
+                  "name": "Staw Leśny",
+                  "text": "A Staw Leśny egy festői erdei tó Jelenia Górában, ideális egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        15.689051,
+                        50.840218
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A Balaton egy helyi tó Jelenia Górában, amely népszerű hely a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.736593,
+                        50.871409
+                  ]
+            },
+            {
+                  "name": "Jezioro Modre",
+                  "text": "A Jezioro Modre egy gyönyörű tó Jelenia Góra közelében, amely tiszta kék vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.69545,
+                        50.923425
+                  ]
+            },
+            {
+                  "name": "osadnik wtórny",
+                  "text": "Az osadnik wtórny egy technikai jellegű tó Jelenia Górában, amely a helyi infrastruktúrát egészíti ki.",
+                  "category": "natural",
+                  "coords": [
+                        15.72539,
+                        50.912038
+                  ]
+            },
+            {
+                  "name": "Play City",
+                  "text": "A Play City egy játékterem Jelenia Górában, amely szórakozást és akciót kínál gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        15.763761,
+                        50.92295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezioro Wrzeszczyńskie",
+                  "text": "Jezioro Wrzeszczyńskie este un lac lângă Jelenia Góra, ideal pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        15.652717,
+                        50.938441
+                  ]
+            },
+            {
+                  "name": "Staw Kresowy",
+                  "text": "Staw Kresowy este un lac din Jelenia Góra, oferind un mediu liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.686952,
+                        50.846751
+                  ]
+            },
+            {
+                  "name": "Staw Leśny",
+                  "text": "Staw Leśny este un lac pitoresc de pădure în Jelenia Góra, ideal pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        15.689051,
+                        50.840218
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Balaton este un lac local în Jelenia Góra, fiind un loc popular pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.736593,
+                        50.871409
+                  ]
+            },
+            {
+                  "name": "Jezioro Modre",
+                  "text": "Jezioro Modre este un lac minunat lângă Jelenia Góra, cunoscut pentru apa sa albastră și limpede.",
+                  "category": "natural",
+                  "coords": [
+                        15.69545,
+                        50.923425
+                  ]
+            },
+            {
+                  "name": "osadnik wtórny",
+                  "text": "Osadnik wtórny este o apă tehnică în Jelenia Góra, care completează infrastructura locală.",
+                  "category": "natural",
+                  "coords": [
+                        15.72539,
+                        50.912038
+                  ]
+            },
+            {
+                  "name": "Play City",
+                  "text": "Play City este o sală de jocuri în Jelenia Góra, care oferă distracție și acțiune pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        15.763761,
+                        50.92295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezioro Wrzeszczyńskie",
+                  "text": "Jezioro Wrzeszczyńskie is a lake near Jelenia Góra, perfect for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        15.652717,
+                        50.938441
+                  ]
+            },
+            {
+                  "name": "Staw Kresowy",
+                  "text": "Staw Kresowy is a lake in Jelenia Góra, providing a peaceful environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        15.686952,
+                        50.846751
+                  ]
+            },
+            {
+                  "name": "Staw Leśny",
+                  "text": "Staw Leśny is a scenic forest lake in Jelenia Góra, perfect for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        15.689051,
+                        50.840218
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Balaton is a local lake in Jelenia Góra, serving as a popular spot for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.736593,
+                        50.871409
+                  ]
+            },
+            {
+                  "name": "Jezioro Modre",
+                  "text": "Jezioro Modre is a beautiful lake near Jelenia Góra, known for its clear blue water.",
+                  "category": "natural",
+                  "coords": [
+                        15.69545,
+                        50.923425
+                  ]
+            },
+            {
+                  "name": "osadnik wtórny",
+                  "text": "Osadnik wtórny is a technical body of water in Jelenia Góra that complements the local infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        15.72539,
+                        50.912038
+                  ]
+            },
+            {
+                  "name": "Play City",
+                  "text": "Play City is an amusement arcade in Jelenia Góra, offering fun and action for children and teens.",
+                  "category": "family",
+                  "coords": [
+                        15.763761,
+                        50.92295
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL-DS",
     coords: [15.75, 50.9],

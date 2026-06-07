@@ -1221,6 +1221,69 @@ export const slovakiaCities: POI[] = [
                         18.726999,
                         49.21611
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Hričov",
+                  "text": "Ein großer Stausee bei Zilina, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.697896,
+                        49.24628
+                  ]
+            },
+            {
+                  "name": "Labutie jazierko",
+                  "text": "Ein ruhiger kleiner See in Zilina, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.770752,
+                        49.225125
+                  ]
+            },
+            {
+                  "name": "Jama Celulózka",
+                  "text": "Dieser See in Zilina bietet eine natürliche Umgebung für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.772457,
+                        49.216199
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Malá Divinka",
+                  "text": "Ein Baggersee bei Zilina, der von Naturfreunden für seine Ruhe geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.693023,
+                        49.253272
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Žilina",
+                  "text": "Ein bedeutendes Wasserkraftwerk und Stausee in Zilina mit Wegen für Radfahrer und Fußgänger.",
+                  "category": "natural",
+                  "coords": [
+                        18.814852,
+                        49.202681
+                  ]
+            },
+            {
+                  "name": "VN Nesluša",
+                  "text": "Ein kleinerer See in der Nähe von Zilina, ideal für eine kurze Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.750098,
+                        49.292474
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Brodno",
+                  "text": "Dieser See bei Zilina bietet eine friedliche Atmosphäre abseits des Stadtlärms.",
+                  "category": "natural",
+                  "coords": [
+                        18.745787,
+                        49.253648
+                  ]
             }
       ],
       "hu": [
@@ -1420,6 +1483,69 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         18.726999,
                         49.21611
+                  ]
+            },
+            {
+                  "name": "Vodná nádrž Hričov",
+                  "text": "Nagy víztározó Zsolna (Zilina) mellett, amely kiválóan alkalmas vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.697896,
+                        49.24628
+                  ]
+            },
+            {
+                  "name": "Labutie jazierko",
+                  "text": "Nyugodt kis tó Zsolnán, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.770752,
+                        49.225125
+                  ]
+            },
+            {
+                  "name": "Jama Celulózka",
+                  "text": "Ez a zsolnai tó természetes környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.772457,
+                        49.216199
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Malá Divinka",
+                  "text": "Kavicshordalékos tó Zsolna közelében, amelyet a természetbarátok a nyugalma miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        18.693023,
+                        49.253272
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Žilina",
+                  "text": "Jelentős vízmű és víztározó Zsolnán, kerékpárutakkal és gyalogutakkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.814852,
+                        49.202681
+                  ]
+            },
+            {
+                  "name": "VN Nesluša",
+                  "text": "Kisebb tó Zsolna közelében, ideális egy rövid természetbeni pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        18.750098,
+                        49.292474
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Brodno",
+                  "text": "Ez a Zsolna melletti tó békés környezetet kínál a városi zajtól távol.",
+                  "category": "natural",
+                  "coords": [
+                        18.745787,
+                        49.253648
                   ]
             }
       ],
@@ -1621,6 +1747,69 @@ export const slovakiaCities: POI[] = [
                         18.726999,
                         49.21611
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Hričov",
+                  "text": "Un lac de acumulare mare lângă Zilina, potrivit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.697896,
+                        49.24628
+                  ]
+            },
+            {
+                  "name": "Labutie jazierko",
+                  "text": "Un lac mic și liniștit în Zilina, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.770752,
+                        49.225125
+                  ]
+            },
+            {
+                  "name": "Jama Celulózka",
+                  "text": "Acest lac din Zilina oferă un mediu natural pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.772457,
+                        49.216199
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Malá Divinka",
+                  "text": "Un lac de balastieră lângă Zilina, apreciat de iubitorii de natură pentru liniștea sa.",
+                  "category": "natural",
+                  "coords": [
+                        18.693023,
+                        49.253272
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Žilina",
+                  "text": "O lucrare hidrotehnică și lac de acumulare important în Zilina, cu trasee pentru bicicliști și pietoni.",
+                  "category": "natural",
+                  "coords": [
+                        18.814852,
+                        49.202681
+                  ]
+            },
+            {
+                  "name": "VN Nesluša",
+                  "text": "Un lac mai mic lângă Zilina, ideal pentru o scurtă evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.750098,
+                        49.292474
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Brodno",
+                  "text": "Acest lac de lângă Zilina oferă o atmosferă liniștită departe de zgomotul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        18.745787,
+                        49.253648
+                  ]
             }
       ],
       "en": [
@@ -1821,6 +2010,69 @@ export const slovakiaCities: POI[] = [
                         18.726999,
                         49.21611
                   ]
+            },
+            {
+                  "name": "Vodná nádrž Hričov",
+                  "text": "A large reservoir near Zilina, suitable for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.697896,
+                        49.24628
+                  ]
+            },
+            {
+                  "name": "Labutie jazierko",
+                  "text": "A quiet small lake in Zilina that invites visitors for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.770752,
+                        49.225125
+                  ]
+            },
+            {
+                  "name": "Jama Celulózka",
+                  "text": "This lake in Zilina offers a natural environment for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.772457,
+                        49.216199
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Malá Divinka",
+                  "text": "A gravel pit lake near Zilina, appreciated by nature lovers for its tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        18.693023,
+                        49.253272
+                  ]
+            },
+            {
+                  "name": "Vodné dielo Žilina",
+                  "text": "An important waterwork and reservoir in Zilina with paths for cyclists and pedestrians.",
+                  "category": "natural",
+                  "coords": [
+                        18.814852,
+                        49.202681
+                  ]
+            },
+            {
+                  "name": "VN Nesluša",
+                  "text": "A smaller lake near Zilina, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.750098,
+                        49.292474
+                  ]
+            },
+            {
+                  "name": "Štrkovisko Brodno",
+                  "text": "This lake near Zilina offers a peaceful atmosphere away from city noise.",
+                  "category": "natural",
+                  "coords": [
+                        18.745787,
+                        49.253648
+                  ]
             }
       ]
 },
@@ -1897,7 +2149,232 @@ export const slovakiaCities: POI[] = [
     image: "/geo-images/slovakia/city-zilina.webp"
   },
   {
-    id: "city-poprad",
+    id: "city-poprad", "sights": {
+      "de": [
+            {
+                  "name": "Batizovské štrkoviská",
+                  "text": "Seen bei Poprad, die eine schöne Kulisse für Spaziergänge und Naturgenuss bieten.",
+                  "category": "natural",
+                  "coords": [
+                        20.183391,
+                        49.064793
+                  ]
+            },
+            {
+                  "name": "Luxor",
+                  "text": "Ein Spielplatz in Poprad, der Kindern vielfältige Möglichkeiten zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.28571,
+                        49.057541
+                  ]
+            },
+            {
+                  "name": "Legovňa.sk",
+                  "text": "Ein kreativer Spielbereich in Poprad, der ideal für Familien mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        20.300615,
+                        49.057386
+                  ]
+            },
+            {
+                  "name": "Malá loď",
+                  "text": "Ein liebevoll gestalteter Spielplatz in Poprad, der zum fantasievollen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        20.281394,
+                        49.043886
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Dieser moderne Spielplatz in Poprad bietet sicheren Spielspaß für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        20.295231,
+                        49.048216
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Ein sonniger Spielplatz in Poprad, der ein beliebter Treffpunkt für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        20.299608,
+                        49.04859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batizovské štrkoviská",
+                  "text": "Poprád melletti tavak, amelyek szép hátteret biztosítak a sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.183391,
+                        49.064793
+                  ]
+            },
+            {
+                  "name": "Luxor",
+                  "text": "Poprádi játszótér, amely változatos lehetőségeket kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.28571,
+                        49.057541
+                  ]
+            },
+            {
+                  "name": "Legovňa.sk",
+                  "text": "Kreatív játszóhely Poprádon, amely ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.300615,
+                        49.057386
+                  ]
+            },
+            {
+                  "name": "Malá loď",
+                  "text": "Kedvesen kialakított játszótér Poprádon, amely fantáziadús játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        20.281394,
+                        49.043886
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Ez a modern poprádi játszótér biztonságos szórakozást nyújt a legkisebbeknek is.",
+                  "category": "family",
+                  "coords": [
+                        20.295231,
+                        49.048216
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Napfényes játszótér Poprádon, amely népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.299608,
+                        49.04859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batizovské štrkoviská",
+                  "text": "Lacuri lângă Poprad, care oferă un cadru frumos pentru plimbări și bucuria naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.183391,
+                        49.064793
+                  ]
+            },
+            {
+                  "name": "Luxor",
+                  "text": "Un loc de joacă în Poprad, oferind copiilor diverse posibilități de mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        20.28571,
+                        49.057541
+                  ]
+            },
+            {
+                  "name": "Legovňa.sk",
+                  "text": "Un spațiu de joacă creativ în Poprad, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        20.300615,
+                        49.057386
+                  ]
+            },
+            {
+                  "name": "Malá loď",
+                  "text": "Un loc de joacă frumos amenajat în Poprad, care invită la joacă plină de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        20.281394,
+                        49.043886
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "Acest loc de joacă modern din Poprad oferă distracție sigură pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        20.295231,
+                        49.048216
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "Un loc de joacă însorit în Poprad, care este un punct de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.299608,
+                        49.04859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batizovské štrkoviská",
+                  "text": "Lakes near Poprad, providing a beautiful backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.183391,
+                        49.064793
+                  ]
+            },
+            {
+                  "name": "Luxor",
+                  "text": "A playground in Poprad, offering children various opportunities for active play and fun.",
+                  "category": "family",
+                  "coords": [
+                        20.28571,
+                        49.057541
+                  ]
+            },
+            {
+                  "name": "Legovňa.sk",
+                  "text": "A creative play area in Poprad, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        20.300615,
+                        49.057386
+                  ]
+            },
+            {
+                  "name": "Malá loď",
+                  "text": "A nicely designed playground in Poprad, inviting children to imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        20.281394,
+                        49.043886
+                  ]
+            },
+            {
+                  "name": "Žihadielko",
+                  "text": "This modern playground in Poprad provides safe play fun for even the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        20.295231,
+                        49.048216
+                  ]
+            },
+            {
+                  "name": "Slniečko",
+                  "text": "A sunny playground in Poprad, which is a popular meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        20.299608,
+                        49.04859
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-slovakia",
     coords: [20.2972, 49.0594],

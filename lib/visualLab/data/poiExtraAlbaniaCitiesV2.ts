@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const albaniaCitiesV2: POI[] = [
 
   {
-    id: "albania-elbasan-cities-v2",
+    id: "albania-elbasan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imelda Lambertini",
+                  "text": "Ein freundlicher Spielplatz in Elbasan für die Freizeit der Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.091257,
+                        41.119173
+                  ]
+            },
+            {
+                  "name": "Kendi i lodrave i shkolles Qamil Guranjaku",
+                  "text": "Ein Spielbereich an einer Schule in Elbasan, der zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        20.082017,
+                        41.119433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imelda Lambertini",
+                  "text": "Barátságos játszótér Elbasan területén a gyerekek szabadidejéhez.",
+                  "category": "family",
+                  "coords": [
+                        20.091257,
+                        41.119173
+                  ]
+            },
+            {
+                  "name": "Kendi i lodrave i shkolles Qamil Guranjaku",
+                  "text": "Iskolai játszóterület Elbasan területén, amely játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        20.082017,
+                        41.119433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imelda Lambertini",
+                  "text": "Un loc de joacă prietenos în Elbasan pentru timpul liber al copiilor.",
+                  "category": "family",
+                  "coords": [
+                        20.091257,
+                        41.119173
+                  ]
+            },
+            {
+                  "name": "Kendi i lodrave i shkolles Qamil Guranjaku",
+                  "text": "O zonă de joacă la o școală din Elbasan, care invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        20.082017,
+                        41.119433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imelda Lambertini",
+                  "text": "A friendly playground in Elbasan for children's leisure time.",
+                  "category": "family",
+                  "coords": [
+                        20.091257,
+                        41.119173
+                  ]
+            },
+            {
+                  "name": "Kendi i lodrave i shkolles Qamil Guranjaku",
+                  "text": "A school play area in Elbasan that invites playing.",
+                  "category": "family",
+                  "coords": [
+                        20.082017,
+                        41.119433
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan"},
@@ -49,7 +130,520 @@ imageHint: "Elbasan fortress walls and clock tower",
     },
     image: "/poi-images/albania-elbasan-cities-v2.webp",
 },  {
-    id: "albania-kamez-cities-v2",
+    id: "albania-kamez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liqeni Tapizes",
+                  "text": "Dieser See in Kamez bietet eine weite Wasserfläche und eine ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.752692,
+                        41.422296
+                  ]
+            },
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Ein kleinerer See in Kamez, der zur Erholung im Freien genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Dieser See in Kamez ist ein friedlicher Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Ein lokaler Stausee in Kamez, umgeben von ländlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Dieser See in Kamez bietet eine angenehme Atmosphäre für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Ein bekannter See bei Kamez, der als Ausflugsziel in der Natur dient.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Dieser See in Kamez besticht durch seine ruhige Lage und natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Ein friedlicher Ort am Wasser in Kamez, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Xingerës",
+                  "text": "Dieser kleine See in Kamez bietet eine ruhige Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.79118,
+                        41.4209
+                  ]
+            },
+            {
+                  "name": "Liqeni i Qinamit",
+                  "text": "Ein lokales Gewässer in Kamez, das zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.793733,
+                        41.43248
+                  ]
+            },
+            {
+                  "name": "Liqeni Çerkezës",
+                  "text": "Dieser See in Kamez bietet eine weite Aussicht und eine friedliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.806761,
+                        41.415982
+                  ]
+            },
+            {
+                  "name": "Liqeni Nikles",
+                  "text": "Ein ruhiger Stausee in Kamez, ideal für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        19.750576,
+                        41.435527
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Dieser See in Kamez bietet eine ruhige Atmosphäre abseits der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "Ein lokales Gewässer bei Kamez, das oft von Spaziergängern besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni Tapizes",
+                  "text": "Ez a Kamezben található tó tágas vízfelületet és nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.752692,
+                        41.422296
+                  ]
+            },
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Kisebb tó Kamezben, amelyet szabadtéri kikapcsolódásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Ez a kamezi tó békés hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Helyi víztározó Kamezben, vidéki tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Ez a kamezi tó kellemes hangulatot biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Ismert tó Kamez közelében, amely természetközeli kirándulóhelyként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Ez a kamezi tó nyugodt fekvésével és természetes környezetével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Békés vízparti hely Kamezben, ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Xingerës",
+                  "text": "Ez a kis tó Kamezben nyugodt hátteret kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.79118,
+                        41.4209
+                  ]
+            },
+            {
+                  "name": "Liqeni i Qinamit",
+                  "text": "Helyi állóvíz Kamezben, amely természetbeni pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.793733,
+                        41.43248
+                  ]
+            },
+            {
+                  "name": "Liqeni Çerkezës",
+                  "text": "Ez a kamezi tó tágas kilátást és békés környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.806761,
+                        41.415982
+                  ]
+            },
+            {
+                  "name": "Liqeni Nikles",
+                  "text": "Nyugodt víztározó Kamezben, ideális egy rövid zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.750576,
+                        41.435527
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Ez a kamezi tó nyugodt légkört biztosít a városon kívül.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "Helyi állóvíz Kamez közelében, amelyet gyakran látogatnak a sétálók.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni Tapizes",
+                  "text": "Acest lac din Kamez oferă o suprafață mare de apă și un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.752692,
+                        41.422296
+                  ]
+            },
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Un lac mai mic în Kamez, utilizat pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Acest lac din Kamez este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Un lac de acumulare local în Kamez, înconjurat de peisaj rural.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Acest lac din Kamez oferă o atmosferă plăcută pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Un lac cunoscut lângă Kamez, care servește ca destinație de excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Acest lac din Kamez impresionează prin locația sa liniștită și mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Un loc liniștit lângă apă în Kamez, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Xingerës",
+                  "text": "Acest lac mic din Kamez oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.79118,
+                        41.4209
+                  ]
+            },
+            {
+                  "name": "Liqeni i Qinamit",
+                  "text": "O apă locală în Kamez care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.793733,
+                        41.43248
+                  ]
+            },
+            {
+                  "name": "Liqeni Çerkezës",
+                  "text": "Acest lac din Kamez oferă o vedere largă și un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.806761,
+                        41.415982
+                  ]
+            },
+            {
+                  "name": "Liqeni Nikles",
+                  "text": "Un lac de acumulare liniștit în Kamez, ideal pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.750576,
+                        41.435527
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Acest lac din Kamez oferă o atmosferă liniștită în afara orașului.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "O apă locală lângă Kamez, vizitată adesea de cei care se plimbă.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liqeni Tapizes",
+                  "text": "This lake in Kamez offers a wide water surface and a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.752692,
+                        41.422296
+                  ]
+            },
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "A smaller lake in Kamez used for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "This lake in Kamez is a peaceful place for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "A local reservoir in Kamez surrounded by rural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "This lake in Kamez offers a pleasant atmosphere for walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Paskuqan Lake",
+                  "text": "A well-known lake near Kamez that serves as a nature excursion destination.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "This lake in Kamez stands out for its quiet location and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "A peaceful spot by the water in Kamez, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Xingerës",
+                  "text": "This small lake in Kamez offers a quiet backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.79118,
+                        41.4209
+                  ]
+            },
+            {
+                  "name": "Liqeni i Qinamit",
+                  "text": "A local body of water in Kamez that invites visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.793733,
+                        41.43248
+                  ]
+            },
+            {
+                  "name": "Liqeni Çerkezës",
+                  "text": "This lake in Kamez offers a wide view and a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.806761,
+                        41.415982
+                  ]
+            },
+            {
+                  "name": "Liqeni Nikles",
+                  "text": "A quiet reservoir in Kamez, ideal for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.750576,
+                        41.435527
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "This lake in Kamez offers a quiet atmosphere outside the city.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "A local body of water near Kamez often visited by walkers.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Kamëz", hu: "Kamëz", ro: "Kamëz", en: "Kamëz"},
@@ -141,6 +735,15 @@ imageHint: "Kamëz city center and boulevard",
                         19.717176,
                         40.922137
                   ]
+            },
+            {
+                  "name": "rezervuari skilaj",
+                  "text": "Ein Reservoir bei Lushnja, das eine ruhige Naturkulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.785359,
+                        40.915296
+                  ]
             }
       ],
       "hu": [
@@ -187,6 +790,15 @@ imageHint: "Kamëz city center and boulevard",
                   "coords": [
                         19.717176,
                         40.922137
+                  ]
+            },
+            {
+                  "name": "rezervuari skilaj",
+                  "text": "Lushnja melletti víztározó, amely csendes természeti környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.785359,
+                        40.915296
                   ]
             }
       ],
@@ -235,6 +847,15 @@ imageHint: "Kamëz city center and boulevard",
                         19.717176,
                         40.922137
                   ]
+            },
+            {
+                  "name": "rezervuari skilaj",
+                  "text": "Un rezervuar lângă Lushnje, oferind un cadru natural liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.785359,
+                        40.915296
+                  ]
             }
       ],
       "en": [
@@ -281,6 +902,15 @@ imageHint: "Kamëz city center and boulevard",
                   "coords": [
                         19.717176,
                         40.922137
+                  ]
+            },
+            {
+                  "name": "rezervuari skilaj",
+                  "text": "A reservoir near Lushnje, offering a quiet natural setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.785359,
+                        40.915296
                   ]
             }
       ]
@@ -376,6 +1006,24 @@ imageHint: "Lushnjë city center and memorial",
                         20.65729,
                         40.903473
                   ]
+            },
+            {
+                  "name": "Извори Свети Наум",
+                  "text": "Ein malerischer See bei Pogradec, bekannt für seine natürliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        20.744765,
+                        40.912441
+                  ]
+            },
+            {
+                  "name": "Ohridsee",
+                  "text": "Ein weitläufiger See bei Pogradec, ideal zum Wandern und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "hu": [
@@ -422,6 +1070,24 @@ imageHint: "Lushnjë city center and memorial",
                   "coords": [
                         20.65729,
                         40.903473
+                  ]
+            },
+            {
+                  "name": "Извори Свети Наум",
+                  "text": "Festői tó Pogradec közelében, amely természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.744765,
+                        40.912441
+                  ]
+            },
+            {
+                  "name": "Ohridi-tó",
+                  "text": "Kiterjedt tó Pogradec közelében, ideális sétákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ],
@@ -470,6 +1136,24 @@ imageHint: "Lushnjë city center and memorial",
                         20.65729,
                         40.903473
                   ]
+            },
+            {
+                  "name": "Извори Свети Наум",
+                  "text": "Un lac pitoresc lângă Pogradec, cunoscut pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        20.744765,
+                        40.912441
+                  ]
+            },
+            {
+                  "name": "Охридско Езеро / Liqeni i Ohrit",
+                  "text": "Un lac întins lângă Pogradec, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "en": [
@@ -516,6 +1200,24 @@ imageHint: "Lushnjë city center and memorial",
                   "coords": [
                         20.65729,
                         40.903473
+                  ]
+            },
+            {
+                  "name": "Springhead Saint Naum",
+                  "text": "A scenic lake near Pogradec, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        20.744765,
+                        40.912441
+                  ]
+            },
+            {
+                  "name": "Lake Ohrid",
+                  "text": "An extensive lake near Pogradec, ideal for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ]
@@ -638,6 +1340,15 @@ imageHint: "Pogradec lakeside promenade at sunset",
                         19.565425,
                         41.183453
                   ]
+            },
+            {
+                  "name": "Liqeni i Golemit",
+                  "text": "Ein See in Kavaje, der eine natürliche Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.534926,
+                        41.25612
+                  ]
             }
       ],
       "hu": [
@@ -711,6 +1422,15 @@ imageHint: "Pogradec lakeside promenade at sunset",
                   "coords": [
                         19.565425,
                         41.183453
+                  ]
+            },
+            {
+                  "name": "Liqeni i Golemit",
+                  "text": "Tó Kavajëban, amely természetes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.534926,
+                        41.25612
                   ]
             }
       ],
@@ -786,6 +1506,15 @@ imageHint: "Pogradec lakeside promenade at sunset",
                         19.565425,
                         41.183453
                   ]
+            },
+            {
+                  "name": "Liqeni i Golemit",
+                  "text": "Un lac în Kavaje, care oferă un mediu natural pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.534926,
+                        41.25612
+                  ]
             }
       ],
       "en": [
@@ -859,6 +1588,15 @@ imageHint: "Pogradec lakeside promenade at sunset",
                   "coords": [
                         19.565425,
                         41.183453
+                  ]
+            },
+            {
+                  "name": "Liqeni i Golemit",
+                  "text": "A lake in Kavaje providing a natural environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.534926,
+                        41.25612
                   ]
             }
       ]
@@ -1217,6 +1955,51 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                         19.794561,
                         41.509665
                   ]
+            },
+            {
+                  "name": "Liqeni i Krujes",
+                  "text": "Dieser See in Kruje bietet eine ruhige Atmosphäre in geschichtsträchtiger Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.736172,
+                        41.51157
+                  ]
+            },
+            {
+                  "name": "Liqeni Bacungut",
+                  "text": "Ein Bergsee bei Kruje, der Wanderer mit seiner natürlichen Schönheit anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        19.767208,
+                        41.463694
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Dieser See in Kruje bietet eine friedliche Kulisse für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kamersit",
+                  "text": "Ein ruhiger See in der Region Kruje, ideal für eine Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        19.754926,
+                        41.469963
+                  ]
+            },
+            {
+                  "name": "Liqeni i Baruneve",
+                  "text": "Dieser See in Kruje ist ein lokales Ziel für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        19.77479,
+                        41.513544
+                  ]
             }
       ],
       "hu": [
@@ -1281,6 +2064,51 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   "coords": [
                         19.794561,
                         41.509665
+                  ]
+            },
+            {
+                  "name": "Liqeni i Krujes",
+                  "text": "Ez a krujai tó nyugodt légkört kínál a történelmi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.736172,
+                        41.51157
+                  ]
+            },
+            {
+                  "name": "Liqeni Bacungut",
+                  "text": "Hegyi tó Kruja közelében, amely természeti szépségével vonzza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        19.767208,
+                        41.463694
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Ez a krujai tó békés hátteret biztosít a természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kamersit",
+                  "text": "Nyugodt tó Kruja környékén, ideális egy szabadtéri pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.754926,
+                        41.469963
+                  ]
+            },
+            {
+                  "name": "Liqeni i Baruneve",
+                  "text": "Ez a krujai tó a helyi pihenni vágyók egyik célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        19.77479,
+                        41.513544
                   ]
             }
       ],
@@ -1347,6 +2175,51 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                         19.794561,
                         41.509665
                   ]
+            },
+            {
+                  "name": "Liqeni i Krujes",
+                  "text": "Acest lac din Kruje oferă o atmosferă liniștită într-un cadru plin de istorie.",
+                  "category": "natural",
+                  "coords": [
+                        19.736172,
+                        41.51157
+                  ]
+            },
+            {
+                  "name": "Liqeni Bacungut",
+                  "text": "Un lac montan lângă Kruje, care atrage turiștii prin frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.767208,
+                        41.463694
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "Acest lac din Kruje oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kamersit",
+                  "text": "Un lac liniștit în regiunea Kruje, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.754926,
+                        41.469963
+                  ]
+            },
+            {
+                  "name": "Liqeni i Baruneve",
+                  "text": "Acest lac din Kruje este o destinație locală pentru cei care caută recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.77479,
+                        41.513544
+                  ]
             }
       ],
       "en": [
@@ -1411,6 +2284,51 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   "coords": [
                         19.794561,
                         41.509665
+                  ]
+            },
+            {
+                  "name": "Liqeni i Krujes",
+                  "text": "This lake in Kruje offers a peaceful atmosphere in a historic setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.736172,
+                        41.51157
+                  ]
+            },
+            {
+                  "name": "Liqeni Bacungut",
+                  "text": "A mountain lake near Kruje that attracts hikers with its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        19.767208,
+                        41.463694
+                  ]
+            },
+            {
+                  "name": "Liqeni Verjonit",
+                  "text": "This lake in Kruje offers a peaceful backdrop for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.772986,
+                        41.454195
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kamersit",
+                  "text": "A quiet lake in the Kruje region, ideal for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        19.754926,
+                        41.469963
+                  ]
+            },
+            {
+                  "name": "Liqeni i Baruneve",
+                  "text": "This lake in Kruje is a local destination for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.77479,
+                        41.513544
                   ]
             }
       ]
@@ -1526,6 +2444,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.912853,
                         40.788085
                   ]
+            },
+            {
+                  "name": "Ujëmledhësi i Thanës",
+                  "text": "Ein großes Wasserreservoir bei Kucove, das die Landschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        19.845872,
+                        40.864365
+                  ]
             }
       ],
       "hu": [
@@ -1545,6 +2472,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.912853,
                         40.788085
+                  ]
+            },
+            {
+                  "name": "Ujëmledhësi i Thanës",
+                  "text": "Nagy víztározó Kucove közelében, amely meghatározza a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        19.845872,
+                        40.864365
                   ]
             }
       ],
@@ -1566,6 +2502,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.912853,
                         40.788085
                   ]
+            },
+            {
+                  "name": "Ujëmledhësi i Thanës",
+                  "text": "Un rezervor mare de apă lângă Kucove, care definește peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        19.845872,
+                        40.864365
+                  ]
             }
       ],
       "en": [
@@ -1585,6 +2530,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.912853,
                         40.788085
+                  ]
+            },
+            {
+                  "name": "Ujëmledhësi i Thanës",
+                  "text": "A large water reservoir near Kucove that shapes the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.845872,
+                        40.864365
                   ]
             }
       ]
@@ -1847,6 +2801,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.013679,
                         41.610801
                   ]
+            },
+            {
+                  "name": "Liqeni i Ulzes",
+                  "text": "Ein schöner See bei Burrel, umgeben von ruhiger Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.935964,
+                        41.683774
+                  ]
             }
       ],
       "hu": [
@@ -1884,6 +2847,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.013679,
                         41.610801
+                  ]
+            },
+            {
+                  "name": "Liqeni i Ulzes",
+                  "text": "Szép tó Burrel közelében, nyugodt természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        19.935964,
+                        41.683774
                   ]
             }
       ],
@@ -1923,6 +2895,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.013679,
                         41.610801
                   ]
+            },
+            {
+                  "name": "Liqeni i Ulzes",
+                  "text": "Un lac frumos lângă Burrel, înconjurat de natură liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.935964,
+                        41.683774
+                  ]
             }
       ],
       "en": [
@@ -1960,6 +2941,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.013679,
                         41.610801
+                  ]
+            },
+            {
+                  "name": "Ulza Lake",
+                  "text": "A beautiful lake near Burrel, surrounded by quiet nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.935964,
+                        41.683774
                   ]
             }
       ]
@@ -2010,7 +3000,484 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-cerrik-cities-v2",
+    id: "albania-cerrik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liqeni Kashtës",
+                  "text": "Ein See in Cerrik, der eine ruhige Atmosphäre für die Freizeit bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.947433,
+                        40.985541
+                  ]
+            },
+            {
+                  "name": "Liqeni Miloshit",
+                  "text": "Dieser See in Cerrik besticht durch seine natürliche und ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        19.979155,
+                        40.963874
+                  ]
+            },
+            {
+                  "name": "Liqeni Katundit",
+                  "text": "Ein kleiner See in Cerrik, ideal für einen entspannten Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.973116,
+                        40.965221
+                  ]
+            },
+            {
+                  "name": "Liqeni Gjatë",
+                  "text": "Dieser langgestreckte See in Cerrik bietet weite Ausblicke auf die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.905652,
+                        40.983611
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja e Shalësit",
+                  "text": "Ein lokaler Stausee in Cerrik, der zur Erholung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.945421,
+                        41.008448
+                  ]
+            },
+            {
+                  "name": "Liqeni Thatë",
+                  "text": "Dieser See in Cerrik bietet eine friedliche Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.939086,
+                        40.987639
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Xibrakës",
+                  "text": "Ein ruhiges Gewässer in Cerrik, ideal für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        19.929762,
+                        41.011776
+                  ]
+            },
+            {
+                  "name": "Liqeni Godes",
+                  "text": "Dieser See in Cerrik besticht durch seine Stille und natürliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        19.963473,
+                        40.976958
+                  ]
+            },
+            {
+                  "name": "Liqeni Strehës",
+                  "text": "Ein lokaler See in Cerrik, der eine entspannte Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.926956,
+                        40.978018
+                  ]
+            },
+            {
+                  "name": "Liqeni Kashaj",
+                  "text": "Dieser See in Cerrik ist ein friedlicher Ort für Beobachtungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.967039,
+                        40.965447
+                  ]
+            },
+            {
+                  "name": "Liqeni Ulzës",
+                  "text": "Der Liqeni Ulzës bei Cerrik bietet eine ruhige Umgebung für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.96916,
+                        40.968493
+                  ]
+            },
+            {
+                  "name": "Liqeni Bicit",
+                  "text": "Der Liqeni Bicit bei Cerrik ist ein malerischer See, der ideal zum Entspannen im Freien ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.978618,
+                        40.960701
+                  ]
+            },
+            {
+                  "name": "Liqeni Komnecit",
+                  "text": "Der Liqeni Komnecit in Cerrik bietet eine friedliche Atmosphäre für einen Aufenthalt im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.956869,
+                        40.966808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni Kashtës",
+                  "text": "Tó Cërrikben, amely nyugodt légkört biztosít a szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.947433,
+                        40.985541
+                  ]
+            },
+            {
+                  "name": "Liqeni Miloshit",
+                  "text": "Ez a cërriki tó természetes és nyugodt fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        19.979155,
+                        40.963874
+                  ]
+            },
+            {
+                  "name": "Liqeni Katundit",
+                  "text": "Kisméretű tó Cërrikben, ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.973116,
+                        40.965221
+                  ]
+            },
+            {
+                  "name": "Liqeni Gjatë",
+                  "text": "Ez a hosszan elnyúló tó Cërrikben tágas kilátást nyújt a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        19.905652,
+                        40.983611
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja e Shalësit",
+                  "text": "Helyi víztározó Cërrikben, amely zöldövezeti pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.945421,
+                        41.008448
+                  ]
+            },
+            {
+                  "name": "Liqeni Thatë",
+                  "text": "Ez a cërriki tó békés környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.939086,
+                        40.987639
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Xibrakës",
+                  "text": "Nyugodt állóvíz Cërrikben, ideális egy rövid szabadtéri pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.929762,
+                        41.011776
+                  ]
+            },
+            {
+                  "name": "Liqeni Godes",
+                  "text": "Ez a cërriki tó a csendjével és természetes hangulatával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        19.963473,
+                        40.976958
+                  ]
+            },
+            {
+                  "name": "Liqeni Strehës",
+                  "text": "Helyi tó Cërrikben, amely pihentető környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.926956,
+                        40.978018
+                  ]
+            },
+            {
+                  "name": "Liqeni Kashaj",
+                  "text": "Ez a cërriki tó békés hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.967039,
+                        40.965447
+                  ]
+            },
+            {
+                  "name": "Liqeni Ulzës",
+                  "text": "A Cerrik közelében található Liqeni Ulzës nyugodt környezetet kínál a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.96916,
+                        40.968493
+                  ]
+            },
+            {
+                  "name": "Liqeni Bicit",
+                  "text": "A Cerrik közelében fekvő Liqeni Bicit egy festői tó, amely ideális a szabadban való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.978618,
+                        40.960701
+                  ]
+            },
+            {
+                  "name": "Liqeni Komnecit",
+                  "text": "A Cerrik városában található Liqeni Komnecit békés légkört biztosít a zöldben való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.956869,
+                        40.966808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni Kashtës",
+                  "text": "Un lac în Cerrik, care oferă o atmosferă liniștită pentru timpul liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.947433,
+                        40.985541
+                  ]
+            },
+            {
+                  "name": "Liqeni Miloshit",
+                  "text": "Acest lac din Cerrik impresionează prin locația sa naturală și liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.979155,
+                        40.963874
+                  ]
+            },
+            {
+                  "name": "Liqeni Katundit",
+                  "text": "Un lac mic în Cerrik, ideal pentru o plimbare relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        19.973116,
+                        40.965221
+                  ]
+            },
+            {
+                  "name": "Liqeni Gjatë",
+                  "text": "Acest lac alungit din Cerrik oferă vederi largi asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.905652,
+                        40.983611
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja e Shalësit",
+                  "text": "Un lac de acumulare local în Cerrik, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.945421,
+                        41.008448
+                  ]
+            },
+            {
+                  "name": "Liqeni Thatë",
+                  "text": "Acest lac din Cerrik oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.939086,
+                        40.987639
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Xibrakës",
+                  "text": "O apă liniștită în Cerrik, ideală pentru o scurtă evadare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.929762,
+                        41.011776
+                  ]
+            },
+            {
+                  "name": "Liqeni Godes",
+                  "text": "Acest lac din Cerrik impresionează prin liniștea și atmosfera sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.963473,
+                        40.976958
+                  ]
+            },
+            {
+                  "name": "Liqeni Strehës",
+                  "text": "Un lac local în Cerrik, care oferă un mediu relaxant pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        19.926956,
+                        40.978018
+                  ]
+            },
+            {
+                  "name": "Liqeni Kashaj",
+                  "text": "Acest lac din Cerrik este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.967039,
+                        40.965447
+                  ]
+            },
+            {
+                  "name": "Liqeni Ulzës",
+                  "text": "Liqeni Ulzës lângă Cerrik oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.96916,
+                        40.968493
+                  ]
+            },
+            {
+                  "name": "Liqeni Bicit",
+                  "text": "Liqeni Bicit de lângă Cerrik este un lac pitoresc, ideal pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.978618,
+                        40.960701
+                  ]
+            },
+            {
+                  "name": "Liqeni Komnecit",
+                  "text": "Liqeni Komnecit din Cerrik oferă o atmosferă liniștită pentru momente petrecute în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.956869,
+                        40.966808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liqeni Kashtës",
+                  "text": "A lake in Cerrik offering a quiet atmosphere for leisure time.",
+                  "category": "natural",
+                  "coords": [
+                        19.947433,
+                        40.985541
+                  ]
+            },
+            {
+                  "name": "Liqeni Miloshit",
+                  "text": "This lake in Cerrik stands out for its natural and quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        19.979155,
+                        40.963874
+                  ]
+            },
+            {
+                  "name": "Liqeni Katundit",
+                  "text": "A small lake in Cerrik, ideal for a relaxed walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.973116,
+                        40.965221
+                  ]
+            },
+            {
+                  "name": "Liqeni Gjatë",
+                  "text": "This elongated lake in Cerrik offers wide views of nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.905652,
+                        40.983611
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja e Shalësit",
+                  "text": "A local reservoir in Cerrik that invites visitors to relax in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.945421,
+                        41.008448
+                  ]
+            },
+            {
+                  "name": "Liqeni Thatë",
+                  "text": "This lake in Cerrik offers a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.939086,
+                        40.987639
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Xibrakës",
+                  "text": "A quiet body of water in Cerrik, ideal for a small outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        19.929762,
+                        41.011776
+                  ]
+            },
+            {
+                  "name": "Liqeni Godes",
+                  "text": "This lake in Cerrik stands out for its silence and natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        19.963473,
+                        40.976958
+                  ]
+            },
+            {
+                  "name": "Liqeni Strehës",
+                  "text": "A local lake in Cerrik providing a relaxed environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        19.926956,
+                        40.978018
+                  ]
+            },
+            {
+                  "name": "Liqeni Kashaj",
+                  "text": "This lake in Cerrik is a peaceful spot for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        19.967039,
+                        40.965447
+                  ]
+            },
+            {
+                  "name": "Liqeni Ulzës",
+                  "text": "Liqeni Ulzës near Cerrik offers a peaceful setting for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.96916,
+                        40.968493
+                  ]
+            },
+            {
+                  "name": "Liqeni Bicit",
+                  "text": "Liqeni Bicit near Cerrik is a scenic lake, ideal for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.978618,
+                        40.960701
+                  ]
+            },
+            {
+                  "name": "Liqeni Komnecit",
+                  "text": "Liqeni Komnecit in Cerrik provides a peaceful atmosphere for spending time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.956869,
+                        40.966808
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Cërrik", hu: "Cërrik", ro: "Cërrik", en: "Cërrik"},
@@ -2057,7 +3524,412 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-shijak-cities-v2",
+    id: "albania-shijak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liqeni i Durrësit",
+                  "text": "Ein See in der Nähe von Shijak, ideal für Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.54068,
+                        41.271498
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Ein Gewässer bei Shijak, das zu ruhigen Momenten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Ein kleiner See in der Region Shijak, umgeben von ländlicher Idylle.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Ein ruhig gelegener See bei Shijak, der sich gut für einen kurzen Ausflug eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Ein See in der Umgebung von Shijak, der Möglichkeiten zur Naturbeobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Ein See bei Shijak, der eine entspannte Atmosphäre abseits des Trubels bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Reservari i Rrashbullit",
+                  "text": "Ein Reservoir in der Nähe von Shijak, ideal für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.517738,
+                        41.323557
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Ein ruhiges Gewässer bei Shijak, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Ein See in der Region Shijak, der durch seine naturnahe Lage besticht.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Ein lokaler See bei Shijak, ideal für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kasëve",
+                  "text": "Ein ruhiger See in der Umgebung von Shijak, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.569423,
+                        41.354612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni i Durrësit",
+                  "text": "Shijak közeli tó, ideális a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.54068,
+                        41.271498
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Shijak melletti állóvíz, amely csendes szabadtéri pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Shijak régióbeli kis tó, vidéki idill környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Csendes fekvésű tó Shijak közelében, amely alkalmas egy rövid kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Shijak környéki tó, amely lehetőséget nyújt a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Shijak melletti tó, amely pihentető légkört kínál a nyüzsgéstől távol.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Reservari i Rrashbullit",
+                  "text": "Shijak közeli víztározó, ideális egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.517738,
+                        41.323557
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Shijak melletti csendes állóvíz, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Shijak régióbeli tó, amely természetközeli fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Helyi tó Shijak közelében, ideális egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kasëve",
+                  "text": "Shijak környéki csendes tó, amely természetközeli pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.569423,
+                        41.354612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni i Durrësit",
+                  "text": "Un lac lângă Shijak, ideal pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.54068,
+                        41.271498
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Un ochi de apă lângă Shijak, care invită la momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Un lac mic în regiunea Shijak, înconjurat de o idilă rurală.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Un lac situat liniștit lângă Shijak, potrivit pentru o scurtă excursie.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Un lac în împrejurimile localității Shijak, oferind posibilități de observare a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Un lac lângă Shijak, oferind o atmosferă relaxantă departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Reservari i Rrashbullit",
+                  "text": "Un rezervuar lângă Shijak, ideal pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.517738,
+                        41.323557
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Un ochi de apă liniștit lângă Shijak, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Un lac în regiunea Shijak, care impresionează prin locația sa în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Un lac local lângă Shijak, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kasëve",
+                  "text": "Un lac liniștit în împrejurimile localității Shijak, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.569423,
+                        41.354612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liqeni i Durrësit",
+                  "text": "A lake near Shijak, ideal for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.54068,
+                        41.271498
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "A body of water near Shijak, inviting for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "A small lake in the Shijak region, surrounded by rural idyll.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "A quietly located lake near Shijak, suitable for a short excursion.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "A lake in the surroundings of Shijak, offering opportunities for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "A lake near Shijak, providing a relaxed atmosphere away from the hustle and bustle.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Reservari i Rrashbullit",
+                  "text": "A reservoir near Shijak, ideal for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.517738,
+                        41.323557
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "A peaceful body of water near Shijak, inviting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "A lake in the Shijak region, notable for its natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "A local lake near Shijak, ideal for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Kasëve",
+                  "text": "A peaceful lake in the surroundings of Shijak, inviting for a stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.569423,
+                        41.354612
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Shijak", hu: "Shijak", ro: "Shijak", en: "Shijak"},
@@ -2186,6 +4058,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.208815,
                         40.526809
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein ruhiges Wasserreservoir bei Corovode in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        20.145141,
+                        40.486366
+                  ]
+            },
+            {
+                  "name": "Rezervuari \"Bari i madh\"",
+                  "text": "Ein See bei Corovode, der einen friedlichen Ort im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.237888,
+                        40.506971
+                  ]
             }
       ],
       "hu": [
@@ -2268,6 +4158,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.208815,
                         40.526809
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Nyugodt víztározó Corovode közelében, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.145141,
+                        40.486366
+                  ]
+            },
+            {
+                  "name": "Rezervuari \"Bari i madh\"",
+                  "text": "Tó Corovode közelében, amely békés szabadtéri helyszínt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.237888,
+                        40.506971
                   ]
             }
       ],
@@ -2352,6 +4260,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.208815,
                         40.526809
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Un rezervor de apă liniștit lângă Corovode, într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        20.145141,
+                        40.486366
+                  ]
+            },
+            {
+                  "name": "Rezervuari \"Bari i madh\"",
+                  "text": "Un lac lângă Corovode, oferind un loc liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        20.237888,
+                        40.506971
+                  ]
             }
       ],
       "en": [
@@ -2434,6 +4360,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.208815,
                         40.526809
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "A quiet water reservoir near Corovode in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        20.145141,
+                        40.486366
+                  ]
+            },
+            {
+                  "name": "Rezervuari \"Bari i madh\"",
+                  "text": "A lake near Corovode offering a peaceful outdoor spot.",
+                  "category": "natural",
+                  "coords": [
+                        20.237888,
+                        40.506971
                   ]
             }
       ]
@@ -2806,6 +4750,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.351892,
                         40.236442
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Dieser Stausee bei Permet bietet eine ruhige Kulisse für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        20.278319,
+                        40.238678
+                  ]
             }
       ],
       "hu": [
@@ -2861,6 +4814,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.351892,
                         40.236442
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ez a Permet közelében található víztározó nyugodt hátteret biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.278319,
+                        40.238678
                   ]
             }
       ],
@@ -2918,6 +4880,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.351892,
                         40.236442
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Acest rezervuar de lângă Permet oferă un cadru liniștit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        20.278319,
+                        40.238678
+                  ]
             }
       ],
       "en": [
@@ -2973,6 +4944,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.351892,
                         40.236442
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "This reservoir near Permet offers a quiet backdrop for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        20.278319,
+                        40.238678
                   ]
             }
       ]
@@ -3042,6 +5022,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.735473,
                         40.600115
                   ]
+            },
+            {
+                  "name": "Rezervuari i Cycen-it",
+                  "text": "Ein Reservoir bei Ballsh, das eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.765027,
+                        40.613601
+                  ]
+            },
+            {
+                  "name": "Liqeni i Ballsh-it",
+                  "text": "Ein lokaler See in Ballsh, ideal für eine Pause und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.731013,
+                        40.601669
+                  ]
             }
       ],
       "hu": [
@@ -3061,6 +5059,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.735473,
                         40.600115
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Cycen-it",
+                  "text": "Ballsh melletti víztározó, amely csendes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.765027,
+                        40.613601
+                  ]
+            },
+            {
+                  "name": "Liqeni i Ballsh-it",
+                  "text": "Helyi tó Ballsh városában, ideális pihenésre és természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.731013,
+                        40.601669
                   ]
             }
       ],
@@ -3082,6 +5098,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.735473,
                         40.600115
                   ]
+            },
+            {
+                  "name": "Rezervuari i Cycen-it",
+                  "text": "Un rezervuar lângă Ballsh, oferind un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.765027,
+                        40.613601
+                  ]
+            },
+            {
+                  "name": "Liqeni i Ballsh-it",
+                  "text": "Un lac local în Ballsh, ideal pentru o pauză și recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.731013,
+                        40.601669
+                  ]
             }
       ],
       "en": [
@@ -3101,6 +5135,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.735473,
                         40.600115
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Cycen-it",
+                  "text": "A reservoir near Ballsh, providing a quiet environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.765027,
+                        40.613601
+                  ]
+            },
+            {
+                  "name": "Liqeni i Ballsh-it",
+                  "text": "A local lake in Ballsh, ideal for a break and recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.731013,
+                        40.601669
                   ]
             }
       ]
@@ -3326,7 +5378,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-puke-cities-v2",
+    id: "albania-puke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koman Stausee",
+                  "text": "Der Komani Lake bei Puke ist für seine beeindruckende Landschaft und ruhige Umgebung bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        19.931982,
+                        42.197749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni i Komanit",
+                  "text": "A Puke közelében fekvő Komani Lake lenyűgöző tájáról és nyugodt környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.931982,
+                        42.197749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni i Komanit",
+                  "text": "Lacul Komani de lângă Puke este cunoscut pentru peisajele sale impresionante și cadrul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.931982,
+                        42.197749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Komani Lake",
+                  "text": "Komani Lake near Puke is known for its impressive scenery and peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.931982,
+                        42.197749
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Pukë", hu: "Pukë", ro: "Pukë", en: "Pukë"},
@@ -3383,6 +5480,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.445336,
                         42.221954
                   ]
+            },
+            {
+                  "name": "Liqeni i Gruemire Cesmes",
+                  "text": "Ein See bei Koplik, der in einer reizvollen Landschaft zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.464944,
+                        42.187305
+                  ]
+            },
+            {
+                  "name": "Skutarisee",
+                  "text": "Ein bedeutender See bei Koplik, bekannt für seine weite Wasserfläche und Naturvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
             }
       ],
       "hu": [
@@ -3393,6 +5508,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.445336,
                         42.221954
+                  ]
+            },
+            {
+                  "name": "Liqeni i Gruemire Cesmes",
+                  "text": "Koplik melletti tó, amely hangulatos tájban kínál pihenést.",
+                  "category": "natural",
+                  "coords": [
+                        19.464944,
+                        42.187305
+                  ]
+            },
+            {
+                  "name": "Shkodrai-tó",
+                  "text": "Jelentős tó Koplik közelében, tágas vízfelületéről és természeti sokszínűségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
                   ]
             }
       ],
@@ -3405,6 +5538,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.445336,
                         42.221954
                   ]
+            },
+            {
+                  "name": "Liqeni i Gruemire Cesmes",
+                  "text": "Un lac lângă Koplik, care invită la relaxare într-un peisaj atrăgător.",
+                  "category": "natural",
+                  "coords": [
+                        19.464944,
+                        42.187305
+                  ]
+            },
+            {
+                  "name": "Skadarsko jezero / Liqeni i Shkodrës",
+                  "text": "Un lac important lângă Koplik, cunoscut pentru suprafața sa vastă de apă și diversitatea naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
             }
       ],
       "en": [
@@ -3415,6 +5566,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.445336,
                         42.221954
+                  ]
+            },
+            {
+                  "name": "Liqeni i Gruemire Cesmes",
+                  "text": "A lake near Koplik, inviting for relaxation in a charming landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.464944,
+                        42.187305
+                  ]
+            },
+            {
+                  "name": "Lake Skadar",
+                  "text": "A major lake near Koplik, known for its vast water surface and natural diversity.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
                   ]
             }
       ]
@@ -3474,6 +5643,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.983948,
                         40.350788
                   ]
+            },
+            {
+                  "name": "Gropa e Nënës",
+                  "text": "Ein kleiner See bei Memaliaj, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        20.049481,
+                        40.359472
+                  ]
             }
       ],
       "hu": [
@@ -3484,6 +5662,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.983948,
                         40.350788
+                  ]
+            },
+            {
+                  "name": "Gropa e Nënës",
+                  "text": "Kis tó Memaliaj közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        20.049481,
+                        40.359472
                   ]
             }
       ],
@@ -3496,6 +5683,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.983948,
                         40.350788
                   ]
+            },
+            {
+                  "name": "Gropa e Nënës",
+                  "text": "Un lac mic lângă Memaliaj, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.049481,
+                        40.359472
+                  ]
             }
       ],
       "en": [
@@ -3506,6 +5702,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.983948,
                         40.350788
+                  ]
+            },
+            {
+                  "name": "Gropa e Nënës",
+                  "text": "A small lake near Memaliaj, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.049481,
+                        40.359472
                   ]
             }
       ]
@@ -3602,6 +5807,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.680337,
                         40.338796
                   ]
+            },
+            {
+                  "name": "Rezervuari i Bejkovës",
+                  "text": "Der Rezervuari i Bejkovës bei Erseke ist ein friedlicher Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        20.681487,
+                        40.363039
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Dieser Stausee in Erseke bietet eine ruhige Umgebung für einen kurzen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        20.67099,
+                        40.333936
+                  ]
             }
       ],
       "hu": [
@@ -3648,6 +5871,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.680337,
                         40.338796
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Bejkovës",
+                  "text": "Az Erseke közelében található Rezervuari i Bejkovës békés hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        20.681487,
+                        40.363039
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ez az Erseke városában található víztározó nyugodt környezetet biztosít egy rövid természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.67099,
+                        40.333936
                   ]
             }
       ],
@@ -3696,6 +5937,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.680337,
                         40.338796
                   ]
+            },
+            {
+                  "name": "Rezervuari i Bejkovës",
+                  "text": "Rezervuari i Bejkovës de lângă Erseke este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.681487,
+                        40.363039
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Acest rezervuar din Erseke oferă un cadru liniștit pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.67099,
+                        40.333936
+                  ]
             }
       ],
       "en": [
@@ -3742,6 +6001,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.680337,
                         40.338796
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Bejkovës",
+                  "text": "Rezervuari i Bejkovës near Erseke is a peaceful spot for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.681487,
+                        40.363039
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "This reservoir in Erseke provides a calm setting for a short nature outing.",
+                  "category": "natural",
+                  "coords": [
+                        20.67099,
+                        40.333936
                   ]
             }
       ]
@@ -3811,6 +6088,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.074491,
                         42.357152
                   ]
+            },
+            {
+                  "name": "Liqueni Panarit",
+                  "text": "Ein abgelegener See bei Bajram Curri, ideal für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        20.014253,
+                        42.370042
+                  ]
             }
       ],
       "hu": [
@@ -3830,6 +6116,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.074491,
                         42.357152
+                  ]
+            },
+            {
+                  "name": "Liqueni Panarit",
+                  "text": "Félreeső tó Bajram Curri közelében, ideális túrázóknak és a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        20.014253,
+                        42.370042
                   ]
             }
       ],
@@ -3851,6 +6146,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.074491,
                         42.357152
                   ]
+            },
+            {
+                  "name": "Liqueni Panarit",
+                  "text": "Un lac izolat lângă Bajram Curri, ideal pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.014253,
+                        42.370042
+                  ]
             }
       ],
       "en": [
@@ -3870,6 +6174,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.074491,
                         42.357152
+                  ]
+            },
+            {
+                  "name": "Lake Panarit",
+                  "text": "A remote lake near Bajram Curri, ideal for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.014253,
+                        42.370042
                   ]
             }
       ]
@@ -4012,7 +6325,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-bilisht-cities-v2",
+    id: "albania-bilisht-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein ruhiger Stausee bei Bilisht, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Kleiner Prespasee",
+                  "text": "Der Lesser Prespa Lake bei Bilisht ist ein bedeutendes Naturgewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Egy nyugodt víztározó Bilisht közelében, amely kiválóan alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Μικρή Πρέσπα",
+                  "text": "A Bilisht közelében fekvő Kis-Preszpa-tó egy jelentős természetes vízfelület nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Un rezervuar liniștit lângă Bilisht, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Μικρή Πρέσπα",
+                  "text": "Lacul Prespa Mică de lângă Bilisht este o apă naturală importantă într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervuar",
+                  "text": "A quiet reservoir near Bilisht, well-suited for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Lesser Prespa Lake",
+                  "text": "Lesser Prespa Lake near Bilisht is a significant natural body of water in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Bilisht", hu: "Bilisht", ro: "Bilisht", en: "Bilisht"},
@@ -4234,7 +6628,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-krume-cities-v2",
+    id: "albania-krume-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fierza-Stausee",
+                  "text": "Der Liqeni i Fierzës bei Krume bietet weite Ausblicke und eine friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        20.322907,
+                        42.198624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni i Fierzës",
+                  "text": "A Krume közelében található Liqeni i Fierzës tágas kilátást és békés légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.322907,
+                        42.198624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni i Fierzës",
+                  "text": "Liqeni i Fierzës de lângă Krume oferă vederi largi și o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        20.322907,
+                        42.198624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liqeni i Fierzës",
+                  "text": "Liqeni i Fierzës near Krume offers wide views and a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        20.322907,
+                        42.198624
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Krumë", hu: "Krumë", ro: "Krumë", en: "Krumë"},
@@ -4309,6 +6748,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.268697,
                         40.032782
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein Reservoir bei Libohova, das eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.245324,
+                        40.066882
+                  ]
+            },
+            {
+                  "name": "Rezervuari Doftisë",
+                  "text": "Ein ruhig gelegener See bei Libohova, ideal für eine kurze Rast im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        20.232039,
+                        40.04126
+                  ]
             }
       ],
       "hu": [
@@ -4337,6 +6794,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.268697,
                         40.032782
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Libohova melletti víztározó, amely békés természeti légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.245324,
+                        40.066882
+                  ]
+            },
+            {
+                  "name": "Rezervuari Doftisë",
+                  "text": "Csendes fekvésű víztározó Libohova közelében, ideális egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        20.232039,
+                        40.04126
                   ]
             }
       ],
@@ -4367,6 +6842,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.268697,
                         40.032782
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Un rezervuar lângă Libohovë, oferind o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.245324,
+                        40.066882
+                  ]
+            },
+            {
+                  "name": "Rezervuari Doftisë",
+                  "text": "Un rezervuar situat liniștit lângă Libohovë, ideal pentru un scurt popas în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.232039,
+                        40.04126
+                  ]
             }
       ],
       "en": [
@@ -4395,6 +6888,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.268697,
                         40.032782
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "A reservoir near Libohovë, offering a pink atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.245324,
+                        40.066882
+                  ]
+            },
+            {
+                  "name": "Rezervuari Doftisë",
+                  "text": "A quietly located reservoir near Libohovë, ideal for a short rest in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        20.232039,
+                        40.04126
                   ]
             }
       ]
@@ -4445,7 +6956,628 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-vore-cities-v2",
+    id: "albania-vore-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Ein friedlicher See bei Vore, umgeben von Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Ein Wasserreservoir bei Vore, das zur lokalen Naturschönheit beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Liqeni i Bubqit",
+                  "text": "Ruhiges Gewässer bei Vore, ideal für entspannende Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        19.625773,
+                        41.460561
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Ein See in der Region Vore, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Malerischer See bei Vore, perfekt für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Der lokale See von Vore, ein ruhiger Ort zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Ein kleiner, friedlicher See bei Vore in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Ein ruhiges Gewässer bei Vore, ideal für eine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Ein Wasserreservoir bei Vore, eingebettet in grüne Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Ein kleiner See bei Vore, der Ruhe und Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Ruhiger See bei Vore, ideal für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Ein friedliches Gewässer bei Vore in schöner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "Ein See bei Vore, der sich gut für Naturbetrachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Ruhiges Wasserreservoir bei Vore in ländlicher Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Ein kleiner See bei Vore, der zu einer Pause im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sharges",
+                  "text": "Ein ruhiger See bei Vore, perfekt für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.659089,
+                        41.416702
+                  ]
+            },
+            {
+                  "name": "fushe sportive",
+                  "text": "Ein sportlicher Spielbereich in Vore, auf dem Kinder aktiv sein können.",
+                  "category": "family",
+                  "coords": [
+                        19.658231,
+                        41.394706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Békés tó Vore közelében, dombos tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Víztározó Vore közelében, amely hozzájárul a helyi természeti szépséghez.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Liqeni i Bubqit",
+                  "text": "Nyugodt vízfelület Vore közelében, ideális pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.625773,
+                        41.460561
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Tó Vore régiójában, amely nyugodt hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Festői tó Vore közelében, tökéletes a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Vore helyi tava, nyugodt hely a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Kicsi, békés tó Vore közelében a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Nyugodt vízfelület Vore közelében, ideális kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Víztározó Vore közelében, zöld dombok közé ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Kis tó Vore közelében, amely nyugalmat és természetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Nyugodt tó Vore közelében, ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Békés vízfelület Vore közelében, szép környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "Tó Vore közelében, amely jól alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Nyugodt víztározó Vore közelében, vidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Kis tó Vore közelében, amely szabadtéri pihenőre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sharges",
+                  "text": "Nyugodt tó Vore közelében, tökéletes egy pihentető naphoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.659089,
+                        41.416702
+                  ]
+            },
+            {
+                  "name": "fushe sportive",
+                  "text": "Sportos játszóterület Vore területén, ahol a gyerekek aktívak lehetnek.",
+                  "category": "family",
+                  "coords": [
+                        19.658231,
+                        41.394706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "Un lac liniștit lângă Vore, înconjurat de un peisaj deluros.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "Un rezervor de apă lângă Vore, contribuind la frumusețea naturală locală.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Liqeni i Bubqit",
+                  "text": "Lac liniștit lângă Vore, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        19.625773,
+                        41.460561
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "Un lac în regiunea Vore, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Lac pitoresc lângă Vore, perfect pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "Lacul local din Vore, un loc liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "Un lac mic și liniștit lângă Vore, în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "Lac liniștit lângă Vore, ideal pentru o pauză de la cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "Un rezervor de apă lângă Vore, cuibărit între dealuri verzi.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "Un lac mic lângă Vore, oferind liniște și natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Lac liniștit lângă Vore, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "Un lac liniștit lângă Vore, într-un cadru frumos.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "Un lac lângă Vore, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Rezervor de apă liniștit lângă Vore, într-o zonă rurală.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "Un lac mic lângă Vore, care invită la o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sharges",
+                  "text": "Un lac liniștit lângă Vore, perfect pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.659089,
+                        41.416702
+                  ]
+            },
+            {
+                  "name": "fushe sportive",
+                  "text": "O zonă de joacă sportivă în Vore, unde copiii pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        19.658231,
+                        41.394706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervuari Zajes",
+                  "text": "A peaceful lake near Vore, surrounded by hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.678646,
+                        41.384058
+                  ]
+            },
+            {
+                  "name": "Rezervuari Gjokaj",
+                  "text": "A water reservoir near Vore, contributing to the local natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        19.666909,
+                        41.368037
+                  ]
+            },
+            {
+                  "name": "Liqeni i Bubqit",
+                  "text": "Quiet body of water near Vore, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.625773,
+                        41.460561
+                  ]
+            },
+            {
+                  "name": "Rezervuari Purrezit",
+                  "text": "A lake in the Vore region, providing a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        19.702479,
+                        41.335392
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Scenic lake near Vore, perfect for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vores",
+                  "text": "The local lake of Vore, a quiet place to spend time.",
+                  "category": "natural",
+                  "coords": [
+                        19.642556,
+                        41.384422
+                  ]
+            },
+            {
+                  "name": "Liqeni i Dunjve",
+                  "text": "A small, peaceful lake near Vore in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.64098,
+                        41.376179
+                  ]
+            },
+            {
+                  "name": "Liqeni i Rrubjekes",
+                  "text": "A quiet body of water near Vore, ideal for a break from routine.",
+                  "category": "natural",
+                  "coords": [
+                        19.588293,
+                        41.39446
+                  ]
+            },
+            {
+                  "name": "Rezervuari Koni",
+                  "text": "A water reservoir near Vore, nestled among green hills.",
+                  "category": "natural",
+                  "coords": [
+                        19.685231,
+                        41.388855
+                  ]
+            },
+            {
+                  "name": "Liqeni i Karreçit",
+                  "text": "A small lake near Vore, offering peace and nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.615548,
+                        41.381958
+                  ]
+            },
+            {
+                  "name": "Liqeni Gerdec",
+                  "text": "Quiet lake near Vore, ideal for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.616436,
+                        41.400085
+                  ]
+            },
+            {
+                  "name": "Liqeni i Borçës",
+                  "text": "A peaceful body of water near Vore in nice surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        19.576775,
+                        41.41883
+                  ]
+            },
+            {
+                  "name": "Rezervuari Prezes",
+                  "text": "A lake near Vore, well-suited for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        19.676694,
+                        41.409993
+                  ]
+            },
+            {
+                  "name": "Liqeni i Huqve",
+                  "text": "Quiet water reservoir near Vore in a rural area.",
+                  "category": "natural",
+                  "coords": [
+                        19.610228,
+                        41.409333
+                  ]
+            },
+            {
+                  "name": "Selja",
+                  "text": "A small lake near Vore, inviting for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        19.625342,
+                        41.403213
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sharges",
+                  "text": "A quiet lake near Vore, perfect for a relaxing day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.659089,
+                        41.416702
+                  ]
+            },
+            {
+                  "name": "fushe sportive",
+                  "text": "A sporty play area in Vore where children can be active.",
+                  "category": "family",
+                  "coords": [
+                        19.658231,
+                        41.394706
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Vorë", hu: "Vorë", ro: "Vorë", en: "Vorë"},
@@ -5053,6 +8185,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.091443,
                         39.944864
                   ]
+            },
+            {
+                  "name": "Ujëmbajtësja Katalatit",
+                  "text": "Der Katalat-Stausee in Delvine ist ein ruhiges Ziel für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        20.060151,
+                        39.955842
+                  ]
             }
       ],
       "hu": [
@@ -5090,6 +8231,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.091443,
                         39.944864
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Katalatit",
+                  "text": "A Delvine városában található Katalat-víztározó nyugodt célpont a túrázók és természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        20.060151,
+                        39.955842
                   ]
             }
       ],
@@ -5129,6 +8279,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.091443,
                         39.944864
                   ]
+            },
+            {
+                  "name": "Ujëmbajtësja Katalatit",
+                  "text": "Rezervuarul Katalat din Delvine este o destinație liniștită pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.060151,
+                        39.955842
+                  ]
             }
       ],
       "en": [
@@ -5166,6 +8325,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.091443,
                         39.944864
+                  ]
+            },
+            {
+                  "name": "Ujëmbajtësja Katalatit",
+                  "text": "The Katalat reservoir in Delvine is a quiet destination for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.060151,
+                        39.955842
                   ]
             }
       ]
@@ -6048,6 +9216,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.540767,
                         41.066918
                   ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Der Rezervuari i Përrenjasit bietet eine erholsame Umgebung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            },
+            {
+                  "name": "Ohridsee",
+                  "text": "Der Ohridsee bei Prrenjas ist berühmt für sein klares Wasser und die malerische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "hu": [
@@ -6058,6 +9244,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.540767,
                         41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "A Rezervuari i Përrenjasit pihentető környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            },
+            {
+                  "name": "Ohridi-tó",
+                  "text": "A Prrenjas közelében fekvő Ohridi-tó tiszta vizéről és festői környezetéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ],
@@ -6070,6 +9274,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.540767,
                         41.066918
                   ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Rezervuari i Përrenjasit oferă un cadru relaxant la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            },
+            {
+                  "name": "Охридско Езеро / Liqeni i Ohrit",
+                  "text": "Lacul Ohrid de lângă Prrenjas este faimos pentru apele sale limpezi și cadrul pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
             }
       ],
       "en": [
@@ -6080,6 +9302,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.540767,
                         41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Rezervuari i Përrenjasit offers a relaxing environment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            },
+            {
+                  "name": "Lake Ohrid",
+                  "text": "Lake Ohrid near Prrenjas is famous for its clear waters and scenic surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
                   ]
             }
       ]
@@ -6224,7 +9464,196 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-bulqize-cities-v2",
+    id: "albania-bulqize-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liqeni i Bardhë",
+                  "text": "Ein malerischer See bei Bulqiza, der sich gut für Ausflüge in die Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.295273,
+                        41.461696
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sopës",
+                  "text": "Liqeni i Sopës ist ein See in Bulqize, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.285954,
+                        41.434796
+                  ]
+            },
+            {
+                  "name": "Liqeni i Zi i Valikardhës",
+                  "text": "Liqeni i Zi i Valikardhës ist ein See in Bulqize, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.302021,
+                        41.454427
+                  ]
+            },
+            {
+                  "name": "Balgajit",
+                  "text": "Balgajit ist ein See in Bulqize, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.213647,
+                        41.554786
+                  ]
+            },
+            {
+                  "name": "Balgaj",
+                  "text": "Balgaj ist ein See in Bulqize, der eine malerische Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.223727,
+                        41.561334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liqeni i Bardhë",
+                  "text": "Festői tó Bulqiza mellett, amely alkalmas természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.295273,
+                        41.461696
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sopës",
+                  "text": "Liqeni i Sopës egy tó Bulqize területén, amely természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.285954,
+                        41.434796
+                  ]
+            },
+            {
+                  "name": "Liqeni i Zi i Valikardhës",
+                  "text": "Liqeni i Zi i Valikardhës egy tó Bulqize területén, amely nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.302021,
+                        41.454427
+                  ]
+            },
+            {
+                  "name": "Balgajit",
+                  "text": "Balgajit egy tó Bulqize területén, amely kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.213647,
+                        41.554786
+                  ]
+            },
+            {
+                  "name": "Balgaj",
+                  "text": "Balgaj egy tó Bulqize területén, amely festői hátteret kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.223727,
+                        41.561334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liqeni i Bardhë",
+                  "text": "Un lac pitoresc lângă Bulqizë, potrivit pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.295273,
+                        41.461696
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sopës",
+                  "text": "Liqeni i Sopës este un lac din Bulqize cunoscut pentru cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        20.285954,
+                        41.434796
+                  ]
+            },
+            {
+                  "name": "Liqeni i Zi i Valikardhës",
+                  "text": "Liqeni i Zi i Valikardhës este un lac din Bulqize care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        20.302021,
+                        41.454427
+                  ]
+            },
+            {
+                  "name": "Balgajit",
+                  "text": "Balgajit este un lac din Bulqize care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.213647,
+                        41.554786
+                  ]
+            },
+            {
+                  "name": "Balgaj",
+                  "text": "Balgaj este un lac din Bulqize care oferă un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        20.223727,
+                        41.561334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liqeni i Bardhë",
+                  "text": "A scenic lake near Bulqizë, suitable for excursions into nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.295273,
+                        41.461696
+                  ]
+            },
+            {
+                  "name": "Liqeni i Sopës",
+                  "text": "Liqeni i Sopës is a lake in Bulqize known for its natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        20.285954,
+                        41.434796
+                  ]
+            },
+            {
+                  "name": "Liqeni i Zi i Valikardhës",
+                  "text": "Liqeni i Zi i Valikardhës is a lake in Bulqize offering a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        20.302021,
+                        41.454427
+                  ]
+            },
+            {
+                  "name": "Balgajit",
+                  "text": "Balgajit is a lake in Bulqize that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.213647,
+                        41.554786
+                  ]
+            },
+            {
+                  "name": "Balgaj",
+                  "text": "Balgaj is a lake in Bulqize providing a scenic backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        20.223727,
+                        41.561334
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Bulqizë", hu: "Bulqizë", ro: "Bulqizë", en: "Bulqizë"},

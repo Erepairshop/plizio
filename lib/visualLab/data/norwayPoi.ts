@@ -2609,6 +2609,231 @@ export const norwayRegions: POI[] = [
                         5.323718,
                         60.390779
                   ]
+            },
+            {
+                  "name": "Svartediket",
+                  "text": "Svartediket ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.374908,
+                        60.388529
+                  ]
+            },
+            {
+                  "name": "Store Tindevannet",
+                  "text": "Store Tindevannet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.367991,
+                        60.405643
+                  ]
+            },
+            {
+                  "name": "Beitelsvatnet",
+                  "text": "Beitelsvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.407932,
+                        60.450713
+                  ]
+            },
+            {
+                  "name": "Kalsåsvatnet",
+                  "text": "Kalsåsvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.399151,
+                        60.452382
+                  ]
+            },
+            {
+                  "name": "Øvre Jordalsvatnet",
+                  "text": "Øvre Jordalsvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.393945,
+                        60.41573
+                  ]
+            },
+            {
+                  "name": "Lille Tindevannet",
+                  "text": "Lille Tindevannet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.367429,
+                        60.408273
+                  ]
+            },
+            {
+                  "name": "Sælenvatnet",
+                  "text": "Sælenvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.27569,
+                        60.333102
+                  ]
+            },
+            {
+                  "name": "Jordalsvatnet",
+                  "text": "Jordalsvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.334652,
+                        60.435376
+                  ]
+            },
+            {
+                  "name": "Tarlebøvatnet",
+                  "text": "Tarlebøvatnet ist ein malerischer See in Bergen, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.389108,
+                        60.411399
+                  ]
+            },
+            {
+                  "name": "Hopsdammen",
+                  "text": "Der Hopsdammen ist ein See in Bergen, der eine malerische Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.340081,
+                        60.328824
+                  ]
+            },
+            {
+                  "name": "Kleppevatnet",
+                  "text": "Der Kleppevatnet in Bergen ist ein ruhig gelegener See, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        5.206302,
+                        60.426413
+                  ]
+            },
+            {
+                  "name": "Strusshamnvatnet",
+                  "text": "Der Strusshamnvatnet ist ein See in Bergen mit einer friedlichen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        5.198424,
+                        60.412014
+                  ]
+            },
+            {
+                  "name": "Storavatnet",
+                  "text": "Der Storavatnet in Bergen bietet eine schöne Landschaft für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        5.239397,
+                        60.416438
+                  ]
+            },
+            {
+                  "name": "Orrtuvatnet",
+                  "text": "Der Orrtuvatnet ist ein kleinerer See in Bergen, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.286959,
+                        60.343622
+                  ]
+            },
+            {
+                  "name": "Spåkevatnet",
+                  "text": "Der Spåkevatnet in Bergen ist ein Gewässer in ruhiger Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        5.431201,
+                        60.443903
+                  ]
+            },
+            {
+                  "name": "Kråvatnet",
+                  "text": "Der Kråvatnet ist ein See in Bergen, der sich gut für einen kurzen Ausflug eignet.",
+                  "category": "natural",
+                  "coords": [
+                        5.378546,
+                        60.45619
+                  ]
+            },
+            {
+                  "name": "Langelivatnet",
+                  "text": "Der Langelivatnet in Bergen bietet eine malerische Aussicht auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        5.400547,
+                        60.404318
+                  ]
+            },
+            {
+                  "name": "Hopsvannet",
+                  "text": "Der Hopsvannet ist ein See in Bergen, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.343862,
+                        60.329304
+                  ]
+            },
+            {
+                  "name": "Apotekerhagen lekeplass",
+                  "text": "Der Apotekerhagen lekeplass in Bergen ist ein schöner Spielplatz für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        5.31683,
+                        60.394161
+                  ]
+            },
+            {
+                  "name": "Meyermarken bydelspark",
+                  "text": "Der Meyermarken bydelspark in Bergen bietet verschiedene Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.326046,
+                        60.404259
+                  ]
+            },
+            {
+                  "name": "Christinegården lekeplass",
+                  "text": "Der Christinegården lekeplass ist ein beliebter Ort für Kinder zum Spielen in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.328541,
+                        60.406006
+                  ]
+            },
+            {
+                  "name": "Dokkebakken barnepark",
+                  "text": "Der Dokkebakken barnepark in Bergen ist ein kinderfreundlicher Park mit Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        5.316546,
+                        60.387714
+                  ]
+            },
+            {
+                  "name": "Amalie Skrams vei lekeplass",
+                  "text": "Die Amalie Skrams vei lekeplass bietet sichere Spielbereiche für Kinder in Bergen an.",
+                  "category": "family",
+                  "coords": [
+                        5.32411,
+                        60.409634
+                  ]
+            },
+            {
+                  "name": "Arbeiderboligen lekeplass",
+                  "text": "Der Arbeiderboligen lekeplass ist ein lokaler Treffpunkt für Familien in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.32721,
+                        60.400307
+                  ]
+            },
+            {
+                  "name": "Bernhard Meyers vei lekeplass",
+                  "text": "Der Bernhard Meyers vei lekeplass in Bergen lädt Kinder zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        5.329953,
+                        60.395927
+                  ]
             }
       ],
       "hu": [
@@ -3069,6 +3294,231 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         5.323718,
                         60.390779
+                  ]
+            },
+            {
+                  "name": "Svartediket",
+                  "text": "A Svartediket egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.374908,
+                        60.388529
+                  ]
+            },
+            {
+                  "name": "Store Tindevannet",
+                  "text": "A Store Tindevannet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.367991,
+                        60.405643
+                  ]
+            },
+            {
+                  "name": "Beitelsvatnet",
+                  "text": "A Beitelsvatnet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.407932,
+                        60.450713
+                  ]
+            },
+            {
+                  "name": "Kalsåsvatnet",
+                  "text": "A Kalsåsvatnet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.399151,
+                        60.452382
+                  ]
+            },
+            {
+                  "name": "Øvre Jordalsvatnet",
+                  "text": "A Øvre Jordalsvatnet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.393945,
+                        60.41573
+                  ]
+            },
+            {
+                  "name": "Lille Tindevannet",
+                  "text": "A Lille Tindevannet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.367429,
+                        60.408273
+                  ]
+            },
+            {
+                  "name": "Sælenvatnet",
+                  "text": "A Sælenvatnet egy festői tó Bergen városában, amely ideális sétákhoz és the nature élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.27569,
+                        60.333102
+                  ]
+            },
+            {
+                  "name": "Jordalsvatnet",
+                  "text": "A Jordalsvatnet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.334652,
+                        60.435376
+                  ]
+            },
+            {
+                  "name": "Tarlebøvatnet",
+                  "text": "A Tarlebøvatnet egy festői tó Bergen városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.389108,
+                        60.411399
+                  ]
+            },
+            {
+                  "name": "Hopsdammen",
+                  "text": "A Hopsdammen egy tó Bergenben, amely festői környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.340081,
+                        60.328824
+                  ]
+            },
+            {
+                  "name": "Kleppevatnet",
+                  "text": "A Kleppevatnet Bergenben egy nyugodt fekvésű tó, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.206302,
+                        60.426413
+                  ]
+            },
+            {
+                  "name": "Strusshamnvatnet",
+                  "text": "A Strusshamnvatnet egy tó Bergenben, nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        5.198424,
+                        60.412014
+                  ]
+            },
+            {
+                  "name": "Storavatnet",
+                  "text": "A Storavatnet Bergenben szép tájat kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        5.239397,
+                        60.416438
+                  ]
+            },
+            {
+                  "name": "Orrtuvatnet",
+                  "text": "Az Orrtuvatnet egy kisebb tó Bergenben, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        5.286959,
+                        60.343622
+                  ]
+            },
+            {
+                  "name": "Spåkevatnet",
+                  "text": "A Spåkevatnet Bergenben egy nyugodt környezetben található vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        5.431201,
+                        60.443903
+                  ]
+            },
+            {
+                  "name": "Kråvatnet",
+                  "text": "A Kråvatnet egy tó Bergenben, amely alkalmas egy rövid kirándulásra.",
+                  "category": "natural",
+                  "coords": [
+                        5.378546,
+                        60.45619
+                  ]
+            },
+            {
+                  "name": "Langelivatnet",
+                  "text": "A Langelivatnet Bergenben festői kilátást nyújt a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        5.400547,
+                        60.404318
+                  ]
+            },
+            {
+                  "name": "Hopsvannet",
+                  "text": "A Hopsvannet egy tó Bergenben, ideális egy természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        5.343862,
+                        60.329304
+                  ]
+            },
+            {
+                  "name": "Apotekerhagen lekeplass",
+                  "text": "Az Apotekerhagen lekeplass Bergenben egy szép játszótér kisgyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.31683,
+                        60.394161
+                  ]
+            },
+            {
+                  "name": "Meyermarken bydelspark",
+                  "text": "A Meyermarken bydelspark Bergenben különféle szabadtéri játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        5.326046,
+                        60.404259
+                  ]
+            },
+            {
+                  "name": "Christinegården lekeplass",
+                  "text": "A Christinegården lekeplass egy népszerű hely a gyerekek számára a játékra Bergenben.",
+                  "category": "family",
+                  "coords": [
+                        5.328541,
+                        60.406006
+                  ]
+            },
+            {
+                  "name": "Dokkebakken barnepark",
+                  "text": "A Dokkebakken barnepark Bergenben egy gyerekbarát park játszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        5.316546,
+                        60.387714
+                  ]
+            },
+            {
+                  "name": "Amalie Skrams vei lekeplass",
+                  "text": "Az Amalie Skrams vei lekeplass biztonságos játszótereket kínál a gyerekeknek Bergenben.",
+                  "category": "family",
+                  "coords": [
+                        5.32411,
+                        60.409634
+                  ]
+            },
+            {
+                  "name": "Arbeiderboligen lekeplass",
+                  "text": "Az Arbeiderboligen lekeplass egy helyi találkozóhely a családok számára Bergenben.",
+                  "category": "family",
+                  "coords": [
+                        5.32721,
+                        60.400307
+                  ]
+            },
+            {
+                  "name": "Bernhard Meyers vei lekeplass",
+                  "text": "A Bernhard Meyers vei lekeplass Bergenben felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        5.329953,
+                        60.395927
                   ]
             }
       ],
@@ -3531,6 +3981,231 @@ export const norwayRegions: POI[] = [
                         5.323718,
                         60.390779
                   ]
+            },
+            {
+                  "name": "Svartediket",
+                  "text": "Svartediket este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.374908,
+                        60.388529
+                  ]
+            },
+            {
+                  "name": "Store Tindevannet",
+                  "text": "Store Tindevannet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.367991,
+                        60.405643
+                  ]
+            },
+            {
+                  "name": "Beitelsvatnet",
+                  "text": "Beitelsvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.407932,
+                        60.450713
+                  ]
+            },
+            {
+                  "name": "Kalsåsvatnet",
+                  "text": "Kalsåsvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.399151,
+                        60.452382
+                  ]
+            },
+            {
+                  "name": "Øvre Jordalsvatnet",
+                  "text": "Øvre Jordalsvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.393945,
+                        60.41573
+                  ]
+            },
+            {
+                  "name": "Lille Tindevannet",
+                  "text": "Lille Tindevannet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.367429,
+                        60.408273
+                  ]
+            },
+            {
+                  "name": "Sælenvatnet",
+                  "text": "Sælenvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.27569,
+                        60.333102
+                  ]
+            },
+            {
+                  "name": "Jordalsvatnet",
+                  "text": "Jordalsvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.334652,
+                        60.435376
+                  ]
+            },
+            {
+                  "name": "Tarlebøvatnet",
+                  "text": "Tarlebøvatnet este un lac pitoresc din Bergen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.389108,
+                        60.411399
+                  ]
+            },
+            {
+                  "name": "Hopsdammen",
+                  "text": "Hopsdammen este un lac din Bergen, oferind un cadru pitoresc pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.340081,
+                        60.328824
+                  ]
+            },
+            {
+                  "name": "Kleppevatnet",
+                  "text": "Kleppevatnet din Bergen este un lac liniștit, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.206302,
+                        60.426413
+                  ]
+            },
+            {
+                  "name": "Strusshamnvatnet",
+                  "text": "Strusshamnvatnet este un lac din Bergen cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        5.198424,
+                        60.412014
+                  ]
+            },
+            {
+                  "name": "Storavatnet",
+                  "text": "Storavatnet din Bergen oferă un peisaj frumos pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        5.239397,
+                        60.416438
+                  ]
+            },
+            {
+                  "name": "Orrtuvatnet",
+                  "text": "Orrtuvatnet este un lac mai mic din Bergen, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.286959,
+                        60.343622
+                  ]
+            },
+            {
+                  "name": "Spåkevatnet",
+                  "text": "Spåkevatnet din Bergen este un corp de apă situat într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        5.431201,
+                        60.443903
+                  ]
+            },
+            {
+                  "name": "Kråvatnet",
+                  "text": "Kråvatnet este un lac din Bergen, potrivit pentru o scurtă excursie.",
+                  "category": "natural",
+                  "coords": [
+                        5.378546,
+                        60.45619
+                  ]
+            },
+            {
+                  "name": "Langelivatnet",
+                  "text": "Langelivatnet din Bergen oferă o vedere pitorească asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.400547,
+                        60.404318
+                  ]
+            },
+            {
+                  "name": "Hopsvannet",
+                  "text": "Hopsvannet este un lac din Bergen, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.343862,
+                        60.329304
+                  ]
+            },
+            {
+                  "name": "Apotekerhagen lekeplass",
+                  "text": "Apotekerhagen lekeplass din Bergen este un loc de joacă frumos pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        5.31683,
+                        60.394161
+                  ]
+            },
+            {
+                  "name": "Meyermarken bydelspark",
+                  "text": "Meyermarken bydelspark din Bergen oferă diverse posibilități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.326046,
+                        60.404259
+                  ]
+            },
+            {
+                  "name": "Christinegården lekeplass",
+                  "text": "Christinegården lekeplass este un loc popular de joacă pentru copii în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.328541,
+                        60.406006
+                  ]
+            },
+            {
+                  "name": "Dokkebakken barnepark",
+                  "text": "Dokkebakken barnepark din Bergen este un parc prietenos pentru copii, cu zone de joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.316546,
+                        60.387714
+                  ]
+            },
+            {
+                  "name": "Amalie Skrams vei lekeplass",
+                  "text": "Amalie Skrams vei lekeplass oferă zone de joacă sigure pentru copii în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.32411,
+                        60.409634
+                  ]
+            },
+            {
+                  "name": "Arbeiderboligen lekeplass",
+                  "text": "Arbeiderboligen lekeplass este un loc de întâlnire local pentru familii în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.32721,
+                        60.400307
+                  ]
+            },
+            {
+                  "name": "Bernhard Meyers vei lekeplass",
+                  "text": "Bernhard Meyers vei lekeplass din Bergen invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.329953,
+                        60.395927
+                  ]
             }
       ],
       "en": [
@@ -3991,6 +4666,231 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         5.323718,
                         60.390779
+                  ]
+            },
+            {
+                  "name": "Svartediket",
+                  "text": "Svartediket is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.374908,
+                        60.388529
+                  ]
+            },
+            {
+                  "name": "Store Tindevannet",
+                  "text": "Store Tindevannet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.367991,
+                        60.405643
+                  ]
+            },
+            {
+                  "name": "Beitelsvatnet",
+                  "text": "Beitelsvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.407932,
+                        60.450713
+                  ]
+            },
+            {
+                  "name": "Kalsåsvatnet",
+                  "text": "Kalsåsvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.399151,
+                        60.452382
+                  ]
+            },
+            {
+                  "name": "Øvre Jordalsvatnet",
+                  "text": "Øvre Jordalsvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.393945,
+                        60.41573
+                  ]
+            },
+            {
+                  "name": "Lille Tindevannet",
+                  "text": "Lille Tindevannet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.367429,
+                        60.408273
+                  ]
+            },
+            {
+                  "name": "Sælenvatnet",
+                  "text": "Sælenvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.27569,
+                        60.333102
+                  ]
+            },
+            {
+                  "name": "Jordalsvatnet",
+                  "text": "Jordalsvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.334652,
+                        60.435376
+                  ]
+            },
+            {
+                  "name": "Tarlebøvatnet",
+                  "text": "Tarlebøvatnet is a scenic lake in Bergen, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.389108,
+                        60.411399
+                  ]
+            },
+            {
+                  "name": "Hopsdammen",
+                  "text": "Hopsdammen is a lake in Bergen, offering a scenic setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.340081,
+                        60.328824
+                  ]
+            },
+            {
+                  "name": "Kleppevatnet",
+                  "text": "Kleppevatnet in Bergen is a quiet lake, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.206302,
+                        60.426413
+                  ]
+            },
+            {
+                  "name": "Strusshamnvatnet",
+                  "text": "Strusshamnvatnet is a lake in Bergen with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        5.198424,
+                        60.412014
+                  ]
+            },
+            {
+                  "name": "Storavatnet",
+                  "text": "Storavatnet in Bergen offers a beautiful landscape for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.239397,
+                        60.416438
+                  ]
+            },
+            {
+                  "name": "Orrtuvatnet",
+                  "text": "Orrtuvatnet is a smaller lake in Bergen, inviting visitors to relax.",
+                  "category": "natural",
+                  "coords": [
+                        5.286959,
+                        60.343622
+                  ]
+            },
+            {
+                  "name": "Spåkevatnet",
+                  "text": "Spåkevatnet in Bergen is a body of water in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        5.431201,
+                        60.443903
+                  ]
+            },
+            {
+                  "name": "Kråvatnet",
+                  "text": "Kråvatnet is a lake in Bergen suitable for a short trip.",
+                  "category": "natural",
+                  "coords": [
+                        5.378546,
+                        60.45619
+                  ]
+            },
+            {
+                  "name": "Langelivatnet",
+                  "text": "Langelivatnet in Bergen offers scenic views of the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.400547,
+                        60.404318
+                  ]
+            },
+            {
+                  "name": "Hopsvannet",
+                  "text": "Hopsvannet is a lake in Bergen, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.343862,
+                        60.329304
+                  ]
+            },
+            {
+                  "name": "Apotekerhagen lekeplass",
+                  "text": "Apotekerhagen lekeplass in Bergen is a nice playground for families with children.",
+                  "category": "family",
+                  "coords": [
+                        5.31683,
+                        60.394161
+                  ]
+            },
+            {
+                  "name": "Meyermarken bydelspark",
+                  "text": "Meyermarken bydelspark in Bergen offers various outdoor play options.",
+                  "category": "family",
+                  "coords": [
+                        5.326046,
+                        60.404259
+                  ]
+            },
+            {
+                  "name": "Christinegården lekeplass",
+                  "text": "Christinegården lekeplass is a popular spot for children to play in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.328541,
+                        60.406006
+                  ]
+            },
+            {
+                  "name": "Dokkebakken barnepark",
+                  "text": "Dokkebakken barnepark in Bergen is a child-friendly park with play areas.",
+                  "category": "family",
+                  "coords": [
+                        5.316546,
+                        60.387714
+                  ]
+            },
+            {
+                  "name": "Amalie Skrams vei lekeplass",
+                  "text": "Amalie Skrams vei lekeplass offers safe play areas for children in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.32411,
+                        60.409634
+                  ]
+            },
+            {
+                  "name": "Arbeiderboligen lekeplass",
+                  "text": "Arbeiderboligen lekeplass is a local meeting spot for families in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.32721,
+                        60.400307
+                  ]
+            },
+            {
+                  "name": "Bernhard Meyers vei lekeplass",
+                  "text": "Bernhard Meyers vei lekeplass in Bergen invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        5.329953,
+                        60.395927
                   ]
             }
       ]
@@ -4489,6 +5389,159 @@ export const norwayRegions: POI[] = [
                         10.397881,
                         63.428112
                   ]
+            },
+            {
+                  "name": "Estenstaddammen",
+                  "text": "Estenstaddammen ist ein beliebter See in Trondheim, ideal für Spaziergänge und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        10.487088,
+                        63.391144
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Der Nydammen in Trondheim ist ein ruhiges Gewässer, perfekt für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.539593,
+                        63.409553
+                  ]
+            },
+            {
+                  "name": "Skjellbreia",
+                  "text": "Skjellbreia ist ein schöner See in Trondheim, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.244839,
+                        63.396024
+                  ]
+            },
+            {
+                  "name": "Jonsvatnet",
+                  "text": "Der Jonsvatnet in Trondheim ist ein großer, malerischer See, ideal für ausgiebige Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        10.585506,
+                        63.367874
+                  ]
+            },
+            {
+                  "name": "Froskedammen",
+                  "text": "Der Froskedammen in Trondheim ist ein kleiner, ruhiger See, perfekt für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        10.326195,
+                        63.379479
+                  ]
+            },
+            {
+                  "name": "Tømmerholtdammen",
+                  "text": "Der Tømmerholtdammen in Trondheim bietet eine idyllische Kulisse für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        10.478771,
+                        63.390953
+                  ]
+            },
+            {
+                  "name": "Klovn",
+                  "text": "Klovn in Trondheim ist ein fantasievoller Spielplatz, der Kindern eine unterhaltsame Umgebung zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.440408,
+                        63.445238
+                  ]
+            },
+            {
+                  "name": "Akrobat",
+                  "text": "Akrobat in Trondheim ist ein moderner Spielplatz, der zu aktiven Bewegungsspielen für die ganze Familie einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.442022,
+                        63.44593
+                  ]
+            },
+            {
+                  "name": "Ila barnehage",
+                  "text": "Ila barnehage in Trondheim bietet einen freundlichen Spielbereich, der ideal auf die Bedürfnisse kleiner Kinder zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        10.365123,
+                        63.429979
+                  ]
+            },
+            {
+                  "name": "Strandveiparken lekeplass",
+                  "text": "Strandveiparken lekeplass ist ein beliebter Familienspielplatz in Trondheim mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        10.418333,
+                        63.436873
+                  ]
+            },
+            {
+                  "name": "Lekeplass andre avdeling TKB",
+                  "text": "Dieser Spielplatz in Trondheim bietet Kindern einen sicheren Ort zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        10.422399,
+                        63.427618
+                  ]
+            },
+            {
+                  "name": "Schøyens gt 10",
+                  "text": "Schøyens gt 10 in Trondheim ist ein kleiner Nachbarschaftsspielplatz, ideal für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        10.400626,
+                        63.416098
+                  ]
+            },
+            {
+                  "name": "Work-Work",
+                  "text": "Work-Work in Trondheim ist eine unterhaltsame Spielhalle, die Spaß und Aktivitäten für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.393275,
+                        63.432854
+                  ]
+            },
+            {
+                  "name": "Leo's lekeland",
+                  "text": "Leo's lekeland in Trondheim ist ein großes Indoor-Spielparadies, perfekt für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        10.432171,
+                        63.443009
+                  ]
+            },
+            {
+                  "name": "Lekerom/stellerom",
+                  "text": "Dieser Spiel- und Wickelraum in Trondheim bietet Familien eine praktische und kinderfreundliche Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        10.396487,
+                        63.433436
+                  ]
+            },
+            {
+                  "name": "Marinen lekeplass",
+                  "text": "Marinen lekeplass in Trondheim ist ein schön gelegener Spielplatz, der viel Platz für Kinderaktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.398502,
+                        63.425597
+                  ]
+            },
+            {
+                  "name": "Buran lekeplass",
+                  "text": "Buran lekeplass in Trondheim ist ein abwechslungsreicher Spielplatz, ideal für einen aktiven Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        10.42328,
+                        63.435652
+                  ]
             }
       ],
       "hu": [
@@ -4940,6 +5993,159 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         10.397881,
                         63.428112
+                  ]
+            },
+            {
+                  "name": "Estenstaddammen",
+                  "text": "Az Estenstaddammen egy népszerű tó Trondheimben, amely ideális sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.487088,
+                        63.391144
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "A trondheimi Nydammen egy csendes vízfelület, amely tökéletes egy pihentető naphoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.539593,
+                        63.409553
+                  ]
+            },
+            {
+                  "name": "Skjellbreia",
+                  "text": "A Skjellbreia egy szép tó Trondheimben, amely békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        10.244839,
+                        63.396024
+                  ]
+            },
+            {
+                  "name": "Jonsvatnet",
+                  "text": "A trondheimi Jonsvatnet egy nagy, festői tó, amely ideális hosszú vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.585506,
+                        63.367874
+                  ]
+            },
+            {
+                  "name": "Froskedammen",
+                  "text": "A trondheimi Froskedammen egy kicsi, csendes tó, amely tökéletes egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        10.326195,
+                        63.379479
+                  ]
+            },
+            {
+                  "name": "Tømmerholtdammen",
+                  "text": "A trondheimi Tømmerholtdammen idilli környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.478771,
+                        63.390953
+                  ]
+            },
+            {
+                  "name": "Klovn",
+                  "text": "A trondheimi Klovn egy ötletes játszótér, amely szórakoztató környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.440408,
+                        63.445238
+                  ]
+            },
+            {
+                  "name": "Akrobat",
+                  "text": "A trondheimi Akrobat egy modern játszótér, amely aktív mozgásos játékokra hívja az egész családot.",
+                  "category": "family",
+                  "coords": [
+                        10.442022,
+                        63.44593
+                  ]
+            },
+            {
+                  "name": "Ila barnehage",
+                  "text": "A trondheimi Ila barnehage barátságos játszóteret kínál, amely ideálisan igazodik a kisgyermekek igényeihez.",
+                  "category": "family",
+                  "coords": [
+                        10.365123,
+                        63.429979
+                  ]
+            },
+            {
+                  "name": "Strandveiparken lekeplass",
+                  "text": "A Strandveiparken lekeplass egy népszerű családi játszótér Trondheimben, különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        10.418333,
+                        63.436873
+                  ]
+            },
+            {
+                  "name": "Lekeplass andre avdeling TKB",
+                  "text": "Ez a trondheimi játszótér biztonságos helyet kínál a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.422399,
+                        63.427618
+                  ]
+            },
+            {
+                  "name": "Schøyens gt 10",
+                  "text": "A trondheimi Schøyens gt 10 egy kis szomszédsági játszótér, amely ideális egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        10.400626,
+                        63.416098
+                  ]
+            },
+            {
+                  "name": "Work-Work",
+                  "text": "A trondheimi Work-Work egy szórakoztató játékterem, amely minden korosztály számára kínál programokat.",
+                  "category": "family",
+                  "coords": [
+                        10.393275,
+                        63.432854
+                  ]
+            },
+            {
+                  "name": "Leo's lekeland",
+                  "text": "A trondheimi Leo's lekeland egy nagy beltéri játszóparadicsom, amely tökéletes az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.432171,
+                        63.443009
+                  ]
+            },
+            {
+                  "name": "Lekerom/stellerom",
+                  "text": "Ez a trondheimi játszó- és pelenkázóhely praktikus és gyerekbarát környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.396487,
+                        63.433436
+                  ]
+            },
+            {
+                  "name": "Marinen lekeplass",
+                  "text": "A trondheimi Marinen lekeplass egy szépen elhelyezkedő játszótér, amely rengeteg helyet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.398502,
+                        63.425597
+                  ]
+            },
+            {
+                  "name": "Buran lekeplass",
+                  "text": "A trondheimi Buran lekeplass egy változatos játszótér, amely ideális egy aktív családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.42328,
+                        63.435652
                   ]
             }
       ],
@@ -5393,6 +6599,159 @@ export const norwayRegions: POI[] = [
                         10.397881,
                         63.428112
                   ]
+            },
+            {
+                  "name": "Estenstaddammen",
+                  "text": "Estenstaddammen este un lac popular în Trondheim, ideal pentru plimbări și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.487088,
+                        63.391144
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Nydammen din Trondheim este o apă liniștită, perfectă pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.539593,
+                        63.409553
+                  ]
+            },
+            {
+                  "name": "Skjellbreia",
+                  "text": "Skjellbreia este un lac frumos în Trondheim, oferind un cadru pașnic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.244839,
+                        63.396024
+                  ]
+            },
+            {
+                  "name": "Jonsvatnet",
+                  "text": "Jonsvatnet din Trondheim este un lac mare și pitoresc, ideal pentru plimbări lungi pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.585506,
+                        63.367874
+                  ]
+            },
+            {
+                  "name": "Froskedammen",
+                  "text": "Froskedammen din Trondheim este un lac mic și liniștit, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.326195,
+                        63.379479
+                  ]
+            },
+            {
+                  "name": "Tømmerholtdammen",
+                  "text": "Tømmerholtdammen din Trondheim oferă un cadru idilic pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        10.478771,
+                        63.390953
+                  ]
+            },
+            {
+                  "name": "Klovn",
+                  "text": "Klovn din Trondheim este un loc de joacă imaginativ, oferind copiilor un mediu distractiv pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        10.440408,
+                        63.445238
+                  ]
+            },
+            {
+                  "name": "Akrobat",
+                  "text": "Akrobat din Trondheim este un loc de joacă modern, care invită la jocuri active pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.442022,
+                        63.44593
+                  ]
+            },
+            {
+                  "name": "Ila barnehage",
+                  "text": "Ila barnehage din Trondheim oferă o zonă de joacă prietenoasă, adaptată ideal nevoilor copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        10.365123,
+                        63.429979
+                  ]
+            },
+            {
+                  "name": "Strandveiparken lekeplass",
+                  "text": "Strandveiparken lekeplass este un loc de joacă popular pentru familii în Trondheim, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.418333,
+                        63.436873
+                  ]
+            },
+            {
+                  "name": "Lekeplass andre avdeling TKB",
+                  "text": "Acest loc de joacă din Trondheim oferă copiilor un loc sigur pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        10.422399,
+                        63.427618
+                  ]
+            },
+            {
+                  "name": "Schøyens gt 10",
+                  "text": "Schøyens gt 10 din Trondheim este un mic loc de joacă de cartier, ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.400626,
+                        63.416098
+                  ]
+            },
+            {
+                  "name": "Work-Work",
+                  "text": "Work-Work din Trondheim este o sală de jocuri distractivă, oferind activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.393275,
+                        63.432854
+                  ]
+            },
+            {
+                  "name": "Leo's lekeland",
+                  "text": "Leo's lekeland din Trondheim este un mare paradis de joacă interior, perfect pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.432171,
+                        63.443009
+                  ]
+            },
+            {
+                  "name": "Lekerom/stellerom",
+                  "text": "Această cameră de joacă și îngrijire din Trondheim oferă familiilor un mediu practic și prietenos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.396487,
+                        63.433436
+                  ]
+            },
+            {
+                  "name": "Marinen lekeplass",
+                  "text": "Marinen lekeplass din Trondheim este un loc de joacă frumos amplasat, care oferă mult spațiu pentru activitățile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.398502,
+                        63.425597
+                  ]
+            },
+            {
+                  "name": "Buran lekeplass",
+                  "text": "Buran lekeplass din Trondheim este un loc de joacă variat, ideal pentru o după-amiază activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.42328,
+                        63.435652
+                  ]
             }
       ],
       "en": [
@@ -5844,6 +7203,159 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         10.397881,
                         63.428112
+                  ]
+            },
+            {
+                  "name": "Estenstaddammen",
+                  "text": "Estenstaddammen is a popular lake in Trondheim, ideal for walks and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        10.487088,
+                        63.391144
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Nydammen in Trondheim is a quiet body of water, perfect for a relaxing day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.539593,
+                        63.409553
+                  ]
+            },
+            {
+                  "name": "Skjellbreia",
+                  "text": "Skjellbreia is a beautiful lake in Trondheim, offering a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        10.244839,
+                        63.396024
+                  ]
+            },
+            {
+                  "name": "Jonsvatnet",
+                  "text": "Jonsvatnet in Trondheim is a large, scenic lake, ideal for extensive walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        10.585506,
+                        63.367874
+                  ]
+            },
+            {
+                  "name": "Froskedammen",
+                  "text": "Froskedammen in Trondheim is a small, quiet lake, perfect for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        10.326195,
+                        63.379479
+                  ]
+            },
+            {
+                  "name": "Tømmerholtdammen",
+                  "text": "Tømmerholtdammen in Trondheim provides an idyllic setting for restful walks.",
+                  "category": "natural",
+                  "coords": [
+                        10.478771,
+                        63.390953
+                  ]
+            },
+            {
+                  "name": "Klovn",
+                  "text": "Klovn in Trondheim is an imaginative playground, providing a fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        10.440408,
+                        63.445238
+                  ]
+            },
+            {
+                  "name": "Akrobat",
+                  "text": "Akrobat in Trondheim is a modern playground, inviting active play for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.442022,
+                        63.44593
+                  ]
+            },
+            {
+                  "name": "Ila barnehage",
+                  "text": "Ila barnehage in Trondheim offers a friendly play area, ideally suited to the needs of young children.",
+                  "category": "family",
+                  "coords": [
+                        10.365123,
+                        63.429979
+                  ]
+            },
+            {
+                  "name": "Strandveiparken lekeplass",
+                  "text": "Strandveiparken lekeplass is a popular family playground in Trondheim with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        10.418333,
+                        63.436873
+                  ]
+            },
+            {
+                  "name": "Lekeplass andre avdeling TKB",
+                  "text": "This playground in Trondheim offers children a safe place for playing and exploring.",
+                  "category": "family",
+                  "coords": [
+                        10.422399,
+                        63.427618
+                  ]
+            },
+            {
+                  "name": "Schøyens gt 10",
+                  "text": "Schøyens gt 10 in Trondheim is a small neighborhood playground, ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        10.400626,
+                        63.416098
+                  ]
+            },
+            {
+                  "name": "Work-Work",
+                  "text": "Work-Work in Trondheim is a fun amusement arcade offering activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.393275,
+                        63.432854
+                  ]
+            },
+            {
+                  "name": "Leo's lekeland",
+                  "text": "Leo's lekeland in Trondheim is a large indoor play paradise, perfect for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        10.432171,
+                        63.443009
+                  ]
+            },
+            {
+                  "name": "Lekerom/stellerom",
+                  "text": "This play and changing room in Trondheim provides families with a practical and child-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        10.396487,
+                        63.433436
+                  ]
+            },
+            {
+                  "name": "Marinen lekeplass",
+                  "text": "Marinen lekeplass in Trondheim is a beautifully located playground offering plenty of space for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        10.398502,
+                        63.425597
+                  ]
+            },
+            {
+                  "name": "Buran lekeplass",
+                  "text": "Buran lekeplass in Trondheim is a diverse playground, ideal for an active family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        10.42328,
+                        63.435652
                   ]
             }
       ]
@@ -6324,6 +7836,141 @@ export const norwayRegions: POI[] = [
                         5.74723,
                         58.973992
                   ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Der Litle Stokkavatn ist ein See in Stavanger, ideal für entspannte Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Der Store Stokkavatn ist ein beliebter See in Stavanger, der zu vielfältigen Aktivitäten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Der Hålandsvannet ist ein malerischer See in Stavanger, der eine ruhige Atmosphäre für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Der Breiavatnet ist ein markanter See im Zentrum von Stavanger, ideal für eine kurze Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage verfügt über einen Spielplatz in Stavanger, ideal für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene bietet einen Spielplatz in Stavanger, auf dem Kinder sicher im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken ist ein Spielplatz in Stavanger, der eine gute Gelegenheit für Bewegung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen ist ein Spielplatz in Stavanger, der Familien und Kindern Spaß im Freien ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen ist ein Spielplatz in Stavanger, der Kindern kreative Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli ist ein Spielplatz in Stavanger, der zu aktiver Freizeitgestaltung im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass bietet einen Spielplatz in Stavanger, auf dem Kinder ihre Freizeit genießen können.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse verfügt über einen Spielplatz in Stavanger, der Platz für Spiel und Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox ist ein Spielplatz in Stavanger, der speziell für das Spielen im Freien gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass ist ein Spielplatz in Stavanger, der Kindern eine unterhaltsame Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground ist ein Spielplatz in Stavanger, ideal für die aktive Erholung von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
             }
       ],
       "hu": [
@@ -6757,6 +8404,141 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         5.74723,
                         58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "A Litle Stokkavatn egy tó Stavangerben, amely ideális pihentető sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "A Store Stokkavatn egy népszerű tó Stavangerben, amely változatos szabadtéri tevékenységekre hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "A Hålandsvannet egy festői tó Stavangerben, amely nyugodt légkört kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "A Breiavatnet egy jellegzetes tó Stavanger központjában, amely ideális egy rövid természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Az Auglend barnehage egy játszótérrel rendelkezik Stavangerben, amely ideális a gyermekek szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "A Rosenliblokkene egy játszóteret kínál Stavangerben, ahol a gyerekek biztonságosan játszhatnak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "A Plutokroken egy játszótér Stavangerben, amely kiváló lehetőséget nyújt a szabadtéri mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "A Fiskeplassen egy játszótér Stavangerben, amely szabadtéri szórakozást biztosít családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "A Den elektriske lekeplassen egy játszótér Stavangerben, amely kreatív játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "A Rosenli egy játszótér Stavangerben, amely aktív szabadtéri szabadidős tevékenységekre hív.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "A Jonas Dahls plass egy játszóteret kínál Stavangerben, ahol a gyerekek élvezhetik szabadidejüket.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "A Victoria Terrasse egy játszótérrel rendelkezik Stavangerben, amely helyet biztosít a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Az Utsikten sandbox egy játszótér Stavangerben, amelyet kifejezetten szabadtéri játékra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "A Kaprifolstubben lekeplass egy játszótér Stavangerben, amely szórakoztató környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "A Tjuvholmen playground egy játszótér Stavangerben, amely ideális a gyerekek aktív szabadtéri kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
                   ]
             }
       ],
@@ -7192,6 +8974,141 @@ export const norwayRegions: POI[] = [
                         5.74723,
                         58.973992
                   ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn este un lac din Stavanger, ideal pentru plimbări relaxante și bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn este un lac popular din Stavanger, care invită la diverse activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet este un lac pitoresc din Stavanger, oferind o atmosferă liniștită pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Breiavatnet este un lac distinctiv în centrul orașului Stavanger, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage dispune de un teren de joacă în Stavanger, ideal pentru activitățile de timp liber ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene oferă un teren de joacă în Stavanger, unde copiii se pot juca în siguranță în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken este un teren de joacă din Stavanger care oferă o oportunitate bună pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen este un teren de joacă din Stavanger care permite familiilor și copiilor să se distreze în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen este un teren de joacă din Stavanger care oferă copiilor posibilități creative de joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli este un teren de joacă din Stavanger care invită la activități de timp liber în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass oferă un teren de joacă în Stavanger, unde copiii se pot bucura de timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse dispune de un teren de joacă în Stavanger, oferind spațiu pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox este un teren de joacă din Stavanger, conceput special pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass este un teren de joacă din Stavanger care oferă copiilor un mediu distractiv.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground este un teren de joacă din Stavanger, ideal pentru recreerea activă a copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
             }
       ],
       "en": [
@@ -7625,6 +9542,141 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         5.74723,
                         58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn is a lake in Stavanger, ideal for relaxed walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn is a popular lake in Stavanger, inviting for various outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet is a scenic lake in Stavanger, offering a quiet atmosphere for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Breiavatnet is a distinctive lake in the center of Stavanger, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage features a playground in Stavanger, ideal for children's leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene offers a playground in Stavanger where children can play safely outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken is a playground in Stavanger offering a good opportunity for outdoor exercise.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen is a playground in Stavanger allowing families and children to have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen is a playground in Stavanger offering creative play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli is a playground in Stavanger inviting for active outdoor leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass offers a playground in Stavanger where children can enjoy their leisure time.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse features a playground in Stavanger, providing space for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox is a playground in Stavanger, specifically designed for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass is a playground in Stavanger offering a fun environment for children.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground is a playground in Stavanger, ideal for children's active outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
                   ]
             }
       ]
@@ -9294,7 +11346,196 @@ export const norwayCities: POI[] = [
   }
   ,
   {
-    id: "city-alesund",
+    id: "city-alesund", "sights": {
+      "de": [
+            {
+                  "name": "Svartevatnet",
+                  "text": "Der Svartevatnet in Alesund ist ein ruhiger See, der sich perfekt für erholsame Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.259017,
+                        62.42156
+                  ]
+            },
+            {
+                  "name": "Vassverket",
+                  "text": "Vassverket in Alesund ist ein idyllisches Gewässer, ideal für eine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        6.280391,
+                        62.497837
+                  ]
+            },
+            {
+                  "name": "Sætrevatnet",
+                  "text": "Der Sætrevatnet in Alesund bietet eine friedliche Umgebung für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.218776,
+                        62.430654
+                  ]
+            },
+            {
+                  "name": "Molværsvatnet",
+                  "text": "Der Molværsvatnet in Alesund ist ein schöner See, perfekt für einen entspannten Tag in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.163783,
+                        62.421882
+                  ]
+            },
+            {
+                  "name": "Osane",
+                  "text": "Osane in Alesund ist ein toller Spielplatz, der Familien eine unterhaltsame und aktive Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.115264,
+                        62.462248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svartevatnet",
+                  "text": "Az Alesund területén található Svartevatnet egy csendes tó, amely tökéletes a pihentető természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.259017,
+                        62.42156
+                  ]
+            },
+            {
+                  "name": "Vassverket",
+                  "text": "Az Alesund területén fekvő Vassverket egy idilli vízfelület, amely ideális a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.280391,
+                        62.497837
+                  ]
+            },
+            {
+                  "name": "Sætrevatnet",
+                  "text": "Az Alesund területén található Sætrevatnet békés környezetet biztosít a természet megfigyeléséhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.218776,
+                        62.430654
+                  ]
+            },
+            {
+                  "name": "Molværsvatnet",
+                  "text": "Az Alesund területén fekvő Molværsvatnet egy szép tó, amely tökéletes egy pihentető naphoz a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        6.163783,
+                        62.421882
+                  ]
+            },
+            {
+                  "name": "Osane",
+                  "text": "Az Alesund területén található Osane egy nagyszerű játszótér, amely szórakoztató és aktív környezetet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.115264,
+                        62.462248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svartevatnet",
+                  "text": "Svartevatnet din Alesund este un lac liniștit, perfect pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.259017,
+                        62.42156
+                  ]
+            },
+            {
+                  "name": "Vassverket",
+                  "text": "Vassverket din Alesund este o apă idilică, ideală pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        6.280391,
+                        62.497837
+                  ]
+            },
+            {
+                  "name": "Sætrevatnet",
+                  "text": "Sætrevatnet din Alesund oferă un cadru pașnic pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.218776,
+                        62.430654
+                  ]
+            },
+            {
+                  "name": "Molværsvatnet",
+                  "text": "Molværsvatnet din Alesund este un lac frumos, perfect pentru o zi relaxantă în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        6.163783,
+                        62.421882
+                  ]
+            },
+            {
+                  "name": "Osane",
+                  "text": "Osane din Alesund este un loc de joacă grozav, oferind familiilor un mediu distractiv și activ.",
+                  "category": "family",
+                  "coords": [
+                        6.115264,
+                        62.462248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svartevatnet",
+                  "text": "Svartevatnet in Alesund is a quiet lake, perfect for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.259017,
+                        62.42156
+                  ]
+            },
+            {
+                  "name": "Vassverket",
+                  "text": "Vassverket in Alesund is an idyllic body of water, ideal for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        6.280391,
+                        62.497837
+                  ]
+            },
+            {
+                  "name": "Sætrevatnet",
+                  "text": "Sætrevatnet in Alesund offers a peaceful environment for nature watching and walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.218776,
+                        62.430654
+                  ]
+            },
+            {
+                  "name": "Molværsvatnet",
+                  "text": "Molværsvatnet in Alesund is a beautiful lake, perfect for a relaxing day in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.163783,
+                        62.421882
+                  ]
+            },
+            {
+                  "name": "Osane",
+                  "text": "Osane in Alesund is a great playground offering families a fun and active environment.",
+                  "category": "family",
+                  "coords": [
+                        6.115264,
+                        62.462248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [6.1549, 62.4722],
@@ -9338,7 +11579,556 @@ export const norwayCities: POI[] = [
     image: "/geo-images/norway/alesund.webp",
   },
   {
-    id: "city-bodo",
+    id: "city-bodo", "sights": {
+      "de": [
+            {
+                  "name": "Nedre Vollvatnet",
+                  "text": "Der Nedre Vollvatnet ist ein See in Bod, der eine ruhige Kulisse für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.446442,
+                        67.301002
+                  ]
+            },
+            {
+                  "name": "Soløyvatnet - Suolojjávvre",
+                  "text": "Der Soløyvatnet - Suolojjávvre ist ein See in Bod, ideal für Naturbeobachtungen und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        14.583445,
+                        67.311997
+                  ]
+            },
+            {
+                  "name": "Øvre Vollvatnet",
+                  "text": "Der Øvre Vollvatnet ist ein malerischer See in Bod, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.450504,
+                        67.303543
+                  ]
+            },
+            {
+                  "name": "Svartvatnet",
+                  "text": "Der Svartavatnet ist ein See in Bod, der eine friedliche Atmosphäre für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.458201,
+                        67.30519
+                  ]
+            },
+            {
+                  "name": "Vågøyvatnet - Vággejávvre",
+                  "text": "Der Vågøyvatnet - Vággejávvre ist ein See in Bod, ideal für ruhige Spaziergänge und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.491817,
+                        67.302228
+                  ]
+            },
+            {
+                  "name": "Sklie",
+                  "text": "Sklie ist ein Spielplatz in Bod, der Kindern unterhaltsame Spielmöglichkeiten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.397142,
+                        67.278534
+                  ]
+            },
+            {
+                  "name": "Bodø Actionhall",
+                  "text": "Die Bodø Actionhall ist eine Spielhalle in Bod, die Unterhaltung und Spiele für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.37881,
+                        67.283462
+                  ]
+            },
+            {
+                  "name": "Legeveien lekeplass",
+                  "text": "Ein schöner Spielplatz in Bod für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        14.40541,
+                        67.286192
+                  ]
+            },
+            {
+                  "name": "Leketårn",
+                  "text": "Ein Spielplatz in Bod, der zum Spielen und Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.418407,
+                        67.296498
+                  ]
+            },
+            {
+                  "name": "Skipperveien lekeplass",
+                  "text": "Ein familienfreundlicher Spielplatz in Bod für tägliche Abenteuer.",
+                  "category": "family",
+                  "coords": [
+                        14.443603,
+                        67.271737
+                  ]
+            },
+            {
+                  "name": "Jensvolltunet Lekeplass",
+                  "text": "Ein kleiner Spielplatz in Bod, ideal für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        14.469036,
+                        67.276953
+                  ]
+            },
+            {
+                  "name": "Grønnåsen Lekeplass",
+                  "text": "Dieser Spielplatz in Bod bietet sicheren Raum für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        14.471772,
+                        67.278095
+                  ]
+            },
+            {
+                  "name": "Øvre Bjørkåsen Lekeplass",
+                  "text": "Ein schön gelegener Spielplatz in Bod für Spielspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.45751,
+                        67.278143
+                  ]
+            },
+            {
+                  "name": "Alstadtunet lekeplass",
+                  "text": "Ein moderner Spielplatz in Bod, der zum Klettern und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.466052,
+                        67.274276
+                  ]
+            },
+            {
+                  "name": "Nedre Bjøkåsen Playground",
+                  "text": "Ein öffentlicher Spielplatz in Bod für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.451442,
+                        67.276581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nedre Vollvatnet",
+                  "text": "A Nedre Vollvatnet egy tó Bod területén, amely nyugodt környezetet biztosít a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.446442,
+                        67.301002
+                  ]
+            },
+            {
+                  "name": "Soløyvatnet - Suolojjávvre",
+                  "text": "A Soløyvatnet - Suolojjávvre egy tó Bod területén, amely ideális természetmegfigyelésre és szabadtéri pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        14.583445,
+                        67.311997
+                  ]
+            },
+            {
+                  "name": "Øvre Vollvatnet",
+                  "text": "Az Øvre Vollvatnet egy festői tó Bod területén, amely pihentető vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        14.450504,
+                        67.303543
+                  ]
+            },
+            {
+                  "name": "Svartvatnet",
+                  "text": "A Svartavatnet egy tó Bod területén, amely békés légkört biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        14.458201,
+                        67.30519
+                  ]
+            },
+            {
+                  "name": "Vågøyvatnet - Vággejávvre",
+                  "text": "A Vågøyvatnet - Vággejávvre egy tó Bod területén, amely ideális nyugodt sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.491817,
+                        67.302228
+                  ]
+            },
+            {
+                  "name": "Sklie",
+                  "text": "A Sklie egy játszótér Bod területén, amely szórakoztató szabadtéri játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.397142,
+                        67.278534
+                  ]
+            },
+            {
+                  "name": "Bodø Actionhall",
+                  "text": "A Bodø Actionhall egy játékterem Bod területén, amely szórakozást és játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.37881,
+                        67.283462
+                  ]
+            },
+            {
+                  "name": "Legeveien lekeplass",
+                  "text": "Egy szép játszótér Bod területén, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        14.40541,
+                        67.286192
+                  ]
+            },
+            {
+                  "name": "Leketårn",
+                  "text": "Egy játszótér Bod területén, amely játékra és kikapcsolódásra hív.",
+                  "category": "family",
+                  "coords": [
+                        14.418407,
+                        67.296498
+                  ]
+            },
+            {
+                  "name": "Skipperveien lekeplass",
+                  "text": "Egy családbarát játszótér Bod területén a mindennapi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.443603,
+                        67.271737
+                  ]
+            },
+            {
+                  "name": "Jensvolltunet Lekeplass",
+                  "text": "Egy kis játszótér Bod területén, ideális a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.469036,
+                        67.276953
+                  ]
+            },
+            {
+                  "name": "Grønnåsen Lekeplass",
+                  "text": "Ez a játszótér Bod területén biztonságos helyet kínál a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.471772,
+                        67.278095
+                  ]
+            },
+            {
+                  "name": "Øvre Bjørkåsen Lekeplass",
+                  "text": "Egy szép fekvésű játszótér Bod területén a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.45751,
+                        67.278143
+                  ]
+            },
+            {
+                  "name": "Alstadtunet lekeplass",
+                  "text": "Egy modern játszótér Bod területén, amely mászásra és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        14.466052,
+                        67.274276
+                  ]
+            },
+            {
+                  "name": "Nedre Bjøkåsen Playground",
+                  "text": "Egy nyilvános játszótér Bod területén családok és gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.451442,
+                        67.276581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nedre Vollvatnet",
+                  "text": "Nedre Vollvatnet este un lac din Bod, oferind un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.446442,
+                        67.301002
+                  ]
+            },
+            {
+                  "name": "Soløyvatnet - Suolojjávvre",
+                  "text": "Soløyvatnet - Suolojjávvre este un lac din Bod, ideal pentru observarea naturii și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.583445,
+                        67.311997
+                  ]
+            },
+            {
+                  "name": "Øvre Vollvatnet",
+                  "text": "Øvre Vollvatnet este un lac pitoresc din Bod, care invită la momente relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.450504,
+                        67.303543
+                  ]
+            },
+            {
+                  "name": "Svartvatnet",
+                  "text": "Svartavatnet este un lac din Bod, oferind o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.458201,
+                        67.30519
+                  ]
+            },
+            {
+                  "name": "Vågøyvatnet - Vággejávvre",
+                  "text": "Vågøyvatnet - Vággejávvre este un lac din Bod, ideal pentru plimbări liniștite și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        14.491817,
+                        67.302228
+                  ]
+            },
+            {
+                  "name": "Sklie",
+                  "text": "Sklie este un teren de joacă din Bod care oferă copiilor posibilități distractive de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.397142,
+                        67.278534
+                  ]
+            },
+            {
+                  "name": "Bodø Actionhall",
+                  "text": "Bodø Actionhall este o sală de jocuri din Bod care oferă divertisment și jocuri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.37881,
+                        67.283462
+                  ]
+            },
+            {
+                  "name": "Legeveien lekeplass",
+                  "text": "Un loc de joacă frumos în Bod pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.40541,
+                        67.286192
+                  ]
+            },
+            {
+                  "name": "Leketårn",
+                  "text": "Un loc de joacă în Bod care invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.418407,
+                        67.296498
+                  ]
+            },
+            {
+                  "name": "Skipperveien lekeplass",
+                  "text": "Un loc de joacă prietenos pentru familii în Bod pentru aventuri zilnice.",
+                  "category": "family",
+                  "coords": [
+                        14.443603,
+                        67.271737
+                  ]
+            },
+            {
+                  "name": "Jensvolltunet Lekeplass",
+                  "text": "Un mic loc de joacă în Bod, ideal pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        14.469036,
+                        67.276953
+                  ]
+            },
+            {
+                  "name": "Grønnåsen Lekeplass",
+                  "text": "Acest loc de joacă din Bod oferă un spațiu sigur pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.471772,
+                        67.278095
+                  ]
+            },
+            {
+                  "name": "Øvre Bjørkåsen Lekeplass",
+                  "text": "Un loc de joacă frumos situat în Bod pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.45751,
+                        67.278143
+                  ]
+            },
+            {
+                  "name": "Alstadtunet lekeplass",
+                  "text": "Un loc de joacă modern în Bod, care invită la cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.466052,
+                        67.274276
+                  ]
+            },
+            {
+                  "name": "Nedre Bjøkåsen Playground",
+                  "text": "Un loc de joacă public în Bod pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        14.451442,
+                        67.276581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nedre Vollvatnet",
+                  "text": "Nedre Vollvatnet is a lake in Bod, offering a peaceful setting for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.446442,
+                        67.301002
+                  ]
+            },
+            {
+                  "name": "Soløyvatnet - Suolojjávvre",
+                  "text": "Soløyvatnet - Suolojjávvre is a lake in Bod, ideal for nature observation and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        14.583445,
+                        67.311997
+                  ]
+            },
+            {
+                  "name": "Øvre Vollvatnet",
+                  "text": "Øvre Vollvatnet is a scenic lake in Bod, inviting for relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.450504,
+                        67.303543
+                  ]
+            },
+            {
+                  "name": "Svartvatnet",
+                  "text": "Svartavatnet is a lake in Bod, offering a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.458201,
+                        67.30519
+                  ]
+            },
+            {
+                  "name": "Vågøyvatnet - Vággejávvre",
+                  "text": "Vågøyvatnet - Vággejávvre is a lake in Bod, ideal for quiet walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.491817,
+                        67.302228
+                  ]
+            },
+            {
+                  "name": "Sklie",
+                  "text": "Sklie is a playground in Bod offering fun outdoor play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        14.397142,
+                        67.278534
+                  ]
+            },
+            {
+                  "name": "Bodø Actionhall",
+                  "text": "Bodø Actionhall is an amusement arcade in Bod offering entertainment and games for families.",
+                  "category": "family",
+                  "coords": [
+                        14.37881,
+                        67.283462
+                  ]
+            },
+            {
+                  "name": "Legeveien lekeplass",
+                  "text": "A nice playground in Bod for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.40541,
+                        67.286192
+                  ]
+            },
+            {
+                  "name": "Leketårn",
+                  "text": "A playground in Bod that invites children to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        14.418407,
+                        67.296498
+                  ]
+            },
+            {
+                  "name": "Skipperveien lekeplass",
+                  "text": "A family-friendly playground in Bod for everyday adventures.",
+                  "category": "family",
+                  "coords": [
+                        14.443603,
+                        67.271737
+                  ]
+            },
+            {
+                  "name": "Jensvolltunet Lekeplass",
+                  "text": "A small playground in Bod, ideal for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        14.469036,
+                        67.276953
+                  ]
+            },
+            {
+                  "name": "Grønnåsen Lekeplass",
+                  "text": "This playground in Bod offers a safe space for exercise in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        14.471772,
+                        67.278095
+                  ]
+            },
+            {
+                  "name": "Øvre Bjørkåsen Lekeplass",
+                  "text": "A beautifully located playground in Bod for outdoor play fun.",
+                  "category": "family",
+                  "coords": [
+                        14.45751,
+                        67.278143
+                  ]
+            },
+            {
+                  "name": "Alstadtunet lekeplass",
+                  "text": "A modern playground in Bod that invites children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        14.466052,
+                        67.274276
+                  ]
+            },
+            {
+                  "name": "Nedre Bjøkåsen Playground",
+                  "text": "A public playground in Bod for families and children.",
+                  "category": "family",
+                  "coords": [
+                        14.451442,
+                        67.276581
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [14.4050, 67.2804],
@@ -9671,6 +12461,60 @@ export const norwayCities: POI[] = [
                         8.012024,
                         58.152571
                   ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Der Gillsvannet in Kristiansand ist ein See, der für seine ruhige Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Der Bråvann ist ein See in Kristiansand, ideal für einen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Der Rossevannet in Kristiansand bietet eine malerische Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Der Bispelona ist ein ruhig gelegener See in der Region Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Der Svingervannet ist ein See in Kristiansand, der zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Der Skyland Trampolinepark in Kristiansand bietet aktive Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
             }
       ],
       "hu": [
@@ -9960,6 +12804,60 @@ export const norwayCities: POI[] = [
                   "coords": [
                         8.012024,
                         58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "A Gillsvannet Kristiansandban egy tó, amely nyugodt fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "A Bråvann egy tó Kristiansandban, ideális egy sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "A Rossevannet Kristiansandban festői környezetet nyújt a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "A Bispelona egy nyugodt fekvésű tó Kristiansand régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "A Svingervannet egy tó Kristiansandban, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "A Skyland Trampolinepark Kristiansandban aktív kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
                   ]
             }
       ],
@@ -10251,6 +13149,60 @@ export const norwayCities: POI[] = [
                         8.012024,
                         58.152571
                   ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Gillsvannet din Kristiansand este un lac cunoscut pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Bråvann este un lac din Kristiansand, ideal pentru o plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Rossevannet din Kristiansand oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Bispelona este un lac liniștit în regiunea Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Svingervannet este un lac din Kristiansand care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Skyland Trampolinepark din Kristiansand oferă divertisment activ pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
             }
       ],
       "en": [
@@ -10540,6 +13492,60 @@ export const norwayCities: POI[] = [
                   "coords": [
                         8.012024,
                         58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Gillsvannet in Kristiansand is a lake known for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Bråvann is a lake in Kristiansand, ideal for a walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Rossevannet in Kristiansand offers a scenic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Bispelona is a quiet lake in the Kristiansand region.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Svingervannet is a lake in Kristiansand inviting relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Skyland Trampolinepark in Kristiansand offers active entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
                   ]
             }
       ]
@@ -12144,6 +15150,96 @@ export const norwayCities: POI[] = [
                         10.219395,
                         59.739139
                   ]
+            },
+            {
+                  "name": "Karindammen",
+                  "text": "Ein ruhiger See in Drammen, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.078003,
+                        59.76943
+                  ]
+            },
+            {
+                  "name": "Steglevannet",
+                  "text": "Ein malerischer See in Drammen, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.087832,
+                        59.715238
+                  ]
+            },
+            {
+                  "name": "Klopptjern",
+                  "text": "Ein kleiner See in Drammen, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.211187,
+                        59.759075
+                  ]
+            },
+            {
+                  "name": "Blektjernveien lekeplass",
+                  "text": "Ein familienfreundlicher Spielplatz in Drammen für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        10.184588,
+                        59.735191
+                  ]
+            },
+            {
+                  "name": "Henrik Walters pl. lekeplass",
+                  "text": "Ein zentral gelegener Spielplatz in Drammen für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        10.154717,
+                        59.753637
+                  ]
+            },
+            {
+                  "name": "Nordal Bruns gt. lekeplass",
+                  "text": "Ein sicherer Spielplatz in Drammen, auf dem Kinder gerne Zeit verbringen.",
+                  "category": "family",
+                  "coords": [
+                        10.181958,
+                        59.749801
+                  ]
+            },
+            {
+                  "name": "Ulvekula",
+                  "text": "Ein Spielplatz in Drammen, der Kindern Raum für fantasievolles Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.237831,
+                        59.725598
+                  ]
+            },
+            {
+                  "name": "Muusøya lekeplass",
+                  "text": "Ein attraktiver Spielplatz in Drammen für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        10.159659,
+                        59.749955
+                  ]
+            },
+            {
+                  "name": "Maria Fegths gate lekeplass",
+                  "text": "Ein gemütlicher Spielplatz in Drammen für entspannte Stunden im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.23092,
+                        59.725
+                  ]
+            },
+            {
+                  "name": "4. Strøm terrasse lekeplass",
+                  "text": "Ein kleiner Spielplatz in Drammen, perfekt für eine kurze Auszeit mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        10.187136,
+                        59.735271
+                  ]
             }
       ],
       "hu": [
@@ -12532,6 +15628,96 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.219395,
                         59.739139
+                  ]
+            },
+            {
+                  "name": "Karindammen",
+                  "text": "Egy nyugodt tó Drammen területén, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.078003,
+                        59.76943
+                  ]
+            },
+            {
+                  "name": "Steglevannet",
+                  "text": "Egy festői tó Drammen területén, amely pihentető légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        10.087832,
+                        59.715238
+                  ]
+            },
+            {
+                  "name": "Klopptjern",
+                  "text": "Egy kis tó Drammen területén, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        10.211187,
+                        59.759075
+                  ]
+            },
+            {
+                  "name": "Blektjernveien lekeplass",
+                  "text": "Egy családbarát játszótér Drammen területén a játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.184588,
+                        59.735191
+                  ]
+            },
+            {
+                  "name": "Henrik Walters pl. lekeplass",
+                  "text": "Egy központi fekvésű játszótér Drammen területén egy rövid játékszünethez.",
+                  "category": "family",
+                  "coords": [
+                        10.154717,
+                        59.753637
+                  ]
+            },
+            {
+                  "name": "Nordal Bruns gt. lekeplass",
+                  "text": "Egy biztonságos játszótér Drammen területén, ahol a gyerekek szívesen töltenek időt.",
+                  "category": "family",
+                  "coords": [
+                        10.181958,
+                        59.749801
+                  ]
+            },
+            {
+                  "name": "Ulvekula",
+                  "text": "Egy játszótér Drammen területén, amely teret ad a gyerekeknek a fantáziadús játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.237831,
+                        59.725598
+                  ]
+            },
+            {
+                  "name": "Muusøya lekeplass",
+                  "text": "Egy vonzó játszótér Drammen területén minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.159659,
+                        59.749955
+                  ]
+            },
+            {
+                  "name": "Maria Fegths gate lekeplass",
+                  "text": "Egy hangulatos játszótér Drammen területén a szabadtéri pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.23092,
+                        59.725
+                  ]
+            },
+            {
+                  "name": "4. Strøm terrasse lekeplass",
+                  "text": "Egy kis játszótér Drammen területén, tökéletes egy rövid kikapcsolódáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        10.187136,
+                        59.735271
                   ]
             }
       ],
@@ -12922,6 +16108,96 @@ export const norwayCities: POI[] = [
                         10.219395,
                         59.739139
                   ]
+            },
+            {
+                  "name": "Karindammen",
+                  "text": "Un lac liniștit în Drammen, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.078003,
+                        59.76943
+                  ]
+            },
+            {
+                  "name": "Steglevannet",
+                  "text": "Un lac pitoresc în Drammen, care oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        10.087832,
+                        59.715238
+                  ]
+            },
+            {
+                  "name": "Klopptjern",
+                  "text": "Un lac mic în Drammen, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        10.211187,
+                        59.759075
+                  ]
+            },
+            {
+                  "name": "Blektjernveien lekeplass",
+                  "text": "Un loc de joacă prietenos pentru familii în Drammen pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        10.184588,
+                        59.735191
+                  ]
+            },
+            {
+                  "name": "Henrik Walters pl. lekeplass",
+                  "text": "Un loc de joacă situat central în Drammen pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.154717,
+                        59.753637
+                  ]
+            },
+            {
+                  "name": "Nordal Bruns gt. lekeplass",
+                  "text": "Un loc de joacă sigur în Drammen, unde copiii își petrec cu plăcere timpul.",
+                  "category": "family",
+                  "coords": [
+                        10.181958,
+                        59.749801
+                  ]
+            },
+            {
+                  "name": "Ulvekula",
+                  "text": "Un loc de joacă în Drammen care oferă copiilor spațiu pentru joacă imaginativă.",
+                  "category": "family",
+                  "coords": [
+                        10.237831,
+                        59.725598
+                  ]
+            },
+            {
+                  "name": "Muusøya lekeplass",
+                  "text": "Un loc de joacă atractiv în Drammen pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.159659,
+                        59.749955
+                  ]
+            },
+            {
+                  "name": "Maria Fegths gate lekeplass",
+                  "text": "Un loc de joacă primitor în Drammen pentru ore relaxante în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.23092,
+                        59.725
+                  ]
+            },
+            {
+                  "name": "4. Strøm terrasse lekeplass",
+                  "text": "Un mic loc de joacă în Drammen, perfect pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        10.187136,
+                        59.735271
+                  ]
             }
       ],
       "en": [
@@ -13310,6 +16586,96 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.219395,
                         59.739139
+                  ]
+            },
+            {
+                  "name": "Karindammen",
+                  "text": "A calm lake in Drammen, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        10.078003,
+                        59.76943
+                  ]
+            },
+            {
+                  "name": "Steglevannet",
+                  "text": "A picturesque lake in Drammen offering a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        10.087832,
+                        59.715238
+                  ]
+            },
+            {
+                  "name": "Klopptjern",
+                  "text": "A small lake in Drammen surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        10.211187,
+                        59.759075
+                  ]
+            },
+            {
+                  "name": "Blektjernveien lekeplass",
+                  "text": "A family-friendly playground in Drammen for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        10.184588,
+                        59.735191
+                  ]
+            },
+            {
+                  "name": "Henrik Walters pl. lekeplass",
+                  "text": "A centrally located playground in Drammen for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        10.154717,
+                        59.753637
+                  ]
+            },
+            {
+                  "name": "Nordal Bruns gt. lekeplass",
+                  "text": "A safe playground in Drammen where children enjoy spending time.",
+                  "category": "family",
+                  "coords": [
+                        10.181958,
+                        59.749801
+                  ]
+            },
+            {
+                  "name": "Ulvekula",
+                  "text": "A playground in Drammen that offers children space for imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        10.237831,
+                        59.725598
+                  ]
+            },
+            {
+                  "name": "Muusøya lekeplass",
+                  "text": "An attractive playground in Drammen for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.159659,
+                        59.749955
+                  ]
+            },
+            {
+                  "name": "Maria Fegths gate lekeplass",
+                  "text": "A cozy playground in Drammen for relaxed hours outdoors.",
+                  "category": "family",
+                  "coords": [
+                        10.23092,
+                        59.725
+                  ]
+            },
+            {
+                  "name": "4. Strøm terrasse lekeplass",
+                  "text": "A small playground in Drammen, perfect for a short break with children.",
+                  "category": "family",
+                  "coords": [
+                        10.187136,
+                        59.735271
                   ]
             }
       ]
@@ -14230,6 +17596,42 @@ export const norwayCities: POI[] = [
                         10.360554,
                         59.26058
                   ]
+            },
+            {
+                  "name": "Akersvannet",
+                  "text": "Der Akersvannet in Tønsberg ist ein malerischer See, ideal für Naturfreunde und ruhige Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        10.330087,
+                        59.24719
+                  ]
+            },
+            {
+                  "name": "Kaldnes Lekeplass",
+                  "text": "Kaldnes Lekeplass in Tønsberg ist ein moderner Spielplatz, der Kindern viel Spaß und Bewegung ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        10.404517,
+                        59.264385
+                  ]
+            },
+            {
+                  "name": "Solvangkirkens barnehage",
+                  "text": "Dieser Spielbereich in Tønsberg bietet eine sichere und freundliche Umgebung für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.418819,
+                        59.274689
+                  ]
+            },
+            {
+                  "name": "Sørbyen lekeplass",
+                  "text": "Sørbyen lekeplass in Tønsberg ist ein beliebter Treffpunkt für Familien mit abwechslungsreichen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        10.41203,
+                        59.264819
+                  ]
             }
       ],
       "hu": [
@@ -14474,6 +17876,42 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.360554,
                         59.26058
+                  ]
+            },
+            {
+                  "name": "Akersvannet",
+                  "text": "A Tønsberg területén fekvő Akersvannet egy festői tó, amely ideális a természet kedvelőinek és a csendes sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.330087,
+                        59.24719
+                  ]
+            },
+            {
+                  "name": "Kaldnes Lekeplass",
+                  "text": "A Tønsberg területén található Kaldnes Lekeplass egy modern játszótér, amely sok szórakozást és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.404517,
+                        59.264385
+                  ]
+            },
+            {
+                  "name": "Solvangkirkens barnehage",
+                  "text": "Ez a Tønsberg területén található játszórész biztonságos és barátságos környezetet kínál a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.418819,
+                        59.274689
+                  ]
+            },
+            {
+                  "name": "Sørbyen lekeplass",
+                  "text": "A Tønsberg területén fekvő Sørbyen lekeplass népszerű találkozóhely a családok számára, változatos játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        10.41203,
+                        59.264819
                   ]
             }
       ],
@@ -14720,6 +18158,42 @@ export const norwayCities: POI[] = [
                         10.360554,
                         59.26058
                   ]
+            },
+            {
+                  "name": "Akersvannet",
+                  "text": "Akersvannet din Tønsberg este un lac pitoresc, ideal pentru iubitorii de natură și plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        10.330087,
+                        59.24719
+                  ]
+            },
+            {
+                  "name": "Kaldnes Lekeplass",
+                  "text": "Kaldnes Lekeplass din Tønsberg este un loc de joacă modern, care permite copiilor multă distracție și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        10.404517,
+                        59.264385
+                  ]
+            },
+            {
+                  "name": "Solvangkirkens barnehage",
+                  "text": "Această zonă de joacă din Tønsberg oferă un mediu sigur și prietenos pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        10.418819,
+                        59.274689
+                  ]
+            },
+            {
+                  "name": "Sørbyen lekeplass",
+                  "text": "Sørbyen lekeplass din Tønsberg este un loc de întâlnire popular pentru familii, cu echipamente de joacă variate.",
+                  "category": "family",
+                  "coords": [
+                        10.41203,
+                        59.264819
+                  ]
             }
       ],
       "en": [
@@ -14964,6 +18438,42 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.360554,
                         59.26058
+                  ]
+            },
+            {
+                  "name": "Akersvannet",
+                  "text": "Akersvannet in Tønsberg is a scenic lake, ideal for nature lovers and quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        10.330087,
+                        59.24719
+                  ]
+            },
+            {
+                  "name": "Kaldnes Lekeplass",
+                  "text": "Kaldnes Lekeplass in Tønsberg is a modern playground offering children plenty of fun and activity.",
+                  "category": "family",
+                  "coords": [
+                        10.404517,
+                        59.264385
+                  ]
+            },
+            {
+                  "name": "Solvangkirkens barnehage",
+                  "text": "This play area in Tønsberg offers a safe and friendly environment for young children.",
+                  "category": "family",
+                  "coords": [
+                        10.418819,
+                        59.274689
+                  ]
+            },
+            {
+                  "name": "Sørbyen lekeplass",
+                  "text": "Sørbyen lekeplass in Tønsberg is a popular meeting spot for families with diverse play equipment.",
+                  "category": "family",
+                  "coords": [
+                        10.41203,
+                        59.264819
                   ]
             }
       ]
@@ -15884,6 +19394,69 @@ export const norwayCities: POI[] = [
                         17.480943,
                         68.460372
                   ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Der Isvatnet ist ein See in Narvik, der von einer beeindruckenden Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Der Forsnesvatnet in Narvik bietet eine friedliche Atmosphäre inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Der Førstevatnet ist ein See in Narvik, ideal für eine erholsame Pause.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Der Pumpvatnet in Narvik ist ein Gewässer in einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Der Storvatnet - Stuorajávri ist ein bedeutender See in der Nähe von Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Der Silvatnet in Narvik bietet ruhige Plätze am Wasser für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Der Nervatnet - Vuollegeašjávri ist ein See in Narvik, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
             }
       ],
       "hu": [
@@ -16020,6 +19593,69 @@ export const norwayCities: POI[] = [
                   "coords": [
                         17.480943,
                         68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Az Isvatnet egy tó Narvikban, amelyet lenyűgöző táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "A Forsnesvatnet Narvikban nyugodt légkört kínál a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "A Førstevatnet egy tó Narvikban, ideális egy pihentető szünethez.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "A Pumpvatnet Narvikban egy festői környezetben található vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "A Storvatnet - Stuorajávri egy jelentős tó Narvik közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "A Silvatnet Narvikban nyugodt vízparti helyeket kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "A Nervatnet - Vuollegeašjávri egy tó Narvikban, ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
                   ]
             }
       ],
@@ -16158,6 +19794,69 @@ export const norwayCities: POI[] = [
                         17.480943,
                         68.460372
                   ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Isvatnet este un lac din Narvik, înconjurat de un peisaj impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Forsnesvatnet din Narvik oferă o atmosferă pașnică în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Førstevatnet este un lac din Narvik, ideal pentru o pauză relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Pumpvatnet din Narvik este un corp de apă într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Storvatnet - Stuorajávri este un lac important în apropiere de Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Silvatnet din Narvik oferă locuri liniștite pe malul apei pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Nervatnet - Vuollegeašjávri este un lac din Narvik, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
             }
       ],
       "en": [
@@ -16294,6 +19993,69 @@ export const norwayCities: POI[] = [
                   "coords": [
                         17.480943,
                         68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Isvatnet is a lake in Narvik, surrounded by impressive scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Forsnesvatnet in Narvik offers a peaceful atmosphere in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Førstevatnet is a lake in Narvik, ideal for a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Pumpvatnet in Narvik is a body of water in a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Storvatnet - Stuorajávri is a significant lake near Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Silvatnet in Narvik offers quiet spots by the water for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Nervatnet - Vuollegeašjávri is a lake in Narvik, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
                   ]
             }
       ]

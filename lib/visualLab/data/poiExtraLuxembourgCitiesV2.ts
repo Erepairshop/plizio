@@ -49,7 +49,88 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
     },
     image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp",
 },  {
-    id: "luxembourg-differdange-cities-v2",
+    id: "luxembourg-differdange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regenüberlaufbecken",
+                  "text": "Ein funktionales Gewässer in Differdange mit einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        5.947569,
+                        49.508543
+                  ]
+            },
+            {
+                  "name": "Aire de Jeu Fond-de-Gras",
+                  "text": "Ein schöner Spielplatz in Differdange, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.862775,
+                        49.534047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bassin d'Orage",
+                  "text": "Funkcionális vízfelület Differdange területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        5.947569,
+                        49.508543
+                  ]
+            },
+            {
+                  "name": "Aire de Jeu Fond-de-Gras",
+                  "text": "Szép játszótér Differdange területén, amely tágas teret biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.862775,
+                        49.534047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bassin d'Orage",
+                  "text": "Un luciu de apă funcțional în Differdange, cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        5.947569,
+                        49.508543
+                  ]
+            },
+            {
+                  "name": "Aire de Jeu Fond-de-Gras",
+                  "text": "Un loc de joacă frumos în Differdange, oferind copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.862775,
+                        49.534047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bassin d'Orage",
+                  "text": "A functional body of water in Differdange with a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        5.947569,
+                        49.508543
+                  ]
+            },
+            {
+                  "name": "Aire de Jeu Fond-de-Gras",
+                  "text": "A lovely playground in Differdange, providing children with plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        5.862775,
+                        49.534047
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "city",
     name: { de: "Differdingen", hu: "Differdange", ro: "Differdange", en: "Differdange"},
@@ -13929,6 +14010,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.30006,
                         49.664892
                   ]
+            },
+            {
+                  "name": "Neie Weier",
+                  "text": "Der See Neie Weier in Lenningen ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.289167,
+                        49.59876
+                  ]
             }
       ],
       "hu": [
@@ -14011,6 +14101,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.30006,
                         49.664892
+                  ]
+            },
+            {
+                  "name": "Neie Weier",
+                  "text": "A(z) Neie Weier tó Lenningen területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.289167,
+                        49.59876
                   ]
             }
       ],
@@ -14095,6 +14194,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.30006,
                         49.664892
                   ]
+            },
+            {
+                  "name": "Neie Weier",
+                  "text": "Lacul Neie Weier din Lenningen este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.289167,
+                        49.59876
+                  ]
             }
       ],
       "en": [
@@ -14177,6 +14285,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.30006,
                         49.664892
+                  ]
+            },
+            {
+                  "name": "Neie Weier",
+                  "text": "Neie Weier is a lake in Lenningen, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.289167,
+                        49.59876
                   ]
             }
       ]
@@ -14361,6 +14478,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.510343,
                         49.786525
                   ]
+            },
+            {
+                  "name": "Echternacher See",
+                  "text": "Ein bekannter See in Rosport, ideal für Spaziergänge und Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        6.412779,
+                        49.799063
+                  ]
             }
       ],
       "hu": [
@@ -14497,6 +14623,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.510343,
                         49.786525
+                  ]
+            },
+            {
+                  "name": "Lac d'Echternach",
+                  "text": "Ismert tó Rosport városában, amely ideális sétákhoz és szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.412779,
+                        49.799063
                   ]
             }
       ],
@@ -14635,6 +14770,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.510343,
                         49.786525
                   ]
+            },
+            {
+                  "name": "Lac d'Echternach",
+                  "text": "Un lac cunoscut în Rosport, ideal pentru plimbări și activități de agrement în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        6.412779,
+                        49.799063
+                  ]
             }
       ],
       "en": [
@@ -14772,6 +14916,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.510343,
                         49.786525
                   ]
+            },
+            {
+                  "name": "Lac d'Echternach",
+                  "text": "A well-known lake in Rosport, ideal for walks and outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        6.412779,
+                        49.799063
+                  ]
             }
       ]
 },
@@ -14901,6 +15054,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.016938,
                         49.737027
                   ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Ein ruhiges Wasserbecken in Saeul, ideal für einen Moment der Stille.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
+            },
+            {
+                  "name": "Maison Relais Saeul",
+                  "text": "Ein lokaler Spielbereich in Saeul, der eine sichere Umgebung für Kinder schafft.",
+                  "category": "family",
+                  "coords": [
+                        5.984587,
+                        49.725908
+                  ]
             }
       ],
       "hu": [
@@ -14983,6 +15154,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.016938,
                         49.737027
+                  ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Csendes medence Saeul területén, ideális egy pillanatnyi nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
+            },
+            {
+                  "name": "Maison Relais Saeul",
+                  "text": "Helyi játszóterület Saeul területén, amely biztonságos környezetet teremt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.984587,
+                        49.725908
                   ]
             }
       ],
@@ -15067,6 +15256,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.016938,
                         49.737027
                   ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Un bazin de apă liniștit în Saeul, ideal pentru un moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
+            },
+            {
+                  "name": "Maison Relais Saeul",
+                  "text": "O zonă de joacă locală în Saeul, care creează un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.984587,
+                        49.725908
+                  ]
             }
       ],
       "en": [
@@ -15149,6 +15356,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.016938,
                         49.737027
+                  ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "A quiet water basin in Saeul, ideal for a moment of silence.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
+            },
+            {
+                  "name": "Maison Relais Saeul",
+                  "text": "A local play area in Saeul, creating a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        5.984587,
+                        49.725908
                   ]
             }
       ]
@@ -15288,6 +15513,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.016938,
                         49.737027
                   ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Der See Settling basin in Helperknapp ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
             }
       ],
       "hu": [
@@ -15379,6 +15613,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.016938,
                         49.737027
+                  ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "A(z) Settling basin tó Helperknapp területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
                   ]
             }
       ],
@@ -15472,6 +15715,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.016938,
                         49.737027
                   ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Lacul Settling basin din Helperknapp este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
             }
       ],
       "en": [
@@ -15564,6 +15816,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.016938,
                         49.737027
                   ]
+            },
+            {
+                  "name": "Settling basin",
+                  "text": "Settling basin is a lake in Helperknapp, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.053901,
+                        49.686982
+                  ]
             }
       ]
 },
@@ -15611,7 +15872,88 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-helperknapp-cities-v2.webp",
   },
   {
-    id: "luxembourg-nommern-cities-v2",
+    id: "luxembourg-nommern-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waldweiher",
+                  "text": "Ein ruhiger Waldsee in Nommern, ideal für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Ein lokaler Spielplatz in Nommern, der Kindern eine sichere Umgebung zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waldweiher",
+                  "text": "Csendes erdei tó Nommern területén, ideális a természet kedvelőinek és a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Helyi játszótér Nommern városában, amely biztonságos környezetet nyújt a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waldweiher",
+                  "text": "Un lac liniștit de pădure în Nommern, ideal pentru iubitorii de natură și drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Un loc de joacă local în Nommern, oferind copiilor un mediu sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waldweiher",
+                  "text": "A quiet forest lake in Nommern, ideal for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "A local playground in Nommern, providing children with a safe environment for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Nommern", hu: "Nommern", ro: "Nommern", en: "Nommern" },
@@ -16278,6 +16620,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         5.977242,
                         49.935228
                   ]
+            },
+            {
+                  "name": "Stausee",
+                  "text": "Ein großer See in Dahl, der eine beeindruckende Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Ein Spielplatz in Dahl, der ein idealer Ort für Familien mit kleinen Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
             }
       ],
       "hu": [
@@ -16405,6 +16765,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         5.977242,
                         49.935228
+                  ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "Nagy tó Dahl közelében, amely lenyűgöző környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Játszótér Dahl városában, amely ideális hely a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
                   ]
             }
       ],
@@ -16534,6 +16912,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         5.977242,
                         49.935228
                   ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "Un lac mare în Dahl, oferind un cadru impresionant pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Un loc de joacă în Dahl, care este un loc ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
             }
       ],
       "en": [
@@ -16661,6 +17057,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         5.977242,
                         49.935228
+                  ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "A large lake in Dahl, offering an impressive backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "A playground in Dahl, which is an ideal spot for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
                   ]
             }
       ]
@@ -16818,6 +17232,42 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.011961,
                         50.149869
                   ]
+            },
+            {
+                  "name": "Weiswampacher See",
+                  "text": "Ein beliebter See in Hachiville, ideal für Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        6.067723,
+                        50.138148
+                  ]
+            },
+            {
+                  "name": "Lac de Cherapont",
+                  "text": "Ein idyllischer See bei Hachiville, bekannt für seine ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        5.929638,
+                        50.176472
+                  ]
+            },
+            {
+                  "name": "Lake Deiffelt",
+                  "text": "Ein ruhiger See in Hachiville, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.007753,
+                        50.185886
+                  ]
+            },
+            {
+                  "name": "Eechelbiärrig Spillplaatz",
+                  "text": "Ein einladender Spielplatz in Hachiville für die jüngsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        5.991943,
+                        50.114028
+                  ]
             }
       ],
       "hu": [
@@ -16927,6 +17377,42 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.011961,
                         50.149869
+                  ]
+            },
+            {
+                  "name": "Lac de Weiswampach",
+                  "text": "Népszerű tó Hachiville közelében, ideális sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.067723,
+                        50.138148
+                  ]
+            },
+            {
+                  "name": "Lac de Cherapont",
+                  "text": "Idilli tó Hachiville közelében, amely nyugodt fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.929638,
+                        50.176472
+                  ]
+            },
+            {
+                  "name": "Lake Deiffelt",
+                  "text": "Csendes tó Hachiville területén, tökéletes egy nyugodt vízparti naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.007753,
+                        50.185886
+                  ]
+            },
+            {
+                  "name": "Eechelbiärrig Spillplaatz",
+                  "text": "Hívogató játszótér Hachiville területén a legfiatalabb látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        5.991943,
+                        50.114028
                   ]
             }
       ],
@@ -17038,6 +17524,42 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.011961,
                         50.149869
                   ]
+            },
+            {
+                  "name": "Lac de Weiswampach",
+                  "text": "Un lac popular în Hachiville, ideal pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        6.067723,
+                        50.138148
+                  ]
+            },
+            {
+                  "name": "Lac de Cherapont",
+                  "text": "Un lac idilic lângă Hachiville, cunoscut pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        5.929638,
+                        50.176472
+                  ]
+            },
+            {
+                  "name": "Lake Deiffelt",
+                  "text": "Un lac liniștit în Hachiville, perfect pentru o zi relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.007753,
+                        50.185886
+                  ]
+            },
+            {
+                  "name": "Eechelbiärrig Spillplaatz",
+                  "text": "Un loc de joacă primitor în Hachiville pentru cei mai tineri vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        5.991943,
+                        50.114028
+                  ]
             }
       ],
       "en": [
@@ -17148,6 +17670,42 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.011961,
                         50.149869
                   ]
+            },
+            {
+                  "name": "Lac de Weiswampach",
+                  "text": "A popular lake in Hachiville, ideal for walks and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        6.067723,
+                        50.138148
+                  ]
+            },
+            {
+                  "name": "Lac de Cherapont",
+                  "text": "An idyllic lake near Hachiville, known for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        5.929638,
+                        50.176472
+                  ]
+            },
+            {
+                  "name": "Lake Deiffelt",
+                  "text": "A peaceful lake in Hachiville, perfect for a relaxed day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.007753,
+                        50.185886
+                  ]
+            },
+            {
+                  "name": "Eechelbiärrig Spillplaatz",
+                  "text": "An inviting playground in Hachiville for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        5.991943,
+                        50.114028
+                  ]
             }
       ]
 },
@@ -17195,7 +17753,52 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-hachiville-cities-v2.webp",
   },
   {
-    id: "luxembourg-beaufort-cities-v2",
+    id: "luxembourg-beaufort-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ale Weier",
+                  "text": "Der See Ale Weier in Beaufort ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ale Weier",
+                  "text": "A(z) Ale Weier tó Beaufort területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ale Weier",
+                  "text": "Lacul Ale Weier din Beaufort este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ale Weier",
+                  "text": "Ale Weier is a lake in Beaufort, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Befort", hu: "Beaufort", ro: "Beaufort", en: "Beaufort" },
@@ -18528,6 +19131,33 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.218153,
                         49.809487
                   ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Ein friedlicher See in Medernach, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Ein schöner Waldsee in Medernach, umgeben von grüner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Ein kleiner Spielplatz in Medernach, der Kindern Platz zum Toben im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
             }
       ],
       "hu": [
@@ -18610,6 +19240,33 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.218153,
                         49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Békés tó Medernach területén, ideális egy természetjáró pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Szép erdei tó Medernach közelében, zöld természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Kicsi játszótér Medernach városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
                   ]
             }
       ],
@@ -18694,6 +19351,33 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.218153,
                         49.809487
                   ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Un lac liniștit în Medernach, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Un lac de pădure frumos în Medernach, înconjurat de natură verde.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Un mic loc de joacă în Medernach, oferind spațiu copiilor pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
             }
       ],
       "en": [
@@ -18776,6 +19460,33 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.218153,
                         49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "A peaceful lake in Medernach, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "A beautiful forest lake in Medernach, surrounded by green nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "A small playground in Medernach, providing space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
                   ]
             }
       ]

@@ -2050,6 +2050,78 @@ export const polandEconomicV2: POI[] = [
                         19.044186,
                         50.261139
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki ist ein See im Katowice Business Center, der eine grüne Oase für kurze Pausen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina ist ein See in der Nähe des Katowice Business Center, ideal für einen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "cybermagia",
+                  "text": "cybermagia ist eine moderne Spielhalle im Katowice Business Center mit vielfältigen digitalen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        19.003411,
+                        50.263382
+                  ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt ist ein Spielplatz im Katowice Business Center, der Kindern viel Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.003242,
+                        50.270985
+                  ]
+            },
+            {
+                  "name": "Fit4Kids",
+                  "text": "Fit4Kids ist ein Spielplatz im Katowice Business Center, der Bewegung und Spiel kombiniert.",
+                  "category": "family",
+                  "coords": [
+                        19.017842,
+                        50.258734
+                  ]
+            },
+            {
+                  "name": "Strefa aktywności rodzinnej",
+                  "text": "Die Strefa aktywności rodzinnej im Katowice Business Center ist ein Ort für gemeinsame Familienzeit.",
+                  "category": "family",
+                  "coords": [
+                        19.005581,
+                        50.27728
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Der Wodny Plac Zabaw im Katowice Business Center bietet spritzige Erfrischung für Kinder an heißen Tagen.",
+                  "category": "family",
+                  "coords": [
+                        19.041637,
+                        50.247838
+                  ]
+            },
+            {
+                  "name": "HOPA LALA",
+                  "text": "HOPA LALA ist ein fröhlicher Spielplatz im Katowice Business Center, ideal zum Toben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.98982,
+                        50.276396
+                  ]
             }
       ],
       "hu": [
@@ -2519,6 +2591,78 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.044186,
                         50.261139
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "A Stawiki egy tó a Katowice Business Centerben, amely zöld oázist kínál a rövid szünetekhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "A Bolina egy tó a Katowice Business Center közelében, ideális egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "cybermagia",
+                  "text": "A cybermagia egy modern játékterem a Katowice Business Centerben, változatos digitális játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        19.003411,
+                        50.263382
+                  ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "A Bajkowy Labirynt egy játszótér a Katowice Business Centerben, amely sok szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.003242,
+                        50.270985
+                  ]
+            },
+            {
+                  "name": "Fit4Kids",
+                  "text": "A Fit4Kids egy játszótér a Katowice Business Centerben, amely ötvözi a mozgást és a játékot.",
+                  "category": "family",
+                  "coords": [
+                        19.017842,
+                        50.258734
+                  ]
+            },
+            {
+                  "name": "Strefa aktywności rodzinnej",
+                  "text": "A Strefa aktywności rodzinnej a Katowice Business Centerben a közös családi időtöltés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        19.005581,
+                        50.27728
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "A Wodny Plac Zabaw a Katowice Business Centerben frissítő vízi élményt kínál a gyerekeknek a forró napokon.",
+                  "category": "family",
+                  "coords": [
+                        19.041637,
+                        50.247838
+                  ]
+            },
+            {
+                  "name": "HOPA LALA",
+                  "text": "A HOPA LALA egy vidám játszótér a Katowice Business Centerben, ideális a gyerekek számára a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.98982,
+                        50.276396
                   ]
             }
       ],
@@ -2990,6 +3134,78 @@ export const polandEconomicV2: POI[] = [
                         19.044186,
                         50.261139
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki este un lac în Katowice Business Center, oferind o oază de verdeață pentru pauze scurte.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina este un lac în apropiere de Katowice Business Center, ideal pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "cybermagia",
+                  "text": "cybermagia este o sală de jocuri modernă în Katowice Business Center, cu diverse jocuri digitale.",
+                  "category": "family",
+                  "coords": [
+                        19.003411,
+                        50.263382
+                  ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt este un loc de joacă în Katowice Business Center, care oferă multă distracție copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.003242,
+                        50.270985
+                  ]
+            },
+            {
+                  "name": "Fit4Kids",
+                  "text": "Fit4Kids este un loc de joacă în Katowice Business Center, care combină mișcarea și joaca.",
+                  "category": "family",
+                  "coords": [
+                        19.017842,
+                        50.258734
+                  ]
+            },
+            {
+                  "name": "Strefa aktywności rodzinnej",
+                  "text": "Strefa aktywności rodzinnej din Katowice Business Center este un loc pentru petrecerea timpului în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.005581,
+                        50.27728
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Wodny Plac Zabaw din Katowice Business Center oferă o răcorire plăcută pentru copii în zilele toride.",
+                  "category": "family",
+                  "coords": [
+                        19.041637,
+                        50.247838
+                  ]
+            },
+            {
+                  "name": "HOPA LALA",
+                  "text": "HOPA LALA este un loc de joacă vesel în Katowice Business Center, ideal pentru zbânțuiala copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.98982,
+                        50.276396
+                  ]
             }
       ],
       "en": [
@@ -3459,6 +3675,78 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.044186,
                         50.261139
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki is a lake at Katowice Business Center, providing a green oasis for short breaks.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina is a lake near Katowice Business Center, ideal for an outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "cybermagia",
+                  "text": "cybermagia is a modern amusement arcade in Katowice Business Center featuring various digital games.",
+                  "category": "family",
+                  "coords": [
+                        19.003411,
+                        50.263382
+                  ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt is a playground in Katowice Business Center offering lots of fun for children.",
+                  "category": "family",
+                  "coords": [
+                        19.003242,
+                        50.270985
+                  ]
+            },
+            {
+                  "name": "Fit4Kids",
+                  "text": "Fit4Kids is a playground in Katowice Business Center that combines movement and play.",
+                  "category": "family",
+                  "coords": [
+                        19.017842,
+                        50.258734
+                  ]
+            },
+            {
+                  "name": "Strefa aktywności rodzinnej",
+                  "text": "Strefa aktywności rodzinnej at Katowice Business Center is a spot for shared family time.",
+                  "category": "family",
+                  "coords": [
+                        19.005581,
+                        50.27728
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Wodny Plac Zabaw at Katowice Business Center offers splashy refreshment for children on hot days.",
+                  "category": "family",
+                  "coords": [
+                        19.041637,
+                        50.247838
+                  ]
+            },
+            {
+                  "name": "HOPA LALA",
+                  "text": "HOPA LALA is a cheerful playground in Katowice Business Center, ideal for children to play around.",
+                  "category": "family",
+                  "coords": [
+                        18.98982,
+                        50.276396
                   ]
             }
       ]

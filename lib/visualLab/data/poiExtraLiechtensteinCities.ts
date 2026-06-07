@@ -238,6 +238,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Dieser Badesee in Mühleholz ist ein idealer Ort für eine Abkühlung und Entspannung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Dieser Stausee bei Mühleholz bietet eine ruhige Umgebung für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Dieser See in der Region Mühleholz ist ein friedliches Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleiner Weiher bei Mühleholz, der zu einer kurzen Pause in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Dieser Weiher in Mühleholz ist ein ruhiger Ort zum Beobachten der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Dieser Spielplatz in Mühleholz bietet Kindern Raum für Spaß und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Dieser Minigolfplatz in Mühleholz ist ein tolles Ziel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Dieser Abenteuerspielplatz in Mühleholz lädt Kinder zum Entdecken und Klettern ein.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Diese Freizeitanlage in Mühleholz bietet abwechslungsreiche Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Dieser Park in Mühleholz ist speziell auf Familien ausgerichtet und bietet viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -473,6 +563,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ez a Mühleholzban található tó ideális hely a hűsölésre és a nyári pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Ez a Mühleholz közelében található víztározó nyugodt környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Ez a Mühleholz környékén található tó békés úti cél a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kis tavacska Mühleholz közelében, amely rövid pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ez a Mühleholzban található tó nyugodt hely a helyi élővilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Ez a Mühleholzban található játszótér teret ad a gyerekeknek a szórakozáshoz és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Ez a Mühleholzban található minigolfpálya remek úti cél egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Ez a Mühleholzban található kalandjátszótér felfedezésre és mászásra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Ez a Mühleholzban található szabadidős létesítmény változatos játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Ez a Mühleholzban található park kifejezetten családoknak készült, és sok helyet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -710,6 +890,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Acest lac pentru scăldat din Mühleholz este un loc ideal pentru răcorire și relaxare vara.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Acest lac de acumulare de lângă Mühleholz oferă un mediu liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Acest lac din regiunea Mühleholz este o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un mic iaz lângă Mühleholz, care invită la o scurtă pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Acest iaz din Mühleholz este un loc liniștit pentru a observa flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Acest loc de joacă din Mühleholz oferă copiilor spațiu pentru distracție și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Acest teren de minigolf din Mühleholz este o destinație excelentă pentru o ieșire distractivă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Acest loc de joacă de aventură din Mühleholz invită copiii la explorare și cățărat.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Această facilitate de agrement din Mühleholz oferă diverse oportunități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Acest parc din Mühleholz este conceput special pentru familii și oferă mult spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -945,6 +1215,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "This swimming lake in Muehleholz is an ideal spot for cooling off and relaxing in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "This reservoir near Muehleholz offers a peaceful environment for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "This lake in the Muehleholz area is a peaceful destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small pond near Muehleholz that invites you for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "This pond in Muehleholz is a peaceful spot for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "This playground in Muehleholz provides children with space for fun and exercise outdoors.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "This miniature golf course in Muehleholz is a great destination for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "This adventure playground in Muehleholz invites children to explore and climb.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "This leisure facility in Muehleholz offers varied play opportunities for families.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "This park in Muehleholz is specifically geared towards families and offers plenty of space for play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -1234,6 +1594,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Ebenholz ist ein See, an dem Besucher die Landschaft genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein Stausee in Ebenholz, ideal zum Wandern und Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein See in Ebenholz, der eine friedliche natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein kleiner See in Ebenholz, der sich für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein See in Ebenholz, der einen ruhigen Platz in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass ist ein Spielplatz in Ebenholz, auf dem Kinder spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Ebenholz bietet ein unterhaltsames Minigolf-Erlebnis für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz ist ein Abenteuerspielplatz in Ebenholz für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux in Ebenholz ist eine Freizeitanlage mit einem Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel ist ein Familienpark mit einem Spielplatz in Ebenholz.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -1478,6 +1928,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az ebenholzi Badesee egy tó, ahol a látogatók élvezhetik a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy víztározó Ebenholzban, amely ideális sétákhoz és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy tó Ebenholzban, amely békés természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy kis tó Ebenholzban, amely alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy tó Ebenholzban, amely csendes helyet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Spielplatz Saxgass egy játszótér Ebenholzban, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Az ebenholzi Minigolfclub szórakoztató minigolf élményt kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Az Abenteuerspielplatz Dräggspatz egy kalandjátszótér Ebenholzban az aktív gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Az ebenholzi Freizeitanlage Dux egy szabadidős létesítmény játszótérrel családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Familienpark Waldhotel egy családi park játszótérrel Ebenholzban.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -1724,6 +2264,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Ebenholz este un lac unde vizitatorii se pot bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac de acumulare din Ebenholz, ideal pentru plimbări și pentru a admira priveliștea.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac situat în Ebenholz, oferind un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac mic în Ebenholz, potrivit pentru o plimbare scurtă.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac din Ebenholz, oferind un loc liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass este un teren de joacă în Ebenholz unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Ebenholz oferă o experiență distractivă de minigolf pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz este un teren de joacă de aventură în Ebenholz pentru copii activi.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Ebenholz este o unitate de agrement cu un teren de joacă pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel este un parc de familie cu un teren de joacă situat în Ebenholz.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -1968,6 +2598,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Ebenholz is a lake where visitors can enjoy the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a reservoir in Ebenholz, ideal for walking and enjoying the views.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee is a lake located in Ebenholz, offering a peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a small lake in Ebenholz, suitable for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher is a lake in Ebenholz, providing a quiet spot in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass is a playground in Ebenholz where children can play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub in Ebenholz offers a fun miniature golf experience for families.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz is an adventure playground in Ebenholz for active children.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Ebenholz is a leisure facility with a playground for family outings.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel is a family park with a playground located in Ebenholz.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -3543,6 +4263,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Dieser Stausee bei Mitteldorf ist ein ruhiger Ort für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Dieser See in der Umgebung von Mitteldorf bietet eine friedliche Atmosphäre zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Mitteldorf bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Mitteldorf bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Mitteldorf bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Mitteldorf bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Mitteldorf ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Mitteldorf bietet Freizeitspaß und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Mitteldorf ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Mitteldorf ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -3796,6 +4606,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Ez a Mitteldorf közelében található víztározó nyugodt hely a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Ez a Mitteldorf környékén található tó békés légkört biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Mitteldorf területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Mitteldorf területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Mitteldorf területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Mitteldorf területén fekvő Gänglesee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Mitteldorf városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Mitteldorf településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Mitteldorf városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Mitteldorf városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -4051,6 +4951,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Acest lac de acumulare de lângă Mitteldorf este un loc liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Acest lac din zona Mitteldorf oferă o atmosferă liniștită pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Mitteldorf oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Mitteldorf oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Mitteldorf oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Mitteldorf oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Mitteldorf este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Mitteldorf oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Mitteldorf este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Mitteldorf este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -4304,6 +5294,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "This reservoir near Mitteldorf is a peaceful spot for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "This lake in the Mitteldorf area offers a peaceful atmosphere for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Mitteldorf offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Mitteldorf offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Mitteldorf offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Mitteldorf offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Mitteldorf is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Mitteldorf offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Mitteldorf is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Mitteldorf is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -4585,6 +5665,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein malerischer See in Haberfeld, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein See in Haberfeld, an dem man die Naturlandschaft genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein See in Haberfeld, der Besuchern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein See in Haberfeld, der sich für Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein See in Haberfeld, ideal für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee ist ein See in Haberfeld, der Besuchern einen ruhigen Ort bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass ist ein Spielplatz in Haberfeld, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Haberfeld bietet unterhaltsames Minigolf für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz ist ein Abenteuerspielplatz in Haberfeld für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux ist ein Erholungsgebiet mit einem Spielplatz in Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel ist ein familienorientierter Park mit einem Spielplatz in Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -4820,6 +5999,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy festői tó Haberfeldben, amely tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy tó Haberfeldben, ahol élvezheti a természeti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy tó Haberfeldben, amely csendes környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy tó Haberfeldben, amely alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy tó Haberfeldben, amely ideális egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Gänglesee egy tó Haberfeldben, amely békés helyet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Spielplatz Saxgass egy játszótér Haberfeldben, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A haberfeldi Minigolfclub szórakoztató minigolfot kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Az Abenteuerspielplatz Dräggspatz egy kalandjátszótér Haberfeldben gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Freizeitanlage Dux egy pihenőhely játszótérrel Haberfeldben.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Familienpark Waldhotel egy családorientált park játszótérrel Haberfeldben.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -5057,6 +6335,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac pitoresc în Haberfeld, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac din Haberfeld unde vă puteți bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac din Haberfeld, care oferă un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac din Haberfeld, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac din Haberfeld, ideal pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee este un lac din Haberfeld care oferă un loc liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass este un teren de joacă în Haberfeld pentru ca copiii să se joace în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Haberfeld oferă minigolf distractiv pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz este un teren de joacă de aventură în Haberfeld pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux este o zonă de recreere cu un teren de joacă în Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel este un parc orientat spre familie, cu un teren de joacă în Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -5292,6 +6669,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a scenic lake in Haberfeld, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee is a lake in Haberfeld where you can enjoy the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a lake in Haberfeld, offering a quiet environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher is a lake in Haberfeld, suitable for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a lake in Haberfeld, ideal for a walk along the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee is a lake in Haberfeld that offers a peaceful spot for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass is a playground in Haberfeld for children to play safely.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub in Haberfeld provides fun miniature golf for all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz is an adventure playground in Haberfeld for kids.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux is a recreational area with a playground in Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel is a family-oriented park with a playground in Haberfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -6895,6 +8371,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Quadratscha bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Quadratscha bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Quadratscha bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Quadratscha bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Quadratscha ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Quadratscha bietet Freizeitspaß und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Quadratscha ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -7103,6 +8642,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Quadratscha területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Quadratscha területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Quadratscha területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Quadratscha területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Quadratscha városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Quadratscha településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Quadratscha városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -7313,6 +8915,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Quadratscha oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Quadratscha oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Quadratscha oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Quadratscha oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Quadratscha este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Quadratscha oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Quadratscha este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -7521,6 +9186,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Quadratscha offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Quadratscha offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Quadratscha offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Quadratscha offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Quadratscha is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Quadratscha offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Quadratscha is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -7766,6 +9494,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein Stausee im Spoerry Areal, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein See im Spoerry Areal, der sich zum Naturgenießen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein See im Spoerry Areal, ideal für eine kleine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein See im Spoerry Areal, an dem Besucher entspannen können.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein See im Spoerry Areal, der malerische Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee ist ein See im Spoerry Areal, der eine friedliche Flucht in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass ist ein Spielplatz für Kinder im Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub im Spoerry Areal bietet eine Minigolfanlage für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel ist ein Familienpark mit einem Spielplatz im Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -7965,6 +9774,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy víztározó a Spoerry Areal területén, amely nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy tó a Spoerry Areal területén, amely alkalmas a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy tó a Spoerry Areal területén, ideális egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy tó a Spoerry Areal területén, ahol a látogatók kikapcsolódhatnak.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy tó a Spoerry Areal területén, amely festői sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Gänglesee egy tó a Spoerry Areal területén, amely békés természetbeni kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Spielplatz Saxgass egy játszótér gyerekeknek a Spoerry Areal területén.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Spoerry Areal területén található Minigolfclub minigolfpályát kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Familienpark Waldhotel egy családi park játszótérrel a Spoerry Areal területén.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -8166,6 +10056,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac de acumulare în Spoerry Areal, oferind un mediu calm.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac din Spoerry Areal, potrivit pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac situat în Spoerry Areal, ideal pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac din Spoerry Areal unde vizitatorii se pot relaxa.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac din Spoerry Areal, oferind trasee de plimbare pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee este un lac din Spoerry Areal, oferind o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass este un teren de joacă pentru copii situat în Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Spoerry Areal oferă un teren de minigolf pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel este un parc de familie cu un teren de joacă în Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -8365,6 +10336,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a reservoir at Spoerry Areal, offering a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee is a lake in Spoerry Areal, suitable for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a lake located in Spoerry Areal, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher is a lake in Spoerry Areal where visitors can relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a lake at Spoerry Areal, offering scenic walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee is a lake in Spoerry Areal, providing a peaceful natural escape.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass is a playground for kids located in Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub at Spoerry Areal offers a miniature golf course for families.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel is a family park with a playground in Spoerry Areal.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -9662,6 +11714,123 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Dux lädt an warmen Tagen zu einer Erfrischung im Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Dux bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Dux ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Dux bietet Freizeitspaß und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz in Dux ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Dux ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Dux ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -9852,6 +12021,123 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Dux területén fekvő Mühleweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Dux településen található Badesee frissítő kikapcsolódást kínál a vízparton a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Dux területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Dux területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Dux területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Dux területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Dux területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Dux területén fekvő Gänglesee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Dux városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Dux településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "A Dux városában található Abenteuerspielplatz Dräggspatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Dux városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Dux városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -10044,6 +12330,123 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Dux invită la o răcorire în apă în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Dux oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Dux este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Dux oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz din Dux este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Dux este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Dux este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -10234,6 +12637,123 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Dux is a great spot for a refreshing dip in the water on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Dux offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Dux is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Dux offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz in Dux is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Dux is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Dux is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -10479,6 +12999,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Forst ist ein See, der sich zum Genießen der natürlichen Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein Stausee in Forst, der einen malerischen Ort für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein See in Forst, ideal für eine ruhige Zeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein See in Forst, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein See in Forst, an dem man die ruhige Landschaft genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass ist ein Spielplatz in Forst für das Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Forst bietet unterhaltsames Minigolf für Familienmitglieder.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz ist ein Abenteuerspielplatz in Forst für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Der Spielplatz Kappeli ist ein lokaler Spielplatz in Forst, auf dem Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux ist ein Freizeitbereich mit einem Spielplatz in Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel ist ein Familienpark mit einem Spielplatz in Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -10678,6 +13297,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A forsti Badesee egy tó, amely alkalmas a természeti környezet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy víztározó Forstban, amely festői helyet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy tó Forstban, ideális egy csendes időtöltésre a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy tó Forstban, amely békés légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy tó Forstban, ahol élvezheti a csendes tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Spielplatz Saxgass egy játszótér Forstban a gyerekek szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A forsti Minigolfclub szórakoztató minigolfot kínál a családtagoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Az Abenteuerspielplatz Dräggspatz egy kalandjátszótér Forstban gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "A Spielplatz Kappeli egy helyi játszótér Forstban, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Freizeitanlage Dux egy szabadidős terület játszótérrel Forstban.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Familienpark Waldhotel egy családi park játszótérrel Forstban.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -10879,6 +13597,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Forst este un lac potrivit pentru a te bucura de mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac de acumulare din Forst, oferind un loc pitoresc pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac din Forst, ideal pentru un timp liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac situat în Forst, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac din Forst unde vă puteți bucura de peisajul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass este un teren de joacă în Forst pentru joaca în aer liber a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Forst oferă minigolf distractiv pentru membrii familiei.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz este un teren de joacă de aventură în Forst pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli este un teren de joacă local în Forst unde copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux este o zonă de agrement cu un teren de joacă în Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel este un parc de familie cu un teren de joacă situat în Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -11078,6 +13895,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Forst is a lake suitable for enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a reservoir in Forst, offering a scenic spot for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee is a lake in Forst, ideal for a quiet time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a lake located in Forst, providing a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher is a lake in Forst where you can enjoy the quiet scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass is a playground in Forst for children's outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub in Forst offers fun miniature golf for family members.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz is an adventure playground in Forst for kids.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli is a local playground in Forst where children can play.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux is a leisure area with a playground in Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel is a family park with a playground located in Forst.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -12662,6 +15578,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Iradug lädt an warmen Tagen zu einer Erfrischung im Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Iradug bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Iradug bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Iradug bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Iradug bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Iradug ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Iradug bietet Freizeitspaß and Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz in Iradug ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Der Spielplatz Kappeli in Iradug ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Iradug ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Iradug ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -12816,6 +15831,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Iradug településen található Badesee frissítő kikapcsolódást kínál a vízparton a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Iradug területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Iradug területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Iradug területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Iradug területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Iradug városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Iradug településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "A Iradug városában található Abenteuerspielplatz Dräggspatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "A Iradug városában található Spielplatz Kappeli nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Iradug városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Iradug városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -12972,6 +16086,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Iradug invită la o răcorire în apă în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Iradug oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Iradug oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Iradug oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Iradug oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Iradug este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Iradug oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz din Iradug este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli din Iradug este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Iradug este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Iradug este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -13126,6 +16339,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Iradug is a great spot for a refreshing dip in the water on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Iradug offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Iradug offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Iradug offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Iradug offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Iradug is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Iradug offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz in Iradug is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli in Iradug is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Iradug is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Iradug is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -13362,6 +16674,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Rossfeld ist ein See, an dem Besucher die Natur genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein See in Rossfeld, perfekt für ein friedliches Naturerlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein See in Rossfeld, der einen ruhigen Platz für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein See in Rossfeld, der sich für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein See in Rossfeld, der Besuchern eine malerische Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass ist ein Spielplatz in Rossfeld für den Outdoorspaß von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Rossfeld bietet ein Minigolf-Erlebnis für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Minigolf-Anlage",
+                  "text": "Die Minigolf-Anlage ist eine Minigolfanlage in Rossfeld zur Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        9.463783,
+                        47.165574
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz ist ein Abenteuerspielplatz für Kindern in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Der Spielplatz Kappeli ist ein lokaler Spielplatz in Rossfeld für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux ist eine Freizeitanlage mit einem Spielplatz in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel ist ein Familienpark mit einem Spielplatz in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -13552,6 +16972,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A rossfeldi Badesee egy tó, ahol a látogatók élvezhetik a szabadban való tartózkodást.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy tó Rossfeldben, amely tökéletes egy békés természeti élményhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy tó Rossfeldben, amely csendes helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy tó Rossfeldben, amely alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy tó Rossfeldben, amely festői környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Spielplatz Saxgass egy játszótér Rossfeldben a gyerekek szabadtéri szórakozásához.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A rossfeldi Minigolfclub minigolf élményt kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Minigolf-Anlage",
+                  "text": "A Minigolf-Anlage egy minigolf létesítmény Rossfeldben a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.463783,
+                        47.165574
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Az Abenteuerspielplatz Dräggspatz egy kalandjátszótér gyerekeknek Rossfeldben.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "A Spielplatz Kappeli egy helyi játszótér Rossfeldben a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Freizeitanlage Dux egy szabadidős létesítmény játszótérrel Rossfeldben.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Familienpark Waldhotel egy családi park játszótérrel Rossfeldben.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -13744,6 +17272,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Rossfeld este un lac unde vizitatorii se pot bucura de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac din Rossfeld, perfect pentru o experiență naturală liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac din Rossfeld, oferind un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac din Rossfeld, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac din Rossfeld, oferind un mediu pitoresc pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass este un teren de joacă în Rossfeld pentru distracția în aer liber a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Rossfeld oferă o experiență de minigolf pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Minigolf-Anlage",
+                  "text": "Minigolf-Anlage este o instalație de minigolf în Rossfeld pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.463783,
+                        47.165574
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz este un teren de joacă de aventură pentru copii în Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli este un teren de joacă local situat în Rossfeld pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux este o unitate de recreere cu un teren de joacă în Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel este un parc de familie cu un teren de joacă în Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -13934,6 +17570,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Rossfeld is a lake where visitors can enjoy the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee is a lake in Rossfeld, perfect for a peaceful natural experience.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a lake in Rossfeld, providing a quiet spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher is a lake in Rossfeld, suitable for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a lake in Rossfeld, offering a scenic environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass is a playground in Rossfeld for children's outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub in Rossfeld offers a miniature golf experience for families.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Minigolf-Anlage",
+                  "text": "Minigolf-Anlage is a miniature golf facility in Rossfeld for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        9.463783,
+                        47.165574
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz is an adventure playground for kids in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli is a local playground located in Rossfeld for children.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux is a recreational facility with a playground in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel is a family park with a playground in Rossfeld.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -15698,6 +19442,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Birkahof lädt an warmen Tagen zu einer Erfrischung im Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Birkahof bietet Freizeitspaß and Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Der Spielplatz Kappeli in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -15852,6 +19704,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Birkahof területén fekvő Mühleweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Birkahof településen található Badesee frissítő kikapcsolódást kínál a vízparton a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Birkahof területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Birkahof területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Birkahof területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Birkahof területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Birkahof városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Birkahof településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "A Birkahof városában található Abenteuerspielplatz Dräggspatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "A Birkahof városában található Spielplatz Kappeli nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Birkahof városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Birkahof városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -16008,6 +19968,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.478948,
                         47.167318
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Birkahof invită la o răcorire în apă în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Birkahof oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -16162,6 +20230,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.478948,
                         47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Birkahof is a great spot for a refreshing dip in the water on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Birkahof offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -16444,6 +20620,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Bardella ist ein See, an dem Besucher die Naturlandschaft genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein Stausee in Bardella, ideal für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Bardella ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Bardella ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Bardella ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Bardella ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Bardella ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Bardella ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Bardella bietet Freizeitspaß und eine sportliche Herausforderung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz in Bardella ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Bardella ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Bardella ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -16679,6 +20963,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A bardellai Badesee egy tó, ahol a látogatók élvezhetik a természeti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy víztározó Bardellában, amely ideális egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Bardella városában található Kaiserilochsee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Bardella városában található Spörry Weiher egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Bardella városában található Sägaweiher egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Bardella városában található Werdenberger See egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Bardella városában található Gänglesee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Bardella területén fekvő Spielplatz Saxgass egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Bardella városában található Minigolfclub kikapcsolódást és sportos kihívást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "A Bardella területén fekvő Abenteuerspielplatz Dräggspatz egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Bardella területén fekvő Freizeitanlage Dux egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Bardella területén fekvő Familienpark Waldhotel egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -16916,6 +21308,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.509571,
                         47.148569
                   ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Bardella este un lac unde vizitatorii se pot bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac de acumulare din Bardella, ideal pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Bardella este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Lacul Spörry Weiher din Bardella este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Lacul Sägaweiher din Bardella este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Bardella este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Lacul Gänglesee din Bardella este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Locul de joacă Spielplatz Saxgass din Bardella este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Clubul de minigolf Minigolfclub din Bardella oferă distracție și o provocare sportivă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Locul de joacă Abenteuerspielplatz Dräggspatz din Bardella este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Locul de joacă Freizeitanlage Dux din Bardella este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Locul de joacă Familienpark Waldhotel din Bardella este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -17151,6 +21651,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.509571,
                         47.148569
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Bardella is a lake where visitors can enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a reservoir in Bardella, ideal for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Bardella is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "The Spörry Weiher in Bardella is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Bardella is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "The Werdenberger See in Bardella is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "The Gänglesee in Bardella is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "The Spielplatz Saxgass playground in Bardella is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "The Minigolfclub in Bardella offers leisure fun and a sporting challenge for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "The Abenteuerspielplatz Dräggspatz playground in Bardella is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "The Freizeitanlage Dux playground in Bardella is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "The Familienpark Waldhotel playground in Bardella is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -18142,6 +22750,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Meierhof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Meierhof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Meierhof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Im Burkat, Triesenberg in Meierhof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Robinson-Spielplatz in Meierhof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "hu": [
@@ -18314,6 +22967,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Meierhof területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Meierhof területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Meierhof területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Meierhof városában található Im Burkat, Triesenberg nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Meierhof városában található Robinson-Spielplatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ],
@@ -18488,6 +23186,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Meierhof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Meierhof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Meierhof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Im Burkat, Triesenberg din Meierhof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Robinson-Spielplatz din Meierhof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "en": [
@@ -18660,6 +23403,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Meierhof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Meierhof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Meierhof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Im Burkat, Triesenberg in Meierhof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Robinson-Spielplatz in Meierhof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ]
@@ -18905,6 +23693,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Poska ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Poska ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Poska ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Poska ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Poska ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Im Burkat, Triesenberg in Poska ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Robinson-Spielplatz in Poska ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "hu": [
@@ -19104,6 +23955,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Poska városában található Stausee Steg egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Poska városában található Kaiserilochsee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Poska városában található Spörry Weiher egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Poska városában található Werdenberger See egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Poska városában található Gänglesee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Poska területén fekvő Im Burkat, Triesenberg egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Poska területén fekvő Robinson-Spielplatz egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ],
@@ -19305,6 +24219,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul Stausee Steg din Poska este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Poska este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Lacul Spörry Weiher din Poska este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Poska este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Lacul Gänglesee din Poska este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Poska este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Poska este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "en": [
@@ -19504,6 +24481,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Poska is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Poska is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "The Spörry Weiher in Poska is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "The Werdenberger See in Poska is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "The Gänglesee in Poska is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Poska is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Poska is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ]
@@ -20693,6 +25733,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Sand bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Sand ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Spielplatz Robinson-Spielplatz in Sand ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "hu": [
@@ -20919,6 +26022,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.485963,
                         47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Sand területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Sand területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Sand területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Sand területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Sand településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Sand területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Sand területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ],
@@ -21147,6 +26313,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Sand oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Sand este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Sand este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "en": [
@@ -21374,6 +26603,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Sand offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Sand is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Sand is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ]
 },
@@ -21564,6 +26856,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Gartnetsch ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Gartnetsch ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Gartnetsch ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Im Burkat, Triesenberg in Gartnetsch ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Robinson-Spielplatz in Gartnetsch ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "hu": [
@@ -21709,6 +27046,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Gartnetsch városában található Stausee Steg egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Gartnetsch városában található Kaiserilochsee egy szép tó, amely pihenésre és the természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Gartnetsch városában található Spörry Weiher egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Gartnetsch területén fekvő Im Burkat, Triesenberg egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Gartnetsch területén fekvő Robinson-Spielplatz egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ],
@@ -21856,6 +27238,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul Stausee Steg din Gartnetsch este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Gartnetsch este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Lacul Spörry Weiher din Gartnetsch este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Gartnetsch este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Gartnetsch este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "en": [
@@ -22001,6 +27428,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Gartnetsch is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Gartnetsch is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "The Spörry Weiher in Gartnetsch is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Gartnetsch is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Gartnetsch is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ]
@@ -23352,6 +28824,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Berschis ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Spielplatz Robinson-Spielplatz in Berschis ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "hu": [
@@ -23560,6 +29095,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.485963,
                         47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Berschis településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Berschis településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Berschis településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Berschis településen található Werdenberger See festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Berschis településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Berschis területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Berschis területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
                   ]
             }
       ],
@@ -23770,6 +29368,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Berschis este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Berschis este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ],
       "en": [
@@ -23979,6 +29640,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.485963,
                         47.121539
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Berschis is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Berschis is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
             }
       ]
 },
@@ -24133,6 +29857,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Maels ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Maels ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Schlossgarten in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Der Spielplatz Rietle in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Der Spielplatz Palduinstrasse in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Der Spielplatz Gaschlieser in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Der Spielplatz Schrebergarten in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Der Spielplatz Ramschwagweg in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Der Spielplatz Mariahilf in Maels ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "hu": [
@@ -24242,6 +30047,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Maels városában található Stausee Steg egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Maels városában található Kaiserilochsee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A Maels területén fekvő Spielplatz Schlossgarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "A Maels területén fekvő Spielplatz Rietle egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "A Maels területén fekvő Spielplatz Palduinstrasse egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "A Maels területén fekvő Spielplatz Gaschlieser egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "A Maels területén fekvő Spielplatz Schrebergarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "A Maels területén fekvő Spielplatz Ramschwagweg egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "A Maels területén fekvő Spielplatz Mariahilf egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ],
@@ -24353,6 +30239,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul Stausee Steg din Maels este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Maels este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Spielplatz Schlossgarten din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Locul de joacă Spielplatz Rietle din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Locul de joacă Spielplatz Palduinstrasse din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Locul de joacă Spielplatz Gaschlieser din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Locul de joacă Spielplatz Schrebergarten din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Locul de joacă Spielplatz Ramschwagweg din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Locul de joacă Spielplatz Mariahilf din Maels este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "en": [
@@ -24462,6 +30429,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Maels is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Maels is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Spielplatz Schlossgarten playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "The Spielplatz Rietle playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "The Spielplatz Palduinstrasse playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "The Spielplatz Gaschlieser playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "The Spielplatz Schrebergarten playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "The Spielplatz Ramschwagweg playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "The Spielplatz Mariahilf playground in Maels is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ]
@@ -25578,6 +31626,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in St Peter bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in St Peter bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Spielplatz Schlossgarten in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Der Spielplatz Spielplatz Rietle in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Der Spielplatz Spielplatz Palduinstrasse in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Der Spielplatz Spielplatz Gaschlieser in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Der Spielplatz Spielplatz Schrebergarten in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Der Spielplatz Spielplatz Ramschwagweg in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Der Spielplatz Spielplatz Mariahilf in St Peter ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "hu": [
@@ -25696,6 +31825,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A St Peter településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A St Peter településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A St Peter területén lévő Spielplatz Schlossgarten játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "A St Peter területén lévő Spielplatz Rietle játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "A St Peter területén lévő Spielplatz Palduinstrasse játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "A St Peter területén lévő Spielplatz Gaschlieser játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "A St Peter területén lévő Spielplatz Schrebergarten játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "A St Peter területén lévő Spielplatz Ramschwagweg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "A St Peter területén lévő Spielplatz Mariahilf játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ],
@@ -25816,6 +32026,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din St Peter oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din St Peter oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Spielplatz Schlossgarten din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Locul de joacă Spielplatz Rietle din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Locul de joacă Spielplatz Palduinstrasse din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Locul de joacă Spielplatz Gaschlieser din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Locul de joacă Spielplatz Schrebergarten din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Locul de joacă Spielplatz Ramschwagweg din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Locul de joacă Spielplatz Mariahilf din St Peter este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "en": [
@@ -25934,6 +32225,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in St Peter offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in St Peter offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Spielplatz Schlossgarten playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "The Spielplatz Rietle playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "The Spielplatz Palduinstrasse playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "The Spielplatz Gaschlieser playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "The Spielplatz Schrebergarten playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "The Spielplatz Ramschwagweg playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "The Spielplatz Mariahilf playground in St Peter is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ]
@@ -26107,6 +32479,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Palduz ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Palduz ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Palduz ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Schlossgarten in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Der Spielplatz Rietle in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Der Spielplatz Palduinstrasse in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Der Spielplatz Gaschlieser in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Robinson-Spielplatz in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Der Spielplatz Schrebergarten in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Der Spielplatz Ramschwagweg in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Der Spielplatz Mariahilf in Palduz ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "hu": [
@@ -26234,6 +32705,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Palduz városában található Stausee Steg egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Palduz városában található Kaiserilochsee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Palduz városában található Gänglesee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A Palduz területén fekvő Spielplatz Schlossgarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "A Palduz területén fekvő Spielplatz Rietle egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "A Palduz területén fekvő Spielplatz Palduinstrasse egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "A Palduz területén fekvő Spielplatz Gaschlieser egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Palduz területén fekvő Robinson-Spielplatz egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "A Palduz területén fekvő Spielplatz Schrebergarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "A Palduz területén fekvő Spielplatz Ramschwagweg egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "A Palduz területén fekvő Spielplatz Mariahilf egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ],
@@ -26363,6 +32933,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul Stausee Steg din Palduz este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Palduz este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Lacul Gänglesee din Palduz este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Spielplatz Schlossgarten din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Locul de joacă Spielplatz Rietle din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Locul de joacă Spielplatz Palduinstrasse din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Locul de joacă Spielplatz Gaschlieser din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Locul de joacă Spielplatz Schrebergarten din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Locul de joacă Spielplatz Ramschwagweg din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Locul de joacă Spielplatz Mariahilf din Palduz este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "en": [
@@ -26490,6 +33159,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Palduz is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Palduz is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "The Gänglesee in Palduz is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Spielplatz Schlossgarten playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "The Spielplatz Rietle playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "The Spielplatz Palduinstrasse playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "The Spielplatz Gaschlieser playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "The Spielplatz Schrebergarten playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "The Spielplatz Ramschwagweg playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "The Spielplatz Mariahilf playground in Palduz is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ]
@@ -27608,6 +34376,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Hoefle bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Hoefle bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Hoefle bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Spielplatz Schlossgarten in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Der Spielplatz Spielplatz Rietle in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Der Spielplatz Spielplatz Palduinstrasse in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Der Spielplatz Spielplatz Gaschlieser in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Der Spielplatz Spielplatz Schrebergarten in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Der Spielplatz Spielplatz Ramschwagweg in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Der Spielplatz Spielplatz Mariahilf in Hoefle ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "hu": [
@@ -27726,6 +34584,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Hoefle településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Hoefle településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Hoefle településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A Hoefle területén lévő Spielplatz Schlossgarten játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "A Hoefle területén lévő Spielplatz Rietle játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "A Hoefle területén lévő Spielplatz Palduinstrasse játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "A Hoefle területén lévő Spielplatz Gaschlieser játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "A Hoefle területén lévő Spielplatz Schrebergarten játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "A Hoefle területén lévő Spielplatz Ramschwagweg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "A Hoefle területén lévő Spielplatz Mariahilf játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ],
@@ -27846,6 +34794,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Hoefle oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Hoefle oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Hoefle oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Spielplatz Schlossgarten din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Locul de joacă Spielplatz Rietle din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Locul de joacă Spielplatz Palduinstrasse din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Locul de joacă Spielplatz Gaschlieser din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Locul de joacă Spielplatz Schrebergarten din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Locul de joacă Spielplatz Ramschwagweg din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Locul de joacă Spielplatz Mariahilf din Hoefle este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "en": [
@@ -27964,6 +35002,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Hoefle offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Hoefle offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Hoefle offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Spielplatz Schlossgarten playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "The Spielplatz Rietle playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "The Spielplatz Palduinstrasse playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "The Spielplatz Gaschlieser playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "The Spielplatz Schrebergarten playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "The Spielplatz Ramschwagweg playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "The Spielplatz Mariahilf playground in Hoefle is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ]
@@ -28147,6 +35275,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Unterm Schloss ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Unterm Schloss ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Unterm Schloss ist ein schöner See, der zum Entspannen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Schlossgarten in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Der Spielplatz Rietle in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Der Spielplatz Palduinstrasse in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Der Spielplatz Gaschlieser in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Der Spielplatz Schrebergarten in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Der Spielplatz Ramschwagweg in Unterm Schloss ist ein toller Spielplatz, der Kindern viel Raum zum Austoben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Der Spielplatz Mariahilf in Unterm Schloss ist ein familienfreundlicher Spielplatz, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "hu": [
@@ -28283,6 +35501,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Unterm Schloss városában található Stausee Steg egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Unterm Schloss városában található Kaiserilochsee egy szép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Unterm Schloss városában található Gänglesee egy schép tó, amely pihenésre és a természet élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Schlossgarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Rietle egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Palduinstrasse egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Gaschlieser egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Schrebergarten egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "A Unterm Schloss területén fekvő Spielplatz Ramschwagweg egy nagyszerű játszótér, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Az Unterm Schloss területén található Spielplatz Mariahilf egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ],
@@ -28421,6 +35729,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.47731,
                         47.076794
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul Stausee Steg din Unterm Schloss este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Lacul Kaiserilochsee din Unterm Schloss este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Lacul Gänglesee din Unterm Schloss este un loc frumos care invită la relaxare și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Spielplatz Schlossgarten din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "Locul de joacă Spielplatz Rietle din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "Locul de joacă Spielplatz Palduinstrasse din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "Locul de joacă Spielplatz Gaschlieser din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "Locul de joacă Spielplatz Schrebergarten din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "Locul de joacă Spielplatz Ramschwagweg din Unterm Schloss este un spațiu minunat unde copiii se pot juca și pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Spielplatz Mariahilf din Unterm Schloss este un loc de joacă primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
+                  ]
             }
       ],
       "en": [
@@ -28557,6 +35955,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.47731,
                         47.076794
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Unterm Schloss is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Unterm Schloss is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "The Gänglesee in Unterm Schloss is a beautiful lake that invites you to relax and enjoy the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Spielplatz Schlossgarten playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.497983,
+                        47.064476
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rietle",
+                  "text": "The Spielplatz Rietle playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.500191,
+                        47.061214
+                  ]
+            },
+            {
+                  "name": "Spielplatz Palduinstrasse",
+                  "text": "The Spielplatz Palduinstrasse playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.513387,
+                        47.062816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gaschlieser",
+                  "text": "The Spielplatz Gaschlieser playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.509212,
+                        47.063899
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schrebergarten",
+                  "text": "The Spielplatz Schrebergarten playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.482773,
+                        47.068079
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ramschwagweg",
+                  "text": "The Spielplatz Ramschwagweg playground in Unterm Schloss is a great spot that offers children plenty of space for play and activity.",
+                  "category": "family",
+                  "coords": [
+                        9.511348,
+                        47.070796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mariahilf",
+                  "text": "Spielplatz Mariahilf in Unterm Schloss is a family-friendly playground offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.489,
+                        47.060761
                   ]
             }
       ]
@@ -29250,6 +36738,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.578539,
                         47.111948
                   ]
+            },
+            {
+                  "name": "Hirschsee",
+                  "text": "Der Hirschsee in Steg bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.667855,
+                        47.077593
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Steg bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Steg bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Steg ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Spielpark Malbun",
+                  "text": "Der Spielplatz Spielpark Malbun in Steg ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.608496,
+                        47.103372
+                  ]
             }
       ],
       "hu": [
@@ -29341,6 +36874,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.578539,
                         47.111948
+                  ]
+            },
+            {
+                  "name": "Hirschsee",
+                  "text": "A Steg településen található Hirschsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.667855,
+                        47.077593
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Steg településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Steg településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Steg területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Spielpark Malbun",
+                  "text": "A Steg területén lévő Spielpark Malbun játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.608496,
+                        47.103372
                   ]
             }
       ],
@@ -29434,6 +37012,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.578539,
                         47.111948
                   ]
+            },
+            {
+                  "name": "Hirschsee",
+                  "text": "Hirschsee din Steg oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.667855,
+                        47.077593
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Steg oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Steg oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Steg este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Spielpark Malbun",
+                  "text": "Locul de joacă Spielpark Malbun din Steg este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.608496,
+                        47.103372
+                  ]
             }
       ],
       "en": [
@@ -29525,6 +37148,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.578539,
                         47.111948
+                  ]
+            },
+            {
+                  "name": "Hirschsee",
+                  "text": "Hirschsee in Steg offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.667855,
+                        47.077593
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Steg offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Steg offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Steg is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Spielpark Malbun",
+                  "text": "The Spielpark Malbun playground in Steg is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.608496,
+                        47.103372
                   ]
             }
       ]
@@ -29766,6 +37434,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521895,
                         47.140709
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee ist ein malerischer See in Gaflei, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Gaflei ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -29961,6 +37692,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521895,
                         47.140709
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Gänglesee egy festői tó Gaflei területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Gaflei területén található Familienpark Waldhotel egy családbarát helyszín, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -30158,6 +37952,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521895,
                         47.140709
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee este un lac pitoresc în Gaflei, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Gaflei este un loc primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -30353,6 +38210,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521895,
                         47.140709
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee is a scenic lake in Gaflei, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Gaflei is a family-friendly destination offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -31586,6 +39506,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Masescha bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Masescha bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Masescha bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Masescha bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Masescha ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -31785,6 +39750,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Masescha településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Masescha településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Masescha településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Masescha településen található Sägaweiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Masescha területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -31986,6 +39996,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Masescha oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Masescha oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Masescha oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Masescha oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Masescha este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -32185,6 +40240,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Masescha offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Masescha offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Masescha offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Masescha offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Masescha is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ]
@@ -32439,6 +40539,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein malerischer See in Rotenboden, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein malerischer See in Rotenboden, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Rotenboden, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Rotenboden, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Rotenboden ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -32647,6 +40792,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy festői tó Rotenboden területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy festői tó Rotenboden területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Rotenboden területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Rotenboden területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Rotenboden területén található Im Burkat, Triesenberg egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -32857,6 +41047,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac pitoresc în Rotenboden, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac pitoresc în Rotenboden, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Rotenboden, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Rotenboden, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Rotenboden este primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -33065,6 +41300,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a scenic lake in Rotenboden, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee is a scenic lake in Rotenboden, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Rotenboden, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Rotenboden, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The playground Im Burkat, Triesenberg in Rotenboden is a family-friendly destination offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ]
@@ -34127,6 +42407,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Steinort bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Steinort bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Steinort bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Steinort bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Steinort bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Steinort ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -34299,6 +42633,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Steinort településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Steinort településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Steinort településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Steinort településen található Werdenberger See festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Steinort településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Steinort területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -34473,6 +42861,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Steinort oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Steinort oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Steinort oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Steinort oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Steinort oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Steinort este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -34646,6 +43088,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Steinort offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Steinort offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Steinort offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Steinort offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Steinort offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Steinort is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ]
 },
@@ -34791,6 +43287,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein malerischer See in Rizlina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein malerischer See in Rizlina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Rizlina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Rizlina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Rizlina ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -34891,6 +43432,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy festői tó Rizlina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy festői tó Rizlina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Rizlina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Rizlina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Rizlina területén található Im Burkat, Triesenberg egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -34993,6 +43579,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac pitoresc în Rizlina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac pitoresc în Rizlina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Rizlina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Rizlina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Rizlina este primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -35093,6 +43724,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a scenic lake in Rizlina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee is a scenic lake in Rizlina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Rizlina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Rizlina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The playground Im Burkat, Triesenberg in Rizlina is a family-friendly destination offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ]
@@ -35986,6 +44662,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Guflina bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Guflina bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Guflina bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Guflina bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Guflina ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -36167,6 +44888,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Guflina településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Guflina településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Guflina településen található Spörry Weiher festői helyszínt kínál sétákhoz und a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Guflina településen található Sägaweiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Guflina területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -36350,6 +45116,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Guflina oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Guflina oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Guflina oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Guflina oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Guflina este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -36532,6 +45343,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Guflina offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Guflina offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Guflina offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Guflina offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Guflina is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ]
 },
@@ -36686,6 +45542,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg ist ein malerischer See in Lavadina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee ist ein malerischer See in Lavadina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Lavadina, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Lavadina ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -36795,6 +45687,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Stausee Steg egy festői tó Lavadina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Kaiserilochsee egy festői tó Lavadina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Lavadina területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Lavadina területén található Im Burkat, Triesenberg egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -36906,6 +45834,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg este un lac pitoresc în Lavadina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee este un lac pitoresc în Lavadina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Lavadina, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Lavadina este primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -37015,6 +45979,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg is a scenic lake in Lavadina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee is a scenic lake in Lavadina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Lavadina, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The playground Im Burkat, Triesenberg in Lavadina is a family-friendly destination offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ]
@@ -37708,6 +46708,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547084,
                         47.197014
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Schoenbuehl bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Schoenbuehl lädt an warmen Tagen zum Schwimmen und Entspannen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Schoenbuehl bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Schoenbuehl bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Schoenbuehl bietet eine malerische Kulisse für Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Der See Alte Rüttenen in Schoenbuehl ist ein ruhiger Ort, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.579613,
+                        47.272988
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Schoenbuehl bietet vielfältige Spielmöglichkeiten für Kinder in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -37799,6 +46862,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547084,
                         47.197014
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Schoenbuehl településen található Mühleweiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Schoenbuehl településen található bányató úszásra és pihenésre hív a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Schoenbuehl településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Schoenbuehl településen található Sägaweiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Schoenbuehl területén található Werdenberger See festői környezetet biztosít a sétákhoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Schoenbuehlben fekvő Alte Rüttenen tó egy csendes hely, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.579613,
+                        47.272988
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Schoenbuehlben található Spielplatz Schellenberg változatos játéklehetőségeket kínál a gyermekeknek biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -37892,6 +47018,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547084,
                         47.197014
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Schoenbuehl oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru înot din Schoenbuehl vă invită la scăldat și relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Schoenbuehl oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Schoenbuehl oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Schoenbuehl oferă un cadru pitoresc pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Lacul Alte Rüttenen din Schoenbuehl este un loc liniștit care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579613,
+                        47.272988
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Schoenbuehl oferă diverse posibilități de joacă pentru copii într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -37983,6 +47172,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547084,
                         47.197014
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Schoenbuehl offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The swimming lake in Schoenbuehl invites you to swim and relax on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Schoenbuehl offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Schoenbuehl offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Schoenbuehl offers a picturesque setting for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen lake in Schoenbuehl is a quiet spot that invites visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.579613,
+                        47.272988
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The playground Spielplatz Schellenberg in Schoenbuehl offers various play options for children in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -38102,6 +47354,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher ist ein malerischer See in Bochs, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Bochs ist ein malerischer See, der ideal zum Entspannen am Wasser oder für einen Spaziergang in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Bochs, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Bochs, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein malerischer See in Bochs, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -38175,6 +47472,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy festői tó Bochs területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Bochs területén található Badesee egy festői tó, amely ideális a vízparti pihenéshez vagy egy természetközeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Bochs területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Bochs területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy festői tó Bochs területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -38250,6 +47592,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un lac pitoresc în Bochs, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Bochs este un lac pitoresc, ideal pentru relaxare pe malul apei sau pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Bochs, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Bochs, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac pitoresc în Bochs, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -38323,6 +47710,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a scenic lake in Bochs, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Bochs is a scenic lake, ideal for relaxing by the water or taking a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Bochs, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Bochs, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a scenic lake in Bochs, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -39206,6 +48638,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547084,
                         47.197014
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Bruehl ist ein idyllisches Gewässer, das zu entspannten Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Bruehl bietet eine erfrischende Gelegenheit zum Schwimmen und Entspannen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Bruehl ist ein ruhiger See, der sich hervorragend für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Bruehl besticht durch seine natürliche Umgebung und lädt zur Erholung am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Bruehl ist ein beliebtes Ziel für Spaziergänge in einer malerischen Seelandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -39270,6 +48747,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547084,
                         47.197014
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Bruehlben található Mühleweiher egy idilli vízfelület, amely pihentető sétákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Bruehlben fekvő Badesee frissítő lehetőséget nyújt az úszásra és a szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Bruehlben található Spörry Weiher egy csendes tó, amely kiválóan alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Bruehlben fekvő Sägaweiher lenyűgöző természetes környezetével várja a vízparti pihenésre vágyókat.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Bruehlben található Werdenberger See kedvelt úti cél a sétákhoz egy festői tavi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -39336,6 +48858,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547084,
                         47.197014
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Bruehl este un ochi de apă idilic care invită la plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee din Bruehl oferă o oportunitate revigorantă pentru înot și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Bruehl este un lac liniștit, excelent pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Bruehl impresionează prin mediul său natural și invită la relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Bruehl este o destinație populară pentru plimbări într-un peisaj lacustru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -39400,6 +48967,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547084,
                         47.197014
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Bruehl is an idyllic body of water that invites visitors to take relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Bruehl offers a refreshing opportunity for swimming and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Bruehl is a quiet lake, excellent for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Bruehl impresses with its natural surroundings and invites visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Bruehl is a popular destination for walks in a picturesque lakeside landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -39510,6 +49122,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher ist ein malerischer See in Eichen, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Eichen ist ein malerischer See, der ideal zum Entspannen am Wasser oder für einen Spaziergang in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Eichen, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Eichen, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein malerischer See in Eichen, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -39574,6 +49231,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy festői tó Eichen területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az Eichen területén található Badesee egy festői tó, amely ideális a vízparti pihenéshez vagy egy természetközeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Eichen területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Eichen területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy festői tó Eichen területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -39640,6 +49342,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un lac pitoresc în Eichen, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Eichen este un lac pitoresc, ideal pentru relaxare pe malul apei sau pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Eichen, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Eichen, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac pitoresc în Eichen, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -39704,6 +49451,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a scenic lake in Eichen, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Eichen is a scenic lake, ideal for relaxing by the water or taking a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Eichen, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Eichen, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a scenic lake in Eichen, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -40470,6 +50262,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher am Presta Areal ist ein ruhiger Weiher, der eine angenehme Atmosphäre für kurze Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee am Presta Areal lädt zu sommerlichen Aktivitäten und erholsamen Stunden am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher am Presta Areal ist ein schöner Ort, um die Natur in unmittelbarer Nähe zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher am Presta Areal bietet eine friedliche Kulisse für eine kurze Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See am Presta Areal ist ein landschaftlich reizvoller See, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -40561,6 +50398,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Presta Arealnál található Mühleweiher egy csendes tavacska, amely kellemes hangulatot biztosít a rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Presta Arealnál fekvő Badesee nyári programokra és pihentető vízparti órákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Presta Arealnál található Spörry Weiher szép hely a természet közvetlen közelben történő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Presta Arealnál lévő Sägaweiher békés hátteret nyújt egy rövid szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Presta Arealnál fekvő Werdenberger See egy tájilag vonzó tó, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -40654,6 +50536,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din zona Presta Areal este un heleșteu liniștit care oferă o atmosferă plăcută pentru excursii scurte.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee de la Presta Areal invită la activități de vară și ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Presta Areal este un loc frumos pentru a te bucura de natură în imediata apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher de la Presta Areal oferă un cadru liniștit pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See de la Presta Areal este un lac pitoresc care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -40745,6 +50672,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher at Presta Areal is a quiet pond offering a pleasant atmosphere for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee at Presta Areal invites visitors to summer activities and relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher at Presta Areal is a lovely spot to enjoy nature in the immediate vicinity.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher at Presta Areal provides a peaceful backdrop for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See at Presta Areal is a scenically attractive lake that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -40936,6 +50908,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.570649,
                         47.235796
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Der Baggerloch Nägele ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Der Baggerloch Wilhelm & Mayer ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Der Baggerloch Hilti & Jehle ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Schaanwald ist ein malerischer See, der ideal zum Entspannen am Wasser oder für einen Spaziergang in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Schaanwald, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Der Spielplatz Wolf-Huber-Straße in Schaanwald ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Schaanwald ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -41081,6 +51152,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.570649,
                         47.235796
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Baggerloch Nägele egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Baggerloch Wilhelm & Mayer egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Baggerloch Hilti & Jehle egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Baggersee Klostergatter egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Alte Rüttenen egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Schaanwald területén található Badesee egy festői tó, amely ideális a vízparti pihenéshez vagy egy természetközeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Schaanwald területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "A Schaanwald területén található Spielplatz Wolf-Huber-Straße egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Schaanwald területén található Spielplatz Schellenberg egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -41228,6 +51398,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.570649,
                         47.235796
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Schaanwald este un lac pitoresc, ideal pentru relaxare pe malul apei sau pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Schaanwald, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Spielplatz Wolf-Huber-Straße din Schaanwald este un loc de joacă primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg din Schaanwald este un loc de joacă primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -41373,6 +51642,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.570649,
                         47.235796
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Schaanwald is a scenic lake, ideal for relaxing by the water or taking a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Schaanwald, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Spielplatz Wolf-Huber-Straße in Schaanwald is a family-friendly playground offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg in Schaanwald is a family-friendly playground offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -42480,6 +52848,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Binza ist ein kleiner See, der von Natur umgeben ist und Ruhe ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Binza ist ein lokales Gewässer, das oft für Freizeitaktivitäten am Wasser genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Binza bietet einen ruhigen Ort zum Verweilen und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Binza ist ein See, der sich harmonisch in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Binza ist ein beliebtes Gewässer für Erholungssuchende in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Binza ist ein naturnaher See, der zu Beobachtungen und Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Binza bietet Möglichkeiten zum Schwimmen und für gemütliche Stunden am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Binza ist ein friedlicher Weiher, ideal für einen kurzen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Binza zeichnet sich durch seine ruhige Lage und die schöne Umgebung aus.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Der Spielplatz Wolf-Huber-Straße in Binza ist ein toller Treffpunkt für Familien mit vielen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Binza bietet Kindern vielfältige Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -42625,6 +53092,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Binzában található Mühleweiher egy kis tó, amelyet természet vesz körül és nyugalmat áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A binzai Baggerloch Nägele egy helyi vízfelület, amelyet gyakran használnak vízparti szabadidős tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A binzai Baggerloch Wilhelm & Mayer nyugodt helyet kínál az időtöltéshez és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A binzai Baggerloch Hilti & Jehle egy tó, amely harmonikusan illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A binzai Baggersee Klostergatter kedvelt vízfelület a régióban pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A binzai Alte Rüttenen egy természetközeli tó, amely megfigyelésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A binzai Badesee úszási lehetőséget és kellemes vízparti órákat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A binzai Spörry Weiher egy békés tavacska, ideális egy rövid természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A binzai Sägaweiher csendes elhelyezkedésével és szép környezetével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "A binzai Wolf-Huber-Straße játszótér nagyszerű találkozóhely családoknak, sok játékkal.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A binzai Spielplatz Schellenberg változatos mászási és játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -42772,6 +53338,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Binza este un lac mic, înconjurat de natură, care emană liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Binza este un luciu de apă local, utilizat adesea pentru activități de agrement pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Binza oferă un loc liniștit pentru relaxare și bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Binza este un lac care se integrează armonios în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Lacul Baggersee Klostergatter din Binza este un luciu de apă popular pentru cei care caută relaxare în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Binza este un lac natural care invită la observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee din Binza oferă posibilități pentru înot și pentru ore plăcute pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Binza este un heleșteu liniștit, ideal pentru o scurtă plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Binza se remarcă prin locația sa liniștită și mediul frumos.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Locul de joacă Wolf-Huber-Straße din Binza este un loc de întâlnire excelent pentru familii, cu multe echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Binza oferă copiilor diverse posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -42917,6 +53582,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Binza is a small lake surrounded by nature that radiates tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Binza is a local body of water often used for lakeside leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Binza offers a peaceful spot to linger and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Binza is a lake that blends harmoniously into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Binza is a popular body of water for those seeking relaxation in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Binza is a natural lake that invites visitors to observe and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Binza offers opportunities for swimming and for pleasant hours on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Binza is a peaceful pond, ideal for a short walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Binza is characterized by its quiet location and beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "The Wolf-Huber-Straße playground in Binza is a great meeting point for families with many play facilities.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The playground Spielplatz Schellenberg in Binza offers children various opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -43081,6 +53845,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Der Baggerloch Nägele ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Der Baggerloch Wilhelm & Mayer ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Der Baggerloch Hilti & Jehle ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Freiendorf ist ein malerischer See, der ideal zum Entspannen am Wasser oder für einen Spaziergang in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See ist ein malerischer See in Freiendorf, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Freiendorf ist ein familienfreundlicher Ort, der Kindern viel Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -43199,6 +54062,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Baggerloch Nägele egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Baggerloch Wilhelm & Mayer egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Baggerloch Hilti & Jehle egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Baggersee Klostergatter egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Alte Rüttenen egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Freiendorf területén található Badesee egy festői tó, amely ideális a vízparti pihenéshez vagy egy természetközeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Werdenberger See egy festői tó Freiendorf területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Freiendorf területén található Spielplatz Schellenberg egy családbarát játszótér, amely remek lehetőséget kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -43319,6 +54281,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Freiendorf este un lac pitoresc, ideal pentru relaxare pe malul apei sau pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See este un lac pitoresc în Freiendorf, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg din Freiendorf este un loc de joacă primitor pentru familii, oferind un spațiu minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -43437,6 +54498,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Freiendorf is a scenic lake, ideal for relaxing by the water or taking a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See is a scenic lake in Freiendorf, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg in Freiendorf is a family-friendly playground offering a great space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -44509,6 +55669,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.572059,
                         47.227254
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher am Weiherring bietet eine entspannende Aussicht und Wege für ruhige Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter am Weiherring ist ein schönes Gewässer, das zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen am Weiherring ist ein ruhiger See, der Naturfreunden einen Ort der Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee am Weiherring ist ein idealer Ort für eine Abkühlung und entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher am Weiherring besticht durch seine idyllische Lage und die friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher am Weiherring ist ein naturbelassener Weiher, der zur Erholung in der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See am Weiherring ist ein malerischer See, der sich gut für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg am Weiherring bietet Kindern abwechslungsreiche Spielmöglichkeiten im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -44618,6 +55850,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.572059,
                         47.227254
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Weiherringnél található Mühleweiher pihentető kilátást és utakat kínál a csendes sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Weiherringnél fekvő Baggersee Klostergatter egy szép vízfelület, amely szabadtéri időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Weiherringnél lévő Alte Rüttenen egy csendes tó, amely a természetkedvelőknek nyújt pihenőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Weiherringnél található Badesee ideális hely a felfrissüléshez és a pihentető vízparti órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Weiherringnél fekvő Spörry Weiher idilli elhelyezkedésével és békés hangulatával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Weiherringnél lévő Sägaweiher egy természetes állapotú tavacska, amely környékbeli pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Weiherringnél található Werdenberger See egy festői tó, amely kiválóan alkalmas sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Weiherringnél lévő Spielplatz Schellenberg változatos játéklehetőségeket kínál a gyerekeknek a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -44729,6 +56033,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.572059,
                         47.227254
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher de la Weiherring oferă o vedere relaxantă și poteci pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Lacul Baggersee Klostergatter de la Weiherring este un luciu de apă frumos care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen de la Weiherring este un lac liniștit care oferă iubitorilor de natură un loc de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee de la Weiherring este un loc ideal pentru răcorire și ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher de la Weiherring impresionează prin locația sa idilică și atmosfera pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher de la Weiherring este un heleșteu natural care invită la relaxare în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See de la Weiherring este un lac pitoresc, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg de la Weiherring oferă copiilor posibilități de joacă variate în natură.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -44838,6 +56214,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.572059,
                         47.227254
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher at Weiherring offers relaxing views and paths for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter at Weiherring is a beautiful body of water that invites visitors to spend time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen at Weiherring is a quiet lake offering a place of relaxation for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee at Weiherring is an ideal place for cooling off and relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher at Weiherring stands out for its idyllic location and peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher at Weiherring is a natural pond that invites relaxation in the area.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See at Weiherring is a picturesque lake well-suited for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The playground Spielplatz Schellenberg at Weiherring offers children diverse play options in green surroundings.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -44993,6 +56441,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher ist ein malerischer See in Fallsgass, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Der Baggerloch Nägele ist ein malerischer See in Fallsgass, ideal für einen erholsamen Spaziergang oder zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Ein See in Fallsgass, der zum Spazierengehen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Ein See in Fallsgass, der eine ruhige Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Dieser See in Fallsgass lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Ein malerischer See in der Nähe von Fallsgass, ideal für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.458664,
+                        47.271188
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Ein Gewässer in Fallsgass, das sich für ruhige Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein Badesee in Fallsgass, der zur Erfrischung und Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleiner Weiher in Fallsgass, ideal für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein ruhiger Weiher in Fallsgass, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Ein bekannter See in der Region Fallsgass, der zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Ein familienfreundlicher Spielplatz in Fallsgass mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -45102,6 +56658,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy festői tó Fallsgass területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Baggerloch Nägele egy festői tó Fallsgass területén, amely ideális egy pihentető sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Egy tó Fallsgass településen, amely alkalmas sétákra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Egy tó Fallsgass közelében, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Ez a Fallsgass-i tó lehetőséget nyújt a természetben való kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Egy festői tó Fallsgass közelében, amely kiváló kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        9.458664,
+                        47.271188
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Egy tó Fallsgass területén, amely alkalmas csendes sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy fürdőtó Fallsgassban, amely frissülést és pihenést kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kis tavacska Fallsgassban, amely ideális egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy nyugodt tó Fallsgassban, amely kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Egy jól ismert tó Fallsgass környékén, amely parti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Családbarát játszótér Fallsgassban, különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -45213,6 +56877,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un lac pitoresc în Fallsgass, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele este un lac pitoresc în Fallsgass, ideal pentru o plimbare relaxantă sau pentru a vă bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Un lac în Fallsgass, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Un lac în Fallsgass, oferind un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Acest lac din Fallsgass invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Un lac pitoresc lângă Fallsgass, ideal pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.458664,
+                        47.271188
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Un lac în Fallsgass, potrivit pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac pentru scăldat în Fallsgass, care invită la răcorire și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un mic iaz în Fallsgass, ideal pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un iaz liniștit în Fallsgass, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Un lac cunoscut în regiunea Fallsgass, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Un teren de joacă pentru familii în Fallsgass, dotat cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -45322,6 +57094,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a scenic lake in Fallsgass, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele is a scenic lake in Fallsgass, ideal for a relaxing walk or enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A lake in Fallsgass, perfect for walks and relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A lake in Fallsgass, offering a quiet setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "This lake in Fallsgass invites visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A scenic lake near Fallsgass, ideal for hiking and walking.",
+                  "category": "natural",
+                  "coords": [
+                        9.458664,
+                        47.271188
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A body of water in Fallsgass, suitable for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A swimming lake in Fallsgass, offering refreshment and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small pond in Fallsgass, ideal for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A peaceful pond in Fallsgass, perfect for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A well-known lake in the Fallsgass area, perfect for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A family-friendly playground in Fallsgass with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -46322,6 +58202,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Jonaboden ist ein beeindruckendes Gewässer, das von einer imposanten Bergkulisse umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Jonaboden ist ein kleiner, ruhiger Bergsee, der zum Innehalten und Genießen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Jonaboden bietet eine friedliche Atmosphäre am Wasser in naturnaher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Jonaboden ist ein idyllischer Ort, der sich hervorragend für eine kurze Rast eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Jonaboden ist ein schönes Ziel für Spaziergänger und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Jonaboden ist ein glasklarer See, der malerisch in die Alpenlandschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat in Jonaboden bietet Kindern vielseitige Aktivitäten in einer schönen Berglage.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "hu": [
@@ -46539,6 +58482,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Jonabodenban található Stausee Steg egy lenyűgöző víztározó, amelyet impozáns hegyi kulissza vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Jonabodenban fekvő Kaiserilochsee egy kicsi, csendes hegyi tó, amely megállásra és élvezetre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Jonabodenban található Spörry Weiher békés vízparti hangulatot kínál természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Jonabodenban lévő Sägaweiher egy idilli hely, amely kiválóan alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Jonabodenban fekvő Werdenberger See szép úti cél a sétálók és a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Jonabodenban található Gänglesee egy kristálytiszta tó, amely festőien ágyazódik az alpesi tájba.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Jonabodenban lévő Im Burkat játszótér sokoldalú tevékenységeket kínál a gyerekeknek szép hegyi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ],
@@ -46758,6 +58764,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.532178,
                         47.10779
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Lacul de acumulare Stausee Steg din Jonaboden este un luciu de apă impresionant, înconjurat de un peisaj montan impunător.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Jonaboden este un lac montan mic și liniștit, care invită la popas și contemplare.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Jonaboden oferă o atmosferă pașnică lângă apă, într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Jonaboden este un loc idilic, excelent pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Jonaboden este o destinație frumoasă pentru excursioniști și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Jonaboden este un lac cu apă cristalină, situat pitoresc în peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat din Jonaboden oferă copiilor activități diverse într-o locație montană frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
             }
       ],
       "en": [
@@ -46975,6 +59044,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.532178,
                         47.10779
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "The Stausee Steg in Jonaboden is an impressive reservoir surrounded by a majestic mountain backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "The Kaiserilochsee in Jonaboden is a small, quiet mountain lake that invites visitors to pause and enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Jonaboden offers a peaceful atmosphere by the water in natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Jonaboden is an idyllic spot, excellent for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Jonaboden is a lovely destination for walkers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "The Gänglesee in Jonaboden is a crystal-clear lake, picturesquely nestled in the Alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The playground Im Burkat in Jonaboden offers children versatile activities in a beautiful mountain setting.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
                   ]
             }
       ]
@@ -47229,6 +59361,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521895,
                         47.140709
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Ein Stausee in Hinter Prufatscheng, der ein beliebtes Ziel für Spaziergänge ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Ein See in Hinter Prufatscheng, der eine malerische Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein Weiher in Hinter Prufatscheng, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein Gewässer in Hinter Prufatscheng, das sich für ruhige Momente im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Ein Spielplatz in Hinter Prufatscheng, der Kindern viel Platz zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Ein Freizeitgelände für Familien in Hinter Prufatscheng mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "hu": [
@@ -47437,6 +59623,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521895,
                         47.140709
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Egy víztározó Hinter Prufatschengben, amely népszerű sétahelyszín.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Egy tó Hinter Prufatschengben, amely festői környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy tó Hinter Prufatschengben, amely a természetben való időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy tó Hinter Prufatschengben, amely alkalmas a szabadban való csendes pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Egy játszótér Hinter Prufatschengben, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Családi szabadidőpark Hinter Prufatschengben, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ],
@@ -47647,6 +59887,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521895,
                         47.140709
                   ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Un lac de acumulare în Hinter Prufatscheng, fiind o destinație populară pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Un lac în Hinter Prufatscheng, oferind un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un iaz în Hinter Prufatscheng, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un lac în Hinter Prufatscheng, potrivit pentru momente de liniște în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Un teren de joacă în Hinter Prufatscheng, oferind copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Un parc de recreere pentru familii în Hinter Prufatscheng, cu diverse posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
             }
       ],
       "en": [
@@ -47855,6 +60149,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521895,
                         47.140709
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A reservoir in Hinter Prufatscheng, which is a popular destination for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A lake in Hinter Prufatscheng, offering a scenic backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A pond in Hinter Prufatscheng, inviting visitors to enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A body of water in Hinter Prufatscheng, suitable for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A playground in Hinter Prufatscheng, offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A family leisure area in Hinter Prufatscheng with various play options.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
                   ]
             }
       ]
@@ -48385,7 +60733,196 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-saroja-extra",
+    id: "city-saroja-extra", "sights": {
+      "de": [
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher bietet eine entspannte Atmosphäre und ist ein schöner Ort für einen kurzen Aufenthalt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee ist ein beliebtes Ziel für Freizeitaktivitäten und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher ist ein ruhiges Gewässer, das zum Verweilen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher besticht durch seine idyllische Lage und bietet einen ruhigen Rückzugsort.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux bietet vielfältige Spiel- und Sportmöglichkeiten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher pihentető hangulatot áraszt és szép hely egy rövid tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Badesee kedvelt úti cél a szabadidős tevékenységekhez és a kinti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Spörry Weiher egy csendes tó, amely pihenésre és a természet élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher lenyűgöző idilli elhelyezkedésével és csendes menedéket nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Freizeitanlage Dux változatos játék- és sportlehetőségeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher oferă o atmosferă relaxată și este un loc frumos pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee este o destinație populară pentru activități de agrement și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher este un luciu de apă liniștit care invită la relaxare și la bucuria naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher impresionează prin locația sa idilică și oferă un refugiu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Complexul de agrement Dux oferă diverse posibilități de joacă și sport pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher offers a relaxed atmosphere and is a lovely place for a short stay.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee is a popular destination for leisure activities and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher is a quiet body of water that invites visitors to linger and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher impresses with its idyllic location and offers a peaceful retreat.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "The Dux leisure facility offers various play and sports options for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-005",
     coords: [9.5450, 47.1850],
@@ -48528,6 +61065,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein Weiher in Gafadura, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Dieser See in Gafadura bietet Möglichkeiten zur Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Ein Stausee in Gafadura, der für seine schöne Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleiner See in Gafadura, der zu einer kurzen Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein ruhiges Gewässer in Gafadura, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Ein See in der Nähe von Gafadura, der zu ausgiebigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Ein vielseitiger Spielplatz in Gafadura, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "hu": [
@@ -48628,6 +61228,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy tó Gafadurában, amely kiválóan alkalmas egy pihentető sétára.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ez a Gafadura-i tó lehetőséget nyújt a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Egy víztározó Gafadurában, amely szép környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kis tó Gafadurában, amely egy rövid zöldövezeti pihenőre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy nyugodt tó Gafadurában, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Gafadura közelében fekvő tó, amely hosszú sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Sokoldalú játszótér Gafadurában, amely az egész családnak szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ],
@@ -48730,6 +61393,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un iaz în Gafadura, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Acest lac din Gafadura oferă posibilități de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Un lac de acumulare în Gafadura, cunoscut pentru împrejurimile sale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un mic lac în Gafadura, care invită la o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un lac liniștit în Gafadura, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Un lac lângă Gafadura, care invită la plimbări lungi.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Un teren de joacă versatil în Gafadura, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "en": [
@@ -48830,6 +61556,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A pond in Gafadura, well-suited for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "This lake in Gafadura offers opportunities for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A reservoir in Gafadura, known for its beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small lake in Gafadura, inviting visitors for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A peaceful body of water in Gafadura, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A lake near Gafadura, perfect for long walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A versatile playground in Gafadura, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ]
@@ -49785,6 +62574,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Wes ist ein naturnaher Ort, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Wes lädt zu Aktivitäten am Wasser und erholsamen Stunden im Freien ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Wes bietet eine friedliche Atmosphäre für Naturbeobachtungen am See.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Wes ist ein schöner Weiher, der zur Ruhe und Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Wes bietet eine malerische Aussicht und ist ein beliebtes Ausflugsziel.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Wes bietet Kindern viel Raum für Spiel und Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux in Wes ist ein familienfreundlicher Treffpunkt mit vielfältigen Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "hu": [
@@ -49921,6 +62773,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Wes-ben található Mühleweiher egy természetközeli hely, amely jól megfelel a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Wes-ben fekvő Badesee vízparti programokra és pihentető szabadtéri órákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Wes-ben található Spörry Weiher békés hangulatot biztosít a tavi természetmegfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Wes-ben lévő Sägaweiher egy szép tavacska, amely nyugalomra és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Wes-ben található Werdenberger See festői kilátást nyújt és kedvelt kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Wes-ben lévő Spielplatz Saxgass tágas helyet biztosít a gyerekeknek a játékhoz a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Wes-ben található Freizeitanlage Dux családbarát találkozóhely változatos játszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ],
@@ -50059,6 +62974,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Wes este un loc natural, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee din Wes invită la activități pe apă și ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Wes oferă o atmosferă pașnică pentru observarea naturii la lac.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Wes este un heleșteu frumos care invită la liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Lacul Werdenberger See din Wes oferă o vedere pitorească și este o destinație de excursie populară.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Locul de joacă Saxgass din Wes oferă copiilor mult spațiu pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Complexul de agrement Dux din Wes este un punct de întâlnire prietenos cu familiile, cu zone de joacă diverse.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "en": [
@@ -50195,6 +63173,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Wes is a natural spot well-suited for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Wes invites visitors to waterside activities and relaxing outdoor hours.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Wes provides a peaceful atmosphere for nature observation by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Wes is a lovely pond that invites tranquility and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Wes offers a picturesque view and is a popular excursion destination.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "The Saxgass playground in Wes offers children plenty of space for playing and movement in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "The Dux leisure facility in Wes is a family-friendly meeting point with diverse play areas.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ]
@@ -50404,6 +63445,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein Weiher in Schuetz, der einen ruhigen Ort für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein See in Schuetz, der zur Entspannung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleines Gewässer in Schuetz, ideal für eine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein ruhiger Weiher in Schuetz, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Ein markanter See in der Umgebung von Schuetz, ideal für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Ein Spielplatz in Schuetz, der Familien vielfältige Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "hu": [
@@ -50567,6 +63662,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy tó Schuetzben, amely nyugodt helyszínt biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy tó Schuetzben, amely vízparti kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kis tó Schuetzben, ideális egy természetbeli kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy nyugodt tó Schuetzben, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Egy jellegzetes tó Schuetz környékén, amely kiválóan alkalmas túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Játszótér Schuetzben, amely sokféle játéklehetőséget kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ],
@@ -50732,6 +63881,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un iaz în Schuetz, oferind un loc liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac în Schuetz, care invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un mic lac în Schuetz, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un iaz liniștit în Schuetz, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Un lac marcant în zona Schuetz, ideal pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Un teren de joacă în Schuetz, oferind familiilor diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "en": [
@@ -50895,6 +64098,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A pond in Schuetz, offering a quiet place for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A lake in Schuetz, inviting visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small body of water in Schuetz, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A peaceful pond in Schuetz, inviting visitors to stay and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A prominent lake in the Schuetz area, ideal for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A playground in Schuetz, offering families a variety of play options.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ]
@@ -51669,6 +64926,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Nuella bietet eine ruhige Umgebung für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Nuella ist ein schöner Ort zum Schwimmen und für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Nuella besticht durch seine natürliche Schönheit und die friedliche Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Nuella ist ein kleiner See, der zum Verweilen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Nuella ist ein malerisches Ziel für entspannte Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Die Freizeitanlage Dux in Nuella bietet vielfältige Spielmöglichkeiten für Familien im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "hu": [
@@ -51769,6 +65080,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Nuellában található Mühleweiher csendes környezetet kínál a pihentető vízparti pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Nuellában fekvő Badesee szép hely az úszáshoz és a természetbeni pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Nuellában található Spörry Weiher lenyűgöző természetes szépségével és békés elhelyezkedésével.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Nuellában lévő Sägaweiher egy kis tó, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Nuella településen található Werdenberger See festői helyszín a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Nuella községben fekvő Freizeitanlage Dux szabadtéri játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ],
@@ -51871,6 +65236,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Nuella oferă un mediu liniștit pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul Badesee din Nuella este un loc frumos pentru înot și pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Nuella impresionează prin frumusețea sa naturală și locația pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Nuella este un lac mic care invită la popas și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Nuella este o destinație pitorească pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Complexul de agrement Dux din Nuella oferă diverse facilități de joacă în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "en": [
@@ -51971,6 +65390,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Nuella offers a quiet setting for relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Nuella is a lovely place for swimming and for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Nuella impresses with its natural beauty and peaceful location.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Nuella is a small lake that invites visitors to linger and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Nuella is a picturesque destination for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "The Dux leisure facility in Nuella offers various outdoor play options for families.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ]
@@ -52172,6 +65645,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein kleiner See in Gsperr, der zu ruhigen Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein See in Gsperr, der Möglichkeiten für Aktivitäten am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein Weiher in Gsperr, der einen schönen Rahmen für Spaziergänge bildet.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein ruhiges Gewässer in Gsperr, ideal für eine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Ein Spielbereich in Gsperr, der Familien zum gemeinsamen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "hu": [
@@ -52326,6 +65844,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy kis tó Gsperrben, amely csendes természetbeli pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy tó Gsperrben, amely vízparti tevékenységekre kínál lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy tó Gsperrben, amely szép környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy nyugodt tó Gsperrben, amely ideális a mindennapokból való kiszakadáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Játszótér Gsperrben, amely közös játékra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ],
@@ -52482,6 +66045,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.544334,
                         47.184719
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un mic lac în Gsperr, care invită la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac în Gsperr, oferind posibilități pentru activități pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un iaz în Gsperr, oferind un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un lac liniștit în Gsperr, ideal pentru o pauză de la rutina zilnică.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "O zonă de joacă în Gsperr, care invită familiile la joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
             }
       ],
       "en": [
@@ -52636,6 +66244,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.544334,
                         47.184719
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A small lake in Gsperr, inviting visitors to enjoy quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A lake in Gsperr, offering opportunities for water-based activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A pond in Gsperr, providing a lovely setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A peaceful body of water in Gsperr, ideal for a break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A play area in Gsperr, inviting families to play together.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
                   ]
             }
       ]
@@ -53628,6 +67281,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Hinterschellenberg lädt zu ruhigen Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Hinterschellenberg ist ein lokaler See, der sich gut für kurze Ausflüge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Hinterschellenberg bietet eine friedliche Kulisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Hinterschellenberg ist ein ruhiges Gewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Hinterschellenberg lädt an warmen Tagen zum Verweilen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Hinterschellenberg ist bekannt für seine beeindruckende Gebirgskulisse.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Hinterschellenberg bietet eine idyllische Atmosphäre für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Hinterschellenberg ist ein kleiner See, der zu ruhigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Hinterschellenberg ist ein beliebtes Ziel für eine Abkühlung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Hinterschellenberg ist ein friedliches Gewässer, ideal für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Der Spielplatz Wolf-Huber-Straße in Hinterschellenberg bietet Kindern viel Raum zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg bietet abwechslungsreiche Spielgeräte für Familien in der Gemeinde.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -53800,6 +67561,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Hinterschellenberg területén lévő Mühleweiher nyugodt pillanatokat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Hinterschellenbergben található Baggerloch Nägele egy helyi tó, amely alkalmas rövid kirándulásokra.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Hinterschellenbergben fekvő Baggerloch Wilhelm & Mayer békés vízparti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Hinterschellenberg területén található Baggerloch Hilti & Jehle a régió egyik csendes tava.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Hinterschellenbergben lévő Baggersee Klostergatter a meleg napokon vízparti pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Hinterschellenberg közelében található Sämtisersee lenyűgöző hegyi panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Hinterschellenbergben fekvő Güfelsee idilli környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Hinterschellenbergben található Alte Rüttenen egy kis tó, amely nyugodt sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Hinterschellenbergben található Badesee népszerű helyszín a nyári felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Hinterschellenbergben lévő Sägaweiher egy békés tó, ideális egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "A Hinterschellenbergben található Wolf-Huber-Straße játszótér bőséges teret kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A schellenbergi játszótér változatos játékeszközöket kínál a helyi családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -53974,6 +67843,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Hinterschellenberg invită la momente de liniște în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Hinterschellenberg este un lac local, potrivit pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Hinterschellenberg oferă un cadru liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Hinterschellenberg este un luciu de apă liniștit din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Hinterschellenberg invită la relaxare pe malul apei în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee de lângă Hinterschellenberg este cunoscut pentru peisajul său montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Hinterschellenberg oferă o atmosferă idilică pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Hinterschellenberg este un lac mic care invită la plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Hinterschellenberg este o destinație populară pentru răcorire în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Hinterschellenberg este un lac liniștit, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Locul de joacă din strada Wolf-Huber din Hinterschellenberg oferă copiilor mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg oferă echipamente de joacă variate pentru familiile din comunitate.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -54146,6 +68123,114 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Hinterschellenberg invites visitors to enjoy quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Hinterschellenberg is a local lake suitable for short excursions.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Hinterschellenberg offers a peaceful setting by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Hinterschellenberg is a quiet body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Hinterschellenberg invites visitors to linger by the water on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Hinterschellenberg is known for its impressive mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Hinterschellenberg offers an idyllic atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Hinterschellenberg is a small lake that invites visitors for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Hinterschellenberg is a popular destination for a summer dip.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Hinterschellenberg is a peaceful pond, ideal for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "The Wolf-Huber-Straße playground in Hinterschellenberg offers children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground offers diverse play equipment for families in the community.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -54337,6 +68422,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein Weiher in Vorderschellenberg, der sich für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Ein See in Vorderschellenberg, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Ein Gewässer in Vorderschellenberg, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Ein See in Vorderschellenberg, der zu Beobachtungen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Ein See in Vorderschellenberg, der sich gut in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Ein malerischer See bei Vorderschellenberg, der ein beliebtes Wanderziel ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Ein ruhiger See in Vorderschellenberg, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Ein Gewässer in Vorderschellenberg, das zu ruhigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein Badesee in Vorderschellenberg, der Erfrischung an heißen Tagen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein Weiher in Vorderschellenberg, der zum Entspannen im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Ein Spielplatz in Vorderschellenberg mit verschiedenen Angeboten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -54482,6 +68666,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy tó Vorderschellenbergben, amely alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Egy tó Vorderschellenbergben, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Egy tó Vorderschellenbergben, amely ideális egy természetbeli kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Egy tó Vorderschellenbergben, amely vízparti megfigyelésekre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Egy tó Vorderschellenbergben, amely jól illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Festői tó Vorderschellenberg közelében, amely népszerű túracélpont.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Egy nyugodt tó Vorderschellenbergben, ideális a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Egy tó Vorderschellenbergben, amely csendes sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Fürdőtó Vorderschellenbergben, amely felfrissülést nyújt a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy tó Vorderschellenbergben, amely zöldövezeti pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Játszótér Vorderschellenbergben, különféle gyerekprogramokkal.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -54629,6 +68912,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un iaz în Vorderschellenberg, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Un lac în Vorderschellenberg, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Un lac în Vorderschellenberg, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Un lac în Vorderschellenberg, care invită la observații pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Un lac în Vorderschellenberg, care se integrează frumos în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Un lac pitoresc lângă Vorderschellenberg, fiind o destinație populară pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Un lac liniștit în Vorderschellenberg, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Un lac în Vorderschellenberg, care invită la plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac pentru scăldat în Vorderschellenberg, oferind răcorire în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un iaz în Vorderschellenberg, care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Un teren de joacă în Vorderschellenberg, cu diverse oferte pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -54774,6 +69156,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A pond in Vorderschellenberg, suitable for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A lake in Vorderschellenberg, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A body of water in Vorderschellenberg, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A lake in Vorderschellenberg, inviting visitors to observe nature by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A lake in Vorderschellenberg that blends beautifully into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A scenic lake near Vorderschellenberg, which is a popular hiking destination.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A peaceful lake in Vorderschellenberg, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A body of water in Vorderschellenberg, inviting visitors for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A swimming lake in Vorderschellenberg, offering refreshment on hot days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A pond in Vorderschellenberg, inviting visitors to relax in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A playground in Vorderschellenberg with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -56080,6 +70561,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher im Biedermann Areal ist ein ruhiges Plätzchen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele im Biedermann Areal bietet eine entspannte Atmosphäre in Seenähe.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer im Biedermann Areal ist ein lokales Gewässer für kurze Erholungspausen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle im Biedermann Areal lädt zu einem ruhigen Aufenthalt am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter im Biedermann Areal ist ein friedlicher See für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee im Biedermann Areal ist für seine schöne Umgebung und das klare Wasser bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee im Biedermann Areal bietet einen idyllischen Rückzugsort im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen im Biedermann Areal ist ein kleines Gewässer, ideal für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee im Biedermann Areal lädt im Sommer zu einer erfrischenden Pause am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher im Biedermann Areal ist ein ruhiger Teich, der zur Beobachtung der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg im Biedermann Areal bietet Kindern sicheren Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -56243,6 +70823,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Biedermann Areal területén található Mühleweiher egy csendes vízparti helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Biedermann Arealban fekvő Baggerloch Nägele pihentető környezetet nyújt a tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Biedermann Arealban található Baggerloch Wilhelm & Mayer egy helyi tó a rövid pihenőkhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Biedermann Areal területén lévő Baggerloch Hilti & Jehle csendes időtöltést kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Biedermann Arealban fekvő Baggersee Klostergatter egy békés tó a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Biedermann Arealnál található Sämtisersee a szép környezetéről és tiszta vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Biedermann Arealban fekvő Güfelsee idilli erdei pihenőhelyet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Biedermann Areal területén lévő Alte Rüttenen egy apró tó, ideális egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Biedermann Arealban található Badesee nyáron frissítő kikapcsolódást kínál a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Biedermann Arealban található Sägaweiher egy csendes tó, amely a természet megfigyelésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Biedermann Arealban lévő schellenbergi játszótér biztonságos helyet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -56408,6 +71087,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Arealul Biedermann este un loc liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Arealul Biedermann oferă o atmosferă relaxantă în apropierea lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Arealul Biedermann este un lac local pentru scurte pauze de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Arealul Biedermann invită la un sejur liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Arealul Biedermann este un lac liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee din Arealul Biedermann este cunoscut pentru împrejurimile frumoase și apa limpede.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Arealul Biedermann oferă un refugiu idilic în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Arealul Biedermann este un lac mic, ideal pentru o scurtă evadare.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Arealul Biedermann invită la o pauză revigorantă pe malul apei în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Arealul Biedermann este un iaz liniștit care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Arealul Biedermann oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -56571,6 +71349,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in the Biedermann Areal is a quiet spot by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in the Biedermann Areal offers a relaxing atmosphere near the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in the Biedermann Areal is a local body of water for short breaks.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in the Biedermann Areal invites visitors for a quiet stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in the Biedermann Areal is a peaceful lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee in the Biedermann Areal is known for its beautiful surroundings and clear water.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in the Biedermann Areal offers an idyllic retreat in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in the Biedermann Areal is a small body of water, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in the Biedermann Areal invites visitors to a refreshing break by the water in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in the Biedermann Areal is a quiet pond that invites visitors to observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in the Biedermann Areal offers children a safe space to play.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -56771,6 +71648,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein kleiner See in Mittelschellenberg, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Ein Gewässer in Mittelschellenberg, das eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Ein See in Mittelschellenberg, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Ein See in Mittelschellenberg, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Ein ruhig gelegener See in Mittelschellenberg für entspannte Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Ein attraktiver See bei Mittelschellenberg, der viele Ausflügler anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Ein See in Mittelschellenberg, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Ein Gewässer in Mittelschellenberg, das sich für kurze Spaziergänge anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein See in Mittelschellenberg, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ein Weiher in Mittelschellenberg, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Ein gut ausgestatteter Spielplatz in Mittelschellenberg für Kindern jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -56925,6 +71901,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy kis tó Mittelschellenbergben, ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Egy tó Mittelschellenbergben, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Egy tó Mittelschellenbergben, amely a szabadban való pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Egy tó Mittelschellenbergben, amely kiválóan alkalmas természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Nyugodt fekvésű tó Mittelschellenbergben a pihentető órákért.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Vonzó tó Mittelschellenberg közelében, amely sok kirándulót vonz.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Egy tó Mittelschellenbergben, amely természetbeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Egy tó Mittelschellenbergben, amely rövid sétákra kínálkozik.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy tó Mittelschellenbergben, amely vízparti pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Egy tó Mittelschellenbergben, amely békés légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Jól felszerelt játszótér Mittelschellenbergben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -57081,6 +72156,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un mic lac în Mittelschellenberg, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Un lac în Mittelschellenberg, oferind un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Un lac în Mittelschellenberg, care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Un lac în Mittelschellenberg, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Un lac liniștit în Mittelschellenberg pentru ore de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Un lac atractiv lângă Mittelschellenberg, care atrage mulți excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Un lac în Mittelschellenberg, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Un lac în Mittelschellenberg, potrivit pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac în Mittelschellenberg, care invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Un iaz în Mittelschellenberg, oferind o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Un teren de joacă bine echipat în Mittelschellenberg pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -57235,6 +72409,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A small lake in Mittelschellenberg, ideal for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A body of water in Mittelschellenberg, offering a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A lake in Mittelschellenberg, inviting visitors to spend time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A lake in Mittelschellenberg, well-suited for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A quietly located lake in Mittelschellenberg for relaxing hours.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "An attractive lake near Mittelschellenberg, which attracts many visitors.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A lake in Mittelschellenberg, inviting visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A body of water in Mittelschellenberg, suitable for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A lake in Mittelschellenberg, inviting visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A pond in Mittelschellenberg, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A well-equipped playground in Mittelschellenberg for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -58650,6 +73923,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Loch bietet eine entspannte Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Loch ist ein kleines Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Loch ist ein ruhiger Ort für eine Pause am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Loch ist ein regionales Gewässer in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Loch bietet eine friedliche Atmosphäre für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Loch ist ein idyllisches Ziel für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Loch ist ein kleines Gewässer, das zur Entspannung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Loch bietet eine naturnahe Kulisse für kurze Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Loch ist im Sommer ein idealer Ort für eine Abkühlung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Loch ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Loch bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -58777,6 +74149,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Loch településen található Mühleweiher pihentető környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Lochban fekvő Baggerloch Nägele egy kis tó, amely természetközeli pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Lochban található Baggerloch Wilhelm & Mayer csendes helyszín egy tóparti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Loch területén lévő Baggerloch Hilti & Jehle egy regionális tó csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Lochban található Baggersee Klostergatter békés légkört biztosít a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Loch közelében fekvő Sämtisersee idilli célpont a túrázók és természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Lochban található Güfelsee egy kis tó, amely erdei relaxációra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Lochban fekvő Alte Rüttenen természetközeli helyszínt biztosít a rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Lochban található Badesee nyáron ideális hely a vízparti felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Lochban lévő Sägaweiher egy csendes tó, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Lochban található schellenbergi játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -58906,6 +74377,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Loch oferă un cadru relaxant pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Loch este un lac mic care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Loch este un loc liniștit pentru o pauză pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Loch este un lac regional într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Loch oferă o atmosferă pașnică pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Loch este o destinație idilică pentru excursioniști și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Loch este un lac mic care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Loch oferă un cadru natural pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Loch este un loc ideal pentru răcorire pe malul apei în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Loch este un luciu de apă liniștit care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Loch oferă posibilități de joacă variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -59033,6 +74603,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Loch offers a relaxing backdrop for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Loch is a small body of water that invites visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Loch is a quiet place for a break on the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Loch is a regional body of water in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Loch offers a peaceful atmosphere for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Loch is an idyllic destination for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Loch is a small lake that invites visitors to relax in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Loch offers a natural setting for short excursions.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Loch is an ideal spot for a summer cooldown by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Loch is a quiet body of water that invites visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Loch offers diverse play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -59242,6 +74911,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein kleiner Weiher in Platta, der zu einem kurzen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Platta bietet eine ruhige Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Platta ist ein lokaler See, der sich gut für einen kurzen Aufenthalt im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Platta bietet eine natürliche Umgebung für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Platta ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Platta bietet eine malerische Kulisse für Wanderungen und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Platta ist ein idyllisches Ziel für einen entspannten Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Platta bietet eine ruhige Atmosphäre für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Platta lädt an warmen Tagen zum Schwimmen und Erholen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Platta ist ein kleiner See, der sich gut für eine kurze Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Platta bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -59405,6 +75173,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy kis tavacska Plattában, amely egy rövid sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Platta településen található Baggerloch Nägele nyugodt környezetet biztosít a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Platta településen található Baggerloch Wilhelm & Mayer egy helyi tó, amely alkalmas egy rövid szabadtéri tartózkodásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Platta településen található Baggerloch Hilti & Jehle természetes környezetet kínál a kikapcsolódásra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Platta településen található Baggersee Klostergatter egy nyugodt vízfelület, amely természetközeli pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Platta közelében fekvő Sämtisersee festői környezetet biztosít a túrázáshoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Platta településen található Güfelsee idilli célpont egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Platta településen lévő Alte Rüttenen nyugodt légkört biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Platta településen található Badesee a meleg napokon úszásra és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Platta településen található Sägaweiher egy kis tó, amely alkalmas egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Platta településen lévő Spielplatz Schellenberg változatos játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -59570,6 +75437,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un mic iaz în Platta, care invită la o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Platta oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Platta este un lac local, potrivit pentru o scurtă escapadă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Platta oferă un mediu natural pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Platta este o apă liniștită care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Platta oferă un cadru pitoresc pentru drumeții și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Platta este o destinație idilică pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Platta oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Platta invită la înot și relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Platta este un lac mic, potrivit pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Platta oferă posibilități variate de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -59733,6 +75699,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A small pond in Platta, inviting visitors for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Platta offers a peaceful setting for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Platta is a local lake suitable for a short stay outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Platta offers a natural environment for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Platta is a calm body of water that invites you to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Platta offers a picturesque setting for hikes and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee in Platta is an idyllic destination for a relaxed walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Platta offers a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Platta invites you to swim and relax on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Platta is a small lake suitable for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Platta offers diverse play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -61074,6 +77139,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Limsenegg lädt zu ruhigen Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Limsenegg bietet eine friedliche Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Limsenegg ist ein lokaler See für kurze Pausen im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Limsenegg bietet einen ruhigen Rückzugsort am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Limsenegg lädt an warmen Tagen zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Limsenegg ist bekannt für seine malerische Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Limsenegg bietet eine idyllische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Limsenegg ist ein ruhiger See für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Limsenegg ist ein beliebtes Ziel für eine Abkühlung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Limsenegg bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Limsenegg bietet Kindern Raum für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -61201,6 +77365,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Limseneggben található Mühleweiher nyugodt vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Limseneggben fekvő Baggerloch Nägele békés természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Limseneggben található Baggerloch Wilhelm & Mayer egy helyi tó a rövid erdei pihenőkhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Limseneggben lévő Baggerloch Hilti & Jehle csendes vízparti pihenőhelyet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Limseneggben található Baggersee Klostergatter a meleg napokon pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Limsenegg közelében fekvő Sämtisersee festői elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Limseneggben található Güfelsee idilli környezetet biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Limseneggben fekvő Alte Rüttenen egy csendes tó a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Limseneggben található Badesee népszerű helyszín a nyári felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Limseneggben lévő Sägaweiher békés vízparti légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Limseneggben található schellenbergi játszótér teret ad a gyerekeknek a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -61330,6 +77593,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Limsenegg invită la momente de liniște pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Limsenegg oferă o atmosferă pașnică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Limsenegg este un lac local pentru scurte pauze în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Limsenegg oferă un refugiu liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Limsenegg invită la relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee de lângă Limsenegg este cunoscut pentru locația sa pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Limsenegg oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Limsenegg este un lac liniștit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Limsenegg este o destinație populară pentru răcorire în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Limsenegg oferă o atmosferă pașnică pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Limsenegg oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -61457,6 +77819,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Limsenegg invites visitors to enjoy quiet moments by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Limsenegg offers a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Limsenegg is a local lake for short breaks in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Limsenegg offers a quiet retreat by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Limsenegg invites visitors to linger on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Limsenegg is known for its picturesque location.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Limsenegg offers an idyllic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Limsenegg is a quiet lake for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Limsenegg is a popular destination for a summer dip.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Limsenegg offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Limsenegg offers children space for outdoor activity.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -61613,6 +78074,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Fofel bietet eine ruhige Umgebung für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Fofel ist ein lokales Gewässer, das sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Fofel bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Fofel ist ein ruhiger Ort für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Fofel lädt zum Verweilen in einer natürlichen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Fofel ist bekannt für seine ruhige Lage und schöne Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Fofel bietet eine friedliche Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Fofel ist ein schönes Ziel für einen Spaziergang im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Fofel bietet Erfrischung und Entspannung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Fofel ist ein kleiner, ruhiger See inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Fofel ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -61722,6 +78282,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Fofel településen található Mühleweiher nyugodt környezetet biztosít rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Fofel településen található Baggerloch Nägele egy helyi vízfelület, amely alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Fofel településen található Baggerloch Wilhelm & Mayer pihentető légkört kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Fofel településen található Baggerloch Hilti & Jehle nyugodt hely a szabadban való tartózkodásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Fofel településen lévő Baggersee Klostergatter természetes környezetben való pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Fofel közelében fekvő Sämtisersee csendes elhelyezkedéséről és szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Fofel településen található Güfelsee békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Fofel településen lévő Alte Rüttenen szép célpont egy zöldövezeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Fofel településen található Badesee felfrissülést és kikapcsolódást kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Fofel településen lévő Sägaweiher egy kicsi, csendes tó a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Fofel településen található Spielplatz Schellenberg a gyermekes családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -61833,6 +78492,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Fofel oferă un mediu liniștit pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Fofel este o apă locală, potrivită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Fofel oferă o atmosferă relaxantă la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Fofel este un loc liniștit pentru o ședere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Fofel invită la relaxare într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Fofel este cunoscut pentru locația sa liniștită și priveliștea frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Fofel oferă un cadru pașnic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Fofel este o destinație frumoasă pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Fofel oferă răcorire și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Fofel este un lac mic și liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Fofel este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -61942,6 +78700,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Fofel offers a peaceful environment for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Fofel is a local body of water suitable for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Fofel offers a relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Fofel is a peaceful place for an outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Fofel invites you to linger in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Fofel is known for its quiet location and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee in Fofel offers a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Fofel is a nice destination for a walk in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Fofel offers refreshment and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Fofel is a small, quiet lake in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Fofel is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -63085,6 +79942,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Unterweyer ist ein ruhiges Gewässer in naturnaher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Unterweyer bietet eine entspannte Kulisse für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Unterweyer ist ein friedlicher See für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Unterweyer lädt zu ruhigen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Unterweyer bietet eine naturnahe Atmosphäre am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Unterweyer ist ein schönes Ziel für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Unterweyer bietet eine idyllische Umgebung für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Unterweyer ist ein kleiner See, ideal für ruhige Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Unterweyer lädt im Sommer zum Schwimmen und Entspannen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Unterweyer bietet eine friedliche Kulisse für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Unterweyer bietet abwechslungsreiche Spielgeräte für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -63230,6 +80186,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Az Unterweyerben található Mühleweiher egy csendes tó természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Az Unterweyerben fekvő Baggerloch Nägele pihentető környezetet nyújt egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Az Unterweyerben található Baggerloch Wilhelm & Mayer békés tó a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Az Unterweyerben lévő Baggerloch Hilti & Jehle csendes vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Az Unterweyerben fekvő Baggersee Klostergatter természetközeli élményt nyújt a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Az Unterweyer közelében található Sämtisersee remek célpont a természetbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Az Unterweyerben található Güfelsee idilli környezetet biztosít egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Unterweyerben fekvő Alte Rüttenen egy apró tó, ideális csendes megfigyelésekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az Unterweyerben található Badesee nyáron úszásra és pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Az Unterweyerben lévő Sägaweiher békés hátteret biztosít a szabadban való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Az Unterweyer településen lévő Spielplatz Schellenberg játszótér változatos játékokat kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -63377,6 +80432,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Unterweyer este un luciu de apă liniștit într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Unterweyer oferă un cadru relaxant pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Unterweyer este un lac liniștit pentru cei care caută recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Unterweyer invită la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Unterweyer oferă o atmosferă naturală pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee de lângă Unterweyer este o destinație frumoasă pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Unterweyer oferă un cadru idilic pentru o scurtă evadare.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Unterweyer este un lac mic, ideal pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Unterweyer invită la înot și relaxare în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Unterweyer oferă un cadru liniștit pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Unterweyer oferă echipamente de joacă variate pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -63522,6 +80676,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Unterweyer is a quiet body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Unterweyer provides a relaxing backdrop for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Unterweyer is a peaceful lake for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Unterweyer invites visitors to enjoy quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Unterweyer offers a natural atmosphere on the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Unterweyer is a beautiful destination for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Unterweyer offers an idyllic setting for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Unterweyer is a small lake, ideal for quiet observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Unterweyer invites visitors to swim and relax in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Unterweyer offers a peaceful backdrop for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Spielplatz Schellenberg playground in Unterweyer offers varied play equipment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -63722,6 +80975,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher an der Nofels Grenze bietet eine idyllische Umgebung für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele an der Nofels Grenze ist ein ruhiges Ausflugsziel im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer an der Nofels Grenze lädt zu einem kurzen Aufenthalt am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle an der Nofels Grenze bietet Entspannung in einer natürlichen Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter an der Nofels Grenze ist ein lokaler See für ruhige Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei der Nofels Grenze ist ein schönes Ziel für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee an der Nofels Grenze bietet eine friedliche Kulisse für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen an der Nofels Grenze ist ein ruhiger Ort für Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee an der Nofels Grenze bietet Möglichkeiten zum Schwimmen und Abkühlen.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher an der Nofels Grenze ist ein kleines Gewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg an der Nofels Grenze bietet Platz zum Spielen und Toben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -63876,6 +81228,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Nofels Grenze határán lévő Mühleweiher idilli környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Nofels Grenze határán található Baggerloch Nägele egy csendes szabadtéri kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Nofels Grenze határán fekvő Baggerloch Wilhelm & Mayer egy rövid vízparti időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Nofels Grenze határán található Baggerloch Hilti & Jehle kikapcsolódást kínál természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Nofels Grenze határán lévő Baggersee Klostergatter egy helyi tó a csendes órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Nofels Grenze közelében található Sämtisersee szép célpont a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Nofels Grenze határán található Güfelsee békés környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Nofels Grenze határán fekvő Alte Rüttenen csendes hely a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Nofels Grenze határán található Badesee lehetőséget nyújt úszásra és hűsölésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Nofels Grenze határán lévő Sägaweiher egy kis vízfelület csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Nofels Grenze határán található Spielplatz Schellenberg helyet biztosít a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -64032,6 +81483,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher de la Nofels Grenze oferă un cadru idilic pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele de la Nofels Grenze este o destinație de excursie liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer de la Nofels Grenze invită la o scurtă ședere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle de la Nofels Grenze oferă relaxare într-o locație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter de la Nofels Grenze este un lac local pentru ore liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Nofels Grenze este o destinație frumoasă pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee de la Nofels Grenze oferă un cadru pașnic pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen de la Nofels Grenze este un loc liniștit pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee de la Nofels Grenze oferă posibilități de înot și răcorire.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher de la Nofels Grenze este o apă mică într-o locație liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg de la Nofels Grenze oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -64187,6 +81737,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher at Nofels Grenze offers an idyllic setting for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele at Nofels Grenze is a peaceful outdoor excursion destination.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer at Nofels Grenze invites for a short stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle at Nofels Grenze offers relaxation in a natural location.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter at Nofels Grenze is a local lake for quiet hours.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Nofels Grenze is a nice destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee at Nofels Grenze offers a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen at Nofels Grenze is a quiet place for nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee at Nofels Grenze offers opportunities for swimming and cooling off.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher at Nofels Grenze is a small body of water in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground at Nofels Grenze offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ]
 },
@@ -64332,6 +81981,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher ist ein ruhiger Weiher in Bangserfeld, ideal für einen kurzen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele ist ein lokaler See in Bangserfeld, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Bangserfeld ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle ist ein kleiner See in Bangserfeld, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Bangserfeld bietet eine erfrischende Umgebung für Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee bei Bangserfeld ist ein malerischer See, eingebettet in eine schöne Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee ist ein ruhiger Bergsee in Bangserfeld, ideal für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Bangserfeld ist ein friedlicher See, der zu ruhigen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Bangserfeld bietet eine tolle Möglichkeit zum Schwimmen und Entspannen im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher ist ein kleiner Weiher in Bangserfeld, perfekt für einen entspannten Aufenthalt in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg in Bangserfeld ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -64432,6 +82180,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher egy csendes tó Bangserfeldben, ideális egy rövid vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Baggerloch Nägele egy helyi tó Bangserfeldben, amely pihentető légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Baggerloch Wilhelm & Mayer Bangserfeldben egy csendes hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Baggerloch Hilti & Jehle egy kis tó Bangserfeldben, ideális egy természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Baggersee Klostergatter Bangserfeldben frissítő környezetet kínál a sétálók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Sämtisersee Bangserfeld közelében egy festői tó, gyönyörű természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Güfelsee egy csendes hegyi tó Bangserfeldben, ideális a túrázóknak és természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Alte Rüttenen Bangserfeldben egy békés tó, amely nyugodt vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Badesee Bangserfeldben nagyszerű lehetőséget kínál az úszásra és a szabadtéri pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Sägaweiher egy kis tó Bangserfeldben, tökéletes egy pihentető természeti időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Schellenberg játszótér Bangserfeldben népszerű találkozóhely a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -64534,6 +82381,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher este un iaz liniștit în Bangserfeld, ideal pentru o scurtă plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele este un lac local în Bangserfeld, oferind o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Bangserfeld este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle este un lac mic în Bangserfeld, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Bangserfeld oferă un cadru răcoritor pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Bangserfeld este un lac pitoresc, situat într-un peisaj natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee este un lac montan liniștit în Bangserfeld, ideal pentru drumeții și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Bangserfeld este un lac pașnic, invitând la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Bangserfeld oferă o oportunitate excelentă pentru înot și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher este un iaz mic în Bangserfeld, perfect pentru o ședere relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg din Bangserfeld este un loc de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -64634,6 +82580,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher is a quiet pond in Bangserfeld, ideal for a short walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele is a local lake in Bangserfeld, offering a relaxed and peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Bangserfeld is a quiet spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle is a small lake in Bangserfeld, perfect for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Bangserfeld offers a refreshing environment for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Bangserfeld is a scenic lake set in a beautiful natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee is a quiet mountain lake in Bangserfeld, ideal for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Bangserfeld is a peaceful lake, inviting quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Bangserfeld offers a great opportunity for swimming and relaxing outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher is a small pond in Bangserfeld, perfect for a relaxing time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg in Bangserfeld is a popular meeting spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -64763,6 +82808,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Rheinau ist ein schönes Ausflugsziel für Spaziergänge und Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Rheinau bietet Möglichkeiten für Freizeitaktivitäten am Wasser und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Rheinau ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Rheinau bietet eine ruhige Umgebung für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Rheinau lädt zum Baden und zur Erholung im Freien ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Rheinau ist ein idyllisches Ziel für Naturfreunde und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Rheinau bietet eine malerische Kulisse für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Rheinau bietet Möglichkeiten zum Schwimmen und für sommerliche Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Rheinau ist ein ruhiges Gewässer, das sich ideal für kurze Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Rheinau ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -64845,6 +82980,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Rheinau területén található Mühleweiher kedvelt kirándulóhely a természetben való sétához és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Rheinau városában található Baggerloch Nägele vízparti szabadidős lehetőségeket és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Rheinau melletti Baggerloch Wilhelm & Mayer egy helyi állóvíz, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Rheinau területén fekvő Baggerloch Hilti & Jehle nyugodt környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Rheinau városában található Baggersee Klostergatter fürdőzésre és szabadtéri kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Rheinau közeli Sämtisersee idilli célpont a természetbarátok és túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Rheinau településen található Alte Rüttenen festői környezetet kínál a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Rheinau területén lévő Badesee úszási és nyári szabadidős lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Rheinau városában található Sägaweiher egy nyugodt vízfelület, amely ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Rheinau településen található Spielplatz Schellenberg játszótér kedvelt találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -64929,6 +83154,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Rheinau este o destinație frumoasă pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Rheinau oferă oportunități pentru activități de agrement pe malul apei și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Rheinau este un luciu de apă local care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Rheinau oferă un mediu liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Rheinau invită la scăldat și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Rheinau este o destinație idilică pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Rheinau oferă un cadru pitoresc pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Rheinau oferă oportunități pentru înot și activități de agrement estivale.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Rheinau este un ochi de apă liniștit, ideal pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Rheinau este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -65011,6 +83326,96 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Rheinau is a beautiful destination for walks and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Rheinau offers opportunities for waterfront leisure activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Rheinau is a local body of water that invites visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Rheinau offers a peaceful environment for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Rheinau invites visitors for swimming and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Rheinau is an idyllic destination for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Rheinau offers a picturesque setting for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Rheinau offers opportunities for swimming and summer leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Rheinau is a quiet body of water, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Spielplatz Schellenberg playground in Rheinau is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -65202,6 +83607,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher im Ruggeller Riet liegt eingebettet in einer geschützten Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele im Ruggeller Riet bietet eine ruhige Umgebung für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer im Ruggeller Riet ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle im Ruggeller Riet lädt zu einem Aufenthalt im Grünen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter im Ruggeller Riet ist ein lokales Gewässer in entspannter Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee im Ruggeller Riet ist ein schönes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee im Ruggeller Riet bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen im Ruggeller Riet ist ein idealer Ort für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee im Ruggeller Riet bietet Erfrischung in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher im Ruggeller Riet ist ein kleines, ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg im Ruggeller Riet bietet Kindern Raum für Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -65347,6 +83851,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Ruggeller Riet területén található Mühleweiher egy védett természeti tájba ágyazódik.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Ruggeller Riet területén fekvő Baggerloch Nägele nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Ruggeller Rietben található Baggerloch Wilhelm & Mayer csendes hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Ruggeller Riet területén lévő Baggerloch Hilti & Jehle a zöldben való időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Ruggeller Rietben fekvő Baggersee Klostergatter egy helyi vízfelület pihentető környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Ruggeller Riet területén található Sämtisersee szép célpont a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Ruggeller Rietben található Güfelsee békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Ruggeller Riet területén lévő Alte Rüttenen ideális hely egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Ruggeller Rietben található Badesee felfrissülést kínál természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Ruggeller Rietben fekvő Sägaweiher egy kicsi, nyugodt vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Ruggeller Rietben található Spielplatz Schellenberg teret biztosít a gyermekeknek a szabadtéri mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -65494,6 +84097,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Ruggeller Riet este situat într-un peisaj natural protejat.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Ruggeller Riet oferă un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Ruggeller Riet este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Ruggeller Riet invită la o ședere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Ruggeller Riet este o apă locală într-o locație relaxată.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee din Ruggeller Riet este o destinație frumoasă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Ruggeller Riet oferă o atmosferă pașnică la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Ruggeller Riet este un loc ideal pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Ruggeller Riet oferă răcorire într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Ruggeller Riet este o apă mică și liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Ruggeller Riet oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -65640,6 +84342,105 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Ruggeller Riet is embedded in a protected natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Ruggeller Riet offers a peaceful environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Ruggeller Riet is a quiet place for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Ruggeller Riet invites for a stay in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Ruggeller Riet is a local body of water in a relaxed location.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee in Ruggeller Riet is a nice destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee in Ruggeller Riet offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Ruggeller Riet is an ideal place for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Ruggeller Riet offers refreshment in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Ruggeller Riet is a small, quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Ruggeller Riet offers children space for outdoor movement.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ]
 },
@@ -65704,6 +84505,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.52799,
                         47.207235
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Bendern ist ein friedlicher Ort am Wasser, ideal für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee bei Bendern besticht durch seine ruhige Lage und die umgebende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Bendern ist ein beliebtes Ziel für Schwimmer und Erholungssuchende im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Bendern ist ein ruhiger See, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher bei Bendern bietet eine malerische Kulisse für kurze Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Bendern ist ein beliebtes Ziel für Naturfreunde und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -65723,6 +84578,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.52799,
                         47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Mühleweiher Bendernben egy békés vízparti hely, ideális egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Sämtisersee Bendern közelében csendes elhelyezkedésével és környező természetével nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Badesee Bendernben népszerű célpont az úszók és pihenni vágyók számára a nyári időszakban.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Bendern településen található Spörry Weiher egy nyugodt tó, amely ideális a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Bendern közeli Sägaweiher festői környezetet kínál a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A benderni Werdenberger See népszerű úti cél a természetkedvelők és a pihenni vágyók körében.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -65744,6 +84653,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.52799,
                         47.207235
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Bendern este un loc pașnic pe malul apei, ideal pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Bendern impresionează prin locația sa liniștită și natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Bendern este o destinație populară pentru înotători și cei care caută relaxare vara.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Bendern este un lac liniștit, ideal pentru relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher de lângă Bendern oferă un cadru pitoresc pentru scurte plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Bendern este o destinație populară pentru iubitorii de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -65763,6 +84726,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.52799,
                         47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Bendern is a peaceful spot by the water, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Bendern is notable for its quiet location and the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Bendern is a popular destination for swimmers and those seeking relaxation in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Bendern is a peaceful lake, perfect for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher near Bendern offers a picturesque setting for short walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Bendern is a popular destination for nature lovers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -65846,6 +84863,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Grossabuent bietet eine entspannte Atmosphäre für Erholungsuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Grossabuent ist ein malerisches Gewässer, das zum Wandern und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Grossabuent ist ein idealer Ort für Erfrischung und Wasserspaß im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Grossabuent bietet eine ruhige Kulisse für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Grossabuent ist ein friedliches Ausflugsziel für kurze Aufenthalte in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "hu": [
@@ -65883,6 +84945,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Grossabuent területén fekvő Mühleweiher pihentető légkört biztosít a természetben kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Grossabuent közeli Sämtisersee egy festői állóvíz, amely túrázásra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Grossabuent városában található Badesee ideális hely a frissülésre és a szabadtéri vízi szórakozásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Grossabuent területén lévő Spörry Weiher nyugodt környezetet kínál a természet megfigyeléséhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Grossabuent melletti Sägaweiher békés kirándulóhely a természetben való rövid tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ],
@@ -65922,6 +85029,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Grossabuent oferă o atmosferă relaxantă pentru cei care caută odihnă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Grossabuent este un luciu de apă pitoresc care invită la drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Grossabuent este un loc ideal pentru răcorire și distracție acvatică în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Grossabuent oferă un cadru liniștit pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Grossabuent este o destinație de excursie pașnică pentru scurte șederi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "en": [
@@ -65959,6 +85111,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Grossabuent offers a relaxing atmosphere for those seeking recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Grossabuent is a picturesque body of water inviting visitors to hike and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Grossabuent is an ideal place for refreshment and outdoor water fun.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Grossabuent offers a quiet backdrop for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Grossabuent is a peaceful excursion destination for short stays in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ]
@@ -66097,6 +85294,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Kratzera ist ein ruhiger See, der sich gut für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Kratzera bietet eine friedliche Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Kratzera ist ein schönes Ziel für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Kratzera lädt zu einem entspannten Spaziergang am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Kratzera bietet Möglichkeiten zur Abkühlung an Sommertagen.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Kratzera ist ein ruhiger Ort für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Kratzera bietet eine natürliche Kulisse für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See bei Kratzera ist ein bekanntes Ausflugsziel mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Kratzera bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -66188,6 +85466,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Kratzera településen található Mühleweiher egy csendes tó, amely alkalmas a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Kratzera településen fekvő Baggersee Klostergatter békés hangulatot kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Kratzera közelében található Sämtisersee szép célpont egy zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Kratzera településen lévő Alte Rüttenen egy pihentető vízparti sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Kratzera településen található Badesee hűsölési lehetőséget nyújt a nyári napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Kratzera településen fekvő Spörry Weiher nyugodt hely a kikapcsolódásra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Kratzera településen található Sägaweiher természetes környezetet biztosít egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Kratzera közelében lévő Werdenberger See egy jól ismert kirándulóhely szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Kratzera településen található Spielplatz Schellenberg sokféle játéklehetőséget kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -66281,6 +85640,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Kratzera este un lac liniștit, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Kratzera oferă o atmosferă pașnică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Kratzera este o destinație frumoasă pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Kratzera invită la o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Kratzera oferă posibilități de răcorire în zilele de vară.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Kratzera este un loc liniștit pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Kratzera oferă un cadru natural pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See de lângă Kratzera este o destinație de excursie cunoscută, cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Kratzera oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -66372,6 +85812,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Kratzera is a peaceful lake suitable for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Kratzera offers a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Kratzera is a nice destination for an excursion into the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Kratzera invites for a relaxed walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Kratzera offers opportunities for cooling off on summer days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Kratzera is a peaceful place for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Kratzera offers a natural setting for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See near Kratzera is a well-known excursion destination with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Kratzera offers diverse play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -66465,6 +85986,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Under Au ist ein idyllischer See, der zu einer gemütlichen Pause im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Under Au besticht durch seine schöne Lage und die ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Under Au bietet an warmen Tagen eine willkommene Erfrischung in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Under Au ist ein beschauliches Gewässer, ideal für eine kleine Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Under Au ist ein friedlicher See, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See bei Under Au lädt zu entspannten Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -66511,6 +86086,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Az Under Au településen fekvő Mühleweiher egy idilli tó, amely hívogató helyszín egy szabadtéri pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Az Under Au közeli Sämtisersee gyönyörű fekvésével és nyugodt hangulatával vonzza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az Under Au-i Badesee kellemes felfrissülést nyújt a meleg napokon, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Az Under Au-ban található Spörry Weiher egy csendes állóvíz, ideális egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Az Under Au-i Sägaweiher egy békés tó, amely kiválóan alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Az Under Au környékén található Werdenberger See pihentető pillanatokra hív a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -66559,6 +86188,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Under Au este un lac idilic, ce invită la o pauză plăcută în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Under Au impresionează prin locația sa frumoasă și atmosfera liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Under Au oferă o răcorire binevenită în zilele calde, într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Under Au este un luciu de apă liniștit, ideal pentru o scurtă evadare.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Under Au este un lac pașnic, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See de lângă Under Au invită la momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -66605,6 +86288,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Under Au is an idyllic lake, inviting for a pleasant break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Under Au impresses with its beautiful location and peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Under Au offers a welcome refreshment on warm days in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Under Au is a tranquil body of water, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Under Au is a peaceful lake, well-suited for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See near Under Au invites for relaxed moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -66724,6 +86461,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Halden bietet eine angenehme Umgebung für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Halden lädt zum Verweilen am Wasser und zur Erholung ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Halden ist ein Naturschauspiel, das sich gut für Wanderungen in der Region eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Halden ist ein ruhiges Plätzchen in der Natur für Entspannung und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Halden bietet Erfrischung und Freizeitvergnügen für Badegäste im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Halden ist ein idyllisches Gewässer, das zum Entspannen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Halden bietet eine naturnahe Umgebung für eine kurze Auszeit im Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "hu": [
@@ -66797,6 +86597,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Halden településen található Mühleweiher kellemes környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Halden városában fekvő Baggersee Klostergatter vízparti kikapcsolódásra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Halden közeli Sämtisersee egy természeti látványosság, amely kiválóan alkalmas regionális túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Halden melletti Alte Rüttenen egy csendes természeti zug a pihenéshez és nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Halden területén található Badesee frissülést és szabadidős élvezeteket kínál a nyári fürdőzőknek.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Halden városában lévő Spörry Weiher egy idilli állóvíz, amely szabadtéri pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Halden településen található Sägaweiher természetközeli környezetet kínál egy rövid hétköznapi pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ],
@@ -66872,6 +86735,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Halden oferă un mediu plăcut pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Halden invită la relaxare pe malul apei și odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Halden este un spectacol al naturii, potrivit pentru drumeții în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Halden este un loc liniștit în natură pentru relaxare și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Halden oferă răcorire și distracție pentru amatorii de scăldat pe timp de vară.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Halden este un luciu de apă idilic care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Halden oferă un mediu natural pentru o scurtă pauză din cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "en": [
@@ -66945,6 +86871,69 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Halden offers a pleasant environment for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Halden invites visitors to stay by the water and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Halden is a natural sight well-suited for hikes in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Halden is a quiet spot in nature for relaxation and peace.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Halden offers refreshment and leisure fun for bathers in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Halden is an idyllic body of water inviting visitors to relax outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Halden offers a natural environment for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ]
@@ -67064,6 +87053,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Salums bietet eine entspannte Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Salums ist ein ruhiges Ziel für Wanderungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Salums lädt zum Schwimmen und Verweilen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Salums ist ein idyllisches Gewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Salums bietet eine friedliche Kulisse für eine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Salums bietet Kindern viel Platz zum Spielen in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -67137,6 +87180,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Salums településen található Mühleweiher pihentető környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Salums közelében fekvő Sämtisersee csendes célpont túrázáshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Salums településen található Badesee úszásra és vízparti pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Salums településen lévő Spörry Weiher egy idilli vízfelület csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Salums településen található Sägaweiher békés környezetet biztosít egy kis szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Salums településen fekvő Spielplatz Schellenberg sok helyet biztosít a gyermekeknek a természetben való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -67212,6 +87309,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Salums oferă un mediu relaxant pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Salums este o destinație liniștită pentru drumeții și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Salums invită la înot și la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Salums este o apă idilică într-o locație liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Salums oferă un cadru pașnic pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Salums oferă copiilor mult spațiu pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -67285,6 +87436,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Salums offers a relaxed environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Salums is a peaceful destination for hikes and walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The Badesee in Salums invites for swimming and lingering by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Salums is an idyllic body of water in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Salums offers a peaceful setting for a break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Salums offers children plenty of space to play in nature.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -67368,6 +87573,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.541659,
                         47.197472
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Hasenacker ist ein ruhiger Ort, der zu Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Hasenacker bietet eine malerische Umgebung für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Hasenacker ist ein schönes Ziel für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Hasenacker ist ein idyllisches Gewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher bei Hasenacker lädt zum Verweilen und Genießen der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Hasenacker ist bekannt für seine schöne Szenerie und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -67405,6 +87664,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.541659,
                         47.197472
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Hasenacker településen lévő Mühleweiher egy nyugodt hely, amely vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Hasenacker közeli Sämtisersee festői környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Hasenacker-i Badesee kellemes úti cél egy pihentető, vízparti naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Hasenackerben található Spörry Weiher egy idilli vízfelület, csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Hasenacker közeli Sägaweiher pihenésre és a természet élvezetére invitál.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Hasenackerben fekvő Werdenberger See szép tájáról és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -67444,6 +87757,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.541659,
                         47.197472
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Hasenacker este un loc liniștit, care invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Hasenacker oferă un cadru pitoresc pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Hasenacker este o destinație frumoasă pentru o zi relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Hasenacker este un ochi de apă idilic, situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher de lângă Hasenacker invită la relaxare și la savurarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Hasenacker este cunoscut pentru peisajul său frumos și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -67481,6 +87848,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.541659,
                         47.197472
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Hasenacker is a quiet spot, inviting for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Hasenacker provides a scenic environment for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Hasenacker is a lovely destination for a relaxed day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Hasenacker is an idyllic body of water in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher near Hasenacker invites you to linger and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Hasenacker is known for its beautiful scenery and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -67555,6 +87976,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.52799,
                         47.207235
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Lutzfeld ist ein ruhiger Ort für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Lutzfeld bietet eine beeindruckende Landschaft für Outdoor-Aktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Lutzfeld ist ein beliebtes Ziel für Wassersport und Erholung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Lutzfeld lädt zu ruhigen Momenten am Wasser in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Lutzfeld ist ein beschauliches Gewässer, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Lutzfeld bietet eine malerische Kulisse für Spaziergänge rund um den See.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "hu": [
@@ -67583,6 +88058,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.52799,
                         47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Lutzfeld területén található Mühleweiher csendes hely a sétákhoz és a természetélményhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Lutzfeld közeli Sämtisersee lenyűgöző tájat kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Lutzfeld városában lévő Badesee kedvelt úti cél a vízi sportokhoz és a nyári kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Lutzfeld melletti Spörry Weiher vízparti nyugodt pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Lutzfeld településen található Sägaweiher egy békés állóvíz, ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Lutzfeld területén fekvő Werdenberger See festői környezetet biztosít a tó körüli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ],
@@ -67613,6 +88142,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.52799,
                         47.207235
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Lutzfeld este un loc liniștit pentru plimbări și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Lutzfeld oferă un peisaj impresionant pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Lutzfeld este o destinație populară pentru sporturi nautice și relaxare vara.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Lutzfeld invită la momente liniștite pe malul apei în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Lutzfeld este un luciu de apă liniștit, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Lutzfeld oferă un cadru pitoresc pentru plimbări în jurul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
             }
       ],
       "en": [
@@ -67641,6 +88224,60 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.52799,
                         47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Lutzfeld is a quiet place for walks and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Lutzfeld offers an impressive landscape for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Lutzfeld is a popular destination for water sports and summer recreation.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Lutzfeld invites visitors to quiet moments by the water in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Lutzfeld is a tranquil body of water, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Lutzfeld offers a picturesque setting for walks around the lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
                   ]
             }
       ]
@@ -67743,6 +88380,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein ruhiger See in Oberau, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee in Oberau bietet eine malerische Kulisse für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein Badesee in Oberau, der an warmen Tagen zum Schwimmen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleiner, friedlicher See in Oberau für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Dieser See in Oberau ist ein schönes Ziel für einen entspannten Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "hu": [
@@ -67798,6 +88480,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy nyugodt tó Oberauban, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Az Oberauban található Sämtisersee festői környezetet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy fürdőtó Oberauban, amely úszásra és pihenésre hív a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kicsi, békés tó Oberauban a nyugodt szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ez az Oberauban található tó szép úti cél egy pihentető kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ],
@@ -67855,6 +88582,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un lac liniștit în Oberau, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee din Oberau oferă un cadru pitoresc pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac de agrement în Oberau, care vă invită la înot și relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un lac mic și liniștit în Oberau pentru momente de calm în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Acest lac din Oberau este o destinație frumoasă pentru o excursie relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "en": [
@@ -67910,6 +88682,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A calm lake in Oberau, ideal for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee in Oberau offers a picturesque setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A swimming lake in Oberau that invites you to swim and relax on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small, peaceful lake in Oberau for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "This lake in Oberau is a beautiful destination for a relaxed excursion.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ]
@@ -68038,6 +88855,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Badael bietet eine entspannte Atmosphäre für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Badael ist ein lokaler See, der sich gut für eine Auszeit am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Badael besticht durch seine naturnahe Lage und friedliche Stimmung.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Badael ist ein ruhiger See, der ideal für Naturbeobachtungen ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Badael lädt an sonnigen Tagen zum Entspannen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Badael ist ein kleines Gewässer, das eine ruhige Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See bei Badael ist ein beliebtes Ziel für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Badael bietet abwechslungsreiche Spielmöglichkeiten für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -68120,6 +89009,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Badael településen található Mühleweiher pihentető légkört kínál egy rövid zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Badael-i Baggersee Klostergatter egy helyi tó, amely kiválóan alkalmas egy vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Badael közeli Sämtisersee természethű elhelyezkedésével és békés hangulatával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Badael-i Alte Rüttenen egy csendes tó, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Badael-i Badesee napsütéses napokon a parton való pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Badael-i Sägaweiher egy kis állóvíz, amely nyugodt természeti környezetet kínat.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Badael környéki Werdenberger See népszerű célpont a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Badael-i Spielplatz Schellenberg változatos játéklehetőségeket kínál a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -68204,6 +89165,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Badael oferă o atmosferă relaxantă pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Badael este un lac local, potrivit pentru o evadare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Badael impresionează prin locația sa naturală și atmosfera pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Badael este un lac liniștit, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Badael invită la relaxare pe mal în zilele însorite.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Badael este un luciu de apă mic, care oferă un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See de lângă Badael este o destinație populară pentru plimbări recreative.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg din Badael oferă posibilități de joacă variate pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -68286,6 +89319,78 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Badael offers a relaxed atmosphere for a short trip into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Badael is a local lake, well-suited for a break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Badael stands out with its natural location and peaceful mood.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Badael is a quiet lake, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Badael invites for relaxation on the shore on sunny days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Badael is a small body of water offering a peaceful natural backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See near Badael is a popular destination for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Spielplatz Schellenberg in Badael offers various play options for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ]
@@ -68423,6 +89528,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Oberbuehl ist ein friedliches Ziel für Erholung und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Oberbuehl bietet Raum für Entspannung und Freizeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Oberbuehl besticht durch seine natürliche Schönheit und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Oberbuehl bietet eine naturbelassene Umgebung für ruhige Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Oberbuehl ist ein attraktiver Ort für Abkühlung und Freizeitspaß im Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Oberbuehl ist ein malerisches Gewässer für erholsame Aufenthalte im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Oberbuehl bietet eine entspannte Atmosphäre für kleine Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Oberbuehl ist ein idyllischer Ort, der zu ausgiebigen Uferspaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Oberbuehl bietet Kindern vielfältige Möglichkeiten zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "hu": [
@@ -68514,6 +89700,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.528753,
                         47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Az Oberbuehl településen található Mühleweiher békés célpont a kikapcsolódáshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Az Oberbuehl városában lévő Baggersee Klostergatter teret kínál a vízparti pihenéshez és szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Az Oberbuehl közeli Sämtisersee természetes szépségével hódít és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Oberbuehl melletti Alte Rüttenen érintetlen környezetet biztosít a csendes órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az Oberbuehl területén található Badesee vonzó hely a felfrissülésre és a vízi szórakozásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Az Oberbuehl városában fekvő Spörry Weiher festői állóvíz a pihentető szabadtéri időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Az Oberbuehl településen lévő Sägaweiher pihentető légkört kínál kisebb természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Az Oberbuehl területén található Werdenberger See idilli hely, amely hosszas parti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Az Oberbuehl városában található Spielplatz Schellenberg játszótér változatos játék- és felfedezési lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
                   ]
             }
       ],
@@ -68607,6 +89874,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Oberbuehl este o destinație pașnică pentru relaxare și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Oberbuehl oferă spațiu pentru relaxare și petrecerea timpului liber pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Oberbuehl impresionează prin frumusețea sa naturală și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Oberbuehl oferă un mediu natural pentru ore liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Oberbuehl este un loc atractiv pentru răcorire și distracție în apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Oberbuehl este un luciu de apă pitoresc pentru șederi relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Oberbuehl oferă o atmosferă relaxantă pentru mici excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Oberbuehl este un loc idilic care invită la plimbări lungi pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Oberbuehl oferă copiilor diverse oportunități de joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ],
       "en": [
@@ -68699,6 +90047,87 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.528753,
                         47.241017
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Oberbuehl is a peaceful destination for recreation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Oberbuehl offers space for relaxation and leisure by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Oberbuehl impresses with its natural beauty and invites visitors to stay.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Oberbuehl offers a natural environment for quiet hours.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Oberbuehl is an attractive spot for cooling off and fun in the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Oberbuehl is a picturesque body of water for relaxing outdoor stays.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Oberbuehl offers a relaxing atmosphere for small trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Oberbuehl is an idyllic spot inviting visitors to enjoy long walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Spielplatz Schellenberg playground in Oberbuehl offers children varied opportunities for play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
             }
       ]
 },
@@ -68781,6 +90210,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Ein ruhiger See in Neufeld, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee in Neufeld bietet eine malerische Kulisse für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Ein Badesee in Neufeld, der an warmen Tagen zum Schwimmen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Ein kleiner, friedlicher See in Neufeld für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Dieser See in Neufeld ist ein schönes Ziel für einen entspannten Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "hu": [
@@ -68818,6 +90292,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Egy nyugodt tó Neufeldben, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Neufeldben található Sämtisersee festői környezetet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Egy fürdőtó Neufeldben, amely úszásra és pihenésre hív a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Egy kicsi, békés tó Neufeldben a nyugodt szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Ez a Neufeldben található tó szép úti cél egy pihentető kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ],
@@ -68857,6 +90376,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.502375,
                         47.237453
                   ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Un lac liniștit în Neufeld, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee din Neufeld oferă un cadru pitoresc pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Un lac de agrement în Neufeld, care vă invită la înot și relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Un lac mic și liniștit în Neufeld pentru momente de calm în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Acest lac din Neufeld este o destinație frumoasă pentru o excursie relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
             }
       ],
       "en": [
@@ -68894,6 +90458,51 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.502375,
                         47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A calm lake in Neufeld, ideal for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee in Neufeld offers a picturesque setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A swimming lake in Neufeld that invites you to swim and relax on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A small, peaceful lake in Neufeld for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "This lake in Neufeld is a beautiful destination for a relaxed excursion.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
                   ]
             }
       ]

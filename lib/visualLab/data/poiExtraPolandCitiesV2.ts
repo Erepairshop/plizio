@@ -2916,6 +2916,159 @@ export const polandCitiesV2: POI[] = [
                         19.930889,
                         50.058752
                   ]
+            },
+            {
+                  "name": "Staw Płaszowski",
+                  "text": "Ein ruhiges Gewässer in Krakau, ideal für entspannte Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        19.970476,
+                        50.040671
+                  ]
+            },
+            {
+                  "name": "Zalew Nowohucki",
+                  "text": "Ein bekanntes Reservoir in Krakau, das zur Erholung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.052432,
+                        50.079046
+                  ]
+            },
+            {
+                  "name": "Zalew Zesławicki",
+                  "text": "Ein friedlicher See in Krakau, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        20.03245,
+                        50.108024
+                  ]
+            },
+            {
+                  "name": "Bagry Wielkie",
+                  "text": "Ein beliebtes Gewässer in Krakau für Freizeitaktivitäten und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        19.990765,
+                        50.03287
+                  ]
+            },
+            {
+                  "name": "Axe Mate Club",
+                  "text": "Eine Spielhalle in Krakau mit Unterhaltungsangeboten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.948712,
+                        50.052858
+                  ]
+            },
+            {
+                  "name": "Klopsztanga – trzepak reaktywacja",
+                  "text": "Ein origineller Spielplatz in Krakau für Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        19.943961,
+                        50.043555
+                  ]
+            },
+            {
+                  "name": "Guildmage",
+                  "text": "Ein Ort für Spiele und Unterhaltung in Krakau für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.938708,
+                        50.067019
+                  ]
+            },
+            {
+                  "name": "Muzeum Flipperów",
+                  "text": "Eine Spielhalle in Krakau mit verschiedenen Flippermaschinen für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.939841,
+                        50.052737
+                  ]
+            },
+            {
+                  "name": "Nelon bawialnia ekologiczna",
+                  "text": "Ein ökologischer Spielbereich in Krakau für nachhaltigen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        19.957613,
+                        50.047984
+                  ]
+            },
+            {
+                  "name": "VR Studio",
+                  "text": "Ein Virtual-Reality-Studio in Krakau für modernes Spielevergnügen.",
+                  "category": "family",
+                  "coords": [
+                        19.942577,
+                        50.05343
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Eine Minigolfanlage in Krakau für gemeinsamen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        19.928491,
+                        50.067178
+                  ]
+            },
+            {
+                  "name": "Anikino",
+                  "text": "Ein Indoorspielplatz in Krakau für wetterunabhängigen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        19.982991,
+                        50.073443
+                  ]
+            },
+            {
+                  "name": "Smoczy Skwer",
+                  "text": "Ein thematischer Spielplatz in Krakau, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        19.977573,
+                        50.05534
+                  ]
+            },
+            {
+                  "name": "Dzikie Planty",
+                  "text": "Ein naturnaher Spielplatz in Krakau für Abenteuer im Freien.",
+                  "category": "family",
+                  "coords": [
+                        19.939964,
+                        50.05606
+                  ]
+            },
+            {
+                  "name": "Przystań na plaży",
+                  "text": "Ein Spielplatz am Strand in Krakau für sommerliches Spielvergnügen.",
+                  "category": "family",
+                  "coords": [
+                        19.962887,
+                        50.053635
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Ein Wasserspielplatz in Krakau für sommerlichen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        19.913348,
+                        50.062266
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z rybą",
+                  "text": "Ein origineller Spielplatz in Krakau, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        19.942131,
+                        50.043676
+                  ]
             }
       ],
       "hu": [
@@ -3385,6 +3538,159 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.930889,
                         50.058752
+                  ]
+            },
+            {
+                  "name": "Staw Płaszowski",
+                  "text": "Egy nyugodt állóvíz Krakkóban, ideális a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.970476,
+                        50.040671
+                  ]
+            },
+            {
+                  "name": "Zalew Nowohucki",
+                  "text": "Egy jól ismert víztározó Krakkóban, amely zöldövezeti kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        20.052432,
+                        50.079046
+                  ]
+            },
+            {
+                  "name": "Zalew Zesławicki",
+                  "text": "Egy békés tó Krakkóban, tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        20.03245,
+                        50.108024
+                  ]
+            },
+            {
+                  "name": "Bagry Wielkie",
+                  "text": "Egy népszerű állóvíz Krakkóban szabadidős tevékenységekhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.990765,
+                        50.03287
+                  ]
+            },
+            {
+                  "name": "Axe Mate Club",
+                  "text": "Egy játékterem Krakkóban szórakozási lehetőségekkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        19.948712,
+                        50.052858
+                  ]
+            },
+            {
+                  "name": "Klopsztanga – trzepak reaktywacja",
+                  "text": "Egy eredeti játszótér Krakkóban, ahol a gyerekek felfedezhetnek és játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        19.943961,
+                        50.043555
+                  ]
+            },
+            {
+                  "name": "Guildmage",
+                  "text": "Egy hely a játékra és szórakozásra Krakkóban családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.938708,
+                        50.067019
+                  ]
+            },
+            {
+                  "name": "Flippermúzeum",
+                  "text": "Egy játékterem Krakkóban, különféle flipperekkel a család számára.",
+                  "category": "family",
+                  "coords": [
+                        19.939841,
+                        50.052737
+                  ]
+            },
+            {
+                  "name": "Nelon bawialnia ekologiczna",
+                  "text": "Egy ökológiai játszóhely Krakkóban a fenntartható játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.957613,
+                        50.047984
+                  ]
+            },
+            {
+                  "name": "VR Studio",
+                  "text": "Egy virtuális valóság stúdió Krakkóban a modern játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        19.942577,
+                        50.05343
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Egy minigolfpálya Krakkóban a közös családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.928491,
+                        50.067178
+                  ]
+            },
+            {
+                  "name": "Anikino",
+                  "text": "Egy fedett játszótér Krakkóban az időjárástól független családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.982991,
+                        50.073443
+                  ]
+            },
+            {
+                  "name": "Smoczy Skwer",
+                  "text": "Egy tematikus játszótér Krakkóban, amely serkenti a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        19.977573,
+                        50.05534
+                  ]
+            },
+            {
+                  "name": "Dzikie Planty",
+                  "text": "Egy természetközeli játszótér Krakkóban a szabadtéri kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.939964,
+                        50.05606
+                  ]
+            },
+            {
+                  "name": "Przystań na plaży",
+                  "text": "Egy játszótér a strandon Krakkóban a nyári játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.962887,
+                        50.053635
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Egy vízi játszótér Krakkóban a nyári családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.913348,
+                        50.062266
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z rybą",
+                  "text": "Egy eredeti játszótér Krakkóban, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.942131,
+                        50.043676
                   ]
             }
       ],
@@ -3856,6 +4162,159 @@ export const polandCitiesV2: POI[] = [
                         19.930889,
                         50.058752
                   ]
+            },
+            {
+                  "name": "Staw Płaszowski",
+                  "text": "O apă liniștită în Cracovia, ideală pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        19.970476,
+                        50.040671
+                  ]
+            },
+            {
+                  "name": "Zalew Nowohucki",
+                  "text": "Un rezervor cunoscut în Cracovia, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.052432,
+                        50.079046
+                  ]
+            },
+            {
+                  "name": "Zalew Zesławicki",
+                  "text": "Un lac pașnic în Cracovia, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.03245,
+                        50.108024
+                  ]
+            },
+            {
+                  "name": "Bagry Wielkie",
+                  "text": "O apă populară în Cracovia pentru activități de agrement și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.990765,
+                        50.03287
+                  ]
+            },
+            {
+                  "name": "Axe Mate Club",
+                  "text": "O sală de jocuri în Cracovia cu oferte de divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        19.948712,
+                        50.052858
+                  ]
+            },
+            {
+                  "name": "Klopsztanga – trzepak reaktywacja",
+                  "text": "Un loc de joacă original în Cracovia pentru copii, pentru explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        19.943961,
+                        50.043555
+                  ]
+            },
+            {
+                  "name": "Guildmage",
+                  "text": "Un loc pentru jocuri și divertisment în Cracovia pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.938708,
+                        50.067019
+                  ]
+            },
+            {
+                  "name": "Muzeum Flipperów",
+                  "text": "O sală de jocuri în Cracovia cu diverse aparate pinball pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        19.939841,
+                        50.052737
+                  ]
+            },
+            {
+                  "name": "Nelon bawialnia ekologiczna",
+                  "text": "Un spațiu de joacă ecologic în Cracovia pentru distracție durabilă.",
+                  "category": "family",
+                  "coords": [
+                        19.957613,
+                        50.047984
+                  ]
+            },
+            {
+                  "name": "VR Studio",
+                  "text": "Un studio de realitate virtuală în Cracovia pentru distracție modernă.",
+                  "category": "family",
+                  "coords": [
+                        19.942577,
+                        50.05343
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Un teren de minigolf în Cracovia pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.928491,
+                        50.067178
+                  ]
+            },
+            {
+                  "name": "Anikino",
+                  "text": "Un loc de joacă interior în Cracovia pentru distracție în familie indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        19.982991,
+                        50.073443
+                  ]
+            },
+            {
+                  "name": "Smoczy Skwer",
+                  "text": "Un loc de joacă tematic în Cracovia care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.977573,
+                        50.05534
+                  ]
+            },
+            {
+                  "name": "Dzikie Planty",
+                  "text": "Un loc de joacă aproape de natură în Cracovia pentru aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.939964,
+                        50.05606
+                  ]
+            },
+            {
+                  "name": "Przystań na plaży",
+                  "text": "Un loc de joacă pe plajă în Cracovia pentru distracție estivală.",
+                  "category": "family",
+                  "coords": [
+                        19.962887,
+                        50.053635
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Un loc de joacă cu apă în Cracovia pentru distracție în familie pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        19.913348,
+                        50.062266
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z rybą",
+                  "text": "Un loc de joacă original în Cracovia care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.942131,
+                        50.043676
+                  ]
             }
       ],
       "en": [
@@ -4325,6 +4784,159 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.930889,
                         50.058752
+                  ]
+            },
+            {
+                  "name": "Staw Płaszowski",
+                  "text": "A calm body of water in Krakow, ideal for relaxed walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        19.970476,
+                        50.040671
+                  ]
+            },
+            {
+                  "name": "Zalew Nowohucki Reservoir",
+                  "text": "A well-known reservoir in Krakow that invites green recreation.",
+                  "category": "natural",
+                  "coords": [
+                        20.052432,
+                        50.079046
+                  ]
+            },
+            {
+                  "name": "Zalew Zesławicki",
+                  "text": "A peaceful lake in Krakow, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.03245,
+                        50.108024
+                  ]
+            },
+            {
+                  "name": "Bagry Wielkie",
+                  "text": "A popular body of water in Krakow for leisure activities and walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.990765,
+                        50.03287
+                  ]
+            },
+            {
+                  "name": "Axe Mate Club",
+                  "text": "An amusement arcade in Krakow with entertainment options for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        19.948712,
+                        50.052858
+                  ]
+            },
+            {
+                  "name": "Klopsztanga – trzepak reaktywacja",
+                  "text": "An original playground in Krakow for children to discover and play.",
+                  "category": "family",
+                  "coords": [
+                        19.943961,
+                        50.043555
+                  ]
+            },
+            {
+                  "name": "Guildmage",
+                  "text": "A place for games and entertainment in Krakow for families.",
+                  "category": "family",
+                  "coords": [
+                        19.938708,
+                        50.067019
+                  ]
+            },
+            {
+                  "name": "Krakow Pinball Museum",
+                  "text": "An amusement arcade in Krakow with various pinball machines for the family.",
+                  "category": "family",
+                  "coords": [
+                        19.939841,
+                        50.052737
+                  ]
+            },
+            {
+                  "name": "Nelon bawialnia ekologiczna",
+                  "text": "An ecological play area in Krakow for sustainable play fun.",
+                  "category": "family",
+                  "coords": [
+                        19.957613,
+                        50.047984
+                  ]
+            },
+            {
+                  "name": "VR Studio",
+                  "text": "A virtual reality studio in Krakow for modern gaming fun.",
+                  "category": "family",
+                  "coords": [
+                        19.942577,
+                        50.05343
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "A miniature golf course in Krakow for family fun together.",
+                  "category": "family",
+                  "coords": [
+                        19.928491,
+                        50.067178
+                  ]
+            },
+            {
+                  "name": "Anikino",
+                  "text": "An indoor playground in Krakow for family fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        19.982991,
+                        50.073443
+                  ]
+            },
+            {
+                  "name": "Smoczy Skwer",
+                  "text": "A themed playground in Krakow that stimulates children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        19.977573,
+                        50.05534
+                  ]
+            },
+            {
+                  "name": "Dzikie Planty",
+                  "text": "A nature-oriented playground in Krakow for outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        19.939964,
+                        50.05606
+                  ]
+            },
+            {
+                  "name": "Przystań na plaży",
+                  "text": "A playground on the beach in Krakow for summer play fun.",
+                  "category": "family",
+                  "coords": [
+                        19.962887,
+                        50.053635
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "A water playground in Krakow for summer family fun.",
+                  "category": "family",
+                  "coords": [
+                        19.913348,
+                        50.062266
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z rybą",
+                  "text": "An original playground in Krakow that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        19.942131,
+                        50.043676
                   ]
             }
       ]
@@ -6687,6 +7299,123 @@ export const polandCitiesV2: POI[] = [
                         17.032117,
                         51.111714
                   ]
+            },
+            {
+                  "name": "osadnik",
+                  "text": "Der Osadnik in Breslau ist ein ruhiges Gewässer, das eine friedliche Atmosphäre für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.058715,
+                        51.101728
+                  ]
+            },
+            {
+                  "name": "Piotruś",
+                  "text": "Piotruś in Breslau ist ein bunter Spielplatz, der Kindern eine fröhliche Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.000498,
+                        51.118262
+                  ]
+            },
+            {
+                  "name": "Arcade Bee",
+                  "text": "Arcade Bee in Breslau bietet eine große Auswahl an Spielen und Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.032628,
+                        51.110753
+                  ]
+            },
+            {
+                  "name": "Vrhalla",
+                  "text": "Vrhalla in Breslau ist eine moderne Spielhalle mit spannenden Aktivitäten für Gaming-Fans.",
+                  "category": "family",
+                  "coords": [
+                        17.011999,
+                        51.105175
+                  ]
+            },
+            {
+                  "name": "Fox Games",
+                  "text": "Fox Games in Breslau bietet abwechslungsreiche Unterhaltung und Spielspaß für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        17.059128,
+                        51.11193
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Breslau ist ein lebendiges Freizeitzentrum mit vielen interaktiven Spielen.",
+                  "category": "family",
+                  "coords": [
+                        17.034672,
+                        51.09605
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki in Breslau ist ein vielseitiger Unterhaltungsort mit Angeboten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        17.040031,
+                        51.108103
+                  ]
+            },
+            {
+                  "name": "StarVR",
+                  "text": "StarVR in Breslau ermöglicht spannende Virtual-Reality-Erlebnisse für technikbegeisterte Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.034659,
+                        51.100995
+                  ]
+            },
+            {
+                  "name": "Sky Games",
+                  "text": "Sky Games in Breslau bietet eine tolle Auswahl an Videospielen und Unterhaltung im Stadtzentrum.",
+                  "category": "family",
+                  "coords": [
+                        17.019853,
+                        51.094399
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Miasteczko Ruchu Drogowego in Breslau ist ein lehrreicher Spielplatz, auf dem Kinder spielerisch Verkehrsregeln lernen können.",
+                  "category": "family",
+                  "coords": [
+                        17.038187,
+                        51.087374
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Karuzela in Breslau ist ein charmanter Spielplatz, der traditionellen Spielspaß für kleine Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.035302,
+                        51.104734
+                  ]
+            },
+            {
+                  "name": "Parkour Park",
+                  "text": "Der Parkour Park in Breslau bietet Jugendlichen und sportlichen Familien eine aktive Umgebung für Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        17.03051,
+                        51.091548
+                  ]
+            },
+            {
+                  "name": "Podwórko Talentów",
+                  "text": "Podwórko Talentów in Breslau ist ein kreativer Spielplatz, der Kinder dazu anregt, ihre Fähigkeiten spielerisch zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        17.025164,
+                        51.103353
+                  ]
             }
       ],
       "hu": [
@@ -7147,6 +7876,123 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.032117,
                         51.111714
+                  ]
+            },
+            {
+                  "name": "osadnik",
+                  "text": "A wrocławi Osadnik egy csendes vízfelület, amely békés légkört biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.058715,
+                        51.101728
+                  ]
+            },
+            {
+                  "name": "Piotruś",
+                  "text": "A wrocławi Piotruś egy színes játszótér, amely vidám környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.000498,
+                        51.118262
+                  ]
+            },
+            {
+                  "name": "Arcade Bee",
+                  "text": "A wrocławi Arcade Bee játékok széles választékát és szórakozást kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        17.032628,
+                        51.110753
+                  ]
+            },
+            {
+                  "name": "Vrhalla",
+                  "text": "A wrocławi Vrhalla egy modern játékterem izgalmas tevékenységekkel a játékok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        17.011999,
+                        51.105175
+                  ]
+            },
+            {
+                  "name": "Fox Games",
+                  "text": "A wrocławi Fox Games változatos szórakozást és játékélményt kínál gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        17.059128,
+                        51.11193
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "A wrocławi Gamestate egy élettel teli szabadidőközpont számos interaktív játékkal.",
+                  "category": "family",
+                  "coords": [
+                        17.034672,
+                        51.09605
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "A wrocławi Strefa Rozrywki egy sokoldalú szórakoztatóhely, amely minden korosztály számára kínál programokat.",
+                  "category": "family",
+                  "coords": [
+                        17.040031,
+                        51.108103
+                  ]
+            },
+            {
+                  "name": "StarVR",
+                  "text": "A wrocławi StarVR izgalmas virtuális valóság élményeket kínál a technológia iránt érdeklődő családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.034659,
+                        51.100995
+                  ]
+            },
+            {
+                  "name": "Sky Games",
+                  "text": "A wrocławi Sky Games videójátékok és szórakozási lehetőségek remek választékát kínálja a városközpontban.",
+                  "category": "family",
+                  "coords": [
+                        17.019853,
+                        51.094399
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "A wrocławi Miasteczko Ruchu Drogowego egy oktató játszótér, ahol a gyerekek játékosan tanulhatják meg a közlekedési szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        17.038187,
+                        51.087374
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "A wrocławi Karuzela egy bájos játszótér, amely hagyományos játékélményt kínál a kisgyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.035302,
+                        51.104734
+                  ]
+            },
+            {
+                  "name": "Parkour Park",
+                  "text": "A wrocławi Parkour Park aktív környezetet biztosít a szabadtéri mozgáshoz a fiatalok és a sportos családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.03051,
+                        51.091548
+                  ]
+            },
+            {
+                  "name": "Podwórko Talentów",
+                  "text": "A wrocławi Podwórko Talentów egy kreatív játszótér, amely arra ösztönzi a gyerekeket, hogy játékosan fedezzék fel képességeiket.",
+                  "category": "family",
+                  "coords": [
+                        17.025164,
+                        51.103353
                   ]
             }
       ],
@@ -7609,6 +8455,123 @@ export const polandCitiesV2: POI[] = [
                         17.032117,
                         51.111714
                   ]
+            },
+            {
+                  "name": "osadnik",
+                  "text": "Osadnik din Wrocław este o apă liniștită care oferă o atmosferă pașnică pentru plimbăreți.",
+                  "category": "natural",
+                  "coords": [
+                        17.058715,
+                        51.101728
+                  ]
+            },
+            {
+                  "name": "Piotruś",
+                  "text": "Piotruś din Wrocław este un loc de joacă colorat, care oferă copiilor un mediu vesel pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.000498,
+                        51.118262
+                  ]
+            },
+            {
+                  "name": "Arcade Bee",
+                  "text": "Arcade Bee din Wrocław oferă o gamă largă de jocuri și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.032628,
+                        51.110753
+                  ]
+            },
+            {
+                  "name": "Vrhalla",
+                  "text": "Vrhalla din Wrocław este o sală de jocuri modernă, cu activități incitante pentru fanii jocurilor.",
+                  "category": "family",
+                  "coords": [
+                        17.011999,
+                        51.105175
+                  ]
+            },
+            {
+                  "name": "Fox Games",
+                  "text": "Fox Games din Wrocław oferă divertisment variat și distracție pentru copii și adulți deopotrivă.",
+                  "category": "family",
+                  "coords": [
+                        17.059128,
+                        51.11193
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate din Wrocław este un centru de recreere plin de viață, cu multe jocuri interactive.",
+                  "category": "family",
+                  "coords": [
+                        17.034672,
+                        51.09605
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki din Wrocław este un loc de divertisment versatil, cu oferte pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        17.040031,
+                        51.108103
+                  ]
+            },
+            {
+                  "name": "StarVR",
+                  "text": "StarVR din Wrocław permite experiențe captivante de realitate virtuală pentru familiile pasionate de tehnologie.",
+                  "category": "family",
+                  "coords": [
+                        17.034659,
+                        51.100995
+                  ]
+            },
+            {
+                  "name": "Sky Games",
+                  "text": "Sky Games din Wrocław oferă o selecție excelentă de jocuri video și divertisment în centrul orașului.",
+                  "category": "family",
+                  "coords": [
+                        17.019853,
+                        51.094399
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Miasteczko Ruchu Drogowego din Wrocław este un loc de joacă educativ unde copiii pot învăța regulile de circulație prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.038187,
+                        51.087374
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Karuzela din Wrocław este un loc de joacă fermecător, care oferă distracție tradițională pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        17.035302,
+                        51.104734
+                  ]
+            },
+            {
+                  "name": "Parkour Park",
+                  "text": "Parkour Park din Wrocław oferă tinerilor și familiilor sportive un mediu activ pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.03051,
+                        51.091548
+                  ]
+            },
+            {
+                  "name": "Podwórko Talentów",
+                  "text": "Podwórko Talentów din Wrocław este un loc de joacă creativ care încurajează copiii să își descopere abilitățile prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.025164,
+                        51.103353
+                  ]
             }
       ],
       "en": [
@@ -8070,6 +9033,123 @@ export const polandCitiesV2: POI[] = [
                         17.032117,
                         51.111714
                   ]
+            },
+            {
+                  "name": "osadnik",
+                  "text": "osadnik in Wroclaw is a quiet body of water offering a peaceful atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.058715,
+                        51.101728
+                  ]
+            },
+            {
+                  "name": "Piotruś",
+                  "text": "Piotruś in Wroclaw is a colorful playground offering children a cheerful environment to play.",
+                  "category": "family",
+                  "coords": [
+                        17.000498,
+                        51.118262
+                  ]
+            },
+            {
+                  "name": "Arcade Bee",
+                  "text": "Arcade Bee in Wroclaw offers a wide selection of games and fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.032628,
+                        51.110753
+                  ]
+            },
+            {
+                  "name": "Vrhalla",
+                  "text": "Vrhalla in Wroclaw is a modern amusement arcade with exciting activities for gaming fans.",
+                  "category": "family",
+                  "coords": [
+                        17.011999,
+                        51.105175
+                  ]
+            },
+            {
+                  "name": "Fox Games",
+                  "text": "Fox Games in Wroclaw offers diverse entertainment and gaming fun for children and adults alike.",
+                  "category": "family",
+                  "coords": [
+                        17.059128,
+                        51.11193
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Wroclaw is a vibrant leisure center with many interactive games.",
+                  "category": "family",
+                  "coords": [
+                        17.034672,
+                        51.09605
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki in Wroclaw is a versatile entertainment venue with options for all ages.",
+                  "category": "family",
+                  "coords": [
+                        17.040031,
+                        51.108103
+                  ]
+            },
+            {
+                  "name": "StarVR",
+                  "text": "StarVR in Wroclaw enables exciting virtual reality experiences for tech-savvy families.",
+                  "category": "family",
+                  "coords": [
+                        17.034659,
+                        51.100995
+                  ]
+            },
+            {
+                  "name": "Sky Games",
+                  "text": "Sky Games in Wroclaw offers a great selection of video games and entertainment in the city center.",
+                  "category": "family",
+                  "coords": [
+                        17.019853,
+                        51.094399
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Miasteczko Ruchu Drogowego in Wroclaw is an educational playground where children can learn traffic rules through play.",
+                  "category": "family",
+                  "coords": [
+                        17.038187,
+                        51.087374
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Karuzela in Wroclaw is a charming playground offering traditional play fun for young children.",
+                  "category": "family",
+                  "coords": [
+                        17.035302,
+                        51.104734
+                  ]
+            },
+            {
+                  "name": "Parkour Park",
+                  "text": "Parkour Park in Wroclaw offers teenagers and active families an environment for outdoor exercise.",
+                  "category": "family",
+                  "coords": [
+                        17.03051,
+                        51.091548
+                  ]
+            },
+            {
+                  "name": "Podwórko Talentów",
+                  "text": "Podwórko Talentów in Wroclaw is a creative playground encouraging children to discover their talents through play.",
+                  "category": "family",
+                  "coords": [
+                        17.025164,
+                        51.103353
+                  ]
             }
       ]
 },
@@ -8127,6 +9207,186 @@ export const polandCitiesV2: POI[] = [
                         16.93821,
                         52.391153
                   ]
+            },
+            {
+                  "name": "Jezioro Rusałka",
+                  "text": "Ein malerischer See in Posen, ideal für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        16.877988,
+                        52.426743
+                  ]
+            },
+            {
+                  "name": "Staw Kachlarski",
+                  "text": "Ein ruhiger Teich in Posen, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.856752,
+                        52.371388
+                  ]
+            },
+            {
+                  "name": "Staw Stara Baba",
+                  "text": "Ein kleiner See in Posen, der zur Entspannung im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.850941,
+                        52.375465
+                  ]
+            },
+            {
+                  "name": "Staw Baczkowski",
+                  "text": "Ein naturbelassenes Gewässer in Posen, perfekt für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        16.856261,
+                        52.375897
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Ein künstlich angelegter See in Posen, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.872625,
+                        52.439402
+                  ]
+            },
+            {
+                  "name": "Studnia Bamberki",
+                  "text": "Ein historisches Denkmal in Posen mit einer Brunnenanlage.",
+                  "category": "natural",
+                  "coords": [
+                        16.933593,
+                        52.408509
+                  ]
+            },
+            {
+                  "name": "Maltasee",
+                  "text": "Ein großer und beliebter See in Posen für Freizeit und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        16.971467,
+                        52.403869
+                  ]
+            },
+            {
+                  "name": "Staw Karpętaj",
+                  "text": "Ein kleiner Teich in Posen, ideal für eine ruhige Beobachtung der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.855533,
+                        52.369725
+                  ]
+            },
+            {
+                  "name": "Planet VR",
+                  "text": "Ein Virtual-Reality-Zentrum in Posen für technisches Spielevergnügen.",
+                  "category": "family",
+                  "coords": [
+                        16.942186,
+                        52.408675
+                  ]
+            },
+            {
+                  "name": "Game World",
+                  "text": "Eine moderne Spielhalle in Posen mit Unterhaltung für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.92938,
+                        52.402641
+                  ]
+            },
+            {
+                  "name": "Fabryka Śmiechu Michałek",
+                  "text": "Ein Indoorspielplatz in Posen für aktiven Kinderspaß bei jedem Wetter.",
+                  "category": "family",
+                  "coords": [
+                        16.966797,
+                        52.41466
+                  ]
+            },
+            {
+                  "name": "CyberMachina",
+                  "text": "Ein Treffpunkt für Spieleliebhaber in Posen mit Arcade-Unterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        16.922055,
+                        52.40876
+                  ]
+            },
+            {
+                  "name": "Gear UP!",
+                  "text": "Eine Spielhalle in Posen mit verschiedenen Simulatoren für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.930367,
+                        52.402492
+                  ]
+            },
+            {
+                  "name": "Sim-Center",
+                  "text": "Ein Zentrum für Flug- und Fahrsimulatoren in Posen für Technikfans.",
+                  "category": "family",
+                  "coords": [
+                        16.939619,
+                        52.412909
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Ein moderner Indoorspielplatz in Posen für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.954928,
+                        52.398157
+                  ]
+            },
+            {
+                  "name": "Gierky Activity Bar",
+                  "text": "Eine Bar in Posen mit verschiedenen Spielautomaten für Erwachsene und Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.920698,
+                        52.407811
+                  ]
+            },
+            {
+                  "name": "Pixel XL",
+                  "text": "Eine interaktive Spielewelt in Posen für digitale Unterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        16.92418,
+                        52.406818
+                  ]
+            },
+            {
+                  "name": "Wartofrajda",
+                  "text": "Ein attraktiver Spielplatz in Posen, ideal für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        16.941151,
+                        52.407842
+                  ]
+            },
+            {
+                  "name": "Park Adama Wodziczki",
+                  "text": "Ein schöner Spielplatz in einer Parkanlage in Posen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.912949,
+                        52.419786
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Park Sołacki",
+                  "text": "Ein beliebter Spielplatz in einem der Parks in Posen.",
+                  "category": "family",
+                  "coords": [
+                        16.899821,
+                        52.422853
+                  ]
             }
       ],
       "hu": [
@@ -8137,6 +9397,186 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.93821,
                         52.391153
+                  ]
+            },
+            {
+                  "name": "Jezioro Rusałka",
+                  "text": "Egy festői tó Poznańban, ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.877988,
+                        52.426743
+                  ]
+            },
+            {
+                  "name": "Staw Kachlarski",
+                  "text": "Egy nyugodt tó Poznańban, szép természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        16.856752,
+                        52.371388
+                  ]
+            },
+            {
+                  "name": "Staw Stara Baba",
+                  "text": "Egy kis tó Poznańban, amely szabadtéri kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        16.850941,
+                        52.375465
+                  ]
+            },
+            {
+                  "name": "Staw Baczkowski",
+                  "text": "Egy természetközeli állóvíz Poznańban, tökéletes egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.856261,
+                        52.375897
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Egy mesterséges tó Poznańban, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        16.872625,
+                        52.439402
+                  ]
+            },
+            {
+                  "name": "Studnia Bamberki",
+                  "text": "Egy történelmi emlékmű Poznańban egy kúttal.",
+                  "category": "natural",
+                  "coords": [
+                        16.933593,
+                        52.408509
+                  ]
+            },
+            {
+                  "name": "Jezioro Maltańskie",
+                  "text": "Egy nagy és népszerű tó Poznańban szabadidőhöz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.971467,
+                        52.403869
+                  ]
+            },
+            {
+                  "name": "Staw Karpętaj",
+                  "text": "Egy kis tó Poznańban, ideális a természet nyugodt megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.855533,
+                        52.369725
+                  ]
+            },
+            {
+                  "name": "Planet VR",
+                  "text": "Egy virtuális valóság központ Poznańban a technikai játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        16.942186,
+                        52.408675
+                  ]
+            },
+            {
+                  "name": "Game World",
+                  "text": "Egy modern játékterem Poznańban szórakozással a család számára.",
+                  "category": "family",
+                  "coords": [
+                        16.92938,
+                        52.402641
+                  ]
+            },
+            {
+                  "name": "Fabryka Śmiechu Michałek",
+                  "text": "Egy fedett játszótér Poznańban az aktív gyermekszórakozáshoz minden időben.",
+                  "category": "family",
+                  "coords": [
+                        16.966797,
+                        52.41466
+                  ]
+            },
+            {
+                  "name": "CyberMachina",
+                  "text": "Egy találkozóhely a játékok kedvelőinek Poznańban arcade szórakozással.",
+                  "category": "family",
+                  "coords": [
+                        16.922055,
+                        52.40876
+                  ]
+            },
+            {
+                  "name": "Gear UP!",
+                  "text": "Egy játékterem Poznańban, különféle szimulátorokkal a család számára.",
+                  "category": "family",
+                  "coords": [
+                        16.930367,
+                        52.402492
+                  ]
+            },
+            {
+                  "name": "Sim-Center",
+                  "text": "Egy repülő- és autószimulátor központ Poznańban a technika kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        16.939619,
+                        52.412909
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Egy modern fedett játszótér Poznańban gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        16.954928,
+                        52.398157
+                  ]
+            },
+            {
+                  "name": "Gierky Activity Bar",
+                  "text": "Egy bár Poznańban különféle játékgépekkel felnőtteknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.920698,
+                        52.407811
+                  ]
+            },
+            {
+                  "name": "Pixel XL",
+                  "text": "Egy interaktív játékvilág Poznańban a digitális szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        16.92418,
+                        52.406818
+                  ]
+            },
+            {
+                  "name": "Wartofrajda",
+                  "text": "Egy vonzó játszótér Poznańban, ideális a gyerekeknek a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.941151,
+                        52.407842
+                  ]
+            },
+            {
+                  "name": "Park Adama Wodziczki",
+                  "text": "Egy szép játszótér egy poznańi parkban a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.912949,
+                        52.419786
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Park Sołacki",
+                  "text": "Egy népszerű játszótér Poznań egyik parkjában.",
+                  "category": "family",
+                  "coords": [
+                        16.899821,
+                        52.422853
                   ]
             }
       ],
@@ -8149,6 +9589,186 @@ export const polandCitiesV2: POI[] = [
                         16.93821,
                         52.391153
                   ]
+            },
+            {
+                  "name": "Jezioro Rusałka",
+                  "text": "Un lac pitoresc în Poznań, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.877988,
+                        52.426743
+                  ]
+            },
+            {
+                  "name": "Staw Kachlarski",
+                  "text": "Un iaz liniștit în Poznań, înconjurat de natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        16.856752,
+                        52.371388
+                  ]
+            },
+            {
+                  "name": "Staw Stara Baba",
+                  "text": "Un lac mic în Poznań care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.850941,
+                        52.375465
+                  ]
+            },
+            {
+                  "name": "Staw Baczkowski",
+                  "text": "O apă naturală în Poznań, perfectă pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        16.856261,
+                        52.375897
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Un lac artificial în Poznań care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.872625,
+                        52.439402
+                  ]
+            },
+            {
+                  "name": "Studnia Bamberki",
+                  "text": "Un monument istoric în Poznań cu o fântână.",
+                  "category": "natural",
+                  "coords": [
+                        16.933593,
+                        52.408509
+                  ]
+            },
+            {
+                  "name": "Jezioro Maltańskie",
+                  "text": "Un lac mare și popular în Poznań pentru timp liber și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        16.971467,
+                        52.403869
+                  ]
+            },
+            {
+                  "name": "Staw Karpętaj",
+                  "text": "Un iaz mic în Poznań, ideal pentru observarea liniștită a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.855533,
+                        52.369725
+                  ]
+            },
+            {
+                  "name": "Planet VR",
+                  "text": "Un centru de realitate virtuală în Poznań pentru distracție tehnică.",
+                  "category": "family",
+                  "coords": [
+                        16.942186,
+                        52.408675
+                  ]
+            },
+            {
+                  "name": "Game World",
+                  "text": "O sală de jocuri modernă în Poznań cu divertisment pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        16.92938,
+                        52.402641
+                  ]
+            },
+            {
+                  "name": "Fabryka Śmiechu Michałek",
+                  "text": "Un loc de joacă interior în Poznań pentru distracția activă a copiilor pe orice vreme.",
+                  "category": "family",
+                  "coords": [
+                        16.966797,
+                        52.41466
+                  ]
+            },
+            {
+                  "name": "CyberMachina",
+                  "text": "Un loc de întâlnire pentru iubitorii de jocuri în Poznań cu divertisment arcade.",
+                  "category": "family",
+                  "coords": [
+                        16.922055,
+                        52.40876
+                  ]
+            },
+            {
+                  "name": "Gear UP!",
+                  "text": "O sală de jocuri în Poznań cu diverse simulatoare pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        16.930367,
+                        52.402492
+                  ]
+            },
+            {
+                  "name": "Sim-Center",
+                  "text": "Un centru de simulatoare de zbor și auto în Poznań pentru fanii tehnologiei.",
+                  "category": "family",
+                  "coords": [
+                        16.939619,
+                        52.412909
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Un loc de joacă interior modern în Poznań pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        16.954928,
+                        52.398157
+                  ]
+            },
+            {
+                  "name": "Gierky Activity Bar",
+                  "text": "Un bar în Poznań cu diverse aparate de joc pentru adulți și familii.",
+                  "category": "family",
+                  "coords": [
+                        16.920698,
+                        52.407811
+                  ]
+            },
+            {
+                  "name": "Pixel XL",
+                  "text": "O lume interactivă de jocuri în Poznań pentru divertisment digital.",
+                  "category": "family",
+                  "coords": [
+                        16.92418,
+                        52.406818
+                  ]
+            },
+            {
+                  "name": "Wartofrajda",
+                  "text": "Un loc de joacă atractiv în Poznań, ideal pentru copii să se zbenguie.",
+                  "category": "family",
+                  "coords": [
+                        16.941151,
+                        52.407842
+                  ]
+            },
+            {
+                  "name": "Park Adama Wodziczki",
+                  "text": "Un loc de joacă frumos într-un parc din Poznań pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.912949,
+                        52.419786
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Park Sołacki",
+                  "text": "Un loc de joacă popular într-unul dintre parcurile din Poznań.",
+                  "category": "family",
+                  "coords": [
+                        16.899821,
+                        52.422853
+                  ]
             }
       ],
       "en": [
@@ -8159,6 +9779,186 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.93821,
                         52.391153
+                  ]
+            },
+            {
+                  "name": "Jezioro Rusałka",
+                  "text": "A picturesque lake in Poznan, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.877988,
+                        52.426743
+                  ]
+            },
+            {
+                  "name": "Staw Kachlarski",
+                  "text": "A calm pond in Poznan surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.856752,
+                        52.371388
+                  ]
+            },
+            {
+                  "name": "Staw Stara Baba",
+                  "text": "A small lake in Poznan that invites outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.850941,
+                        52.375465
+                  ]
+            },
+            {
+                  "name": "Staw Baczkowski",
+                  "text": "A natural body of water in Poznan, perfect for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        16.856261,
+                        52.375897
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "A man-made lake in Poznan that invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        16.872625,
+                        52.439402
+                  ]
+            },
+            {
+                  "name": "Studnia Bamberki",
+                  "text": "A historical monument in Poznan featuring a fountain.",
+                  "category": "natural",
+                  "coords": [
+                        16.933593,
+                        52.408509
+                  ]
+            },
+            {
+                  "name": "Lake Malta",
+                  "text": "A large and popular lake in Poznan for leisure and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.971467,
+                        52.403869
+                  ]
+            },
+            {
+                  "name": "Staw Karpętaj",
+                  "text": "A small pond in Poznan, ideal for quiet nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        16.855533,
+                        52.369725
+                  ]
+            },
+            {
+                  "name": "Planet VR",
+                  "text": "A virtual reality center in Poznan for technical gaming fun.",
+                  "category": "family",
+                  "coords": [
+                        16.942186,
+                        52.408675
+                  ]
+            },
+            {
+                  "name": "Game World",
+                  "text": "A modern amusement arcade in Poznan with family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        16.92938,
+                        52.402641
+                  ]
+            },
+            {
+                  "name": "Fabryka Śmiechu Michałek",
+                  "text": "An indoor playground in Poznan for active child fun in any weather.",
+                  "category": "family",
+                  "coords": [
+                        16.966797,
+                        52.41466
+                  ]
+            },
+            {
+                  "name": "CyberMachina",
+                  "text": "A meeting point for game lovers in Poznan with arcade entertainment.",
+                  "category": "family",
+                  "coords": [
+                        16.922055,
+                        52.40876
+                  ]
+            },
+            {
+                  "name": "Gear UP!",
+                  "text": "An amusement arcade in Poznan with various simulators for the family.",
+                  "category": "family",
+                  "coords": [
+                        16.930367,
+                        52.402492
+                  ]
+            },
+            {
+                  "name": "Sim-Center",
+                  "text": "A center for flight and driving simulators in Poznan for technology fans.",
+                  "category": "family",
+                  "coords": [
+                        16.939619,
+                        52.412909
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "A modern indoor playground in Poznan for families with children.",
+                  "category": "family",
+                  "coords": [
+                        16.954928,
+                        52.398157
+                  ]
+            },
+            {
+                  "name": "Gierky Activity Bar",
+                  "text": "A bar in Poznan with various gaming machines for adults and families.",
+                  "category": "family",
+                  "coords": [
+                        16.920698,
+                        52.407811
+                  ]
+            },
+            {
+                  "name": "Pixel XL",
+                  "text": "An interactive gaming world in Poznan for digital entertainment.",
+                  "category": "family",
+                  "coords": [
+                        16.92418,
+                        52.406818
+                  ]
+            },
+            {
+                  "name": "Wartofrajda",
+                  "text": "An attractive playground in Poznan, ideal for children to run around.",
+                  "category": "family",
+                  "coords": [
+                        16.941151,
+                        52.407842
+                  ]
+            },
+            {
+                  "name": "Park Adama Wodziczki",
+                  "text": "A nice playground in a park in Poznan for family fun.",
+                  "category": "family",
+                  "coords": [
+                        16.912949,
+                        52.419786
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Park Sołacki",
+                  "text": "A popular playground in one of the parks in Poznan.",
+                  "category": "family",
+                  "coords": [
+                        16.899821,
+                        52.422853
                   ]
             }
       ]
@@ -11637,6 +13437,60 @@ export const polandCitiesV2: POI[] = [
                         18.028876,
                         53.162987
                   ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Ein künstliches Reservoir in Bydgoszcz, ideal für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Ein familienfreundlicher Spielplatz in Bydgoszcz, der Kindern Raum zum Spielen und Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Ein musikalischer Spielplatz in Bydgoszcz, der Kinder zum kreativen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Ein lokaler Spielplatz in Bydgoszcz mit verschiedenen Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Ein öffentlicher Spielplatz im Stadtteil Okole in Bydgoszcz für Freizeitaktivitäten mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Ein Schulspielplatz in Bydgoszcz, der ideal für eine kurze Spielpause im Freien ist.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
+                  ]
             }
       ],
       "hu": [
@@ -11647,6 +13501,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.028876,
                         53.162987
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Egy mesterséges víztározó Bydgoszczban, ideális a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Családbarát játszótér Bydgoszcz területén, amely kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Zenei játszótér Bydgoszczban, amely kreatív játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Helyi játszótér Bydgoszczban, különféle játéklehetőségekkel családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Nyilvános játszótér Bydgoszcz Okole negyedében, gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Iskolai játszótér Bydgoszczban, amely ideális egy rövid szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
                   ]
             }
       ],
@@ -11659,6 +13567,60 @@ export const polandCitiesV2: POI[] = [
                         18.028876,
                         53.162987
                   ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Un rezervor artificial în Bydgoszcz, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "Un loc de joacă pentru familii în Bydgoszcz, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "Un loc de joacă muzical în Bydgoszcz, care invită copiii la joacă creativă.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "Un loc de joacă local în Bydgoszcz, cu diverse facilități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "Un loc de joacă public în cartierul Okole din Bydgoszcz, pentru activități cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Un loc de joacă școlar în Bydgoszcz, ideal pentru o scurtă pauză de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
+                  ]
             }
       ],
       "en": [
@@ -11669,6 +13631,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.028876,
                         53.162987
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "A man-made reservoir in Bydgoszcz, ideal for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.066399,
+                        53.083902
+                  ]
+            },
+            {
+                  "name": "Motylek",
+                  "text": "A family-friendly playground in Bydgoszcz offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.96982,
+                        53.132028
+                  ]
+            },
+            {
+                  "name": "Muzyczny Plac Zabaw",
+                  "text": "A musical playground in Bydgoszcz that invites children to play creatively.",
+                  "category": "family",
+                  "coords": [
+                        18.011532,
+                        53.130354
+                  ]
+            },
+            {
+                  "name": "Gackowskiego 1",
+                  "text": "A local playground in Bydgoszcz with various play facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        17.990275,
+                        53.110972
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Okole\"",
+                  "text": "A public playground in the Okole district of Bydgoszcz for activities with children.",
+                  "category": "family",
+                  "coords": [
+                        17.987585,
+                        53.130272
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "A school playground in Bydgoszcz, ideal for a short outdoor play break.",
+                  "category": "family",
+                  "coords": [
+                        17.971933,
+                        53.115923
                   ]
             }
       ]
@@ -12123,6 +14139,87 @@ export const polandCitiesV2: POI[] = [
                         22.567121,
                         51.24389
                   ]
+            },
+            {
+                  "name": "zbiornik retencyjny",
+                  "text": "Der zbiornik retencyjny in Lublin ist ein See, der zur Erholung in der Stadt einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.568327,
+                        51.228783
+                  ]
+            },
+            {
+                  "name": "zb. retencyjny",
+                  "text": "Der zb. retencyjny in Lublin bietet eine ruhige Wasserfläche in städtischer Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        22.565538,
+                        51.251618
+                  ]
+            },
+            {
+                  "name": "Zalew Zemborzycki",
+                  "text": "Der Zalew Zemborzycki ist ein großer See in Lublin, beliebt für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        22.522948,
+                        51.178889
+                  ]
+            },
+            {
+                  "name": "Mania Skakania - Park Trampolinowy",
+                  "text": "Mania Skakania in Lublin ist ein Trampolinpark, der Spaß für Kinder und Jugendliche bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.555166,
+                        51.227339
+                  ]
+            },
+            {
+                  "name": "Leopark",
+                  "text": "Leopark in Lublin ist ein Indoor-Spielplatz, der ideal für Familienausflüge geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        22.577081,
+                        51.249612
+                  ]
+            },
+            {
+                  "name": "Rezerwat Dzikich Dzieci",
+                  "text": "Rezerwat Dzikich Dzieci in Lublin bietet Kindern einen kreativen Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.564964,
+                        51.241318
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Z Rakietą\" LSM",
+                  "text": "Plac Zabaw 'Z Rakietą' LSM in Lublin ist ein thematischer Spielplatz für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        22.526204,
+                        51.24272
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"pod dębem\"",
+                  "text": "Der Plac zabaw 'pod dębem' in Lublin lädt Kinder zum Spielen im Schatten der Bäume ein.",
+                  "category": "family",
+                  "coords": [
+                        22.549037,
+                        51.24097
+                  ]
+            },
+            {
+                  "name": "Pod dzikim winem",
+                  "text": "Pod dzikim winem ist ein freundlicher Spielplatz für Kinder in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.574093,
+                        51.258262
+                  ]
             }
       ],
       "hu": [
@@ -12529,6 +14626,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.567121,
                         51.24389
+                  ]
+            },
+            {
+                  "name": "zbiornik retencyjny",
+                  "text": "A zbiornik retencyjny Lublinban egy tó, amely városi kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.568327,
+                        51.228783
+                  ]
+            },
+            {
+                  "name": "zb. retencyjny",
+                  "text": "A zb. retencyjny Lublinban nyugodt vízfelületet kínál városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.565538,
+                        51.251618
+                  ]
+            },
+            {
+                  "name": "Zalew Zemborzycki",
+                  "text": "A Zalew Zemborzycki egy nagy tó Lublinban, amely népszerű a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.522948,
+                        51.178889
+                  ]
+            },
+            {
+                  "name": "Mania Skakania - Park Trampolinowy",
+                  "text": "A Mania Skakania Lublinban egy trambulinpark, amely szórakozást nyújt gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        22.555166,
+                        51.227339
+                  ]
+            },
+            {
+                  "name": "Leopark",
+                  "text": "A Leopark Lublinban egy beltéri játszótér, amely ideális családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.577081,
+                        51.249612
+                  ]
+            },
+            {
+                  "name": "Rezerwat Dzikich Dzieci",
+                  "text": "A Rezerwat Dzikich Dzieci Lublinban kreatív teret kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.564964,
+                        51.241318
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Z Rakietą\" LSM",
+                  "text": "A Plac Zabaw 'Z Rakietą' LSM Lublinban egy tematikus játszótér a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        22.526204,
+                        51.24272
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"pod dębem\"",
+                  "text": "A Plac zabaw 'pod dębem' Lublinban a fák árnyékában hívja játékra a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        22.549037,
+                        51.24097
+                  ]
+            },
+            {
+                  "name": "Pod dzikim winem",
+                  "text": "A Pod dzikim winem egy barátságos játszótér gyerekeknek Lublinban.",
+                  "category": "family",
+                  "coords": [
+                        22.574093,
+                        51.258262
                   ]
             }
       ],
@@ -12937,6 +15115,87 @@ export const polandCitiesV2: POI[] = [
                         22.567121,
                         51.24389
                   ]
+            },
+            {
+                  "name": "zbiornik retencyjny",
+                  "text": "zbiornik retencyjny din Lublin este un lac care invită la recreere în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        22.568327,
+                        51.228783
+                  ]
+            },
+            {
+                  "name": "zb. retencyjny",
+                  "text": "zb. retencyjny din Lublin oferă o suprafață de apă liniștită într-un cadru urban.",
+                  "category": "natural",
+                  "coords": [
+                        22.565538,
+                        51.251618
+                  ]
+            },
+            {
+                  "name": "Zalew Zemborzycki",
+                  "text": "Zalew Zemborzycki este un lac mare în Lublin, popular pentru activități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        22.522948,
+                        51.178889
+                  ]
+            },
+            {
+                  "name": "Mania Skakania - Park Trampolinowy",
+                  "text": "Mania Skakania din Lublin este un parc de trambuline care oferă distracție pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        22.555166,
+                        51.227339
+                  ]
+            },
+            {
+                  "name": "Leopark",
+                  "text": "Leopark din Lublin este un loc de joacă interior, ideal pentru excursii în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.577081,
+                        51.249612
+                  ]
+            },
+            {
+                  "name": "Rezerwat Dzikich Dzieci",
+                  "text": "Rezerwat Dzikich Dzieci din Lublin oferă copiilor un spațiu creativ pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        22.564964,
+                        51.241318
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Z Rakietą\" LSM",
+                  "text": "Plac Zabaw 'Z Rakietą' LSM din Lublin este un loc de joacă tematic pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        22.526204,
+                        51.24272
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"pod dębem\"",
+                  "text": "Plac zabaw 'pod dębem' din Lublin invită copiii la joacă la umbra copacilor.",
+                  "category": "family",
+                  "coords": [
+                        22.549037,
+                        51.24097
+                  ]
+            },
+            {
+                  "name": "Pod dzikim winem",
+                  "text": "Pod dzikim winem este un loc de joacă prietenos pentru copii în Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.574093,
+                        51.258262
+                  ]
             }
       ],
       "en": [
@@ -13343,6 +15602,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.567121,
                         51.24389
+                  ]
+            },
+            {
+                  "name": "zbiornik retencyjny",
+                  "text": "The zbiornik retencyjny in Lublin is a lake inviting recreation within the city.",
+                  "category": "natural",
+                  "coords": [
+                        22.568327,
+                        51.228783
+                  ]
+            },
+            {
+                  "name": "zb. retencyjny",
+                  "text": "The zb. retencyjny in Lublin offers a calm water surface in an urban setting.",
+                  "category": "natural",
+                  "coords": [
+                        22.565538,
+                        51.251618
+                  ]
+            },
+            {
+                  "name": "Zalew Zemborzycki",
+                  "text": "Zalew Zemborzycki is a large lake in Lublin, popular for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        22.522948,
+                        51.178889
+                  ]
+            },
+            {
+                  "name": "Mania Skakania - Park Trampolinowy",
+                  "text": "Mania Skakania in Lublin is a trampoline park offering fun for children and young people.",
+                  "category": "family",
+                  "coords": [
+                        22.555166,
+                        51.227339
+                  ]
+            },
+            {
+                  "name": "Leopark",
+                  "text": "Leopark in Lublin is an indoor playground, ideal for family outings.",
+                  "category": "family",
+                  "coords": [
+                        22.577081,
+                        51.249612
+                  ]
+            },
+            {
+                  "name": "Rezerwat Dzikich Dzieci",
+                  "text": "Rezerwat Dzikich Dzieci in Lublin offers children a creative space for play.",
+                  "category": "family",
+                  "coords": [
+                        22.564964,
+                        51.241318
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Z Rakietą\" LSM",
+                  "text": "Plac Zabaw 'Z Rakietą' LSM in Lublin is a themed playground for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        22.526204,
+                        51.24272
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"pod dębem\"",
+                  "text": "Plac zabaw 'pod dębem' in Lublin invites children to play in the shade of trees.",
+                  "category": "family",
+                  "coords": [
+                        22.549037,
+                        51.24097
+                  ]
+            },
+            {
+                  "name": "Pod dzikim winem",
+                  "text": "Pod dzikim winem is a friendly playground for children in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.574093,
+                        51.258262
                   ]
             }
       ]
@@ -13860,6 +16200,60 @@ export const polandCitiesV2: POI[] = [
                         23.165485,
                         53.123094
                   ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Der Balaton in Bialystok ist ein beliebter See, ideal für entspannte Spaziergänge und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        23.20306,
+                        53.146344
+                  ]
+            },
+            {
+                  "name": "Strefa Wysokich Lotów",
+                  "text": "Strefa Wysokich Lotów in Bialystok ist ein spannender Trampolinpark, der aktiven Spaß für die ganze Familie garantiert.",
+                  "category": "family",
+                  "coords": [
+                        23.165334,
+                        53.15798
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Wodny plac zabaw in Bialystok bietet Kindern an heißen Tagen eine spritzige und unterhaltsame Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        23.164281,
+                        53.119031
+                  ]
+            },
+            {
+                  "name": "Kraina Smyka",
+                  "text": "Ein schöner Spielplatz in Bialystok für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        23.1327,
+                        53.126069
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"nowaszkoła\"",
+                  "text": "Dieser Spielplatz in Bialystok bietet Kindern Raum für Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        23.189472,
+                        53.132374
+                  ]
+            },
+            {
+                  "name": "Puchatek",
+                  "text": "Ein familienfreundlicher Spielplatz in Bialystok für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        23.140742,
+                        53.132175
+                  ]
             }
       ],
       "hu": [
@@ -14329,6 +16723,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.165485,
                         53.123094
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A białystoki Balaton egy népszerű tó, amely ideális a pihentető sétákhoz és a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.20306,
+                        53.146344
+                  ]
+            },
+            {
+                  "name": "Strefa Wysokich Lotów",
+                  "text": "A białystoki Strefa Wysokich Lotów egy izgalmas trambulinpark, amely aktív szórakozást garantál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        23.165334,
+                        53.15798
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "A białystoki Wodny plac zabaw frissítő és szórakoztató kikapcsolódást nyújt a gyerekeknek a forró napokon.",
+                  "category": "family",
+                  "coords": [
+                        23.164281,
+                        53.119031
+                  ]
+            },
+            {
+                  "name": "Kraina Smyka",
+                  "text": "Egy kedves játszótér Bialystokban, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        23.1327,
+                        53.126069
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"nowaszkoła\"",
+                  "text": "Ez a bialystoki játszótér szabadtéri mozgási lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        23.189472,
+                        53.132374
+                  ]
+            },
+            {
+                  "name": "Puchatek",
+                  "text": "Családbarát játszótér Bialystokban a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        23.140742,
+                        53.132175
                   ]
             }
       ],
@@ -14800,6 +17248,60 @@ export const polandCitiesV2: POI[] = [
                         23.165485,
                         53.123094
                   ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Balaton din Bialystok este un lac popular, ideal pentru plimbări relaxante și recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.20306,
+                        53.146344
+                  ]
+            },
+            {
+                  "name": "Strefa Wysokich Lotów",
+                  "text": "Strefa Wysokich Lotów din Bialystok este un parc de trambuline captivant, care garantează distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        23.165334,
+                        53.15798
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Wodny plac zabaw din Bialystok oferă copiilor o răcorire distractivă în zilele toride.",
+                  "category": "family",
+                  "coords": [
+                        23.164281,
+                        53.119031
+                  ]
+            },
+            {
+                  "name": "Kraina Smyka",
+                  "text": "Un loc de joacă plăcut în Bialystok pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        23.1327,
+                        53.126069
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"nowaszkoła\"",
+                  "text": "Acest loc de joacă din Bialystok oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        23.189472,
+                        53.132374
+                  ]
+            },
+            {
+                  "name": "Puchatek",
+                  "text": "Un loc de joacă pentru familii în Bialystok pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        23.140742,
+                        53.132175
+                  ]
             }
       ],
       "en": [
@@ -15270,6 +17772,60 @@ export const polandCitiesV2: POI[] = [
                         23.165485,
                         53.123094
                   ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "Balaton in Bialystok is a popular lake, ideal for relaxing walks and waterfront recreation.",
+                  "category": "natural",
+                  "coords": [
+                        23.20306,
+                        53.146344
+                  ]
+            },
+            {
+                  "name": "Strefa Wysokich Lotów",
+                  "text": "Strefa Wysokich Lotów in Bialystok is an exciting trampoline park guaranteeing active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        23.165334,
+                        53.15798
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Wodny plac zabaw in Bialystok offers children a refreshing and fun way to cool off on hot days.",
+                  "category": "family",
+                  "coords": [
+                        23.164281,
+                        53.119031
+                  ]
+            },
+            {
+                  "name": "Kraina Smyka",
+                  "text": "A pleasant playground in Bialystok for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        23.1327,
+                        53.126069
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"nowaszkoła\"",
+                  "text": "This playground in Bialystok offers space for children to move outdoors.",
+                  "category": "family",
+                  "coords": [
+                        23.189472,
+                        53.132374
+                  ]
+            },
+            {
+                  "name": "Puchatek",
+                  "text": "A family-friendly playground in Bialystok for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        23.140742,
+                        53.132175
+                  ]
             }
       ]
 },
@@ -15732,6 +18288,78 @@ export const polandCitiesV2: POI[] = [
                         18.50514,
                         54.531928
                   ]
+            },
+            {
+                  "name": "Lepusz",
+                  "text": "Der Lepusz ist ein See in Gdynia, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.479003,
+                        54.465394
+                  ]
+            },
+            {
+                  "name": "ZR-6/2",
+                  "text": "Der See ZR-6/2 in Gdynia ist ein lokales Gewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        18.473024,
+                        54.475218
+                  ]
+            },
+            {
+                  "name": "ZR-7/2",
+                  "text": "Der ZR-7/2 ist ein Gewässer in Gdynia, das sich harmonisch in die Umgebung einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        18.471338,
+                        54.475782
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Der Zbiornik retencyjny in Gdynia bietet eine Wasserfläche zur Entspannung in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        18.539179,
+                        54.496373
+                  ]
+            },
+            {
+                  "name": "Galeria Malucha",
+                  "text": "Galeria Malucha in Gdynia ist ein schöner Spielbereich für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.538628,
+                        54.511768
+                  ]
+            },
+            {
+                  "name": "Cybermachina",
+                  "text": "Cybermachina in Gdynia bietet moderne Unterhaltung und Spiele für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        18.543429,
+                        54.518919
+                  ]
+            },
+            {
+                  "name": "Jumpcity",
+                  "text": "Jumpcity in Gdynia ist ein Trampolinpark mit vielen Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.538313,
+                        54.52471
+                  ]
+            },
+            {
+                  "name": "ogródek jordanowski",
+                  "text": "Der ogródek jordanowski in Gdynia ist ein traditioneller Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.502745,
+                        54.526786
+                  ]
             }
       ],
       "hu": [
@@ -16102,6 +18730,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.50514,
                         54.531928
+                  ]
+            },
+            {
+                  "name": "Lepusz",
+                  "text": "A Lepusz egy tó Gdyniában, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.479003,
+                        54.465394
+                  ]
+            },
+            {
+                  "name": "ZR-6/2",
+                  "text": "A ZR-6/2 tó Gdyniában egy helyi vízfelület nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.473024,
+                        54.475218
+                  ]
+            },
+            {
+                  "name": "ZR-7/2",
+                  "text": "A ZR-7/2 egy vízfelület Gdyniában, amely harmonikusan illeszkedik a környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.471338,
+                        54.475782
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "A Zbiornik retencyjny Gdyniában vízfelületet kínál a városi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.539179,
+                        54.496373
+                  ]
+            },
+            {
+                  "name": "Galeria Malucha",
+                  "text": "A Galeria Malucha Gdyniában egy szép játszóhely kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.538628,
+                        54.511768
+                  ]
+            },
+            {
+                  "name": "Cybermachina",
+                  "text": "A Cybermachina Gdyniában modern szórakozást és játékokat kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        18.543429,
+                        54.518919
+                  ]
+            },
+            {
+                  "name": "Jumpcity",
+                  "text": "A Jumpcity Gdyniában egy trambulinpark sok tevékenységgel családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.538313,
+                        54.52471
+                  ]
+            },
+            {
+                  "name": "ogródek jordanowski",
+                  "text": "Az ogródek jordanowski Gdyniában egy hagyományos játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.502745,
+                        54.526786
                   ]
             }
       ],
@@ -16474,6 +19174,78 @@ export const polandCitiesV2: POI[] = [
                         18.50514,
                         54.531928
                   ]
+            },
+            {
+                  "name": "Lepusz",
+                  "text": "Lepusz este un lac din Gdynia care oferă un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.479003,
+                        54.465394
+                  ]
+            },
+            {
+                  "name": "ZR-6/2",
+                  "text": "Lacul ZR-6/2 din Gdynia este un corp de apă local situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        18.473024,
+                        54.475218
+                  ]
+            },
+            {
+                  "name": "ZR-7/2",
+                  "text": "ZR-7/2 este un corp de apă din Gdynia care se încadrează armonios în mediul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        18.471338,
+                        54.475782
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "Zbiornik retencyjny din Gdynia oferă o suprafață de apă pentru relaxare în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        18.539179,
+                        54.496373
+                  ]
+            },
+            {
+                  "name": "Galeria Malucha",
+                  "text": "Galeria Malucha din Gdynia este o zonă de joacă frumoasă pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        18.538628,
+                        54.511768
+                  ]
+            },
+            {
+                  "name": "Cybermachina",
+                  "text": "Cybermachina din Gdynia oferă divertisment modern și jocuri pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        18.543429,
+                        54.518919
+                  ]
+            },
+            {
+                  "name": "Jumpcity",
+                  "text": "Jumpcity din Gdynia este un parc de trambuline cu multe activități pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.538313,
+                        54.52471
+                  ]
+            },
+            {
+                  "name": "ogródek jordanowski",
+                  "text": "Ogródek jordanowski din Gdynia este un loc de joacă tradițional pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.502745,
+                        54.526786
+                  ]
             }
       ],
       "en": [
@@ -16845,6 +19617,78 @@ export const polandCitiesV2: POI[] = [
                         18.50514,
                         54.531928
                   ]
+            },
+            {
+                  "name": "Lepusz",
+                  "text": "Lepusz is a lake in Gdynia offering a quiet natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.479003,
+                        54.465394
+                  ]
+            },
+            {
+                  "name": "ZR-6/2",
+                  "text": "Lake ZR-6/2 in Gdynia is a local body of water in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        18.473024,
+                        54.475218
+                  ]
+            },
+            {
+                  "name": "ZR-7/2",
+                  "text": "ZR-7/2 is a body of water in Gdynia that fits harmoniously into the environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.471338,
+                        54.475782
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny",
+                  "text": "The Zbiornik retencyjny in Gdynia offers a water surface for relaxation within the city.",
+                  "category": "natural",
+                  "coords": [
+                        18.539179,
+                        54.496373
+                  ]
+            },
+            {
+                  "name": "Galeria Malucha",
+                  "text": "Galeria Malucha in Gdynia is a nice play area for young children.",
+                  "category": "family",
+                  "coords": [
+                        18.538628,
+                        54.511768
+                  ]
+            },
+            {
+                  "name": "Cybermachina",
+                  "text": "Cybermachina in Gdynia offers modern entertainment and games for visitors.",
+                  "category": "family",
+                  "coords": [
+                        18.543429,
+                        54.518919
+                  ]
+            },
+            {
+                  "name": "Jumpcity",
+                  "text": "Jumpcity in Gdynia is a trampoline park with many activities for families.",
+                  "category": "family",
+                  "coords": [
+                        18.538313,
+                        54.52471
+                  ]
+            },
+            {
+                  "name": "ogródek jordanowski",
+                  "text": "The ogródek jordanowski in Gdynia is a traditional playground for children.",
+                  "category": "family",
+                  "coords": [
+                        18.502745,
+                        54.526786
+                  ]
             }
       ]
 },
@@ -16892,7 +19736,88 @@ export const polandCitiesV2: POI[] = [
       fr: ["Fait partie de la Tricité", "Port maritime majeur, construit dans les années 1920", "Réputée pour son architecture moderniste", "Les navires-musées ORP Błyskawica et Dar Pomorza sont amarrés au port", "Abrite l'aquarium de Gdynia", "Lieu du festival annuel Open'er", "Développée comme port polonais après la Première Guerre mondiale", "La place Kościuszko est un espace public populaire en bord de mer", "Le festival du film de Gdynia est le plus important événement cinématographique du pays", "La falaise d'Orłowo est un monument naturel pittoresque", "L'université maritime de Gdynia forme les gens de mer", "Port de ferry important avec des liaisons vers la Suède"],
     }, image: "/poi-images/poland-gdynia-cities-v2.webp"},
   {
-    id: "poland-czestochowa-cities-v2",
+    id: "poland-czestochowa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaciszanka",
+                  "text": "Ein ruhiger See in Czestochowa, der sich für entspannte Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.086015,
+                        50.796503
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z atrakcjami",
+                  "text": "Ein abwechslungsreicher Spielplatz in Czestochowa mit verschiedenen Spielgeräten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.124549,
+                        50.823935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaciszanka",
+                  "text": "Egy nyugodt tó Czestochowában, amely alkalmas pihentető sétákra a parton.",
+                  "category": "natural",
+                  "coords": [
+                        19.086015,
+                        50.796503
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z atrakcjami",
+                  "text": "Változatos játszótér Czestochowában különféle játékokkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.124549,
+                        50.823935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaciszanka",
+                  "text": "Un lac liniștit în Czestochowa, potrivit pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        19.086015,
+                        50.796503
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z atrakcjami",
+                  "text": "Un loc de joacă variat în Czestochowa cu diverse echipamente pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.124549,
+                        50.823935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaciszanka",
+                  "text": "A quiet lake in Czestochowa, suitable for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        19.086015,
+                        50.796503
+                  ]
+            },
+            {
+                  "name": "Plac zabaw z atrakcjami",
+                  "text": "A varied playground in Czestochowa with various play equipment for families.",
+                  "category": "family",
+                  "coords": [
+                        19.124549,
+                        50.823935
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Tschenstochau", hu: "Częstochowa", ro: "Częstochowa", en: "Częstochowa"},
@@ -17316,6 +20241,42 @@ export const polandCitiesV2: POI[] = [
                         21.135932,
                         51.397349
                   ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Ein ruhiger See in Radom, der sich für entspannte Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "Ein lokales Gewässer in Radom, das eine schöne Kulisse für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "Ein Spielbereich für Kinder in Radom, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "Ein Bereich mit Trampolinen in Radom, der aktiven Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
             }
       ],
       "hu": [
@@ -17695,6 +20656,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.135932,
                         51.397349
+                  ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Nyugodt tó Radom területén, amely alkalmas pihentető természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "Helyi vízfelület Radomban, amely szép környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "Gyermekjátszóhely Radomban, amely felfedezésre és játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "Trambulinos terület Radomban, amely aktív szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
                   ]
             }
       ],
@@ -18076,6 +21073,42 @@ export const polandCitiesV2: POI[] = [
                         21.135932,
                         51.397349
                   ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Un lac liniștit în Radom, potrivit pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "O zonă cu apă locală în Radom, care oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "O zonă de joacă pentru copii în Radom, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "O zonă cu trambuline în Radom, care oferă distracție activă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
             }
       ],
       "en": [
@@ -18456,6 +21489,42 @@ export const polandCitiesV2: POI[] = [
                         21.135932,
                         51.397349
                   ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "A quiet lake in Radom suitable for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "A local water area in Radom providing a nice backdrop for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "A play area for children in Radom that encourages exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "An area with trampolines in Radom offering active fun for children.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
             }
       ]
 },
@@ -18503,7 +21572,268 @@ export const polandCitiesV2: POI[] = [
       fr: ["Lieu de l'adoption de la constitution « Nihil novi » en 1505", "Centre de l'industrie polonaise de l'armement et du cuir au XXe siècle", "Hôte du Radom Air Show international biennal", "Connue pour les protestations ouvrières de juin 1976", "Possède un important musée en plein air d'architecture rurale", "La Resursa Obywatelska est un centre culturel important de la ville"],
     }, image: "/poi-images/poland-radom-cities-v2.webp"},
   {
-    id: "poland-sosnowiec-cities-v2",
+    id: "poland-sosnowiec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki ist ein beliebter See in Sosnowiec für Freizeit und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Der Wygoda ist ein See in Sosnowiec, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina ist ein Gewässer in Sosnowiec, ideal für einen kurzen Aufenthalt im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna ist ein See in Sosnowiec, der von der lokalen Bevölkerung gern besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Ekstremalna strefa aktywności",
+                  "text": "Ekstremalna strefa aktywności in Sosnowiec bietet Kindern Platz für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        19.07247,
+                        50.269551
+                  ]
+            },
+            {
+                  "name": "Bawialnia Baby-Fit 2",
+                  "text": "Bawialnia Baby-Fit 2 in Sosnowiec ist ein Indoor-Spielplatz für die Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        19.125135,
+                        50.270861
+                  ]
+            },
+            {
+                  "name": "Park Linowy",
+                  "text": "Der Park Linowy in Sosnowiec bietet Kletterspaß und Abenteuer für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.096554,
+                        50.307246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stawiki",
+                  "text": "A Stawiki egy népszerű tó Sosnowiecben a kikapcsolódáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "A Wygoda egy tó Sosnowiecben, amely nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "A Bolina egy vízfelület Sosnowiecben, ideális egy rövid zöldövezeti tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "A Słupna egy tó Sosnowiecben, amelyet a helyi lakosság szívesen látogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Ekstremalna strefa aktywności",
+                  "text": "Az Ekstremalna strefa aktywności Sosnowiecben mozgási és játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.07247,
+                        50.269551
+                  ]
+            },
+            {
+                  "name": "Bawialnia Baby-Fit 2",
+                  "text": "A Bawialnia Baby-Fit 2 Sosnowiecben egy beltéri játszóhely a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.125135,
+                        50.270861
+                  ]
+            },
+            {
+                  "name": "Park Linowy",
+                  "text": "A Park Linowy Sosnowiecben kötélpályás kalandokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.096554,
+                        50.307246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki este un lac popular în Sosnowiec pentru petrecerea timpului liber și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Wygoda este un lac din Sosnowiec care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina este un corp de apă din Sosnowiec, ideal pentru o scurtă ședere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna este un lac din Sosnowiec, frecventat cu plăcere de populația locală.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Ekstremalna strefa aktywności",
+                  "text": "Ekstremalna strefa aktywności din Sosnowiec oferă copiilor spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        19.07247,
+                        50.269551
+                  ]
+            },
+            {
+                  "name": "Bawialnia Baby-Fit 2",
+                  "text": "Bawialnia Baby-Fit 2 din Sosnowiec este un loc de joacă interior pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        19.125135,
+                        50.270861
+                  ]
+            },
+            {
+                  "name": "Park Linowy",
+                  "text": "Park Linowy din Sosnowiec oferă distracție la înălțime și aventură pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.096554,
+                        50.307246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki is a popular lake in Sosnowiec for leisure and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Wygoda is a lake in Sosnowiec offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina is a body of water in Sosnowiec, ideal for a short stay in a green area.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna is a lake in Sosnowiec popular with the local community.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Ekstremalna strefa aktywności",
+                  "text": "Ekstremalna strefa aktywności in Sosnowiec offers children space for exercise and play.",
+                  "category": "family",
+                  "coords": [
+                        19.07247,
+                        50.269551
+                  ]
+            },
+            {
+                  "name": "Bawialnia Baby-Fit 2",
+                  "text": "Bawialnia Baby-Fit 2 in Sosnowiec is an indoor play area for the youngest children.",
+                  "category": "family",
+                  "coords": [
+                        19.125135,
+                        50.270861
+                  ]
+            },
+            {
+                  "name": "Park Linowy",
+                  "text": "Park Linowy in Sosnowiec offers climbing fun and adventure for families.",
+                  "category": "family",
+                  "coords": [
+                        19.096554,
+                        50.307246
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Sosnowitz", hu: "Sosnowiec", ro: "Sosnowiec", en: "Sosnowiec"},
@@ -18548,7 +21878,268 @@ export const polandCitiesV2: POI[] = [
       fr: ["S'est développée rapidement au XIXe siècle grâce au charbon et à l'acier.", "Était située au Triangle historique des Trois Empereurs.", "Possède le château Sielecki, construit au XVIIe siècle.", "Le palais Schön abrite aujourd'hui un musée et une galerie de verre.", "Site éducatif important de l'Université de Silésie.", "Réussit sa transition de l'industrie lourde vers les services modernes."],
     }, image: "/poi-images/poland-sosnowiec-cities-v2.webp"},
   {
-    id: "poland-torun-cities-v2",
+    id: "poland-torun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nagus",
+                  "text": "Ein See in Torun, der eine natürliche Umgebung für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.666251,
+                        52.995211
+                  ]
+            },
+            {
+                  "name": "Dawny basen ppoż. lotniska",
+                  "text": "Ein lokales Gewässer in Torun, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.554695,
+                        53.021426
+                  ]
+            },
+            {
+                  "name": "Salon Gier na Automatach",
+                  "text": "Eine Spielhalle in Torun mit verschiedenen Automaten für Unterhaltung mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.607738,
+                        53.010373
+                  ]
+            },
+            {
+                  "name": "Staw Komtura",
+                  "text": "Ein schöner Spielplatz in Torun, ideal für einen Familienausflug ins Grüne.",
+                  "category": "family",
+                  "coords": [
+                        18.611358,
+                        53.009999
+                  ]
+            },
+            {
+                  "name": "Piernikowe Miasteczko",
+                  "text": "Ein thematischer Spielplatz in Torun, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        18.605224,
+                        53.012371
+                  ]
+            },
+            {
+                  "name": "Smerfny plac zabaw",
+                  "text": "Dieser Spielplatz in Torun ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        18.593112,
+                        53.0148
+                  ]
+            },
+            {
+                  "name": "Kinderek",
+                  "text": "Ein freundlicher Bereich in Torun mit Spielmöglichkeiten für die Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        18.62924,
+                        53.030501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nagus",
+                  "text": "Egy tó Torunban, amely természetes környezetet kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.666251,
+                        52.995211
+                  ]
+            },
+            {
+                  "name": "Dawny basen ppoż. lotniska",
+                  "text": "Egy helyi vízfelület Torunban, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.554695,
+                        53.021426
+                  ]
+            },
+            {
+                  "name": "Salon Gier na Automatach",
+                  "text": "Egy játékterem Torunban különféle automatákkal a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.607738,
+                        53.010373
+                  ]
+            },
+            {
+                  "name": "Staw Komtura",
+                  "text": "Szép játszótér Torunban, ideális egy családi kiránduláshoz a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        18.611358,
+                        53.009999
+                  ]
+            },
+            {
+                  "name": "Piernikowe Miasteczko",
+                  "text": "Egy tematikus játszótér Torunban, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.605224,
+                        53.012371
+                  ]
+            },
+            {
+                  "name": "Smerfny plac zabaw",
+                  "text": "Ez a toruni játszótér népszerű találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.593112,
+                        53.0148
+                  ]
+            },
+            {
+                  "name": "Kinderek",
+                  "text": "Barátságos terület Torunban játéklehetőségekkel a legkisebbek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.62924,
+                        53.030501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nagus",
+                  "text": "Un lac în Torun care oferă un cadru natural pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.666251,
+                        52.995211
+                  ]
+            },
+            {
+                  "name": "Dawny basen ppoż. lotniska",
+                  "text": "Un corp de apă local în Torun care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.554695,
+                        53.021426
+                  ]
+            },
+            {
+                  "name": "Salon Gier na Automatach",
+                  "text": "O sală de jocuri în Torun cu diverse automate pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.607738,
+                        53.010373
+                  ]
+            },
+            {
+                  "name": "Staw Komtura",
+                  "text": "Un loc de joacă frumos în Torun, ideal pentru o ieșire în familie în natură.",
+                  "category": "family",
+                  "coords": [
+                        18.611358,
+                        53.009999
+                  ]
+            },
+            {
+                  "name": "Piernikowe Miasteczko",
+                  "text": "Un loc de joacă tematic în Torun care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.605224,
+                        53.012371
+                  ]
+            },
+            {
+                  "name": "Smerfny plac zabaw",
+                  "text": "Acest loc de joacă din Torun este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        18.593112,
+                        53.0148
+                  ]
+            },
+            {
+                  "name": "Kinderek",
+                  "text": "O zonă prietenoasă în Torun cu facilități de joacă pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        18.62924,
+                        53.030501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nagus",
+                  "text": "A lake in Torun that offers a natural setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.666251,
+                        52.995211
+                  ]
+            },
+            {
+                  "name": "Dawny basen ppoż. lotniska",
+                  "text": "A local body of water in Torun that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.554695,
+                        53.021426
+                  ]
+            },
+            {
+                  "name": "Salon Gier na Automatach",
+                  "text": "An amusement arcade in Torun with various machines for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        18.607738,
+                        53.010373
+                  ]
+            },
+            {
+                  "name": "Staw Komtura",
+                  "text": "A nice playground in Torun, ideal for a family outing in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        18.611358,
+                        53.009999
+                  ]
+            },
+            {
+                  "name": "Piernikowe Miasteczko",
+                  "text": "A themed playground in Torun that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        18.605224,
+                        53.012371
+                  ]
+            },
+            {
+                  "name": "Smerfny plac zabaw",
+                  "text": "This playground in Torun is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        18.593112,
+                        53.0148
+                  ]
+            },
+            {
+                  "name": "Kinderek",
+                  "text": "A friendly area in Torun with play facilities for the youngest.",
+                  "category": "family",
+                  "coords": [
+                        18.62924,
+                        53.030501
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Thorn", hu: "Toruń", ro: "Toruń", en: "Toruń"},
@@ -18593,7 +22184,484 @@ export const polandCitiesV2: POI[] = [
       fr: ["Ville natale du célèbre astronome Nicolas Copernic (1473)", "Le centre médiéval est classé au patrimoine mondial de l'UNESCO depuis 1997", "Mondialement célèbre pour le pain d'épices de Toruń (Katarzynki)", "Ancien membre important de la Hanse", "Possède une tour penchée faisant partie des remparts de la ville", "L'université Nicolas Copernic est l'une des plus grandes du nord de la Pologne"],
     }, image: "/poi-images/poland-torun-cities-v2.webp"},
   {
-    id: "poland-kielce-cities-v2",
+    id: "poland-kielce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezioro Szmaragdowe",
+                  "text": "Ein malerischer See in Kielce, bekannt für sein klares Wasser und die schöne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        20.616624,
+                        50.862329
+                  ]
+            },
+            {
+                  "name": "Zalew Kielecki",
+                  "text": "Ein lokales Erholungsgebiet am Wasser in Kielce, ideal zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        20.632994,
+                        50.890894
+                  ]
+            },
+            {
+                  "name": "Zalew Cedzyna",
+                  "text": "Ein Stausee bei Kielce, der als beliebtes Ziel für Naturfreunde und Spaziergänger gilt.",
+                  "category": "natural",
+                  "coords": [
+                        20.73544,
+                        50.874615
+                  ]
+            },
+            {
+                  "name": "Kredowisko",
+                  "text": "Ein moderner Spielplatz in Kielce, der Kindern viel Platz für Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.622253,
+                        50.86646
+                  ]
+            },
+            {
+                  "name": "Bawialnia Duudle Kielce",
+                  "text": "Ein Indoor-Spielbereich in Kielce für Kinder, ideal für wetterunabhängigen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        20.638155,
+                        50.864877
+                  ]
+            },
+            {
+                  "name": "Raj Urwisa",
+                  "text": "Ein attraktiver Kinderspielplatz in Kielce für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        20.647185,
+                        50.880273
+                  ]
+            },
+            {
+                  "name": "Happy Jumper",
+                  "text": "Ein Trampolinpark in Kielce, der sportliche Betätigung und Spaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.646207,
+                        50.881588
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Ein Unterhaltungszentrum in Kielce mit Laser-Spielen für aktive Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.647753,
+                        50.878075
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Rasia Alkus Słoneczne Wzgórze",
+                  "text": "Ein Spielplatz in Kielce, der zum Spielen an der frischen Luft einlädt.",
+                  "category": "family",
+                  "coords": [
+                        20.652558,
+                        50.88718
+                  ]
+            },
+            {
+                  "name": "Hotelowy Plac Zabaw",
+                  "text": "Ein Hotelspielplatz in Kielce, der eine kinderfreundliche Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.59518,
+                        50.86793
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Ein einfacher Spielplatz mit Sandkasten in Kielce für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        20.624581,
+                        50.848255
+                  ]
+            },
+            {
+                  "name": "Plac zabaw dla osób z niepełnosprawnościami",
+                  "text": "Ein barrierefreier Spielplatz in Kielce, der speziell für Kinder mit Behinderungen gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        20.653755,
+                        50.884012
+                  ]
+            },
+            {
+                  "name": "dla gości karczmy",
+                  "text": "Ein kleiner Spielbereich in Kielce, der sich ideal für eine kurze Pause mit Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        20.601599,
+                        50.854855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezioro Szmaragdowe",
+                  "text": "Gleccserkék vizű tó Kielce közelében, amely szép környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        20.616624,
+                        50.862329
+                  ]
+            },
+            {
+                  "name": "Zalew Kielecki",
+                  "text": "Helyi vízi pihenőhely Kielcében, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.632994,
+                        50.890894
+                  ]
+            },
+            {
+                  "name": "Zalew Cedzyna",
+                  "text": "Víztározó Kielce közelében, amely népszerű célpont a természetjárók számára.",
+                  "category": "natural",
+                  "coords": [
+                        20.73544,
+                        50.874615
+                  ]
+            },
+            {
+                  "name": "Kredowisko",
+                  "text": "Modern játszótér Kielcében, amely tágas teret biztosít a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.622253,
+                        50.86646
+                  ]
+            },
+            {
+                  "name": "Bawialnia Duudle Kielce",
+                  "text": "Fedett játszóház Kielcében, amely időjárástól független szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        20.638155,
+                        50.864877
+                  ]
+            },
+            {
+                  "name": "Raj Urwisa",
+                  "text": "Vonzó gyermekjátszótér Kielcében, kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.647185,
+                        50.880273
+                  ]
+            },
+            {
+                  "name": "Happy Jumper",
+                  "text": "Trambulinpark Kielcében, amely sportos szórakozást kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        20.646207,
+                        50.881588
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Szórakoztató központ Kielcében lézerjátékokkal aktív családoknak.",
+                  "category": "family",
+                  "coords": [
+                        20.647753,
+                        50.878075
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Rasia Alkus Słoneczne Wzgórze",
+                  "text": "Játszótér Kielcében, amely szabadtéri játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        20.652558,
+                        50.88718
+                  ]
+            },
+            {
+                  "name": "Hotelowy Plac Zabaw",
+                  "text": "Szállodai játszótér Kielcében, amely gyermekbarát környezetet biztosít.",
+                  "category": "family",
+                  "coords": [
+                        20.59518,
+                        50.86793
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Egyszerű játszótér homokozóval Kielcében a legkisebbek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.624581,
+                        50.848255
+                  ]
+            },
+            {
+                  "name": "Plac zabaw dla osób z niepełnosprawnościami",
+                  "text": "Akadálymentes játszótér Kielcében, amelyet speciálisan mozgássérült gyermekeknek terveztek.",
+                  "category": "family",
+                  "coords": [
+                        20.653755,
+                        50.884012
+                  ]
+            },
+            {
+                  "name": "dla gości karczmy",
+                  "text": "Kisméretű játszórész Kielcében, amely ideális egy rövid szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        20.601599,
+                        50.854855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezioro Szmaragdowe",
+                  "text": "Un lac pitoresc în Kielce, cunoscut pentru apa sa clară și împrejurimile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        20.616624,
+                        50.862329
+                  ]
+            },
+            {
+                  "name": "Zalew Kielecki",
+                  "text": "O zonă de recreere pe malul apei în Kielce, ideală pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        20.632994,
+                        50.890894
+                  ]
+            },
+            {
+                  "name": "Zalew Cedzyna",
+                  "text": "Un lac de acumulare lângă Kielce, fiind o destinație populară pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.73544,
+                        50.874615
+                  ]
+            },
+            {
+                  "name": "Kredowisko",
+                  "text": "Un loc de joacă modern în Kielce, care oferă copiilor mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        20.622253,
+                        50.86646
+                  ]
+            },
+            {
+                  "name": "Bawialnia Duudle Kielce",
+                  "text": "Un spațiu de joacă interior în Kielce, ideal pentru distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        20.638155,
+                        50.864877
+                  ]
+            },
+            {
+                  "name": "Raj Urwisa",
+                  "text": "Un loc de joacă atractiv în Kielce pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        20.647185,
+                        50.880273
+                  ]
+            },
+            {
+                  "name": "Happy Jumper",
+                  "text": "Un parc de trambuline în Kielce, care oferă activitate sportivă și distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.646207,
+                        50.881588
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Un centru de divertisment în Kielce cu jocuri laser pentru familii active.",
+                  "category": "family",
+                  "coords": [
+                        20.647753,
+                        50.878075
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Rasia Alkus Słoneczne Wzgórze",
+                  "text": "Un loc de joacă în Kielce, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.652558,
+                        50.88718
+                  ]
+            },
+            {
+                  "name": "Hotelowy Plac Zabaw",
+                  "text": "Un loc de joacă de hotel în Kielce, care oferă un mediu prietenos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.59518,
+                        50.86793
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Un loc de joacă simplu cu nisipar în Kielce pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        20.624581,
+                        50.848255
+                  ]
+            },
+            {
+                  "name": "Plac zabaw dla osób z niepełnosprawnościami",
+                  "text": "Un loc de joacă accesibil în Kielce, conceput special pentru copiii cu dizabilități.",
+                  "category": "family",
+                  "coords": [
+                        20.653755,
+                        50.884012
+                  ]
+            },
+            {
+                  "name": "dla gości karczmy",
+                  "text": "O mică zonă de joacă în Kielce, ideală pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        20.601599,
+                        50.854855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezioro Szmaragdowe",
+                  "text": "A scenic lake in Kielce known for its clear water and beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        20.616624,
+                        50.862329
+                  ]
+            },
+            {
+                  "name": "Zalew Kielecki",
+                  "text": "A local waterfront recreation area in Kielce, ideal for walking.",
+                  "category": "natural",
+                  "coords": [
+                        20.632994,
+                        50.890894
+                  ]
+            },
+            {
+                  "name": "Zalew Cedzyna",
+                  "text": "A reservoir near Kielce that is a popular destination for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        20.73544,
+                        50.874615
+                  ]
+            },
+            {
+                  "name": "Kredowisko",
+                  "text": "A modern playground in Kielce offering plenty of space for children to be active.",
+                  "category": "family",
+                  "coords": [
+                        20.622253,
+                        50.86646
+                  ]
+            },
+            {
+                  "name": "Bawialnia Duudle Kielce",
+                  "text": "An indoor play area in Kielce for children, ideal for fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        20.638155,
+                        50.864877
+                  ]
+            },
+            {
+                  "name": "Raj Urwisa",
+                  "text": "An attractive children's playground in Kielce for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        20.647185,
+                        50.880273
+                  ]
+            },
+            {
+                  "name": "Happy Jumper",
+                  "text": "A trampoline park in Kielce offering athletic activity and fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.646207,
+                        50.881588
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "An entertainment center in Kielce featuring laser games for active families.",
+                  "category": "family",
+                  "coords": [
+                        20.647753,
+                        50.878075
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Rasia Alkus Słoneczne Wzgórze",
+                  "text": "A playground in Kielce that invites outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        20.652558,
+                        50.88718
+                  ]
+            },
+            {
+                  "name": "Hotelowy Plac Zabaw",
+                  "text": "A hotel playground in Kielce providing a child-friendly environment for play.",
+                  "category": "family",
+                  "coords": [
+                        20.59518,
+                        50.86793
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "A simple playground with a sandbox in Kielce for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        20.624581,
+                        50.848255
+                  ]
+            },
+            {
+                  "name": "Plac zabaw dla osób z niepełnosprawnościami",
+                  "text": "An accessible playground in Kielce specially designed for children with disabilities.",
+                  "category": "family",
+                  "coords": [
+                        20.653755,
+                        50.884012
+                  ]
+            },
+            {
+                  "name": "dla gości karczmy",
+                  "text": "A small play area in Kielce, ideal for a short break with children.",
+                  "category": "family",
+                  "coords": [
+                        20.601599,
+                        50.854855
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Kielce", hu: "Kielce", ro: "Kielce", en: "Kielce"},
@@ -18648,6 +22716,42 @@ export const polandCitiesV2: POI[] = [
                         22.000237,
                         50.017578
                   ]
+            },
+            {
+                  "name": "Żwirownia",
+                  "text": "Die Żwirownia in Rzeszow ist ein See mit Strandbereichen für die Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        21.997981,
+                        50.007919
+                  ]
+            },
+            {
+                  "name": "Zbiornik Rzeszowski",
+                  "text": "Der Zbiornik Rzeszowski ist ein Stausee in Rzeszow, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        21.989584,
+                        50.006298
+                  ]
+            },
+            {
+                  "name": "Kolorowy Świat",
+                  "text": "Kolorowy Świat in Rzeszow ist ein fröhlicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.010742,
+                        50.020131
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Nivea",
+                  "text": "Der Plac Zabaw Nivea in Rzeszow bietet moderne Spielgeräte für Familien.",
+                  "category": "family",
+                  "coords": [
+                        21.977473,
+                        50.051602
+                  ]
             }
       ],
       "hu": [
@@ -18658,6 +22762,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.000237,
                         50.017578
+                  ]
+            },
+            {
+                  "name": "Żwirownia",
+                  "text": "A Żwirownia Rzeszówban egy tó strandrészekkel a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.997981,
+                        50.007919
+                  ]
+            },
+            {
+                  "name": "Zbiornik Rzeszowski",
+                  "text": "A Zbiornik Rzeszowski egy víztározó Rzeszówban, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.989584,
+                        50.006298
+                  ]
+            },
+            {
+                  "name": "Kolorowy Świat",
+                  "text": "A Kolorowy Świat Rzeszówban egy vidám játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.010742,
+                        50.020131
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Nivea",
+                  "text": "A Plac Zabaw Nivea Rzeszówban modern játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.977473,
+                        50.051602
                   ]
             }
       ],
@@ -18670,6 +22810,42 @@ export const polandCitiesV2: POI[] = [
                         22.000237,
                         50.017578
                   ]
+            },
+            {
+                  "name": "Żwirownia",
+                  "text": "Żwirownia din Rzeszow este un lac cu zone de plajă pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        21.997981,
+                        50.007919
+                  ]
+            },
+            {
+                  "name": "Zbiornik Rzeszowski",
+                  "text": "Zbiornik Rzeszowski este un lac de acumulare în Rzeszow, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.989584,
+                        50.006298
+                  ]
+            },
+            {
+                  "name": "Kolorowy Świat",
+                  "text": "Kolorowy Świat din Rzeszow este un loc de joacă vesel pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.010742,
+                        50.020131
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Nivea",
+                  "text": "Plac Zabaw Nivea din Rzeszow oferă echipamente moderne de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.977473,
+                        50.051602
+                  ]
             }
       ],
       "en": [
@@ -18680,6 +22856,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.000237,
                         50.017578
+                  ]
+            },
+            {
+                  "name": "Żwirownia",
+                  "text": "Żwirownia in Rzeszow is a lake with beach areas for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        21.997981,
+                        50.007919
+                  ]
+            },
+            {
+                  "name": "Zbiornik Rzeszowski",
+                  "text": "Zbiornik Rzeszowski is a reservoir in Rzeszow, ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.989584,
+                        50.006298
+                  ]
+            },
+            {
+                  "name": "Kolorowy Świat",
+                  "text": "Kolorowy Świat in Rzeszow is a cheerful playground for children.",
+                  "category": "family",
+                  "coords": [
+                        22.010742,
+                        50.020131
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw Nivea",
+                  "text": "Plac Zabaw Nivea in Rzeszow offers modern play equipment for families.",
+                  "category": "family",
+                  "coords": [
+                        21.977473,
+                        50.051602
                   ]
             }
       ]
@@ -19057,6 +23269,42 @@ export const polandCitiesV2: POI[] = [
                         18.795563,
                         50.29997
                   ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Ein lokaler See in Zabrze, der einen ruhigen Ort zum Entspannen in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Ein Gewässer in Zabrze, das sich für Spaziergänge in der Umgebung anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Ein kleiner See in Zabrze, ideal für Naturbeobachtungen bei einem Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Ein ruhiger See in Zabrze, der zu einer Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
             }
       ],
       "hu": [
@@ -19337,6 +23585,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.795563,
                         50.29997
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Helyi tó Zabr萬ban, amely nyugodt helyet kínál a természetbeni kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Vízfelület Zabr萬ban, amely alkalmas a környékbeli sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Kisméretű tó Zabr萬ban, ideális természetmegfigyeléshez egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Csendes tó Zabr萬ban, amely pihenésre hív a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
                   ]
             }
       ],
@@ -19619,6 +23903,42 @@ export const polandCitiesV2: POI[] = [
                         18.795563,
                         50.29997
                   ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Un lac local în Zabrze, care oferă un loc liniștit pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "O zonă cu apă în Zabrze, potrivită pentru plimbări în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Un lac mic în Zabrze, ideal pentru observarea naturii în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Un lac liniștit în Zabrze, care invită la o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
             }
       ],
       "en": [
@@ -19899,6 +24219,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.795563,
                         50.29997
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "A local lake in Zabrze offering a quiet spot for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "A body of water in Zabrze suitable for walks in the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "A small lake in Zabrze, ideal for observing nature during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "A quiet lake in Zabrze that invites a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
                   ]
             }
       ]
@@ -21824,6 +26180,114 @@ export const polandCitiesV2: POI[] = [
                         19.019093,
                         49.802485
                   ]
+            },
+            {
+                  "name": "Staw Kamienny",
+                  "text": "Ein malerischer See in Bielsko-Biala, der zu ruhigen Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.045261,
+                        49.878526
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny III",
+                  "text": "Ein Gewässer in Bielsko-Biala, das eine friedliche Kulisse für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.043412,
+                        49.880307
+                  ]
+            },
+            {
+                  "name": "Staw Mały",
+                  "text": "Ein kleiner See in Bielsko-Biala, ideal für eine kurze Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.043067,
+                        49.882945
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny II",
+                  "text": "Dieser See in Bielsko-Biala bietet eine schöne Aussicht und Ruhe am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.045891,
+                        49.880313
+                  ]
+            },
+            {
+                  "name": "Staw Bagienny",
+                  "text": "Ein naturnaher See in Bielsko-Biala, der durch seine ruhige Lage besticht.",
+                  "category": "natural",
+                  "coords": [
+                        19.043602,
+                        49.881929
+                  ]
+            },
+            {
+                  "name": "Staw Duży Pilny",
+                  "text": "Ein See in Bielsko-Biala, der zum Wandern und Entspannen in der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.042656,
+                        49.884181
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S1 Grabecznik",
+                  "text": "Ein lokales Gewässer in Bielsko-Biala, das die umliegende Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        19.081655,
+                        49.769249
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S-1 Zdrojowa",
+                  "text": "Ein kleines Wasserbecken in Bielsko-Biala, gelegen in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.08193,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Ein Indoor-Spielplatz in Bielsko-Biala, der bei jedem Wetter Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.048041,
+                        49.826172
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Bolka i Lolka",
+                  "text": "Ein schöner Spielplatz in Bielsko-Biala, gewidmet den berühmten Zeichentrickfiguren.",
+                  "category": "family",
+                  "coords": [
+                        19.04887,
+                        49.821702
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Ein aktiver Park in Bielsko-Biala mit Trampolinen für sportliche Familienabenteuer.",
+                  "category": "family",
+                  "coords": [
+                        19.045507,
+                        49.80378
+                  ]
+            },
+            {
+                  "name": "Park w DECHE",
+                  "text": "Ein kreativer Spielbereich in Bielsko-Biala für abwechslungsreiche Familienfreizeit.",
+                  "category": "family",
+                  "coords": [
+                        19.049256,
+                        49.802363
+                  ]
             }
       ],
       "hu": [
@@ -22095,6 +26559,114 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.019093,
                         49.802485
+                  ]
+            },
+            {
+                  "name": "Staw Kamienny",
+                  "text": "Festői tó Bielsko-Bialában, amely nyugodt természetjárásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.045261,
+                        49.878526
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny III",
+                  "text": "Vízfelület Bielsko-Bialában, amely békés hátteret nyújt a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.043412,
+                        49.880307
+                  ]
+            },
+            {
+                  "name": "Staw Mały",
+                  "text": "Egy kis tó Bielsko-Bialában, ideális egy rövid pihenőre a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.043067,
+                        49.882945
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny II",
+                  "text": "Ez a tó Bielsko-Bialában szép kilátást és nyugalmat kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        19.045891,
+                        49.880313
+                  ]
+            },
+            {
+                  "name": "Staw Bagienny",
+                  "text": "Természetközeli tó Bielsko-Bialában, amely nyugodt fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        19.043602,
+                        49.881929
+                  ]
+            },
+            {
+                  "name": "Staw Duży Pilny",
+                  "text": "Tó Bielsko-Bialában, amely túrázásra és kikapcsolódásra hív a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        19.042656,
+                        49.884181
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S1 Grabecznik",
+                  "text": "Helyi vízfelület Bielsko-Bialában, amely gazdagítja a környező tájat.",
+                  "category": "natural",
+                  "coords": [
+                        19.081655,
+                        49.769249
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S-1 Zdrojowa",
+                  "text": "Egy kis víztározó Bielsko-Bialában, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.08193,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Beltéri játszótér Bielsko-Bialában, amely minden időben szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.048041,
+                        49.826172
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Bolka i Lolka",
+                  "text": "Szép játszótér Bielsko-Bialában, a híres rajzfilmfiguráknak szentelve.",
+                  "category": "family",
+                  "coords": [
+                        19.04887,
+                        49.821702
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Aktív park Bielsko-Bialában trambulinokkal a sportos családi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.045507,
+                        49.80378
+                  ]
+            },
+            {
+                  "name": "Park w DECHE",
+                  "text": "Kreatív játszóterület Bielsko-Bialában a változatos családi szabadidőért.",
+                  "category": "family",
+                  "coords": [
+                        19.049256,
+                        49.802363
                   ]
             }
       ],
@@ -22368,6 +26940,114 @@ export const polandCitiesV2: POI[] = [
                         19.019093,
                         49.802485
                   ]
+            },
+            {
+                  "name": "Staw Kamienny",
+                  "text": "Un lac pitoresc în Bielsko-Biala care invită la observații liniștite ale naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.045261,
+                        49.878526
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny III",
+                  "text": "Un luciu de apă în Bielsko-Biala care oferă un cadru pașnic pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.043412,
+                        49.880307
+                  ]
+            },
+            {
+                  "name": "Staw Mały",
+                  "text": "Un lac mic în Bielsko-Biala, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.043067,
+                        49.882945
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny II",
+                  "text": "Acest lac din Bielsko-Biala oferă o vedere frumoasă și liniște la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.045891,
+                        49.880313
+                  ]
+            },
+            {
+                  "name": "Staw Bagienny",
+                  "text": "Un lac natural în Bielsko-Biala, care impresionează prin locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.043602,
+                        49.881929
+                  ]
+            },
+            {
+                  "name": "Staw Duży Pilny",
+                  "text": "Un lac în Bielsko-Biala care invită la drumeții și relaxare în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        19.042656,
+                        49.884181
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S1 Grabecznik",
+                  "text": "Un corp de apă local în Bielsko-Biala care îmbogățește peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.081655,
+                        49.769249
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S-1 Zdrojowa",
+                  "text": "Un mic bazin de apă în Bielsko-Biala, situat într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.08193,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "Un loc de joacă interior în Bielsko-Biala, care oferă distracție copiilor pe orice vreme.",
+                  "category": "family",
+                  "coords": [
+                        19.048041,
+                        49.826172
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Bolka i Lolka",
+                  "text": "Un loc de joacă frumos în Bielsko-Biala, dedicat faimoaselor personaje de desene animate.",
+                  "category": "family",
+                  "coords": [
+                        19.04887,
+                        49.821702
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Un parc activ în Bielsko-Biala cu trambuline pentru aventuri sportive în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.045507,
+                        49.80378
+                  ]
+            },
+            {
+                  "name": "Park w DECHE",
+                  "text": "O zonă de joacă creativă în Bielsko-Biala pentru timp liber variat în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.049256,
+                        49.802363
+                  ]
             }
       ],
       "en": [
@@ -22640,6 +27320,114 @@ export const polandCitiesV2: POI[] = [
                         19.019093,
                         49.802485
                   ]
+            },
+            {
+                  "name": "Staw Kamienny",
+                  "text": "A picturesque lake in Bielsko-Biala that invites quiet nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        19.045261,
+                        49.878526
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny III",
+                  "text": "A body of water in Bielsko-Biala that provides a peaceful backdrop for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        19.043412,
+                        49.880307
+                  ]
+            },
+            {
+                  "name": "Staw Mały",
+                  "text": "A small lake in Bielsko-Biala, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.043067,
+                        49.882945
+                  ]
+            },
+            {
+                  "name": "Staw Wrotny II",
+                  "text": "This lake in Bielsko-Biala offers a nice view and peace by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.045891,
+                        49.880313
+                  ]
+            },
+            {
+                  "name": "Staw Bagienny",
+                  "text": "A natural lake in Bielsko-Biala that stands out for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        19.043602,
+                        49.881929
+                  ]
+            },
+            {
+                  "name": "Staw Duży Pilny",
+                  "text": "A lake in Bielsko-Biala that invites hiking and relaxation in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.042656,
+                        49.884181
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S1 Grabecznik",
+                  "text": "A local body of water in Bielsko-Biala that enriches the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.081655,
+                        49.769249
+                  ]
+            },
+            {
+                  "name": "Odwodnienie S-1 Zdrojowa",
+                  "text": "A small water basin in Bielsko-Biala, located in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.08193,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Fikołki",
+                  "text": "An indoor playground in Bielsko-Biala that offers fun for children in any weather.",
+                  "category": "family",
+                  "coords": [
+                        19.048041,
+                        49.826172
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Bolka i Lolka",
+                  "text": "A nice playground in Bielsko-Biala, dedicated to the famous cartoon characters.",
+                  "category": "family",
+                  "coords": [
+                        19.04887,
+                        49.821702
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "An active park in Bielsko-Biala with trampolines for sporting family adventures.",
+                  "category": "family",
+                  "coords": [
+                        19.045507,
+                        49.80378
+                  ]
+            },
+            {
+                  "name": "Park w DECHE",
+                  "text": "A creative play area in Bielsko-Biala for varied family leisure time.",
+                  "category": "family",
+                  "coords": [
+                        19.049256,
+                        49.802363
+                  ]
             }
       ]
 },
@@ -22689,7 +27477,340 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-bytom-cities-v2",
+    id: "poland-bytom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Ein kleiner Teich in Bytom, umgeben von Bäumen, ideal für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Ein lokales Gewässer in Bytom, das als ruhiger Rückzugsort im Freien dient.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Ein Teich in Bytom, der sich für eine entspannte Zeit in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Ein idyllischer See in Bytom, der eine angenehme Atmosphäre für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Ein kleiner See in Bytom, der für seine natürliche Umgebung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "Ein lokales Naturgewässer in Bytom, ideal zum Beobachten der Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "Ein Gewässer in Bytom, das sich harmonisch in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "Ein Naturschutzgebiet mit Teichen in Bytom, bekannt für seine vielfältige Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Ein Spielplatz in Bytom, der als Treffpunkt für Familien und Kinder dient.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Kisméretű tó Bytomban, fákkal körülvéve, ideális egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Helyi vízfelület Bytomban, amely csendes szabadtéri menedékként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Tó Bytom területén, amely alkalmas pihentető természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Idilli tó Bytomban, amely kellemes környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Kisméretű tó Bytomban, amelyet természetes környezete miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "Helyi természetes vízfelület Bytomban, ideális az élővilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "Vízfelület Bytomban, amely harmonikusan illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "Tavakkal teli természetvédelmi terület Bytomban, gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Játszótér Bytomban, amely találkozóhelyként szolgál családok és gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "Un mic iaz în Bytom, înconjurat de copaci, ideal pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "O zonă cu apă locală în Bytom, care servește ca un refugiu liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Un iaz în Bytom, potrivit pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "Un lac idilic în Bytom, care oferă o atmosferă plăcută pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "Un lac mic în Bytom, apreciat pentru mediul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "O zonă cu apă naturală în Bytom, ideală pentru observarea florei și faunei.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "O zonă cu apă în Bytom, care se integrează armonios în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "O rezervație naturală cu iazuri în Bytom, cunoscută pentru fauna sa diversă de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "Un loc de joacă în Bytom, care servește ca punct de întâlnire pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staw Pod Topolami",
+                  "text": "A small pond in Bytom surrounded by trees, ideal for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.895604,
+                        50.363863
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "A local body of water in Bytom that serves as a quiet outdoor retreat.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "A pond in Bytom suitable for a relaxing time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Pod Kasztanami",
+                  "text": "An idyllic lake in Bytom providing a pleasant atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.889255,
+                        50.373903
+                  ]
+            },
+            {
+                  "name": "Źródełko",
+                  "text": "A small lake in Bytom valued for its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.95613,
+                        50.360137
+                  ]
+            },
+            {
+                  "name": "Staw Zapadliskowy",
+                  "text": "A local natural body of water in Bytom, ideal for observing flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.865527,
+                        50.362259
+                  ]
+            },
+            {
+                  "name": "Brantka",
+                  "text": "A body of water in Bytom that blends harmoniously into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.867553,
+                        50.368135
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "A nature reserve with ponds in Bytom, known for its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Getto",
+                  "text": "A playground in Bytom serving as a meeting point for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.9024,
+                        50.341635
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Beuthen", hu: "Bytom", ro: "Bytom", en: "Bytom"},
@@ -22980,6 +28101,105 @@ export const polandCitiesV2: POI[] = [
                         15.463252,
                         51.933585
                   ]
+            },
+            {
+                  "name": "Green Ohio Lake",
+                  "text": "Der Green Ohio Lake ist ein See in Zielona Gora mit einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.50818,
+                        51.935424
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny Nr. 4",
+                  "text": "Der Zbiornik retencyjny Nr. 4 in Zielona Gora ist ein See in städtischer Lage.",
+                  "category": "natural",
+                  "coords": [
+                        15.522743,
+                        51.898643
+                  ]
+            },
+            {
+                  "name": "Jezioro Cegielni",
+                  "text": "Der Jezioro Cegielni in Zielona Gora ist ein lokaler See, der einen malerischen Ort für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.455785,
+                        51.931931
+                  ]
+            },
+            {
+                  "name": "Zbiornik Retencyjny Jędrzychów",
+                  "text": "Der Zbiornik Retencyjny Jędrzychów in Zielona Gora ist ein Gewässer, das eine ruhige Umgebung für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.511717,
+                        51.906582
+                  ]
+            },
+            {
+                  "name": "Dzika Ochla",
+                  "text": "Der Dzika Ochla in Zielona Gora ist ein See, der Besuchern eine natürliche Kulisse für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.490184,
+                        51.902391
+                  ]
+            },
+            {
+                  "name": "Kąpielisko miejskie H2Ochla",
+                  "text": "Das Kąpielisko miejskie H2Ochla in Zielona Gora ist ein lokaler See, der als Ort für Erholung am Wasser dient.",
+                  "category": "natural",
+                  "coords": [
+                        15.485223,
+                        51.906501
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Arek",
+                  "text": "Sala Zabaw Arek in Zielona Gora ist ein familienfreundliches Ziel mit Spielbereichen für die Unterhaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.477584,
+                        51.942649
+                  ]
+            },
+            {
+                  "name": "Plac zabaw pod dębami",
+                  "text": "Plac zabaw pod dębami in Zielona Gora bietet eine unterhaltsame Umgebung für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.4684,
+                        51.944815
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Hop Siup",
+                  "text": "Sala Zabaw Hop Siup in Zielona Gora ist ein beliebter Indoor-Spielplatz, der aktiven Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.494782,
+                        51.946541
+                  ]
+            },
+            {
+                  "name": "Mały placyk zabaw",
+                  "text": "Mały placyk zabaw in Zielona Gora ist ein kleiner Spielbereich, der für die Unterhaltung jüngerer Kinder geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        15.520652,
+                        51.93889
+                  ]
+            },
+            {
+                  "name": "Sky Park",
+                  "text": "Sky Park in Zielona Gora ist ein modernes Freizeitzentrum, das verschiedene Aktivitäten für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.514829,
+                        51.938677
+                  ]
             }
       ],
       "hu": [
@@ -23224,6 +28444,105 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.463252,
                         51.933585
+                  ]
+            },
+            {
+                  "name": "Green Ohio Lake",
+                  "text": "A Green Ohio Lake egy tó Zielona Górán, nyugodt környezettel.",
+                  "category": "natural",
+                  "coords": [
+                        15.50818,
+                        51.935424
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny Nr. 4",
+                  "text": "A Zbiornik retencyjny Nr. 4 Zielona Górán egy városi fekvésű tó.",
+                  "category": "natural",
+                  "coords": [
+                        15.522743,
+                        51.898643
+                  ]
+            },
+            {
+                  "name": "Jezioro Cegielni",
+                  "text": "A Zielona Gora területén található Jezioro Cegielni egy helyi tó, amely festői helyszínt kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.455785,
+                        51.931931
+                  ]
+            },
+            {
+                  "name": "Zbiornik Retencyjny Jędrzychów",
+                  "text": "A Zielona Gora területén található Zbiornik Retencyjny Jędrzychów egy víztározó, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.511717,
+                        51.906582
+                  ]
+            },
+            {
+                  "name": "Dzika Ochla",
+                  "text": "A Zielona Gora városában található Dzika Ochla egy tó, amely természetes környezetet kínál a látogatóknak a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.490184,
+                        51.902391
+                  ]
+            },
+            {
+                  "name": "Kąpielisko miejskie H2Ochla",
+                  "text": "A Zielona Gora városában található Kąpielisko miejskie H2Ochla egy helyi tó, amely vízi kikapcsolódási helyszínként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        15.485223,
+                        51.906501
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Arek",
+                  "text": "A Zielona Gora városában található Sala Zabaw Arek egy családbarát úti cél, amely játékterekkel várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        15.477584,
+                        51.942649
+                  ]
+            },
+            {
+                  "name": "Plac zabaw pod dębami",
+                  "text": "A Zielona Gora városában található Plac zabaw pod dębami szórakoztató környezetet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.4684,
+                        51.944815
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Hop Siup",
+                  "text": "A Zielona Gora területén található Sala Zabaw Hop Siup egy népszerű beltéri játszóház, amely aktív szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.494782,
+                        51.946541
+                  ]
+            },
+            {
+                  "name": "Mały placyk zabaw",
+                  "text": "A Zielona Gora városában található Mały placyk zabaw egy kis játszótér, amely a kisgyermekek szórakoztatására alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        15.520652,
+                        51.93889
+                  ]
+            },
+            {
+                  "name": "Sky Park",
+                  "text": "A Zielona Gora területén található Sky Park egy modern szabadidőközpont, amely különféle tevékenységeket kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.514829,
+                        51.938677
                   ]
             }
       ],
@@ -23470,6 +28789,105 @@ export const polandCitiesV2: POI[] = [
                         15.463252,
                         51.933585
                   ]
+            },
+            {
+                  "name": "Green Ohio Lake",
+                  "text": "Green Ohio Lake este un lac din Zielona Gora cu un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        15.50818,
+                        51.935424
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny Nr. 4",
+                  "text": "Zbiornik retencyjny Nr. 4 din Zielona Gora este un lac situat în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        15.522743,
+                        51.898643
+                  ]
+            },
+            {
+                  "name": "Jezioro Cegielni",
+                  "text": "Jezioro Cegielni din Zielona Gora este un lac local care oferă un loc pitoresc pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.455785,
+                        51.931931
+                  ]
+            },
+            {
+                  "name": "Zbiornik Retencyjny Jędrzychów",
+                  "text": "Zbiornik Retencyjny Jędrzychów din Zielona Gora este un rezervor care oferă un mediu liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.511717,
+                        51.906582
+                  ]
+            },
+            {
+                  "name": "Dzika Ochla",
+                  "text": "Dzika Ochla din Zielona Gora este un lac care oferă vizitatorilor un cadru natural pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.490184,
+                        51.902391
+                  ]
+            },
+            {
+                  "name": "Kąpielisko miejskie H2Ochla",
+                  "text": "Kąpielisko miejskie H2Ochla din Zielona Gora este un lac local care servește ca loc pentru recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.485223,
+                        51.906501
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Arek",
+                  "text": "Sala Zabaw Arek din Zielona Gora este o destinație de familie cu zone de joacă pentru divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.477584,
+                        51.942649
+                  ]
+            },
+            {
+                  "name": "Plac zabaw pod dębami",
+                  "text": "Plac zabaw pod dębami din Zielona Gora oferă un mediu distractiv pentru copii, unde aceștia se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.4684,
+                        51.944815
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Hop Siup",
+                  "text": "Sala Zabaw Hop Siup din Zielona Gora este un loc de joacă interior popular, oferind distracție activă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.494782,
+                        51.946541
+                  ]
+            },
+            {
+                  "name": "Mały placyk zabaw",
+                  "text": "Mały placyk zabaw din Zielona Gora este o mică zonă de joacă, potrivită pentru divertismentul copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        15.520652,
+                        51.93889
+                  ]
+            },
+            {
+                  "name": "Sky Park",
+                  "text": "Sky Park din Zielona Gora este un centru modern de recreere, oferind diverse activități pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        15.514829,
+                        51.938677
+                  ]
             }
       ],
       "en": [
@@ -23715,6 +29133,105 @@ export const polandCitiesV2: POI[] = [
                         15.463252,
                         51.933585
                   ]
+            },
+            {
+                  "name": "Green Ohio Lake",
+                  "text": "Green Ohio Lake is a lake in Zielona Gora with a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        15.50818,
+                        51.935424
+                  ]
+            },
+            {
+                  "name": "Zbiornik retencyjny Nr. 4",
+                  "text": "Zbiornik retencyjny Nr. 4 in Zielona Gora is a lake in an urban location.",
+                  "category": "natural",
+                  "coords": [
+                        15.522743,
+                        51.898643
+                  ]
+            },
+            {
+                  "name": "Jezioro Cegielni",
+                  "text": "Jezioro Cegielni in Zielona Gora is a local lake offering a scenic spot for outdoor relaxation and nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.455785,
+                        51.931931
+                  ]
+            },
+            {
+                  "name": "Zbiornik Retencyjny Jędrzychów",
+                  "text": "Zbiornik Retencyjny Jędrzychów in Zielona Gora is a reservoir providing a calm setting for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.511717,
+                        51.906582
+                  ]
+            },
+            {
+                  "name": "Dzika Ochla",
+                  "text": "Dzika Ochla in Zielona Gora is a lake that offers visitors a natural setting for outdoor recreation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.490184,
+                        51.902391
+                  ]
+            },
+            {
+                  "name": "Kąpielisko miejskie H2Ochla",
+                  "text": "Kąpielisko miejskie H2Ochla in Zielona Gora is a local lake area that serves as a spot for waterside recreation.",
+                  "category": "natural",
+                  "coords": [
+                        15.485223,
+                        51.906501
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Arek",
+                  "text": "Sala Zabaw Arek in Zielona Gora is a family-friendly destination featuring play areas for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        15.477584,
+                        51.942649
+                  ]
+            },
+            {
+                  "name": "Plac zabaw pod dębami",
+                  "text": "Plac zabaw pod dębami in Zielona Gora provides a fun environment for children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        15.4684,
+                        51.944815
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw Hop Siup",
+                  "text": "Sala Zabaw Hop Siup in Zielona Gora is a popular indoor playground offering active fun for children.",
+                  "category": "family",
+                  "coords": [
+                        15.494782,
+                        51.946541
+                  ]
+            },
+            {
+                  "name": "Mały placyk zabaw",
+                  "text": "Mały placyk zabaw in Zielona Gora is a small play area suitable for the entertainment of younger children.",
+                  "category": "family",
+                  "coords": [
+                        15.520652,
+                        51.93889
+                  ]
+            },
+            {
+                  "name": "Sky Park",
+                  "text": "Sky Park in Zielona Gora is a modern recreation center offering various activities for families and children.",
+                  "category": "family",
+                  "coords": [
+                        15.514829,
+                        51.938677
+                  ]
             }
       ]
 },
@@ -23936,6 +29453,69 @@ export const polandCitiesV2: POI[] = [
                         18.552084,
                         50.089891
                   ]
+            },
+            {
+                  "name": "Zbiornik Tama Wielopolska",
+                  "text": "Ein See in Rybnik, der Möglichkeiten für entspannte Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.555253,
+                        50.11683
+                  ]
+            },
+            {
+                  "name": "SimCave",
+                  "text": "Ein modernes Unterhaltungszentrum in Rybnik für Fans von virtuellen Erlebnissen.",
+                  "category": "family",
+                  "coords": [
+                        18.535957,
+                        50.095567
+                  ]
+            },
+            {
+                  "name": "Wioska indiańska",
+                  "text": "Ein thematisch gestalteter Spielplatz in Rybnik für fantasievolles Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        18.520633,
+                        50.100766
+                  ]
+            },
+            {
+                  "name": "Skate Park",
+                  "text": "Ein Treffpunkt für sportliche Aktivitäten in Rybnik, ideal für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        18.545033,
+                        50.10871
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "Ein abenteuerlicher Spielbereich in Rybnik, der Kindern viel Bewegung ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        18.572005,
+                        50.103197
+                  ]
+            },
+            {
+                  "name": "Miasteczko ruchu drogowego",
+                  "text": "Ein Lernspielplatz in Rybnik, auf dem Kinder spielerisch Verkehrsregeln üben können.",
+                  "category": "family",
+                  "coords": [
+                        18.552874,
+                        50.102743
+                  ]
+            },
+            {
+                  "name": "Sikawki wodne dla dzieci",
+                  "text": "Ein Wasserspielplatz in Rybnik, der an warmen Tagen für Abkühlung und Spaß sorgt.",
+                  "category": "family",
+                  "coords": [
+                        18.548008,
+                        50.11052
+                  ]
             }
       ],
       "hu": [
@@ -24108,6 +29688,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.552084,
                         50.089891
+                  ]
+            },
+            {
+                  "name": "Zbiornik Tama Wielopolska",
+                  "text": "Tó Rybnikben, amely lehetőséget kínál pihentető sétákra a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.555253,
+                        50.11683
+                  ]
+            },
+            {
+                  "name": "SimCave",
+                  "text": "Modern szórakoztató központ Rybnikben a virtuális élmények kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        18.535957,
+                        50.095567
+                  ]
+            },
+            {
+                  "name": "Wioska indiańska",
+                  "text": "Tematikus játszótér Rybnikben a képzeletdús szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.520633,
+                        50.100766
+                  ]
+            },
+            {
+                  "name": "Skate Park",
+                  "text": "Sportolási helyszín Rybnikben, ideális gyerekek és fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.545033,
+                        50.10871
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "Kalandos játszóterület Rybnikben, amely sok mozgást tesz lehetővé a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.572005,
+                        50.103197
+                  ]
+            },
+            {
+                  "name": "Miasteczko ruchu drogowego",
+                  "text": "Oktató játszótér Rybnikben, ahol a gyerekek játékosan gyakorolhatják a közlekedési szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        18.552874,
+                        50.102743
+                  ]
+            },
+            {
+                  "name": "Sikawki wodne dla dzieci",
+                  "text": "Vízi játszótér Rybnikben, amely a meleg napokon hűsölést és szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        18.548008,
+                        50.11052
                   ]
             }
       ],
@@ -24282,6 +29925,69 @@ export const polandCitiesV2: POI[] = [
                         18.552084,
                         50.089891
                   ]
+            },
+            {
+                  "name": "Zbiornik Tama Wielopolska",
+                  "text": "Un lac în Rybnik care oferă oportunități pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.555253,
+                        50.11683
+                  ]
+            },
+            {
+                  "name": "SimCave",
+                  "text": "Un centru de divertisment modern în Rybnik pentru fanii experiențelor virtuale.",
+                  "category": "family",
+                  "coords": [
+                        18.535957,
+                        50.095567
+                  ]
+            },
+            {
+                  "name": "Wioska indiańska",
+                  "text": "Un loc de joacă tematic în Rybnik pentru joacă imaginativă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.520633,
+                        50.100766
+                  ]
+            },
+            {
+                  "name": "Skate Park",
+                  "text": "Un punct de întâlnire pentru activități sportive în Rybnik, ideal pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        18.545033,
+                        50.10871
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "O zonă de joacă aventuroasă în Rybnik, care permite multă mișcare copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.572005,
+                        50.103197
+                  ]
+            },
+            {
+                  "name": "Miasteczko ruchu drogowego",
+                  "text": "Un loc de joacă educativ în Rybnik, unde copiii pot exersa regulile de circulație prin joc.",
+                  "category": "family",
+                  "coords": [
+                        18.552874,
+                        50.102743
+                  ]
+            },
+            {
+                  "name": "Sikawki wodne dla dzieci",
+                  "text": "Un loc de joacă cu apă în Rybnik, care oferă răcoare și distracție în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        18.548008,
+                        50.11052
+                  ]
             }
       ],
       "en": [
@@ -24454,6 +30160,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.552084,
                         50.089891
+                  ]
+            },
+            {
+                  "name": "Zbiornik Tama Wielopolska",
+                  "text": "A lake in Rybnik that offers opportunities for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.555253,
+                        50.11683
+                  ]
+            },
+            {
+                  "name": "SimCave",
+                  "text": "A modern entertainment center in Rybnik for fans of virtual experiences.",
+                  "category": "family",
+                  "coords": [
+                        18.535957,
+                        50.095567
+                  ]
+            },
+            {
+                  "name": "Wioska indiańska",
+                  "text": "A themed playground in Rybnik for imaginative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        18.520633,
+                        50.100766
+                  ]
+            },
+            {
+                  "name": "Skate Park",
+                  "text": "A meeting point for sporting activities in Rybnik, ideal for children and teenagers.",
+                  "category": "family",
+                  "coords": [
+                        18.545033,
+                        50.10871
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "An adventurous play area in Rybnik that allows children lots of movement.",
+                  "category": "family",
+                  "coords": [
+                        18.572005,
+                        50.103197
+                  ]
+            },
+            {
+                  "name": "Miasteczko ruchu drogowego",
+                  "text": "An educational playground in Rybnik where children can playfully practice traffic rules.",
+                  "category": "family",
+                  "coords": [
+                        18.552874,
+                        50.102743
+                  ]
+            },
+            {
+                  "name": "Sikawki wodne dla dzieci",
+                  "text": "A water playground in Rybnik that provides cooling and fun on warm days.",
+                  "category": "family",
+                  "coords": [
+                        18.548008,
+                        50.11052
                   ]
             }
       ]
@@ -24775,6 +30544,78 @@ export const polandCitiesV2: POI[] = [
                         18.834813,
                         50.268293
                   ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Ein ruhiger See in Ruda Śląska, der sich gut für kurze Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Ein lokales Gewässer in Ruda Śląska, das einen Ausblick ins Grüne bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Ein kleiner Teich in Ruda Śląska, ideal für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "Ein Wasserbereich in Ruda Śląska mit Bezug zur Industriegeschichte der Region.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Ein naturnaher See in Ruda Śląska, der Ruhe und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Ein thematischer Spielplatz in Ruda Śląska, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Ein Spielplatz in Ruda Śląska mit verschiedenen Geräten für aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Ein klassischer Spielbereich mit Sandkasten in Ruda Śląska für junge Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
             }
       ],
       "hu": [
@@ -25046,6 +30887,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.834813,
                         50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Csendes tó Ruda Śląskában, amely alkalmas rövid sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Helyi vízfelület Ruda Śląskában, amely kilátást nyújt a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Kisméretű tó Ruda Śląskában, ideális egy kis szabadtéri pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "Vizes terület Ruda Śląskában, amely a régió ipari múltjához kapcsolódik.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Természetközeli tó Ruda Śląskában, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Tematikus játszótér Ruda Śląskában, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Játszótér Ruda Śląskában különféle eszközökkel az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Klasszikus játszórész homokozóval Ruda Śląskában fiatal családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
                   ]
             }
       ],
@@ -25319,6 +31232,78 @@ export const polandCitiesV2: POI[] = [
                         18.834813,
                         50.268293
                   ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Un lac liniștit în Ruda Śląska, potrivit pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "O zonă cu apă locală în Ruda Śląska, care oferă o vedere spre natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Un iaz mic în Ruda Śląska, ideal pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "O zonă cu apă în Ruda Śląska, legată de istoria industrială a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Un lac aproape de natură în Ruda Śląska, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Un loc de joacă tematic în Ruda Śląska, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Un loc de joacă în Ruda Śląska cu diverse echipamente pentru joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "O zonă de joacă clasică cu nisipar în Ruda Śląska pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
             }
       ],
       "en": [
@@ -25590,6 +31575,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.834813,
                         50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "A quiet lake in Ruda Śląska suitable for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "A local body of water in Ruda Śląska offering a view of the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "A small pond in Ruda Śląska, ideal for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "A water area in Ruda Śląska related to the region's industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "A natural lake in Ruda Śląska offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "A themed playground in Ruda Śląska that sparks children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "A playground in Ruda Śląska with various equipment for active play.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "A classic play area with a sandbox in Ruda Śląska for young families.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
                   ]
             }
       ]
@@ -25965,6 +32022,33 @@ export const polandCitiesV2: POI[] = [
                         17.92566,
                         50.654185
                   ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt in Opole ist ein unterhaltsamer Indoor-Spielplatz, der Kindern eine magische Spielumgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.926833,
+                        50.669901
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia in Opole ist ein Abenteuerspielplatz, der Kindern die Möglichkeit bietet, sich in einer sicheren Umgebung zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        17.928496,
+                        50.651976
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Drewniany fort\"",
+                  "text": "Plac Zabaw \"Drewniany fort\" in Opole bietet Kindern einen thematisch gestalteten Raum für kreatives und aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        17.930546,
+                        50.681616
+                  ]
             }
       ],
       "hu": [
@@ -26290,6 +32374,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.92566,
                         50.654185
+                  ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Az Opole városában található Bajkowy Labirynt egy szórakoztató beltéri játszóház, amely varázslatos környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.926833,
+                        50.669901
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Az Opole területén található Zoolandia egy kalandjátszótér, amely lehetőséget ad a gyerekeknek az aktív kikapcsolódásra biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        17.928496,
+                        50.651976
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Drewniany fort\"",
+                  "text": "Az Opole városában található Plac Zabaw \"Drewniany fort\" tematikus helyszínt biztosít a gyerekeknek a kreatív és aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.930546,
+                        50.681616
                   ]
             }
       ],
@@ -26617,6 +32728,33 @@ export const polandCitiesV2: POI[] = [
                         17.92566,
                         50.654185
                   ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt din Opole este un loc de joacă interior distractiv, oferind copiilor un mediu de joacă magic.",
+                  "category": "family",
+                  "coords": [
+                        17.926833,
+                        50.669901
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia din Opole este un loc de joacă de aventură care oferă copiilor șansa de a fi activi într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        17.928496,
+                        50.651976
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Drewniany fort\"",
+                  "text": "Plac Zabaw \"Drewniany fort\" din Opole oferă copiilor un spațiu tematic pentru joacă creativă și activă.",
+                  "category": "family",
+                  "coords": [
+                        17.930546,
+                        50.681616
+                  ]
             }
       ],
       "en": [
@@ -26943,6 +33081,33 @@ export const polandCitiesV2: POI[] = [
                         17.92566,
                         50.654185
                   ]
+            },
+            {
+                  "name": "Bajkowy Labirynt",
+                  "text": "Bajkowy Labirynt in Opole is an entertaining indoor playground providing a magical play environment for children.",
+                  "category": "family",
+                  "coords": [
+                        17.926833,
+                        50.669901
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia in Opole is an adventure playground offering children the chance to be active in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        17.928496,
+                        50.651976
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw \"Drewniany fort\"",
+                  "text": "Plac Zabaw \"Drewniany fort\" in Opole provides a themed space for children to engage in creative and active play.",
+                  "category": "family",
+                  "coords": [
+                        17.930546,
+                        50.681616
+                  ]
             }
       ]
 },
@@ -27182,6 +33347,51 @@ export const polandCitiesV2: POI[] = [
                         18.965917,
                         50.106609
                   ]
+            },
+            {
+                  "name": "Punkt czerpania wody",
+                  "text": "Ein kleines Gewässer in Tychy, das Teil der lokalen Naturlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.052534,
+                        50.180668
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw w parku Jaworek",
+                  "text": "Ein beliebter Wasserspielplatz in Tychy für Familienspaß im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        18.973387,
+                        50.112315
+                  ]
+            },
+            {
+                  "name": "Jaworkowa Dolina",
+                  "text": "Ein weitläufiger Spielbereich in Tychy für Kinder in einer grünen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        18.975549,
+                        50.111597
+                  ]
+            },
+            {
+                  "name": "plac zabaw Kinderlandia",
+                  "text": "Ein freundlicher Spielplatz in Tychy mit vielen Geräten für kleine Besucher.",
+                  "category": "family",
+                  "coords": [
+                        18.975614,
+                        50.102845
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"Nivea\"",
+                  "text": "Ein moderner Spielplatz in Tychy, der sich hervorragend für den täglichen Familienausflug eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.998999,
+                        50.114871
+                  ]
             }
       ],
       "hu": [
@@ -27372,6 +33582,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.965917,
                         50.106609
+                  ]
+            },
+            {
+                  "name": "Punkt czerpania wody",
+                  "text": "Egy kis vízfelület Tychyben, amely a helyi természeti táj része.",
+                  "category": "natural",
+                  "coords": [
+                        19.052534,
+                        50.180668
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw w parku Jaworek",
+                  "text": "Népszerű vízi játszótér Tychyben a nyári családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.973387,
+                        50.112315
+                  ]
+            },
+            {
+                  "name": "Jaworkowa Dolina",
+                  "text": "Kiterjedt játszóterület Tychyben gyerekeknek, zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.975549,
+                        50.111597
+                  ]
+            },
+            {
+                  "name": "plac zabaw Kinderlandia",
+                  "text": "Barátságos játszótér Tychyben sok játékkal a kis látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        18.975614,
+                        50.102845
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"Nivea\"",
+                  "text": "Modern játszótér Tychyben, amely kiválóan alkalmas a napi családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.998999,
+                        50.114871
                   ]
             }
       ],
@@ -27564,6 +33819,51 @@ export const polandCitiesV2: POI[] = [
                         18.965917,
                         50.106609
                   ]
+            },
+            {
+                  "name": "Punkt czerpania wody",
+                  "text": "Un mic luciu de apă în Tychy, care face parte din peisajul natural local.",
+                  "category": "natural",
+                  "coords": [
+                        19.052534,
+                        50.180668
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw w parku Jaworek",
+                  "text": "Un loc de joacă cu apă popular în Tychy pentru distracție în familie vara.",
+                  "category": "family",
+                  "coords": [
+                        18.973387,
+                        50.112315
+                  ]
+            },
+            {
+                  "name": "Jaworkowa Dolina",
+                  "text": "O zonă de joacă extinsă în Tychy pentru copii într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        18.975549,
+                        50.111597
+                  ]
+            },
+            {
+                  "name": "plac zabaw Kinderlandia",
+                  "text": "Un loc de joacă prietenos în Tychy cu multe echipamente pentru mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        18.975614,
+                        50.102845
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"Nivea\"",
+                  "text": "Un loc de joacă modern în Tychy, care este excelent pentru o ieșire zilnică în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.998999,
+                        50.114871
+                  ]
             }
       ],
       "en": [
@@ -27754,6 +34054,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.965917,
                         50.106609
+                  ]
+            },
+            {
+                  "name": "Punkt czerpania wody",
+                  "text": "A small body of water in Tychy that is part of the local natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.052534,
+                        50.180668
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw w parku Jaworek",
+                  "text": "A popular water playground in Tychy for family fun in summer.",
+                  "category": "family",
+                  "coords": [
+                        18.973387,
+                        50.112315
+                  ]
+            },
+            {
+                  "name": "Jaworkowa Dolina",
+                  "text": "A spacious play area in Tychy for children in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        18.975549,
+                        50.111597
+                  ]
+            },
+            {
+                  "name": "plac zabaw Kinderlandia",
+                  "text": "A friendly playground in Tychy with many devices for small visitors.",
+                  "category": "family",
+                  "coords": [
+                        18.975614,
+                        50.102845
+                  ]
+            },
+            {
+                  "name": "Plac zabaw \"Nivea\"",
+                  "text": "A modern playground in Tychy, which is excellent for a daily family outing.",
+                  "category": "family",
+                  "coords": [
+                        18.998999,
+                        50.114871
                   ]
             }
       ]
@@ -28102,6 +34447,123 @@ export const polandCitiesV2: POI[] = [
                         15.238106,
                         52.731818
                   ]
+            },
+            {
+                  "name": "Heinersdorfer See",
+                  "text": "Ein See in Gorzów Wielkopolski, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        15.2223,
+                        52.75246
+                  ]
+            },
+            {
+                  "name": "Osadnik",
+                  "text": "Ein lokales Gewässer in Gorzów Wielkopolski, das eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.274582,
+                        52.752365
+                  ]
+            },
+            {
+                  "name": "oczko wodne",
+                  "text": "Ein kleiner Teich in Gorzów Wielkopolski, der sich gut in die Umgebung einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        15.248049,
+                        52.753787
+                  ]
+            },
+            {
+                  "name": "Dolniak",
+                  "text": "Ein Spielplatz in Gorzów Wielkopolski, der Kindern Platz zum Toben im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.228988,
+                        52.755237
+                  ]
+            },
+            {
+                  "name": "Górniak",
+                  "text": "Ein modern gestalteter Spielbereich in Gorzów Wielkopolski für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.230934,
+                        52.755581
+                  ]
+            },
+            {
+                  "name": "Społeczniak",
+                  "text": "Ein städtischer Spielplatz in Gorzów Wielkopolski, ideal für Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        15.229705,
+                        52.752775
+                  ]
+            },
+            {
+                  "name": "Niziniak",
+                  "text": "Ein öffentlicher Spielplatz in Gorzów Wielkopolski, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        15.228051,
+                        52.755598
+                  ]
+            },
+            {
+                  "name": "Wyżyniak",
+                  "text": "Ein Kinderspielplatz in Gorzów Wielkopolski mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        15.230303,
+                        52.753923
+                  ]
+            },
+            {
+                  "name": "Metalowy",
+                  "text": "Ein Spielplatz mit Metallgeräten in Gorzów Wielkopolski für aktiven Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        15.227183,
+                        52.752888
+                  ]
+            },
+            {
+                  "name": "Wyżyniak Mały",
+                  "text": "Ein kleinerer Spielbereich in Gorzów Wielkopolski, ideal für jüngere Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.231458,
+                        52.753876
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 20-tce",
+                  "text": "Ein lokaler Nachbarschaftsspielplatz in Gorzów Wielkopolski für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.202995,
+                        52.725951
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 3-ce",
+                  "text": "Ein Spielplatz in Gorzów Wielkopolski, der eine sichere Spielumgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.207171,
+                        52.72675
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 7-ce",
+                  "text": "Ein lokaler Spielplatz in Gorzów Wielkopolski, der Kindern einen sicheren Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.206193,
+                        52.726501
+                  ]
             }
       ],
       "hu": [
@@ -28400,6 +34862,123 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.238106,
                         52.731818
+                  ]
+            },
+            {
+                  "name": "Jezioro Błotne",
+                  "text": "Tó Gorzów Wielkopolskiban, ideális sétákhoz és természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.2223,
+                        52.75246
+                  ]
+            },
+            {
+                  "name": "Osadnik",
+                  "text": "Helyi vízfelület Gorzów Wielkopolskiban, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        15.274582,
+                        52.752365
+                  ]
+            },
+            {
+                  "name": "oczko wodne",
+                  "text": "Kisméretű tó Gorzów Wielkopolskiban, amely jól illeszkedik a környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        15.248049,
+                        52.753787
+                  ]
+            },
+            {
+                  "name": "Dolniak",
+                  "text": "Játszótér Gorzów Wielkopolskiban, ahol a gyerekek kedvükre hancúrozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        15.228988,
+                        52.755237
+                  ]
+            },
+            {
+                  "name": "Górniak",
+                  "text": "Modern kialakítású játszórész Gorzów Wielkopolskiban családok számára.",
+                  "category": "family",
+                  "coords": [
+                        15.230934,
+                        52.755581
+                  ]
+            },
+            {
+                  "name": "Społeczniak",
+                  "text": "Városi játszótér Gorzów Wielkopolskiban, amely ideális szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        15.229705,
+                        52.752775
+                  ]
+            },
+            {
+                  "name": "Niziniak",
+                  "text": "Nyilvános játszótér Gorzów Wielkopolskiban, amely felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        15.228051,
+                        52.755598
+                  ]
+            },
+            {
+                  "name": "Wyżyniak",
+                  "text": "Gyermekjátszótér Gorzów Wielkopolskiban különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.230303,
+                        52.753923
+                  ]
+            },
+            {
+                  "name": "Metalowy",
+                  "text": "Fémeszközökkel felszerelt játszótér Gorzów Wielkopolskiban az aktív szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.227183,
+                        52.752888
+                  ]
+            },
+            {
+                  "name": "Wyżyniak Mały",
+                  "text": "Kisebb játszórész Gorzów Wielkopolskiban, ideális fiatalabb gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.231458,
+                        52.753876
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 20-tce",
+                  "text": "Helyi szomszédsági játszótér Gorzów Wielkopolskiban családok részére.",
+                  "category": "family",
+                  "coords": [
+                        15.202995,
+                        52.725951
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 3-ce",
+                  "text": "Játszótér Gorzów Wielkopolskiban, amely biztonságos környezetet nyújt a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.207171,
+                        52.72675
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 7-ce",
+                  "text": "Egy helyi játszótér Gorzów Wielkopolskiban, amely biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.206193,
+                        52.726501
                   ]
             }
       ],
@@ -28700,6 +35279,123 @@ export const polandCitiesV2: POI[] = [
                         15.238106,
                         52.731818
                   ]
+            },
+            {
+                  "name": "Jezioro Błotne",
+                  "text": "Un lac în Gorzów Wielkopolski, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.2223,
+                        52.75246
+                  ]
+            },
+            {
+                  "name": "Osadnik",
+                  "text": "O zonă cu apă locală în Gorzów Wielkopolski, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        15.274582,
+                        52.752365
+                  ]
+            },
+            {
+                  "name": "oczko wodne",
+                  "text": "Un iaz mic în Gorzów Wielkopolski, care se integrează bine în mediul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.248049,
+                        52.753787
+                  ]
+            },
+            {
+                  "name": "Dolniak",
+                  "text": "Un loc de joacă în Gorzów Wielkopolski, unde copiii se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.228988,
+                        52.755237
+                  ]
+            },
+            {
+                  "name": "Górniak",
+                  "text": "O zonă de joacă modernă în Gorzów Wielkopolski pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        15.230934,
+                        52.755581
+                  ]
+            },
+            {
+                  "name": "Społeczniak",
+                  "text": "Un loc de joacă urban în Gorzów Wielkopolski, ideal pentru activități de recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.229705,
+                        52.752775
+                  ]
+            },
+            {
+                  "name": "Niziniak",
+                  "text": "Un loc de joacă public în Gorzów Wielkopolski, care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        15.228051,
+                        52.755598
+                  ]
+            },
+            {
+                  "name": "Wyżyniak",
+                  "text": "Un loc de joacă pentru copii în Gorzów Wielkopolski cu diverse facilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.230303,
+                        52.753923
+                  ]
+            },
+            {
+                  "name": "Metalowy",
+                  "text": "Un loc de joacă cu echipamente metalice în Gorzów Wielkopolski pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        15.227183,
+                        52.752888
+                  ]
+            },
+            {
+                  "name": "Wyżyniak Mały",
+                  "text": "O zonă de joacă mai mică în Gorzów Wielkopolski, ideală pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        15.231458,
+                        52.753876
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 20-tce",
+                  "text": "Un loc de joacă local de cartier în Gorzów Wielkopolski pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.202995,
+                        52.725951
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 3-ce",
+                  "text": "Un loc de joacă în Gorzów Wielkopolski, care oferă un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.207171,
+                        52.72675
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 7-ce",
+                  "text": "Un loc de joacă local în Gorzów Wielkopolski, care oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.206193,
+                        52.726501
+                  ]
             }
       ],
       "en": [
@@ -28998,6 +35694,123 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.238106,
                         52.731818
+                  ]
+            },
+            {
+                  "name": "Jezioro Błotne",
+                  "text": "A lake in Gorzów Wielkopolski, ideal for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        15.2223,
+                        52.75246
+                  ]
+            },
+            {
+                  "name": "Osadnik",
+                  "text": "A local body of water in Gorzów Wielkopolski offering a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        15.274582,
+                        52.752365
+                  ]
+            },
+            {
+                  "name": "oczko wodne",
+                  "text": "A small pond in Gorzów Wielkopolski that fits well into its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.248049,
+                        52.753787
+                  ]
+            },
+            {
+                  "name": "Dolniak",
+                  "text": "A playground in Gorzów Wielkopolski offering space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        15.228988,
+                        52.755237
+                  ]
+            },
+            {
+                  "name": "Górniak",
+                  "text": "A modernly designed play area in Gorzów Wielkopolski for families with children.",
+                  "category": "family",
+                  "coords": [
+                        15.230934,
+                        52.755581
+                  ]
+            },
+            {
+                  "name": "Społeczniak",
+                  "text": "A city playground in Gorzów Wielkopolski, ideal for leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        15.229705,
+                        52.752775
+                  ]
+            },
+            {
+                  "name": "Niziniak",
+                  "text": "A public playground in Gorzów Wielkopolski that invites exploration.",
+                  "category": "family",
+                  "coords": [
+                        15.228051,
+                        52.755598
+                  ]
+            },
+            {
+                  "name": "Wyżyniak",
+                  "text": "A children's playground in Gorzów Wielkopolski with various play options.",
+                  "category": "family",
+                  "coords": [
+                        15.230303,
+                        52.753923
+                  ]
+            },
+            {
+                  "name": "Metalowy",
+                  "text": "A playground with metal equipment in Gorzów Wielkopolski for active fun.",
+                  "category": "family",
+                  "coords": [
+                        15.227183,
+                        52.752888
+                  ]
+            },
+            {
+                  "name": "Wyżyniak Mały",
+                  "text": "A smaller play area in Gorzów Wielkopolski, ideal for younger children.",
+                  "category": "family",
+                  "coords": [
+                        15.231458,
+                        52.753876
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 20-tce",
+                  "text": "A local neighborhood playground in Gorzów Wielkopolski for families.",
+                  "category": "family",
+                  "coords": [
+                        15.202995,
+                        52.725951
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 3-ce",
+                  "text": "A playground in Gorzów Wielkopolski providing a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.207171,
+                        52.72675
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na 7-ce",
+                  "text": "A local playground in Gorzów Wielkopolski offering a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.206193,
+                        52.726501
                   ]
             }
       ]
@@ -29310,6 +36123,42 @@ export const polandCitiesV2: POI[] = [
                         19.400413,
                         54.161534
                   ]
+            },
+            {
+                  "name": "Drausensee",
+                  "text": "Druzno bei Elblag ist ein bedeutender See und Naturschutzgebiet, bekannt für seine vielfältige Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        19.453846,
+                        54.086466
+                  ]
+            },
+            {
+                  "name": "Park Piekarczyka",
+                  "text": "Park Piekarczyka in Elblag ist ein lokaler Park mit Spielbereichen, die ideal für Familienbesuche sind.",
+                  "category": "family",
+                  "coords": [
+                        19.39645,
+                        54.159219
+                  ]
+            },
+            {
+                  "name": "Arcade Classics Muzeum",
+                  "text": "Das Arcade Classics Muzeum in Elblag bietet eine Sammlung klassischer Spiele und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        19.432219,
+                        54.151186
+                  ]
+            },
+            {
+                  "name": "Obłędny tunel",
+                  "text": "Obłędny tunel in Elblag ist ein interessanter Spielbereich, der Kindern ein einzigartiges und unterhaltsames Erlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.414843,
+                        54.13618
+                  ]
             }
       ],
       "hu": [
@@ -29572,6 +36421,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.400413,
                         54.161534
+                  ]
+            },
+            {
+                  "name": "Druzno",
+                  "text": "Az Elblag közelében fekvő Druzno egy jelentős tó és természetvédelmi terület, amely gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.453846,
+                        54.086466
+                  ]
+            },
+            {
+                  "name": "Park Piekarczyka",
+                  "text": "Az Elblag városában található Park Piekarczyka egy helyi park játszóterekkel, amely ideális a családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.39645,
+                        54.159219
+                  ]
+            },
+            {
+                  "name": "Arcade Classics Muzeum",
+                  "text": "Az Elblag területén található Arcade Classics Muzeum klasszikus játékok gyűjteményét és szórakozást kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        19.432219,
+                        54.151186
+                  ]
+            },
+            {
+                  "name": "Obłędny tunel",
+                  "text": "Az Elblag városában található Obłędny tunel egy érdekes játszótér, amely egyedi és szórakoztató élményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.414843,
+                        54.13618
                   ]
             }
       ],
@@ -29836,6 +36721,42 @@ export const polandCitiesV2: POI[] = [
                         19.400413,
                         54.161534
                   ]
+            },
+            {
+                  "name": "Druzno",
+                  "text": "Druzno, situat lângă Elblag, este un lac important și o rezervație naturală, cunoscut pentru flora și fauna sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        19.453846,
+                        54.086466
+                  ]
+            },
+            {
+                  "name": "Park Piekarczyka",
+                  "text": "Park Piekarczyka din Elblag este un parc local cu zone de joacă, ideal pentru vizitele în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.39645,
+                        54.159219
+                  ]
+            },
+            {
+                  "name": "Arcade Classics Muzeum",
+                  "text": "Arcade Classics Muzeum din Elblag oferă o colecție de jocuri clasice și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        19.432219,
+                        54.151186
+                  ]
+            },
+            {
+                  "name": "Obłędny tunel",
+                  "text": "Obłędny tunel din Elblag este o zonă de joacă interesantă, oferind copiilor o experiență unică și distractivă.",
+                  "category": "family",
+                  "coords": [
+                        19.414843,
+                        54.13618
+                  ]
             }
       ],
       "en": [
@@ -30098,6 +37019,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.400413,
                         54.161534
+                  ]
+            },
+            {
+                  "name": "Druzno",
+                  "text": "Druzno near Elblag is a significant lake and nature reserve known for its rich wildlife and scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.453846,
+                        54.086466
+                  ]
+            },
+            {
+                  "name": "Park Piekarczyka",
+                  "text": "Park Piekarczyka in Elblag is a local park with play areas that are ideal for family visits.",
+                  "category": "family",
+                  "coords": [
+                        19.39645,
+                        54.159219
+                  ]
+            },
+            {
+                  "name": "Arcade Classics Muzeum",
+                  "text": "Arcade Classics Muzeum in Elblag features a collection of classic games and entertainment for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        19.432219,
+                        54.151186
+                  ]
+            },
+            {
+                  "name": "Obłędny tunel",
+                  "text": "Obłędny tunel in Elblag is an interesting play area providing a unique and fun experience for children.",
+                  "category": "family",
+                  "coords": [
+                        19.414843,
+                        54.13618
                   ]
             }
       ]
@@ -30374,6 +37331,24 @@ export const polandCitiesV2: POI[] = [
                         19.691461,
                         52.534704
                   ]
+            },
+            {
+                  "name": "Zalew Sobótka",
+                  "text": "Ein Erholungssee in Plock, der im Sommer zum Baden und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.669994,
+                        52.548336
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "Ein großer Stausee bei Plock, der eine weite Wasserlandschaft für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
             }
       ],
       "hu": [
@@ -30600,6 +37575,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.691461,
                         52.534704
+                  ]
+            },
+            {
+                  "name": "Zalew Sobótka",
+                  "text": "Pihenőhelyként szolgáló tó Plockban, amely nyáron fürdésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.669994,
+                        52.548336
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "Nagy víztározó Plock közelében, amely tágas vízfelületet kínál a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
                   ]
             }
       ],
@@ -30828,6 +37821,24 @@ export const polandCitiesV2: POI[] = [
                         19.691461,
                         52.534704
                   ]
+            },
+            {
+                  "name": "Zalew Sobótka",
+                  "text": "Un lac de agrement în Plock, care invită la scăldat și relaxare pe timp de vară.",
+                  "category": "natural",
+                  "coords": [
+                        19.669994,
+                        52.548336
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "Un rezervor mare lângă Plock, care oferă un peisaj acvatic vast pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
             }
       ],
       "en": [
@@ -31055,6 +38066,24 @@ export const polandCitiesV2: POI[] = [
                         19.691461,
                         52.534704
                   ]
+            },
+            {
+                  "name": "Zalew Sobótka",
+                  "text": "A recreational lake in Plock that invites swimming and relaxation in summer.",
+                  "category": "natural",
+                  "coords": [
+                        19.669994,
+                        52.548336
+                  ]
+            },
+            {
+                  "name": "Włocławek Reservoir",
+                  "text": "A large reservoir near Plock that offers a vast water landscape for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
             }
       ]
 },
@@ -31213,6 +38242,33 @@ export const polandCitiesV2: POI[] = [
                         19.192401,
                         50.323262
                   ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Ein malerischer See in Dąbrowa Górnicza, ideal für Spaziergänge und Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Miasteczko Rowerowe",
+                  "text": "Ein thematischer Spielplatz in Dąbrowa Górnicza, der Kindern spielerisch Bewegung ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        19.223933,
+                        50.330364
+                  ]
+            },
+            {
+                  "name": "Wspinaczkowy plac zabaw",
+                  "text": "Ein moderner Kletterspielplatz in Dąbrowa Górnicza mit verschiedenen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.227828,
+                        50.323984
+                  ]
             }
       ],
       "hu": [
@@ -31322,6 +38378,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.192401,
                         50.323262
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Glefestői tó Dąbrowa Górniczában, amely ideális sétákhoz és természetközeli kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Miasteczko Rowerowe",
+                  "text": "Egy tematikus játszótér Dąbrowa Górniczában, amely játékos mozgási lehetőséget biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.223933,
+                        50.330364
+                  ]
+            },
+            {
+                  "name": "Wspinaczkowy plac zabaw",
+                  "text": "Egy modern mászókás játszótér Dąbrowa Górniczában, különféle aktivitásokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.227828,
+                        50.323984
                   ]
             }
       ],
@@ -31433,6 +38516,33 @@ export const polandCitiesV2: POI[] = [
                         19.192401,
                         50.323262
                   ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Un lac pitoresc în Dąbrowa Górnicza, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Miasteczko Rowerowe",
+                  "text": "Un loc de joacă tematic în Dąbrowa Górnicza care oferă copiilor oportunități de mișcare prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        19.223933,
+                        50.330364
+                  ]
+            },
+            {
+                  "name": "Wspinaczkowy plac zabaw",
+                  "text": "Un loc de joacă modern cu structuri de cățărat în Dąbrowa Górnicza, cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.227828,
+                        50.323984
+                  ]
             }
       ],
       "en": [
@@ -31542,6 +38652,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.192401,
                         50.323262
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "A scenic lake in Dąbrowa Górnicza, ideal for walks and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Miasteczko Rowerowe",
+                  "text": "A themed playground in Dąbrowa Górnicza providing playful movement opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        19.223933,
+                        50.330364
+                  ]
+            },
+            {
+                  "name": "Wspinaczkowy plac zabaw",
+                  "text": "A modern climbing playground in Dąbrowa Górnicza with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        19.227828,
+                        50.323984
                   ]
             }
       ]
@@ -31881,6 +39018,24 @@ export const polandCitiesV2: POI[] = [
                         16.27663,
                         50.743995
                   ]
+            },
+            {
+                  "name": "Jeziorko Gedymina",
+                  "text": "Der Jeziorko Gedymina in Walbrzych ist ein kleiner, malerischer See, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.270975,
+                        50.796576
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki in Walbrzych bietet verschiedene Spiele und Aktivitäten für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.265877,
+                        50.766532
+                  ]
             }
       ],
       "hu": [
@@ -32170,6 +39325,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.27663,
                         50.743995
+                  ]
+            },
+            {
+                  "name": "Jeziorko Gedymina",
+                  "text": "A Walbrzych területén fekvő Jeziorko Gedymina egy kicsi, festői tó, amely kiválóan alkalmas pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.270975,
+                        50.796576
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "A Walbrzych városában található Strefa Rozrywki különféle játékokat és tevékenységeket kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.265877,
+                        50.766532
                   ]
             }
       ],
@@ -32461,6 +39634,24 @@ export const polandCitiesV2: POI[] = [
                         16.27663,
                         50.743995
                   ]
+            },
+            {
+                  "name": "Jeziorko Gedymina",
+                  "text": "Jeziorko Gedymina din Walbrzych este un lac mic și pitoresc, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        16.270975,
+                        50.796576
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki din Walbrzych oferă diverse jocuri și activități pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        16.265877,
+                        50.766532
+                  ]
             }
       ],
       "en": [
@@ -32751,6 +39942,24 @@ export const polandCitiesV2: POI[] = [
                         16.27663,
                         50.743995
                   ]
+            },
+            {
+                  "name": "Jeziorko Gedymina",
+                  "text": "Jeziorko Gedymina in Walbrzych is a small, scenic lake well-suited for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.270975,
+                        50.796576
+                  ]
+            },
+            {
+                  "name": "Strefa Rozrywki",
+                  "text": "Strefa Rozrywki in Walbrzych offers various games and activities for children and families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        16.265877,
+                        50.766532
+                  ]
             }
       ]
 },
@@ -32981,6 +40190,87 @@ export const polandCitiesV2: POI[] = [
                         19.065955,
                         52.656313
                   ]
+            },
+            {
+                  "name": "Jezioro Radyszyńskie",
+                  "text": "Ein malerischer See bei Wloclawek, ideal für ruhige Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        19.163848,
+                        52.612327
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziemionek",
+                  "text": "Ein ruhiges Gewässer in der Nähe von Wloclawek, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.123136,
+                        52.627909
+                  ]
+            },
+            {
+                  "name": "Jezioro Rybnica",
+                  "text": "Ein See bei Wloclawek, der eine friedliche Atmosphäre für Erholungsuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.136172,
+                        52.627755
+                  ]
+            },
+            {
+                  "name": "Widoń",
+                  "text": "Ein kleiner See in der Region Wloclawek, der zur Entspannung im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.130398,
+                        52.595402
+                  ]
+            },
+            {
+                  "name": "Jezioro Łąkie",
+                  "text": "Ein schöner Natursee bei Wloclawek, ideal für Ausflüge in die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.145979,
+                        52.617614
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyn Czarne",
+                  "text": "Ein See in der Nähe von Wloclawek, der eine ruhige Kulisse für Wanderer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.156206,
+                        52.610978
+                  ]
+            },
+            {
+                  "name": "Wikaryjskie",
+                  "text": "Ein beliebter See bei Wloclawek, der gute Möglichkeiten zum Baden und für Wassersport bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.119283,
+                        52.604779
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "Der große Stausee bei Wloclawek bietet weite Ausblicke und Raum für Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
+            },
+            {
+                  "name": "Centrum zabaw Rio",
+                  "text": "Ein lebhaftes Spielzentrum in Wloclawek für vielseitigen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        19.07186,
+                        52.655044
+                  ]
             }
       ],
       "hu": [
@@ -33162,6 +40452,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.065955,
                         52.656313
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyńskie",
+                  "text": "Festői tó Wloclawek közelében, ideális nyugodt sétákra a parton.",
+                  "category": "natural",
+                  "coords": [
+                        19.163848,
+                        52.612327
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziemionek",
+                  "text": "Nyugodt vízfelület Wloclawek közelében, természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        19.123136,
+                        52.627909
+                  ]
+            },
+            {
+                  "name": "Jezioro Rybnica",
+                  "text": "Tó Wloclawek közelében, amely békés légkört kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.136172,
+                        52.627755
+                  ]
+            },
+            {
+                  "name": "Widoń",
+                  "text": "Egy kis tó Wloclawek környékén, amely szabadtéri kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        19.130398,
+                        52.595402
+                  ]
+            },
+            {
+                  "name": "Jezioro Łąkie",
+                  "text": "Szép természetes tó Wloclawek közelében, ideális kirándulásokhoz a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        19.145979,
+                        52.617614
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyn Czarne",
+                  "text": "Tó Wloclawek közelében, amely nyugodt hátteret nyújt a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.156206,
+                        52.610978
+                  ]
+            },
+            {
+                  "name": "Wikaryjskie",
+                  "text": "Népszerű tó Wloclawek közelében, amely jó lehetőségeket kínál fürdésre és vízi sportokra.",
+                  "category": "natural",
+                  "coords": [
+                        19.119283,
+                        52.604779
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "A Wloclawek melletti nagy víztározó tágas kilátást és teret kínál a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
+            },
+            {
+                  "name": "Centrum zabaw Rio",
+                  "text": "Vidám játszóközpont Wloclawekben a sokoldalú családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.07186,
+                        52.655044
                   ]
             }
       ],
@@ -33345,6 +40716,87 @@ export const polandCitiesV2: POI[] = [
                         19.065955,
                         52.656313
                   ]
+            },
+            {
+                  "name": "Jezioro Radyszyńskie",
+                  "text": "Un lac pitoresc lângă Wloclawek, ideal pentru plimbări liniștite pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        19.163848,
+                        52.612327
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziemionek",
+                  "text": "Un luciu de apă liniștit lângă Wloclawek, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.123136,
+                        52.627909
+                  ]
+            },
+            {
+                  "name": "Jezioro Rybnica",
+                  "text": "Un lac lângă Wloclawek care oferă o atmosferă pașnică pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        19.136172,
+                        52.627755
+                  ]
+            },
+            {
+                  "name": "Widoń",
+                  "text": "Un lac mic în regiunea Wloclawek, care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.130398,
+                        52.595402
+                  ]
+            },
+            {
+                  "name": "Jezioro Łąkie",
+                  "text": "Un lac natural frumos lângă Wloclawek, ideal pentru excursii în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        19.145979,
+                        52.617614
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyn Czarne",
+                  "text": "Un lac lângă Wloclawek care oferă un cadru liniștit pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        19.156206,
+                        52.610978
+                  ]
+            },
+            {
+                  "name": "Wikaryjskie",
+                  "text": "Un lac popular lângă Wloclawek, care oferă condiții bune pentru scăldat și sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        19.119283,
+                        52.604779
+                  ]
+            },
+            {
+                  "name": "Zalew Włocławski",
+                  "text": "Rezervorul mare de lângă Wloclawek oferă vederi largi și spațiu pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
+            },
+            {
+                  "name": "Centrum zabaw Rio",
+                  "text": "Un centru de joacă plin de viață în Wloclawek pentru distracție diversă în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.07186,
+                        52.655044
+                  ]
             }
       ],
       "en": [
@@ -33526,6 +40978,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.065955,
                         52.656313
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyńskie",
+                  "text": "A picturesque lake near Wloclawek, ideal for quiet walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        19.163848,
+                        52.612327
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziemionek",
+                  "text": "A quiet body of water near Wloclawek, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.123136,
+                        52.627909
+                  ]
+            },
+            {
+                  "name": "Jezioro Rybnica",
+                  "text": "A lake near Wloclawek that offers a peaceful atmosphere for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.136172,
+                        52.627755
+                  ]
+            },
+            {
+                  "name": "Widoń",
+                  "text": "A small lake in the Wloclawek region that invites outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.130398,
+                        52.595402
+                  ]
+            },
+            {
+                  "name": "Jezioro Łąkie",
+                  "text": "A beautiful natural lake near Wloclawek, ideal for outings into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.145979,
+                        52.617614
+                  ]
+            },
+            {
+                  "name": "Jezioro Radyszyn Czarne",
+                  "text": "A lake near Wloclawek that provides a quiet backdrop for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        19.156206,
+                        52.610978
+                  ]
+            },
+            {
+                  "name": "Wikaryjskie",
+                  "text": "A popular lake near Wloclawek that offers good opportunities for swimming and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        19.119283,
+                        52.604779
+                  ]
+            },
+            {
+                  "name": "Włocławek Reservoir",
+                  "text": "The large reservoir near Wloclawek offers wide views and space for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.432745,
+                        52.595094
+                  ]
+            },
+            {
+                  "name": "Centrum zabaw Rio",
+                  "text": "A lively play center in Wloclawek for versatile family fun.",
+                  "category": "family",
+                  "coords": [
+                        19.07186,
+                        52.655044
                   ]
             }
       ]
@@ -33937,6 +41470,33 @@ export const polandCitiesV2: POI[] = [
                         20.979537,
                         50.001568
                   ]
+            },
+            {
+                  "name": "Zbiornik Skrzyszów",
+                  "text": "Ein ruhiger See in Tarnów, der sich hervorragend für eine entspannte Zeit im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.087977,
+                        49.97806
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski",
+                  "text": "Ein beliebter Spielplatz in Tarnów, der viel Platz für familiäre Freizeitaktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.984963,
+                        50.021045
+                  ]
+            },
+            {
+                  "name": "FlyPark",
+                  "text": "Ein moderner Trampolinpark in Tarnów, der aktive Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.004719,
+                        50.034932
+                  ]
             }
       ],
       "hu": [
@@ -34298,6 +41858,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.979537,
                         50.001568
+                  ]
+            },
+            {
+                  "name": "Zbiornik Skrzyszów",
+                  "text": "Egy nyugodt tó Tarnówban, amely kiválóan alkalmas a szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        21.087977,
+                        49.97806
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski",
+                  "text": "Egy népszerű játszótér Tarnówban, amely sok helyet kínál a családi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        20.984963,
+                        50.021045
+                  ]
+            },
+            {
+                  "name": "FlyPark",
+                  "text": "Egy modern trambulinpark Tarnówban, amely aktív szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        21.004719,
+                        50.034932
                   ]
             }
       ],
@@ -34661,6 +42248,33 @@ export const polandCitiesV2: POI[] = [
                         20.979537,
                         50.001568
                   ]
+            },
+            {
+                  "name": "Zbiornik Skrzyszów",
+                  "text": "Un lac liniștit în Tarnów, excelent pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.087977,
+                        49.97806
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski",
+                  "text": "Un loc de joacă popular în Tarnów, care oferă mult spațiu pentru activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        20.984963,
+                        50.021045
+                  ]
+            },
+            {
+                  "name": "FlyPark",
+                  "text": "Un parc de trambuline modern în Tarnów care oferă distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.004719,
+                        50.034932
+                  ]
             }
       ],
       "en": [
@@ -35022,6 +42636,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.979537,
                         50.001568
+                  ]
+            },
+            {
+                  "name": "Zbiornik Skrzyszów",
+                  "text": "A quiet lake in Tarnów, excellent for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        21.087977,
+                        49.97806
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski",
+                  "text": "A popular playground in Tarnów offering plenty of space for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        20.984963,
+                        50.021045
+                  ]
+            },
+            {
+                  "name": "FlyPark",
+                  "text": "A modern trampoline park in Tarnów offering active entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.004719,
+                        50.034932
                   ]
             }
       ]
@@ -37776,7 +45417,124 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-kalisz-cities-v2",
+    id: "poland-kalisz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zalew Szałe",
+                  "text": "Ein weitläufiger See bei Kalisz, ideal für lange Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.159704,
+                        51.726193
+                  ]
+            },
+            {
+                  "name": "Centrum Zabaw i Edukacji Dzieci \"Hali Gali\"",
+                  "text": "Ein Bildungs- und Spielzentrum in Kalisz mit vielfältigen Angeboten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.093482,
+                        51.75599
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Ein lokaler Schulspielplatz in Kalisz, der Kindern Möglichkeiten zum aktiven Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.07133,
+                        51.759588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zalew Szałe",
+                  "text": "Egy kiterjedt tó Kalisz közelében, amely ideális hosszú sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.159704,
+                        51.726193
+                  ]
+            },
+            {
+                  "name": "Centrum Zabaw i Edukacji Dzieci \"Hali Gali\"",
+                  "text": "Oktatási és játszóközpont Kaliszban, változatos programokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.093482,
+                        51.75599
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Egy helyi iskolai játszótér Kaliszban, amely aktív játéklehetőséget biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.07133,
+                        51.759588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zalew Szałe",
+                  "text": "Un lac întins lângă Kalisz, ideal pentru plimbări lungi și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.159704,
+                        51.726193
+                  ]
+            },
+            {
+                  "name": "Centrum Zabaw i Edukacji Dzieci \"Hali Gali\"",
+                  "text": "Un centru de educație și joacă în Kalisz, cu oferte diverse pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.093482,
+                        51.75599
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "Un loc de joacă școlar local în Kalisz, care oferă copiilor oportunități de joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        18.07133,
+                        51.759588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zalew Szałe",
+                  "text": "An extensive lake near Kalisz, ideal for long walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.159704,
+                        51.726193
+                  ]
+            },
+            {
+                  "name": "Centrum Zabaw i Edukacji Dzieci \"Hali Gali\"",
+                  "text": "An educational and play center in Kalisz with diverse offerings for children.",
+                  "category": "family",
+                  "coords": [
+                        18.093482,
+                        51.75599
+                  ]
+            },
+            {
+                  "name": "Szkolny plac zabaw",
+                  "text": "A local school playground in Kalisz providing children with active play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        18.07133,
+                        51.759588
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Kalisch", hu: "Kalisz", ro: "Kalisz", en: "Kalisz"},
@@ -37823,7 +45581,124 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-legnica-cities-v2",
+    id: "poland-legnica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Das Kąpielisko Północne in Legnica ist ein Seegebiet, das sich ideal für Erholung im Freien und Aktivitäten am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Piramida Viessmann in Legnica ist ein einzigartiger Spielbereich, der Kinder zum aktiven Bewegen und Klettern einlädt.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Dieser Trampolinpark in Legnica bietet eine unterhaltsame und energiegeladene Umgebung für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "A Legnica területén található Kąpielisko Północne egy tóparti terület, amely ideális a szabadtéri kikapcsolódáshoz és vízi sportokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "A Legnica városában található Piramida Viessmann egy egyedi játszótér, amely aktív mozgásra és mászásra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Ez a Legnica területén található trambulinpark szórakoztató és energikus környezetet biztosít gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Kąpielisko Północne din Legnica este o zonă de lac ideală pentru recreere în aer liber și activități pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Piramida Viessmann din Legnica este o zonă de joacă unică, care invită copiii la mișcare activă și cățărare.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "Acest parc de trambuline din Legnica oferă un mediu distractiv și plin de energie pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Północne",
+                  "text": "Kąpielisko Północne in Legnica is a lake area ideal for outdoor recreation and waterside activities.",
+                  "category": "natural",
+                  "coords": [
+                        16.152386,
+                        51.217035
+                  ]
+            },
+            {
+                  "name": "Piramida Viessmann",
+                  "text": "Piramida Viessmann in Legnica is a unique play area that encourages children to engage in active movement and climbing.",
+                  "category": "family",
+                  "coords": [
+                        16.168963,
+                        51.199983
+                  ]
+            },
+            {
+                  "name": "Jump heaven, park trampolin",
+                  "text": "This trampoline park in Legnica provides a fun and energetic environment for children and teenagers.",
+                  "category": "family",
+                  "coords": [
+                        16.175645,
+                        51.206302
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Liegnitz", hu: "Legnica", ro: "Legnica", en: "Legnica"},
@@ -38114,6 +45989,96 @@ export const polandCitiesV2: POI[] = [
                         18.736556,
                         53.484813
                   ]
+            },
+            {
+                  "name": "Jezioro Sadowo",
+                  "text": "Ein See bei Grudziadz, der eine natürliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.846623,
+                        53.464887
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Pierwsze",
+                  "text": "Ein Gewässer in der Nähe von Grudziadz, ideal für Ruhe und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        18.847283,
+                        53.476531
+                  ]
+            },
+            {
+                  "name": "Jezioro Tarpno",
+                  "text": "Ein Erholungssee in Grudziadz, der bei Einheimischen für Freizeitaktivitäten am Wasser beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.822291,
+                        53.496226
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Drugie",
+                  "text": "Dieser See bei Grudziadz bietet eine schöne Naturkulisse für Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        18.855027,
+                        53.479115
+                  ]
+            },
+            {
+                  "name": "Jezioro Kociołek",
+                  "text": "Ein kleiner See bei Grudziadz, eingebettet in eine ruhige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.714166,
+                        53.42056
+                  ]
+            },
+            {
+                  "name": "Jezioro Torfniaki",
+                  "text": "Ein naturnaher See in der Region Grudziadz, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.846169,
+                        53.462042
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Małe",
+                  "text": "Ein See bei Grudziadz, der eine friedliche Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.73387,
+                        53.423846
+                  ]
+            },
+            {
+                  "name": "Jezioro Bzowskie",
+                  "text": "Ein malerischer See in der Nähe von Grudziadz, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.703679,
+                        53.535026
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Wielkie",
+                  "text": "Ein großer See bei Grudziadz mit verschiedenen Freizeitmöglichkeiten am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        18.74836,
+                        53.433722
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Ein Verkehrsspielplatz in Grudziadz, auf dem Kinder sicher Fahrradfahren üben können.",
+                  "category": "family",
+                  "coords": [
+                        18.766272,
+                        53.488146
+                  ]
             }
       ],
       "hu": [
@@ -38358,6 +46323,96 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.736556,
                         53.484813
+                  ]
+            },
+            {
+                  "name": "Jezioro Sadowo",
+                  "text": "Tó Grudziadz közelében, amely természetes környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.846623,
+                        53.464887
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Pierwsze",
+                  "text": "Vízfelület Grudziadz közelében, ideális a csendre és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.847283,
+                        53.476531
+                  ]
+            },
+            {
+                  "name": "Jezioro Tarpno",
+                  "text": "Pihenőhelyként szolgáló tó Grudziadzban, amely népszerű a helyiek körében a vízi szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.822291,
+                        53.496226
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Drugie",
+                  "text": "Ez a Grudziadz melletti tó szép természeti hátteret kínál a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.855027,
+                        53.479115
+                  ]
+            },
+            {
+                  "name": "Jezioro Kociołek",
+                  "text": "Kis tó Grudziadz közelében, nyugodt tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        18.714166,
+                        53.42056
+                  ]
+            },
+            {
+                  "name": "Jezioro Torfniaki",
+                  "text": "Természetközeli tó Grudziadz környékén, amely szabadtéri időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.846169,
+                        53.462042
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Małe",
+                  "text": "Tó Grudziadz közelében, amely békés légkört kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        18.73387,
+                        53.423846
+                  ]
+            },
+            {
+                  "name": "Jezioro Bzowskie",
+                  "text": "Festői tó Grudziadz közelében, ideális természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.703679,
+                        53.535026
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Wielkie",
+                  "text": "Nagy tó Grudziadz közelében, különféle szabadidős lehetőségekkel a parton.",
+                  "category": "natural",
+                  "coords": [
+                        18.74836,
+                        53.433722
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Közlekedési játszótér Grudziadzban, ahol a gyerekek biztonságosan gyakorolhatják a kerékpározást.",
+                  "category": "family",
+                  "coords": [
+                        18.766272,
+                        53.488146
                   ]
             }
       ],
@@ -38604,6 +46659,96 @@ export const polandCitiesV2: POI[] = [
                         18.736556,
                         53.484813
                   ]
+            },
+            {
+                  "name": "Jezioro Sadowo",
+                  "text": "Un lac lângă Grudziadz care oferă un cadru natural pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.846623,
+                        53.464887
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Pierwsze",
+                  "text": "Un luciu de apă lângă Grudziadz, ideal pentru liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.847283,
+                        53.476531
+                  ]
+            },
+            {
+                  "name": "Jezioro Tarpno",
+                  "text": "Un lac de agrement în Grudziadz, popular printre localnici pentru activități de timp liber la apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.822291,
+                        53.496226
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Drugie",
+                  "text": "Acest lac de lângă Grudziadz oferă un cadru natural frumos pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        18.855027,
+                        53.479115
+                  ]
+            },
+            {
+                  "name": "Jezioro Kociołek",
+                  "text": "Un lac mic lângă Grudziadz, situat într-un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.714166,
+                        53.42056
+                  ]
+            },
+            {
+                  "name": "Jezioro Torfniaki",
+                  "text": "Un lac natural în regiunea Grudziadz, care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.846169,
+                        53.462042
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Małe",
+                  "text": "Un lac lângă Grudziadz care oferă o atmosferă pașnică la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.73387,
+                        53.423846
+                  ]
+            },
+            {
+                  "name": "Jezioro Bzowskie",
+                  "text": "Un lac pitoresc lângă Grudziadz, ideal pentru observații ale naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.703679,
+                        53.535026
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Wielkie",
+                  "text": "Un lac mare lângă Grudziadz cu diverse oportunități de recreere pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.74836,
+                        53.433722
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "Un loc de joacă de circulație în Grudziadz, unde copiii pot exersa mersul pe bicicletă în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        18.766272,
+                        53.488146
+                  ]
             }
       ],
       "en": [
@@ -38849,6 +46994,96 @@ export const polandCitiesV2: POI[] = [
                         18.736556,
                         53.484813
                   ]
+            },
+            {
+                  "name": "Jezioro Sadowo",
+                  "text": "A lake near Grudziadz that offers a natural setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.846623,
+                        53.464887
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Pierwsze",
+                  "text": "A body of water near Grudziadz, ideal for peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.847283,
+                        53.476531
+                  ]
+            },
+            {
+                  "name": "Jezioro Tarpno",
+                  "text": "A recreational lake in Grudziadz, popular among locals for leisure activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.822291,
+                        53.496226
+                  ]
+            },
+            {
+                  "name": "Jezioro Wielkie Lniska Drugie",
+                  "text": "This lake near Grudziadz offers a beautiful natural backdrop for outings.",
+                  "category": "natural",
+                  "coords": [
+                        18.855027,
+                        53.479115
+                  ]
+            },
+            {
+                  "name": "Jezioro Kociołek",
+                  "text": "A small lake near Grudziadz, nestled in a quiet landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.714166,
+                        53.42056
+                  ]
+            },
+            {
+                  "name": "Jezioro Torfniaki",
+                  "text": "A natural lake in the Grudziadz region that invites outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.846169,
+                        53.462042
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Małe",
+                  "text": "A lake near Grudziadz that offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.73387,
+                        53.423846
+                  ]
+            },
+            {
+                  "name": "Jezioro Bzowskie",
+                  "text": "A picturesque lake near Grudziadz, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        18.703679,
+                        53.535026
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie Wielkie",
+                  "text": "A large lake near Grudziadz with various leisure opportunities on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.74836,
+                        53.433722
+                  ]
+            },
+            {
+                  "name": "Miasteczko Ruchu Drogowego",
+                  "text": "A traffic playground in Grudziadz where children can safely practice cycling.",
+                  "category": "family",
+                  "coords": [
+                        18.766272,
+                        53.488146
+                  ]
             }
       ]
 },
@@ -39034,6 +47269,87 @@ export const polandCitiesV2: POI[] = [
                         19.282594,
                         50.195981
                   ]
+            },
+            {
+                  "name": "Zbiornik Dziećkowice",
+                  "text": "Ein großer See in Jaworzno, bekannt für seine ruhige Umgebung und schöne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.235705,
+                        50.130795
+                  ]
+            },
+            {
+                  "name": "Karolowy Staw",
+                  "text": "Ein kleiner, friedlicher See in Jaworzno, ideal für einen kurzen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.366131,
+                        50.224151
+                  ]
+            },
+            {
+                  "name": "Wydra",
+                  "text": "Ein lokaler See in Jaworzno, der zur Erholung und zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.316289,
+                        50.225544
+                  ]
+            },
+            {
+                  "name": "Gródek",
+                  "text": "Ein landschaftlich reizvoller See in Jaworzno, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.31124,
+                        50.228612
+                  ]
+            },
+            {
+                  "name": "Nowy staw",
+                  "text": "Ein neu angelegter oder benannter See in Jaworzno in einer ruhigen Lage.",
+                  "category": "natural",
+                  "coords": [
+                        19.296659,
+                        50.153954
+                  ]
+            },
+            {
+                  "name": "Stary staw",
+                  "text": "Ein etablierter See in Jaworzno, der einen ruhigen Rückzugsort in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.297261,
+                        50.155342
+                  ]
+            },
+            {
+                  "name": "Wilczy staw",
+                  "text": "Ein lokales Gewässer in Jaworzno, umgeben von Natur und ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        19.299572,
+                        50.155933
+                  ]
+            },
+            {
+                  "name": "Słoń",
+                  "text": "Ein charakteristischer See in Jaworzno, der zur lokalen Landschaft beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        19.311114,
+                        50.231094
+                  ]
+            },
+            {
+                  "name": "Sosina",
+                  "text": "Ein bekannter See in Jaworzno, beliebt für Erholung und Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        19.339054,
+                        50.241046
+                  ]
             }
       ],
       "hu": [
@@ -39170,6 +47486,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.282594,
                         50.195981
+                  ]
+            },
+            {
+                  "name": "Zbiornik Dziećkowice",
+                  "text": "Egy nagy tó Jaworznóban, amely nyugodt környezetéről és szép tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.235705,
+                        50.130795
+                  ]
+            },
+            {
+                  "name": "Karolowy Staw",
+                  "text": "Egy kicsi, békés tó Jaworznóban, amely ideális egy rövid természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.366131,
+                        50.224151
+                  ]
+            },
+            {
+                  "name": "Wydra",
+                  "text": "Egy helyi tó Jaworznóban, amely kikapcsolódásra és sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.316289,
+                        50.225544
+                  ]
+            },
+            {
+                  "name": "Gródek",
+                  "text": "Egy tájilag vonzó tó Jaworznóban, amely tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.31124,
+                        50.228612
+                  ]
+            },
+            {
+                  "name": "Nowy staw",
+                  "text": "Egy újonnan kialakított vagy elnevezett tó Jaworznóban, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.296659,
+                        50.153954
+                  ]
+            },
+            {
+                  "name": "Stary staw",
+                  "text": "Egy meglévő tó Jaworznóban, amely nyugodt menedéket kínál a városon belül.",
+                  "category": "natural",
+                  "coords": [
+                        19.297261,
+                        50.155342
+                  ]
+            },
+            {
+                  "name": "Wilczy staw",
+                  "text": "Egy helyi vízfelület Jaworznóban, természettel körülvéve, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.299572,
+                        50.155933
+                  ]
+            },
+            {
+                  "name": "Słoń",
+                  "text": "Egy jellegzetes tó Jaworznóban, amely hozzájárul a helyi tájhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.311114,
+                        50.231094
+                  ]
+            },
+            {
+                  "name": "Sosina",
+                  "text": "Egy jól ismert tó Jaworznóban, amely népszerű a kikapcsolódás és szabadidős tevékenységek körében.",
+                  "category": "natural",
+                  "coords": [
+                        19.339054,
+                        50.241046
                   ]
             }
       ],
@@ -39308,6 +47705,87 @@ export const polandCitiesV2: POI[] = [
                         19.282594,
                         50.195981
                   ]
+            },
+            {
+                  "name": "Zbiornik Dziećkowice",
+                  "text": "Un lac mare în Jaworzno, cunoscut pentru împrejurimile liniștite și peisajul frumos.",
+                  "category": "natural",
+                  "coords": [
+                        19.235705,
+                        50.130795
+                  ]
+            },
+            {
+                  "name": "Karolowy Staw",
+                  "text": "Un lac mic și liniștit în Jaworzno, ideal pentru o scurtă ieșire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.366131,
+                        50.224151
+                  ]
+            },
+            {
+                  "name": "Wydra",
+                  "text": "Un lac local în Jaworzno care invită la relaxare și plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        19.316289,
+                        50.225544
+                  ]
+            },
+            {
+                  "name": "Gródek",
+                  "text": "Un lac cu peisaje atractive în Jaworzno, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.31124,
+                        50.228612
+                  ]
+            },
+            {
+                  "name": "Nowy staw",
+                  "text": "Un lac nou amenajat sau denumit în Jaworzno, situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        19.296659,
+                        50.153954
+                  ]
+            },
+            {
+                  "name": "Stary staw",
+                  "text": "Un lac stabilit în Jaworzno, care oferă un refugiu liniștit în cadrul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        19.297261,
+                        50.155342
+                  ]
+            },
+            {
+                  "name": "Wilczy staw",
+                  "text": "Un luciu de apă local în Jaworzno, înconjurat de natură și ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.299572,
+                        50.155933
+                  ]
+            },
+            {
+                  "name": "Słoń",
+                  "text": "Un lac caracteristic în Jaworzno care contribuie la peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        19.311114,
+                        50.231094
+                  ]
+            },
+            {
+                  "name": "Sosina",
+                  "text": "Un lac cunoscut în Jaworzno, popular pentru recreere și activități de timp liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.339054,
+                        50.241046
+                  ]
             }
       ],
       "en": [
@@ -39444,6 +47922,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.282594,
                         50.195981
+                  ]
+            },
+            {
+                  "name": "Zbiornik Dziećkowice",
+                  "text": "A large lake in Jaworzno, known for its quiet surroundings and beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.235705,
+                        50.130795
+                  ]
+            },
+            {
+                  "name": "Karolowy Staw",
+                  "text": "A small, peaceful lake in Jaworzno, ideal for a short nature outing.",
+                  "category": "natural",
+                  "coords": [
+                        19.366131,
+                        50.224151
+                  ]
+            },
+            {
+                  "name": "Wydra",
+                  "text": "A local lake in Jaworzno inviting relaxation and walking.",
+                  "category": "natural",
+                  "coords": [
+                        19.316289,
+                        50.225544
+                  ]
+            },
+            {
+                  "name": "Grodek Reservoir",
+                  "text": "A scenically attractive lake in Jaworzno, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.31124,
+                        50.228612
+                  ]
+            },
+            {
+                  "name": "Nowy staw",
+                  "text": "A newly developed or named lake in Jaworzno in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        19.296659,
+                        50.153954
+                  ]
+            },
+            {
+                  "name": "Stary staw",
+                  "text": "An established lake in Jaworzno offering a quiet retreat within the city.",
+                  "category": "natural",
+                  "coords": [
+                        19.297261,
+                        50.155342
+                  ]
+            },
+            {
+                  "name": "Wilczy staw",
+                  "text": "A local water body in Jaworzno, surrounded by nature and ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.299572,
+                        50.155933
+                  ]
+            },
+            {
+                  "name": "Słoń",
+                  "text": "A characteristic lake in Jaworzno contributing to the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.311114,
+                        50.231094
+                  ]
+            },
+            {
+                  "name": "Sosina",
+                  "text": "A well-known lake in Jaworzno, popular for recreation and leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        19.339054,
+                        50.241046
                   ]
             }
       ]
@@ -40666,7 +49225,88 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-jastrzebie-zdroj-cities-v2",
+    id: "poland-jastrzebie-zdroj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adamecký rybník",
+                  "text": "Ein See in Jastrzebie-Zdroj, der sich gut für entspannte Momente in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.560954,
+                        49.896238
+                  ]
+            },
+            {
+                  "name": "Staw hodowlany",
+                  "text": "Ein lokales Gewässer in Jastrzebie-Zdroj, das eine ruhige ländliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.561049,
+                        49.988283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adamecký rybník",
+                  "text": "Tó Jastrzebie-Zdrojban, amely alkalmas a természetben töltött pihentető pillanatokra.",
+                  "category": "natural",
+                  "coords": [
+                        18.560954,
+                        49.896238
+                  ]
+            },
+            {
+                  "name": "Staw hodowlany",
+                  "text": "Helyi vízfelület Jastrzebie-Zdrojban, amely nyugodt, vidéki hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        18.561049,
+                        49.988283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adamecký rybník",
+                  "text": "Un lac în Jastrzebie-Zdroj, potrivit pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.560954,
+                        49.896238
+                  ]
+            },
+            {
+                  "name": "Staw hodowlany",
+                  "text": "Un corp de apă local în Jastrzebie-Zdroj, care oferă o atmosferă rurală liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        18.561049,
+                        49.988283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adamecký rybník",
+                  "text": "A lake in Jastrzebie-Zdroj, suitable for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.560954,
+                        49.896238
+                  ]
+            },
+            {
+                  "name": "Staw hodowlany",
+                  "text": "A local body of water in Jastrzebie-Zdroj that offers a quiet rural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.561049,
+                        49.988283
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Jastrzebie-Zdroj", hu: "Jastrzębie-Zdrój", ro: "Jastrzębie-Zdrój", en: "Jastrzębie-Zdrój"},
@@ -40984,6 +49624,24 @@ export const polandCitiesV2: POI[] = [
                         20.701671,
                         49.606734
                   ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "Ein sensorischer Garten in Nowy Sącz, der die Sinne von Kindern auf spielerische Weise fördert.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Ein Spielplatz in Nowy Sącz mit einem Schachthema, ideal für kleine Strategen.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
             }
       ],
       "hu": [
@@ -41255,6 +49913,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.701671,
                         49.606734
+                  ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "Egy szenzoros kert Nowy Sączban, amely játékos módon fejleszti a gyermekek érzékszerveit.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Egy sakk tematikájú játszótér Nowy Sączban, amely ideális a kis stratégák számára.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
                   ]
             }
       ],
@@ -41528,6 +50204,24 @@ export const polandCitiesV2: POI[] = [
                         20.701671,
                         49.606734
                   ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "O grădină senzorială în Nowy Sącz care stimulează simțurile copiilor într-un mod ludic.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Un loc de joacă cu tematică de șah în Nowy Sącz, ideal pentru micii strategi.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
             }
       ],
       "en": [
@@ -41800,6 +50494,24 @@ export const polandCitiesV2: POI[] = [
                         20.701671,
                         49.606734
                   ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "A sensory garden in Nowy Sącz that promotes children's senses in a playful way.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "A playground in Nowy Sącz with a chess theme, ideal for little strategists.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
             }
       ]
 },
@@ -41849,7 +50561,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-siedlce-cities-v2",
+    id: "poland-siedlce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zalew nad Muchawką",
+                  "text": "Der Zalew nad Muchawką in Siedlce ist ein Stausee, der ein ruhiges Ziel für Spaziergänge und Entspannung in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.234185,
+                        52.162847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zalew nad Muchawką",
+                  "text": "A Siedlce városában található Zalew nad Muchawką egy víztározó, amely nyugodt úti cél a sétákhoz és a természetbeli pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        22.234185,
+                        52.162847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zalew nad Muchawką",
+                  "text": "Zalew nad Muchawką din Siedlce este un rezervor care reprezintă o destinație liniștită pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.234185,
+                        52.162847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zalew nad Muchawką",
+                  "text": "Zalew nad Muchawką in Siedlce is a reservoir that serves as a calm destination for walks and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.234185,
+                        52.162847
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Siedlce", hu: "Siedlce", ro: "Siedlce", en: "Siedlce"},
@@ -42095,6 +50852,51 @@ export const polandCitiesV2: POI[] = [
                         19.138083,
                         50.244121
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki ist ein See in Myslowice, der sich gut für einen Spaziergang im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Wygoda ist ein See in Myslowice, ideal für eine ruhige Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina ist ein See in Myslowice, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna ist ein See in Myslowice, der eine ruhige Kulisse für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Świat Zabaw",
+                  "text": "Świat Zabaw ist ein Spielplatz in Myslowice, der einen unterhaltsamen Bereich für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.120121,
+                        50.250746
+                  ]
             }
       ],
       "hu": [
@@ -42294,6 +51096,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.138083,
                         50.244121
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "A Stawiki egy tó Myslowice területén, amely kellemes környezetet biztosít egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "A Wygoda egy tó Myslowice területén, amely ideális egy csendes pihenőhöz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "A Bolina egy tó Myslowice területén, amely pihentető vízparti pillanatokra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "A Słupna egy tó Myslowice területén, amely nyugodt környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Świat Zabaw",
+                  "text": "A Świat Zabaw egy játszótér Myslowice területén, amely szórakoztató területet biztosít a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.120121,
+                        50.250746
                   ]
             }
       ],
@@ -42495,6 +51342,51 @@ export const polandCitiesV2: POI[] = [
                         19.138083,
                         50.244121
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki este un lac în Myslowice, oferind un cadru plăcut pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Wygoda este un lac în Myslowice, ideal pentru o pauză liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina este un lac în Myslowice, invitând la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna este un lac în Myslowice, oferind un cadru liniștit pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Świat Zabaw",
+                  "text": "Świat Zabaw este un loc de joacă în Myslowice, oferind o zonă distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.120121,
+                        50.250746
+                  ]
             }
       ],
       "en": [
@@ -42694,6 +51586,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.138083,
                         50.244121
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki is a lake in Myslowice providing a pleasant setting for an outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Wygoda",
+                  "text": "Wygoda is a lake in Myslowice, ideal for a quiet break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.148092,
+                        50.247084
+                  ]
+            },
+            {
+                  "name": "Bolina",
+                  "text": "Bolina is a lake in Myslowice, perfect for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.08792,
+                        50.237397
+                  ]
+            },
+            {
+                  "name": "Słupna",
+                  "text": "Słupna is a lake in Myslowice, offering a peaceful backdrop for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        19.139955,
+                        50.225494
+                  ]
+            },
+            {
+                  "name": "Świat Zabaw",
+                  "text": "Świat Zabaw is a playground in Myslowice, providing a fun area for children.",
+                  "category": "family",
+                  "coords": [
+                        19.120121,
+                        50.250746
                   ]
             }
       ]
@@ -43431,6 +52368,132 @@ export const polandCitiesV2: POI[] = [
                         16.728064,
                         53.150528
                   ]
+            },
+            {
+                  "name": "Jezioro Piaszczyste",
+                  "text": "Der Jezioro Piaszczyste in Pila ist ein lokaler See, der eine malerische Umgebung für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.707107,
+                        53.130052
+                  ]
+            },
+            {
+                  "name": "Jezioro Karasiowe",
+                  "text": "Der Jezioro Karasiowe in Pila ist ein ruhiger See, der sich ideal für Naturliebhaber und entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.696458,
+                        53.131711
+                  ]
+            },
+            {
+                  "name": "Jezioro Płocie",
+                  "text": "Der Jezioro Płocie in Pila ist ein malerischer See, der eine ruhige Atmosphäre für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.821041,
+                        53.180172
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie",
+                  "text": "Der Jezioro Rudnickie in Pila bietet eine natürliche Kulisse für Besucher, die Ruhe und Entspannung suchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.747057,
+                        53.196291
+                  ]
+            },
+            {
+                  "name": "Jezioro Okoniowe",
+                  "text": "Der Jezioro Okoniowe in Pila ist ein lokales Gewässer, das sich hervorragend für ruhige Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.803491,
+                        53.187795
+                  ]
+            },
+            {
+                  "name": "Jezioro Jelonki",
+                  "text": "Der Jezioro Jelonki in Pila ist ein See, der eine ruhige Umgebung für Outdoor-Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.829858,
+                        53.165821
+                  ]
+            },
+            {
+                  "name": "Jezioro Bagienne",
+                  "text": "Der Jezioro Bagienne in Pila ist ein von Natur umgebener See, der einen friedlichen Ort für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.832171,
+                        53.159552
+                  ]
+            },
+            {
+                  "name": "Jezioro Leśne",
+                  "text": "Der Jezioro Leśne in Pila ist ein Waldsee, der eine malerische und ruhige Atmosphäre für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.671837,
+                        53.113102
+                  ]
+            },
+            {
+                  "name": "Jezioro Duży Kużnik",
+                  "text": "Der Jezioro Duży Kużnik in Pila ist ein bedeutender See in der Region, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        16.740655,
+                        53.194658
+                  ]
+            },
+            {
+                  "name": "Jezioro Mały Kużnik",
+                  "text": "Der Jezioro Mały Kużnik in Pila ist ein kleinerer See, der eine friedliche Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.739168,
+                        53.197426
+                  ]
+            },
+            {
+                  "name": "Zalew Koszycki",
+                  "text": "Der Zalew Koszycki in Pila ist ein beliebtes Ziel für Erholung am Wasser und Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.743497,
+                        53.182081
+                  ]
+            },
+            {
+                  "name": "Pilu - sala zabaw dla dzieci",
+                  "text": "Pilu in Pila ist eine familienfreundliche Spielhalle, die Kindern einen unterhaltsamen Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.767352,
+                        53.157501
+                  ]
+            },
+            {
+                  "name": "Mini Golf STAR WARS",
+                  "text": "Mini Golf STAR WARS in Pila bietet ein spannendes Minigolf-Erlebnis für Familien und Fans.",
+                  "category": "family",
+                  "coords": [
+                        16.726039,
+                        53.142708
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw na Wyspie",
+                  "text": "Plac Zabaw na Wyspie in Pila ist ein malerisch gelegener Spielplatz, der viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.740188,
+                        53.154503
+                  ]
             }
       ],
       "hu": [
@@ -43594,6 +52657,132 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.728064,
                         53.150528
+                  ]
+            },
+            {
+                  "name": "Jezioro Piaszczyste",
+                  "text": "A Pila területén fekvő Jezioro Piaszczyste egy helyi tó, amely festői környezetet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.707107,
+                        53.130052
+                  ]
+            },
+            {
+                  "name": "Jezioro Karasiowe",
+                  "text": "A Pila városában található Jezioro Karasiowe egy nyugodt tó, amely ideális a természet kedvelőinek és a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.696458,
+                        53.131711
+                  ]
+            },
+            {
+                  "name": "Jezioro Płocie",
+                  "text": "A Pila területén fekvő Jezioro Płocie egy festői tó, amely nyugodt légkört kínál a természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.821041,
+                        53.180172
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie",
+                  "text": "A Pila városában található Jezioro Rudnickie természetes környezetet biztosít a nyugalmat és kikapcsolódást kereső látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.747057,
+                        53.196291
+                  ]
+            },
+            {
+                  "name": "Jezioro Okoniowe",
+                  "text": "A Pila területén található Jezioro Okoniowe egy helyi vízfelület, amely kiválóan alkalmas a csendes természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.803491,
+                        53.187795
+                  ]
+            },
+            {
+                  "name": "Jezioro Jelonki",
+                  "text": "A Pila városában található Jezioro Jelonki egy tó, amely nyugodt környezetet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.829858,
+                        53.165821
+                  ]
+            },
+            {
+                  "name": "Jezioro Bagienne",
+                  "text": "A Pila területén fekvő Jezioro Bagienne egy természettel körülvett tó, amely békés helyszínt kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.832171,
+                        53.159552
+                  ]
+            },
+            {
+                  "name": "Jezioro Leśne",
+                  "text": "A Pila városában található Jezioro Leśne egy erdei tó, amely festői és nyugodt légkört kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.671837,
+                        53.113102
+                  ]
+            },
+            {
+                  "name": "Jezioro Duży Kużnik",
+                  "text": "A Pila területén található Jezioro Duży Kużnik a régió egyik jelentős tava, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        16.740655,
+                        53.194658
+                  ]
+            },
+            {
+                  "name": "Jezioro Mały Kużnik",
+                  "text": "A Pila városában fekvő Jezioro Mały Kużnik egy kisebb tó, amely békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.739168,
+                        53.197426
+                  ]
+            },
+            {
+                  "name": "Zalew Koszycki",
+                  "text": "A Pila területén található Zalew Koszycki népszerű helyszín a vízi kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.743497,
+                        53.182081
+                  ]
+            },
+            {
+                  "name": "Pilu - sala zabaw dla dzieci",
+                  "text": "A Pila városában található Pilu egy családbarát játszóház, amely szórakoztató helyszínt biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.767352,
+                        53.157501
+                  ]
+            },
+            {
+                  "name": "Mini Golf STAR WARS",
+                  "text": "A Pila területén található Mini Golf STAR WARS izgalmas minigolf élményt kínál családoknak és rajongóknak.",
+                  "category": "family",
+                  "coords": [
+                        16.726039,
+                        53.142708
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw na Wyspie",
+                  "text": "A Pila városában található Plac Zabaw na Wyspie egy festői fekvésű játszótér, amely tágas helyet kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.740188,
+                        53.154503
                   ]
             }
       ],
@@ -43759,6 +52948,132 @@ export const polandCitiesV2: POI[] = [
                         16.728064,
                         53.150528
                   ]
+            },
+            {
+                  "name": "Jezioro Piaszczyste",
+                  "text": "Jezioro Piaszczyste din Pila este un lac local care oferă un cadru pitoresc pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.707107,
+                        53.130052
+                  ]
+            },
+            {
+                  "name": "Jezioro Karasiowe",
+                  "text": "Jezioro Karasiowe din Pila este un lac liniștit, ideal pentru iubitorii de natură și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        16.696458,
+                        53.131711
+                  ]
+            },
+            {
+                  "name": "Jezioro Płocie",
+                  "text": "Jezioro Płocie din Pila este un lac pitoresc care oferă o atmosferă liniștită pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.821041,
+                        53.180172
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie",
+                  "text": "Jezioro Rudnickie din Pila oferă un cadru natural pentru vizitatorii care caută liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.747057,
+                        53.196291
+                  ]
+            },
+            {
+                  "name": "Jezioro Okoniowe",
+                  "text": "Jezioro Okoniowe din Pila este un corp de apă local, excelent pentru plimbări liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.803491,
+                        53.187795
+                  ]
+            },
+            {
+                  "name": "Jezioro Jelonki",
+                  "text": "Jezioro Jelonki din Pila este un lac care oferă un mediu liniștit pentru activități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.829858,
+                        53.165821
+                  ]
+            },
+            {
+                  "name": "Jezioro Bagienne",
+                  "text": "Jezioro Bagienne din Pila este un lac înconjurat de natură, oferind un loc liniștit pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        16.832171,
+                        53.159552
+                  ]
+            },
+            {
+                  "name": "Jezioro Leśne",
+                  "text": "Jezioro Leśne din Pila este un lac de pădure care oferă o atmosferă pitorească și liniștită pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.671837,
+                        53.113102
+                  ]
+            },
+            {
+                  "name": "Jezioro Duży Kużnik",
+                  "text": "Jezioro Duży Kużnik din Pila este un lac important din regiune, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.740655,
+                        53.194658
+                  ]
+            },
+            {
+                  "name": "Jezioro Mały Kużnik",
+                  "text": "Jezioro Mały Kużnik din Pila este un lac mai mic, care oferă un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        16.739168,
+                        53.197426
+                  ]
+            },
+            {
+                  "name": "Zalew Koszycki",
+                  "text": "Zalew Koszycki din Pila este o destinație populară pentru recreere pe malul apei și plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.743497,
+                        53.182081
+                  ]
+            },
+            {
+                  "name": "Pilu - sala zabaw dla dzieci",
+                  "text": "Pilu din Pila este un loc de joacă prietenos pentru familii, oferind copiilor un spațiu distractiv pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.767352,
+                        53.157501
+                  ]
+            },
+            {
+                  "name": "Mini Golf STAR WARS",
+                  "text": "Mini Golf STAR WARS din Pila oferă o experiență de minigolf palpitantă pentru familii și fani.",
+                  "category": "family",
+                  "coords": [
+                        16.726039,
+                        53.142708
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw na Wyspie",
+                  "text": "Plac Zabaw na Wyspie din Pila este un loc de joacă situat pitoresc, oferind mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.740188,
+                        53.154503
+                  ]
             }
       ],
       "en": [
@@ -43923,6 +53238,132 @@ export const polandCitiesV2: POI[] = [
                         16.728064,
                         53.150528
                   ]
+            },
+            {
+                  "name": "Jezioro Piaszczyste",
+                  "text": "Jezioro Piaszczyste in Pila is a local lake providing a scenic environment for outdoor activities and nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.707107,
+                        53.130052
+                  ]
+            },
+            {
+                  "name": "Jezioro Karasiowe",
+                  "text": "Jezioro Karasiowe in Pila is a peaceful lake ideal for nature enthusiasts and relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.696458,
+                        53.131711
+                  ]
+            },
+            {
+                  "name": "Jezioro Płocie",
+                  "text": "Jezioro Płocie in Pila is a scenic lake offering a quiet atmosphere for outdoor recreation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.821041,
+                        53.180172
+                  ]
+            },
+            {
+                  "name": "Jezioro Rudnickie",
+                  "text": "Jezioro Rudnickie in Pila provides a natural backdrop for visitors seeking peace and relaxation in the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        16.747057,
+                        53.196291
+                  ]
+            },
+            {
+                  "name": "Jezioro Okoniowe",
+                  "text": "Jezioro Okoniowe in Pila is a local body of water that is excellent for quiet nature walks and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.803491,
+                        53.187795
+                  ]
+            },
+            {
+                  "name": "Jezioro Jelonki",
+                  "text": "Jezioro Jelonki in Pila is a lake that offers a calm setting for outdoor leisure activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.829858,
+                        53.165821
+                  ]
+            },
+            {
+                  "name": "Jezioro Bagienne",
+                  "text": "Jezioro Bagienne in Pila is a lake surrounded by nature, providing a peaceful spot for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.832171,
+                        53.159552
+                  ]
+            },
+            {
+                  "name": "Jezioro Leśne",
+                  "text": "Jezioro Leśne in Pila is a forest lake offering a scenic and quiet atmosphere for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.671837,
+                        53.113102
+                  ]
+            },
+            {
+                  "name": "Jezioro Duży Kużnik",
+                  "text": "Jezioro Duży Kużnik in Pila is a significant lake in the region, ideal for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.740655,
+                        53.194658
+                  ]
+            },
+            {
+                  "name": "Jezioro Mały Kużnik",
+                  "text": "Jezioro Mały Kużnik in Pila is a smaller lake providing a peaceful environment for visitors to enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        16.739168,
+                        53.197426
+                  ]
+            },
+            {
+                  "name": "Zalew Koszycki",
+                  "text": "Zalew Koszycki in Pila is a popular destination for waterside recreation and nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.743497,
+                        53.182081
+                  ]
+            },
+            {
+                  "name": "Pilu - sala zabaw dla dzieci",
+                  "text": "Pilu in Pila is a family-friendly indoor play center offering a fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.767352,
+                        53.157501
+                  ]
+            },
+            {
+                  "name": "Mini Golf STAR WARS",
+                  "text": "Mini Golf STAR WARS in Pila provides an exciting miniature golf experience suitable for families and fans.",
+                  "category": "family",
+                  "coords": [
+                        16.726039,
+                        53.142708
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw na Wyspie",
+                  "text": "Plac Zabaw na Wyspie in Pila is a scenic playground offering plenty of space for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        16.740188,
+                        53.154503
+                  ]
             }
       ]
 },
@@ -43982,6 +53423,42 @@ export const polandCitiesV2: POI[] = [
                         19.727001,
                         51.408741
                   ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj ist ein See in Piotrkow Trybunalski, ideal für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "Jezioro Bugaj",
+                  "text": "Jezioro Bugaj ist ein See in Piotrkow Trybunalski, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.732547,
+                        51.410174
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" ist ein Spielplatz in Piotrkow Trybunalski, der Kindern aktiven Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów ist ein Spielplatz in Piotrkow Trybunalski, der zu fantasievollem Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
+                  ]
             }
       ],
       "hu": [
@@ -43992,6 +53469,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.727001,
                         51.408741
+                  ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "A Zalew Bugaj egy tó Piotrkow Trybunalski területén, amely ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "Jezioro Bugaj",
+                  "text": "A Jezioro Bugaj egy tó Piotrkow Trybunalski területén, amely természeti környezetbe hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.732547,
+                        51.410174
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "A Smart Club \"gry i zabawy\" egy játszótér Piotrkow Trybunalski területén, amely aktív játékélményt kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "A Wioska Wikingów egy játszótér Piotrkow Trybunalski területén, amely fantáziadús szabadtéri játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
                   ]
             }
       ],
@@ -44004,6 +53517,42 @@ export const polandCitiesV2: POI[] = [
                         19.727001,
                         51.408741
                   ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj este un lac în Piotrkow Trybunalski, ideal pentru recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "Jezioro Bugaj",
+                  "text": "Jezioro Bugaj este un lac în Piotrkow Trybunalski, invitând la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.732547,
+                        51.410174
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" este un loc de joacă în Piotrkow Trybunalski, oferind copiilor distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów este un loc de joacă în Piotrkow Trybunalski, invitând la jocuri imaginative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
+                  ]
             }
       ],
       "en": [
@@ -44014,6 +53563,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.727001,
                         51.408741
+                  ]
+            },
+            {
+                  "name": "Zalew Bugaj",
+                  "text": "Zalew Bugaj is a lake in Piotrkow Trybunalski, ideal for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.728786,
+                        51.410494
+                  ]
+            },
+            {
+                  "name": "Jezioro Bugaj",
+                  "text": "Jezioro Bugaj is a lake in Piotrkow Trybunalski, inviting visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.732547,
+                        51.410174
+                  ]
+            },
+            {
+                  "name": "Smart Club\"gry i zabawy\"",
+                  "text": "Smart Club \"gry i zabawy\" is a playground in Piotrkow Trybunalski, offering active play for children.",
+                  "category": "family",
+                  "coords": [
+                        19.667197,
+                        51.407348
+                  ]
+            },
+            {
+                  "name": "Wioska Wikingów",
+                  "text": "Wioska Wikingów is a playground in Piotrkow Trybunalski, inviting imaginative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        19.670929,
+                        51.405978
                   ]
             }
       ]
@@ -44245,6 +53830,15 @@ export const polandCitiesV2: POI[] = [
                         18.260433,
                         52.800176
                   ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Ein ruhiger See in Inowrocław, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
             }
       ],
       "hu": [
@@ -44426,6 +54020,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.260433,
                         52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Egy nyugodt tó Inowrocławban, amely pihentető pillanatokra hív a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
                   ]
             }
       ],
@@ -44609,6 +54212,15 @@ export const polandCitiesV2: POI[] = [
                         18.260433,
                         52.800176
                   ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Un lac liniștit în Inowrocław care invită la momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
             }
       ],
       "en": [
@@ -44790,6 +54402,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.260433,
                         52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "A peaceful lake in Inowrocław inviting relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
                   ]
             }
       ]
@@ -45815,6 +55436,24 @@ export const polandCitiesV2: POI[] = [
                         17.81006,
                         51.65273
                   ]
+            },
+            {
+                  "name": "Piaski-Szczygliczka",
+                  "text": "Piaski-Szczygliczka ist ein See in Ostrow Wielkopolski, ideal für Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        17.821744,
+                        51.668471
+                  ]
+            },
+            {
+                  "name": "Ogródki Jordanowskie",
+                  "text": "Ogródki Jordanowskie ist ein Spielplatz in Ostrow Wielkopolski, der einen sicheren Ort zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.822394,
+                        51.644425
+                  ]
             }
       ],
       "hu": [
@@ -45978,6 +55617,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.81006,
                         51.65273
+                  ]
+            },
+            {
+                  "name": "Piaski-Szczygliczka",
+                  "text": "A Piaski-Szczygliczka egy tó Ostrow Wielkopolski területén, amely ideális sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.821744,
+                        51.668471
+                  ]
+            },
+            {
+                  "name": "Ogródki Jordanowskie",
+                  "text": "Az Ogródki Jordanowskie egy játszótér Ostrow Wielkopolski területén, amely biztonságos játékteret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.822394,
+                        51.644425
                   ]
             }
       ],
@@ -46143,6 +55800,24 @@ export const polandCitiesV2: POI[] = [
                         17.81006,
                         51.65273
                   ]
+            },
+            {
+                  "name": "Piaski-Szczygliczka",
+                  "text": "Piaski-Szczygliczka este un lac în Ostrow Wielkopolski, ideal pentru plimbări și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.821744,
+                        51.668471
+                  ]
+            },
+            {
+                  "name": "Ogródki Jordanowskie",
+                  "text": "Ogródki Jordanowskie este un loc de joacă în Ostrow Wielkopolski, oferind un spațiu sigur de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.822394,
+                        51.644425
+                  ]
             }
       ],
       "en": [
@@ -46306,6 +55981,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.81006,
                         51.65273
+                  ]
+            },
+            {
+                  "name": "Piaski-Szczygliczka",
+                  "text": "Piaski-Szczygliczka is a lake in Ostrow Wielkopolski, ideal for walks and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.821744,
+                        51.668471
+                  ]
+            },
+            {
+                  "name": "Ogródki Jordanowskie",
+                  "text": "Ogródki Jordanowskie is a playground in Ostrow Wielkopolski, providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.822394,
+                        51.644425
                   ]
             }
       ]
@@ -47241,6 +56934,51 @@ export const polandCitiesV2: POI[] = [
                         15.022531,
                         53.346265
                   ]
+            },
+            {
+                  "name": "Madüsee",
+                  "text": "Der Miedwie bei Stargard ist einer der größten Seen der Region und bekannt für seine weiten Uferlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        14.894973,
+                        53.280261
+                  ]
+            },
+            {
+                  "name": "Okólnik",
+                  "text": "Der Okólnik in Stargard ist ein lokaler See, der eine ruhige Naturkulisse für Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.113836,
+                        53.306583
+                  ]
+            },
+            {
+                  "name": "Jezioro Kiczarowskie",
+                  "text": "Der Jezioro Kiczarowskie in Stargard ist ein friedlicher See, ideal für ruhige Spaziergänge im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        15.104925,
+                        53.377346
+                  ]
+            },
+            {
+                  "name": "Jezioro \"But\" - \"Komin\"",
+                  "text": "Dieser See in Stargard bietet eine natürliche Umgebung für Besucher, die Ruhe am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        15.094058,
+                        53.384203
+                  ]
+            },
+            {
+                  "name": "Jezioro prywatne",
+                  "text": "Dieser private See in Stargard liegt in einer ruhigen Gegend und bietet eine malerische Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        15.077073,
+                        53.377634
+                  ]
             }
       ],
       "hu": [
@@ -47458,6 +57196,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.022531,
                         53.346265
+                  ]
+            },
+            {
+                  "name": "Miedwie",
+                  "text": "A Stargard közelében található Miedwie a régió egyik legnagyobb tava, amely tágas parti tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.894973,
+                        53.280261
+                  ]
+            },
+            {
+                  "name": "Okólnik",
+                  "text": "A Stargard területén fekvő Okólnik egy helyi tó, amely nyugodt természeti környezetet kínál a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.113836,
+                        53.306583
+                  ]
+            },
+            {
+                  "name": "Jezioro Kiczarowskie",
+                  "text": "A Stargard városában található Jezioro Kiczarowskie egy békés tó, amely ideális a csendes szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.104925,
+                        53.377346
+                  ]
+            },
+            {
+                  "name": "Jezioro \"But\" - \"Komin\"",
+                  "text": "Ez a Stargard területén található tó természetes környezetet biztosít a vízparti nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.094058,
+                        53.384203
+                  ]
+            },
+            {
+                  "name": "Jezioro prywatne",
+                  "text": "Ez a Stargard területén fekvő magántó csendes környéken található, és festői kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        15.077073,
+                        53.377634
                   ]
             }
       ],
@@ -47677,6 +57460,51 @@ export const polandCitiesV2: POI[] = [
                         15.022531,
                         53.346265
                   ]
+            },
+            {
+                  "name": "Miedwie",
+                  "text": "Miedwie, situat lângă Stargard, este unul dintre cele mai mari lacuri din regiune, cunoscut pentru peisajele sale de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        14.894973,
+                        53.280261
+                  ]
+            },
+            {
+                  "name": "Okólnik",
+                  "text": "Okólnik din Stargard este un lac local care oferă un cadru natural liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.113836,
+                        53.306583
+                  ]
+            },
+            {
+                  "name": "Jezioro Kiczarowskie",
+                  "text": "Jezioro Kiczarowskie din Stargard este un lac liniștit, ideal pentru plimbări tăcute în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.104925,
+                        53.377346
+                  ]
+            },
+            {
+                  "name": "Jezioro \"But\" - \"Komin\"",
+                  "text": "Acest lac din Stargard oferă un mediu natural pentru vizitatorii care caută liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.094058,
+                        53.384203
+                  ]
+            },
+            {
+                  "name": "Jezioro prywatne",
+                  "text": "Acest lac privat din Stargard este situat într-o zonă liniștită și oferă vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        15.077073,
+                        53.377634
+                  ]
             }
       ],
       "en": [
@@ -47894,6 +57722,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.022531,
                         53.346265
+                  ]
+            },
+            {
+                  "name": "Miedwie",
+                  "text": "Miedwie near Stargard is one of the largest lakes in the region, known for its expansive shores and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.894973,
+                        53.280261
+                  ]
+            },
+            {
+                  "name": "Okólnik",
+                  "text": "Okólnik in Stargard is a local lake offering a peaceful natural setting for relaxation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.113836,
+                        53.306583
+                  ]
+            },
+            {
+                  "name": "Jezioro Kiczarowskie",
+                  "text": "Jezioro Kiczarowskie in Stargard is a peaceful lake ideal for quiet outdoor walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.104925,
+                        53.377346
+                  ]
+            },
+            {
+                  "name": "Jezioro \"But\" - \"Komin\"",
+                  "text": "This lake in Stargard provides a natural setting for visitors looking for peace and quiet by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.094058,
+                        53.384203
+                  ]
+            },
+            {
+                  "name": "Jezioro prywatne",
+                  "text": "This private lake in Stargard is situated in a quiet area and offers scenic views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.077073,
+                        53.377634
                   ]
             }
       ]
@@ -48327,6 +58200,33 @@ export const polandCitiesV2: POI[] = [
                         19.018918,
                         50.309013
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki in Siemianowice Slaskie ist ein beliebtes Erholungsgebiet am See für Familien und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły in Siemianowice Slaskie ist ein einzigartiges Seegebiet, das für seine natürliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Skwerek z Placem Zabaw",
+                  "text": "Skwerek z Placem Zabaw in Siemianowice Slaskie ist ein lokaler Platz mit Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.006783,
+                        50.290616
+                  ]
             }
       ],
       "hu": [
@@ -48616,6 +58516,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.018918,
                         50.309013
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "A Siemianowice Slaskie területén található Stawiki egy népszerű tóparti üdülőhely családoknak és természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "A Siemianowice Slaskie városában fekvő Żabie Doły egy egyedülálló tóvidék, amely természetes szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Skwerek z Placem Zabaw",
+                  "text": "A Siemianowice Slaskie városában található Skwerek z Placem Zabaw egy helyi tér játéklehetőségekkel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.006783,
+                        50.290616
                   ]
             }
       ],
@@ -48907,6 +58834,33 @@ export const polandCitiesV2: POI[] = [
                         19.018918,
                         50.309013
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki din Siemianowice Slaskie este o zonă de recreere populară pe malul lacului pentru familii și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły din Siemianowice Slaskie este o zonă de lac unică, cunoscută pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Skwerek z Placem Zabaw",
+                  "text": "Skwerek z Placem Zabaw din Siemianowice Slaskie este o piațetă locală cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.006783,
+                        50.290616
+                  ]
             }
       ],
       "en": [
@@ -49196,6 +59150,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.018918,
                         50.309013
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Stawiki in Siemianowice Slaskie is a popular lakeside recreation area for families and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły in Siemianowice Slaskie is a unique lake area known for its natural beauty and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        18.942388,
+                        50.336441
+                  ]
+            },
+            {
+                  "name": "Skwerek z Placem Zabaw",
+                  "text": "Skwerek z Placem Zabaw in Siemianowice Slaskie is a local square featuring play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        19.006783,
+                        50.290616
                   ]
             }
       ]
@@ -50581,6 +60562,60 @@ export const polandCitiesV2: POI[] = [
                         19.328874,
                         51.665943
                   ]
+            },
+            {
+                  "name": "piaskownik",
+                  "text": "Ein lokales Gewässer in Pabianice, ideal für eine kurze Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        19.341803,
+                        51.728843
+                  ]
+            },
+            {
+                  "name": "Zbiornik przeciwpożarowy",
+                  "text": "Ein kleiner See in Pabianice, der zur ruhigen Atmosphäre der Umgebung beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        19.286988,
+                        51.624893
+                  ]
+            },
+            {
+                  "name": "Lewityn",
+                  "text": "Ein beliebter See in Pabianice, perfekt für Spaziergänge und Familienausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        19.37182,
+                        51.647552
+                  ]
+            },
+            {
+                  "name": "NIVEA",
+                  "text": "Ein moderner Spielplatz in Pabianice mit verschiedenen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.378197,
+                        51.654178
+                  ]
+            },
+            {
+                  "name": "Wieloryb",
+                  "text": "Ein thematischer Spielplatz in Pabianice, der Kinder zum aktiven Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        19.321721,
+                        51.652391
+                  ]
+            },
+            {
+                  "name": "Wśród Dinozaurów",
+                  "text": "Ein attraktiver Spielplatz in Pabianice, der eine spannende Umgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.318878,
+                        51.653625
+                  ]
             }
       ],
       "hu": [
@@ -50744,6 +60779,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.328874,
                         51.665943
+                  ]
+            },
+            {
+                  "name": "piaskownik",
+                  "text": "Egy helyi vízfelület Pabianicében, amely ideális egy rövid szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.341803,
+                        51.728843
+                  ]
+            },
+            {
+                  "name": "Zbiornik przeciwpożarowy",
+                  "text": "Egy kis tó Pabianicében, amely hozzájárul a környék nyugodt hangulatához.",
+                  "category": "natural",
+                  "coords": [
+                        19.286988,
+                        51.624893
+                  ]
+            },
+            {
+                  "name": "Lewityn",
+                  "text": "Egy népszerű tó Pabianicében, amely tökéletes sétákhoz és családi kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.37182,
+                        51.647552
+                  ]
+            },
+            {
+                  "name": "NIVEA",
+                  "text": "Egy modern játszótér Pabianicében, különféle játékokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.378197,
+                        51.654178
+                  ]
+            },
+            {
+                  "name": "Wieloryb",
+                  "text": "Egy tematikus játszótér Pabianicében, amely aktív játékra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.321721,
+                        51.652391
+                  ]
+            },
+            {
+                  "name": "Wśród Dinozaurów",
+                  "text": "Egy vonzó játszótér Pabianicében, amely izgalmas környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.318878,
+                        51.653625
                   ]
             }
       ],
@@ -50909,6 +60998,60 @@ export const polandCitiesV2: POI[] = [
                         19.328874,
                         51.665943
                   ]
+            },
+            {
+                  "name": "piaskownik",
+                  "text": "Un luciu de apă local în Pabianice, ideal pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.341803,
+                        51.728843
+                  ]
+            },
+            {
+                  "name": "Zbiornik przeciwpożarowy",
+                  "text": "Un lac mic în Pabianice care contribuie la atmosfera liniștită a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        19.286988,
+                        51.624893
+                  ]
+            },
+            {
+                  "name": "Lewityn",
+                  "text": "Un lac popular în Pabianice, perfect pentru plimbări și ieșiri cu familia.",
+                  "category": "natural",
+                  "coords": [
+                        19.37182,
+                        51.647552
+                  ]
+            },
+            {
+                  "name": "NIVEA",
+                  "text": "Un loc de joacă modern în Pabianice cu diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.378197,
+                        51.654178
+                  ]
+            },
+            {
+                  "name": "Wieloryb",
+                  "text": "Un loc de joacă tematic în Pabianice care încurajează copiii la joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        19.321721,
+                        51.652391
+                  ]
+            },
+            {
+                  "name": "Wśród Dinozaurów",
+                  "text": "Un loc de joacă atractiv în Pabianice care oferă un mediu captivant pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.318878,
+                        51.653625
+                  ]
             }
       ],
       "en": [
@@ -51072,6 +61215,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.328874,
                         51.665943
+                  ]
+            },
+            {
+                  "name": "piaskownik",
+                  "text": "A local water body in Pabianice, ideal for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        19.341803,
+                        51.728843
+                  ]
+            },
+            {
+                  "name": "Zbiornik przeciwpożarowy",
+                  "text": "A small lake in Pabianice contributing to the quiet atmosphere of the area.",
+                  "category": "natural",
+                  "coords": [
+                        19.286988,
+                        51.624893
+                  ]
+            },
+            {
+                  "name": "Lewityn",
+                  "text": "A popular lake in Pabianice, perfect for walks and family outings.",
+                  "category": "natural",
+                  "coords": [
+                        19.37182,
+                        51.647552
+                  ]
+            },
+            {
+                  "name": "NIVEA",
+                  "text": "A modern playground in Pabianice with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        19.378197,
+                        51.654178
+                  ]
+            },
+            {
+                  "name": "Wieloryb",
+                  "text": "A themed playground in Pabianice encouraging children to play actively.",
+                  "category": "family",
+                  "coords": [
+                        19.321721,
+                        51.652391
+                  ]
+            },
+            {
+                  "name": "Wśród Dinozaurów",
+                  "text": "An attractive playground in Pabianice providing an exciting environment for children.",
+                  "category": "family",
+                  "coords": [
+                        19.318878,
+                        51.653625
                   ]
             }
       ]
@@ -54846,6 +65043,42 @@ export const polandCitiesV2: POI[] = [
                         20.014427,
                         51.527456
                   ]
+            },
+            {
+                  "name": "Zalew Sulejowski",
+                  "text": "Der Zalew Sulejowski bei Tomaszow Mazowiecki ist ein großer Stausee, ideal für Wassersport und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        19.930928,
+                        51.423257
+                  ]
+            },
+            {
+                  "name": "FG Kids",
+                  "text": "FG Kids in Tomaszow Mazowiecki ist ein modernes Spielzentrum, das Kindern einen sicheren Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.00801,
+                        51.534267
+                  ]
+            },
+            {
+                  "name": "Vit Park",
+                  "text": "Vit Park in Tomaszow Mazowiecki bietet verschiedene Freizeitaktivitäten für Familien in einer angenehmen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        20.04349,
+                        51.516742
+                  ]
+            },
+            {
+                  "name": "Ośrodek Rehabilitacji Dzieci Niepełnosprawnych",
+                  "text": "Dieser spezielle Spielbereich in Tomaszow Mazowiecki ist darauf ausgerichtet, Kindern eine fördernde Spielumgebung zu bieten.",
+                  "category": "family",
+                  "coords": [
+                        20.00079,
+                        51.516717
+                  ]
             }
       ],
       "hu": [
@@ -54982,6 +65215,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.014427,
                         51.527456
+                  ]
+            },
+            {
+                  "name": "Zalew Sulejowski",
+                  "text": "A Tomaszow Mazowiecki közelében fekvő Zalew Sulejowski egy nagy víztározó, amely ideális vízi sportokhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.930928,
+                        51.423257
+                  ]
+            },
+            {
+                  "name": "FG Kids",
+                  "text": "A Tomaszow Mazowiecki területén található FG Kids egy modern játszóközpont, amely biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.00801,
+                        51.534267
+                  ]
+            },
+            {
+                  "name": "Vit Park",
+                  "text": "A Tomaszow Mazowiecki városában található Vit Park különféle szabadidős tevékenységeket kínál családoknak kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        20.04349,
+                        51.516742
+                  ]
+            },
+            {
+                  "name": "Ośrodek Rehabilitacji Dzieci Niepełnosprawnych",
+                  "text": "Ez a speciális játszótér Tomaszow Mazowiecki városában arra szolgál, hogy támogató környezetet biztosítson a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.00079,
+                        51.516717
                   ]
             }
       ],
@@ -55120,6 +65389,42 @@ export const polandCitiesV2: POI[] = [
                         20.014427,
                         51.527456
                   ]
+            },
+            {
+                  "name": "Zalew Sulejowski",
+                  "text": "Zalew Sulejowski din apropiere de Tomaszow Mazowiecki este un rezervor mare, ideal pentru sporturi nautice și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.930928,
+                        51.423257
+                  ]
+            },
+            {
+                  "name": "FG Kids",
+                  "text": "FG Kids din Tomaszow Mazowiecki este un centru de joacă modern, oferind copiilor un spațiu sigur pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        20.00801,
+                        51.534267
+                  ]
+            },
+            {
+                  "name": "Vit Park",
+                  "text": "Vit Park din Tomaszow Mazowiecki oferă diverse activități de recreere pentru familii într-un mediu plăcut.",
+                  "category": "family",
+                  "coords": [
+                        20.04349,
+                        51.516742
+                  ]
+            },
+            {
+                  "name": "Ośrodek Rehabilitacji Dzieci Niepełnosprawnych",
+                  "text": "Această zonă de joacă specială din Tomaszow Mazowiecki este menită să ofere copiilor un mediu de joacă adecvat.",
+                  "category": "family",
+                  "coords": [
+                        20.00079,
+                        51.516717
+                  ]
             }
       ],
       "en": [
@@ -55256,6 +65561,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.014427,
                         51.527456
+                  ]
+            },
+            {
+                  "name": "Zalew Sulejowski",
+                  "text": "Zalew Sulejowski near Tomaszow Mazowiecki is a large reservoir ideal for water sports and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.930928,
+                        51.423257
+                  ]
+            },
+            {
+                  "name": "FG Kids",
+                  "text": "FG Kids in Tomaszow Mazowiecki is a modern play center providing a safe space for children to be active.",
+                  "category": "family",
+                  "coords": [
+                        20.00801,
+                        51.534267
+                  ]
+            },
+            {
+                  "name": "Vit Park",
+                  "text": "Vit Park in Tomaszow Mazowiecki offers various recreation activities for families in a pleasant outdoor environment.",
+                  "category": "family",
+                  "coords": [
+                        20.04349,
+                        51.516742
+                  ]
+            },
+            {
+                  "name": "Ośrodek Rehabilitacji Dzieci Niepełnosprawnych",
+                  "text": "This special play area in Tomaszow Mazowiecki is designed to provide children with a supportive environment for play.",
+                  "category": "family",
+                  "coords": [
+                        20.00079,
+                        51.516717
                   ]
             }
       ]
@@ -57008,7 +67349,88 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-belchatow-cities-v2",
+    id: "poland-belchatow-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plac zabaw Biedronka",
+                  "text": "Plac zabaw Biedronka in Belchatow ist ein lokaler Spielplatz, der Kindern einen unterhaltsamen Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.359125,
+                        51.354831
+                  ]
+            },
+            {
+                  "name": "\"Rakietowy\" plac zabaw",
+                  "text": "Der \"Rakietowy\" plac zabaw in Belchatow ist ein thematisch gestalteter Spielplatz, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        19.360762,
+                        51.352443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plac zabaw Biedronka",
+                  "text": "A Belchatow területén található Plac zabaw Biedronka egy helyi játszótér, amely szórakoztató helyszínt biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.359125,
+                        51.354831
+                  ]
+            },
+            {
+                  "name": "\"Rakietowy\" plac zabaw",
+                  "text": "A Belchatow városában található \"Rakietowy\" plac zabaw egy tematikus játszótér, amely serkenti a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        19.360762,
+                        51.352443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plac zabaw Biedronka",
+                  "text": "Plac zabaw Biedronka din Belchatow este un loc de joacă local care oferă copiilor un spațiu distractiv pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        19.359125,
+                        51.354831
+                  ]
+            },
+            {
+                  "name": "\"Rakietowy\" plac zabaw",
+                  "text": "\"Rakietowy\" plac zabaw din Belchatow este un loc de joacă tematic care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.360762,
+                        51.352443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plac zabaw Biedronka",
+                  "text": "Plac zabaw Biedronka in Belchatow is a local playground offering a fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.359125,
+                        51.354831
+                  ]
+            },
+            {
+                  "name": "\"Rakietowy\" plac zabaw",
+                  "text": "The \"Rakietowy\" plac zabaw in Belchatow is a themed playground that stimulates children's imagination and active play.",
+                  "category": "family",
+                  "coords": [
+                        19.360762,
+                        51.352443
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Belchatow", hu: "Bełchatów", ro: "Bełchatów", en: "Bełchatów"},
@@ -57290,6 +67712,69 @@ export const polandCitiesV2: POI[] = [
                         16.486253,
                         50.854936
                   ]
+            },
+            {
+                  "name": "Staw Hycel",
+                  "text": "Staw Hycel ist ein kleiner See in Swidnica, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.498638,
+                        50.864794
+                  ]
+            },
+            {
+                  "name": "Staw Kozła",
+                  "text": "Staw Kozła ist ein See in Swidnica, ideal für eine kurze Pause am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.496948,
+                        50.860001
+                  ]
+            },
+            {
+                  "name": "Starorzecze Bystrzycy",
+                  "text": "Starorzecze Bystrzycy ist ein See in Swidnica, der für seine malerische Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.504869,
+                        50.883639
+                  ]
+            },
+            {
+                  "name": "Gondelteich",
+                  "text": "Zalew Witoszówka I ist ein See in Swidnica, der einen ruhigen Ort zum Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.491071,
+                        50.837391
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka",
+                  "text": "Zalew Witoszówka ist ein See in Swidnica, ideal für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.479569,
+                        50.831495
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Zalew w Komorowie ist ein See in Swidnica, der eine schöne Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.400347,
+                        50.85508
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Nivea",
+                  "text": "Plac zabaw Nivea ist ein Spielplatz in Swidnica, der moderne Spielgeräte für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.464789,
+                        50.844895
+                  ]
             }
       ],
       "hu": [
@@ -57525,6 +68010,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.486253,
                         50.854936
+                  ]
+            },
+            {
+                  "name": "Staw Hycel",
+                  "text": "A Staw Hycel egy kis tó Swidnica területén, amely nyugodt természeti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        16.498638,
+                        50.864794
+                  ]
+            },
+            {
+                  "name": "Staw Kozła",
+                  "text": "A Staw Kozła egy tó Swidnica területén, amely ideális egy rövid vízparti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        16.496948,
+                        50.860001
+                  ]
+            },
+            {
+                  "name": "Starorzecze Bystrzycy",
+                  "text": "A Starorzecze Bystrzycy egy tó Swidnica területén, amely festői tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.504869,
+                        50.883639
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka I",
+                  "text": "A Zalew Witoszówka I egy tó Swidnica területén, amely nyugodt helyet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.491071,
+                        50.837391
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka",
+                  "text": "A Zalew Witoszówka egy tó Swidnica területén, amely ideális vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.479569,
+                        50.831495
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "A Zalew w Komorowie egy tó Swidnica területén, amely szép környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        16.400347,
+                        50.85508
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Nivea",
+                  "text": "A Plac zabaw Nivea egy játszótér Swidnica területén, amely modern játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.464789,
+                        50.844895
                   ]
             }
       ],
@@ -57762,6 +68310,69 @@ export const polandCitiesV2: POI[] = [
                         16.486253,
                         50.854936
                   ]
+            },
+            {
+                  "name": "Staw Hycel",
+                  "text": "Staw Hycel este un mic lac în Swidnica, oferind o ambianță naturală liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        16.498638,
+                        50.864794
+                  ]
+            },
+            {
+                  "name": "Staw Kozła",
+                  "text": "Staw Kozła este un lac în Swidnica, ideal pentru o scurtă pauză lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        16.496948,
+                        50.860001
+                  ]
+            },
+            {
+                  "name": "Starorzecze Bystrzycy",
+                  "text": "Starorzecze Bystrzycy este un lac în Swidnica, cunoscut pentru peisajul său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        16.504869,
+                        50.883639
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka I",
+                  "text": "Zalew Witoszówka I este un lac în Swidnica, oferind un loc liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.491071,
+                        50.837391
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka",
+                  "text": "Zalew Witoszówka este un lac în Swidnica, ideal pentru activități recreative pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.479569,
+                        50.831495
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Zalew w Komorowie este un lac în Swidnica, oferind un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.400347,
+                        50.85508
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Nivea",
+                  "text": "Plac zabaw Nivea este un loc de joacă în Swidnica, oferind echipamente moderne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.464789,
+                        50.844895
+                  ]
             }
       ],
       "en": [
@@ -57997,6 +68608,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.486253,
                         50.854936
+                  ]
+            },
+            {
+                  "name": "Staw Hycel",
+                  "text": "Staw Hycel is a small lake in Swidnica, offering a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        16.498638,
+                        50.864794
+                  ]
+            },
+            {
+                  "name": "Staw Kozła",
+                  "text": "Staw Kozła is a lake in Swidnica, ideal for a short break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        16.496948,
+                        50.860001
+                  ]
+            },
+            {
+                  "name": "Starorzecze Bystrzycy",
+                  "text": "Starorzecze Bystrzycy is a lake in Swidnica, known for its picturesque landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.504869,
+                        50.883639
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka I",
+                  "text": "Zalew Witoszówka I is a lake in Swidnica, providing a peaceful spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.491071,
+                        50.837391
+                  ]
+            },
+            {
+                  "name": "Zalew Witoszówka",
+                  "text": "Zalew Witoszówka is a lake in Swidnica, ideal for lakeside leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        16.479569,
+                        50.831495
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Zalew w Komorowie is a lake in Swidnica, offering a beautiful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.400347,
+                        50.85508
+                  ]
+            },
+            {
+                  "name": "Plac zabaw Nivea",
+                  "text": "Plac zabaw Nivea is a playground in Swidnica, providing modern play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        16.464789,
+                        50.844895
                   ]
             }
       ]
@@ -58300,6 +68974,42 @@ export const polandCitiesV2: POI[] = [
                         19.131045,
                         50.326445
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Ein idyllischer See in Będzin, der ein schönes Ziel für Spaziergänger ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Ein lokaler See in Będzin, ideal für Naturfreunde und kurze Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Ein Wasserspielplatz in Będzin, der an Sommertagen für viel Spaß und Abkühlung sorgt.",
+                  "category": "family",
+                  "coords": [
+                        19.150982,
+                        50.321976
+                  ]
+            },
+            {
+                  "name": "Smerf",
+                  "text": "Ein bunter Spielplatz in Będzin, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        19.166998,
+                        50.319854
+                  ]
             }
       ],
       "hu": [
@@ -58553,6 +69263,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.131045,
                         50.326445
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Egy idilli tó Będzinben, amely szép úti cél a sétálni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Egy helyi tó Będzinben, amely ideális a természetbarátoknak és rövid túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Egy vizes játszótér Będzinben, amely sok szórakozást és hűsölést nyújt a nyári napokon.",
+                  "category": "family",
+                  "coords": [
+                        19.150982,
+                        50.321976
+                  ]
+            },
+            {
+                  "name": "Smerf",
+                  "text": "Egy színes játszótér Będzinben, amelyet kifejezetten a gyerekek igényeire szabtak.",
+                  "category": "family",
+                  "coords": [
+                        19.166998,
+                        50.319854
                   ]
             }
       ],
@@ -58808,6 +69554,42 @@ export const polandCitiesV2: POI[] = [
                         19.131045,
                         50.326445
                   ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "Un lac idilic în Będzin, fiind o destinație frumoasă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "Un lac local în Będzin, ideal pentru iubitorii de natură și drumeții scurte.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Un loc de joacă cu apă în Będzin care oferă multă distracție și răcorire în zilele de vară.",
+                  "category": "family",
+                  "coords": [
+                        19.150982,
+                        50.321976
+                  ]
+            },
+            {
+                  "name": "Smerf",
+                  "text": "Un loc de joacă colorat în Będzin, adaptat special nevoilor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.166998,
+                        50.319854
+                  ]
             }
       ],
       "en": [
@@ -59061,6 +69843,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.131045,
                         50.326445
+                  ]
+            },
+            {
+                  "name": "Stawiki",
+                  "text": "An idyllic lake in Będzin, being a beautiful destination for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        19.10933,
+                        50.273862
+                  ]
+            },
+            {
+                  "name": "Pogoria 1",
+                  "text": "A local lake in Będzin, ideal for nature lovers and short hikes.",
+                  "category": "natural",
+                  "coords": [
+                        19.237195,
+                        50.356749
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "A water playground in Będzin providing lots of fun and cooling on summer days.",
+                  "category": "family",
+                  "coords": [
+                        19.150982,
+                        50.321976
+                  ]
+            },
+            {
+                  "name": "Smerf",
+                  "text": "A colorful playground in Będzin specially tailored to children's needs.",
+                  "category": "family",
+                  "coords": [
+                        19.166998,
+                        50.319854
                   ]
             }
       ]
@@ -61484,6 +72302,60 @@ export const polandCitiesV2: POI[] = [
                         20.916295,
                         52.377746
                   ]
+            },
+            {
+                  "name": "Kwietniówka",
+                  "text": "Kwietniówka in Legionowo ist ein kleiner lokaler See, der ein ruhiges Ziel für Entspannung in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.985207,
+                        52.440126
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziekanowskie",
+                  "text": "Der Jezioro Dziekanowskie in Legionowo ist ein malerischer See, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        20.844851,
+                        52.367606
+                  ]
+            },
+            {
+                  "name": "Łacha Łomiankowska Dolna",
+                  "text": "Łacha Łomiankowska Dolna bei Legionowo bietet eine ruhige und natürliche Wasserlandschaft für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        20.904253,
+                        52.34771
+                  ]
+            },
+            {
+                  "name": "Kiepura",
+                  "text": "Kiepura in Legionowo ist ein lokales Gewässer, das eine friedliche Atmosphäre für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.916655,
+                        52.363054
+                  ]
+            },
+            {
+                  "name": "Zalew Zegrzyński",
+                  "text": "Der Zalew Zegrzyński bei Legionowo ist ein bekanntes Erholungsgebiet, ideal für Wassersport und Familienausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        21.021016,
+                        52.491277
+                  ]
+            },
+            {
+                  "name": "Górka przy Królowej Jadwigi",
+                  "text": "Górka przy Królowej Jadwigi in Legionowo ist ein lokaler Platz, der für Kinder zum Spielen und Bewegen geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        20.92294,
+                        52.396517
+                  ]
             }
       ],
       "hu": [
@@ -61566,6 +72438,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.916295,
                         52.377746
+                  ]
+            },
+            {
+                  "name": "Kwietniówka",
+                  "text": "A Legionowo területén fekvő Kwietniówka egy kis helyi tó, amely nyugodt úti cél a természetbeli pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.985207,
+                        52.440126
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziekanowskie",
+                  "text": "A Legionowo városában található Jezioro Dziekanowskie egy festői tó, amely ideális sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.844851,
+                        52.367606
+                  ]
+            },
+            {
+                  "name": "Łacha Łomiankowska Dolna",
+                  "text": "A Legionowo közelében fekvő Łacha Łomiankowska Dolna nyugodt és természetes vízi tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.904253,
+                        52.34771
+                  ]
+            },
+            {
+                  "name": "Kiepura",
+                  "text": "A Legionowo területén található Kiepura egy helyi vízfelület, amely békés légkört biztosít a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.916655,
+                        52.363054
+                  ]
+            },
+            {
+                  "name": "Zalew Zegrzyński",
+                  "text": "A Legionowo közelében fekvő Zalew Zegrzyński népszerű üdülőhely, amely ideális vízi sportokhoz és családi kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.021016,
+                        52.491277
+                  ]
+            },
+            {
+                  "name": "Górka przy Królowej Jadwigi",
+                  "text": "A Legionowo városában található Górka przy Królowej Jadwigi egy helyi tér, amely alkalmas a gyerekek játékára és mozgására.",
+                  "category": "family",
+                  "coords": [
+                        20.92294,
+                        52.396517
                   ]
             }
       ],
@@ -61650,6 +72576,60 @@ export const polandCitiesV2: POI[] = [
                         20.916295,
                         52.377746
                   ]
+            },
+            {
+                  "name": "Kwietniówka",
+                  "text": "Kwietniówka din Legionowo este un lac local mic, care reprezintă o destinație liniștită pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.985207,
+                        52.440126
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziekanowskie",
+                  "text": "Jezioro Dziekanowskie din Legionowo este un lac pitoresc, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.844851,
+                        52.367606
+                  ]
+            },
+            {
+                  "name": "Łacha Łomiankowska Dolna",
+                  "text": "Łacha Łomiankowska Dolna de lângă Legionowo oferă un peisaj acvatic liniștit și natural pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        20.904253,
+                        52.34771
+                  ]
+            },
+            {
+                  "name": "Kiepura",
+                  "text": "Kiepura din Legionowo este un corp de apă local care oferă o atmosferă liniștită pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        20.916655,
+                        52.363054
+                  ]
+            },
+            {
+                  "name": "Zalew Zegrzyński",
+                  "text": "Zalew Zegrzyński de lângă Legionowo este o zonă de recreere binecunoscută, ideală pentru sporturi nautice și excursii în familie.",
+                  "category": "natural",
+                  "coords": [
+                        21.021016,
+                        52.491277
+                  ]
+            },
+            {
+                  "name": "Górka przy Królowej Jadwigi",
+                  "text": "Górka przy Królowej Jadwigi din Legionowo este un spațiu local potrivit pentru joaca și mișcarea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        20.92294,
+                        52.396517
+                  ]
             }
       ],
       "en": [
@@ -61732,6 +72712,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.916295,
                         52.377746
+                  ]
+            },
+            {
+                  "name": "Kwietniówka",
+                  "text": "Kwietniówka in Legionowo is a small local lake that serves as a quiet destination for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.985207,
+                        52.440126
+                  ]
+            },
+            {
+                  "name": "Jezioro Dziekanowskie",
+                  "text": "Jezioro Dziekanowskie in Legionowo is a scenic lake ideal for walks and observing the local natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        20.844851,
+                        52.367606
+                  ]
+            },
+            {
+                  "name": "Łacha Łomiankowska Dolna",
+                  "text": "Łacha Łomiankowska Dolna near Legionowo offers a quiet and natural waterside landscape for visitors to enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        20.904253,
+                        52.34771
+                  ]
+            },
+            {
+                  "name": "Kiepura",
+                  "text": "Kiepura in Legionowo is a local body of water providing a peaceful atmosphere for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        20.916655,
+                        52.363054
+                  ]
+            },
+            {
+                  "name": "Zalew Zegrzyński",
+                  "text": "Zalew Zegrzyński near Legionowo is a well-known recreation area, ideal for water sports and family outings.",
+                  "category": "natural",
+                  "coords": [
+                        21.021016,
+                        52.491277
+                  ]
+            },
+            {
+                  "name": "Górka przy Królowej Jadwigi",
+                  "text": "Górka przy Królowej Jadwigi in Legionowo is a local spot suitable for children to play and enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        20.92294,
+                        52.396517
                   ]
             }
       ]
@@ -63218,6 +74252,159 @@ export const polandCitiesV2: POI[] = [
                         20.844072,
                         52.183395
                   ]
+            },
+            {
+                  "name": "Staw Spiski",
+                  "text": "Der Staw Spiski ist ein See in Pruszków, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.911392,
+                        52.134388
+                  ]
+            },
+            {
+                  "name": "Staw Młyński",
+                  "text": "Ein ruhiger See namens Staw Młyński in Pruszków, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.840971,
+                        52.09793
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Der Zalew w Komorowie bietet eine schöne Kulisse für Spaziergänge am Wasser in Pruszków.",
+                  "category": "natural",
+                  "coords": [
+                        20.832909,
+                        52.138635
+                  ]
+            },
+            {
+                  "name": "Jezioro Koszajec",
+                  "text": "Das Jezioro Koszajec ist ein See in Pruszków, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.754369,
+                        52.17447
+                  ]
+            },
+            {
+                  "name": "Staw Raszyński",
+                  "text": "Der Staw Raszyński in Pruszków ist ein malerischer See, der zu Beobachtungen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.921057,
+                        52.147467
+                  ]
+            },
+            {
+                  "name": "Staw Macierzysz",
+                  "text": "Der Staw Macierzysz ist ein ruhiges Gewässer in Pruszków, das sich für erholsame Stunden eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.858839,
+                        52.223675
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Dolny",
+                  "text": "Der Staw Parkowy Dolny ist ein See in Pruszków, der Teil der lokalen Parklandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.920038,
+                        52.142404
+                  ]
+            },
+            {
+                  "name": "Staw Przepływowy",
+                  "text": "Der Staw Przepływowy in Pruszków bietet eine entspannte Atmosphäre für einen kurzen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        20.914688,
+                        52.147803
+                  ]
+            },
+            {
+                  "name": "Staw Falencki",
+                  "text": "Der Staw Falencki ist ein See in Pruszków, der eine natürliche Kulisse für Spaziergänger bildet.",
+                  "category": "natural",
+                  "coords": [
+                        20.916232,
+                        52.138317
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Górny",
+                  "text": "Der Staw Parkowy Górny ist ein schöner See in Pruszków, ideal für eine Pause während eines Parkbesuchs.",
+                  "category": "natural",
+                  "coords": [
+                        20.918076,
+                        52.141051
+                  ]
+            },
+            {
+                  "name": "Staw Puchalski",
+                  "text": "Der Staw Puchalski in Pruszków ist ein friedlicher Ort, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.909065,
+                        52.150878
+                  ]
+            },
+            {
+                  "name": "Staw Przydrożny",
+                  "text": "Der Staw Przydrożny ist ein kleinerer See in Pruszków, der die lokale Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        20.917807,
+                        52.143641
+                  ]
+            },
+            {
+                  "name": "Staw Rozgrodzony",
+                  "text": "Der Staw Rozgrodzony ist ein See in Pruszków, der eine ruhige Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.9206,
+                        52.143936
+                  ]
+            },
+            {
+                  "name": "plac na dachu",
+                  "text": "Der plac na dachu ist ein Spielplatz in Pruszków, der Kindern einen spannenden Ort zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.817317,
+                        52.182234
+                  ]
+            },
+            {
+                  "name": "Zakątek Szu",
+                  "text": "Zakątek Szu ist ein familienfreundlicher Spielplatz in Pruszków, ideal für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        20.796708,
+                        52.151389
+                  ]
+            },
+            {
+                  "name": "Górka Saneczkowa",
+                  "text": "Górka Saneczkowa in Pruszków ist ein toller Ort für Familien, der besonders im Winter Spaß macht.",
+                  "category": "family",
+                  "coords": [
+                        20.848855,
+                        52.162378
+                  ]
+            },
+            {
+                  "name": "Game Point",
+                  "text": "Game Point ist eine Spielhalle in Pruszków, die Unterhaltung und Spiele für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.79233,
+                        52.165339
+                  ]
             }
       ],
       "hu": [
@@ -63426,6 +74613,159 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.844072,
                         52.183395
+                  ]
+            },
+            {
+                  "name": "Staw Spiski",
+                  "text": "A Staw Spiski egy tó Pruszkówban, amely kiváló helyszín egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.911392,
+                        52.134388
+                  ]
+            },
+            {
+                  "name": "Staw Młyński",
+                  "text": "A Staw Młyński egy nyugodt tó Pruszkówban, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.840971,
+                        52.09793
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "A Zalew w Komorowie szép környezetet biztosít a vízparti sétákhoz Pruszkówban.",
+                  "category": "natural",
+                  "coords": [
+                        20.832909,
+                        52.138635
+                  ]
+            },
+            {
+                  "name": "Jezioro Koszajec",
+                  "text": "A Jezioro Koszajec egy tó Pruszkówban, amely békés környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        20.754369,
+                        52.17447
+                  ]
+            },
+            {
+                  "name": "Staw Raszyński",
+                  "text": "A Staw Raszyński Pruszkówban egy festői tó, amely természetjárásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        20.921057,
+                        52.147467
+                  ]
+            },
+            {
+                  "name": "Staw Macierzysz",
+                  "text": "A Staw Macierzysz egy nyugodt vízfelület Pruszkówban, amely alkalmas a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        20.858839,
+                        52.223675
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Dolny",
+                  "text": "A Staw Parkowy Dolny egy tó Pruszkówban, amely a helyi parkvilág része.",
+                  "category": "natural",
+                  "coords": [
+                        20.920038,
+                        52.142404
+                  ]
+            },
+            {
+                  "name": "Staw Przepływowy",
+                  "text": "A Staw Przepływowy Pruszkówban nyugodt légkört biztosít egy rövid szabadtéri tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.914688,
+                        52.147803
+                  ]
+            },
+            {
+                  "name": "Staw Falencki",
+                  "text": "A Staw Falencki egy tó Pruszkówban, amely természetes környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.916232,
+                        52.138317
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Górny",
+                  "text": "A Staw Parkowy Górny egy szép tó Pruszkówban, ideális egy pihenőhöz a parklátogatás során.",
+                  "category": "natural",
+                  "coords": [
+                        20.918076,
+                        52.141051
+                  ]
+            },
+            {
+                  "name": "Staw Puchalski",
+                  "text": "A Staw Puchalski Pruszkówban egy békés hely, amely kiválóan alkalmas természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        20.909065,
+                        52.150878
+                  ]
+            },
+            {
+                  "name": "Staw Przydrożny",
+                  "text": "A Staw Przydrożny egy kisebb tó Pruszkówban, amely gazdagítja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        20.917807,
+                        52.143641
+                  ]
+            },
+            {
+                  "name": "Staw Rozgrodzony",
+                  "text": "A Staw Rozgrodzony egy tó Pruszkówban, amely nyugodt környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.9206,
+                        52.143936
+                  ]
+            },
+            {
+                  "name": "plac na dachu",
+                  "text": "A plac na dachu egy játszótér Pruszkówban, amely izgalmas helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.817317,
+                        52.182234
+                  ]
+            },
+            {
+                  "name": "Zakątek Szu",
+                  "text": "A Zakątek Szu egy családbarát játszótér Pruszkówban, ideális a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.796708,
+                        52.151389
+                  ]
+            },
+            {
+                  "name": "Górka Saneczkowa",
+                  "text": "A Górka Saneczkowa Pruszkówban nagyszerű hely családok számára, amely különösen télen nyújt szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        20.848855,
+                        52.162378
+                  ]
+            },
+            {
+                  "name": "Game Point",
+                  "text": "A Game Point egy játékterem Pruszkówban, amely szórakozást és játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        20.79233,
+                        52.165339
                   ]
             }
       ],
@@ -63636,6 +74976,159 @@ export const polandCitiesV2: POI[] = [
                         20.844072,
                         52.183395
                   ]
+            },
+            {
+                  "name": "Staw Spiski",
+                  "text": "Staw Spiski este un lac din Pruszków, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        20.911392,
+                        52.134388
+                  ]
+            },
+            {
+                  "name": "Staw Młyński",
+                  "text": "Un lac liniștit numit Staw Młyński în Pruszków, care vă invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.840971,
+                        52.09793
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Zalew w Komorowie oferă un cadru frumos pentru plimbări pe malul apei în Pruszków.",
+                  "category": "natural",
+                  "coords": [
+                        20.832909,
+                        52.138635
+                  ]
+            },
+            {
+                  "name": "Jezioro Koszajec",
+                  "text": "Jezioro Koszajec este un lac din Pruszków, oferind un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.754369,
+                        52.17447
+                  ]
+            },
+            {
+                  "name": "Staw Raszyński",
+                  "text": "Staw Raszyński din Pruszków este un lac pitoresc care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.921057,
+                        52.147467
+                  ]
+            },
+            {
+                  "name": "Staw Macierzysz",
+                  "text": "Staw Macierzysz este o apă liniștită în Pruszków, potrivită pentru ore de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.858839,
+                        52.223675
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Dolny",
+                  "text": "Staw Parkowy Dolny este un lac din Pruszków, care face parte din peisajul parcului local.",
+                  "category": "natural",
+                  "coords": [
+                        20.920038,
+                        52.142404
+                  ]
+            },
+            {
+                  "name": "Staw Przepływowy",
+                  "text": "Staw Przepływowy din Pruszków oferă o atmosferă relaxată pentru o scurtă ședere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        20.914688,
+                        52.147803
+                  ]
+            },
+            {
+                  "name": "Staw Falencki",
+                  "text": "Staw Falencki este un lac din Pruszków, care formează un cadru natural pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        20.916232,
+                        52.138317
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Górny",
+                  "text": "Staw Parkowy Górny este un lac frumos în Pruszków, ideal pentru o pauză în timpul unei vizite în parc.",
+                  "category": "natural",
+                  "coords": [
+                        20.918076,
+                        52.141051
+                  ]
+            },
+            {
+                  "name": "Staw Puchalski",
+                  "text": "Staw Puchalski din Pruszków este un loc liniștit, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.909065,
+                        52.150878
+                  ]
+            },
+            {
+                  "name": "Staw Przydrożny",
+                  "text": "Staw Przydrożny este un lac mai mic din Pruszków, care îmbogățește peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        20.917807,
+                        52.143641
+                  ]
+            },
+            {
+                  "name": "Staw Rozgrodzony",
+                  "text": "Staw Rozgrodzony este un lac din Pruszków, care oferă un mediu liniștit pentru cei ce caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.9206,
+                        52.143936
+                  ]
+            },
+            {
+                  "name": "plac na dachu",
+                  "text": "Plac na dachu este un loc de joacă din Pruszków, oferind copiilor un spațiu captivant pentru distracție.",
+                  "category": "family",
+                  "coords": [
+                        20.817317,
+                        52.182234
+                  ]
+            },
+            {
+                  "name": "Zakątek Szu",
+                  "text": "Zakątek Szu este un loc de joacă prietenos pentru familii în Pruszków, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.796708,
+                        52.151389
+                  ]
+            },
+            {
+                  "name": "Górka Saneczkowa",
+                  "text": "Górka Saneczkowa din Pruszków este un loc minunat pentru familii, oferind distracție în special iarna.",
+                  "category": "family",
+                  "coords": [
+                        20.848855,
+                        52.162378
+                  ]
+            },
+            {
+                  "name": "Game Point",
+                  "text": "Game Point este o sală de jocuri în Pruszków, care oferă divertisment și jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        20.79233,
+                        52.165339
+                  ]
             }
       ],
       "en": [
@@ -63844,6 +75337,159 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.844072,
                         52.183395
+                  ]
+            },
+            {
+                  "name": "Staw Spiski",
+                  "text": "Staw Spiski is a lake in Pruszków, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.911392,
+                        52.134388
+                  ]
+            },
+            {
+                  "name": "Staw Młyński",
+                  "text": "A peaceful lake called Staw Młyński in Pruszków, perfect for spending time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.840971,
+                        52.09793
+                  ]
+            },
+            {
+                  "name": "Zalew w Komorowie",
+                  "text": "Zalew w Komorowie offers a beautiful backdrop for walks by the water in Pruszków.",
+                  "category": "natural",
+                  "coords": [
+                        20.832909,
+                        52.138635
+                  ]
+            },
+            {
+                  "name": "Jezioro Koszajec",
+                  "text": "Jezioro Koszajec is a lake in Pruszków, offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.754369,
+                        52.17447
+                  ]
+            },
+            {
+                  "name": "Staw Raszyński",
+                  "text": "Staw Raszyński in Pruszków is a scenic lake, perfect for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        20.921057,
+                        52.147467
+                  ]
+            },
+            {
+                  "name": "Staw Macierzysz",
+                  "text": "Staw Macierzysz is a calm body of water in Pruszków, suitable for restful hours.",
+                  "category": "natural",
+                  "coords": [
+                        20.858839,
+                        52.223675
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Dolny",
+                  "text": "Staw Parkowy Dolny is a lake in Pruszków, part of the local park landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.920038,
+                        52.142404
+                  ]
+            },
+            {
+                  "name": "Staw Przepływowy",
+                  "text": "Staw Przepływowy in Pruszków offers a relaxed atmosphere for a short outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        20.914688,
+                        52.147803
+                  ]
+            },
+            {
+                  "name": "Staw Falencki",
+                  "text": "Staw Falencki is a lake in Pruszków, providing a natural setting for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        20.916232,
+                        52.138317
+                  ]
+            },
+            {
+                  "name": "Staw Parkowy Górny",
+                  "text": "Staw Parkowy Górny is a beautiful lake in Pruszków, ideal for a break during a park visit.",
+                  "category": "natural",
+                  "coords": [
+                        20.918076,
+                        52.141051
+                  ]
+            },
+            {
+                  "name": "Staw Puchalski",
+                  "text": "Staw Puchalski in Pruszków is a peaceful spot, well-suited for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        20.909065,
+                        52.150878
+                  ]
+            },
+            {
+                  "name": "Staw Przydrożny",
+                  "text": "Staw Przydrożny is a smaller lake in Pruszków that enriches the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.917807,
+                        52.143641
+                  ]
+            },
+            {
+                  "name": "Staw Rozgrodzony",
+                  "text": "Staw Rozgrodzony is a lake in Pruszków, providing a quiet environment for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.9206,
+                        52.143936
+                  ]
+            },
+            {
+                  "name": "plac na dachu",
+                  "text": "Plac na dachu is a playground in Pruszków, offering children an exciting place to play.",
+                  "category": "family",
+                  "coords": [
+                        20.817317,
+                        52.182234
+                  ]
+            },
+            {
+                  "name": "Zakątek Szu",
+                  "text": "Zakątek Szu is a family-friendly playground in Pruszków, ideal for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.796708,
+                        52.151389
+                  ]
+            },
+            {
+                  "name": "Górka Saneczkowa",
+                  "text": "Górka Saneczkowa in Pruszków is a great spot for families, especially fun during winter.",
+                  "category": "family",
+                  "coords": [
+                        20.848855,
+                        52.162378
+                  ]
+            },
+            {
+                  "name": "Game Point",
+                  "text": "Game Point is an amusement arcade in Pruszków, providing entertainment and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        20.79233,
+                        52.165339
                   ]
             }
       ]
@@ -65574,7 +77220,196 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-ketrzyn-cities-v2",
+    id: "poland-ketrzyn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quedensee",
+                  "text": "Kwiedzińskie ist ein See in Ketrzyn, ideal für einen entspannten Aufenthalt in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.452102,
+                        54.066468
+                  ]
+            },
+            {
+                  "name": "Basen przeciwpożarowy",
+                  "text": "Basen przeciwpożarowy ist ein See in Ketrzyn, der als ruhiger Wasserpunkt in der Stadt dient.",
+                  "category": "natural",
+                  "coords": [
+                        21.497603,
+                        54.077945
+                  ]
+            },
+            {
+                  "name": "Zeiser See",
+                  "text": "Siercze ist ein See in Ketrzyn, der eine friedliche Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.466708,
+                        54.076724
+                  ]
+            },
+            {
+                  "name": "Górne",
+                  "text": "Górne ist ein See in Ketrzyn, ideal für einen kurzen Spaziergang in grüner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        21.377349,
+                        54.079709
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na bajanach",
+                  "text": "Plac zabaw na bajanach ist ein Spielplatz in Ketrzyn, der einen tollen Ort für Kinder zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.354413,
+                        54.084492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwiedzińskie",
+                  "text": "A Kwiedzińskie egy tó Ketrzyn területén, amely ideális egy pihentető időtöltéshez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.452102,
+                        54.066468
+                  ]
+            },
+            {
+                  "name": "Basen przeciwpożarowy",
+                  "text": "A Basen przeciwpożarowy egy tó Ketrzyn területén, amely nyugodt vízi pontként szolgál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        21.497603,
+                        54.077945
+                  ]
+            },
+            {
+                  "name": "Siercze",
+                  "text": "A Siercze egy tó Ketrzyn területén, amely békés vízparti hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        21.466708,
+                        54.076724
+                  ]
+            },
+            {
+                  "name": "Górne",
+                  "text": "A Górne egy tó Ketrzyn területén, amely ideális egy rövid sétához zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.377349,
+                        54.079709
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na bajanach",
+                  "text": "A Plac zabaw na bajanach egy játszótér Ketrzyn területén, amely remek hely a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.354413,
+                        54.084492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwiedzińskie",
+                  "text": "Kwiedzińskie este un lac în Ketrzyn, ideal pentru o ședere relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.452102,
+                        54.066468
+                  ]
+            },
+            {
+                  "name": "Basen przeciwpożarowy",
+                  "text": "Basen przeciwpożarowy este un lac în Ketrzyn, servind ca un punct de apă liniștit în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        21.497603,
+                        54.077945
+                  ]
+            },
+            {
+                  "name": "Siercze",
+                  "text": "Siercze este un lac în Ketrzyn, oferind o atmosferă liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.466708,
+                        54.076724
+                  ]
+            },
+            {
+                  "name": "Górne",
+                  "text": "Górne este un lac în Ketrzyn, ideal pentru o scurtă plimbare într-un cadru verde.",
+                  "category": "natural",
+                  "coords": [
+                        21.377349,
+                        54.079709
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na bajanach",
+                  "text": "Plac zabaw na bajanach este un loc de joacă în Ketrzyn, oferind un loc excelent de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.354413,
+                        54.084492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwiedzińskie",
+                  "text": "Kwiedzińskie is a lake in Ketrzyn, ideal for a relaxing time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.452102,
+                        54.066468
+                  ]
+            },
+            {
+                  "name": "Basen przeciwpożarowy",
+                  "text": "Basen przeciwpożarowy is a lake in Ketrzyn, serving as a quiet water feature in the town.",
+                  "category": "natural",
+                  "coords": [
+                        21.497603,
+                        54.077945
+                  ]
+            },
+            {
+                  "name": "Siercze",
+                  "text": "Siercze is a lake in Ketrzyn, offering a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.466708,
+                        54.076724
+                  ]
+            },
+            {
+                  "name": "Górne",
+                  "text": "Górne is a lake in Ketrzyn, ideal for a short walk in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        21.377349,
+                        54.079709
+                  ]
+            },
+            {
+                  "name": "Plac zabaw na bajanach",
+                  "text": "Plac zabaw na bajanach is a playground in Ketrzyn, providing a great spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        21.354413,
+                        54.084492
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Rastenburg", hu: "Kętrzyn", ro: "Kętrzyn", en: "Kętrzyn"},
@@ -65621,7 +77456,88 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-cieszyn-cities-v2",
+    id: "poland-cieszyn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodní nádrž Hrabina (Těšínská přehrada)",
+                  "text": "Ein malerischer Stausee bei Cieszyn, ideal für Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.601956,
+                        49.745038
+                  ]
+            },
+            {
+                  "name": "Centrum pro děti",
+                  "text": "Ein freundliches Kinderschutzzentrum in Cieszyn mit Spielmöglichkeiten für die Kleinen.",
+                  "category": "family",
+                  "coords": [
+                        18.620194,
+                        49.739135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodní nádrž Hrabina (Těšínská přehrada)",
+                  "text": "Egy festői víztározó Cieszyn közelében, amely ideális természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.601956,
+                        49.745038
+                  ]
+            },
+            {
+                  "name": "Centrum pro děti",
+                  "text": "Egy barátságos gyermekcentrum Cieszynben, játéklehetőségekkel a kicsiknek.",
+                  "category": "family",
+                  "coords": [
+                        18.620194,
+                        49.739135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodní nádrž Hrabina (Těšínská přehrada)",
+                  "text": "Un lac de acumulare pitoresc lângă Cieszyn, ideal pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.601956,
+                        49.745038
+                  ]
+            },
+            {
+                  "name": "Centrum pro děti",
+                  "text": "Un centru prietenos pentru copii în Cieszyn, cu posibilități de joacă pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        18.620194,
+                        49.739135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodní nádrž Hrabina (Těšínská přehrada)",
+                  "text": "A scenic reservoir near Cieszyn, ideal for nature excursions.",
+                  "category": "natural",
+                  "coords": [
+                        18.601956,
+                        49.745038
+                  ]
+            },
+            {
+                  "name": "Centrum pro děti",
+                  "text": "A friendly children's center in Cieszyn with play opportunities for the little ones.",
+                  "category": "family",
+                  "coords": [
+                        18.620194,
+                        49.739135
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Teschen", hu: "Cieszyn", ro: "Cieszyn", en: "Cieszyn"},
@@ -65668,7 +77584,88 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-bochnia-cities-v2",
+    id: "poland-bochnia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Czarny Staw",
+                  "text": "Der Czarny Staw ist ein See in Bochnia, der eine entspannte Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.402641,
+                        50.03359
+                  ]
+            },
+            {
+                  "name": "Murowianka",
+                  "text": "Murowianka ist ein Spielplatz in Bochnia, der ein beliebter Treffpunkt für Familien mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        20.450383,
+                        49.964309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Czarny Staw",
+                  "text": "A Czarny Staw egy tó Bochniában, amely nyugodt légkört biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.402641,
+                        50.03359
+                  ]
+            },
+            {
+                  "name": "Murowianka",
+                  "text": "A Murowianka egy játszótér Bochniában, amely népszerű találkozóhely a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.450383,
+                        49.964309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Czarny Staw",
+                  "text": "Czarny Staw este un lac din Bochnia, oferind o atmosferă relaxată pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.402641,
+                        50.03359
+                  ]
+            },
+            {
+                  "name": "Murowianka",
+                  "text": "Murowianka este un loc de joacă în Bochnia, fiind un loc de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        20.450383,
+                        49.964309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Czarny Staw",
+                  "text": "Czarny Staw is a lake in Bochnia, offering a relaxed atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.402641,
+                        50.03359
+                  ]
+            },
+            {
+                  "name": "Murowianka",
+                  "text": "Murowianka is a playground in Bochnia, serving as a popular meeting spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        20.450383,
+                        49.964309
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Salzberg", hu: "Bochnia", ro: "Bochnia", en: "Bochnia"},
@@ -67214,6 +79211,24 @@ export const polandCitiesV2: POI[] = [
                         18.926762,
                         53.7328
                   ]
+            },
+            {
+                  "name": "Łowisko Rakowiec",
+                  "text": "Łowisko Rakowiec ist ein See in Kwidzyn, der eine ruhige Kulisse für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.037485,
+                        53.731256
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Die Mini Golf Anlage in Kwidzyn bietet Spaß und sportliche Betätigung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.936983,
+                        53.720373
+                  ]
             }
       ],
       "hu": [
@@ -67305,6 +79320,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.926762,
                         53.7328
+                  ]
+            },
+            {
+                  "name": "Łowisko Rakowiec",
+                  "text": "A Łowisko Rakowiec egy tó Kwidzynben, amely nyugodt környezetet biztosít a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.037485,
+                        53.731256
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "A Kwidzynben található Mini Golf pálya szórakozást és sportolási lehetőséget kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.936983,
+                        53.720373
                   ]
             }
       ],
@@ -67398,6 +79431,24 @@ export const polandCitiesV2: POI[] = [
                         18.926762,
                         53.7328
                   ]
+            },
+            {
+                  "name": "Łowisko Rakowiec",
+                  "text": "Łowisko Rakowiec este un lac din Kwidzyn, oferind un cadru liniștit pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.037485,
+                        53.731256
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Terenul de Mini Golf din Kwidzyn oferă distracție și activitate sportivă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.936983,
+                        53.720373
+                  ]
             }
       ],
       "en": [
@@ -67489,6 +79540,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.926762,
                         53.7328
+                  ]
+            },
+            {
+                  "name": "Łowisko Rakowiec",
+                  "text": "Łowisko Rakowiec is a lake in Kwidzyn, providing a peaceful setting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.037485,
+                        53.731256
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "The Mini Golf course in Kwidzyn offers fun and sporting activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.936983,
+                        53.720373
                   ]
             }
       ]
@@ -68595,6 +80664,60 @@ export const polandCitiesV2: POI[] = [
                         21.722166,
                         49.701527
                   ]
+            },
+            {
+                  "name": "Glinianka",
+                  "text": "Ein kleiner See in Krosno, der als ruhiger Ort zum Entspannen im Freien dient.",
+                  "category": "natural",
+                  "coords": [
+                        21.725692,
+                        49.716828
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw im. Świętej Katarzyny",
+                  "text": "Ein gepflegter Spielplatz in Krosno, der Kindern eine abwechslungsreiche Freizeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.76939,
+                        49.68816
+                  ]
+            },
+            {
+                  "name": "High Jump",
+                  "text": "Ein dynamischer Trampolinpark in Krosno für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        21.755286,
+                        49.690357
+                  ]
+            },
+            {
+                  "name": "Plac do tańca",
+                  "text": "Ein besonderer Platz in Krosno, der Raum für Bewegung und Spiel bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.763544,
+                        49.668751
+                  ]
+            },
+            {
+                  "name": "wodny plac zabaw",
+                  "text": "Ein Wasserspielplatz in Krosno, ideal für erfrischenden Spielspaß an warmen Tagen.",
+                  "category": "family",
+                  "coords": [
+                        21.779069,
+                        49.692926
+                  ]
+            },
+            {
+                  "name": "Tyrolka",
+                  "text": "Ein Spielplatz mit Seilrutsche in Krosno, der Kindern spannende Erlebnisse ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        21.754859,
+                        49.684425
+                  ]
             }
       ],
       "hu": [
@@ -68803,6 +80926,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.722166,
                         49.701527
+                  ]
+            },
+            {
+                  "name": "Glinianka",
+                  "text": "Egy kis tó Krosnóban, amely nyugodt helyként szolgál a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.725692,
+                        49.716828
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw im. Świętej Katarzyny",
+                  "text": "Egy gondozott játszótér Krosnóban, amely változatos szabadidőt kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.76939,
+                        49.68816
+                  ]
+            },
+            {
+                  "name": "High Jump",
+                  "text": "Egy dinamikus trambulinpark Krosnóban az aktív családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        21.755286,
+                        49.690357
+                  ]
+            },
+            {
+                  "name": "Plac do tańca",
+                  "text": "Egy különleges tér Krosnóban, amely helyet biztosít a mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.763544,
+                        49.668751
+                  ]
+            },
+            {
+                  "name": "wodny plac zabaw",
+                  "text": "Egy vizes játszótér Krosnóban, amely ideális a frissítő játékhoz a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        21.779069,
+                        49.692926
+                  ]
+            },
+            {
+                  "name": "Tyrolka",
+                  "text": "Egy kötélpályás játszótér Krosnóban, amely izgalmas élményeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.754859,
+                        49.684425
                   ]
             }
       ],
@@ -69013,6 +81190,60 @@ export const polandCitiesV2: POI[] = [
                         21.722166,
                         49.701527
                   ]
+            },
+            {
+                  "name": "Glinianka",
+                  "text": "Un lac mic în Krosno care servește ca loc liniștit pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.725692,
+                        49.716828
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw im. Świętej Katarzyny",
+                  "text": "Un loc de joacă bine întreținut în Krosno, care oferă copiilor un timp liber diversificat.",
+                  "category": "family",
+                  "coords": [
+                        21.76939,
+                        49.68816
+                  ]
+            },
+            {
+                  "name": "High Jump",
+                  "text": "Un parc de trambuline dinamic în Krosno pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        21.755286,
+                        49.690357
+                  ]
+            },
+            {
+                  "name": "Plac do tańca",
+                  "text": "Un spațiu special în Krosno care oferă loc pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        21.763544,
+                        49.668751
+                  ]
+            },
+            {
+                  "name": "wodny plac zabaw",
+                  "text": "Un loc de joacă cu apă în Krosno, ideal pentru joacă răcoritoare în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        21.779069,
+                        49.692926
+                  ]
+            },
+            {
+                  "name": "Tyrolka",
+                  "text": "Un loc de joacă cu tiroliană în Krosno, care oferă copiilor experiențe captivante.",
+                  "category": "family",
+                  "coords": [
+                        21.754859,
+                        49.684425
+                  ]
             }
       ],
       "en": [
@@ -69221,6 +81452,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.722166,
                         49.701527
+                  ]
+            },
+            {
+                  "name": "Glinianka",
+                  "text": "A small lake in Krosno serving as a quiet spot for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        21.725692,
+                        49.716828
+                  ]
+            },
+            {
+                  "name": "Plac Zabaw im. Świętej Katarzyny",
+                  "text": "A well-maintained playground in Krosno offering diverse leisure time for children.",
+                  "category": "family",
+                  "coords": [
+                        21.76939,
+                        49.68816
+                  ]
+            },
+            {
+                  "name": "High Jump",
+                  "text": "A dynamic trampoline park in Krosno for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        21.755286,
+                        49.690357
+                  ]
+            },
+            {
+                  "name": "Plac do tańca",
+                  "text": "A special space in Krosno offering room for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        21.763544,
+                        49.668751
+                  ]
+            },
+            {
+                  "name": "wodny plac zabaw",
+                  "text": "A water playground in Krosno, ideal for refreshing play on warm days.",
+                  "category": "family",
+                  "coords": [
+                        21.779069,
+                        49.692926
+                  ]
+            },
+            {
+                  "name": "Tyrolka",
+                  "text": "A playground with a zip line in Krosno offering exciting experiences for children.",
+                  "category": "family",
+                  "coords": [
+                        21.754859,
+                        49.684425
                   ]
             }
       ]
@@ -69614,6 +81899,33 @@ export const polandCitiesV2: POI[] = [
                         17.34778,
                         50.483682
                   ]
+            },
+            {
+                  "name": "Kozakrzew",
+                  "text": "Kozakrzew ist ein See in Nysa, der sich gut für einen ruhigen Aufenthalt am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.252597,
+                        50.535874
+                  ]
+            },
+            {
+                  "name": "Neisser Stausee",
+                  "text": "Das Jezioro Nyskie ist ein großer See in Nysa, ideal für Wassersport und Erholung am Strand.",
+                  "category": "natural",
+                  "coords": [
+                        17.260216,
+                        50.453917
+                  ]
+            },
+            {
+                  "name": "Studio Kids",
+                  "text": "Studio Kids ist ein Indoor-Spielplatz in Nysa, der Kindern viel Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.346809,
+                        50.488656
+                  ]
             }
       ],
       "hu": [
@@ -69957,6 +82269,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.34778,
                         50.483682
+                  ]
+            },
+            {
+                  "name": "Kozakrzew",
+                  "text": "A Kozakrzew egy tó Nysában, amely kiválóan alkalmas egy nyugodt vízparti időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        17.252597,
+                        50.535874
+                  ]
+            },
+            {
+                  "name": "Jezioro Nyskie",
+                  "text": "A Jezioro Nyskie egy nagy tó Nysában, ideális vízi sportokhoz és a strandon való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.260216,
+                        50.453917
+                  ]
+            },
+            {
+                  "name": "Studio Kids",
+                  "text": "A Studio Kids egy beltéri játszótér Nysában, amely tágas helyet biztosít a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        17.346809,
+                        50.488656
                   ]
             }
       ],
@@ -70302,6 +82641,33 @@ export const polandCitiesV2: POI[] = [
                         17.34778,
                         50.483682
                   ]
+            },
+            {
+                  "name": "Kozakrzew",
+                  "text": "Kozakrzew este un lac din Nysa, potrivit pentru o ședere liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.252597,
+                        50.535874
+                  ]
+            },
+            {
+                  "name": "Jezioro Nyskie",
+                  "text": "Jezioro Nyskie este un lac mare în Nysa, ideal pentru sporturi nautice și relaxare pe plajă.",
+                  "category": "natural",
+                  "coords": [
+                        17.260216,
+                        50.453917
+                  ]
+            },
+            {
+                  "name": "Studio Kids",
+                  "text": "Studio Kids este un loc de joacă interior în Nysa, oferind copiilor mult spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        17.346809,
+                        50.488656
+                  ]
             }
       ],
       "en": [
@@ -70645,6 +83011,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.34778,
                         50.483682
+                  ]
+            },
+            {
+                  "name": "Kozakrzew",
+                  "text": "Kozakrzew is a lake in Nysa, well-suited for a peaceful stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.252597,
+                        50.535874
+                  ]
+            },
+            {
+                  "name": "Jezioro Nyskie",
+                  "text": "Jezioro Nyskie is a large lake in Nysa, perfect for water sports and relaxation on the beach.",
+                  "category": "natural",
+                  "coords": [
+                        17.260216,
+                        50.453917
+                  ]
+            },
+            {
+                  "name": "Studio Kids",
+                  "text": "Studio Kids is an indoor playground in Nysa, offering children plenty of space to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        17.346809,
+                        50.488656
                   ]
             }
       ]
@@ -71074,6 +83467,60 @@ export const polandCitiesV2: POI[] = [
                         19.97905,
                         49.282615
                   ]
+            },
+            {
+                  "name": "Dwoiśniak",
+                  "text": "Dwoiśniak ist ein See in Zakopane, der inmitten einer beeindruckenden Bergkulisse liegt.",
+                  "category": "natural",
+                  "coords": [
+                        19.997445,
+                        49.237943
+                  ]
+            },
+            {
+                  "name": "Jedyniak",
+                  "text": "Jedyniak ist ein See in Zakopane, ideal für Naturliebhaber in der Tatra.",
+                  "category": "natural",
+                  "coords": [
+                        19.999062,
+                        49.239637
+                  ]
+            },
+            {
+                  "name": "Mokra Jama",
+                  "text": "Mokra Jama ist ein See in Zakopane, der einen malerischen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.003361,
+                        49.241573
+                  ]
+            },
+            {
+                  "name": "Oberer Waldsee",
+                  "text": "Wyżni Toporowy Staw ist ein See in Zakopane, bekannt für seine ruhige Lage im Hochgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        20.029716,
+                        49.279432
+                  ]
+            },
+            {
+                  "name": "Kasprowy Stawek",
+                  "text": "Kasprowy Stawek ist ein kleiner See in Zakopane, gelegen in der Nähe bekannter Bergpfade.",
+                  "category": "natural",
+                  "coords": [
+                        19.980069,
+                        49.250634
+                  ]
+            },
+            {
+                  "name": "Troiśniak",
+                  "text": "Troiśniak ist ein See in Zakopane, der eine friedliche Atmosphäre für Wanderer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.99624,
+                        49.234585
+                  ]
             }
       ],
       "hu": [
@@ -71453,6 +83900,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.97905,
                         49.282615
+                  ]
+            },
+            {
+                  "name": "Dwoiśniak",
+                  "text": "A Dwoiśniak egy tó Zakopane területén, amely lenyűgöző hegyi környezetben található.",
+                  "category": "natural",
+                  "coords": [
+                        19.997445,
+                        49.237943
+                  ]
+            },
+            {
+                  "name": "Jedyniak",
+                  "text": "A Jedyniak egy tó Zakopane területén, amely ideális a természet kedvelőinek a Tátrában.",
+                  "category": "natural",
+                  "coords": [
+                        19.999062,
+                        49.239637
+                  ]
+            },
+            {
+                  "name": "Mokra Jama",
+                  "text": "A Mokra Jama egy tó Zakopane területén, amely festői kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        20.003361,
+                        49.241573
+                  ]
+            },
+            {
+                  "name": "Wyżni Toporowy Staw",
+                  "text": "A Wyżni Toporowy Staw egy tó Zakopane területén, amely a magashegyi nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.029716,
+                        49.279432
+                  ]
+            },
+            {
+                  "name": "Kasprowy Stawek",
+                  "text": "A Kasprowy Stawek egy kis tó Zakopane területén, ismert hegyi ösvények közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.980069,
+                        49.250634
+                  ]
+            },
+            {
+                  "name": "Troiśniak",
+                  "text": "A Troiśniak egy tó Zakopane területén, amely békés hangulatot biztosít a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.99624,
+                        49.234585
                   ]
             }
       ],
@@ -71834,6 +84335,60 @@ export const polandCitiesV2: POI[] = [
                         19.97905,
                         49.282615
                   ]
+            },
+            {
+                  "name": "Dwoiśniak",
+                  "text": "Dwoiśniak este un lac în Zakopane, situat într-un cadru montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        19.997445,
+                        49.237943
+                  ]
+            },
+            {
+                  "name": "Jedyniak",
+                  "text": "Jedyniak este un lac în Zakopane, ideal pentru iubitorii de natură din Munții Tatra.",
+                  "category": "natural",
+                  "coords": [
+                        19.999062,
+                        49.239637
+                  ]
+            },
+            {
+                  "name": "Mokra Jama",
+                  "text": "Mokra Jama este un lac în Zakopane, oferind o vedere pitorească asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.003361,
+                        49.241573
+                  ]
+            },
+            {
+                  "name": "Wyżni Toporowy Staw",
+                  "text": "Wyżni Toporowy Staw este un lac în Zakopane, cunoscut pentru locația sa liniștită la munte.",
+                  "category": "natural",
+                  "coords": [
+                        20.029716,
+                        49.279432
+                  ]
+            },
+            {
+                  "name": "Kasprowy Stawek",
+                  "text": "Kasprowy Stawek este un mic lac în Zakopane, situat în apropierea unor trasee montane cunoscute.",
+                  "category": "natural",
+                  "coords": [
+                        19.980069,
+                        49.250634
+                  ]
+            },
+            {
+                  "name": "Troiśniak",
+                  "text": "Troiśniak este un lac în Zakopane, oferind o atmosferă liniștită pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        19.99624,
+                        49.234585
+                  ]
             }
       ],
       "en": [
@@ -72213,6 +84768,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.97905,
                         49.282615
+                  ]
+            },
+            {
+                  "name": "Dwoiśniak",
+                  "text": "Dwoiśniak is a lake in Zakopane, located in an impressive mountain setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.997445,
+                        49.237943
+                  ]
+            },
+            {
+                  "name": "Jedyniak",
+                  "text": "Jedyniak is a lake in Zakopane, ideal for nature lovers in the Tatra Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        19.999062,
+                        49.239637
+                  ]
+            },
+            {
+                  "name": "Mokra Jama",
+                  "text": "Mokra Jama is a lake in Zakopane, offering a scenic view of the area.",
+                  "category": "natural",
+                  "coords": [
+                        20.003361,
+                        49.241573
+                  ]
+            },
+            {
+                  "name": "Wyżni Toporowy Staw",
+                  "text": "Wyżni Toporowy Staw is a lake in Zakopane, known for its peaceful high-mountain location.",
+                  "category": "natural",
+                  "coords": [
+                        20.029716,
+                        49.279432
+                  ]
+            },
+            {
+                  "name": "Kasprowy Stawek",
+                  "text": "Kasprowy Stawek is a small lake in Zakopane, located near well-known mountain paths.",
+                  "category": "natural",
+                  "coords": [
+                        19.980069,
+                        49.250634
+                  ]
+            },
+            {
+                  "name": "Troiśniak",
+                  "text": "Troiśniak is a lake in Zakopane, providing a peaceful atmosphere for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        19.99624,
+                        49.234585
                   ]
             }
       ]
@@ -74009,7 +86618,88 @@ export const polandCitiesV2: POI[] = [
     image: "/poi-images/poland-sopot-cities-v2.webp",
   },
   {
-    id: "poland-sandomierz-cities-v2",
+    id: "poland-sandomierz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plac Zabaw przy ulicy Schinzla",
+                  "text": "Der Plac Zabaw przy ulicy Schinzla ist ein moderner Spielplatz in Sandomierz für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        21.748635,
+                        50.699038
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Mały Robinson ist ein thematischer Spielplatz in Sandomierz, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        21.732708,
+                        50.685373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plac Zabaw przy ulicy Schinzla",
+                  "text": "A Plac Zabaw przy ulicy Schinzla egy modern játszótér Sandomierzben minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        21.748635,
+                        50.699038
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "A Mały Robinson egy tematikus játszótér Sandomierzben, amely ösztönzi a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        21.732708,
+                        50.685373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plac Zabaw przy ulicy Schinzla",
+                  "text": "Plac Zabaw przy ulicy Schinzla este un loc de joacă modern în Sandomierz pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        21.748635,
+                        50.699038
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Mały Robinson este un loc de joacă tematic în Sandomierz, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.732708,
+                        50.685373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plac Zabaw przy ulicy Schinzla",
+                  "text": "Plac Zabaw przy ulicy Schinzla is a modern playground in Sandomierz for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        21.748635,
+                        50.699038
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Mały Robinson is a themed playground in Sandomierz that stimulates children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        21.732708,
+                        50.685373
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Sandomierz", hu: "Sandomierz", ro: "Sandomierz", en: "Sandomierz" },

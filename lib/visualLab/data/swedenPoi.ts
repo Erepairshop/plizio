@@ -520,6 +520,231 @@ export const swedenRegions: POI[] = [
                         18.058582,
                         59.342848
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken ist ein See in Stockholm, der eine friedliche Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Der Ösbysjön in Stockholm ist ein beliebter See für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond ist ein kleiner See in Stockholm, der zum Beobachten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön ist ein See in Stockholm, der ideale Bedingungen zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Der Ulvsjön in Stockholm ist ein ruhiger See, der sich gut für Ausflüge in die Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein See in Stockholm, der von schöner Natur für Spaziergänge umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten ist ein zentral gelegener See in Stockholm, der ein beliebtes Ziel für die Naherholung ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen ist ein malerischer See in Stockholm, bekannt für seine ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Der Bastusjön in Stockholm bietet eine schöne Umgebung für Aktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Der Söderbysjön ist ein See in Stockholm, der zum Wandern und Genießen der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken ist ein See in Stockholm, der sich gut für erholsame Spaziergänge am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön ist ein See in Stockholm, der eine attraktive Kulisse für Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Gråviken ist ein See in Stockholm, der ideal für ruhige Momente in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Der Kolbottensjön in Stockholm bietet eine natürliche Umgebung für Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Der Källtorpssjön ist ein See in Stockholm, der für seine Wanderwege und Naturschönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein großer See in Stockholm, der zahlreiche Möglichkeiten für Wassersport und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Der Råstasjön in Stockholm ist ein See, der für seine Vogelwelt und Spazierwege beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken ist ein See in Stockholm, der eine schöne Uferlandschaft für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Dammtorpssjön",
+                  "text": "Dammtorpssjön ist ein See in Stockholm, ideal für Naturbeobachtungen und ruhige Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.148198,
+                        59.290506
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret ist ein kleiner See in Stockholm, der eine naturnahe Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Der Olovslundsdammen in Stockholm ist ein ruhiges Gewässer, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen ist ein See in Stockholm, bekannt für seine ruhige Lage und schöne Spiegelungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Järlasjön",
+                  "text": "Der Järlasjön ist ein See in Stockholm, der vielfältige Möglichkeiten für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.162204,
+                        59.30306
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön ist ein See in Stockholm, der von Parkanlagen umgeben und beliebt für Spaziergänge ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Der Riddarfjärden ist ein zentraler See in Stockholm, der einen beeindruckenden Blick auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
             }
       ],
       "hu": [
@@ -998,6 +1223,231 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.058582,
                         59.342848
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Laduviken egy tó Stockholmban, amely békés környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Az Ösbysjön egy népszerű tó Stockholmban a természetkedvelők és kirándulók körében.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Swan Pond egy kis tó Stockholmban, amely a természet megfigyelésére invitál.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön egy tó Stockholmban, amely ideális feltételeket biztosít a túrázáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Az Ulvsjön egy csendes tó Stockholmban, amely alkalmas természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön egy tó Stockholmban, amelyet szép természet vesz körül a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "A Trekanten egy központi fekvésű tó Stockholmban, amely a helyi kikapcsolódás kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "A Näckrosdammen egy festői tó Stockholmban, amely nyugodt légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "A Bastusjön Stockholmban szép környezetet kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "A Söderbysjön egy tó Stockholmban, amely túrázásra és a táj élvezetére invitál.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken egy tó Stockholmban, amely alkalmas pihentető sétákra a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Az Ekholmsnässjön egy tó Stockholmban, amely vonzó környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "A Gråviken egy tó Stockholmban, amely ideális a természetben töltött csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "A Kolbottensjön Stockholmban természetes környezetet kínál a sétákhoz és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "A Källtorpssjön egy tó Stockholmban, amely túraútvonalairól és természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy nagy tó Stockholmban, amely számos vízisport- és kikapcsolódási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "A Råstasjön Stockholmban egy tó, amely madárvilágáról és sétányairól kedvelt.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Az Edsviken egy tó Stockholmban, amely szép vízparti tájat kínál a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Dammtorpssjön",
+                  "text": "A Dammtorpssjön egy tó Stockholmban, amely ideális természetmegfigyelésre és csendes sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.148198,
+                        59.290506
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret egy kis tó Stockholmban, amely természetközeli hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Az Olovslundsdammen Stockholmban egy csendes vízfelület, amely pihenésre invitál.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen egy tó Stockholmban, amely nyugodt fekvéséről és szép tükröződéseiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Järlasjön",
+                  "text": "A Järlasjön egy tó Stockholmban, amely változatos lehetőségeket kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.162204,
+                        59.30306
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön egy tó Stockholmban, amelyet parkok vesznek körül, és kedvelt a sétálók körében.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "A Riddarfjärden egy központi tó Stockholmban, amely lenyűgöző kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
                   ]
             }
       ],
@@ -1478,6 +1928,231 @@ export const swedenRegions: POI[] = [
                         18.058582,
                         59.342848
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken este un lac în Stockholm, oferind un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön din Stockholm este un lac popular pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond este un lac mic în Stockholm, care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön este un lac în Stockholm, oferind condiții ideale pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön din Stockholm este un lac liniștit, potrivit pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac în Stockholm, înconjurat de natură frumoasă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten este un lac situat central în Stockholm, fiind o destinație populară pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen este un lac pitoresc în Stockholm, cunoscut pentru atmosfera sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön din Stockholm oferă un cadru frumos pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön este un lac în Stockholm, care invită la drumeții și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken este un lac în Stockholm, potrivit pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön este un lac în Stockholm, oferind un cadru atractiv pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Gråviken este un lac în Stockholm, ideal pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön din Stockholm oferă un cadru natural pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Källtorpssjön este un lac în Stockholm, cunoscut pentru traseele sale de drumeție și frumusețea naturală.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac mare în Stockholm, oferind numeroase oportunități pentru sporturi nautice și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön din Stockholm este un lac popular pentru fauna sa ornitologică și aleile de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken este un lac în Stockholm, oferind un peisaj frumos la malul apei pentru activități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Dammtorpssjön",
+                  "text": "Dammtorpssjön este un lac în Stockholm, ideal pentru observarea naturii și plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        18.148198,
+                        59.290506
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret este un lac mic în Stockholm, oferind o atmosferă apropiată de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen din Stockholm este un ochi de apă liniștit, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen este un lac în Stockholm, cunoscut pentru locația sa liniștită și reflexiile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Järlasjön",
+                  "text": "Järlasjön este un lac în Stockholm, oferind diverse oportunități pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.162204,
+                        59.30306
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön este un lac în Stockholm, înconjurat de parcuri și popular pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden este un lac central în Stockholm, oferind o vedere impresionantă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
             }
       ],
       "en": [
@@ -1956,6 +2631,231 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.058582,
                         59.342848
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken is a lake in Stockholm, offering a peaceful setting for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön in Stockholm is a popular lake for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond is a small lake in Stockholm, inviting visitors to observe nature and enjoy the view.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön is a lake in Stockholm, providing ideal conditions for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön in Stockholm is a quiet lake, suitable for nature excursions and peaceful walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Stockholm, surrounded by beautiful nature for walks and outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten is a centrally located lake in Stockholm, serving as a popular destination for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen is a scenic lake in Stockholm, known for its peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön in Stockholm offers a lovely environment for outdoor activities and nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön is a lake in Stockholm, inviting visitors to hike and enjoy the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken is a lake in Stockholm, suitable for relaxing walks along the waterfront.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön is a lake in Stockholm, providing an attractive backdrop for nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Gråviken is a lake in Stockholm, ideal for quiet moments in nature and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön in Stockholm offers a natural environment for walking and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Källtorpssjön is a lake in Stockholm, known for its hiking trails and natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a large lake in Stockholm, offering many opportunities for water sports and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön in Stockholm is a lake popular for its birdlife and scenic walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken is a lake in Stockholm, offering a beautiful shoreline landscape for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Dammtorpssjön",
+                  "text": "Dammtorpssjön is a lake in Stockholm, ideal for nature observation and quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.148198,
+                        59.290506
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret is a small lake in Stockholm, offering a nature-oriented atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen in Stockholm is a quiet body of water that invites visitors to relax.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen is a lake in Stockholm, known for its quiet location and beautiful reflections.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Järlasjön",
+                  "text": "Järlasjön is a lake in Stockholm, providing varied opportunities for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        18.162204,
+                        59.30306
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön is a lake in Stockholm, surrounded by parkland and popular for scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden is a central lake in Stockholm, offering impressive views of the city skyline.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
                   ]
             }
       ]
@@ -4506,6 +5406,186 @@ export const swedenRegions: POI[] = [
                         13.00777,
                         55.589029
                   ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön ist ein ruhiges Gewässer in Malmoe, das zu einem kurzen Spaziergang im Park einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen ist ein naturnaher Teich in Malmoe, ideal für Beobachtungen der Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm ist ein kleiner See in Malmoe, der eine friedliche Grünfläche für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen ist ein idyllischer Teich in Malmoe, perfekt für eine entspannte Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen ist ein markanter See in Malmoe, ideal für einen erholsamen Spaziergang im Park.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen ist ein fantasievoller Spielplatz in Malmoe, auf dem Kinder in kreative Welten eintauchen können.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö bietet spannende Virtual-Reality-Erlebnisse für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra ist ein schöner Ort in Malmoe für Kinder zum Spielen und Austoben an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen ist ein märchenhafter Spielplatz in Malmoe, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen ist ein sonniger Spielplatz in Malmoe, ideal für Kinder zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen ist ein origineller Spielplatz in Malmoe mit vielen Möglichkeiten zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen ist ein thematischer Spielplatz in Malmoe, der Kindern spielerisch das Thema Fischen näherbringt.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen ist ein beliebter Spielplatz in Malmoe, auf dem Kinder in einer tierreichen Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen ist ein Spielplatz in Malmoe, der Kinder zu viel Bewegung und Aktivität motiviert.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen ist ein toller Ort in Malmoe für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen ist ein spannender Spielplatz in Malmoe mit interessanten Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen ist ein naturnaher Spielplatz in Malmoe, der eine waldähnliche Spielumgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats ist ein schöner Spielplatz in Malmoe, ideal für kleine Entdecker zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf bietet eine großartige Minigolf-Erfahrung in Malmoe für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden ist ein Spielplatz in Malmoe, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
             }
       ],
       "hu": [
@@ -5011,6 +6091,186 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         13.00777,
                         55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Az Oljesjön egy nyugodt vízfelület Malmoe városában, amely egy rövid parki sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Az Organiska dammen egy természetközeli tó Malmoe területén, amely ideális az élővilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "A Sege damm egy kis tó Malmoe városában, amely békés zöldterületet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "A Nya Svandammen egy idilli tó Malmoe területén, amely tökéletes egy pihentető szabadtéri szünethez.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "A Stora dammen egy jellegzetes tó Malmoe városában, amely ideális egy pihentető parki sétához.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "A Teaterlekplatsen egy ötletes játszótér Malmoe városában, ahol a gyerekek kreatív játékokat játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "A VR Malmö izgalmas virtuális valóság élményeket kínál egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "A Spielplatz Norra egy remek hely Malmoe városában a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "A Sagolekplatsen egy mesebeli játszótér Malmoe városában, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "A Sollekplatsen egy napfényes játszótér Malmoe területén, amely ideális mászásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "A Spirallekplatsen egy eredeti játszótér Malmoe városában, amely sok felfedeznivalót kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "A Fiskelekplatsen egy tematikus játszótér Malmoe területén, amely a horgászat világát idézi meg.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "A Djurlekplatsen egy népszerű játszótér Malmoe városában, ahol a gyerekek állatos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "A Rörelselekplatsen egy játszótér Malmoe területén, amely mozgásra és aktivitásra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "A Göingeplan lekplatsen egy nagyszerű hely Malmoe városában a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "A Spindellekplatsen egy izgalmas játszótér Malmoe területén, érdekes mászási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "A Skogslekplatsen egy természetközeli játszótér Malmoe városában, erdei hangulatú játéktérrel.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "A Torekovsplans Lekplats egy kedves játszótér Malmoe városában, amely ideális a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "A Ribban Green Golf nagyszerű minigolf-élményt kínál Malmoe városában az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "A Leklunden egy játszótér Malmoe városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
                   ]
             }
       ],
@@ -5518,6 +6778,186 @@ export const swedenRegions: POI[] = [
                         13.00777,
                         55.589029
                   ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön este o zonă de apă liniștită în Malmoe, care invită la o scurtă plimbare în parc.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen este un iaz natural în Malmoe, ideal pentru observarea faunei.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm este un lac mic în Malmoe, care oferă un spațiu verde liniștit vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen este un iaz idilic în Malmoe, perfect pentru o pauză relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen este un lac remarcabil în Malmoe, ideal pentru o plimbare relaxantă în parc.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen este un loc de joacă plin de imaginație în Malmoe, unde copiii pot intra în lumi creative.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö oferă experiențe palpitante de realitate virtuală pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra este un loc frumos în Malmoe unde copiii se pot juca și alerga în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen este un loc de joacă de basm în Malmoe, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen este un loc de joacă însorit în Malmoe, ideal pentru copii să se cațere și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen este un loc de joacă original în Malmoe, cu multe oportunități de explorare.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen este un loc de joacă tematic în Malmoe, care introduce copiii în lumea pescuitului.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen este un loc de joacă popular în Malmoe, unde copiii se pot juca într-un cadru cu tematică animală.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen este un loc de joacă în Malmoe care motivează copiii la multă mișcare și activitate.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen este un loc minunat în Malmoe unde copiii se pot juca și distra.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen este un loc de joacă palpitant în Malmoe, cu posibilități interesante de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen este un loc de joacă natural în Malmoe, oferind un mediu de joacă asemănător pădurii.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats este un loc de joacă frumos în Malmoe, ideal pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf oferă o experiență excelentă de minigolf în Malmoe pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden este un teren de joacă în Malmoe, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
             }
       ],
       "en": [
@@ -6023,6 +7463,186 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         13.00777,
                         55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön is a quiet body of water in Malmoe, inviting visitors for a short walk in the park.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen is a natural pond in Malmoe, perfect for observing local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm is a small lake in Malmoe, providing a peaceful green space for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen is an idyllic pond in Malmoe, perfect for a relaxing outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen is a prominent lake in Malmoe, perfect for a relaxing stroll through the park.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen is an imaginative playground in Malmoe where children can enjoy creative play.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö offers exciting virtual reality experiences for an entertaining family outing.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra is a nice spot in Malmoe for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen is a fairytale-themed playground in Malmoe that sparks children's imaginations.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen is a sunny playground in Malmoe, ideal for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen is an original playground in Malmoe with plenty of features to explore.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen is a themed playground in Malmoe that brings a fishing-inspired world to life for kids.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen is a popular playground in Malmoe where children can play in an animal-themed setting.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen is a playground in Malmoe designed to encourage movement and physical activity.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen is a great spot in Malmoe for children to play and have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen is an exciting playground in Malmoe featuring interesting climbing structures.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen is a nature-inspired playground in Malmoe providing a forest-like environment for play.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats is a lovely playground in Malmoe, ideal for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf provides a great miniature golf experience in Malmoe for the entire family.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden is a playground in Malmoe, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
                   ]
             }
       ]
@@ -6574,6 +8194,186 @@ export const swedenRegions: POI[] = [
                         17.628568,
                         59.857236
                   ]
+            },
+            {
+                  "name": "Infiltrationsdammar",
+                  "text": "Infiltrationsdammar ist ein See in Uppsala, der für Spaziergänge in einer ruhigen Umgebung geeignet ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.620313,
+                        59.893687
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren bei Uppsala ist ein beliebtes Ziel für Bootsausflüge und Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Röbo naturlekplats",
+                  "text": "Röbo naturlekplats ist ein Naturspielplatz in Uppsala, der Kindern ein naturnahes Spielerlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.625123,
+                        59.883467
+                  ]
+            },
+            {
+                  "name": "Lyckans lekplats",
+                  "text": "Lyckans lekplats ist ein freundlicher Spielplatz in Uppsala mit verschiedenen Geräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        17.666329,
+                        59.859103
+                  ]
+            },
+            {
+                  "name": "Trädgårdslandet",
+                  "text": "Trädgårdslandet ist ein Spielplatz in Uppsala, der in einer parkähnlichen Umgebung zum Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.654603,
+                        59.835054
+                  ]
+            },
+            {
+                  "name": "Lyrikparken",
+                  "text": "Lyrikparken ist ein themenorientierter Spielplatz in Uppsala für kreative Spielstunden im Freien.",
+                  "category": "family",
+                  "coords": [
+                        17.650053,
+                        59.832269
+                  ]
+            },
+            {
+                  "name": "Uppsala BGK",
+                  "text": "Uppsala BGK bietet eine Minigolfanlage in Uppsala, die Spaß für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        17.652036,
+                        59.844177
+                  ]
+            },
+            {
+                  "name": "Norbyvretens lekplats",
+                  "text": "Der Spielplatz Norbyvreten in Uppsala ist ein lokales Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        17.617857,
+                        59.84112
+                  ]
+            },
+            {
+                  "name": "Sankt Göransparken",
+                  "text": "Sankt Göransparken ist ein Spielplatz in Uppsala, der in einer attraktiven Parkanlage liegt.",
+                  "category": "family",
+                  "coords": [
+                        17.651667,
+                        59.861264
+                  ]
+            },
+            {
+                  "name": "Cirkusparken",
+                  "text": "Cirkusparken ist ein Spielplatz in Uppsala, der Kinder mit seinem besonderen Design begeistert.",
+                  "category": "family",
+                  "coords": [
+                        17.665609,
+                        59.861189
+                  ]
+            },
+            {
+                  "name": "Giraffparken",
+                  "text": "Giraffparken ist ein beliebtes Ziel für Familien in Uppsala mit unterhaltsamen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        17.611656,
+                        59.861432
+                  ]
+            },
+            {
+                  "name": "Arosparken",
+                  "text": "Arosparken ist ein gut ausgestatteter Spielplatz in Uppsala, ideal für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        17.614013,
+                        59.848832
+                  ]
+            },
+            {
+                  "name": "Torkelsplan",
+                  "text": "Torkelsplan ist ein Stadtspielplatz in Uppsala, der eine willkommene Abwechslung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.656926,
+                        59.861107
+                  ]
+            },
+            {
+                  "name": "Gunsta backar",
+                  "text": "Gunsta backar bietet einen Spielplatz in Uppsala, der in eine natürliche Hügellandschaft eingebettet ist.",
+                  "category": "family",
+                  "coords": [
+                        17.67272,
+                        59.860001
+                  ]
+            },
+            {
+                  "name": "Blenda",
+                  "text": "Blenda ist ein Spielplatz in Uppsala, der sicher und ansprechend für junge Entdecker gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        17.631437,
+                        59.86628
+                  ]
+            },
+            {
+                  "name": "Lekplats Gränbyparken",
+                  "text": "Lekplats Gränbyparken ist ein großer Spielplatz in Uppsala mit vielen Möglichkeiten für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        17.660856,
+                        59.87549
+                  ]
+            },
+            {
+                  "name": "Ynglingaparkens lekplats",
+                  "text": "Ynglingaparkens lekplats ist ein gepflegter Spielplatz in Uppsala für abwechslungsreiche Freizeitstunden.",
+                  "category": "family",
+                  "coords": [
+                        17.6338,
+                        59.877903
+                  ]
+            },
+            {
+                  "name": "Lekpark Lännakatten",
+                  "text": "Lekpark Lännakatten ist ein Spielplatz in Uppsala mit Bezug zur historischen Eisenbahn.",
+                  "category": "family",
+                  "coords": [
+                        17.657506,
+                        59.857294
+                  ]
+            },
+            {
+                  "name": "Åkerlyckan",
+                  "text": "Åkerlyckan ist ein moderner Spielplatz in Uppsala, der vielseitige Aktivitäten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.608811,
+                        59.862498
+                  ]
+            },
+            {
+                  "name": "Bondbönsparken",
+                  "text": "Bondbönsparken ist ein Spielplatz in Uppsala, der zum gemeinsamen Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.685983,
+                        59.864615
+                  ]
             }
       ],
       "hu": [
@@ -7061,6 +8861,186 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.628568,
                         59.857236
+                  ]
+            },
+            {
+                  "name": "Infiltrationsdammar",
+                  "text": "Az Infiltrationsdammar egy tó Uppsalában, amely alkalmas sétákra nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.620313,
+                        59.893687
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren Uppsala közelében a hajókirándulások és vízparti tevékenységek kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Röbo naturlekplats",
+                  "text": "A Röbo naturlekplats egy természetközeli játszótér Uppsalában, amely természetes játékélményt nyújt.",
+                  "category": "family",
+                  "coords": [
+                        17.625123,
+                        59.883467
+                  ]
+            },
+            {
+                  "name": "Lyckans lekplats",
+                  "text": "A Lyckans lekplats egy barátságos játszótér Uppsalában, különféle játékokkal a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        17.666329,
+                        59.859103
+                  ]
+            },
+            {
+                  "name": "Trädgårdslandet",
+                  "text": "A Trädgårdslandet egy játszótér Uppsalában, amely parkos környezetben várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        17.654603,
+                        59.835054
+                  ]
+            },
+            {
+                  "name": "Lyrikparken",
+                  "text": "A Lyrikparken egy tematikus játszótér Uppsalában, amely kreatív szabadtéri játékra ad lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        17.650053,
+                        59.832269
+                  ]
+            },
+            {
+                  "name": "Uppsala BGK",
+                  "text": "Az Uppsala BGK egy minigolfpályát kínál Uppsalában, amely szórakozást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.652036,
+                        59.844177
+                  ]
+            },
+            {
+                  "name": "Norbyvretens lekplats",
+                  "text": "A Norbyvreten játszótér Uppsalában helyi célpont a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.617857,
+                        59.84112
+                  ]
+            },
+            {
+                  "name": "Sankt Göransparken",
+                  "text": "A Sankt Göransparken egy játszótér Uppsalában, amely egy vonzó parkban található.",
+                  "category": "family",
+                  "coords": [
+                        17.651667,
+                        59.861264
+                  ]
+            },
+            {
+                  "name": "Cirkusparken",
+                  "text": "A Cirkusparken egy játszótér Uppsalában, amely különleges kialakításával nyűgözi le a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        17.665609,
+                        59.861189
+                  ]
+            },
+            {
+                  "name": "Giraffparken",
+                  "text": "A Giraffparken népszerű úticél a családok számára Uppsalában, szórakoztató játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.611656,
+                        59.861432
+                  ]
+            },
+            {
+                  "name": "Arosparken",
+                  "text": "Az Arosparken egy jól felszerelt játszótér Uppsalában, amely minden korosztály számára ideális.",
+                  "category": "family",
+                  "coords": [
+                        17.614013,
+                        59.848832
+                  ]
+            },
+            {
+                  "name": "Torkelsplan",
+                  "text": "A Torkelsplan egy városi játszótér Uppsalában, amely szívesen látott kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.656926,
+                        59.861107
+                  ]
+            },
+            {
+                  "name": "Gunsta backar",
+                  "text": "A Gunsta backar egy játszóteret kínál Uppsalában, amely természetes dombos környezetbe illeszkedik.",
+                  "category": "family",
+                  "coords": [
+                        17.67272,
+                        59.860001
+                  ]
+            },
+            {
+                  "name": "Blenda",
+                  "text": "A Blenda egy játszótér Uppsalában, amelyet biztonságosra és vonzóra terveztek a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        17.631437,
+                        59.86628
+                  ]
+            },
+            {
+                  "name": "Lekplats Gränbyparken",
+                  "text": "A Gränbyparken játszótér egy nagy játszótér Uppsalában, sok játéklehetőséggel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.660856,
+                        59.87549
+                  ]
+            },
+            {
+                  "name": "Ynglingaparkens lekplats",
+                  "text": "Az Ynglingaparkens lekplats egy gondozott játszótér Uppsalában a változatos szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        17.6338,
+                        59.877903
+                  ]
+            },
+            {
+                  "name": "Lekpark Lännakatten",
+                  "text": "A Lännakatten játszópark egy játszótér Uppsalában, amely a történelmi vasúthoz kapcsolódik.",
+                  "category": "family",
+                  "coords": [
+                        17.657506,
+                        59.857294
+                  ]
+            },
+            {
+                  "name": "Åkerlyckan",
+                  "text": "Az Åkerlyckan egy modern játszótér Uppsalában, amely sokoldalú tevékenységeket kínál gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.608811,
+                        59.862498
+                  ]
+            },
+            {
+                  "name": "Bondbönsparken",
+                  "text": "A Bondbönsparken egy játszótér Uppsalában, amely közös játékra és felfedezésre invitál.",
+                  "category": "family",
+                  "coords": [
+                        17.685983,
+                        59.864615
                   ]
             }
       ],
@@ -7550,6 +9530,186 @@ export const swedenRegions: POI[] = [
                         17.628568,
                         59.857236
                   ]
+            },
+            {
+                  "name": "Infiltrationsdammar",
+                  "text": "Infiltrationsdammar este un lac în Uppsala, potrivit pentru plimbări într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        17.620313,
+                        59.893687
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren lângă Uppsala este o destinație populară pentru excursii cu barca și activități la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Röbo naturlekplats",
+                  "text": "Röbo naturlekplats este un loc de joacă în natură în Uppsala, oferind copiilor o experiență de joacă autentică.",
+                  "category": "family",
+                  "coords": [
+                        17.625123,
+                        59.883467
+                  ]
+            },
+            {
+                  "name": "Lyckans lekplats",
+                  "text": "Lyckans lekplats este un loc de joacă primitor în Uppsala, cu diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.666329,
+                        59.859103
+                  ]
+            },
+            {
+                  "name": "Trädgårdslandet",
+                  "text": "Trädgårdslandet este un loc de joacă în Uppsala, care invită familiile într-un cadru de tip parc.",
+                  "category": "family",
+                  "coords": [
+                        17.654603,
+                        59.835054
+                  ]
+            },
+            {
+                  "name": "Lyrikparken",
+                  "text": "Lyrikparken este un loc de joacă tematic în Uppsala, pentru ore de joacă creative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.650053,
+                        59.832269
+                  ]
+            },
+            {
+                  "name": "Uppsala BGK",
+                  "text": "Uppsala BGK oferă un teren de minigolf în Uppsala, promițând distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.652036,
+                        59.844177
+                  ]
+            },
+            {
+                  "name": "Norbyvretens lekplats",
+                  "text": "Locul de joacă Norbyvreten din Uppsala este o destinație locală pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        17.617857,
+                        59.84112
+                  ]
+            },
+            {
+                  "name": "Sankt Göransparken",
+                  "text": "Sankt Göransparken este un loc de joacă în Uppsala, situat într-un parc atractiv.",
+                  "category": "family",
+                  "coords": [
+                        17.651667,
+                        59.861264
+                  ]
+            },
+            {
+                  "name": "Cirkusparken",
+                  "text": "Cirkusparken este un loc de joacă în Uppsala, care îi încântă pe copii cu designul său special.",
+                  "category": "family",
+                  "coords": [
+                        17.665609,
+                        59.861189
+                  ]
+            },
+            {
+                  "name": "Giraffparken",
+                  "text": "Giraffparken este o destinație populară pentru familii în Uppsala, cu opțiuni de joacă distractive.",
+                  "category": "family",
+                  "coords": [
+                        17.611656,
+                        59.861432
+                  ]
+            },
+            {
+                  "name": "Arosparken",
+                  "text": "Arosparken este un loc de joacă bine echipat în Uppsala, ideal pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        17.614013,
+                        59.848832
+                  ]
+            },
+            {
+                  "name": "Torkelsplan",
+                  "text": "Torkelsplan este un loc de joacă urban în Uppsala, oferind o recreere binevenită pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.656926,
+                        59.861107
+                  ]
+            },
+            {
+                  "name": "Gunsta backar",
+                  "text": "Gunsta backar oferă un loc de joacă în Uppsala, integrat într-un peisaj natural deluros.",
+                  "category": "family",
+                  "coords": [
+                        17.67272,
+                        59.860001
+                  ]
+            },
+            {
+                  "name": "Blenda",
+                  "text": "Blenda este un loc de joacă în Uppsala, conceput să fie sigur și atractiv pentru tinerii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        17.631437,
+                        59.86628
+                  ]
+            },
+            {
+                  "name": "Lekplats Gränbyparken",
+                  "text": "Locul de joacă Gränbyparken este un spațiu mare în Uppsala, cu multe opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.660856,
+                        59.87549
+                  ]
+            },
+            {
+                  "name": "Ynglingaparkens lekplats",
+                  "text": "Ynglingaparkens lekplats este un loc de joacă bine întreținut în Uppsala pentru timp liber variat.",
+                  "category": "family",
+                  "coords": [
+                        17.6338,
+                        59.877903
+                  ]
+            },
+            {
+                  "name": "Lekpark Lännakatten",
+                  "text": "Parcul de joacă Lännakatten este un loc de joacă în Uppsala legat de calea ferată istorică.",
+                  "category": "family",
+                  "coords": [
+                        17.657506,
+                        59.857294
+                  ]
+            },
+            {
+                  "name": "Åkerlyckan",
+                  "text": "Åkerlyckan este un loc de joacă modern în Uppsala, oferind activități versatile pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.608811,
+                        59.862498
+                  ]
+            },
+            {
+                  "name": "Bondbönsparken",
+                  "text": "Bondbönsparken este un loc de joacă în Uppsala care invită la joacă comună și explorare.",
+                  "category": "family",
+                  "coords": [
+                        17.685983,
+                        59.864615
+                  ]
             }
       ],
       "en": [
@@ -8037,6 +10197,186 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.628568,
                         59.857236
+                  ]
+            },
+            {
+                  "name": "Infiltrationsdammar",
+                  "text": "Infiltrationsdammar is a lake in Uppsala, suitable for walks in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.620313,
+                        59.893687
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren near Uppsala is a popular destination for boat trips and waterfront activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Röbo naturlekplats",
+                  "text": "Röbo naturlekplats is a nature playground in Uppsala, offering children a natural play experience.",
+                  "category": "family",
+                  "coords": [
+                        17.625123,
+                        59.883467
+                  ]
+            },
+            {
+                  "name": "Lyckans lekplats",
+                  "text": "Lyckans lekplats is a friendly playground in Uppsala with various equipment for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        17.666329,
+                        59.859103
+                  ]
+            },
+            {
+                  "name": "Trädgårdslandet",
+                  "text": "Trädgårdslandet is a playground in Uppsala, inviting families to spend time in a park-like setting.",
+                  "category": "family",
+                  "coords": [
+                        17.654603,
+                        59.835054
+                  ]
+            },
+            {
+                  "name": "Lyrikparken",
+                  "text": "Lyrikparken is a themed playground in Uppsala designed for creative outdoor play sessions.",
+                  "category": "family",
+                  "coords": [
+                        17.650053,
+                        59.832269
+                  ]
+            },
+            {
+                  "name": "Uppsala BGK",
+                  "text": "Uppsala BGK features a miniature golf course in Uppsala, promising fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.652036,
+                        59.844177
+                  ]
+            },
+            {
+                  "name": "Norbyvretens lekplats",
+                  "text": "The Norbyvreten playground in Uppsala is a local destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        17.617857,
+                        59.84112
+                  ]
+            },
+            {
+                  "name": "Sankt Göransparken",
+                  "text": "Sankt Göransparken is a playground in Uppsala, located within an attractive park area.",
+                  "category": "family",
+                  "coords": [
+                        17.651667,
+                        59.861264
+                  ]
+            },
+            {
+                  "name": "Cirkusparken",
+                  "text": "Cirkusparken is a playground in Uppsala that delights children with its unique design.",
+                  "category": "family",
+                  "coords": [
+                        17.665609,
+                        59.861189
+                  ]
+            },
+            {
+                  "name": "Giraffparken",
+                  "text": "Giraffparken is a popular destination for families in Uppsala with entertaining play options.",
+                  "category": "family",
+                  "coords": [
+                        17.611656,
+                        59.861432
+                  ]
+            },
+            {
+                  "name": "Arosparken",
+                  "text": "Arosparken is a well-equipped playground in Uppsala, ideal for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        17.614013,
+                        59.848832
+                  ]
+            },
+            {
+                  "name": "Torkelsplan",
+                  "text": "Torkelsplan is an urban playground in Uppsala, providing a welcome break for children.",
+                  "category": "family",
+                  "coords": [
+                        17.656926,
+                        59.861107
+                  ]
+            },
+            {
+                  "name": "Gunsta backar",
+                  "text": "Gunsta backar features a playground in Uppsala set within a natural hilly landscape.",
+                  "category": "family",
+                  "coords": [
+                        17.67272,
+                        59.860001
+                  ]
+            },
+            {
+                  "name": "Blenda",
+                  "text": "Blenda is a playground in Uppsala designed to be safe and engaging for young explorers.",
+                  "category": "family",
+                  "coords": [
+                        17.631437,
+                        59.86628
+                  ]
+            },
+            {
+                  "name": "Lekplats Gränbyparken",
+                  "text": "The Gränbyparken playground is a large area in Uppsala with many options for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        17.660856,
+                        59.87549
+                  ]
+            },
+            {
+                  "name": "Ynglingaparkens lekplats",
+                  "text": "Ynglingaparkens lekplats is a well-maintained playground in Uppsala for diverse leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.6338,
+                        59.877903
+                  ]
+            },
+            {
+                  "name": "Lekpark Lännakatten",
+                  "text": "Lekpark Lännakatten is a playground in Uppsala themed after the historical railway.",
+                  "category": "family",
+                  "coords": [
+                        17.657506,
+                        59.857294
+                  ]
+            },
+            {
+                  "name": "Åkerlyckan",
+                  "text": "Åkerlyckan is a modern playground in Uppsala offering versatile activities for children.",
+                  "category": "family",
+                  "coords": [
+                        17.608811,
+                        59.862498
+                  ]
+            },
+            {
+                  "name": "Bondbönsparken",
+                  "text": "Bondbönsparken is a playground in Uppsala that invites children to play and discover together.",
+                  "category": "family",
+                  "coords": [
+                        17.685983,
+                        59.864615
                   ]
             }
       ]
@@ -8785,6 +11125,222 @@ export const swedenCities: POI[] = [
                         20.254659,
                         63.819567
                   ]
+            },
+            {
+                  "name": "Stöcksjön",
+                  "text": "Stöcksjön ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.194748,
+                        63.764384
+                  ]
+            },
+            {
+                  "name": "Skravelsjötjärnen",
+                  "text": "Skravelsjötjärnen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.121634,
+                        63.789358
+                  ]
+            },
+            {
+                  "name": "Prästsjön",
+                  "text": "Prästsjön ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.143472,
+                        63.842537
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.371387,
+                        63.816483
+                  ]
+            },
+            {
+                  "name": "Hamptjärnen",
+                  "text": "Hamptjärnen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.213896,
+                        63.876376
+                  ]
+            },
+            {
+                  "name": "Långtjärnen",
+                  "text": "Långtjärnen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.227797,
+                        63.879539
+                  ]
+            },
+            {
+                  "name": "Svinviken",
+                  "text": "Svinviken ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.318831,
+                        63.763854
+                  ]
+            },
+            {
+                  "name": "Degersjön",
+                  "text": "Degersjön ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.270194,
+                        63.900194
+                  ]
+            },
+            {
+                  "name": "Universitetsdammen",
+                  "text": "Universitetsdammen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.304265,
+                        63.820942
+                  ]
+            },
+            {
+                  "name": "Sofiehemsdammen",
+                  "text": "Sofiehemsdammen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.30554,
+                        63.800683
+                  ]
+            },
+            {
+                  "name": "Nydalasjön",
+                  "text": "Nydalasjön ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.345423,
+                        63.821598
+                  ]
+            },
+            {
+                  "name": "Sagotjärnen",
+                  "text": "Sagotjärnen ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.376914,
+                        63.803546
+                  ]
+            },
+            {
+                  "name": "Grössjön",
+                  "text": "Grössjön ist ein See in Umea, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.352816,
+                        63.783723
+                  ]
+            },
+            {
+                  "name": "drakparken",
+                  "text": "drakparken ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.302327,
+                        63.82532
+                  ]
+            },
+            {
+                  "name": "Stora Hopp & Skoj",
+                  "text": "Stora Hopp & Skoj ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.234252,
+                        63.843511
+                  ]
+            },
+            {
+                  "name": "Megazone",
+                  "text": "Megazone ist eine Spielhalle in Umea, die Unterhaltung für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.263971,
+                        63.825263
+                  ]
+            },
+            {
+                  "name": "Umeå Pincade",
+                  "text": "Umeå Pincade ist eine Spielhalle in Umea, die Unterhaltung für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.28458,
+                        63.822317
+                  ]
+            },
+            {
+                  "name": "Umepinball",
+                  "text": "Umepinball ist eine Spielhalle in Umea, die Unterhaltung für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.282143,
+                        63.823378
+                  ]
+            },
+            {
+                  "name": "Trastparken",
+                  "text": "Trastparken ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.32135,
+                        63.832988
+                  ]
+            },
+            {
+                  "name": "Skolgård Östermalm",
+                  "text": "Skolgård Östermalm ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.289971,
+                        63.820116
+                  ]
+            },
+            {
+                  "name": "Västra Hagaparken",
+                  "text": "Västra Hagaparken ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.27472,
+                        63.832416
+                  ]
+            },
+            {
+                  "name": "Umeå bangolfklubb",
+                  "text": "Umeå bangolfklubb ist eine Minigolfanlage in Umea, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        20.23968,
+                        63.831342
+                  ]
+            },
+            {
+                  "name": "Brånparken",
+                  "text": "Brånparken ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.280995,
+                        63.842279
+                  ]
+            },
+            {
+                  "name": "Vinterparkens Lekplats",
+                  "text": "Vinterparkens Lekplats ist ein Spielplatz in Umea, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.25494,
+                        63.813864
+                  ]
             }
       ],
       "hu": [
@@ -9101,6 +11657,222 @@ export const swedenCities: POI[] = [
                   "coords": [
                         20.254659,
                         63.819567
+                  ]
+            },
+            {
+                  "name": "Stöcksjön",
+                  "text": "A Stöcksjön egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.194748,
+                        63.764384
+                  ]
+            },
+            {
+                  "name": "Skravelsjötjärnen",
+                  "text": "A Skravelsjötjärnen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.121634,
+                        63.789358
+                  ]
+            },
+            {
+                  "name": "Prästsjön",
+                  "text": "A Prästsjön egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.143472,
+                        63.842537
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "A Lomtjärnen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.371387,
+                        63.816483
+                  ]
+            },
+            {
+                  "name": "Hamptjärnen",
+                  "text": "A Hamptjärnen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.213896,
+                        63.876376
+                  ]
+            },
+            {
+                  "name": "Långtjärnen",
+                  "text": "A Långtjärnen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.227797,
+                        63.879539
+                  ]
+            },
+            {
+                  "name": "Svinviken",
+                  "text": "A Svinviken egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.318831,
+                        63.763854
+                  ]
+            },
+            {
+                  "name": "Degersjön",
+                  "text": "A Degersjön egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.270194,
+                        63.900194
+                  ]
+            },
+            {
+                  "name": "Universitetsdammen",
+                  "text": "A Universitetsdammen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.304265,
+                        63.820942
+                  ]
+            },
+            {
+                  "name": "Sofiehemsdammen",
+                  "text": "A Sofiehemsdammen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.30554,
+                        63.800683
+                  ]
+            },
+            {
+                  "name": "Nydalasjön",
+                  "text": "A Nydalasjön egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.345423,
+                        63.821598
+                  ]
+            },
+            {
+                  "name": "Sagotjärnen",
+                  "text": "A Sagotjärnen egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.376914,
+                        63.803546
+                  ]
+            },
+            {
+                  "name": "Grössjön",
+                  "text": "A Grössjön egy tó Umea városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.352816,
+                        63.783723
+                  ]
+            },
+            {
+                  "name": "drakparken",
+                  "text": "A drakparken egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.302327,
+                        63.82532
+                  ]
+            },
+            {
+                  "name": "Stora Hopp & Skoj",
+                  "text": "A Stora Hopp & Skoj egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.234252,
+                        63.843511
+                  ]
+            },
+            {
+                  "name": "Megazone",
+                  "text": "A Megazone egy szórakoztató központ Umea városában, amely minden korosztály számára kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        20.263971,
+                        63.825263
+                  ]
+            },
+            {
+                  "name": "Umeå Pincade",
+                  "text": "A Umeå Pincade egy szórakoztató központ Umea városában, amely minden korosztály számára kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        20.28458,
+                        63.822317
+                  ]
+            },
+            {
+                  "name": "Umepinball",
+                  "text": "A Umepinball egy szórakoztató központ Umea városában, amely minden korosztály számára kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        20.282143,
+                        63.823378
+                  ]
+            },
+            {
+                  "name": "Trastparken",
+                  "text": "A Trastparken egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.32135,
+                        63.832988
+                  ]
+            },
+            {
+                  "name": "Skolgård Östermalm",
+                  "text": "A Skolgård Östermalm egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.289971,
+                        63.820116
+                  ]
+            },
+            {
+                  "name": "Västra Hagaparken",
+                  "text": "A Västra Hagaparken egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.27472,
+                        63.832416
+                  ]
+            },
+            {
+                  "name": "Umeå bangolfklubb",
+                  "text": "A Umeå bangolfklubb egy minigolfpálya Umea városában, amely tökéletes egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.23968,
+                        63.831342
+                  ]
+            },
+            {
+                  "name": "Brånparken",
+                  "text": "A Brånparken egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.280995,
+                        63.842279
+                  ]
+            },
+            {
+                  "name": "Vinterparkens Lekplats",
+                  "text": "A Vinterparkens Lekplats egy játszótér Umea városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.25494,
+                        63.813864
                   ]
             }
       ],
@@ -9419,6 +12191,222 @@ export const swedenCities: POI[] = [
                         20.254659,
                         63.819567
                   ]
+            },
+            {
+                  "name": "Stöcksjön",
+                  "text": "Stöcksjön este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.194748,
+                        63.764384
+                  ]
+            },
+            {
+                  "name": "Skravelsjötjärnen",
+                  "text": "Skravelsjötjärnen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.121634,
+                        63.789358
+                  ]
+            },
+            {
+                  "name": "Prästsjön",
+                  "text": "Prästsjön este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.143472,
+                        63.842537
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.371387,
+                        63.816483
+                  ]
+            },
+            {
+                  "name": "Hamptjärnen",
+                  "text": "Hamptjärnen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.213896,
+                        63.876376
+                  ]
+            },
+            {
+                  "name": "Långtjärnen",
+                  "text": "Långtjärnen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.227797,
+                        63.879539
+                  ]
+            },
+            {
+                  "name": "Svinviken",
+                  "text": "Svinviken este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.318831,
+                        63.763854
+                  ]
+            },
+            {
+                  "name": "Degersjön",
+                  "text": "Degersjön este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.270194,
+                        63.900194
+                  ]
+            },
+            {
+                  "name": "Universitetsdammen",
+                  "text": "Universitetsdammen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.304265,
+                        63.820942
+                  ]
+            },
+            {
+                  "name": "Sofiehemsdammen",
+                  "text": "Sofiehemsdammen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.30554,
+                        63.800683
+                  ]
+            },
+            {
+                  "name": "Nydalasjön",
+                  "text": "Nydalasjön este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.345423,
+                        63.821598
+                  ]
+            },
+            {
+                  "name": "Sagotjärnen",
+                  "text": "Sagotjärnen este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.376914,
+                        63.803546
+                  ]
+            },
+            {
+                  "name": "Grössjön",
+                  "text": "Grössjön este un lac în Umea, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.352816,
+                        63.783723
+                  ]
+            },
+            {
+                  "name": "drakparken",
+                  "text": "drakparken este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.302327,
+                        63.82532
+                  ]
+            },
+            {
+                  "name": "Stora Hopp & Skoj",
+                  "text": "Stora Hopp & Skoj este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.234252,
+                        63.843511
+                  ]
+            },
+            {
+                  "name": "Megazone",
+                  "text": "Megazone este o sală de jocuri în Umea, oferind divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.263971,
+                        63.825263
+                  ]
+            },
+            {
+                  "name": "Umeå Pincade",
+                  "text": "Umeå Pincade este o sală de jocuri în Umea, oferind divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.28458,
+                        63.822317
+                  ]
+            },
+            {
+                  "name": "Umepinball",
+                  "text": "Umepinball este o sală de jocuri în Umea, oferind divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.282143,
+                        63.823378
+                  ]
+            },
+            {
+                  "name": "Trastparken",
+                  "text": "Trastparken este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.32135,
+                        63.832988
+                  ]
+            },
+            {
+                  "name": "Skolgård Östermalm",
+                  "text": "Skolgård Östermalm este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.289971,
+                        63.820116
+                  ]
+            },
+            {
+                  "name": "Västra Hagaparken",
+                  "text": "Västra Hagaparken este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.27472,
+                        63.832416
+                  ]
+            },
+            {
+                  "name": "Umeå bangolfklubb",
+                  "text": "Umeå bangolfklubb este un teren de minigolf în Umea, perfect pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        20.23968,
+                        63.831342
+                  ]
+            },
+            {
+                  "name": "Brånparken",
+                  "text": "Brånparken este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.280995,
+                        63.842279
+                  ]
+            },
+            {
+                  "name": "Vinterparkens Lekplats",
+                  "text": "Vinterparkens Lekplats este un teren de joacă în Umea, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.25494,
+                        63.813864
+                  ]
             }
       ],
       "en": [
@@ -9735,6 +12723,222 @@ export const swedenCities: POI[] = [
                   "coords": [
                         20.254659,
                         63.819567
+                  ]
+            },
+            {
+                  "name": "Stöcksjön",
+                  "text": "Stöcksjön is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.194748,
+                        63.764384
+                  ]
+            },
+            {
+                  "name": "Skravelsjötjärnen",
+                  "text": "Skravelsjötjärnen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.121634,
+                        63.789358
+                  ]
+            },
+            {
+                  "name": "Prästsjön",
+                  "text": "Prästsjön is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.143472,
+                        63.842537
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.371387,
+                        63.816483
+                  ]
+            },
+            {
+                  "name": "Hamptjärnen",
+                  "text": "Hamptjärnen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.213896,
+                        63.876376
+                  ]
+            },
+            {
+                  "name": "Långtjärnen",
+                  "text": "Långtjärnen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.227797,
+                        63.879539
+                  ]
+            },
+            {
+                  "name": "Svinviken",
+                  "text": "Svinviken is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.318831,
+                        63.763854
+                  ]
+            },
+            {
+                  "name": "Degersjön",
+                  "text": "Degersjön is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.270194,
+                        63.900194
+                  ]
+            },
+            {
+                  "name": "Universitetsdammen",
+                  "text": "Universitetsdammen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.304265,
+                        63.820942
+                  ]
+            },
+            {
+                  "name": "Sofiehemsdammen",
+                  "text": "Sofiehemsdammen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.30554,
+                        63.800683
+                  ]
+            },
+            {
+                  "name": "Nydalasjön",
+                  "text": "Nydalasjön is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.345423,
+                        63.821598
+                  ]
+            },
+            {
+                  "name": "Sagotjärnen",
+                  "text": "Sagotjärnen is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.376914,
+                        63.803546
+                  ]
+            },
+            {
+                  "name": "Grössjön",
+                  "text": "Grössjön is a lake in Umea, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.352816,
+                        63.783723
+                  ]
+            },
+            {
+                  "name": "drakparken",
+                  "text": "drakparken is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.302327,
+                        63.82532
+                  ]
+            },
+            {
+                  "name": "Stora Hopp & Skoj",
+                  "text": "Stora Hopp & Skoj is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.234252,
+                        63.843511
+                  ]
+            },
+            {
+                  "name": "Megazone",
+                  "text": "Megazone is an amusement arcade in Umea, providing entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.263971,
+                        63.825263
+                  ]
+            },
+            {
+                  "name": "Umeå Pincade",
+                  "text": "Umeå Pincade is an amusement arcade in Umea, providing entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.28458,
+                        63.822317
+                  ]
+            },
+            {
+                  "name": "Umepinball",
+                  "text": "Umepinball is an amusement arcade in Umea, providing entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.282143,
+                        63.823378
+                  ]
+            },
+            {
+                  "name": "Trastparken",
+                  "text": "Trastparken is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.32135,
+                        63.832988
+                  ]
+            },
+            {
+                  "name": "Skolgård Östermalm",
+                  "text": "Skolgård Östermalm is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.289971,
+                        63.820116
+                  ]
+            },
+            {
+                  "name": "Västra Hagaparken",
+                  "text": "Västra Hagaparken is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.27472,
+                        63.832416
+                  ]
+            },
+            {
+                  "name": "Umeå bangolfklubb",
+                  "text": "Umeå bangolfklubb is a miniature golf course in Umea, perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        20.23968,
+                        63.831342
+                  ]
+            },
+            {
+                  "name": "Brånparken",
+                  "text": "Brånparken is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.280995,
+                        63.842279
+                  ]
+            },
+            {
+                  "name": "Vinterparkens Lekplats",
+                  "text": "Vinterparkens Lekplats is a playground in Umea, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.25494,
+                        63.813864
                   ]
             }
       ]
@@ -11977,6 +15181,195 @@ export const swedenCities: POI[] = [
                         15.587322,
                         58.391318
                   ]
+            },
+            {
+                  "name": "Blå lagunen",
+                  "text": "Blå lagunen ist ein klarer See in Linköping, ideal für einen erfrischenden Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        15.582277,
+                        58.355276
+                  ]
+            },
+            {
+                  "name": "Ekängsdalens våtmark",
+                  "text": "Ekängsdalens våtmark ist ein naturnaher See in Linköping, perfekt für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        15.655342,
+                        58.361305
+                  ]
+            },
+            {
+                  "name": "Ullstämmasjön",
+                  "text": "Ullstämmasjön ist ein ruhiger See in Linköping, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.667116,
+                        58.360679
+                  ]
+            },
+            {
+                  "name": "Ängelska kanalen",
+                  "text": "Ängelska kanalen ist ein malerischer See in Linköping, ideal für ruhige Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.66968,
+                        58.356643
+                  ]
+            },
+            {
+                  "name": "Ullabergs våtmark",
+                  "text": "Ullabergs våtmark ist ein ruhiges Feuchtgebiet in Linköping, das sich ideal für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.677113,
+                        58.349329
+                  ]
+            },
+            {
+                  "name": "Mossens våtmark",
+                  "text": "Mossens våtmark in Linköping bietet eine friedliche Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.667883,
+                        58.348208
+                  ]
+            },
+            {
+                  "name": "Rödbergsmossen",
+                  "text": "Rödbergsmossen ist ein naturbelassenes Feuchtgebiet in Linköping.",
+                  "category": "natural",
+                  "coords": [
+                        15.606044,
+                        58.356986
+                  ]
+            },
+            {
+                  "name": "Roxen",
+                  "text": "Der Roxen bei Linköping ist ein großer See, der für seine weite Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.752201,
+                        58.492094
+                  ]
+            },
+            {
+                  "name": "Frökärret",
+                  "text": "Frökärret ist ein kleines Feuchtgebiet in Linköping mit einer ruhigen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        15.622549,
+                        58.370311
+                  ]
+            },
+            {
+                  "name": "Rosenkällasjön",
+                  "text": "Der Rosenkällasjön in Linköping ist ein schöner See, der zum Wandern und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.612605,
+                        58.358644
+                  ]
+            },
+            {
+                  "name": "Smedstad dammar",
+                  "text": "Smedstad dammar ist ein Gebiet mit Teichen in Linköping, das eine schöne Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.626143,
+                        58.38568
+                  ]
+            },
+            {
+                  "name": "Prinsessan Estelles park",
+                  "text": "Prinsessan Estelles park in Linköping bietet einen modernen Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.635871,
+                        58.40851
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard in Linköping ist ein Trampolinpark, der aktiven Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.597674,
+                        58.434526
+                  ]
+            },
+            {
+                  "name": "Lill-Valla",
+                  "text": "Lill-Valla ist ein beliebter Spielplatz in Linköping mit vielfältigen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        15.584815,
+                        58.39879
+                  ]
+            },
+            {
+                  "name": "Valla minigolf",
+                  "text": "Valla Minigolf in Linköping bietet eine unterhaltsame Anlage für Familienspiele.",
+                  "category": "family",
+                  "coords": [
+                        15.583632,
+                        58.400897
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf City",
+                  "text": "Äventyrsgolf City ist ein Minigolfplatz im Zentrum von Linköping für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.631017,
+                        58.406696
+                  ]
+            },
+            {
+                  "name": "Ryttargårdskyrkans minigolf",
+                  "text": "Ryttargårdskyrkans Minigolf in Linköping ist ein familienfreundlicher Platz für eine Runde Golf.",
+                  "category": "family",
+                  "coords": [
+                        15.608959,
+                        58.39959
+                  ]
+            },
+            {
+                  "name": "Silverleken",
+                  "text": "Silverleken ist ein charmanter Spielplatz in Linköping für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.595483,
+                        58.413867
+                  ]
+            },
+            {
+                  "name": "Lekplats Lektorshagen Västanågatan",
+                  "text": "Der Spielplatz Lektorshagen Västanågatan bietet Kindern in Linköping viel Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        15.60016,
+                        58.411292
+                  ]
+            },
+            {
+                  "name": "Lekplats Sankt Larsparken",
+                  "text": "Der Spielplatz Sankt Larsparken ist ein zentraler Treffpunkt für Familien in Linköping.",
+                  "category": "family",
+                  "coords": [
+                        15.626266,
+                        58.411799
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf",
+                  "text": "Äventyrsgolf in Linköping bietet eine herausfordernde Minigolfanlage für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.632774,
+                        58.412889
+                  ]
             }
       ],
       "hu": [
@@ -12329,6 +15722,195 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.587322,
                         58.391318
+                  ]
+            },
+            {
+                  "name": "Blå lagunen",
+                  "text": "A Blå lagunen egy tiszta tó Linköping területén, amely ideális egy frissítő kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.582277,
+                        58.355276
+                  ]
+            },
+            {
+                  "name": "Ekängsdalens våtmark",
+                  "text": "Az Ekängsdalens våtmark egy természetközeli tó Linköping területén, amely tökéletes a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        15.655342,
+                        58.361305
+                  ]
+            },
+            {
+                  "name": "Ullstämmasjön",
+                  "text": "Az Ullstämmasjön egy csendes tó Linköping területén, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        15.667116,
+                        58.360679
+                  ]
+            },
+            {
+                  "name": "Ängelska kanalen",
+                  "text": "Az Ängelska kanalen egy festői tó Linköping területén, amely ideális a csendes vízparti pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.66968,
+                        58.356643
+                  ]
+            },
+            {
+                  "name": "Ullabergs våtmark",
+                  "text": "Az Ullabergs våtmark egy csendes vizes élőhely Linköpingben, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        15.677113,
+                        58.349329
+                  ]
+            },
+            {
+                  "name": "Mossens våtmark",
+                  "text": "A linköpingi Mossens våtmark békés környezetet kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.667883,
+                        58.348208
+                  ]
+            },
+            {
+                  "name": "Rödbergsmossen",
+                  "text": "A Rödbergsmossen egy természetes vizes élőhely Linköpingben.",
+                  "category": "natural",
+                  "coords": [
+                        15.606044,
+                        58.356986
+                  ]
+            },
+            {
+                  "name": "Roxen",
+                  "text": "A Linköping melletti Roxen egy nagy tó, amely tágas tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.752201,
+                        58.492094
+                  ]
+            },
+            {
+                  "name": "Frökärret",
+                  "text": "A Frökärret egy kis vizes élőhely Linköpingben, nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        15.622549,
+                        58.370311
+                  ]
+            },
+            {
+                  "name": "Rosenkällasjön",
+                  "text": "A linköpingi Rosenkällasjön egy szép tó, amely kirándulásra és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.612605,
+                        58.358644
+                  ]
+            },
+            {
+                  "name": "Smedstad dammar",
+                  "text": "A Smedstad dammar tavakkal teli terület Linköpingben, amely szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        15.626143,
+                        58.38568
+                  ]
+            },
+            {
+                  "name": "Prinsessan Estelles park",
+                  "text": "A linköpingi Prinsessan Estelles park modern játszóteret kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.635871,
+                        58.40851
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "A linköpingi JumpYard egy trambulinpark, amely aktív szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.597674,
+                        58.434526
+                  ]
+            },
+            {
+                  "name": "Lill-Valla",
+                  "text": "A Lill-Valla egy népszerű játszótér Linköpingben, változatos játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.584815,
+                        58.39879
+                  ]
+            },
+            {
+                  "name": "Valla minigolf",
+                  "text": "A linköpingi Valla minigolf szórakoztató pályát kínál a családi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.583632,
+                        58.400897
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf City",
+                  "text": "Az Äventyrsgolf City egy minigolfpálya Linköping központjában minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.631017,
+                        58.406696
+                  ]
+            },
+            {
+                  "name": "Ryttargårdskyrkans minigolf",
+                  "text": "A linköpingi Ryttargårdskyrkans minigolf családbarát hely egy kör játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.608959,
+                        58.39959
+                  ]
+            },
+            {
+                  "name": "Silverleken",
+                  "text": "A Silverleken egy bájos játszótér Linköpingben kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.595483,
+                        58.413867
+                  ]
+            },
+            {
+                  "name": "Lekplats Lektorshagen Västanågatan",
+                  "text": "A Lektorshagen Västanågatan játszótér Linköpingben tágas helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.60016,
+                        58.411292
+                  ]
+            },
+            {
+                  "name": "Lekplats Sankt Larsparken",
+                  "text": "A Sankt Larsparken játszótér központi találkozóhely a családok számára Linköpingben.",
+                  "category": "family",
+                  "coords": [
+                        15.626266,
+                        58.411799
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf",
+                  "text": "A linköpingi Äventyrsgolf kihívást jelentő minigolfpályát kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.632774,
+                        58.412889
                   ]
             }
       ],
@@ -12683,6 +16265,195 @@ export const swedenCities: POI[] = [
                         15.587322,
                         58.391318
                   ]
+            },
+            {
+                  "name": "Blå lagunen",
+                  "text": "Blå lagunen este un lac limpede din Linköping, ideal pentru o excursie revigorantă.",
+                  "category": "natural",
+                  "coords": [
+                        15.582277,
+                        58.355276
+                  ]
+            },
+            {
+                  "name": "Ekängsdalens våtmark",
+                  "text": "Ekängsdalens våtmark este un lac natural din Linköping, perfect pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.655342,
+                        58.361305
+                  ]
+            },
+            {
+                  "name": "Ullstämmasjön",
+                  "text": "Ullstämmasjön este un lac liniștit din Linköping, oferind o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        15.667116,
+                        58.360679
+                  ]
+            },
+            {
+                  "name": "Ängelska kanalen",
+                  "text": "Ängelska kanalen este un lac pitoresc din Linköping, ideal pentru momente liniștite lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        15.66968,
+                        58.356643
+                  ]
+            },
+            {
+                  "name": "Ullabergs våtmark",
+                  "text": "Ullabergs våtmark este o zonă umedă liniștită din Linköping, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.677113,
+                        58.349329
+                  ]
+            },
+            {
+                  "name": "Mossens våtmark",
+                  "text": "Mossens våtmark din Linköping oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.667883,
+                        58.348208
+                  ]
+            },
+            {
+                  "name": "Rödbergsmossen",
+                  "text": "Rödbergsmossen este o zonă umedă naturală situată în Linköping.",
+                  "category": "natural",
+                  "coords": [
+                        15.606044,
+                        58.356986
+                  ]
+            },
+            {
+                  "name": "Roxen",
+                  "text": "Roxen de lângă Linköping este un lac mare, cunoscut pentru peisajul său vast.",
+                  "category": "natural",
+                  "coords": [
+                        15.752201,
+                        58.492094
+                  ]
+            },
+            {
+                  "name": "Frökärret",
+                  "text": "Frökärret este o zonă umedă mică din Linköping, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        15.622549,
+                        58.370311
+                  ]
+            },
+            {
+                  "name": "Rosenkällasjön",
+                  "text": "Rosenkällasjön din Linköping este un lac frumos, ideal pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.612605,
+                        58.358644
+                  ]
+            },
+            {
+                  "name": "Smedstad dammar",
+                  "text": "Smedstad dammar este o zonă cu iazuri din Linköping, oferind o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        15.626143,
+                        58.38568
+                  ]
+            },
+            {
+                  "name": "Prinsessan Estelles park",
+                  "text": "Parcul Prinsessan Estelles din Linköping oferă un loc de joacă modern pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.635871,
+                        58.40851
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard din Linköping este un parc de trambuline care oferă distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.597674,
+                        58.434526
+                  ]
+            },
+            {
+                  "name": "Lill-Valla",
+                  "text": "Lill-Valla este un loc de joacă popular din Linköping, cu diverse facilități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        15.584815,
+                        58.39879
+                  ]
+            },
+            {
+                  "name": "Valla minigolf",
+                  "text": "Valla minigolf din Linköping oferă un teren distractiv pentru jocuri în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.583632,
+                        58.400897
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf City",
+                  "text": "Äventyrsgolf City este un teren de minigolf în centrul orașului Linköping pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.631017,
+                        58.406696
+                  ]
+            },
+            {
+                  "name": "Ryttargårdskyrkans minigolf",
+                  "text": "Minigolful Ryttargårdskyrkans din Linköping este un loc prietenos pentru familii pentru o partidă de golf.",
+                  "category": "family",
+                  "coords": [
+                        15.608959,
+                        58.39959
+                  ]
+            },
+            {
+                  "name": "Silverleken",
+                  "text": "Silverleken este un loc de joacă fermecător în Linköping pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        15.595483,
+                        58.413867
+                  ]
+            },
+            {
+                  "name": "Lekplats Lektorshagen Västanågatan",
+                  "text": "Locul de joacă Lektorshagen Västanågatan oferă copiilor din Linköping spațiu generos pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.60016,
+                        58.411292
+                  ]
+            },
+            {
+                  "name": "Lekplats Sankt Larsparken",
+                  "text": "Locul de joacă Sankt Larsparken este un punct de întâlnire central pentru familiile din Linköping.",
+                  "category": "family",
+                  "coords": [
+                        15.626266,
+                        58.411799
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf",
+                  "text": "Äventyrsgolf din Linköping oferă un teren de minigolf provocator pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.632774,
+                        58.412889
+                  ]
             }
       ],
       "en": [
@@ -13035,6 +16806,195 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.587322,
                         58.391318
+                  ]
+            },
+            {
+                  "name": "Blå lagunen",
+                  "text": "Blå lagunen is a clear lake in Linkoeping, ideal for a refreshing trip.",
+                  "category": "natural",
+                  "coords": [
+                        15.582277,
+                        58.355276
+                  ]
+            },
+            {
+                  "name": "Ekängsdalens våtmark",
+                  "text": "Ekängsdalens våtmark is a natural lake in Linkoeping, perfect for nature watching.",
+                  "category": "natural",
+                  "coords": [
+                        15.655342,
+                        58.361305
+                  ]
+            },
+            {
+                  "name": "Ullstämmasjön",
+                  "text": "Ullstämmasjön is a quiet lake in Linkoeping, providing a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        15.667116,
+                        58.360679
+                  ]
+            },
+            {
+                  "name": "Ängelska kanalen",
+                  "text": "Ängelska kanalen is a scenic lake in Linkoeping, ideal for quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.66968,
+                        58.356643
+                  ]
+            },
+            {
+                  "name": "Ullabergs våtmark",
+                  "text": "Ullabergs våtmark is a quiet wetland area in Linkoeping, ideal for nature walks and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.677113,
+                        58.349329
+                  ]
+            },
+            {
+                  "name": "Mossens våtmark",
+                  "text": "Mossens våtmark in Linkoeping offers a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.667883,
+                        58.348208
+                  ]
+            },
+            {
+                  "name": "Rödbergsmossen",
+                  "text": "Rödbergsmossen is a natural wetland area located in Linkoeping.",
+                  "category": "natural",
+                  "coords": [
+                        15.606044,
+                        58.356986
+                  ]
+            },
+            {
+                  "name": "Roxen",
+                  "text": "Roxen near Linkoeping is a large lake known for its expansive scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.752201,
+                        58.492094
+                  ]
+            },
+            {
+                  "name": "Frökärret",
+                  "text": "Frökärret is a small wetland in Linkoeping with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        15.622549,
+                        58.370311
+                  ]
+            },
+            {
+                  "name": "Rosenkällasjön",
+                  "text": "Rosenkällasjön in Linkoeping is a beautiful lake perfect for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.612605,
+                        58.358644
+                  ]
+            },
+            {
+                  "name": "Smedstad dammar",
+                  "text": "Smedstad dammar is an area of ponds in Linkoeping offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        15.626143,
+                        58.38568
+                  ]
+            },
+            {
+                  "name": "Prinsessan Estelles park",
+                  "text": "Prinsessan Estelles park in Linkoeping features a modern playground for children.",
+                  "category": "family",
+                  "coords": [
+                        15.635871,
+                        58.40851
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard in Linkoeping is a trampoline park offering active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.597674,
+                        58.434526
+                  ]
+            },
+            {
+                  "name": "Lill-Valla",
+                  "text": "Lill-Valla is a popular playground in Linkoeping with a variety of play structures.",
+                  "category": "family",
+                  "coords": [
+                        15.584815,
+                        58.39879
+                  ]
+            },
+            {
+                  "name": "Valla minigolf",
+                  "text": "Valla minigolf in Linkoeping provides an entertaining course for family games.",
+                  "category": "family",
+                  "coords": [
+                        15.583632,
+                        58.400897
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf City",
+                  "text": "Äventyrsgolf City is a miniature golf course in central Linkoeping for all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.631017,
+                        58.406696
+                  ]
+            },
+            {
+                  "name": "Ryttargårdskyrkans minigolf",
+                  "text": "Ryttargårdskyrkans minigolf in Linkoeping is a family-friendly spot for a round of golf.",
+                  "category": "family",
+                  "coords": [
+                        15.608959,
+                        58.39959
+                  ]
+            },
+            {
+                  "name": "Silverleken",
+                  "text": "Silverleken is a charming playground in Linkoeping for young children.",
+                  "category": "family",
+                  "coords": [
+                        15.595483,
+                        58.413867
+                  ]
+            },
+            {
+                  "name": "Lekplats Lektorshagen Västanågatan",
+                  "text": "Lekplats Lektorshagen Västanågatan offers children in Linkoeping plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        15.60016,
+                        58.411292
+                  ]
+            },
+            {
+                  "name": "Lekplats Sankt Larsparken",
+                  "text": "Lekplats Sankt Larsparken is a central spot for families to enjoy outdoors in Linkoeping.",
+                  "category": "family",
+                  "coords": [
+                        15.626266,
+                        58.411799
+                  ]
+            },
+            {
+                  "name": "Äventyrsgolf",
+                  "text": "Äventyrsgolf in Linkoeping offers a challenging miniature golf experience for families.",
+                  "category": "family",
+                  "coords": [
+                        15.632774,
+                        58.412889
                   ]
             }
       ]
@@ -16144,6 +20104,213 @@ export const swedenCities: POI[] = [
                         17.343189,
                         62.389068
                   ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard ist ein Trampolinpark in Sundsvall, der aktiven Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
             }
       ],
       "hu": [
@@ -16442,6 +20609,213 @@ export const swedenCities: POI[] = [
                   "coords": [
                         17.343189,
                         62.389068
+                  ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "A Östtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "A Vintertjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "A Sticksjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "A Gärdetjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "A Bünsowska tjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "A Bergsåkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "A Norrfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "A Prästtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "A Sidsjödammen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "A Hulitjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "A Ottsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "A Mårtenstjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "A Sidsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "A Svarttjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "A Öråkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "A Sommartjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "A S:t Olovs hamn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "A Selångersfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "A Sundsvallsfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "A Draget egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "A Sundsvallsbukten egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "A Prästviken egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "A JumpYard egy trambulinpark Sundsvall városában, amely aktív szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
                   ]
             }
       ],
@@ -16742,6 +21116,213 @@ export const swedenCities: POI[] = [
                         17.343189,
                         62.389068
                   ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen este un lac în Sundsvall, ideal für plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard este un parc de trambuline în Sundsvall, oferind distracție activă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
             }
       ],
       "en": [
@@ -17041,6 +21622,213 @@ export const swedenCities: POI[] = [
                         17.343189,
                         62.389068
                   ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard is a trampoline park in Sundsvall, offering active fun for families.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
             }
       ]
 },
@@ -17227,6 +22015,231 @@ export const swedenCities: POI[] = [
                         22.105127,
                         65.570866
                   ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Der Höträsket ist ein See in Luleå, der eine ruhige Umgebung für Naturspaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.099319,
+                        65.566464
+                  ]
+            },
+            {
+                  "name": "Inre Skurholmsfjärden",
+                  "text": "Inre Skurholmsfjärden ist ein See in Luleå, der für seine malerische Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.184138,
+                        65.580435
+                  ]
+            },
+            {
+                  "name": "Arontorpsviken",
+                  "text": "Arontorpsviken ist ein See in Luleå, ideal zum Entspannen und Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        22.20874,
+                        65.570924
+                  ]
+            },
+            {
+                  "name": "Kvarnträsket",
+                  "text": "Der Kvarnträsket in Luleå bietet eine natürliche Kulisse für Aktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        22.030925,
+                        65.563223
+                  ]
+            },
+            {
+                  "name": "Trolltjärn",
+                  "text": "Trolltjärn ist ein See in Lulea, der eine ruhige Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.120414,
+                        65.566264
+                  ]
+            },
+            {
+                  "name": "Rundtjärnen",
+                  "text": "Rundtjärnen ist ein malerischer See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.102256,
+                        65.577935
+                  ]
+            },
+            {
+                  "name": "Pussen",
+                  "text": "Pussen ist ein See in Lulea, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.141432,
+                        65.616392
+                  ]
+            },
+            {
+                  "name": "Mjölkuddtjärnen",
+                  "text": "Mjölkuddtjärnen ist ein See in Lulea, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.128529,
+                        65.60609
+                  ]
+            },
+            {
+                  "name": "Sellingssundet",
+                  "text": "Sellingssundet ist ein See in Lulea, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.106394,
+                        65.637054
+                  ]
+            },
+            {
+                  "name": "Hertsöträsket",
+                  "text": "Hertsöträsket ist ein See in Lulea, ideal um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.295441,
+                        65.587946
+                  ]
+            },
+            {
+                  "name": "Skurholmsfjärden",
+                  "text": "Skurholmsfjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.174842,
+                        65.587344
+                  ]
+            },
+            {
+                  "name": "Björkskatafjärden",
+                  "text": "Björkskatafjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.15965,
+                        65.605582
+                  ]
+            },
+            {
+                  "name": "Lillträsket",
+                  "text": "Lillträsket ist ein kleiner See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.318622,
+                        65.5833
+                  ]
+            },
+            {
+                  "name": "KV-utlopp",
+                  "text": "KV-utlopp ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.268685,
+                        65.560566
+                  ]
+            },
+            {
+                  "name": "Gammelstadsfjärden",
+                  "text": "Gammelstadsfjärden ist ein See in Lulea mit einer natürlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.084024,
+                        65.628935
+                  ]
+            },
+            {
+                  "name": "Porsöfjärden",
+                  "text": "Porsöfjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.160988,
+                        65.619758
+                  ]
+            },
+            {
+                  "name": "Björsbyfjärden",
+                  "text": "Björsbyfjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.203686,
+                        65.622124
+                  ]
+            },
+            {
+                  "name": "Inre Hertsöfjärden",
+                  "text": "Inre Hertsöfjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.247492,
+                        65.571455
+                  ]
+            },
+            {
+                  "name": "Sörfjärden",
+                  "text": "Sörfjärden ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.252099,
+                        65.621453
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen ist ein See in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.020717,
+                        65.542706
+                  ]
+            },
+            {
+                  "name": "Stora berget",
+                  "text": "Stora berget ist ein Spielplatz in Lulea, der Familien tolle Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.192849,
+                        65.599356
+                  ]
+            },
+            {
+                  "name": "Golfängen",
+                  "text": "Golfängen ist ein Minigolfplatz in Lulea, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        22.168951,
+                        65.594253
+                  ]
+            },
+            {
+                  "name": "Fridhemsgatans lekplats",
+                  "text": "Fridhemsgatans lekplats ist ein Spielplatz in Lulea, der Kindern einen sicheren Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.205586,
+                        65.590997
+                  ]
+            },
+            {
+                  "name": "Jägarstigens lekplats",
+                  "text": "Jägarstigens lekplats ist ein familienfreundlicher Spielplatz in Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.215672,
+                        65.583498
+                  ]
+            },
+            {
+                  "name": "Kantgatans lekplats",
+                  "text": "Kantgatans lekplats ist ein Spielplatz in Lulea, auf dem Kinder Aktivitäten im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        22.197803,
+                        65.576089
+                  ]
             }
       ],
       "hu": [
@@ -17354,6 +22367,231 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.105127,
                         65.570866
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "A Höträsket egy tó Luleå területén, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.099319,
+                        65.566464
+                  ]
+            },
+            {
+                  "name": "Inre Skurholmsfjärden",
+                  "text": "Az Inre Skurholmsfjärden egy tó Luleå területén, amely festői fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.184138,
+                        65.580435
+                  ]
+            },
+            {
+                  "name": "Arontorpsviken",
+                  "text": "Az Arontorpsviken egy tó Luleå területén, amely ideális a pihenésre és a kilátás élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        22.20874,
+                        65.570924
+                  ]
+            },
+            {
+                  "name": "Kvarnträsket",
+                  "text": "A Kvarnträsket Luleåban természetes környezetet kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.030925,
+                        65.563223
+                  ]
+            },
+            {
+                  "name": "Trolltjärn",
+                  "text": "A Trolltjärn egy tó Lulea városában, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        22.120414,
+                        65.566264
+                  ]
+            },
+            {
+                  "name": "Rundtjärnen",
+                  "text": "A Rundtjärnen egy festői tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.102256,
+                        65.577935
+                  ]
+            },
+            {
+                  "name": "Pussen",
+                  "text": "A Pussen egy tó Lulea városában, amely ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        22.141432,
+                        65.616392
+                  ]
+            },
+            {
+                  "name": "Mjölkuddtjärnen",
+                  "text": "A Mjölkuddtjärnen egy tó Lulea területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.128529,
+                        65.60609
+                  ]
+            },
+            {
+                  "name": "Sellingssundet",
+                  "text": "A Sellingssundet egy tó Lulea városában, amely csendes hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        22.106394,
+                        65.637054
+                  ]
+            },
+            {
+                  "name": "Hertsöträsket",
+                  "text": "A Hertsöträsket egy tó Lulea területén, amely tökéletes a helyi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.295441,
+                        65.587946
+                  ]
+            },
+            {
+                  "name": "Skurholmsfjärden",
+                  "text": "A Skurholmsfjärden egy tó Lulea városában.",
+                  "category": "natural",
+                  "coords": [
+                        22.174842,
+                        65.587344
+                  ]
+            },
+            {
+                  "name": "Björkskatafjärden",
+                  "text": "A Björkskatafjärden egy tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.15965,
+                        65.605582
+                  ]
+            },
+            {
+                  "name": "Lillträsket",
+                  "text": "A Lillträsket egy kis tó Lulea városában.",
+                  "category": "natural",
+                  "coords": [
+                        22.318622,
+                        65.5833
+                  ]
+            },
+            {
+                  "name": "KV-utlopp",
+                  "text": "A KV-utlopp egy tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.268685,
+                        65.560566
+                  ]
+            },
+            {
+                  "name": "Gammelstadsfjärden",
+                  "text": "A Gammelstadsfjärden egy tó Lulea városában, természetes tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        22.084024,
+                        65.628935
+                  ]
+            },
+            {
+                  "name": "Porsöfjärden",
+                  "text": "A Porsöfjärden egy tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.160988,
+                        65.619758
+                  ]
+            },
+            {
+                  "name": "Björsbyfjärden",
+                  "text": "A Björsbyfjärden egy tó Lulea városában.",
+                  "category": "natural",
+                  "coords": [
+                        22.203686,
+                        65.622124
+                  ]
+            },
+            {
+                  "name": "Inre Hertsöfjärden",
+                  "text": "Az Inre Hertsöfjärden egy tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.247492,
+                        65.571455
+                  ]
+            },
+            {
+                  "name": "Sörfjärden",
+                  "text": "A Sörfjärden egy tó Lulea városában.",
+                  "category": "natural",
+                  "coords": [
+                        22.252099,
+                        65.621453
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "A Lomtjärnen egy tó Lulea területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.020717,
+                        65.542706
+                  ]
+            },
+            {
+                  "name": "Stora berget",
+                  "text": "A Stora berget egy játszótér Lulea városában, amely szórakoztató kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.192849,
+                        65.599356
+                  ]
+            },
+            {
+                  "name": "Golfängen",
+                  "text": "A Golfängen egy minigolfpálya Lulea területén, amely ideális családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.168951,
+                        65.594253
+                  ]
+            },
+            {
+                  "name": "Fridhemsgatans lekplats",
+                  "text": "A Fridhemsgatans lekplats egy játszótér Lulea városában, amely biztonságos helyet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.205586,
+                        65.590997
+                  ]
+            },
+            {
+                  "name": "Jägarstigens lekplats",
+                  "text": "A Jägarstigens lekplats egy családbarát játszótér Lulea területén.",
+                  "category": "family",
+                  "coords": [
+                        22.215672,
+                        65.583498
+                  ]
+            },
+            {
+                  "name": "Kantgatans lekplats",
+                  "text": "A Kantgatans lekplats egy játszótér Lulea városában, ahol a gyerekek szabadtéri játékokat élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        22.197803,
+                        65.576089
                   ]
             }
       ],
@@ -17483,6 +22721,231 @@ export const swedenCities: POI[] = [
                         22.105127,
                         65.570866
                   ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Höträsket este un lac în Luleå, oferind un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.099319,
+                        65.566464
+                  ]
+            },
+            {
+                  "name": "Inre Skurholmsfjärden",
+                  "text": "Inre Skurholmsfjärden este un lac în Luleå, cunoscut pentru locația sa pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        22.184138,
+                        65.580435
+                  ]
+            },
+            {
+                  "name": "Arontorpsviken",
+                  "text": "Arontorpsviken este un lac în Luleå, ideal pentru relaxare și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        22.20874,
+                        65.570924
+                  ]
+            },
+            {
+                  "name": "Kvarnträsket",
+                  "text": "Kvarnträsket din Luleå oferă un cadru natural pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.030925,
+                        65.563223
+                  ]
+            },
+            {
+                  "name": "Trolltjärn",
+                  "text": "Trolltjärn este un lac situat în Lulea, oferind un peisaj natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        22.120414,
+                        65.566264
+                  ]
+            },
+            {
+                  "name": "Rundtjärnen",
+                  "text": "Rundtjärnen este un lac pitoresc situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.102256,
+                        65.577935
+                  ]
+            },
+            {
+                  "name": "Pussen",
+                  "text": "Pussen este un lac din Lulea, ideal pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.141432,
+                        65.616392
+                  ]
+            },
+            {
+                  "name": "Mjölkuddtjärnen",
+                  "text": "Mjölkuddtjärnen este un lac situat în Lulea, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.128529,
+                        65.60609
+                  ]
+            },
+            {
+                  "name": "Sellingssundet",
+                  "text": "Sellingssundet este un lac din Lulea, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        22.106394,
+                        65.637054
+                  ]
+            },
+            {
+                  "name": "Hertsöträsket",
+                  "text": "Hertsöträsket este un lac din Lulea, perfect pentru a te bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        22.295441,
+                        65.587946
+                  ]
+            },
+            {
+                  "name": "Skurholmsfjärden",
+                  "text": "Skurholmsfjärden este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.174842,
+                        65.587344
+                  ]
+            },
+            {
+                  "name": "Björkskatafjärden",
+                  "text": "Björkskatafjärden este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.15965,
+                        65.605582
+                  ]
+            },
+            {
+                  "name": "Lillträsket",
+                  "text": "Lillträsket este un lac mic din Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.318622,
+                        65.5833
+                  ]
+            },
+            {
+                  "name": "KV-utlopp",
+                  "text": "KV-utlopp este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.268685,
+                        65.560566
+                  ]
+            },
+            {
+                  "name": "Gammelstadsfjärden",
+                  "text": "Gammelstadsfjärden este un lac din Lulea, cu un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        22.084024,
+                        65.628935
+                  ]
+            },
+            {
+                  "name": "Porsöfjärden",
+                  "text": "Porsöfjärden este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.160988,
+                        65.619758
+                  ]
+            },
+            {
+                  "name": "Björsbyfjärden",
+                  "text": "Björsbyfjärden este un lac din Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.203686,
+                        65.622124
+                  ]
+            },
+            {
+                  "name": "Inre Hertsöfjärden",
+                  "text": "Inre Hertsöfjärden este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.247492,
+                        65.571455
+                  ]
+            },
+            {
+                  "name": "Sörfjärden",
+                  "text": "Sörfjärden este un lac din Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.252099,
+                        65.621453
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen este un lac situat în Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.020717,
+                        65.542706
+                  ]
+            },
+            {
+                  "name": "Stora berget",
+                  "text": "Stora berget este un teren de joacă din Lulea, oferind activități distractive pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.192849,
+                        65.599356
+                  ]
+            },
+            {
+                  "name": "Golfängen",
+                  "text": "Golfängen este un teren de minigolf din Lulea, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        22.168951,
+                        65.594253
+                  ]
+            },
+            {
+                  "name": "Fridhemsgatans lekplats",
+                  "text": "Fridhemsgatans lekplats este un teren de joacă din Lulea, oferind un spațiu sigur de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.205586,
+                        65.590997
+                  ]
+            },
+            {
+                  "name": "Jägarstigens lekplats",
+                  "text": "Jägarstigens lekplats este un teren de joacă pentru familii situat în Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.215672,
+                        65.583498
+                  ]
+            },
+            {
+                  "name": "Kantgatans lekplats",
+                  "text": "Kantgatans lekplats este un teren de joacă din Lulea, unde copiii se pot bucura de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.197803,
+                        65.576089
+                  ]
             }
       ],
       "en": [
@@ -17610,6 +23073,231 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.105127,
                         65.570866
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Höträsket is a lake in Luleå, providing a quiet environment for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        22.099319,
+                        65.566464
+                  ]
+            },
+            {
+                  "name": "Inre Skurholmsfjärden",
+                  "text": "Inre Skurholmsfjärden is a lake in Luleå, known for its scenic location and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        22.184138,
+                        65.580435
+                  ]
+            },
+            {
+                  "name": "Arontorpsviken",
+                  "text": "Arontorpsviken is a lake in Luleå, ideal for relaxing and enjoying the waterfront views.",
+                  "category": "natural",
+                  "coords": [
+                        22.20874,
+                        65.570924
+                  ]
+            },
+            {
+                  "name": "Kvarnträsket",
+                  "text": "Kvarnträsket in Luleå offers a natural setting for outdoor activities and nature appreciation.",
+                  "category": "natural",
+                  "coords": [
+                        22.030925,
+                        65.563223
+                  ]
+            },
+            {
+                  "name": "Trolltjärn",
+                  "text": "Trolltjärn is a lake located in Lulea, offering a peaceful natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.120414,
+                        65.566264
+                  ]
+            },
+            {
+                  "name": "Rundtjärnen",
+                  "text": "Rundtjärnen is a scenic lake situated in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.102256,
+                        65.577935
+                  ]
+            },
+            {
+                  "name": "Pussen",
+                  "text": "Pussen is a lake in Lulea, ideal for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        22.141432,
+                        65.616392
+                  ]
+            },
+            {
+                  "name": "Mjölkuddtjärnen",
+                  "text": "Mjölkuddtjärnen is a lake located in Lulea, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.128529,
+                        65.60609
+                  ]
+            },
+            {
+                  "name": "Sellingssundet",
+                  "text": "Sellingssundet is a lake in Lulea, providing a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        22.106394,
+                        65.637054
+                  ]
+            },
+            {
+                  "name": "Hertsöträsket",
+                  "text": "Hertsöträsket is a lake in Lulea, perfect for enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.295441,
+                        65.587946
+                  ]
+            },
+            {
+                  "name": "Skurholmsfjärden",
+                  "text": "Skurholmsfjärden is a lake located in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.174842,
+                        65.587344
+                  ]
+            },
+            {
+                  "name": "Björkskatafjärden",
+                  "text": "Björkskatafjärden is a lake situated in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.15965,
+                        65.605582
+                  ]
+            },
+            {
+                  "name": "Lillträsket",
+                  "text": "Lillträsket is a small lake in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.318622,
+                        65.5833
+                  ]
+            },
+            {
+                  "name": "KV-utlopp",
+                  "text": "KV-utlopp is a lake located in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.268685,
+                        65.560566
+                  ]
+            },
+            {
+                  "name": "Gammelstadsfjärden",
+                  "text": "Gammelstadsfjärden is a lake in Lulea with a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.084024,
+                        65.628935
+                  ]
+            },
+            {
+                  "name": "Porsöfjärden",
+                  "text": "Porsöfjärden is a lake situated in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.160988,
+                        65.619758
+                  ]
+            },
+            {
+                  "name": "Björsbyfjärden",
+                  "text": "Björsbyfjärden is a lake in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.203686,
+                        65.622124
+                  ]
+            },
+            {
+                  "name": "Inre Hertsöfjärden",
+                  "text": "Inre Hertsöfjärden is a lake located in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.247492,
+                        65.571455
+                  ]
+            },
+            {
+                  "name": "Sörfjärden",
+                  "text": "Sörfjärden is a lake in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.252099,
+                        65.621453
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen is a lake situated in Lulea.",
+                  "category": "natural",
+                  "coords": [
+                        22.020717,
+                        65.542706
+                  ]
+            },
+            {
+                  "name": "Stora berget",
+                  "text": "Stora berget is a playground in Lulea, offering fun activities for families.",
+                  "category": "family",
+                  "coords": [
+                        22.192849,
+                        65.599356
+                  ]
+            },
+            {
+                  "name": "Golfängen",
+                  "text": "Golfängen is a miniature golf course in Lulea, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        22.168951,
+                        65.594253
+                  ]
+            },
+            {
+                  "name": "Fridhemsgatans lekplats",
+                  "text": "Fridhemsgatans lekplats is a playground in Lulea, providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.205586,
+                        65.590997
+                  ]
+            },
+            {
+                  "name": "Jägarstigens lekplats",
+                  "text": "Jägarstigens lekplats is a family-friendly playground located in Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.215672,
+                        65.583498
+                  ]
+            },
+            {
+                  "name": "Kantgatans lekplats",
+                  "text": "Kantgatans lekplats is a playground in Lulea where children can enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        22.197803,
+                        65.576089
                   ]
             }
       ]
@@ -18943,6 +24631,204 @@ export const swedenCities: POI[] = [
                         14.154537,
                         57.786912
                   ]
+            },
+            {
+                  "name": "Munksjön",
+                  "text": "Munksjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.164548,
+                        57.7732
+                  ]
+            },
+            {
+                  "name": "Rogbergasjön",
+                  "text": "Rogbergasjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.264197,
+                        57.729973
+                  ]
+            },
+            {
+                  "name": "Västersjön",
+                  "text": "Västersjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.078137,
+                        57.759404
+                  ]
+            },
+            {
+                  "name": "Axamosjön",
+                  "text": "Axamosjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.064634,
+                        57.779414
+                  ]
+            },
+            {
+                  "name": "Mogöl",
+                  "text": "Mogöl ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.045285,
+                        57.776249
+                  ]
+            },
+            {
+                  "name": "Ulvstorpasjön",
+                  "text": "Ulvstorpasjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.09306,
+                        57.757024
+                  ]
+            },
+            {
+                  "name": "Hällstorpsdammen",
+                  "text": "Hällstorpsdammen ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.155782,
+                        57.724187
+                  ]
+            },
+            {
+                  "name": "Lomsjön",
+                  "text": "Lomsjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.044614,
+                        57.769734
+                  ]
+            },
+            {
+                  "name": "Dröpshultagölen",
+                  "text": "Dröpshultagölen ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.053884,
+                        57.819018
+                  ]
+            },
+            {
+                  "name": "Tranebosjön",
+                  "text": "Tranebosjön ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.041546,
+                        57.816475
+                  ]
+            },
+            {
+                  "name": "Åsendammen",
+                  "text": "Åsendammen ist ein See in Joenkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.126324,
+                        57.767383
+                  ]
+            },
+            {
+                  "name": "Klämmestorpsdammen",
+                  "text": "Klämmestorpsdammen ist ein See in Joenkoeping. Er bietet eine ruhige Umgebung für einen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.107229,
+                        57.786099
+                  ]
+            },
+            {
+                  "name": "Kattadammen",
+                  "text": "Kattadammen ist ein See in Joenkoeping, der sich gut für einen entspannten Aufenthalt am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.072837,
+                        57.790761
+                  ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Der Vättern ist ein bedeutender See in Joenkoeping. Er lädt zu Spaziergängen am Ufer und zum Genießen der weiten Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Rocksjön",
+                  "text": "Rocksjön ist ein See in Joenkoeping. Die Umgebung eignet sich hervorragend für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        14.189324,
+                        57.773667
+                  ]
+            },
+            {
+                  "name": "Strömsbergsdammen",
+                  "text": "Strömsbergsdammen ist ein See in Joenkoeping. Er bietet eine friedliche Atmosphäre für Erholungsuchende.",
+                  "category": "natural",
+                  "coords": [
+                        14.180571,
+                        57.750377
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen ist ein See in Joenkoeping, ideal für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        14.142783,
+                        57.780703
+                  ]
+            },
+            {
+                  "name": "Kåvasjön",
+                  "text": "Kåvasjön ist ein See in Joenkoeping. Er bietet eine schöne Kulisse für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        14.268756,
+                        57.788396
+                  ]
+            },
+            {
+                  "name": "Barnarpasjön",
+                  "text": "Barnarpasjön ist ein See in Joenkoeping, der zu Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.182048,
+                        57.711733
+                  ]
+            },
+            {
+                  "name": "Stadsparksleken",
+                  "text": "Stadsparksleken ist ein Spielplatz in Joenkoeping. Er bietet Kindern viel Platz zum Spielen und Entdecken im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.141694,
+                        57.781723
+                  ]
+            },
+            {
+                  "name": "Kålgårdens lekplats",
+                  "text": "Kålgårdens lekplats ist ein Spielplatz in Joenkoeping. Ein schönes Ziel für Familien mit Kindern für gemeinsame Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        14.18371,
+                        57.775078
+                  ]
+            },
+            {
+                  "name": "Dalviks lekplats",
+                  "text": "Dalviks lekplats ist ein örtlicher Spielplatz in Joenkoeping. Er bietet sichere Spielgeräte für Kinder im Freien an.",
+                  "category": "family",
+                  "coords": [
+                        14.128242,
+                        57.784206
+                  ]
             }
       ],
       "hu": [
@@ -18962,6 +24848,204 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.154537,
                         57.786912
+                  ]
+            },
+            {
+                  "name": "Munksjön",
+                  "text": "A Munksjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.164548,
+                        57.7732
+                  ]
+            },
+            {
+                  "name": "Rogbergasjön",
+                  "text": "A Rogbergasjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.264197,
+                        57.729973
+                  ]
+            },
+            {
+                  "name": "Västersjön",
+                  "text": "A Västersjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.078137,
+                        57.759404
+                  ]
+            },
+            {
+                  "name": "Axamosjön",
+                  "text": "A Axamosjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.064634,
+                        57.779414
+                  ]
+            },
+            {
+                  "name": "Mogöl",
+                  "text": "A Mogöl egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.045285,
+                        57.776249
+                  ]
+            },
+            {
+                  "name": "Ulvstorpasjön",
+                  "text": "A Ulvstorpasjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.09306,
+                        57.757024
+                  ]
+            },
+            {
+                  "name": "Hällstorpsdammen",
+                  "text": "A Hällstorpsdammen egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.155782,
+                        57.724187
+                  ]
+            },
+            {
+                  "name": "Lomsjön",
+                  "text": "A Lomsjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.044614,
+                        57.769734
+                  ]
+            },
+            {
+                  "name": "Dröpshultagölen",
+                  "text": "A Dröpshultagölen egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.053884,
+                        57.819018
+                  ]
+            },
+            {
+                  "name": "Tranebosjön",
+                  "text": "A Tranebosjön egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.041546,
+                        57.816475
+                  ]
+            },
+            {
+                  "name": "Åsendammen",
+                  "text": "A Åsendammen egy tó Joenkoeping városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.126324,
+                        57.767383
+                  ]
+            },
+            {
+                  "name": "Klämmestorpsdammen",
+                  "text": "A Klämmestorpsdammen egy tó Joenkoeping városában. Nyugodt környezetet biztosít a természetben való sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.107229,
+                        57.786099
+                  ]
+            },
+            {
+                  "name": "Kattadammen",
+                  "text": "A Kattadammen egy tó Joenkoepingben, amely alkalmas a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        14.072837,
+                        57.790761
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Vättern egy jelentős tó Joenkoepingben. Part menti sétákra és a tágas táj élvezetére invitál.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Rocksjön",
+                  "text": "A Rocksjön egy tó Joenkoeping városában. A környék kiválóan alkalmas sétákra és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        14.189324,
+                        57.773667
+                  ]
+            },
+            {
+                  "name": "Strömsbergsdammen",
+                  "text": "A Strömsbergsdammen egy tó Joenkoepingben. Békés légkört biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.180571,
+                        57.750377
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "A Fågeldammen egy tó Joenkoepingben, amely ideális egy rövid kiránduláshoz a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        14.142783,
+                        57.780703
+                  ]
+            },
+            {
+                  "name": "Kåvasjön",
+                  "text": "A Kåvasjön egy tó Joenkoepingben. Szép hátteret biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.268756,
+                        57.788396
+                  ]
+            },
+            {
+                  "name": "Barnarpasjön",
+                  "text": "A Barnarpasjön egy tó Joenkoepingben, amely természetjárásra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        14.182048,
+                        57.711733
+                  ]
+            },
+            {
+                  "name": "Stadsparksleken",
+                  "text": "A Stadsparksleken egy játszótér Joenkoepingben. Rengeteg helyet kínál a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.141694,
+                        57.781723
+                  ]
+            },
+            {
+                  "name": "Kålgårdens lekplats",
+                  "text": "A Kålgårdens lekplats egy játszótér Joenkoepingben. Kedvelt célpont gyermekes családok számára a közös szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        14.18371,
+                        57.775078
+                  ]
+            },
+            {
+                  "name": "Dalviks lekplats",
+                  "text": "A Dalviks lekplats egy helyi játszótér Joenkoepingben. Biztonságos játéklehetőségeket kínál a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        14.128242,
+                        57.784206
                   ]
             }
       ],
@@ -18983,6 +25067,204 @@ export const swedenCities: POI[] = [
                         14.154537,
                         57.786912
                   ]
+            },
+            {
+                  "name": "Munksjön",
+                  "text": "Munksjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.164548,
+                        57.7732
+                  ]
+            },
+            {
+                  "name": "Rogbergasjön",
+                  "text": "Rogbergasjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.264197,
+                        57.729973
+                  ]
+            },
+            {
+                  "name": "Västersjön",
+                  "text": "Västersjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.078137,
+                        57.759404
+                  ]
+            },
+            {
+                  "name": "Axamosjön",
+                  "text": "Axamosjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.064634,
+                        57.779414
+                  ]
+            },
+            {
+                  "name": "Mogöl",
+                  "text": "Mogöl este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.045285,
+                        57.776249
+                  ]
+            },
+            {
+                  "name": "Ulvstorpasjön",
+                  "text": "Ulvstorpasjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.09306,
+                        57.757024
+                  ]
+            },
+            {
+                  "name": "Hällstorpsdammen",
+                  "text": "Hällstorpsdammen este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.155782,
+                        57.724187
+                  ]
+            },
+            {
+                  "name": "Lomsjön",
+                  "text": "Lomsjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.044614,
+                        57.769734
+                  ]
+            },
+            {
+                  "name": "Dröpshultagölen",
+                  "text": "Dröpshultagölen este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.053884,
+                        57.819018
+                  ]
+            },
+            {
+                  "name": "Tranebosjön",
+                  "text": "Tranebosjön este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.041546,
+                        57.816475
+                  ]
+            },
+            {
+                  "name": "Åsendammen",
+                  "text": "Åsendammen este un lac în Joenkoeping, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.126324,
+                        57.767383
+                  ]
+            },
+            {
+                  "name": "Klämmestorpsdammen",
+                  "text": "Klämmestorpsdammen este un lac în Joenkoeping. Oferă un cadru liniștit pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.107229,
+                        57.786099
+                  ]
+            },
+            {
+                  "name": "Kattadammen",
+                  "text": "Kattadammen este un lac în Joenkoeping, potrivit pentru petrecerea timpului relaxant lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.072837,
+                        57.790761
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern este un lac important în Joenkoeping. Acesta invită la plimbări pe mal și la admirarea peisajului vast.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Rocksjön",
+                  "text": "Rocksjön este un lac în Joenkoeping. Zona este excelentă pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.189324,
+                        57.773667
+                  ]
+            },
+            {
+                  "name": "Strömsbergsdammen",
+                  "text": "Strömsbergsdammen este un lac în Joenkoeping. Oferă o atmosferă liniștită pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.180571,
+                        57.750377
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen este un lac în Joenkoeping, ideal pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.142783,
+                        57.780703
+                  ]
+            },
+            {
+                  "name": "Kåvasjön",
+                  "text": "Kåvasjön este un lac în Joenkoeping. Oferă un cadru frumos pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.268756,
+                        57.788396
+                  ]
+            },
+            {
+                  "name": "Barnarpasjön",
+                  "text": "Barnarpasjön este un lac în Joenkoeping, care invită la plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.182048,
+                        57.711733
+                  ]
+            },
+            {
+                  "name": "Stadsparksleken",
+                  "text": "Stadsparksleken este un teren de joacă în Joenkoeping. Oferă copiilor mult spațiu pentru joacă și explorare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.141694,
+                        57.781723
+                  ]
+            },
+            {
+                  "name": "Kålgårdens lekplats",
+                  "text": "Kålgårdens lekplats este un teren de joacă în Joenkoeping. O destinație frumoasă pentru familiile cu copii pentru activități comune.",
+                  "category": "family",
+                  "coords": [
+                        14.18371,
+                        57.775078
+                  ]
+            },
+            {
+                  "name": "Dalviks lekplats",
+                  "text": "Dalviks lekplats este un teren de joacă local în Joenkoeping. Oferă echipamente de joacă sigure pentru copii în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.128242,
+                        57.784206
+                  ]
             }
       ],
       "en": [
@@ -19002,6 +25284,204 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.154537,
                         57.786912
+                  ]
+            },
+            {
+                  "name": "Munksjön",
+                  "text": "Munksjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.164548,
+                        57.7732
+                  ]
+            },
+            {
+                  "name": "Rogbergasjön",
+                  "text": "Rogbergasjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.264197,
+                        57.729973
+                  ]
+            },
+            {
+                  "name": "Västersjön",
+                  "text": "Västersjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.078137,
+                        57.759404
+                  ]
+            },
+            {
+                  "name": "Axamosjön",
+                  "text": "Axamosjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.064634,
+                        57.779414
+                  ]
+            },
+            {
+                  "name": "Mogöl",
+                  "text": "Mogöl is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.045285,
+                        57.776249
+                  ]
+            },
+            {
+                  "name": "Ulvstorpasjön",
+                  "text": "Ulvstorpasjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.09306,
+                        57.757024
+                  ]
+            },
+            {
+                  "name": "Hällstorpsdammen",
+                  "text": "Hällstorpsdammen is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.155782,
+                        57.724187
+                  ]
+            },
+            {
+                  "name": "Lomsjön",
+                  "text": "Lomsjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.044614,
+                        57.769734
+                  ]
+            },
+            {
+                  "name": "Dröpshultagölen",
+                  "text": "Dröpshultagölen is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.053884,
+                        57.819018
+                  ]
+            },
+            {
+                  "name": "Tranebosjön",
+                  "text": "Tranebosjön is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.041546,
+                        57.816475
+                  ]
+            },
+            {
+                  "name": "Åsendammen",
+                  "text": "Åsendammen is a lake in Joenkoeping, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.126324,
+                        57.767383
+                  ]
+            },
+            {
+                  "name": "Klämmestorpsdammen",
+                  "text": "Klämmestorpsdammen is a lake in Joenkoeping. It offers a calm setting for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.107229,
+                        57.786099
+                  ]
+            },
+            {
+                  "name": "Kattadammen",
+                  "text": "Kattadammen is a lake in Joenkoeping, suitable for spending relaxing time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.072837,
+                        57.790761
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern is a major lake in Joenkoeping. It invites for walks along the shore and enjoying the vast scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Rocksjön",
+                  "text": "Rocksjön is a lake in Joenkoeping. The area is excellent for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        14.189324,
+                        57.773667
+                  ]
+            },
+            {
+                  "name": "Strömsbergsdammen",
+                  "text": "Strömsbergsdammen is a lake in Joenkoeping. It provides a peaceful atmosphere for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.180571,
+                        57.750377
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen is a lake in Joenkoeping, ideal for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.142783,
+                        57.780703
+                  ]
+            },
+            {
+                  "name": "Kåvasjön",
+                  "text": "Kåvasjön is a lake in Joenkoeping. It offers a nice backdrop for outdoor leisure.",
+                  "category": "natural",
+                  "coords": [
+                        14.268756,
+                        57.788396
+                  ]
+            },
+            {
+                  "name": "Barnarpasjön",
+                  "text": "Barnarpasjön is a lake in Joenkoeping, inviting for walks in the nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.182048,
+                        57.711733
+                  ]
+            },
+            {
+                  "name": "Stadsparksleken",
+                  "text": "Stadsparksleken is a playground in Joenkoeping. It offers plenty of space for children to play and explore outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.141694,
+                        57.781723
+                  ]
+            },
+            {
+                  "name": "Kålgårdens lekplats",
+                  "text": "Kålgårdens lekplats is a playground in Joenkoeping. A nice destination for families with children for shared leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        14.18371,
+                        57.775078
+                  ]
+            },
+            {
+                  "name": "Dalviks lekplats",
+                  "text": "Dalviks lekplats is a local playground in Joenkoeping. It offers safe play equipment for children outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.128242,
+                        57.784206
                   ]
             }
       ]

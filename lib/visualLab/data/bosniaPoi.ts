@@ -2009,6 +2009,105 @@ export const bosniaPois: POI[] = [
                         17.810675,
                         43.348212
                   ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Ein See in der Nähe von Mostar, ideal für einen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "Ein lokales Gewässer in Mostar mit ruhiger Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Ein See in Mostar, der sich für die Beobachtung der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Ein kleiner See in Mostar in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Ein Wasserbecken in Mostar, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Ein Indoor-Spielzentrum in Mostar für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "Ein fantasievoll gestalteter Spielbereich für Kinder in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Ein Spielplatz in Mostar, der zum Entdecken und Bewegen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Ein Übungsplatz für Kinder in Mostar mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Ein klassischer Spielplatz in Mostar für die lokale Bevölkerung.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Ein Treffpunkt mit Spielmöglichkeiten für Kinder in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
             }
       ],
       "hu": [
@@ -2352,6 +2451,105 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.810675,
                         43.348212
+                  ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Mostar közeli tó, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "Helyi vízfelület Mostarban, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Tó Mostarban, amely alkalmas a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Kisméretű tó Mostarban, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Vízgyűjtő medence Mostarban, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Beltéri játszóközpont Mostarban az aktív családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "Mókásan kialakított játszóhely gyermekeknek Mostarban.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Játszótér Mostarban, amely felfedezésre és mozgásra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Gyakorlópálya gyerekeknek Mostarban különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Hagyományos játszótér Mostarban a helyi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Találkozóhely játéklehetőségekkel gyerekeknek Mostarban.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
                   ]
             }
       ],
@@ -2697,6 +2895,105 @@ export const bosniaPois: POI[] = [
                         17.810675,
                         43.348212
                   ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Un lac lângă Mostar, ideal pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "O acumulare de apă locală în Mostar, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Un lac în Mostar, potrivit pentru admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Un mic lac în Mostar, într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Un bazin de apă în Mostar care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Un centru de joacă interior în Mostar pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "O zonă de joacă creativă pentru copii în Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Un teren de joacă în Mostar care invită la explorare și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Un poligon pentru copii în Mostar cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Un teren de joacă clasic în Mostar pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Un punct de întâlnire cu facilități de joacă pentru copii în Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
             }
       ],
       "en": [
@@ -3041,6 +3338,105 @@ export const bosniaPois: POI[] = [
                         17.810675,
                         43.348212
                   ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "A lake near Mostar, ideal for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "A local water body in Mostar with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "A lake in Mostar suitable for viewing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "A small lake in Mostar set in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "A water basin in Mostar that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "An indoor play center in Mostar for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "An imaginatively designed play area for children in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "A playground in Mostar that invites exploration and movement.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "A practice area for children in Mostar with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "A classic playground in Mostar for the local community.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "A meeting point with play facilities for children in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
             }
       ]
 },
@@ -3311,6 +3707,213 @@ export const bosniaPois: POI[] = [
                         18.688972,
                         44.538162
                   ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III ist ein künstlicher Salzsee in Tuzla, der zur Erholung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II ist ein See in Tuzla, der ein fester Bestandteil des lokalen Freizeitangebots ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO ist eine Wasserversorgungsanlage in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape ist eine Pumpstation für das Wassersystem in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL ist eine technische Wasseranlage in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina ist ein Wasserreservoir in Tuzla zur lokalen Versorgung.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino ist eine Infrastruktureinrichtung für Wasser in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik ist eine Einrichtung zur Wasserbeförderung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje ist Teil der technischen Wasserinfrastruktur von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) ist ein Entlüftungsventil im Wassernetz von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) ist ein Hydrant am Ende einer Wasserleitung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER ist eine kombinierte Wasserarmatur in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik ist ein Wasserspeicher für die Versorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER ist ein Absperrschieber im lokalen Wassersystem von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići ist eine technische Anlage der Wasserversorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva ist eine Station zur Druckregulierung im Wassernetz von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi Φ75",
+                  "text": "Kraj cjevi Φ75 ist das Ende einer Wasserleitung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER ist ein Entleerungsschieber in der Wasserinfrastruktur von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac ist ein Wasserbehälter zur Sicherung der Versorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Der Rezervoar Šikara ist ein See in Tuzla, der sich ideal für einen ruhigen Spaziergang oder zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara ist ein See in Tuzla, der einen ruhigen Ort zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Der Rezervoar Husino ist ein See in Tuzla, ideal um die lokale Landschaft und einen Spaziergang zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće ist ein See in Tuzla, der Besuchern eine neutrale und friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
             }
       ],
       "hu": [
@@ -3546,6 +4149,213 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.688972,
                         44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III egy mesterséges sós tó Tuzla területén, amelyet kikapcsolódásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II egy tó Tuzla területén, amely a helyi szabadidős kínálat szerves része.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO egy vízellátó létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape egy szivattyúállomás Tuzla vízhálózatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL egy műszaki vízügyi létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina egy víztározó Tuzla területén a helyi ellátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino egy vízügyi infrastruktúra-létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik egy vízszállító létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje Tuzla műszaki vízügyi infrastruktúrájának része.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) egy légtelenítő szelep Tuzla vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) egy tűzcsap egy vízvezeték végén Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER egy kombinált vízszerelvény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik egy víztároló Tuzla ellátásához.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER egy elzárószelep Tuzla helyi vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići egy vízellátási műszaki létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva egy nyomásszabályozó állomás Tuzla vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi Φ75",
+                  "text": "Kraj cjevi Φ75 egy vízvezeték vége Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER egy leeresztő szelep Tuzla vízügyi infrastruktúrájában.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac egy víztartály az ellátás biztosítására Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "A Rezervoar Šikara egy tó Tuzlában, amely ideális egy csendes sétához vagy a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "A Pumpna stanica Šikara egy tó Tuzlában, amely csendes helyet kínál a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "A Rezervoar Husino egy tó Tuzlában, amely tökéletes a helyi táj élvezetéhez és egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "A Šiber za Demiroviće egy tó Tuzlában, amely semleges és békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
                   ]
             }
       ],
@@ -3783,6 +4593,213 @@ export const bosniaPois: POI[] = [
                         18.688972,
                         44.538162
                   ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III este un lac sărat artificial din Tuzla, utilizat pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II este un lac din Tuzla, fiind parte integrantă a ofertei locale de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO este o instalație de alimentare cu apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape este o stație de pompare pentru sistemul de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL este o instalație tehnică de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina este un rezervor de apă din Tuzla pentru aprovizionarea locală.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino este o unitate de infrastructură de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik este o unitate de transport al apei din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje face parte din infrastructura tehnică de apă a orașului Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) este o supapă de aerisire în rețeaua de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) este un hidrant la capătul unei conducte de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER este o armătură combinată de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik este un spațiu de stocare a apei pentru aprovizionarea în Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER este o valvă de închidere în sistemul local de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići este o instalație tehnică de alimentare cu apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva este o stație de reglare a presiunii în rețeaua de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi Φ75",
+                  "text": "Kraj cjevi Φ75 este capătul unei conducte de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER este o valvă de golire în infrastructura de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac este un rezervor de apă pentru asigurarea aprovizionării în Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Rezervoar Šikara este un lac în Tuzla, ideal pentru o plimbare liniștită sau pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara este un lac în Tuzla, oferind un loc liniștit pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Rezervoar Husino este un lac în Tuzla, perfect pentru a te bucura de peisajul local și de o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće este un lac în Tuzla, oferind un mediu neutru și liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
             }
       ],
       "en": [
@@ -4018,6 +5035,213 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.688972,
                         44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III is an artificial salt lake in Tuzla used for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II is a lake in Tuzla and an integral part of the local leisure offer.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO is a water supply facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape is a pumping station for the water system in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL is a technical water facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina is a water reservoir in Tuzla for local supply.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino is a water infrastructure facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik is a water transport facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje is part of the technical water infrastructure of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) is an air vent valve in the water network of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) is a hydrant at the end of a water pipeline in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER is a combined water fitting in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik is a water storage for supply in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER is a shut-off valve in the local water system of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići is a technical water supply facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva is a pressure regulation station in the water network of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi Φ75",
+                  "text": "Kraj cjevi Φ75 is the end of a water pipe in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER is a drain valve in the water infrastructure of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac is a water tank to ensure supply in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Rezervoar Šikara is a lake in Tuzla, ideal for a peaceful walk or enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara is a lake in Tuzla, offering a quiet spot for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Rezervoar Husino is a lake in Tuzla, perfect for enjoying the local scenery and a walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće is a lake in Tuzla, providing a neutral and peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
                   ]
             }
       ]
@@ -5694,6 +6918,24 @@ export const bosniaPois: POI[] = [
                         18.349746,
                         42.706816
                   ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Der Trebinjsko jezero ist ein See in Trebinje, der für seine malerische Aussicht und entspannte Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva ist ein See in Trebinje, der eine einfache und ruhige Umgebung für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
             }
       ],
       "hu": [
@@ -5893,6 +7135,24 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.349746,
                         42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "A Trebinjsko jezero egy tó Trebinjében, amely festői kilátásáról és pihentető légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "A Lokva egy tó Trebinjében, amely egyszerű és nyugodt környezetet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
                   ]
             }
       ],
@@ -6094,6 +7354,24 @@ export const bosniaPois: POI[] = [
                         18.349746,
                         42.706816
                   ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Trebinjsko jezero este un lac în Trebinje, cunoscut pentru priveliștile sale pitorești și atmosfera relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva este un lac în Trebinje, oferind un cadru simplu și calm pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
             }
       ],
       "en": [
@@ -6293,6 +7571,24 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.349746,
                         42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Trebinjsko jezero is a lake in Trebinje, known for its scenic views and relaxing atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva is a lake in Trebinje, offering a simple and calm setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
                   ]
             }
       ]
@@ -6647,7 +7943,88 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-prijedor",
+    id: "ba-prijedor", "sights": {
+      "de": [
+            {
+                  "name": "Ribnjak Saničani",
+                  "text": "Ein See bei Prijedor, der für seine natürliche Kulisse bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.774813,
+                        44.925323
+                  ]
+            },
+            {
+                  "name": "Kosarkasko igraliste",
+                  "text": "Ein Sport- und Spielplatz in Prijedor für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        16.70197,
+                        44.982636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ribnjak Saničani",
+                  "text": "Prijedor melletti tó, amely természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.774813,
+                        44.925323
+                  ]
+            },
+            {
+                  "name": "Kosarkasko igraliste",
+                  "text": "Sport- és játszótér Prijedorban gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        16.70197,
+                        44.982636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ribnjak Saničani",
+                  "text": "Un lac lângă Prijedor, cunoscut pentru cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        16.774813,
+                        44.925323
+                  ]
+            },
+            {
+                  "name": "Kosarkasko igraliste",
+                  "text": "Un teren de sport și joacă în Prijedor pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        16.70197,
+                        44.982636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ribnjak Saničani",
+                  "text": "A lake near Prijedor known for its natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        16.774813,
+                        44.925323
+                  ]
+            },
+            {
+                  "name": "Kosarkasko igraliste",
+                  "text": "A sports and playground in Prijedor for children and youth.",
+                  "category": "family",
+                  "coords": [
+                        16.70197,
+                        44.982636
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Prijedor", hu: "Prijedor", ro: "Prijedor", en: "Prijedor" },
     description: {
@@ -6896,7 +8273,124 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-orasje",
+    id: "ba-orasje", "sights": {
+      "de": [
+            {
+                  "name": "Špionice",
+                  "text": "Špionice ist ein See in Orasje, geeignet für alle, die einen ruhigen Spaziergang am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
+            },
+            {
+                  "name": "Rovovi",
+                  "text": "Rovovi ist ein See in Orasje, der einen friedlichen Ort für Entspannung im Freien und Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.601111,
+                        45.011739
+                  ]
+            },
+            {
+                  "name": "CITY Toys igraonica",
+                  "text": "CITY Toys igraonica ist ein unterhaltsamer Spielplatz in Orasje, der tolle Aktivitäten für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.699928,
+                        45.025646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Špionice",
+                  "text": "A Špionice egy tó Orasjéban, alkalmas azok számára, akik egy csendes sétát keresnek a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
+            },
+            {
+                  "name": "Rovovi",
+                  "text": "A Rovovi egy tó Orasjéban, amely békés helyet biztosít a szabadtéri kikapcsolódáshoz és a tájhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.601111,
+                        45.011739
+                  ]
+            },
+            {
+                  "name": "CITY Toys igraonica",
+                  "text": "A CITY Toys igraonica egy szórakoztató játszótér Orasjéban, amely remek kikapcsolódást nyújt gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.699928,
+                        45.025646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Špionice",
+                  "text": "Špionice este un lac în Orasje, potrivit pentru cei care caută o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
+            },
+            {
+                  "name": "Rovovi",
+                  "text": "Rovovi este un lac în Orasje, oferind un loc liniștit pentru relaxare în aer liber și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        18.601111,
+                        45.011739
+                  ]
+            },
+            {
+                  "name": "CITY Toys igraonica",
+                  "text": "CITY Toys igraonica este un loc de joacă distractiv în Orasje, oferind activități excelente pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        18.699928,
+                        45.025646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Špionice",
+                  "text": "Špionice is a lake in Orasje, suitable for those looking for a quiet walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
+            },
+            {
+                  "name": "Rovovi",
+                  "text": "Rovovi is a lake in Orasje, providing a peaceful spot for outdoor relaxation and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.601111,
+                        45.011739
+                  ]
+            },
+            {
+                  "name": "CITY Toys igraonica",
+                  "text": "CITY Toys igraonica is a fun playground in Orasje, offering great activities for children and families.",
+                  "category": "family",
+                  "coords": [
+                        18.699928,
+                        45.025646
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Orašje", hu: "Orašje", ro: "Orašje", en: "Orašje" },
     description: {
@@ -7019,6 +8513,15 @@ export const bosniaPois: POI[] = [
                         18.809675,
                         44.878159
                   ]
+            },
+            {
+                  "name": "Crash Club",
+                  "text": "Der Crash Club in Brcko bietet Unterhaltung und Spiele für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.807263,
+                        44.870274
+                  ]
             }
       ],
       "hu": [
@@ -7056,6 +8559,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.809675,
                         44.878159
+                  ]
+            },
+            {
+                  "name": "Crash Club",
+                  "text": "A brckói Crash Club szórakozást és játékokat kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        18.807263,
+                        44.870274
                   ]
             }
       ],
@@ -7095,6 +8607,15 @@ export const bosniaPois: POI[] = [
                         18.809675,
                         44.878159
                   ]
+            },
+            {
+                  "name": "Crash Club",
+                  "text": "Crash Club din Brcko oferă divertisment și jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.807263,
+                        44.870274
+                  ]
             }
       ],
       "en": [
@@ -7132,6 +8653,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.809675,
                         44.878159
+                  ]
+            },
+            {
+                  "name": "Crash Club",
+                  "text": "Crash Club in Brcko offers entertainment and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.807263,
+                        44.870274
                   ]
             }
       ]
@@ -7241,6 +8771,15 @@ export const bosniaPois: POI[] = [
                         19.214982,
                         44.765439
                   ]
+            },
+            {
+                  "name": "Popovaca",
+                  "text": "Ein ruhiger See in Bijeljina, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        19.262881,
+                        44.819057
+                  ]
             }
       ],
       "hu": [
@@ -7260,6 +8799,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         19.214982,
                         44.765439
+                  ]
+            },
+            {
+                  "name": "Popovaca",
+                  "text": "Csendes tó Bijeljinában, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.262881,
+                        44.819057
                   ]
             }
       ],
@@ -7281,6 +8829,15 @@ export const bosniaPois: POI[] = [
                         19.214982,
                         44.765439
                   ]
+            },
+            {
+                  "name": "Popovaca",
+                  "text": "Un lac liniștit în Bijeljina, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.262881,
+                        44.819057
+                  ]
             }
       ],
       "en": [
@@ -7300,6 +8857,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         19.214982,
                         44.765439
+                  ]
+            },
+            {
+                  "name": "Popovaca",
+                  "text": "A peaceful lake in Bijeljina, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.262881,
+                        44.819057
                   ]
             }
       ]
@@ -7516,6 +9082,24 @@ export const bosniaPois: POI[] = [
                         17.007675,
                         43.825092
                   ]
+            },
+            {
+                  "name": "Drulj",
+                  "text": "Drulj ist ein See in Livno, ideal um die Natur und einen friedlichen Nachmittagsspaziergang zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        16.997823,
+                        43.867646
+                  ]
+            },
+            {
+                  "name": "Kazdrma",
+                  "text": "Kazdrma ist ein See in Livno, der eine malerische Kulisse für einen entspannten Spaziergang im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.029816,
+                        43.761645
+                  ]
             }
       ],
       "hu": [
@@ -7643,6 +9227,24 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.007675,
                         43.825092
+                  ]
+            },
+            {
+                  "name": "Drulj",
+                  "text": "A Drulj egy tó Livnóban, ideális a természet élvezetéhez és egy békés délutáni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.997823,
+                        43.867646
+                  ]
+            },
+            {
+                  "name": "Kazdrma",
+                  "text": "A Kazdrma egy tó Livnóban, amely festői hátteret biztosít egy pihentető szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.029816,
+                        43.761645
                   ]
             }
       ],
@@ -7772,6 +9374,24 @@ export const bosniaPois: POI[] = [
                         17.007675,
                         43.825092
                   ]
+            },
+            {
+                  "name": "Drulj",
+                  "text": "Drulj este un lac în Livno, ideal pentru a te bucura de natură și de o plimbare liniștită de după-amiază.",
+                  "category": "natural",
+                  "coords": [
+                        16.997823,
+                        43.867646
+                  ]
+            },
+            {
+                  "name": "Kazdrma",
+                  "text": "Kazdrma este un lac în Livno, oferind un cadru pitoresc pentru o plimbare relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.029816,
+                        43.761645
+                  ]
             }
       ],
       "en": [
@@ -7899,6 +9519,24 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.007675,
                         43.825092
+                  ]
+            },
+            {
+                  "name": "Drulj",
+                  "text": "Drulj is a lake in Livno, ideal for enjoying nature and a peaceful afternoon walk.",
+                  "category": "natural",
+                  "coords": [
+                        16.997823,
+                        43.867646
+                  ]
+            },
+            {
+                  "name": "Kazdrma",
+                  "text": "Kazdrma is a lake in Livno, providing a scenic backdrop for a relaxing outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        17.029816,
+                        43.761645
                   ]
             }
       ]

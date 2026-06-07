@@ -157,6 +157,15 @@ export const italyCitiesV2: POI[] = [
                         10.220635,
                         45.539716
                   ]
+            },
+            {
+                  "name": "Parco Tullio Gadola",
+                  "text": "Ein lokaler Spielplatz in Brescia, der Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.208213,
+                        45.528135
+                  ]
             }
       ],
       "hu": [
@@ -311,6 +320,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.220635,
                         45.539716
+                  ]
+            },
+            {
+                  "name": "Parco Tullio Gadola",
+                  "text": "Helyi játszótér Bresciában, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.208213,
+                        45.528135
                   ]
             }
       ],
@@ -467,6 +485,15 @@ export const italyCitiesV2: POI[] = [
                         10.220635,
                         45.539716
                   ]
+            },
+            {
+                  "name": "Parco Tullio Gadola",
+                  "text": "Un loc de joacă local din Brescia care oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.208213,
+                        45.528135
+                  ]
             }
       ],
       "en": [
@@ -621,6 +648,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.220635,
                         45.539716
+                  ]
+            },
+            {
+                  "name": "Parco Tullio Gadola",
+                  "text": "A local playground in Brescia providing fun for children.",
+                  "category": "family",
+                  "coords": [
+                        10.208213,
+                        45.528135
                   ]
             }
       ]
@@ -2218,6 +2254,51 @@ export const italyCitiesV2: POI[] = [
                         10.926888,
                         44.649428
                   ]
+            },
+            {
+                  "name": "Parchetto Torrenova",
+                  "text": "Parchetto Torrenova ist ein Spielplatz in Modena, der ein angenehmes Umfeld für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.95,
+                        44.658437
+                  ]
+            },
+            {
+                  "name": "Gazebo di Piazza Guido Rossa",
+                  "text": "Gazebo di Piazza Guido Rossa ist ein Spielbereich in Modena für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.894224,
+                        44.641575
+                  ]
+            },
+            {
+                  "name": "Parchetto XXII Aprile",
+                  "text": "Der Parchetto XXII Aprile in Modena ist ein lokaler Spielplatz, auf dem Kinder spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        10.939947,
+                        44.656562
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Der Parco Sandro Pertini in Modena bietet einen kinderfreundlichen Bereich zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.930073,
+                        44.642389
+                  ]
+            },
+            {
+                  "name": "Giochi",
+                  "text": "Giochi in Modena ist ein einfacher Spielbereich für Kinder in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        10.944416,
+                        44.634179
+                  ]
             }
       ],
       "hu": [
@@ -2345,6 +2426,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.926888,
                         44.649428
+                  ]
+            },
+            {
+                  "name": "Parchetto Torrenova",
+                  "text": "A Parchetto Torrenova egy játszótér Modenában, amely kellemes környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.95,
+                        44.658437
+                  ]
+            },
+            {
+                  "name": "Gazebo di Piazza Guido Rossa",
+                  "text": "A Gazebo di Piazza Guido Rossa egy játszóhely Modenában családok és gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.894224,
+                        44.641575
+                  ]
+            },
+            {
+                  "name": "Parchetto XXII Aprile",
+                  "text": "A modenai Parchetto XXII Aprile egy helyi játszótér, ahol a gyerekek játszhatnak és jól érezhetik magukat.",
+                  "category": "family",
+                  "coords": [
+                        10.939947,
+                        44.656562
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "A modenai Parco Sandro Pertini gyerekbarát területet kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.930073,
+                        44.642389
+                  ]
+            },
+            {
+                  "name": "Giochi",
+                  "text": "A modenai Giochi egy egyszerű játszótér gyerekeknek a városban.",
+                  "category": "family",
+                  "coords": [
+                        10.944416,
+                        44.634179
                   ]
             }
       ],
@@ -2474,6 +2600,51 @@ export const italyCitiesV2: POI[] = [
                         10.926888,
                         44.649428
                   ]
+            },
+            {
+                  "name": "Parchetto Torrenova",
+                  "text": "Parchetto Torrenova este un teren de joacă din Modena, oferind un mediu plăcut pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.95,
+                        44.658437
+                  ]
+            },
+            {
+                  "name": "Gazebo di Piazza Guido Rossa",
+                  "text": "Gazebo di Piazza Guido Rossa este o zonă de joacă din Modena pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        10.894224,
+                        44.641575
+                  ]
+            },
+            {
+                  "name": "Parchetto XXII Aprile",
+                  "text": "Parchetto XXII Aprile din Modena este un loc de joacă local unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        10.939947,
+                        44.656562
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Parco Sandro Pertini din Modena oferă o zonă potrivită pentru copii pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.930073,
+                        44.642389
+                  ]
+            },
+            {
+                  "name": "Giochi",
+                  "text": "Giochi din Modena este o zonă de joacă simplă pentru copii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        10.944416,
+                        44.634179
+                  ]
             }
       ],
       "en": [
@@ -2601,6 +2772,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.926888,
                         44.649428
+                  ]
+            },
+            {
+                  "name": "Parchetto Torrenova",
+                  "text": "Parchetto Torrenova is a playground in Modena, offering a pleasant environment for children.",
+                  "category": "family",
+                  "coords": [
+                        10.95,
+                        44.658437
+                  ]
+            },
+            {
+                  "name": "Gazebo di Piazza Guido Rossa",
+                  "text": "Gazebo di Piazza Guido Rossa is a play area in Modena for families and children.",
+                  "category": "family",
+                  "coords": [
+                        10.894224,
+                        44.641575
+                  ]
+            },
+            {
+                  "name": "Parchetto XXII Aprile",
+                  "text": "Parchetto XXII Aprile in Modena is a local playground where children can play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        10.939947,
+                        44.656562
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Parco Sandro Pertini in Modena offers a child-friendly area for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        10.930073,
+                        44.642389
+                  ]
+            },
+            {
+                  "name": "Giochi",
+                  "text": "Giochi in Modena is a simple play area for children in the city.",
+                  "category": "family",
+                  "coords": [
+                        10.944416,
+                        44.634179
                   ]
             }
       ]
@@ -2866,6 +3082,78 @@ export const italyCitiesV2: POI[] = [
                         10.630517,
                         44.69905
                   ]
+            },
+            {
+                  "name": "Caprilandia",
+                  "text": "Ein Minigolfplatz in Reggio Emilia, ideal für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        10.623796,
+                        44.679273
+                  ]
+            },
+            {
+                  "name": "Area gioco-bimbi",
+                  "text": "Ein Spielbereich für Kinder in Reggio Emilia.",
+                  "category": "family",
+                  "coords": [
+                        10.612307,
+                        44.721101
+                  ]
+            },
+            {
+                  "name": "Parco Albinoni",
+                  "text": "Ein Spielplatz in Reggio Emilia für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        10.609431,
+                        44.704581
+                  ]
+            },
+            {
+                  "name": "Gommaland",
+                  "text": "Ein toller Spielplatz in Reggio Emilia, den Kinder genießen können.",
+                  "category": "family",
+                  "coords": [
+                        10.63948,
+                        44.69234
+                  ]
+            },
+            {
+                  "name": "tappeti elastici",
+                  "text": "Ein Spielbereich mit Trampolinen in Reggio Emilia für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.613098,
+                        44.709617
+                  ]
+            },
+            {
+                  "name": "Area gioco bimbi Centro sociale Tricolore",
+                  "text": "Ein lokaler Spielplatz in Reggio Emilia, ideal für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.649489,
+                        44.701849
+                  ]
+            },
+            {
+                  "name": "Parco giochi parrocchiale Crocetta",
+                  "text": "Ein kleiner Spielplatz in Reggio Emilia für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        10.619436,
+                        44.684108
+                  ]
+            },
+            {
+                  "name": "Il Planetario",
+                  "text": "Eine Spielhalle in Reggio Emilia mit verschiedenen Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.650866,
+                        44.71528
+                  ]
             }
       ],
       "hu": [
@@ -3083,6 +3371,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.630517,
                         44.69905
+                  ]
+            },
+            {
+                  "name": "Caprilandia",
+                  "text": "Minigolfpálya Reggio Emiliában, amely ideális családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.623796,
+                        44.679273
+                  ]
+            },
+            {
+                  "name": "Area gioco-bimbi",
+                  "text": "Játszóhely gyermekek számára Reggio Emiliában.",
+                  "category": "family",
+                  "coords": [
+                        10.612307,
+                        44.721101
+                  ]
+            },
+            {
+                  "name": "Parco Albinoni",
+                  "text": "Játszótér Reggio Emiliában gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.609431,
+                        44.704581
+                  ]
+            },
+            {
+                  "name": "Gommaland",
+                  "text": "Remek játszótér Reggio Emiliában, amelyet a gyerekek élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        10.63948,
+                        44.69234
+                  ]
+            },
+            {
+                  "name": "tappeti elastici",
+                  "text": "Trambulinos játszóhely Reggio Emiliában gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.613098,
+                        44.709617
+                  ]
+            },
+            {
+                  "name": "Area gioco bimbi Centro sociale Tricolore",
+                  "text": "Helyi játszótér Reggio Emiliában, amely ideális kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.649489,
+                        44.701849
+                  ]
+            },
+            {
+                  "name": "Parco giochi parrocchiale Crocetta",
+                  "text": "Kis játszótér Reggio Emiliában a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.619436,
+                        44.684108
+                  ]
+            },
+            {
+                  "name": "Il Planetario",
+                  "text": "Játékterem Reggio Emiliában különféle játékokkal gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.650866,
+                        44.71528
                   ]
             }
       ],
@@ -3302,6 +3662,78 @@ export const italyCitiesV2: POI[] = [
                         10.630517,
                         44.69905
                   ]
+            },
+            {
+                  "name": "Caprilandia",
+                  "text": "Un teren de minigolf în Reggio Emilia, ideal pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.623796,
+                        44.679273
+                  ]
+            },
+            {
+                  "name": "Area gioco-bimbi",
+                  "text": "O zonă de joacă pentru copii în Reggio Emilia.",
+                  "category": "family",
+                  "coords": [
+                        10.612307,
+                        44.721101
+                  ]
+            },
+            {
+                  "name": "Parco Albinoni",
+                  "text": "Un loc de joacă din Reggio Emilia pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        10.609431,
+                        44.704581
+                  ]
+            },
+            {
+                  "name": "Gommaland",
+                  "text": "Un loc de joacă grozav din Reggio Emilia de care copiii se pot bucura.",
+                  "category": "family",
+                  "coords": [
+                        10.63948,
+                        44.69234
+                  ]
+            },
+            {
+                  "name": "tappeti elastici",
+                  "text": "O zonă de joacă cu trambuline în Reggio Emilia pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.613098,
+                        44.709617
+                  ]
+            },
+            {
+                  "name": "Area gioco bimbi Centro sociale Tricolore",
+                  "text": "Un loc de joacă local din Reggio Emilia, ideal pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        10.649489,
+                        44.701849
+                  ]
+            },
+            {
+                  "name": "Parco giochi parrocchiale Crocetta",
+                  "text": "Un mic loc de joacă din Reggio Emilia pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        10.619436,
+                        44.684108
+                  ]
+            },
+            {
+                  "name": "Il Planetario",
+                  "text": "O sală de jocuri din Reggio Emilia cu diverse jocuri pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.650866,
+                        44.71528
+                  ]
             }
       ],
       "en": [
@@ -3519,6 +3951,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.630517,
                         44.69905
+                  ]
+            },
+            {
+                  "name": "Caprilandia",
+                  "text": "A miniature golf course in Reggio Emilia, ideal for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        10.623796,
+                        44.679273
+                  ]
+            },
+            {
+                  "name": "Area gioco-bimbi",
+                  "text": "A play area for children in Reggio Emilia.",
+                  "category": "family",
+                  "coords": [
+                        10.612307,
+                        44.721101
+                  ]
+            },
+            {
+                  "name": "Parco Albinoni",
+                  "text": "A playground in Reggio Emilia for families with children.",
+                  "category": "family",
+                  "coords": [
+                        10.609431,
+                        44.704581
+                  ]
+            },
+            {
+                  "name": "Gommaland",
+                  "text": "A great playground in Reggio Emilia for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        10.63948,
+                        44.69234
+                  ]
+            },
+            {
+                  "name": "tappeti elastici",
+                  "text": "A trampoline play area in Reggio Emilia for children.",
+                  "category": "family",
+                  "coords": [
+                        10.613098,
+                        44.709617
+                  ]
+            },
+            {
+                  "name": "Area gioco bimbi Centro sociale Tricolore",
+                  "text": "A local playground in Reggio Emilia, ideal for young children.",
+                  "category": "family",
+                  "coords": [
+                        10.649489,
+                        44.701849
+                  ]
+            },
+            {
+                  "name": "Parco giochi parrocchiale Crocetta",
+                  "text": "A small playground in Reggio Emilia for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        10.619436,
+                        44.684108
+                  ]
+            },
+            {
+                  "name": "Il Planetario",
+                  "text": "An amusement arcade in Reggio Emilia with various games for children.",
+                  "category": "family",
+                  "coords": [
+                        10.650866,
+                        44.71528
                   ]
             }
       ]
@@ -9679,6 +10183,33 @@ export const italyCitiesV2: POI[] = [
                         8.619362,
                         45.447551
                   ]
+            },
+            {
+                  "name": "Lago F.I.P.S.A.S.",
+                  "text": "Ein lokaler See in Novara, ideal für eine Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        8.56299,
+                        45.466558
+                  ]
+            },
+            {
+                  "name": "Oratorio San Martino",
+                  "text": "Ein Spielbereich in Novara, der Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.607504,
+                        45.446335
+                  ]
+            },
+            {
+                  "name": "Oratorio del Sacro Cuore",
+                  "text": "Ein lokaler Spielplatz in Novara für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.612422,
+                        45.439851
+                  ]
             }
       ],
       "hu": [
@@ -9797,6 +10328,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.619362,
                         45.447551
+                  ]
+            },
+            {
+                  "name": "Lago F.I.P.S.A.S.",
+                  "text": "Helyi tó Novarában, amely ideális egy szabadtéri pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        8.56299,
+                        45.466558
+                  ]
+            },
+            {
+                  "name": "Oratorio San Martino",
+                  "text": "Játszóhely Novarában, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.607504,
+                        45.446335
+                  ]
+            },
+            {
+                  "name": "Oratorio del Sacro Cuore",
+                  "text": "Helyi játszótér Novarában gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.612422,
+                        45.439851
                   ]
             }
       ],
@@ -9917,6 +10475,33 @@ export const italyCitiesV2: POI[] = [
                         8.619362,
                         45.447551
                   ]
+            },
+            {
+                  "name": "Lago F.I.P.S.A.S.",
+                  "text": "Un lac local din Novara, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.56299,
+                        45.466558
+                  ]
+            },
+            {
+                  "name": "Oratorio San Martino",
+                  "text": "O zonă de joacă din Novara care oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.607504,
+                        45.446335
+                  ]
+            },
+            {
+                  "name": "Oratorio del Sacro Cuore",
+                  "text": "Un loc de joacă local din Novara pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        8.612422,
+                        45.439851
+                  ]
             }
       ],
       "en": [
@@ -10035,6 +10620,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.619362,
                         45.447551
+                  ]
+            },
+            {
+                  "name": "Lago F.I.P.S.A.S.",
+                  "text": "A local lake in Novara, ideal for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        8.56299,
+                        45.466558
+                  ]
+            },
+            {
+                  "name": "Oratorio San Martino",
+                  "text": "A play area in Novara providing fun for children.",
+                  "category": "family",
+                  "coords": [
+                        8.607504,
+                        45.446335
+                  ]
+            },
+            {
+                  "name": "Oratorio del Sacro Cuore",
+                  "text": "A local playground in Novara for families with children.",
+                  "category": "family",
+                  "coords": [
+                        8.612422,
+                        45.439851
                   ]
             }
       ]
@@ -12001,6 +12613,33 @@ export const italyCitiesV2: POI[] = [
                         12.238668,
                         44.137338
                   ]
+            },
+            {
+                  "name": "Lago di Borgo Paglia",
+                  "text": "Ein ruhiger See bei Cesena, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        12.214804,
+                        44.116952
+                  ]
+            },
+            {
+                  "name": "Giardino del Molinaccio",
+                  "text": "Ein kleiner Spielplatz in Cesena, der zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        12.246669,
+                        44.132511
+                  ]
+            },
+            {
+                  "name": "Parco per Fabio",
+                  "text": "Ein lokaler Spielplatz in Cesena für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        12.227669,
+                        44.132401
+                  ]
             }
       ],
       "hu": [
@@ -12092,6 +12731,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.238668,
                         44.137338
+                  ]
+            },
+            {
+                  "name": "Lago di Borgo Paglia",
+                  "text": "Csendes tó Cesena közelében, amely ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        12.214804,
+                        44.116952
+                  ]
+            },
+            {
+                  "name": "Giardino del Molinaccio",
+                  "text": "Kis játszótér Cesenában, amely játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        12.246669,
+                        44.132511
+                  ]
+            },
+            {
+                  "name": "Parco per Fabio",
+                  "text": "Helyi játszótér Cesenában a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.227669,
+                        44.132401
                   ]
             }
       ],
@@ -12185,6 +12851,33 @@ export const italyCitiesV2: POI[] = [
                         12.238668,
                         44.137338
                   ]
+            },
+            {
+                  "name": "Lago di Borgo Paglia",
+                  "text": "Un lac liniștit lângă Cesena, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        12.214804,
+                        44.116952
+                  ]
+            },
+            {
+                  "name": "Giardino del Molinaccio",
+                  "text": "Un mic loc de joacă din Cesena care invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.246669,
+                        44.132511
+                  ]
+            },
+            {
+                  "name": "Parco per Fabio",
+                  "text": "Un loc de joacă local din Cesena pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        12.227669,
+                        44.132401
+                  ]
             }
       ],
       "en": [
@@ -12276,6 +12969,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.238668,
                         44.137338
+                  ]
+            },
+            {
+                  "name": "Lago di Borgo Paglia",
+                  "text": "A peaceful lake near Cesena, ideal for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        12.214804,
+                        44.116952
+                  ]
+            },
+            {
+                  "name": "Giardino del Molinaccio",
+                  "text": "A small playground in Cesena that invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.246669,
+                        44.132511
+                  ]
+            },
+            {
+                  "name": "Parco per Fabio",
+                  "text": "A local playground in Cesena for children in the area.",
+                  "category": "family",
+                  "coords": [
+                        12.227669,
+                        44.132401
                   ]
             }
       ]
@@ -13180,6 +13900,60 @@ export const italyCitiesV2: POI[] = [
                         11.114373,
                         42.768214
                   ]
+            },
+            {
+                  "name": "lago parco via giotto",
+                  "text": "Der Lago Parco via Giotto in Grosseto ist ein kleiner See, der sich ideal für einen entspannten Spaziergang am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        11.103597,
+                        42.756502
+                  ]
+            },
+            {
+                  "name": "Parco Giovanni Paolo II",
+                  "text": "Der Parco Giovanni Paolo II in Grosseto ist ein öffentlicher Park mit einem Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.10658,
+                        42.756874
+                  ]
+            },
+            {
+                  "name": "Parco Guglielmo Grassellini \"Gughi\"",
+                  "text": "Der Parco Guglielmo Grassellini \"Gughi\" in Grosseto ist ein beliebter Ort für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.096522,
+                        42.757837
+                  ]
+            },
+            {
+                  "name": "Piazza Albegna",
+                  "text": "Die Piazza Albegna in Grosseto verfügt über einen Spielbereich, der zum Verweilen mit Kindern einlädt.",
+                  "category": "family",
+                  "coords": [
+                        11.119355,
+                        42.764529
+                  ]
+            },
+            {
+                  "name": "Parco Pino Arpioni",
+                  "text": "Der Parco Pino Arpioni in Grosseto bietet Spielgeräte und Platz für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        11.096586,
+                        42.769746
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio La Pira",
+                  "text": "Der Parco Giorgio La Pira in Grosseto ist ein kleiner Stadtpark mit einem Bereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.105121,
+                        42.752563
+                  ]
             }
       ],
       "hu": [
@@ -13406,6 +14180,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.114373,
                         42.768214
+                  ]
+            },
+            {
+                  "name": "lago parco via giotto",
+                  "text": "A grossetói lago parco via giotto egy kis tó, amely ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        11.103597,
+                        42.756502
+                  ]
+            },
+            {
+                  "name": "Parco Giovanni Paolo II",
+                  "text": "A grossetói Parco Giovanni Paolo II egy nyilvános park játszótérrel a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        11.10658,
+                        42.756874
+                  ]
+            },
+            {
+                  "name": "Parco Guglielmo Grassellini \"Gughi\"",
+                  "text": "A grossetói Parco Guglielmo Grassellini \"Gughi\" népszerű hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.096522,
+                        42.757837
+                  ]
+            },
+            {
+                  "name": "Piazza Albegna",
+                  "text": "A grossetói Piazza Albegna játszóterével hívogatja a gyerekes családokat.",
+                  "category": "family",
+                  "coords": [
+                        11.119355,
+                        42.764529
+                  ]
+            },
+            {
+                  "name": "Parco Pino Arpioni",
+                  "text": "A grossetói Parco Pino Arpioni játékokat és helyet kínál a családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        11.096586,
+                        42.769746
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio La Pira",
+                  "text": "A grossetói Parco Giorgio La Pira egy kis városi park, ahol a gyerekeknek is van hely.",
+                  "category": "family",
+                  "coords": [
+                        11.105121,
+                        42.752563
                   ]
             }
       ],
@@ -13634,6 +14462,60 @@ export const italyCitiesV2: POI[] = [
                         11.114373,
                         42.768214
                   ]
+            },
+            {
+                  "name": "lago parco via giotto",
+                  "text": "Lago parco via giotto din Grosseto este un lac mic, ideal pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.103597,
+                        42.756502
+                  ]
+            },
+            {
+                  "name": "Parco Giovanni Paolo II",
+                  "text": "Parco Giovanni Paolo II din Grosseto este un parc public cu un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.10658,
+                        42.756874
+                  ]
+            },
+            {
+                  "name": "Parco Guglielmo Grassellini \"Gughi\"",
+                  "text": "Parco Guglielmo Grassellini „Gughi” din Grosseto este un loc popular pentru copii unde aceștia se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        11.096522,
+                        42.757837
+                  ]
+            },
+            {
+                  "name": "Piazza Albegna",
+                  "text": "Piazza Albegna din Grosseto are o zonă de joacă ce invită familiile cu copii să petreacă timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.119355,
+                        42.764529
+                  ]
+            },
+            {
+                  "name": "Parco Pino Arpioni",
+                  "text": "Parco Pino Arpioni din Grosseto oferă echipamente de joacă și spațiu pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        11.096586,
+                        42.769746
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio La Pira",
+                  "text": "Parco Giorgio La Pira din Grosseto este un mic parc urban cu o zonă dedicată copiilor.",
+                  "category": "family",
+                  "coords": [
+                        11.105121,
+                        42.752563
+                  ]
             }
       ],
       "en": [
@@ -13860,6 +14742,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.114373,
                         42.768214
+                  ]
+            },
+            {
+                  "name": "lago parco via giotto",
+                  "text": "Lago parco via giotto in Grosseto is a small lake ideal for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.103597,
+                        42.756502
+                  ]
+            },
+            {
+                  "name": "Parco Giovanni Paolo II",
+                  "text": "Parco Giovanni Paolo II in Grosseto is a public park with a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        11.10658,
+                        42.756874
+                  ]
+            },
+            {
+                  "name": "Parco Guglielmo Grassellini \"Gughi\"",
+                  "text": "Parco Guglielmo Grassellini \"Gughi\" in Grosseto is a popular spot for children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        11.096522,
+                        42.757837
+                  ]
+            },
+            {
+                  "name": "Piazza Albegna",
+                  "text": "Piazza Albegna in Grosseto features a play area inviting for families with children.",
+                  "category": "family",
+                  "coords": [
+                        11.119355,
+                        42.764529
+                  ]
+            },
+            {
+                  "name": "Parco Pino Arpioni",
+                  "text": "Parco Pino Arpioni in Grosseto offers play equipment and space for family activities.",
+                  "category": "family",
+                  "coords": [
+                        11.096586,
+                        42.769746
+                  ]
+            },
+            {
+                  "name": "Parco Giorgio La Pira",
+                  "text": "Parco Giorgio La Pira in Grosseto is a small urban park with a dedicated area for children.",
+                  "category": "family",
+                  "coords": [
+                        11.105121,
+                        42.752563
                   ]
             }
       ]
@@ -15052,6 +15988,60 @@ export const italyCitiesV2: POI[] = [
                         10.914108,
                         43.932898
                   ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Ein malerischer See bei Pistoia, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Der Lago Gabbiano in Pistoia ist ein malerischer See, der sich ideal für einen entspannten Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "Die Laghi Primavera in Pistoia sind ruhige Gewässer, die eine schöne Kulisse für Erholung im Freien bieten.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "Das Bacino ex Cava Briganti in Pistoia ist ein See, der Besucher zu einem ruhigen Aufenthalt am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo in Pistoia ist ein lokaler Spielplatz, der Kindern einen sicheren Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Der Parco della Madonnina in Pistoia verfügt über einen Spielbereich, der ideal für Familien mit kleinen Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
             }
       ],
       "hu": [
@@ -15260,6 +16250,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.914108,
                         43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Festői tó Pistoia közelében, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "A pistoiai Lago Gabbiano egy festői tó, amely ideális egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "A pistoiai Laghi Primavera nyugodt vizei szép környezetet biztosítanak a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "A pistoiai Bacino ex Cava Briganti egy tó, amely nyugodt vízparti időtöltésre hívja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "A pistoiai Il Bastione Mediceo egy helyi játszótér, amely biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "A pistoiai Parco della Madonnina játszóterével ideális helyszín kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
                   ]
             }
       ],
@@ -15470,6 +16514,60 @@ export const italyCitiesV2: POI[] = [
                         10.914108,
                         43.932898
                   ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Un lac pitoresc lângă Pistoia, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Lago Gabbiano din Pistoia este un lac pitoresc, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "Laghi Primavera din Pistoia sunt ape liniștite care oferă un cadru frumos pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "Bacino ex Cava Briganti din Pistoia este un lac care invită vizitatorii la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo din Pistoia este un teren de joacă local care oferă copiilor un loc sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Parco della Madonnina din Pistoia are o zonă de joacă ideală pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
             }
       ],
       "en": [
@@ -15678,6 +16776,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.914108,
                         43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "A scenic lake near Pistoia, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Lago Gabbiano in Pistoia is a scenic lake ideal for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "The Laghi Primavera in Pistoia are calm waters providing a beautiful setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "The Bacino ex Cava Briganti in Pistoia is a lake inviting visitors to a quiet time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo in Pistoia is a local playground offering children a safe place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Parco della Madonnina in Pistoia features a play area ideal for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
                   ]
             }
       ]
@@ -16978,6 +18130,51 @@ export const italyCitiesV2: POI[] = [
                         15.78948,
                         40.645026
                   ]
+            },
+            {
+                  "name": "Lago del Pantano di Pignola",
+                  "text": "Der Lago del Pantano di Pignola bei Potenza ist ein ruhiger See, der sich hervorragend für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.747476,
+                        40.588746
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Rione Santa Croce",
+                  "text": "Der Parco Giochi Rione Santa Croce in Potenza ist ein familienfreundlicher Spielplatz für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        15.809359,
+                        40.637584
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Macchia Giocoli",
+                  "text": "Der Parco Giochi Macchia Giocoli in Potenza bietet verschiedene Spielgeräte für aktiven Familienspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.779124,
+                        40.64987
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Mariele Ventre",
+                  "text": "Der Parco Giochi Mariele Ventre in Potenza ist ein einladender Ort für Kinder zum Spielen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        15.791893,
+                        40.631817
+                  ]
+            },
+            {
+                  "name": "Parco giochi Francioso",
+                  "text": "Der Parco giochi Francioso in Potenza ist ein beliebter Treffpunkt für Familien mit kindgerechten Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        15.807818,
+                        40.634573
+                  ]
             }
       ],
       "hu": [
@@ -17033,6 +18230,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.78948,
                         40.645026
+                  ]
+            },
+            {
+                  "name": "Lago del Pantano di Pignola",
+                  "text": "A Potenza melletti Lago del Pantano di Pignola egy nyugodt tó, amely kiválóan alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        15.747476,
+                        40.588746
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Rione Santa Croce",
+                  "text": "A potenzai Parco Giochi Rione Santa Croce egy családbarát játszótér minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.809359,
+                        40.637584
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Macchia Giocoli",
+                  "text": "A potenzai Parco Giochi Macchia Giocoli különféle játékokat kínál az aktív családi szórakozáshoz a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        15.779124,
+                        40.64987
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Mariele Ventre",
+                  "text": "A potenzai Parco Giochi Mariele Ventre egy hívogató hely a gyermekek számára a játékhoz és a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.791893,
+                        40.631817
+                  ]
+            },
+            {
+                  "name": "Parco giochi Francioso",
+                  "text": "A potenzai Parco giochi Francioso népszerű találkozóhely a családok számára gyermekbarát játszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.807818,
+                        40.634573
                   ]
             }
       ],
@@ -17090,6 +18332,51 @@ export const italyCitiesV2: POI[] = [
                         15.78948,
                         40.645026
                   ]
+            },
+            {
+                  "name": "Lago del Pantano di Pignola",
+                  "text": "Lago del Pantano di Pignola de lângă Potenza este un lac liniștit, excelent pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.747476,
+                        40.588746
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Rione Santa Croce",
+                  "text": "Parco Giochi Rione Santa Croce din Potenza este un teren de joacă primitor pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.809359,
+                        40.637584
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Macchia Giocoli",
+                  "text": "Parco Giochi Macchia Giocoli din Potenza oferă diverse echipamente de joacă pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.779124,
+                        40.64987
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Mariele Ventre",
+                  "text": "Parco Giochi Mariele Ventre din Potenza este un loc primitor pentru copii, ideal pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.791893,
+                        40.631817
+                  ]
+            },
+            {
+                  "name": "Parco giochi Francioso",
+                  "text": "Parco giochi Francioso din Potenza este un loc de întâlnire popular pentru familii, cu zone de joacă adecvate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.807818,
+                        40.634573
+                  ]
             }
       ],
       "en": [
@@ -17145,6 +18432,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.78948,
                         40.645026
+                  ]
+            },
+            {
+                  "name": "Lago del Pantano di Pignola",
+                  "text": "The Lago del Pantano di Pignola near Potenza is a calm lake excellent for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        15.747476,
+                        40.588746
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Rione Santa Croce",
+                  "text": "Parco Giochi Rione Santa Croce in Potenza is a family-friendly playground for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.809359,
+                        40.637584
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Macchia Giocoli",
+                  "text": "Parco Giochi Macchia Giocoli in Potenza offers various play equipment for active family fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        15.779124,
+                        40.64987
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Mariele Ventre",
+                  "text": "Parco Giochi Mariele Ventre in Potenza is an inviting spot for children to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        15.791893,
+                        40.631817
+                  ]
+            },
+            {
+                  "name": "Parco giochi Francioso",
+                  "text": "Parco giochi Francioso in Potenza is a popular meeting spot for families with kid-friendly play areas.",
+                  "category": "family",
+                  "coords": [
+                        15.807818,
+                        40.634573
                   ]
             }
       ]
@@ -17734,6 +19066,24 @@ export const italyCitiesV2: POI[] = [
                         8.558468,
                         40.726716
                   ]
+            },
+            {
+                  "name": "Vasca di compenso Truncu Reale",
+                  "text": "Das Vasca di compenso Truncu Reale in Sassari ist ein Wasserbecken in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        8.478419,
+                        40.76408
+                  ]
+            },
+            {
+                  "name": "Giardino via Saragat, 54:70",
+                  "text": "Der Giardino via Saragat in Sassari ist eine Grünanlage mit einem Spielplatz für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        8.560477,
+                        40.745247
+                  ]
             }
       ],
       "hu": [
@@ -17861,6 +19211,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.558468,
                         40.726716
+                  ]
+            },
+            {
+                  "name": "Vasca di compenso Truncu Reale",
+                  "text": "A sassari Vasca di compenso Truncu Reale egy víztározó nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.478419,
+                        40.76408
+                  ]
+            },
+            {
+                  "name": "Giardino via Saragat, 54:70",
+                  "text": "A sassari Giardino via Saragat egy zöldövezet játszótérrel a környékbeliek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.560477,
+                        40.745247
                   ]
             }
       ],
@@ -17990,6 +19358,24 @@ export const italyCitiesV2: POI[] = [
                         8.558468,
                         40.726716
                   ]
+            },
+            {
+                  "name": "Vasca di compenso Truncu Reale",
+                  "text": "Vasca di compenso Truncu Reale din Sassari este un bazin de apă într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        8.478419,
+                        40.76408
+                  ]
+            },
+            {
+                  "name": "Giardino via Saragat, 54:70",
+                  "text": "Giardino via Saragat din Sassari este un spațiu verde cu un loc de joacă pentru comunitate.",
+                  "category": "family",
+                  "coords": [
+                        8.560477,
+                        40.745247
+                  ]
             }
       ],
       "en": [
@@ -18117,6 +19503,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.558468,
                         40.726716
+                  ]
+            },
+            {
+                  "name": "Vasca di compenso Truncu Reale",
+                  "text": "Vasca di compenso Truncu Reale in Sassari is a water basin set in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.478419,
+                        40.76408
+                  ]
+            },
+            {
+                  "name": "Giardino via Saragat, 54:70",
+                  "text": "Giardino via Saragat in Sassari is a green space with a playground for the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        8.560477,
+                        40.745247
                   ]
             }
       ]
@@ -18653,6 +20057,51 @@ export const italyCitiesV2: POI[] = [
                         8.481535,
                         44.304393
                   ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Der Parco giochi del Priamar in Savona bietet Kindern eine unterhaltsame Spielumgebung in historischer Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Das Bowling Savona bietet Unterhaltung und verschiedene Spiele für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Die Giardini principessa Mafalda di Savoia in Savona laden Familien mit ihrem Spielbereich zum Verweilen im Grünen ein.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Die Piazza Maestri dell'artigianato in Savona verfügt über einen Spielplatz, der ideal für eine Pause mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Der Parco Giochi di Villa Faraggiana in Savona ist ein schöner Ort für Kinder zum Spielen in einer gepflegten Anlage.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
             }
       ],
       "hu": [
@@ -18825,6 +20274,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.481535,
                         44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "A savonai Parco giochi del Priamar szórakoztató játékkörnyezetet kínál a gyerekeknek történelmi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "A Bowling Savona szórakozást és különféle játékokat kínál egy vidám családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "A savonai Giardini principessa Mafalda di Savoia játszóterével hívja a családokat a zöldben való kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "A savonai Piazza Maestri dell'artigianato játszótérrel rendelkezik, amely ideális egy kis szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "A savonai Parco Giochi di Villa Faraggiana szép hely a gyermekek számára a játékhoz egy gondozott környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
                   ]
             }
       ],
@@ -18999,6 +20493,51 @@ export const italyCitiesV2: POI[] = [
                         8.481535,
                         44.304393
                   ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Parco giochi del Priamar din Savona oferă copiilor un mediu de joacă distractiv într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Bowling Savona oferă divertisment și diverse jocuri pentru o ieșire plăcută în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Giardini principessa Mafalda di Savoia din Savona invită familiile să se relaxeze în aer liber în zona sa de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Piazza Maestri dell'artigianato din Savona are un teren de joacă ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Parco Giochi di Villa Faraggiana din Savona este un loc frumos pentru joaca copiilor într-un cadru îngrijit.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
             }
       ],
       "en": [
@@ -19171,6 +20710,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.481535,
                         44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Parco giochi del Priamar in Savona offers children a fun play environment in a historical setting.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Bowling Savona provides entertainment and various games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Giardini principessa Mafalda di Savoia in Savona invites families to relax outdoors in its play area.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Piazza Maestri dell'artigianato in Savona features a playground ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Parco Giochi di Villa Faraggiana in Savona is a lovely spot for children to play in well-kept surroundings.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
                   ]
             }
       ]
@@ -20723,6 +22307,51 @@ export const italyCitiesV2: POI[] = [
                         9.082813,
                         45.805543
                   ]
+            },
+            {
+                  "name": "Laghetto del Ghitello",
+                  "text": "Der Laghetto del Ghitello in Como ist ein kleiner, ruhiger See, der ideal für einen kurzen Spaziergang am Wasser ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.01258,
+                        45.850389
+                  ]
+            },
+            {
+                  "name": "Laghetto di Cardina",
+                  "text": "Der Laghetto di Cardina in Como bietet eine malerische Kulisse für erholsame Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.05605,
+                        45.82776
+                  ]
+            },
+            {
+                  "name": "Parco Villa Franceschini",
+                  "text": "Der Parco Villa Franceschini in Como ist eine gepflegte Grünanlage mit Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.097125,
+                        45.818948
+                  ]
+            },
+            {
+                  "name": "via giussani",
+                  "text": "Der Spielplatz in der via giussani in Como bietet lokale Spielmöglichkeiten für Familien in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.065984,
+                        45.790745
+                  ]
+            },
+            {
+                  "name": "Prestino",
+                  "text": "Der Spielplatz in Prestino, Como, ist ein beliebter Ort für Kinder zum Spielen und für soziale Kontakte.",
+                  "category": "family",
+                  "coords": [
+                        9.058439,
+                        45.800401
+                  ]
             }
       ],
       "hu": [
@@ -21003,6 +22632,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.082813,
                         45.805543
+                  ]
+            },
+            {
+                  "name": "Laghetto del Ghitello",
+                  "text": "A comói Laghetto del Ghitello egy kicsi, nyugodt tó, amely ideális egy rövid vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.01258,
+                        45.850389
+                  ]
+            },
+            {
+                  "name": "Laghetto di Cardina",
+                  "text": "A comói Laghetto di Cardina festői környezetet biztosít a pihentető természeti pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.05605,
+                        45.82776
+                  ]
+            },
+            {
+                  "name": "Parco Villa Franceschini",
+                  "text": "A comói Parco Villa Franceschini egy gondozott park játszási lehetőségekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.097125,
+                        45.818948
+                  ]
+            },
+            {
+                  "name": "via giussani",
+                  "text": "A comói via giussani játszótere helyi kikapcsolódási lehetőséget nyújt a környékbeli családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.065984,
+                        45.790745
+                  ]
+            },
+            {
+                  "name": "Prestino",
+                  "text": "A comói Prestino játszótere népszerű hely a gyermekek számára a játékhoz és a közösségi élethez.",
+                  "category": "family",
+                  "coords": [
+                        9.058439,
+                        45.800401
                   ]
             }
       ],
@@ -21285,6 +22959,51 @@ export const italyCitiesV2: POI[] = [
                         9.082813,
                         45.805543
                   ]
+            },
+            {
+                  "name": "Laghetto del Ghitello",
+                  "text": "Laghetto del Ghitello din Como este un lac mic și liniștit, ideal pentru o scurtă plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.01258,
+                        45.850389
+                  ]
+            },
+            {
+                  "name": "Laghetto di Cardina",
+                  "text": "Laghetto di Cardina din Como oferă un cadru pitoresc pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.05605,
+                        45.82776
+                  ]
+            },
+            {
+                  "name": "Parco Villa Franceschini",
+                  "text": "Parco Villa Franceschini din Como este un parc îngrijit, cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.097125,
+                        45.818948
+                  ]
+            },
+            {
+                  "name": "via giussani",
+                  "text": "Terenul de joacă din via giussani, Como, oferă facilități locale de recreere pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        9.065984,
+                        45.790745
+                  ]
+            },
+            {
+                  "name": "Prestino",
+                  "text": "Terenul de joacă din Prestino, Como, este un loc popular pentru copii, ideal pentru joacă și socializare.",
+                  "category": "family",
+                  "coords": [
+                        9.058439,
+                        45.800401
+                  ]
             }
       ],
       "en": [
@@ -21565,6 +23284,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.082813,
                         45.805543
+                  ]
+            },
+            {
+                  "name": "Laghetto del Ghitello",
+                  "text": "Laghetto del Ghitello in Como is a small, peaceful lake ideal for a short walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.01258,
+                        45.850389
+                  ]
+            },
+            {
+                  "name": "Laghetto di Cardina",
+                  "text": "Laghetto di Cardina in Como offers a picturesque setting for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.05605,
+                        45.82776
+                  ]
+            },
+            {
+                  "name": "Parco Villa Franceschini",
+                  "text": "Parco Villa Franceschini in Como is a well-maintained green area with play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.097125,
+                        45.818948
+                  ]
+            },
+            {
+                  "name": "via giussani",
+                  "text": "The playground in via giussani in Como provides local play facilities for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        9.065984,
+                        45.790745
+                  ]
+            },
+            {
+                  "name": "Prestino",
+                  "text": "The playground in Prestino, Como, is a popular spot for children to play and socialize.",
+                  "category": "family",
+                  "coords": [
+                        9.058439,
+                        45.800401
                   ]
             }
       ]
@@ -22532,6 +24296,33 @@ export const italyCitiesV2: POI[] = [
                         13.700909,
                         42.657043
                   ]
+            },
+            {
+                  "name": "Lago Del Sole",
+                  "text": "Der Lago Del Sole in Teramo ist ein friedliches Gewässer, das sich hervorragend für eine entspannte Pause eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.750116,
+                        42.668231
+                  ]
+            },
+            {
+                  "name": "Vecchio Lago Cardelli",
+                  "text": "Der Vecchio Lago Cardelli in Teramo bietet Besuchern eine ruhige Atmosphäre für einen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        13.755537,
+                        42.670229
+                  ]
+            },
+            {
+                  "name": "Giardini Pasquale De Antoniis",
+                  "text": "Die Giardini Pasquale De Antoniis in Teramo sind eine schöne Parkanlage mit Spielbereichen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.709409,
+                        42.655649
+                  ]
             }
       ],
       "hu": [
@@ -22659,6 +24450,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.700909,
                         42.657043
+                  ]
+            },
+            {
+                  "name": "Lago Del Sole",
+                  "text": "A teramói Lago Del Sole egy békés tó, amely kiválóan alkalmas egy pihentető szünetre.",
+                  "category": "natural",
+                  "coords": [
+                        13.750116,
+                        42.668231
+                  ]
+            },
+            {
+                  "name": "Vecchio Lago Cardelli",
+                  "text": "A teramói Vecchio Lago Cardelli nyugodt légkört kínál a látogatóknak egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        13.755537,
+                        42.670229
+                  ]
+            },
+            {
+                  "name": "Giardini Pasquale De Antoniis",
+                  "text": "A teramói Giardini Pasquale De Antoniis egy szép park gyermekjátszóterekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.709409,
+                        42.655649
                   ]
             }
       ],
@@ -22788,6 +24606,33 @@ export const italyCitiesV2: POI[] = [
                         13.700909,
                         42.657043
                   ]
+            },
+            {
+                  "name": "Lago Del Sole",
+                  "text": "Lago Del Sole din Teramo este o apă liniștită, excelentă pentru o pauză de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.750116,
+                        42.668231
+                  ]
+            },
+            {
+                  "name": "Vecchio Lago Cardelli",
+                  "text": "Vecchio Lago Cardelli din Teramo oferă vizitatorilor o atmosferă liniștită pentru o plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        13.755537,
+                        42.670229
+                  ]
+            },
+            {
+                  "name": "Giardini Pasquale De Antoniis",
+                  "text": "Giardini Pasquale De Antoniis din Teramo este un parc frumos cu zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.709409,
+                        42.655649
+                  ]
             }
       ],
       "en": [
@@ -22915,6 +24760,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.700909,
                         42.657043
+                  ]
+            },
+            {
+                  "name": "Lago Del Sole",
+                  "text": "Lago Del Sole in Teramo is a peaceful body of water, great for a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        13.750116,
+                        42.668231
+                  ]
+            },
+            {
+                  "name": "Vecchio Lago Cardelli",
+                  "text": "Vecchio Lago Cardelli in Teramo offers visitors a quiet atmosphere for a walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        13.755537,
+                        42.670229
+                  ]
+            },
+            {
+                  "name": "Giardini Pasquale De Antoniis",
+                  "text": "Giardini Pasquale De Antoniis in Teramo is a beautiful park with play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        13.709409,
+                        42.655649
                   ]
             }
       ]
@@ -23081,6 +24953,24 @@ export const italyCitiesV2: POI[] = [
                         7.656159,
                         44.644408
                   ]
+            },
+            {
+                  "name": "Lago Mairetta",
+                  "text": "Der Lago Mairetta in Savigliano ist ein ruhiges Gewässer, das zum Beobachten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.676062,
+                        44.696295
+                  ]
+            },
+            {
+                  "name": "Lago Isola",
+                  "text": "Der Lago Isola in Savigliano bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        7.679122,
+                        44.693657
+                  ]
             }
       ],
       "hu": [
@@ -23109,6 +24999,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.656159,
                         44.644408
+                  ]
+            },
+            {
+                  "name": "Lago Mairetta",
+                  "text": "A saviglianói Lago Mairetta egy csendes tó, amely a természet megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        7.676062,
+                        44.696295
+                  ]
+            },
+            {
+                  "name": "Lago Isola",
+                  "text": "A saviglianói Lago Isola békés hangulatot kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        7.679122,
+                        44.693657
                   ]
             }
       ],
@@ -23139,6 +25047,24 @@ export const italyCitiesV2: POI[] = [
                         7.656159,
                         44.644408
                   ]
+            },
+            {
+                  "name": "Lago Mairetta",
+                  "text": "Lago Mairetta din Savigliano este o întindere de apă liniștită care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        7.676062,
+                        44.696295
+                  ]
+            },
+            {
+                  "name": "Lago Isola",
+                  "text": "Lago Isola din Savigliano oferă o atmosferă pașnică pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        7.679122,
+                        44.693657
+                  ]
             }
       ],
       "en": [
@@ -23167,6 +25093,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.656159,
                         44.644408
+                  ]
+            },
+            {
+                  "name": "Lago Mairetta",
+                  "text": "Lago Mairetta in Savigliano is a quiet body of water inviting nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        7.676062,
+                        44.696295
+                  ]
+            },
+            {
+                  "name": "Lago Isola",
+                  "text": "Lago Isola in Savigliano offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.679122,
+                        44.693657
                   ]
             }
       ]
@@ -23315,6 +25259,15 @@ export const italyCitiesV2: POI[] = [
                         12.257709,
                         45.688551
                   ]
+            },
+            {
+                  "name": "Lago Antille",
+                  "text": "Der Lago Antille in Treviso ist ein malerischer See, der zu einem erholsamen Ausflug ins Grüne einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.199865,
+                        45.68604
+                  ]
             }
       ],
       "hu": [
@@ -23415,6 +25368,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.257709,
                         45.688551
+                  ]
+            },
+            {
+                  "name": "Lago Antille",
+                  "text": "A trevisói Lago Antille egy festői tó, amely pihentető kirándulásra hív a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        12.199865,
+                        45.68604
                   ]
             }
       ],
@@ -23517,6 +25479,15 @@ export const italyCitiesV2: POI[] = [
                         12.257709,
                         45.688551
                   ]
+            },
+            {
+                  "name": "Lago Antille",
+                  "text": "Lago Antille din Treviso este un lac pitoresc care invită la o excursie relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.199865,
+                        45.68604
+                  ]
             }
       ],
       "en": [
@@ -23617,6 +25588,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.257709,
                         45.688551
+                  ]
+            },
+            {
+                  "name": "Lago Antille",
+                  "text": "Lago Antille in Treviso is a scenic lake inviting for a relaxing trip into the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        12.199865,
+                        45.68604
                   ]
             }
       ]
@@ -25052,6 +27032,33 @@ export const italyCitiesV2: POI[] = [
                         12.89997,
                         43.904262
                   ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Der Parco Giochi Don Gaudiano in Pesaro bietet eine sichere und fröhliche Spielumgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Der Parco giochi via Bragaglia in Pesaro ist ein praktischer Spielbereich für Kinder in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia in Pesaro ist ein farbenfroher Spielplatz, der Kindern viel Raum für Fantasie und Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
             }
       ],
       "hu": [
@@ -25287,6 +27294,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.89997,
                         43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "A pesarói Parco Giochi Don Gaudiano biztonságos és vidám játékkörnyezetet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "A pesarói Parco giochi via Bragaglia egy praktikus játszótér a városi gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "A pesarói Gigilandia egy színes játszótér, amely sok helyet kínál a gyerekeknek a fantáziához és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
                   ]
             }
       ],
@@ -25524,6 +27558,33 @@ export const italyCitiesV2: POI[] = [
                         12.89997,
                         43.904262
                   ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Parco Giochi Don Gaudiano din Pesaro oferă un mediu de joacă sigur și vesel pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Parco giochi via Bragaglia din Pesaro este o zonă de joacă practică pentru copiii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia din Pesaro este un teren de joacă colorat care oferă copiilor mult spațiu pentru fantezie și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
             }
       ],
       "en": [
@@ -25759,6 +27820,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.89997,
                         43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Parco Giochi Don Gaudiano in Pesaro offers a safe and cheerful play environment for families.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Parco giochi via Bragaglia in Pesaro is a convenient play area for children in the city.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia in Pesaro is a colorful playground offering children plenty of space for imagination and movement.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
                   ]
             }
       ]
@@ -26537,6 +28625,42 @@ export const italyCitiesV2: POI[] = [
                         12.902674,
                         41.46441
                   ]
+            },
+            {
+                  "name": "Lago di Fogliano",
+                  "text": "Der Lago di Fogliano in Latina ist ein malerischer Küstensee, der ideal für Spaziergänge in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.898267,
+                        41.400231
+                  ]
+            },
+            {
+                  "name": "Laghetto di Parco San Marco",
+                  "text": "Der Laghetto di Parco San Marco in Latina ist ein kleiner Parkteich in entspannter Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        12.910233,
+                        41.459254
+                  ]
+            },
+            {
+                  "name": "Gommalandia",
+                  "text": "Gommalandia in Latina ist ein Indoor-Spielpark mit Hüpfburgen für aktiven Kinderspaß.",
+                  "category": "family",
+                  "coords": [
+                        12.889894,
+                        41.459677
+                  ]
+            },
+            {
+                  "name": "Piazza Ilaria Alpi",
+                  "text": "Die Piazza Ilaria Alpi in Latina bietet einen Spielplatz für Kinder inmitten der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        12.919564,
+                        41.463475
+                  ]
             }
       ],
       "hu": [
@@ -26601,6 +28725,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.902674,
                         41.46441
+                  ]
+            },
+            {
+                  "name": "Lago di Fogliano",
+                  "text": "A latinai Lago di Fogliano egy festői parti tó, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.898267,
+                        41.400231
+                  ]
+            },
+            {
+                  "name": "Laghetto di Parco San Marco",
+                  "text": "A latinai Laghetto di Parco San Marco egy kis parki tó nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.910233,
+                        41.459254
+                  ]
+            },
+            {
+                  "name": "Gommalandia",
+                  "text": "A latinai Gommalandia egy beltéri játszópark ugrálóvárakkal az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.889894,
+                        41.459677
+                  ]
+            },
+            {
+                  "name": "Piazza Ilaria Alpi",
+                  "text": "A latinai Piazza Ilaria Alpi játszóteret kínál a gyerekeknek a város közepén.",
+                  "category": "family",
+                  "coords": [
+                        12.919564,
+                        41.463475
                   ]
             }
       ],
@@ -26667,6 +28827,42 @@ export const italyCitiesV2: POI[] = [
                         12.902674,
                         41.46441
                   ]
+            },
+            {
+                  "name": "Lago di Fogliano",
+                  "text": "Lago di Fogliano din Latina este un lac de coastă pitoresc, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.898267,
+                        41.400231
+                  ]
+            },
+            {
+                  "name": "Laghetto di Parco San Marco",
+                  "text": "Laghetto di Parco San Marco din Latina este un mic iaz de parc într-un cadru relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        12.910233,
+                        41.459254
+                  ]
+            },
+            {
+                  "name": "Gommalandia",
+                  "text": "Gommalandia din Latina este un parc de joacă interior cu castele gonflabile pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        12.889894,
+                        41.459677
+                  ]
+            },
+            {
+                  "name": "Piazza Ilaria Alpi",
+                  "text": "Piazza Ilaria Alpi din Latina oferă un loc de joacă pentru copii în mijlocul orașului.",
+                  "category": "family",
+                  "coords": [
+                        12.919564,
+                        41.463475
+                  ]
             }
       ],
       "en": [
@@ -26731,6 +28927,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.902674,
                         41.46441
+                  ]
+            },
+            {
+                  "name": "Lago di Fogliano",
+                  "text": "Lago di Fogliano in Latina is a scenic coastal lake ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.898267,
+                        41.400231
+                  ]
+            },
+            {
+                  "name": "Laghetto di Parco San Marco",
+                  "text": "Laghetto di Parco San Marco in Latina is a small park pond in a relaxed setting.",
+                  "category": "natural",
+                  "coords": [
+                        12.910233,
+                        41.459254
+                  ]
+            },
+            {
+                  "name": "Gommalandia",
+                  "text": "Gommalandia in Latina is an indoor play park with bouncy castles for active kid fun.",
+                  "category": "family",
+                  "coords": [
+                        12.889894,
+                        41.459677
+                  ]
+            },
+            {
+                  "name": "Piazza Ilaria Alpi",
+                  "text": "Piazza Ilaria Alpi in Latina offers a playground for children in the city center.",
+                  "category": "family",
+                  "coords": [
+                        12.919564,
+                        41.463475
                   ]
             }
       ]
@@ -27896,6 +30128,15 @@ export const italyCitiesV2: POI[] = [
                         8.829482,
                         45.625883
                   ]
+            },
+            {
+                  "name": "FormicAmica",
+                  "text": "FormicAmica in Busto Arsizio ist ein thematisch gestalteter Spielplatz, der Kindern viel Spaß bereitet.",
+                  "category": "family",
+                  "coords": [
+                        8.861175,
+                        45.628634
+                  ]
             }
       ],
       "hu": [
@@ -28095,6 +30336,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.829482,
                         45.625883
+                  ]
+            },
+            {
+                  "name": "FormicAmica",
+                  "text": "A Busto Arsizio-i FormicAmica egy tematikus játszótér, amely nagy örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.861175,
+                        45.628634
                   ]
             }
       ],
@@ -28296,6 +30546,15 @@ export const italyCitiesV2: POI[] = [
                         8.829482,
                         45.625883
                   ]
+            },
+            {
+                  "name": "FormicAmica",
+                  "text": "FormicAmica din Busto Arsizio este un teren de joacă tematic care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.861175,
+                        45.628634
+                  ]
             }
       ],
       "en": [
@@ -28495,6 +30754,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.829482,
                         45.625883
+                  ]
+            },
+            {
+                  "name": "FormicAmica",
+                  "text": "FormicAmica in Busto Arsizio is a themed playground providing lots of fun for children.",
+                  "category": "family",
+                  "coords": [
+                        8.861175,
+                        45.628634
                   ]
             }
       ]
@@ -29075,6 +31343,15 @@ export const italyCitiesV2: POI[] = [
                         16.282549,
                         38.96995
                   ]
+            },
+            {
+                  "name": "Serbatoio comunale",
+                  "text": "Der Serbatoio comunale in Lamezia Terme ist ein lokales Wasserreservoir mit funktionalem Charakter.",
+                  "category": "natural",
+                  "coords": [
+                        16.323476,
+                        39.010637
+                  ]
             }
       ],
       "hu": [
@@ -29121,6 +31398,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         16.282549,
                         38.96995
+                  ]
+            },
+            {
+                  "name": "Serbatoio comunale",
+                  "text": "A Lamezia Terme-i Serbatoio comunale egy helyi víztározó funkcionális jelleggel.",
+                  "category": "natural",
+                  "coords": [
+                        16.323476,
+                        39.010637
                   ]
             }
       ],
@@ -29169,6 +31455,15 @@ export const italyCitiesV2: POI[] = [
                         16.282549,
                         38.96995
                   ]
+            },
+            {
+                  "name": "Serbatoio comunale",
+                  "text": "Serbatoio comunale din Lamezia Terme este un rezervor local de apă cu caracter funcțional.",
+                  "category": "natural",
+                  "coords": [
+                        16.323476,
+                        39.010637
+                  ]
             }
       ],
       "en": [
@@ -29215,6 +31510,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         16.282549,
                         38.96995
+                  ]
+            },
+            {
+                  "name": "Serbatoio comunale",
+                  "text": "Serbatoio comunale in Lamezia Terme is a local water reservoir with a functional character.",
+                  "category": "natural",
+                  "coords": [
+                        16.323476,
+                        39.010637
                   ]
             }
       ]
@@ -29381,6 +31685,15 @@ export const italyCitiesV2: POI[] = [
                         12.510961,
                         38.016618
                   ]
+            },
+            {
+                  "name": "Piazzale dei Pini",
+                  "text": "Der Piazzale dei Pini in Trapani verfügt über Spielmöglichkeiten, die ideal für einen Familienbesuch sind.",
+                  "category": "family",
+                  "coords": [
+                        12.516223,
+                        38.018303
+                  ]
             }
       ],
       "hu": [
@@ -29499,6 +31812,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.510961,
                         38.016618
+                  ]
+            },
+            {
+                  "name": "Piazzale dei Pini",
+                  "text": "A trapani Piazzale dei Pini játszási lehetőségekkel rendelkezik, amelyek ideálisak egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.516223,
+                        38.018303
                   ]
             }
       ],
@@ -29619,6 +31941,15 @@ export const italyCitiesV2: POI[] = [
                         12.510961,
                         38.016618
                   ]
+            },
+            {
+                  "name": "Piazzale dei Pini",
+                  "text": "Piazzale dei Pini din Trapani are facilități de joacă ideale pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.516223,
+                        38.018303
+                  ]
             }
       ],
       "en": [
@@ -29737,6 +32068,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.510961,
                         38.016618
+                  ]
+            },
+            {
+                  "name": "Piazzale dei Pini",
+                  "text": "Piazzale dei Pini in Trapani features play facilities ideal for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        12.516223,
+                        38.018303
                   ]
             }
       ]
@@ -31172,6 +33512,15 @@ export const italyCitiesV2: POI[] = [
                         14.79092,
                         40.91303
                   ]
+            },
+            {
+                  "name": "Serbatoio Alto Calore",
+                  "text": "Der Serbatoio Alto Calore in Avellino ist ein ruhiger Stausee, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        14.800279,
+                        40.922691
+                  ]
             }
       ],
       "hu": [
@@ -31209,6 +33558,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.79092,
                         40.91303
+                  ]
+            },
+            {
+                  "name": "Serbatoio Alto Calore",
+                  "text": "Az avellinói Serbatoio Alto Calore egy nyugodt víztározó, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        14.800279,
+                        40.922691
                   ]
             }
       ],
@@ -31248,6 +33606,15 @@ export const italyCitiesV2: POI[] = [
                         14.79092,
                         40.91303
                   ]
+            },
+            {
+                  "name": "Serbatoio Alto Calore",
+                  "text": "Serbatoio Alto Calore din Avellino este un rezervor liniștit care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        14.800279,
+                        40.922691
+                  ]
             }
       ],
       "en": [
@@ -31285,6 +33652,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.79092,
                         40.91303
+                  ]
+            },
+            {
+                  "name": "Serbatoio Alto Calore",
+                  "text": "The Serbatoio Alto Calore in Avellino is a calm reservoir that blends harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.800279,
+                        40.922691
                   ]
             }
       ]
@@ -32162,6 +34538,15 @@ export const italyCitiesV2: POI[] = [
                         13.264361,
                         41.2899
                   ]
+            },
+            {
+                  "name": "Lago di Fondi",
+                  "text": "Der Lago di Fondi bei Terracina ist ein großer See, der für seine natürliche Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.333298,
+                        41.322744
+                  ]
             }
       ],
       "hu": [
@@ -32217,6 +34602,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.264361,
                         41.2899
+                  ]
+            },
+            {
+                  "name": "Lago di Fondi",
+                  "text": "A Terracina melletti Lago di Fondi egy nagy tó, amely természeti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.333298,
+                        41.322744
                   ]
             }
       ],
@@ -32274,6 +34668,15 @@ export const italyCitiesV2: POI[] = [
                         13.264361,
                         41.2899
                   ]
+            },
+            {
+                  "name": "Lago di Fondi",
+                  "text": "Lago di Fondi de lângă Terracina este un lac mare, cunoscut pentru peisajul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        13.333298,
+                        41.322744
+                  ]
             }
       ],
       "en": [
@@ -32329,6 +34732,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.264361,
                         41.2899
+                  ]
+            },
+            {
+                  "name": "Lago di Fondi",
+                  "text": "Lago di Fondi near Terracina is a large lake known for its natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.333298,
+                        41.322744
                   ]
             }
       ]
@@ -33637,7 +36049,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-scandicci-cities-v2.webp",
   },
   {
-    id: "italy-velletri-cities-v2",
+    id: "italy-velletri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nemisee",
+                  "text": "Der Lake Nemi in der Nähe von Velletri ist ein vulkanischer Kratersee mit beeindruckender Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        12.702776,
+                        41.713298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago di Nemi",
+                  "text": "A Velletri közeli Lake Nemi egy vulkáni krátertó, lenyűgöző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        12.702776,
+                        41.713298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago di Nemi",
+                  "text": "Lacul Nemi de lângă Velletri este un lac vulcanic de crater cu priveliști impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        12.702776,
+                        41.713298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Nemi",
+                  "text": "Lake Nemi near Velletri is a volcanic crater lake with impressive views.",
+                  "category": "natural",
+                  "coords": [
+                        12.702776,
+                        41.713298
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Velletri", hu: "Velletri", ro: "Velletri", en: "Velletri" },
@@ -33791,6 +36248,15 @@ export const italyCitiesV2: POI[] = [
                         13.675214,
                         41.248096
                   ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game in Formia bietet spannende Unterhaltung und Spiele für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
             }
       ],
       "hu": [
@@ -33900,6 +36366,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.675214,
                         41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "A formiai XRLaser Game izgalmas szórakozást és játékokat kínál fiataloknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
                   ]
             }
       ],
@@ -34011,6 +36486,15 @@ export const italyCitiesV2: POI[] = [
                         13.675214,
                         41.248096
                   ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game din Formia oferă divertisment captivant și jocuri pentru tineri și familii.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
             }
       ],
       "en": [
@@ -34120,6 +36604,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.675214,
                         41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game in Formia offers exciting entertainment and games for teens and families.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
                   ]
             }
       ]
@@ -34745,6 +37238,24 @@ export const italyCitiesV2: POI[] = [
                         13.256059,
                         41.693145
                   ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Der Laghetto Tecchiena in Ferentino ist ein kleiner lokaler Teich für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
+            },
+            {
+                  "name": "Giochi per bambini",
+                  "text": "Giochi per bambini in Ferentino ist ein Spielbereich, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        13.27383,
+                        41.682432
+                  ]
             }
       ],
       "hu": [
@@ -34782,6 +37293,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.256059,
                         41.693145
+                  ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "A ferentinói Laghetto Tecchiena egy kis helyi tó a nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
+            },
+            {
+                  "name": "Giochi per bambini",
+                  "text": "A ferentinói Giochi per bambini egy kifejezetten gyerekeknek kialakított játszótér.",
+                  "category": "family",
+                  "coords": [
+                        13.27383,
+                        41.682432
                   ]
             }
       ],
@@ -34821,6 +37350,24 @@ export const italyCitiesV2: POI[] = [
                         13.256059,
                         41.693145
                   ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Laghetto Tecchiena din Ferentino este un mic iaz local pentru momente liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
+            },
+            {
+                  "name": "Giochi per bambini",
+                  "text": "Giochi per bambini din Ferentino este o zonă de joacă adaptată special nevoilor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        13.27383,
+                        41.682432
+                  ]
             }
       ],
       "en": [
@@ -34858,6 +37405,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.256059,
                         41.693145
+                  ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Laghetto Tecchiena in Ferentino is a small local pond for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
+            },
+            {
+                  "name": "Giochi per bambini",
+                  "text": "Giochi per bambini in Ferentino is a play area tailored specifically for children's needs.",
+                  "category": "family",
+                  "coords": [
+                        13.27383,
+                        41.682432
                   ]
             }
       ]
@@ -35249,6 +37814,15 @@ export const italyCitiesV2: POI[] = [
                         13.334839,
                         41.724418
                   ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Der Laghetto Tecchiena in Alatri bietet eine entspannte Atmosphäre am kleinen Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
             }
       ],
       "hu": [
@@ -35304,6 +37878,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.334839,
                         41.724418
+                  ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Az alatri Laghetto Tecchiena pihentető hangulatot áraszt a kis vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
                   ]
             }
       ],
@@ -35361,6 +37944,15 @@ export const italyCitiesV2: POI[] = [
                         13.334839,
                         41.724418
                   ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Laghetto Tecchiena din Alatri oferă o atmosferă relaxată lângă o mică întindere de apă.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
+                  ]
             }
       ],
       "en": [
@@ -35416,6 +38008,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.334839,
                         41.724418
+                  ]
+            },
+            {
+                  "name": "Laghetto Tecchiena",
+                  "text": "Laghetto Tecchiena in Alatri offers a relaxed atmosphere by a small body of water.",
+                  "category": "natural",
+                  "coords": [
+                        13.330841,
+                        41.686549
                   ]
             }
       ]
@@ -35942,6 +38543,15 @@ export const italyCitiesV2: POI[] = [
                         13.673261,
                         41.547556
                   ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Der Lago dei Cigni in Roccasecca ist ein idyllischer See, der oft von Wasservögeln besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        13.70825,
+                        41.518302
+                  ]
             }
       ],
       "hu": [
@@ -35952,6 +38562,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.673261,
                         41.547556
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "A roccaseccai Lago dei Cigni egy idilli tó, amelyet gyakran látogatnak vízimadarak.",
+                  "category": "natural",
+                  "coords": [
+                        13.70825,
+                        41.518302
                   ]
             }
       ],
@@ -35964,6 +38583,15 @@ export const italyCitiesV2: POI[] = [
                         13.673261,
                         41.547556
                   ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Lago dei Cigni din Roccasecca este un lac idilic, vizitat adesea de păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        13.70825,
+                        41.518302
+                  ]
             }
       ],
       "en": [
@@ -35974,6 +38602,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.673261,
                         41.547556
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Lago dei Cigni in Roccasecca is an idyllic lake often visited by water birds.",
+                  "category": "natural",
+                  "coords": [
+                        13.70825,
+                        41.518302
                   ]
             }
       ]
@@ -36112,7 +38749,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-castro-dei-volsci-cities-v2.webp",
   },
   {
-    id: "italy-ceprano-cities-v2",
+    id: "italy-ceprano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Der Lago di San Giacomo in Ceprano ist ein ruhiger Ort für Naturfreunde am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "A cepranói Lago di San Giacomo egy csendes hely a természetbarátok számára a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo din Ceprano este un loc liniștit pentru iubitorii de natură de pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo in Ceprano is a quiet spot for nature lovers by the water.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Ceprano", hu: "Ceprano", ro: "Ceprano", en: "Ceprano" },
@@ -36292,7 +38974,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-pofi-cities-v2.webp",
   },
   {
-    id: "italy-falvaterra-cities-v2",
+    id: "italy-falvaterra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Der Lago di San Giacomo in Falvaterra lädt zu erholsamen Spaziergängen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "A falvaterrai Lago di San Giacomo pihentető természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo din Falvaterra invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo in Falvaterra invites relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Falvaterra", hu: "Falvaterra", ro: "Falvaterra", en: "Falvaterra" },
@@ -36554,6 +39281,15 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Der Lago di San Giacomo in Colfelice ist ein friedliches Gewässer in ländlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
             }
       ],
       "hu": [
@@ -36564,6 +39300,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "A colfelicei Lago di San Giacomo egy békés tó vidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
                   ]
             }
       ],
@@ -36576,6 +39321,15 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo din Colfelice este o întindere de apă pașnică într-un cadru rural.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
             }
       ],
       "en": [
@@ -36586,6 +39340,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo in Colfelice is a peaceful body of water in a rural setting.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
                   ]
             }
       ]

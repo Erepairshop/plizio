@@ -4401,6 +4401,69 @@ export const lithuaniaAllPoi = [
                         21.133437,
                         55.710101
                   ]
+            },
+            {
+                  "name": "Senas baseinas",
+                  "text": "Ein lokales Gewässer in Klaipeda, das zu einem entspannten Aufenthalt einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.098051,
+                        55.718185
+                  ]
+            },
+            {
+                  "name": "Svijanės ež.",
+                  "text": "Ein ruhiger See in Klaipeda, ideal für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        21.128248,
+                        55.743032
+                  ]
+            },
+            {
+                  "name": "Malūno tv.",
+                  "text": "Ein malerischer Teich in Klaipeda, der eine friedliche Atmosphäre ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        21.152121,
+                        55.708092
+                  ]
+            },
+            {
+                  "name": "Lenkviečių karjeras",
+                  "text": "Ein Gewässer in Klaipeda, perfekt für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        21.194335,
+                        55.768745
+                  ]
+            },
+            {
+                  "name": "Be ribų",
+                  "text": "Ein moderner Spielplatz in Klaipeda, der Kindern sicheren Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.183969,
+                        55.688818
+                  ]
+            },
+            {
+                  "name": "Pupa",
+                  "text": "Ein bunter Kinderspielplatz in Klaipeda für viel Freude und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        21.154298,
+                        55.696617
+                  ]
+            },
+            {
+                  "name": "Virtualūs pojūčiai",
+                  "text": "Eine unterhaltsame Spielhalle in Klaipeda mit verschiedenen Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.12803,
+                        55.716029
+                  ]
             }
       ],
       "hu": [
@@ -4771,6 +4834,69 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         21.133437,
                         55.710101
+                  ]
+            },
+            {
+                  "name": "Senas baseinas",
+                  "text": "Helyi vízfelület Klaipeda városában, amely pihentető időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        21.098051,
+                        55.718185
+                  ]
+            },
+            {
+                  "name": "Svijanės ež.",
+                  "text": "Csendes tó Klaipeda városában, ideális egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.128248,
+                        55.743032
+                  ]
+            },
+            {
+                  "name": "Malūno tv.",
+                  "text": "Festői tó Klaipeda városában, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        21.152121,
+                        55.708092
+                  ]
+            },
+            {
+                  "name": "Lenkviečių karjeras",
+                  "text": "Vízfelület Klaipeda városában, tökéletes egy kis szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.194335,
+                        55.768745
+                  ]
+            },
+            {
+                  "name": "Be ribų",
+                  "text": "Modern játszótér Klaipeda városában, amely biztonságos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.183969,
+                        55.688818
+                  ]
+            },
+            {
+                  "name": "Pupa",
+                  "text": "Színes játszótér Klaipeda városában a sok öröm és mozgás érdekében.",
+                  "category": "family",
+                  "coords": [
+                        21.154298,
+                        55.696617
+                  ]
+            },
+            {
+                  "name": "Virtualūs pojūčiai",
+                  "text": "Szórakoztató játékterem Klaipeda városában, változatos kikapcsolódási lehetőségekkel a család számára.",
+                  "category": "family",
+                  "coords": [
+                        21.12803,
+                        55.716029
                   ]
             }
       ],
@@ -5143,6 +5269,69 @@ export const lithuaniaAllPoi = [
                         21.133437,
                         55.710101
                   ]
+            },
+            {
+                  "name": "Senas baseinas",
+                  "text": "Un luciu de apă local în Klaipeda, care invită la o ședere relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.098051,
+                        55.718185
+                  ]
+            },
+            {
+                  "name": "Svijanės ež.",
+                  "text": "Un lac liniștit în Klaipeda, ideal pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.128248,
+                        55.743032
+                  ]
+            },
+            {
+                  "name": "Malūno tv.",
+                  "text": "Un iaz pitoresc în Klaipeda, care emană o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        21.152121,
+                        55.708092
+                  ]
+            },
+            {
+                  "name": "Lenkviečių karjeras",
+                  "text": "Un luciu de apă în Klaipeda, perfect pentru o mică pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.194335,
+                        55.768745
+                  ]
+            },
+            {
+                  "name": "Be ribų",
+                  "text": "Un loc de joacă modern în Klaipeda, care oferă copiilor un spațiu sigur pentru distracție.",
+                  "category": "family",
+                  "coords": [
+                        21.183969,
+                        55.688818
+                  ]
+            },
+            {
+                  "name": "Pupa",
+                  "text": "Un loc de joacă colorat în Klaipeda pentru multă bucurie și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        21.154298,
+                        55.696617
+                  ]
+            },
+            {
+                  "name": "Virtualūs pojūčiai",
+                  "text": "O sală de jocuri distractivă în Klaipeda, cu diverse activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.12803,
+                        55.716029
+                  ]
             }
       ],
       "en": [
@@ -5514,6 +5703,69 @@ export const lithuaniaAllPoi = [
                         21.133437,
                         55.710101
                   ]
+            },
+            {
+                  "name": "Senas baseinas",
+                  "text": "A local body of water in Klaipeda, inviting for a relaxed stay.",
+                  "category": "natural",
+                  "coords": [
+                        21.098051,
+                        55.718185
+                  ]
+            },
+            {
+                  "name": "Svijanės ež.",
+                  "text": "A quiet lake in Klaipeda, ideal for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.128248,
+                        55.743032
+                  ]
+            },
+            {
+                  "name": "Malūno tv.",
+                  "text": "A scenic pond in Klaipeda, radiating a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.152121,
+                        55.708092
+                  ]
+            },
+            {
+                  "name": "Lenkviečių karjeras",
+                  "text": "A body of water in Klaipeda, perfect for a short time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        21.194335,
+                        55.768745
+                  ]
+            },
+            {
+                  "name": "Be ribų",
+                  "text": "A modern playground in Klaipeda, providing a safe space for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        21.183969,
+                        55.688818
+                  ]
+            },
+            {
+                  "name": "Pupa",
+                  "text": "A colorful children's playground in Klaipeda for joy and movement.",
+                  "category": "family",
+                  "coords": [
+                        21.154298,
+                        55.696617
+                  ]
+            },
+            {
+                  "name": "Virtualūs pojūčiai",
+                  "text": "An entertaining amusement arcade in Klaipeda with various activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.12803,
+                        55.716029
+                  ]
             }
       ]
 },
@@ -5755,6 +6007,231 @@ export const lithuaniaAllPoi = [
                         24.9243,
                         54.6509
                   ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Der See ež. Ilgelis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Der See ež. Dumblė in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Der See Piliškių ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vėžio akis",
+                  "text": "Der See ež. Vėžio akis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.924476,
+                        54.67274
+                  ]
+            },
+            {
+                  "name": "Bražuolės II tv.",
+                  "text": "Der See Bražuolės II tv. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.897018,
+                        54.67951
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Der See ež. Akis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Der See ež. Bevardis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.981133,
+                        54.639745
+                  ]
+            },
+            {
+                  "name": "ež. Apvalukas",
+                  "text": "Der See ež. Apvalukas in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.934,
+                        54.678492
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Der See ež. Ešerinis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.903063,
+                        54.671663
+                  ]
+            },
+            {
+                  "name": "ež. Siaurinukas",
+                  "text": "Der See ež. Siaurinukas in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.870124,
+                        54.673917
+                  ]
+            },
+            {
+                  "name": "Galvesee",
+                  "text": "Der See Galvės ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Der See ež. Skaistis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "Der See ež. Babrukas in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "Šulininkų ež.",
+                  "text": "Der See Šulininkų ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.946095,
+                        54.678925
+                  ]
+            },
+            {
+                  "name": "ež. Alsakys",
+                  "text": "Der See ež. Alsakys in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.843299,
+                        54.637
+                  ]
+            },
+            {
+                  "name": "ež. Margis",
+                  "text": "Der See ež. Margis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.811334,
+                        54.604706
+                  ]
+            },
+            {
+                  "name": "ež. Akmena",
+                  "text": "Der See ež. Akmena in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.885184,
+                        54.664417
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "Der See ež. Nerespinka in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "Dydiškių ež.",
+                  "text": "Der See Dydiškių ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.939704,
+                        54.682192
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Der See ež. Baltis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriskessee",
+                  "text": "Der See Totoriškių ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Der See ež. Ežerėlis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Der See Lentvario ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Der See ež. Kulpis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Der See ež. Birva in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
             }
       ],
       "hu": [
@@ -5945,6 +6422,231 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         24.9243,
                         54.6509
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "A(z) ež. Ilgelis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "A(z) ež. Dumblė tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "A(z) Piliškių ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vėžio akis",
+                  "text": "A(z) ež. Vėžio akis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.924476,
+                        54.67274
+                  ]
+            },
+            {
+                  "name": "Bražuolės II tv.",
+                  "text": "A(z) Bražuolės II tv. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.897018,
+                        54.67951
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "A(z) ež. Akis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "A(z) ež. Bevardis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.981133,
+                        54.639745
+                  ]
+            },
+            {
+                  "name": "ež. Apvalukas",
+                  "text": "A(z) ež. Apvalukas tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.934,
+                        54.678492
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "A(z) ež. Ešerinis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.903063,
+                        54.671663
+                  ]
+            },
+            {
+                  "name": "ež. Siaurinukas",
+                  "text": "A(z) ež. Siaurinukas tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.870124,
+                        54.673917
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "A(z) Galvės ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "A(z) ež. Skaistis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "A(z) ež. Babrukas tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "Šulininkų ež.",
+                  "text": "A(z) Šulininkų ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.946095,
+                        54.678925
+                  ]
+            },
+            {
+                  "name": "ež. Alsakys",
+                  "text": "A(z) ež. Alsakys tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.843299,
+                        54.637
+                  ]
+            },
+            {
+                  "name": "ež. Margis",
+                  "text": "A(z) ež. Margis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.811334,
+                        54.604706
+                  ]
+            },
+            {
+                  "name": "ež. Akmena",
+                  "text": "A(z) ež. Akmena tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.885184,
+                        54.664417
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "A(z) ež. Nerespinka tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "Dydiškių ež.",
+                  "text": "A(z) Dydiškių ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.939704,
+                        54.682192
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "A(z) ež. Baltis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "A(z) Totoriškių ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "A(z) ež. Ežerėlis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "A(z) Lentvario ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "A(z) ež. Kulpis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "A(z) ež. Birva tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
                   ]
             }
       ],
@@ -6137,6 +6839,231 @@ export const lithuaniaAllPoi = [
                         24.9243,
                         54.6509
                   ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Lacul ež. Ilgelis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "Lacul ež. Dumblė din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Lacul Piliškių ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vėžio akis",
+                  "text": "Lacul ež. Vėžio akis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.924476,
+                        54.67274
+                  ]
+            },
+            {
+                  "name": "Bražuolės II tv.",
+                  "text": "Lacul Bražuolės II tv. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.897018,
+                        54.67951
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "Lacul ež. Akis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "Lacul ež. Bevardis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.981133,
+                        54.639745
+                  ]
+            },
+            {
+                  "name": "ež. Apvalukas",
+                  "text": "Lacul ež. Apvalukas din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.934,
+                        54.678492
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "Lacul ež. Ešerinis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.903063,
+                        54.671663
+                  ]
+            },
+            {
+                  "name": "ež. Siaurinukas",
+                  "text": "Lacul ež. Siaurinukas din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.870124,
+                        54.673917
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "Lacul Galvės ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "Lacul ež. Skaistis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "Lacul ež. Babrukas din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "Šulininkų ež.",
+                  "text": "Lacul Šulininkų ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.946095,
+                        54.678925
+                  ]
+            },
+            {
+                  "name": "ež. Alsakys",
+                  "text": "Lacul ež. Alsakys din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.843299,
+                        54.637
+                  ]
+            },
+            {
+                  "name": "ež. Margis",
+                  "text": "Lacul ež. Margis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.811334,
+                        54.604706
+                  ]
+            },
+            {
+                  "name": "ež. Akmena",
+                  "text": "Lacul ež. Akmena din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.885184,
+                        54.664417
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "Lacul ež. Nerespinka din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "Dydiškių ež.",
+                  "text": "Lacul Dydiškių ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.939704,
+                        54.682192
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "Lacul ež. Baltis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "Lacul Totoriškių ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "Lacul ež. Ežerėlis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Lacul Lentvario ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "Lacul ež. Kulpis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "Lacul ež. Birva din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
+                  ]
             }
       ],
       "en": [
@@ -6327,6 +7254,231 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         24.9243,
                         54.6509
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "ež. Ilgelis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.991126,
+                        54.64009
+                  ]
+            },
+            {
+                  "name": "ež. Dumblė",
+                  "text": "ež. Dumblė is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.98811,
+                        54.644643
+                  ]
+            },
+            {
+                  "name": "Piliškių ež.",
+                  "text": "Piliškių ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.976387,
+                        54.640386
+                  ]
+            },
+            {
+                  "name": "ež. Vėžio akis",
+                  "text": "ež. Vėžio akis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.924476,
+                        54.67274
+                  ]
+            },
+            {
+                  "name": "Bražuolės II tv.",
+                  "text": "Bražuolės II tv. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.897018,
+                        54.67951
+                  ]
+            },
+            {
+                  "name": "ež. Akis",
+                  "text": "ež. Akis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.953614,
+                        54.646055
+                  ]
+            },
+            {
+                  "name": "ež. Bevardis",
+                  "text": "ež. Bevardis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.981133,
+                        54.639745
+                  ]
+            },
+            {
+                  "name": "ež. Apvalukas",
+                  "text": "ež. Apvalukas is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.934,
+                        54.678492
+                  ]
+            },
+            {
+                  "name": "ež. Ešerinis",
+                  "text": "ež. Ešerinis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.903063,
+                        54.671663
+                  ]
+            },
+            {
+                  "name": "ež. Siaurinukas",
+                  "text": "ež. Siaurinukas is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.870124,
+                        54.673917
+                  ]
+            },
+            {
+                  "name": "Galvės ež.",
+                  "text": "Galvės ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.929037,
+                        54.659768
+                  ]
+            },
+            {
+                  "name": "ež. Skaistis",
+                  "text": "ež. Skaistis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.970884,
+                        54.663652
+                  ]
+            },
+            {
+                  "name": "ež. Babrukas",
+                  "text": "ež. Babrukas is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.927601,
+                        54.622568
+                  ]
+            },
+            {
+                  "name": "Šulininkų ež.",
+                  "text": "Šulininkų ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.946095,
+                        54.678925
+                  ]
+            },
+            {
+                  "name": "ež. Alsakys",
+                  "text": "ež. Alsakys is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.843299,
+                        54.637
+                  ]
+            },
+            {
+                  "name": "ež. Margis",
+                  "text": "ež. Margis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.811334,
+                        54.604706
+                  ]
+            },
+            {
+                  "name": "ež. Akmena",
+                  "text": "ež. Akmena is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.885184,
+                        54.664417
+                  ]
+            },
+            {
+                  "name": "ež. Nerespinka",
+                  "text": "ež. Nerespinka is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.946436,
+                        54.648008
+                  ]
+            },
+            {
+                  "name": "Dydiškių ež.",
+                  "text": "Dydiškių ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.939704,
+                        54.682192
+                  ]
+            },
+            {
+                  "name": "ež. Baltis",
+                  "text": "ež. Baltis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.011661,
+                        54.660549
+                  ]
+            },
+            {
+                  "name": "Totoriškių ež.",
+                  "text": "Totoriškių ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.92868,
+                        54.641101
+                  ]
+            },
+            {
+                  "name": "ež. Ežerėlis",
+                  "text": "ež. Ežerėlis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.98038,
+                        54.696258
+                  ]
+            },
+            {
+                  "name": "Lentvario ež.",
+                  "text": "Lentvario ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.037783,
+                        54.656087
+                  ]
+            },
+            {
+                  "name": "ež. Kulpis",
+                  "text": "ež. Kulpis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.000024,
+                        54.680361
+                  ]
+            },
+            {
+                  "name": "ež. Birva",
+                  "text": "ež. Birva is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.973638,
+                        54.679744
                   ]
             }
       ]

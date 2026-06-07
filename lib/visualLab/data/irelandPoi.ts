@@ -6771,6 +6771,24 @@ export const irelandCities: POI[] = [
                         -8.655054,
                         52.660863
                   ]
+            },
+            {
+                  "name": "Lucas Lough",
+                  "text": "Lucas Lough ist ein See in Limerick, der sich ideal für einen entspannenden Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.601138,
+                        52.673566
+                  ]
+            },
+            {
+                  "name": "LevelUp",
+                  "text": "LevelUp ist eine Spielhalle in Limerick, die Spaß und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.628652,
+                        52.662197
+                  ]
             }
       ],
       "hu": [
@@ -7042,6 +7060,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.655054,
                         52.660863
+                  ]
+            },
+            {
+                  "name": "Lucas Lough",
+                  "text": "A Lucas Lough egy tó Limerickben, amely ideális egy pihentető sétához a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -8.601138,
+                        52.673566
+                  ]
+            },
+            {
+                  "name": "LevelUp",
+                  "text": "A LevelUp egy játékterem Limerickben, amely szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -8.628652,
+                        52.662197
                   ]
             }
       ],
@@ -7315,6 +7351,24 @@ export const irelandCities: POI[] = [
                         -8.655054,
                         52.660863
                   ]
+            },
+            {
+                  "name": "Lucas Lough",
+                  "text": "Lucas Lough este un lac din Limerick, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.601138,
+                        52.673566
+                  ]
+            },
+            {
+                  "name": "LevelUp",
+                  "text": "LevelUp este o sală de jocuri din Limerick, oferind distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.628652,
+                        52.662197
+                  ]
             }
       ],
       "en": [
@@ -7586,6 +7640,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.655054,
                         52.660863
+                  ]
+            },
+            {
+                  "name": "Lucas Lough",
+                  "text": "Lucas Lough is a lake in Limerick, ideal for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -8.601138,
+                        52.673566
+                  ]
+            },
+            {
+                  "name": "LevelUp",
+                  "text": "LevelUp is an amusement arcade in Limerick, offering fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -8.628652,
+                        52.662197
                   ]
             }
       ]
@@ -10414,6 +10486,33 @@ export const irelandCities: POI[] = [
                         -7.107725,
                         52.258009
                   ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen ist ein See in Waterford, der einen malerischen Ort zum Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) ist ein Spielplatz in Waterford mit verschiedenen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR ist eine Spielhalle in Waterford, die spannende Unterhaltung für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
             }
       ],
       "hu": [
@@ -10604,6 +10703,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.107725,
                         52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "A Lough Cullen egy tó Waterfordban, amely festői helyszínt biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "A Playground (7-12 years) egy játszótér Waterfordban, különféle játéklehetőségekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "A Velocity VR egy játékterem Waterfordban, amely izgalmas szórakozást nyújt a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
                   ]
             }
       ],
@@ -10796,6 +10922,33 @@ export const irelandCities: POI[] = [
                         -7.107725,
                         52.258009
                   ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen este un lac din Waterford, oferind un loc pitoresc pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) este un teren de joacă din Waterford, cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR este o sală de jocuri din Waterford, oferind divertisment captivant pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
             }
       ],
       "en": [
@@ -10986,6 +11139,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.107725,
                         52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen is a lake in Waterford, offering a scenic spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) is a playground in Waterford with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR is an amusement arcade in Waterford, offering exciting entertainment for the family.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
                   ]
             }
       ]
@@ -12787,6 +12967,33 @@ export const irelandCities: POI[] = [
                         -9.68182,
                         52.267009
                   ]
+            },
+            {
+                  "name": "Tralee Town Park Playground",
+                  "text": "Tralee Town Park Playground ist ein Spielplatz in Tralee, der ein tolles Ausflugsziel für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        -9.704501,
+                        52.266193
+                  ]
+            },
+            {
+                  "name": "Climbing Tower & Toddler Playground",
+                  "text": "Climbing Tower & Toddler Playground in Tralee bietet abwechslungsreichen Spielspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -9.716415,
+                        52.261736
+                  ]
+            },
+            {
+                  "name": "Aqua Golf",
+                  "text": "Aqua Golf ist eine Minigolfanlage in Tralee, die eine unterhaltsame Aktivität für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.709537,
+                        52.2631
+                  ]
             }
       ],
       "hu": [
@@ -12959,6 +13166,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -9.68182,
                         52.267009
+                  ]
+            },
+            {
+                  "name": "Tralee Town Park Playground",
+                  "text": "A Tralee Town Park Playground egy játszótér Tralee-ben, amely remek úti cél a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.704501,
+                        52.266193
+                  ]
+            },
+            {
+                  "name": "Climbing Tower & Toddler Playground",
+                  "text": "A Climbing Tower & Toddler Playground Tralee-ben változatos játékélményt kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.716415,
+                        52.261736
+                  ]
+            },
+            {
+                  "name": "Aqua Golf",
+                  "text": "Az Aqua Golf egy minigolfpálya Tralee-ben, amely szórakoztató kikapcsolódást nyújt minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -9.709537,
+                        52.2631
                   ]
             }
       ],
@@ -13133,6 +13367,33 @@ export const irelandCities: POI[] = [
                         -9.68182,
                         52.267009
                   ]
+            },
+            {
+                  "name": "Tralee Town Park Playground",
+                  "text": "Tralee Town Park Playground este un teren de joacă din Tralee, fiind o destinație excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -9.704501,
+                        52.266193
+                  ]
+            },
+            {
+                  "name": "Climbing Tower & Toddler Playground",
+                  "text": "Climbing Tower & Toddler Playground din Tralee oferă distracție variată pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -9.716415,
+                        52.261736
+                  ]
+            },
+            {
+                  "name": "Aqua Golf",
+                  "text": "Aqua Golf este un teren de minigolf din Tralee, oferind o activitate distractivă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -9.709537,
+                        52.2631
+                  ]
             }
       ],
       "en": [
@@ -13306,6 +13567,33 @@ export const irelandCities: POI[] = [
                         -9.68182,
                         52.267009
                   ]
+            },
+            {
+                  "name": "Tralee Town Park Playground",
+                  "text": "Tralee Town Park Playground is a playground in Tralee, making it a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        -9.704501,
+                        52.266193
+                  ]
+            },
+            {
+                  "name": "Climbing Tower & Toddler Playground",
+                  "text": "Climbing Tower & Toddler Playground in Tralee offers varied play fun for children.",
+                  "category": "family",
+                  "coords": [
+                        -9.716415,
+                        52.261736
+                  ]
+            },
+            {
+                  "name": "Aqua Golf",
+                  "text": "Aqua Golf is a miniature golf course in Tralee, providing a fun activity for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -9.709537,
+                        52.2631
+                  ]
             }
       ]
 },
@@ -13470,6 +13758,33 @@ export const irelandCities: POI[] = [
                         -6.416729,
                         54.005443
                   ]
+            },
+            {
+                  "name": "Cortial Lough",
+                  "text": "Cortial Lough ist ein See in Dundalk, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.503554,
+                        54.003006
+                  ]
+            },
+            {
+                  "name": "Tropass Lough",
+                  "text": "Tropass Lough ist ein See in Dundalk, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.523047,
+                        53.998998
+                  ]
+            },
+            {
+                  "name": "Airbound Dundalk",
+                  "text": "Airbound Dundalk ist ein Trampolinpark in Dundalk, der aktive Unterhaltung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.380049,
+                        54.00265
+                  ]
             }
       ],
       "hu": [
@@ -13588,6 +13903,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.416729,
                         54.005443
+                  ]
+            },
+            {
+                  "name": "Cortial Lough",
+                  "text": "A Cortial Lough egy tó Dundalk területén, amely ideális túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -6.503554,
+                        54.003006
+                  ]
+            },
+            {
+                  "name": "Tropass Lough",
+                  "text": "A Tropass Lough egy tó Dundalk területén, amely ideális túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -6.523047,
+                        53.998998
+                  ]
+            },
+            {
+                  "name": "Airbound Dundalk",
+                  "text": "Az Airbound Dundalk egy trambulinpark Dundalk területén, amely aktív szórakozást nyújt gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -6.380049,
+                        54.00265
                   ]
             }
       ],
@@ -13708,6 +14050,33 @@ export const irelandCities: POI[] = [
                         -6.416729,
                         54.005443
                   ]
+            },
+            {
+                  "name": "Cortial Lough",
+                  "text": "Cortial Lough este un lac în Dundalk, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.503554,
+                        54.003006
+                  ]
+            },
+            {
+                  "name": "Tropass Lough",
+                  "text": "Tropass Lough este un lac în Dundalk, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.523047,
+                        53.998998
+                  ]
+            },
+            {
+                  "name": "Airbound Dundalk",
+                  "text": "Airbound Dundalk este un parc de trambuline în Dundalk, oferind divertisment activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -6.380049,
+                        54.00265
+                  ]
             }
       ],
       "en": [
@@ -13826,6 +14195,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.416729,
                         54.005443
+                  ]
+            },
+            {
+                  "name": "Cortial Lough",
+                  "text": "Cortial Lough is a lake in Dundalk, ideal for hiking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.503554,
+                        54.003006
+                  ]
+            },
+            {
+                  "name": "Tropass Lough",
+                  "text": "Tropass Lough is a lake in Dundalk, ideal for hiking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.523047,
+                        53.998998
+                  ]
+            },
+            {
+                  "name": "Airbound Dundalk",
+                  "text": "Airbound Dundalk is a trampoline park in Dundalk, offering active entertainment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -6.380049,
+                        54.00265
                   ]
             }
       ]
@@ -15268,6 +15664,33 @@ export const irelandCities: POI[] = [
                         -6.93295,
                         52.837768
                   ]
+            },
+            {
+                  "name": "Killeshin Waterworks reservoir",
+                  "text": "Killeshin Waterworks reservoir ist ein See in Carlow, der zu einem ruhigen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.012946,
+                        52.843137
+                  ]
+            },
+            {
+                  "name": "Carlow Town Park Playground",
+                  "text": "Carlow Town Park Playground ist ein familienfreundlicher Spielplatz in Carlow.",
+                  "category": "family",
+                  "coords": [
+                        -6.936361,
+                        52.83886
+                  ]
+            },
+            {
+                  "name": "Rancho Reilly",
+                  "text": "Rancho Reilly ist ein Spielplatz in Carlow, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.961407,
+                        52.833376
+                  ]
             }
       ],
       "hu": [
@@ -15350,6 +15773,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.93295,
                         52.837768
+                  ]
+            },
+            {
+                  "name": "Killeshin Waterworks reservoir",
+                  "text": "A Killeshin Waterworks reservoir egy tó Carlow-ban, amely nyugodt sétára invitál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.012946,
+                        52.843137
+                  ]
+            },
+            {
+                  "name": "Carlow Town Park Playground",
+                  "text": "A Carlow Town Park Playground egy családbarát játszótér Carlow-ban.",
+                  "category": "family",
+                  "coords": [
+                        -6.936361,
+                        52.83886
+                  ]
+            },
+            {
+                  "name": "Rancho Reilly",
+                  "text": "A Rancho Reilly egy játszótér Carlow-ban, amely tágas teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.961407,
+                        52.833376
                   ]
             }
       ],
@@ -15434,6 +15884,33 @@ export const irelandCities: POI[] = [
                         -6.93295,
                         52.837768
                   ]
+            },
+            {
+                  "name": "Killeshin Waterworks reservoir",
+                  "text": "Killeshin Waterworks reservoir este un lac din Carlow, care invită la o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.012946,
+                        52.843137
+                  ]
+            },
+            {
+                  "name": "Carlow Town Park Playground",
+                  "text": "Carlow Town Park Playground este un loc de joacă pentru familii din Carlow.",
+                  "category": "family",
+                  "coords": [
+                        -6.936361,
+                        52.83886
+                  ]
+            },
+            {
+                  "name": "Rancho Reilly",
+                  "text": "Rancho Reilly este un teren de joacă din Carlow, oferind mult spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.961407,
+                        52.833376
+                  ]
             }
       ],
       "en": [
@@ -15516,6 +15993,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.93295,
                         52.837768
+                  ]
+            },
+            {
+                  "name": "Killeshin Waterworks reservoir",
+                  "text": "Killeshin Waterworks reservoir is a lake in Carlow, inviting a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        -7.012946,
+                        52.843137
+                  ]
+            },
+            {
+                  "name": "Carlow Town Park Playground",
+                  "text": "Carlow Town Park Playground is a family-friendly playground in Carlow.",
+                  "category": "family",
+                  "coords": [
+                        -6.936361,
+                        52.83886
+                  ]
+            },
+            {
+                  "name": "Rancho Reilly",
+                  "text": "Rancho Reilly is a playground in Carlow, offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -6.961407,
+                        52.833376
                   ]
             }
       ]
@@ -15708,6 +16212,60 @@ export const irelandCities: POI[] = [
                         -6.461086,
                         52.338523
                   ]
+            },
+            {
+                  "name": "Castle Lake",
+                  "text": "Castle Lake ist ein See in Wexford, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.505051,
+                        52.291559
+                  ]
+            },
+            {
+                  "name": "Coolree Reservoir",
+                  "text": "Coolree Reservoir ist ein See in Wexford, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.521476,
+                        52.325911
+                  ]
+            },
+            {
+                  "name": "Carrigfoyle Quarry",
+                  "text": "Carrigfoyle Quarry ist ein See in Wexford, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.554037,
+                        52.326075
+                  ]
+            },
+            {
+                  "name": "Remond Memorial Park Childrens Playground",
+                  "text": "Remond Memorial Park Childrens Playground ist ein Spielplatz in Wexford, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.471619,
+                        52.342416
+                  ]
+            },
+            {
+                  "name": "Whitford House Hotel Playground",
+                  "text": "Ein Spielplatz in Wexford, der tolle Aktivitäten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.500456,
+                        52.32452
+                  ]
+            },
+            {
+                  "name": "Ferrybank Playground",
+                  "text": "Ein lokaler Spielplatz in Wexford, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -6.452719,
+                        52.344831
+                  ]
             }
       ],
       "hu": [
@@ -15853,6 +16411,60 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.461086,
                         52.338523
+                  ]
+            },
+            {
+                  "name": "Castle Lake",
+                  "text": "A Castle Lake egy tó Wexford területén, amely ideális túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -6.505051,
+                        52.291559
+                  ]
+            },
+            {
+                  "name": "Coolree Reservoir",
+                  "text": "A Coolree Reservoir egy tó Wexford területén, amely ideális túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -6.521476,
+                        52.325911
+                  ]
+            },
+            {
+                  "name": "Carrigfoyle Quarry",
+                  "text": "A Carrigfoyle Quarry egy tó Wexford területén, amely ideális túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -6.554037,
+                        52.326075
+                  ]
+            },
+            {
+                  "name": "Remond Memorial Park Childrens Playground",
+                  "text": "A Remond Memorial Park Childrens Playground egy játszótér Wexford területén, amely szórakozást kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.471619,
+                        52.342416
+                  ]
+            },
+            {
+                  "name": "Whitford House Hotel Playground",
+                  "text": "Wexfordi játszótér, amely szórakoztató tevékenységeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.500456,
+                        52.32452
+                  ]
+            },
+            {
+                  "name": "Ferrybank Playground",
+                  "text": "Helyi játszótér Wexfordban, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.452719,
+                        52.344831
                   ]
             }
       ],
@@ -16000,6 +16612,60 @@ export const irelandCities: POI[] = [
                         -6.461086,
                         52.338523
                   ]
+            },
+            {
+                  "name": "Castle Lake",
+                  "text": "Castle Lake este un lac în Wexford, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.505051,
+                        52.291559
+                  ]
+            },
+            {
+                  "name": "Coolree Reservoir",
+                  "text": "Coolree Reservoir este un lac în Wexford, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.521476,
+                        52.325911
+                  ]
+            },
+            {
+                  "name": "Carrigfoyle Quarry",
+                  "text": "Carrigfoyle Quarry este un lac în Wexford, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.554037,
+                        52.326075
+                  ]
+            },
+            {
+                  "name": "Remond Memorial Park Childrens Playground",
+                  "text": "Remond Memorial Park Childrens Playground este un teren de joacă în Wexford, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.471619,
+                        52.342416
+                  ]
+            },
+            {
+                  "name": "Whitford House Hotel Playground",
+                  "text": "Un loc de joacă din Wexford care oferă activități distractive pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.500456,
+                        52.32452
+                  ]
+            },
+            {
+                  "name": "Ferrybank Playground",
+                  "text": "Un loc de joacă local din Wexford, ideal pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        -6.452719,
+                        52.344831
+                  ]
             }
       ],
       "en": [
@@ -16145,6 +16811,60 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -6.461086,
                         52.338523
+                  ]
+            },
+            {
+                  "name": "Castle Lake",
+                  "text": "Castle Lake is a lake in Wexford, ideal for hiking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.505051,
+                        52.291559
+                  ]
+            },
+            {
+                  "name": "Coolree Reservoir",
+                  "text": "Coolree Reservoir is a lake in Wexford, ideal for hiking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.521476,
+                        52.325911
+                  ]
+            },
+            {
+                  "name": "Carrigfoyle Quarry",
+                  "text": "Carrigfoyle Quarry is a lake in Wexford, ideal for hiking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.554037,
+                        52.326075
+                  ]
+            },
+            {
+                  "name": "Remond Memorial Park Childrens Playground",
+                  "text": "Remond Memorial Park Childrens Playground is a playground in Wexford, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -6.471619,
+                        52.342416
+                  ]
+            },
+            {
+                  "name": "Whitford House Hotel Playground",
+                  "text": "A playground in Wexford offering fun activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -6.500456,
+                        52.32452
+                  ]
+            },
+            {
+                  "name": "Ferrybank Playground",
+                  "text": "A local playground in Wexford, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -6.452719,
+                        52.344831
                   ]
             }
       ]
@@ -18596,6 +19316,33 @@ export const irelandCulture: POI[] = [
                         -7.297131,
                         53.035029
                   ]
+            },
+            {
+                  "name": "Ballin Lough",
+                  "text": "Ein malerischer See bei Portlaoise, ideal für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -7.199313,
+                        53.040969
+                  ]
+            },
+            {
+                  "name": "Dún Spraoi",
+                  "text": "Ein Spielbereich in Portlaoise, der Unterhaltung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.296273,
+                        53.037661
+                  ]
+            },
+            {
+                  "name": "People's Park Playground",
+                  "text": "Ein beliebter Spielplatz in Portlaoise für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -7.288898,
+                        53.030324
+                  ]
             }
       ],
       "hu": [
@@ -18615,6 +19362,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.297131,
                         53.035029
+                  ]
+            },
+            {
+                  "name": "Ballin Lough",
+                  "text": "Festői tó Portlaoise közelében, amely ideális egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -7.199313,
+                        53.040969
+                  ]
+            },
+            {
+                  "name": "Dún Spraoi",
+                  "text": "Játszóhely Portlaoise-ban, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -7.296273,
+                        53.037661
+                  ]
+            },
+            {
+                  "name": "People's Park Playground",
+                  "text": "Népszerű játszótér Portlaoise-ban gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.288898,
+                        53.030324
                   ]
             }
       ],
@@ -18636,6 +19410,33 @@ export const irelandCulture: POI[] = [
                         -7.297131,
                         53.035029
                   ]
+            },
+            {
+                  "name": "Ballin Lough",
+                  "text": "Un lac pitoresc lângă Portlaoise, ideal pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.199313,
+                        53.040969
+                  ]
+            },
+            {
+                  "name": "Dún Spraoi",
+                  "text": "O zonă de joacă din Portlaoise care oferă divertisment pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.296273,
+                        53.037661
+                  ]
+            },
+            {
+                  "name": "People's Park Playground",
+                  "text": "Un loc de joacă popular din Portlaoise pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.288898,
+                        53.030324
+                  ]
             }
       ],
       "en": [
@@ -18655,6 +19456,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.297131,
                         53.035029
+                  ]
+            },
+            {
+                  "name": "Ballin Lough",
+                  "text": "A scenic lake near Portlaoise, ideal for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        -7.199313,
+                        53.040969
+                  ]
+            },
+            {
+                  "name": "Fort of Fun",
+                  "text": "A play area in Portlaoise providing entertainment for kids.",
+                  "category": "family",
+                  "coords": [
+                        -7.296273,
+                        53.037661
+                  ]
+            },
+            {
+                  "name": "People's Park Playground",
+                  "text": "A popular playground in Portlaoise for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -7.288898,
+                        53.030324
                   ]
             }
       ]
@@ -19673,6 +20501,231 @@ export const irelandCulture: POI[] = [
                         -8.09508,
                         53.946234
                   ]
+            },
+            {
+                  "name": "Headford Lough",
+                  "text": "Ein ruhiger See bei Carrick On Shannon, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984021,
+                        53.940785
+                  ]
+            },
+            {
+                  "name": "Effrinagh Lough",
+                  "text": "Ein natürliches Seegebiet in der Nähe von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -7.998071,
+                        53.977635
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Ein friedlicher See bei Carrick On Shannon, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192374,
+                        53.985483
+                  ]
+            },
+            {
+                  "name": "Laundry Lough",
+                  "text": "Ein malerisches Gewässer in der Gegend von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.184026,
+                        53.986913
+                  ]
+            },
+            {
+                  "name": "Carrickevy Lough",
+                  "text": "Ein lokaler See bei Carrick On Shannon mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -8.060568,
+                        53.981562
+                  ]
+            },
+            {
+                  "name": "Costre Lough",
+                  "text": "Ein ruhiger See in der Nähe von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.013251,
+                        53.972655
+                  ]
+            },
+            {
+                  "name": "Drumcunny Lough",
+                  "text": "Ein schöner See in der Landschaft bei Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.133135,
+                        54.013128
+                  ]
+            },
+            {
+                  "name": "Kilmaddaroe Lough",
+                  "text": "Ein kleiner See bei Carrick On Shannon, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -8.035826,
+                        53.966036
+                  ]
+            },
+            {
+                  "name": "Lough Bran",
+                  "text": "Ein See bei Carrick On Shannon, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.057349,
+                        53.974339
+                  ]
+            },
+            {
+                  "name": "Lough Naseer",
+                  "text": "Ein ruhiges Ausflugsziel am See in der Region Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08475,
+                        53.982083
+                  ]
+            },
+            {
+                  "name": "Loughaun",
+                  "text": "Ein natürlicher See bei Carrick On Shannon, perfekt für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -8.122595,
+                        54.015006
+                  ]
+            },
+            {
+                  "name": "Drumdoe Lough",
+                  "text": "Ein lokaler See in der Nähe von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.129837,
+                        54.001775
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "Ein malerisches Seegebiet bei Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.011528,
+                        53.906413
+                  ]
+            },
+            {
+                  "name": "Ballagh Lough",
+                  "text": "Ein ruhiges Gewässer bei Carrick On Shannon, umgeben von Grün.",
+                  "category": "natural",
+                  "coords": [
+                        -8.068929,
+                        53.900492
+                  ]
+            },
+            {
+                  "name": "Dooloughan Lough",
+                  "text": "Ein See in der Gegend von Carrick On Shannon, ideal für eine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        -8.00912,
+                        53.994062
+                  ]
+            },
+            {
+                  "name": "Carrickslavan Lough",
+                  "text": "Ein kleiner und friedlicher See bei Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.038004,
+                        53.987524
+                  ]
+            },
+            {
+                  "name": "Lough Eidin",
+                  "text": "Ein schöner See in der Region Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.136588,
+                        53.965217
+                  ]
+            },
+            {
+                  "name": "Loughtown Lough",
+                  "text": "Ein lokaler See bei Carrick On Shannon, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -7.978352,
+                        53.974496
+                  ]
+            },
+            {
+                  "name": "Annaghearly Lough",
+                  "text": "Ein ruhiger See bei Carrick On Shannon in ländlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -7.995255,
+                        53.986753
+                  ]
+            },
+            {
+                  "name": "Lough Boderg",
+                  "text": "Ein großer See bei Carrick On Shannon mit malerischer Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -7.979857,
+                        53.881044
+                  ]
+            },
+            {
+                  "name": "Oakport Lough",
+                  "text": "Ein schöner See bei Carrick On Shannon, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.171626,
+                        53.98252
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Ein friedlicher See in der Nähe von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192246,
+                        53.989374
+                  ]
+            },
+            {
+                  "name": "Cootehall Lough",
+                  "text": "Ein malerischer See bei Carrick On Shannon, perfekt zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.161109,
+                        53.977872
+                  ]
+            },
+            {
+                  "name": "Lough Corry",
+                  "text": "Ein schöner See in der Gegend von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08089,
+                        53.924475
+                  ]
+            },
+            {
+                  "name": "Shanballybaun Lough",
+                  "text": "Ein ruhiges Seeziel in der Nähe von Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.109813,
+                        53.993734
+                  ]
             }
       ],
       "hu": [
@@ -19710,6 +20763,231 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -8.09508,
                         53.946234
+                  ]
+            },
+            {
+                  "name": "Headford Lough",
+                  "text": "Csendes tó Carrick On Shannon közelében, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984021,
+                        53.940785
+                  ]
+            },
+            {
+                  "name": "Effrinagh Lough",
+                  "text": "Természetes tóvidék Carrick On Shannon környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -7.998071,
+                        53.977635
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Békés tó Carrick On Shannon közelében, amely ideális a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192374,
+                        53.985483
+                  ]
+            },
+            {
+                  "name": "Laundry Lough",
+                  "text": "Festői vízfelület Carrick On Shannon környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -8.184026,
+                        53.986913
+                  ]
+            },
+            {
+                  "name": "Carrickevy Lough",
+                  "text": "Helyi tó Carrick On Shannon közelében, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -8.060568,
+                        53.981562
+                  ]
+            },
+            {
+                  "name": "Costre Lough",
+                  "text": "Csendes tó Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.013251,
+                        53.972655
+                  ]
+            },
+            {
+                  "name": "Drumcunny Lough",
+                  "text": "Szép tó a vidékben, Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.133135,
+                        54.013128
+                  ]
+            },
+            {
+                  "name": "Kilmaddaroe Lough",
+                  "text": "Kis tó Carrick On Shannon közelében, a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -8.035826,
+                        53.966036
+                  ]
+            },
+            {
+                  "name": "Lough Bran",
+                  "text": "Tó Carrick On Shannon közelében, amely békés légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -8.057349,
+                        53.974339
+                  ]
+            },
+            {
+                  "name": "Lough Naseer",
+                  "text": "Csendes tóparti úti cél a Carrick On Shannon régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08475,
+                        53.982083
+                  ]
+            },
+            {
+                  "name": "Loughaun",
+                  "text": "Természetes tó Carrick On Shannon közelében, amely tökéletes egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -8.122595,
+                        54.015006
+                  ]
+            },
+            {
+                  "name": "Drumdoe Lough",
+                  "text": "Helyi tó Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.129837,
+                        54.001775
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "Festői tóvidék Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.011528,
+                        53.906413
+                  ]
+            },
+            {
+                  "name": "Ballagh Lough",
+                  "text": "Nyugodt vízfelület Carrick On Shannon közelében, zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -8.068929,
+                        53.900492
+                  ]
+            },
+            {
+                  "name": "Dooloughan Lough",
+                  "text": "Tó Carrick On Shannon környékén, amely ideális egy pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.00912,
+                        53.994062
+                  ]
+            },
+            {
+                  "name": "Carrickslavan Lough",
+                  "text": "Kicsi és békés tó Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.038004,
+                        53.987524
+                  ]
+            },
+            {
+                  "name": "Lough Eidin",
+                  "text": "Szép tó a Carrick On Shannon régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.136588,
+                        53.965217
+                  ]
+            },
+            {
+                  "name": "Loughtown Lough",
+                  "text": "Helyi tó Carrick On Shannon közelében, a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -7.978352,
+                        53.974496
+                  ]
+            },
+            {
+                  "name": "Annaghearly Lough",
+                  "text": "Csendes tó Carrick On Shannon közelében, vidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.995255,
+                        53.986753
+                  ]
+            },
+            {
+                  "name": "Lough Boderg",
+                  "text": "Nagy tó Carrick On Shannon közelében, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.979857,
+                        53.881044
+                  ]
+            },
+            {
+                  "name": "Oakport Lough",
+                  "text": "Szép tó Carrick On Shannon közelében, ideális természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.171626,
+                        53.98252
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Békés tó Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192246,
+                        53.989374
+                  ]
+            },
+            {
+                  "name": "Cootehall Lough",
+                  "text": "Festői tó Carrick On Shannon közelében, amely tökéletes a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.161109,
+                        53.977872
+                  ]
+            },
+            {
+                  "name": "Lough Corry",
+                  "text": "Szép tó Carrick On Shannon környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08089,
+                        53.924475
+                  ]
+            },
+            {
+                  "name": "Shanballybaun Lough",
+                  "text": "Csendes tavi úti cél Carrick On Shannon közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.109813,
+                        53.993734
                   ]
             }
       ],
@@ -19749,6 +21027,231 @@ export const irelandCulture: POI[] = [
                         -8.09508,
                         53.946234
                   ]
+            },
+            {
+                  "name": "Headford Lough",
+                  "text": "Un lac liniștit lângă Carrick On Shannon, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984021,
+                        53.940785
+                  ]
+            },
+            {
+                  "name": "Effrinagh Lough",
+                  "text": "O zonă de lac natural în apropiere de Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -7.998071,
+                        53.977635
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Un lac liniștit lângă Carrick On Shannon, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192374,
+                        53.985483
+                  ]
+            },
+            {
+                  "name": "Laundry Lough",
+                  "text": "O întindere de apă pitorească în zona Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.184026,
+                        53.986913
+                  ]
+            },
+            {
+                  "name": "Carrickevy Lough",
+                  "text": "Un lac local lângă Carrick On Shannon cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -8.060568,
+                        53.981562
+                  ]
+            },
+            {
+                  "name": "Costre Lough",
+                  "text": "Un lac liniștit în apropiere de Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.013251,
+                        53.972655
+                  ]
+            },
+            {
+                  "name": "Drumcunny Lough",
+                  "text": "Un lac frumos la țară lângă Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.133135,
+                        54.013128
+                  ]
+            },
+            {
+                  "name": "Kilmaddaroe Lough",
+                  "text": "Un lac mic lângă Carrick On Shannon, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.035826,
+                        53.966036
+                  ]
+            },
+            {
+                  "name": "Lough Bran",
+                  "text": "Un lac lângă Carrick On Shannon care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -8.057349,
+                        53.974339
+                  ]
+            },
+            {
+                  "name": "Lough Naseer",
+                  "text": "O destinație liniștită de lac în regiunea Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08475,
+                        53.982083
+                  ]
+            },
+            {
+                  "name": "Loughaun",
+                  "text": "Un lac natural lângă Carrick On Shannon, perfect pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -8.122595,
+                        54.015006
+                  ]
+            },
+            {
+                  "name": "Drumdoe Lough",
+                  "text": "Un lac local în apropiere de Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.129837,
+                        54.001775
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "O zonă de lac pitorească lângă Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.011528,
+                        53.906413
+                  ]
+            },
+            {
+                  "name": "Ballagh Lough",
+                  "text": "O întindere de apă liniștită lângă Carrick On Shannon, înconjurată de verdeață.",
+                  "category": "natural",
+                  "coords": [
+                        -8.068929,
+                        53.900492
+                  ]
+            },
+            {
+                  "name": "Dooloughan Lough",
+                  "text": "Un lac din zona Carrick On Shannon, ideal pentru o pauză.",
+                  "category": "natural",
+                  "coords": [
+                        -8.00912,
+                        53.994062
+                  ]
+            },
+            {
+                  "name": "Carrickslavan Lough",
+                  "text": "Un lac mic și liniștit lângă Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.038004,
+                        53.987524
+                  ]
+            },
+            {
+                  "name": "Lough Eidin",
+                  "text": "Un lac frumos în regiunea Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.136588,
+                        53.965217
+                  ]
+            },
+            {
+                  "name": "Loughtown Lough",
+                  "text": "Un lac local lângă Carrick On Shannon, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.978352,
+                        53.974496
+                  ]
+            },
+            {
+                  "name": "Annaghearly Lough",
+                  "text": "Un lac liniștit lângă Carrick On Shannon, într-un cadru rural.",
+                  "category": "natural",
+                  "coords": [
+                        -7.995255,
+                        53.986753
+                  ]
+            },
+            {
+                  "name": "Lough Boderg",
+                  "text": "Un lac mare lângă Carrick On Shannon cu un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -7.979857,
+                        53.881044
+                  ]
+            },
+            {
+                  "name": "Oakport Lough",
+                  "text": "Un lac frumos lângă Carrick On Shannon, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.171626,
+                        53.98252
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Un lac liniștit în apropiere de Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192246,
+                        53.989374
+                  ]
+            },
+            {
+                  "name": "Cootehall Lough",
+                  "text": "Un lac pitoresc lângă Carrick On Shannon, perfect pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -8.161109,
+                        53.977872
+                  ]
+            },
+            {
+                  "name": "Lough Corry",
+                  "text": "Un lac frumos în zona Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08089,
+                        53.924475
+                  ]
+            },
+            {
+                  "name": "Shanballybaun Lough",
+                  "text": "O destinație liniștită de lac lângă Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.109813,
+                        53.993734
+                  ]
             }
       ],
       "en": [
@@ -19786,6 +21289,231 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -8.09508,
                         53.946234
+                  ]
+            },
+            {
+                  "name": "Headford Lough",
+                  "text": "A quiet lake near Carrick On Shannon, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984021,
+                        53.940785
+                  ]
+            },
+            {
+                  "name": "Effrinagh Lough",
+                  "text": "A natural lake area near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -7.998071,
+                        53.977635
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "A peaceful lake near Carrick On Shannon, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192374,
+                        53.985483
+                  ]
+            },
+            {
+                  "name": "Laundry Lough",
+                  "text": "A scenic body of water in the Carrick On Shannon area.",
+                  "category": "natural",
+                  "coords": [
+                        -8.184026,
+                        53.986913
+                  ]
+            },
+            {
+                  "name": "Carrickevy Lough",
+                  "text": "A local lake near Carrick On Shannon with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        -8.060568,
+                        53.981562
+                  ]
+            },
+            {
+                  "name": "Costre Lough",
+                  "text": "A tranquil lake located near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.013251,
+                        53.972655
+                  ]
+            },
+            {
+                  "name": "Drumcunny Lough",
+                  "text": "A beautiful lake in the countryside near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.133135,
+                        54.013128
+                  ]
+            },
+            {
+                  "name": "Kilmaddaroe Lough",
+                  "text": "A small lake near Carrick On Shannon, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -8.035826,
+                        53.966036
+                  ]
+            },
+            {
+                  "name": "Lough Bran",
+                  "text": "A lake near Carrick On Shannon offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -8.057349,
+                        53.974339
+                  ]
+            },
+            {
+                  "name": "Lough Naseer",
+                  "text": "A quiet lakeside destination in the Carrick On Shannon region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08475,
+                        53.982083
+                  ]
+            },
+            {
+                  "name": "Loughaun",
+                  "text": "A natural lake near Carrick On Shannon, perfect for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -8.122595,
+                        54.015006
+                  ]
+            },
+            {
+                  "name": "Drumdoe Lough",
+                  "text": "A local lake located near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.129837,
+                        54.001775
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "A scenic lake area near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.011528,
+                        53.906413
+                  ]
+            },
+            {
+                  "name": "Ballagh Lough",
+                  "text": "A tranquil body of water near Carrick On Shannon, surrounded by greenery.",
+                  "category": "natural",
+                  "coords": [
+                        -8.068929,
+                        53.900492
+                  ]
+            },
+            {
+                  "name": "Dooloughan Lough",
+                  "text": "A lake in the Carrick On Shannon area, ideal for a break.",
+                  "category": "natural",
+                  "coords": [
+                        -8.00912,
+                        53.994062
+                  ]
+            },
+            {
+                  "name": "Carrickslavan Lough",
+                  "text": "A small and peaceful lake near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.038004,
+                        53.987524
+                  ]
+            },
+            {
+                  "name": "Lough Eidin",
+                  "text": "A beautiful lake in the Carrick On Shannon region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.136588,
+                        53.965217
+                  ]
+            },
+            {
+                  "name": "Loughtown Lough",
+                  "text": "A local lake near Carrick On Shannon, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.978352,
+                        53.974496
+                  ]
+            },
+            {
+                  "name": "Annaghearly Lough",
+                  "text": "A quiet lake near Carrick On Shannon in a rural setting.",
+                  "category": "natural",
+                  "coords": [
+                        -7.995255,
+                        53.986753
+                  ]
+            },
+            {
+                  "name": "Lough Boderg",
+                  "text": "A large lake near Carrick On Shannon with a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        -7.979857,
+                        53.881044
+                  ]
+            },
+            {
+                  "name": "Oakport Lough",
+                  "text": "A beautiful lake near Carrick On Shannon, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -8.171626,
+                        53.98252
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "A peaceful lake located near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.192246,
+                        53.989374
+                  ]
+            },
+            {
+                  "name": "Cootehall Lough",
+                  "text": "A scenic lake near Carrick On Shannon, perfect for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -8.161109,
+                        53.977872
+                  ]
+            },
+            {
+                  "name": "Lough Corry",
+                  "text": "A beautiful lake in the Carrick On Shannon area.",
+                  "category": "natural",
+                  "coords": [
+                        -8.08089,
+                        53.924475
+                  ]
+            },
+            {
+                  "name": "Shanballybaun Lough",
+                  "text": "A quiet lake destination near Carrick On Shannon.",
+                  "category": "natural",
+                  "coords": [
+                        -8.109813,
+                        53.993734
                   ]
             }
       ]
@@ -21363,6 +23091,231 @@ export const irelandCulture: POI[] = [
                         -6.969493,
                         54.248051
                   ]
+            },
+            {
+                  "name": "Drumreask Lough",
+                  "text": "Drumreask Lough ist ein See in Monaghan, ideal für Naturfreunde und ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        -7.014986,
+                        54.260085
+                  ]
+            },
+            {
+                  "name": "Quig Lough",
+                  "text": "Quig Lough ist ein See in Monaghan, der eine friedliche Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.030175,
+                        54.263119
+                  ]
+            },
+            {
+                  "name": "Aghnasedagh Lough",
+                  "text": "Aghnasedagh Lough ist ein See in Monaghan, der sich gut für einen erholsamen Aufenthalt im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.935085,
+                        54.250494
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (North)",
+                  "text": "Mullaghinshigo Lough (North) ist ein See in Monaghan, der durch seine natürliche Ruhe besticht.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033821,
+                        54.299045
+                  ]
+            },
+            {
+                  "name": "Drumsnat Lough",
+                  "text": "Drumsnat Lough ist ein See in Monaghan, an dem man die schöne Landschaft genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062888,
+                        54.222781
+                  ]
+            },
+            {
+                  "name": "Cornaglare Lough",
+                  "text": "Cornaglare Lough ist ein See in Monaghan, der einen entspannenden Rückzugsort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.004873,
+                        54.215822
+                  ]
+            },
+            {
+                  "name": "Knockaturly Lough",
+                  "text": "Knockaturly Lough ist ein See in Monaghan, ideal für eine kleine Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976184,
+                        54.203871
+                  ]
+            },
+            {
+                  "name": "Blackraw Lough",
+                  "text": "Blackraw Lough ist ein See in Monaghan, der für seine ruhige Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.023827,
+                        54.188205
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (South)",
+                  "text": "Mullaghinshigo Lough (South) ist ein See in Monaghan, der zu entspannten Stunden im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033261,
+                        54.294849
+                  ]
+            },
+            {
+                  "name": "Lough Duff",
+                  "text": "Lough Duff ist ein See in Monaghan, der einen friedlichen Ort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053831,
+                        54.279164
+                  ]
+            },
+            {
+                  "name": "Drumaclan Lough",
+                  "text": "Drumaclan Lough ist ein See in Monaghan, ideal für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        -7.013892,
+                        54.222025
+                  ]
+            },
+            {
+                  "name": "Drummuck Lough",
+                  "text": "Drummuck Lough ist ein See in Monaghan, der durch seine malerische Umgebung besticht.",
+                  "category": "natural",
+                  "coords": [
+                        -6.997038,
+                        54.202406
+                  ]
+            },
+            {
+                  "name": "Tattindonagh Lough",
+                  "text": "Tattindonagh Lough ist ein See in Monaghan, der eine ruhige Kulisse für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.047682,
+                        54.245493
+                  ]
+            },
+            {
+                  "name": "Priestfield Lough",
+                  "text": "Priestfield Lough ist ein See in Monaghan, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        -7.003463,
+                        54.222475
+                  ]
+            },
+            {
+                  "name": "Lambs Lough",
+                  "text": "Lambs Lough ist ein See in Monaghan, der zu einem entspannten Aufenthalt einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.970174,
+                        54.267533
+                  ]
+            },
+            {
+                  "name": "Billises Lough",
+                  "text": "Billises Lough ist ein See in Monaghan, der für seine natürliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -6.967148,
+                        54.275741
+                  ]
+            },
+            {
+                  "name": "Shelvins Lough",
+                  "text": "Shelvins Lough ist ein See in Monaghan, der eine friedliche Umgebung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.895986,
+                        54.280878
+                  ]
+            },
+            {
+                  "name": "Drumbenagh Lough",
+                  "text": "Drumbenagh Lough ist ein See in Monaghan, ideal für erholsame Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.99106,
+                        54.272103
+                  ]
+            },
+            {
+                  "name": "Tully Lough",
+                  "text": "Tully Lough ist ein See in Monaghan, der zum Entspannen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.010555,
+                        54.280653
+                  ]
+            },
+            {
+                  "name": "Sheetrim Lough",
+                  "text": "Sheetrim Lough ist ein See in Monaghan, der eine ruhige Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.990138,
+                        54.292997
+                  ]
+            },
+            {
+                  "name": "Oviggy Lough",
+                  "text": "Oviggy Lough ist ein See in Monaghan, ein schöner Ort für einen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -6.958509,
+                        54.27765
+                  ]
+            },
+            {
+                  "name": "Annyalty Lough",
+                  "text": "Annyalty Lough ist ein See in Monaghan, der durch seine natürliche Ruhe überzeugt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.050089,
+                        54.251961
+                  ]
+            },
+            {
+                  "name": "Tullyaghan Lake",
+                  "text": "Tullyaghan Lake ist ein See in Monaghan, ideal für einen friedlichen Aufenthalt am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062771,
+                        54.253545
+                  ]
+            },
+            {
+                  "name": "Annyeeb Lough",
+                  "text": "Annyeeb Lough ist ein See in Monaghan, der Besuchern einen malerischen Anblick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.085798,
+                        54.242015
+                  ]
+            },
+            {
+                  "name": "Lisnashannagh Lough",
+                  "text": "Lisnashannagh Lough ist ein See in Monaghan, der zu ruhigen Stunden in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976347,
+                        54.199218
+                  ]
             }
       ],
       "hu": [
@@ -21472,6 +23425,231 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.969493,
                         54.248051
+                  ]
+            },
+            {
+                  "name": "Drumreask Lough",
+                  "text": "A Drumreask Lough egy tó Monaghanben, ideális a természet kedvelőinek és a nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.014986,
+                        54.260085
+                  ]
+            },
+            {
+                  "name": "Quig Lough",
+                  "text": "A Quig Lough egy tó Monaghanben, amely békés környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.030175,
+                        54.263119
+                  ]
+            },
+            {
+                  "name": "Aghnasedagh Lough",
+                  "text": "Az Aghnasedagh Lough egy tó Monaghanben, amely kiválóan alkalmas egy pihentető szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.935085,
+                        54.250494
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (North)",
+                  "text": "A Mullaghinshigo Lough (North) egy tó Monaghanben, amely természetes nyugalmával hódít.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033821,
+                        54.299045
+                  ]
+            },
+            {
+                  "name": "Drumsnat Lough",
+                  "text": "A Drumsnat Lough egy tó Monaghanben, ahol élvezheti a szép tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062888,
+                        54.222781
+                  ]
+            },
+            {
+                  "name": "Cornaglare Lough",
+                  "text": "A Cornaglare Lough egy tó Monaghanben, amely pihentető menedéket nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.004873,
+                        54.215822
+                  ]
+            },
+            {
+                  "name": "Knockaturly Lough",
+                  "text": "A Knockaturly Lough egy tó Monaghanben, ideális egy kis kikapcsolódáshoz a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976184,
+                        54.203871
+                  ]
+            },
+            {
+                  "name": "Blackraw Lough",
+                  "text": "A Blackraw Lough egy tó Monaghanben, amely nyugodt légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.023827,
+                        54.188205
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (South)",
+                  "text": "A Mullaghinshigo Lough (South) egy tó Monaghanben, amely szabadtéri kikapcsolódásra invitál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033261,
+                        54.294849
+                  ]
+            },
+            {
+                  "name": "Lough Duff",
+                  "text": "A Lough Duff egy tó Monaghanben, amely békés helyszínt biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053831,
+                        54.279164
+                  ]
+            },
+            {
+                  "name": "Drumaclan Lough",
+                  "text": "A Drumaclan Lough egy tó Monaghanben, ideális természetjáráshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.013892,
+                        54.222025
+                  ]
+            },
+            {
+                  "name": "Drummuck Lough",
+                  "text": "A Drummuck Lough egy tó Monaghanben, amely festői környezetével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -6.997038,
+                        54.202406
+                  ]
+            },
+            {
+                  "name": "Tattindonagh Lough",
+                  "text": "A Tattindonagh Lough egy tó Monaghanben, amely nyugodt környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.047682,
+                        54.245493
+                  ]
+            },
+            {
+                  "name": "Priestfield Lough",
+                  "text": "A Priestfield Lough egy tó Monaghanben, ideális egy zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.003463,
+                        54.222475
+                  ]
+            },
+            {
+                  "name": "Lambs Lough",
+                  "text": "A Lambs Lough egy tó Monaghanben, amely pihentető időtöltésre invitál.",
+                  "category": "natural",
+                  "coords": [
+                        -6.970174,
+                        54.267533
+                  ]
+            },
+            {
+                  "name": "Billises Lough",
+                  "text": "A Billises Lough egy tó Monaghanben, amely természetes szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.967148,
+                        54.275741
+                  ]
+            },
+            {
+                  "name": "Shelvins Lough",
+                  "text": "A Shelvins Lough egy tó Monaghanben, amely békés környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -6.895986,
+                        54.280878
+                  ]
+            },
+            {
+                  "name": "Drumbenagh Lough",
+                  "text": "A Drumbenagh Lough egy tó Monaghanben, ideális pihentető pillanatokhoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -6.99106,
+                        54.272103
+                  ]
+            },
+            {
+                  "name": "Tully Lough",
+                  "text": "A Tully Lough egy tó Monaghanben, amely pihenésre és kikapcsolódásra invitál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.010555,
+                        54.280653
+                  ]
+            },
+            {
+                  "name": "Sheetrim Lough",
+                  "text": "A Sheetrim Lough egy tó Monaghanben, amely nyugodt légkört kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -6.990138,
+                        54.292997
+                  ]
+            },
+            {
+                  "name": "Oviggy Lough",
+                  "text": "Az Oviggy Lough egy tó Monaghanben, szép helyszín egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -6.958509,
+                        54.27765
+                  ]
+            },
+            {
+                  "name": "Annyalty Lough",
+                  "text": "Az Annyalty Lough egy tó Monaghanben, amely természetes nyugalmával hódít.",
+                  "category": "natural",
+                  "coords": [
+                        -7.050089,
+                        54.251961
+                  ]
+            },
+            {
+                  "name": "Tullyaghan Lake",
+                  "text": "A Tullyaghan Lake egy tó Monaghanben, ideális egy békés időtöltéshez a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062771,
+                        54.253545
+                  ]
+            },
+            {
+                  "name": "Annyeeb Lough",
+                  "text": "Az Annyeeb Lough egy tó Monaghanben, amely festői látványt nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.085798,
+                        54.242015
+                  ]
+            },
+            {
+                  "name": "Lisnashannagh Lough",
+                  "text": "A Lisnashannagh Lough egy tó Monaghanben, amely nyugodt órákra hív a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976347,
+                        54.199218
                   ]
             }
       ],
@@ -21583,6 +23761,231 @@ export const irelandCulture: POI[] = [
                         -6.969493,
                         54.248051
                   ]
+            },
+            {
+                  "name": "Drumreask Lough",
+                  "text": "Drumreask Lough este un lac din Monaghan, ideal pentru iubitorii de natură și momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        -7.014986,
+                        54.260085
+                  ]
+            },
+            {
+                  "name": "Quig Lough",
+                  "text": "Quig Lough este un lac din Monaghan, oferind un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -7.030175,
+                        54.263119
+                  ]
+            },
+            {
+                  "name": "Aghnasedagh Lough",
+                  "text": "Aghnasedagh Lough este un lac din Monaghan, potrivit pentru o ieșire relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -6.935085,
+                        54.250494
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (North)",
+                  "text": "Mullaghinshigo Lough (North) este un lac din Monaghan, care impresionează prin liniștea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033821,
+                        54.299045
+                  ]
+            },
+            {
+                  "name": "Drumsnat Lough",
+                  "text": "Drumsnat Lough este un lac din Monaghan, unde puteți admira peisajul frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062888,
+                        54.222781
+                  ]
+            },
+            {
+                  "name": "Cornaglare Lough",
+                  "text": "Cornaglare Lough este un lac din Monaghan, oferind un refugiu relaxant în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.004873,
+                        54.215822
+                  ]
+            },
+            {
+                  "name": "Knockaturly Lough",
+                  "text": "Knockaturly Lough este un lac din Monaghan, ideal pentru o scurtă pauză la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976184,
+                        54.203871
+                  ]
+            },
+            {
+                  "name": "Blackraw Lough",
+                  "text": "Blackraw Lough este un lac din Monaghan, cunoscut pentru atmosfera sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.023827,
+                        54.188205
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (South)",
+                  "text": "Mullaghinshigo Lough (South) este un lac din Monaghan, invitând la ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033261,
+                        54.294849
+                  ]
+            },
+            {
+                  "name": "Lough Duff",
+                  "text": "Lough Duff este un lac din Monaghan, oferind un loc liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053831,
+                        54.279164
+                  ]
+            },
+            {
+                  "name": "Drumaclan Lough",
+                  "text": "Drumaclan Lough este un lac din Monaghan, ideal pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -7.013892,
+                        54.222025
+                  ]
+            },
+            {
+                  "name": "Drummuck Lough",
+                  "text": "Drummuck Lough este un lac din Monaghan, remarcându-se prin cadrul său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -6.997038,
+                        54.202406
+                  ]
+            },
+            {
+                  "name": "Tattindonagh Lough",
+                  "text": "Tattindonagh Lough este un lac din Monaghan, oferind un cadru liniștit pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.047682,
+                        54.245493
+                  ]
+            },
+            {
+                  "name": "Priestfield Lough",
+                  "text": "Priestfield Lough este un lac din Monaghan, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.003463,
+                        54.222475
+                  ]
+            },
+            {
+                  "name": "Lambs Lough",
+                  "text": "Lambs Lough este un lac din Monaghan, invitând la o ședere relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -6.970174,
+                        54.267533
+                  ]
+            },
+            {
+                  "name": "Billises Lough",
+                  "text": "Billises Lough este un lac din Monaghan, cunoscut pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -6.967148,
+                        54.275741
+                  ]
+            },
+            {
+                  "name": "Shelvins Lough",
+                  "text": "Shelvins Lough este un lac din Monaghan, oferind un mediu liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.895986,
+                        54.280878
+                  ]
+            },
+            {
+                  "name": "Drumbenagh Lough",
+                  "text": "Drumbenagh Lough este un lac din Monaghan, ideal pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.99106,
+                        54.272103
+                  ]
+            },
+            {
+                  "name": "Tully Lough",
+                  "text": "Tully Lough este un lac din Monaghan, care invită la relaxare și petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -7.010555,
+                        54.280653
+                  ]
+            },
+            {
+                  "name": "Sheetrim Lough",
+                  "text": "Sheetrim Lough este un lac din Monaghan, oferind o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -6.990138,
+                        54.292997
+                  ]
+            },
+            {
+                  "name": "Oviggy Lough",
+                  "text": "Oviggy Lough este un lac din Monaghan, un loc frumos pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -6.958509,
+                        54.27765
+                  ]
+            },
+            {
+                  "name": "Annyalty Lough",
+                  "text": "Annyalty Lough este un lac din Monaghan, convingând prin liniștea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.050089,
+                        54.251961
+                  ]
+            },
+            {
+                  "name": "Tullyaghan Lake",
+                  "text": "Tullyaghan Lake este un lac din Monaghan, ideal pentru o ședere liniștită la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062771,
+                        54.253545
+                  ]
+            },
+            {
+                  "name": "Annyeeb Lough",
+                  "text": "Annyeeb Lough este un lac din Monaghan, oferind vizitatorilor o priveliște pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -7.085798,
+                        54.242015
+                  ]
+            },
+            {
+                  "name": "Lisnashannagh Lough",
+                  "text": "Lisnashannagh Lough este un lac din Monaghan, invitând la ore liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976347,
+                        54.199218
+                  ]
             }
       ],
       "en": [
@@ -21692,6 +24095,231 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.969493,
                         54.248051
+                  ]
+            },
+            {
+                  "name": "Drumreask Lough",
+                  "text": "Drumreask Lough is a lake in Monaghan, ideal for nature lovers and quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        -7.014986,
+                        54.260085
+                  ]
+            },
+            {
+                  "name": "Quig Lough",
+                  "text": "Quig Lough is a lake in Monaghan, offering a peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -7.030175,
+                        54.263119
+                  ]
+            },
+            {
+                  "name": "Aghnasedagh Lough",
+                  "text": "Aghnasedagh Lough is a lake in Monaghan, well-suited for a relaxing outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        -6.935085,
+                        54.250494
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (North)",
+                  "text": "Mullaghinshigo Lough (North) is a lake in Monaghan, known for its natural tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033821,
+                        54.299045
+                  ]
+            },
+            {
+                  "name": "Drumsnat Lough",
+                  "text": "Drumsnat Lough is a lake in Monaghan, where you can enjoy the beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062888,
+                        54.222781
+                  ]
+            },
+            {
+                  "name": "Cornaglare Lough",
+                  "text": "Cornaglare Lough is a lake in Monaghan, offering a relaxing retreat in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -7.004873,
+                        54.215822
+                  ]
+            },
+            {
+                  "name": "Knockaturly Lough",
+                  "text": "Knockaturly Lough is a lake in Monaghan, ideal for a short break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976184,
+                        54.203871
+                  ]
+            },
+            {
+                  "name": "Blackraw Lough",
+                  "text": "Blackraw Lough is a lake in Monaghan, known for its calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.023827,
+                        54.188205
+                  ]
+            },
+            {
+                  "name": "Mullaghinshigo Lough (South)",
+                  "text": "Mullaghinshigo Lough (South) is a lake in Monaghan, inviting relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -7.033261,
+                        54.294849
+                  ]
+            },
+            {
+                  "name": "Lough Duff",
+                  "text": "Lough Duff is a lake in Monaghan, offering a peaceful location in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053831,
+                        54.279164
+                  ]
+            },
+            {
+                  "name": "Drumaclan Lough",
+                  "text": "Drumaclan Lough is a lake in Monaghan, ideal for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        -7.013892,
+                        54.222025
+                  ]
+            },
+            {
+                  "name": "Drummuck Lough",
+                  "text": "Drummuck Lough is a lake in Monaghan, standing out for its scenic surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -6.997038,
+                        54.202406
+                  ]
+            },
+            {
+                  "name": "Tattindonagh Lough",
+                  "text": "Tattindonagh Lough is a lake in Monaghan, providing a calm backdrop for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.047682,
+                        54.245493
+                  ]
+            },
+            {
+                  "name": "Priestfield Lough",
+                  "text": "Priestfield Lough is a lake in Monaghan, ideal for a trip into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        -7.003463,
+                        54.222475
+                  ]
+            },
+            {
+                  "name": "Lambs Lough",
+                  "text": "Lambs Lough is a lake in Monaghan, inviting a relaxed stay.",
+                  "category": "natural",
+                  "coords": [
+                        -6.970174,
+                        54.267533
+                  ]
+            },
+            {
+                  "name": "Billises Lough",
+                  "text": "Billises Lough is a lake in Monaghan, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -6.967148,
+                        54.275741
+                  ]
+            },
+            {
+                  "name": "Shelvins Lough",
+                  "text": "Shelvins Lough is a lake in Monaghan, offering a peaceful environment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.895986,
+                        54.280878
+                  ]
+            },
+            {
+                  "name": "Drumbenagh Lough",
+                  "text": "Drumbenagh Lough is a lake in Monaghan, ideal for restful moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.99106,
+                        54.272103
+                  ]
+            },
+            {
+                  "name": "Tully Lough",
+                  "text": "Tully Lough is a lake in Monaghan, inviting you to relax and linger.",
+                  "category": "natural",
+                  "coords": [
+                        -7.010555,
+                        54.280653
+                  ]
+            },
+            {
+                  "name": "Sheetrim Lough",
+                  "text": "Sheetrim Lough is a lake in Monaghan, offering a quiet atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -6.990138,
+                        54.292997
+                  ]
+            },
+            {
+                  "name": "Oviggy Lough",
+                  "text": "Oviggy Lough is a lake in Monaghan, a nice place for an outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        -6.958509,
+                        54.27765
+                  ]
+            },
+            {
+                  "name": "Annyalty Lough",
+                  "text": "Annyalty Lough is a lake in Monaghan, impressing with its natural tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        -7.050089,
+                        54.251961
+                  ]
+            },
+            {
+                  "name": "Tullyaghan Lake",
+                  "text": "Tullyaghan Lake is a lake in Monaghan, ideal for a peaceful stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.062771,
+                        54.253545
+                  ]
+            },
+            {
+                  "name": "Annyeeb Lough",
+                  "text": "Annyeeb Lough is a lake in Monaghan, offering visitors a scenic view.",
+                  "category": "natural",
+                  "coords": [
+                        -7.085798,
+                        54.242015
+                  ]
+            },
+            {
+                  "name": "Lisnashannagh Lough",
+                  "text": "Lisnashannagh Lough is a lake in Monaghan, inviting quiet hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.976347,
+                        54.199218
                   ]
             }
       ]
@@ -22781,7 +25409,52 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-clonmel",
+    id: "city-clonmel", "sights": {
+      "de": [
+            {
+                  "name": "Marlfield Lake",
+                  "text": "Marlfield Lake ist ein See in Clonmel, der ein friedliches Ziel für Naturliebhaber darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.749509,
+                        52.351301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marlfield Lake",
+                  "text": "A Marlfield Lake egy tó Clonmelben, amely békés úti cél a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.749509,
+                        52.351301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marlfield Lake",
+                  "text": "Marlfield Lake este un lac din Clonmel, reprezentând o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.749509,
+                        52.351301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marlfield Lake",
+                  "text": "Marlfield Lake is a lake in Clonmel, serving as a peaceful destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.749509,
+                        52.351301
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.7039, 52.3550],
@@ -23427,6 +26100,33 @@ export const irelandCulture: POI[] = [
                         -6.045765,
                         52.983218
                   ]
+            },
+            {
+                  "name": "Wicklow Reservoir",
+                  "text": "Wicklow Reservoir ist ein See in Wicklow, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.071667,
+                        52.974916
+                  ]
+            },
+            {
+                  "name": "Basic Playground",
+                  "text": "Basic Playground ist ein Spielplatz in Wicklow, der Kindern Spaß und Bewegung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.028432,
+                        52.974614
+                  ]
+            },
+            {
+                  "name": "Murrough Playground",
+                  "text": "Murrough Playground ist ein familienfreundlicher Spielplatz in Wicklow mit tollen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        -6.04591,
+                        52.988717
+                  ]
             }
       ],
       "hu": [
@@ -23491,6 +26191,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.045765,
                         52.983218
+                  ]
+            },
+            {
+                  "name": "Wicklow Reservoir",
+                  "text": "A Wicklow Reservoir egy tó Wicklow-ban, amely kiválóan alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -6.071667,
+                        52.974916
+                  ]
+            },
+            {
+                  "name": "Basic Playground",
+                  "text": "A Basic Playground egy játszótér Wicklow-ban, amely szórakozást és mozgást kínál a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        -6.028432,
+                        52.974614
+                  ]
+            },
+            {
+                  "name": "Murrough Playground",
+                  "text": "A Murrough Playground egy családbarát játszótér Wicklow-ban, nagyszerű játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        -6.04591,
+                        52.988717
                   ]
             }
       ],
@@ -23557,6 +26284,33 @@ export const irelandCulture: POI[] = [
                         -6.045765,
                         52.983218
                   ]
+            },
+            {
+                  "name": "Wicklow Reservoir",
+                  "text": "Wicklow Reservoir este un lac din Wicklow, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -6.071667,
+                        52.974916
+                  ]
+            },
+            {
+                  "name": "Basic Playground",
+                  "text": "Basic Playground este un teren de joacă din Wicklow, oferind copiilor distracție și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -6.028432,
+                        52.974614
+                  ]
+            },
+            {
+                  "name": "Murrough Playground",
+                  "text": "Murrough Playground este un teren de joacă pentru familii din Wicklow, cu echipamente de joacă excelente.",
+                  "category": "family",
+                  "coords": [
+                        -6.04591,
+                        52.988717
+                  ]
             }
       ],
       "en": [
@@ -23621,6 +26375,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.045765,
                         52.983218
+                  ]
+            },
+            {
+                  "name": "Wicklow Reservoir",
+                  "text": "Wicklow Reservoir is a lake in Wicklow, well-suited for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -6.071667,
+                        52.974916
+                  ]
+            },
+            {
+                  "name": "Basic Playground",
+                  "text": "Basic Playground is a playground in Wicklow, offering children fun and exercise outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -6.028432,
+                        52.974614
+                  ]
+            },
+            {
+                  "name": "Murrough Playground",
+                  "text": "Murrough Playground is a family-friendly playground in Wicklow with great play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -6.04591,
+                        52.988717
                   ]
             }
       ]
@@ -23750,6 +26531,132 @@ export const irelandCulture: POI[] = [
                         -9.150601,
                         54.112896
                   ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "Ein malerischer See bei Ballina, ideal für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06985,
+                        54.066963
+                  ]
+            },
+            {
+                  "name": "Lough Cuorhaun",
+                  "text": "Ein natürliches Seegebiet in der Region Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.075238,
+                        54.066866
+                  ]
+            },
+            {
+                  "name": "Lough Keeran",
+                  "text": "Ein ruhiges Gewässer bei Ballina, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -9.20287,
+                        54.082575
+                  ]
+            },
+            {
+                  "name": "Wood Lough",
+                  "text": "Ein friedlicher See bei Ballina, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.203771,
+                        54.079345
+                  ]
+            },
+            {
+                  "name": "Cloonyvollow Lough",
+                  "text": "Ein lokaler See bei Ballina mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -9.195288,
+                        54.078493
+                  ]
+            },
+            {
+                  "name": "Ballyderg Lough",
+                  "text": "Ein ruhiger See in der Landschaft bei Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.191268,
+                        54.078316
+                  ]
+            },
+            {
+                  "name": "Flax Lough",
+                  "text": "Ein kleiner See bei Ballina, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -9.062401,
+                        54.089103
+                  ]
+            },
+            {
+                  "name": "Lough Lauravally",
+                  "text": "Ein malerisches Gewässer in der Gegend von Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.064464,
+                        54.087713
+                  ]
+            },
+            {
+                  "name": "Lough Conn",
+                  "text": "Ein großer See bei Ballina mit malerischer Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -9.238902,
+                        54.042601
+                  ]
+            },
+            {
+                  "name": "Ballymore Lough",
+                  "text": "Ein natürlicher See bei Ballina, perfekt für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -9.084311,
+                        54.059759
+                  ]
+            },
+            {
+                  "name": "Carrowkeribly Lough",
+                  "text": "Ein ruhiger See in der Nähe von Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.117303,
+                        54.047524
+                  ]
+            },
+            {
+                  "name": "Lough Alick",
+                  "text": "Ein kleines Seeziel in der Region Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.201661,
+                        54.072036
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Ein schöner See bei Ballina, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.217612,
+                        54.138419
+                  ]
+            },
+            {
+                  "name": "Lough Brolly",
+                  "text": "Ein friedlicher See in der Nähe von Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055097,
+                        54.077388
+                  ]
             }
       ],
       "hu": [
@@ -23832,6 +26739,132 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.150601,
                         54.112896
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "Festői tó Ballina közelében, amely ideális egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06985,
+                        54.066963
+                  ]
+            },
+            {
+                  "name": "Lough Cuorhaun",
+                  "text": "Természetes tóvidék a Ballina régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.075238,
+                        54.066866
+                  ]
+            },
+            {
+                  "name": "Lough Keeran",
+                  "text": "Nyugodt vízfelület Ballina közelében, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.20287,
+                        54.082575
+                  ]
+            },
+            {
+                  "name": "Wood Lough",
+                  "text": "Békés tó Ballina közelében, amely ideális a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.203771,
+                        54.079345
+                  ]
+            },
+            {
+                  "name": "Cloonyvollow Lough",
+                  "text": "Helyi tó Ballina közelében, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -9.195288,
+                        54.078493
+                  ]
+            },
+            {
+                  "name": "Ballyderg Lough",
+                  "text": "Csendes tó a vidékben, Ballina közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.191268,
+                        54.078316
+                  ]
+            },
+            {
+                  "name": "Flax Lough",
+                  "text": "Kis tó Ballina közelében, a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -9.062401,
+                        54.089103
+                  ]
+            },
+            {
+                  "name": "Lough Lauravally",
+                  "text": "Festői vízfelület Ballina környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -9.064464,
+                        54.087713
+                  ]
+            },
+            {
+                  "name": "Lough Conn",
+                  "text": "Nagy tó Ballina közelében, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.238902,
+                        54.042601
+                  ]
+            },
+            {
+                  "name": "Ballymore Lough",
+                  "text": "Természetes tó Ballina közelében, amely tökéletes egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.084311,
+                        54.059759
+                  ]
+            },
+            {
+                  "name": "Carrowkeribly Lough",
+                  "text": "Csendes tó Ballina közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.117303,
+                        54.047524
+                  ]
+            },
+            {
+                  "name": "Lough Alick",
+                  "text": "Kis tavi úti cél a Ballina régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.201661,
+                        54.072036
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Szép tó Ballina közelében, ideális természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.217612,
+                        54.138419
+                  ]
+            },
+            {
+                  "name": "Lough Brolly",
+                  "text": "Békés tó Ballina közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055097,
+                        54.077388
                   ]
             }
       ],
@@ -23916,6 +26949,132 @@ export const irelandCulture: POI[] = [
                         -9.150601,
                         54.112896
                   ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "Un lac pitoresc lângă Ballina, ideal pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06985,
+                        54.066963
+                  ]
+            },
+            {
+                  "name": "Lough Cuorhaun",
+                  "text": "O zonă de lac natural în regiunea Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.075238,
+                        54.066866
+                  ]
+            },
+            {
+                  "name": "Lough Keeran",
+                  "text": "O întindere de apă liniștită lângă Ballina, înconjurată de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.20287,
+                        54.082575
+                  ]
+            },
+            {
+                  "name": "Wood Lough",
+                  "text": "Un lac liniștit lângă Ballina, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.203771,
+                        54.079345
+                  ]
+            },
+            {
+                  "name": "Cloonyvollow Lough",
+                  "text": "Un lac local lângă Ballina cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -9.195288,
+                        54.078493
+                  ]
+            },
+            {
+                  "name": "Ballyderg Lough",
+                  "text": "Un lac liniștit la țară lângă Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.191268,
+                        54.078316
+                  ]
+            },
+            {
+                  "name": "Flax Lough",
+                  "text": "Un lac mic lângă Ballina, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.062401,
+                        54.089103
+                  ]
+            },
+            {
+                  "name": "Lough Lauravally",
+                  "text": "O întindere de apă pitorească în zona Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.064464,
+                        54.087713
+                  ]
+            },
+            {
+                  "name": "Lough Conn",
+                  "text": "Un lac mare lângă Ballina cu un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -9.238902,
+                        54.042601
+                  ]
+            },
+            {
+                  "name": "Ballymore Lough",
+                  "text": "Un lac natural lângă Ballina, perfect pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.084311,
+                        54.059759
+                  ]
+            },
+            {
+                  "name": "Carrowkeribly Lough",
+                  "text": "Un lac liniștit în apropiere de Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.117303,
+                        54.047524
+                  ]
+            },
+            {
+                  "name": "Lough Alick",
+                  "text": "O destinație de lac mic în regiunea Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.201661,
+                        54.072036
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Un lac frumos lângă Ballina, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -9.217612,
+                        54.138419
+                  ]
+            },
+            {
+                  "name": "Lough Brolly",
+                  "text": "Un lac liniștit în apropiere de Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055097,
+                        54.077388
+                  ]
             }
       ],
       "en": [
@@ -23998,6 +27157,132 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.150601,
                         54.112896
+                  ]
+            },
+            {
+                  "name": "Cartron Lough",
+                  "text": "A scenic lake near Ballina, ideal for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06985,
+                        54.066963
+                  ]
+            },
+            {
+                  "name": "Lough Cuorhaun",
+                  "text": "A natural lake area in the Ballina region.",
+                  "category": "natural",
+                  "coords": [
+                        -9.075238,
+                        54.066866
+                  ]
+            },
+            {
+                  "name": "Lough Keeran",
+                  "text": "A tranquil body of water near Ballina, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.20287,
+                        54.082575
+                  ]
+            },
+            {
+                  "name": "Wood Lough",
+                  "text": "A peaceful lake near Ballina, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -9.203771,
+                        54.079345
+                  ]
+            },
+            {
+                  "name": "Cloonyvollow Lough",
+                  "text": "A local lake near Ballina with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        -9.195288,
+                        54.078493
+                  ]
+            },
+            {
+                  "name": "Ballyderg Lough",
+                  "text": "A quiet lake in the countryside near Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.191268,
+                        54.078316
+                  ]
+            },
+            {
+                  "name": "Flax Lough",
+                  "text": "A small lake near Ballina, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -9.062401,
+                        54.089103
+                  ]
+            },
+            {
+                  "name": "Lough Lauravally",
+                  "text": "A scenic body of water in the Ballina area.",
+                  "category": "natural",
+                  "coords": [
+                        -9.064464,
+                        54.087713
+                  ]
+            },
+            {
+                  "name": "Lough Conn",
+                  "text": "A large lake near Ballina with a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        -9.238902,
+                        54.042601
+                  ]
+            },
+            {
+                  "name": "Ballymore Lough",
+                  "text": "A natural lake near Ballina, perfect for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -9.084311,
+                        54.059759
+                  ]
+            },
+            {
+                  "name": "Carrowkeribly Lough",
+                  "text": "A tranquil lake located near Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.117303,
+                        54.047524
+                  ]
+            },
+            {
+                  "name": "Lough Alick",
+                  "text": "A small lakeside destination in the Ballina region.",
+                  "category": "natural",
+                  "coords": [
+                        -9.201661,
+                        54.072036
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "A beautiful lake near Ballina, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -9.217612,
+                        54.138419
+                  ]
+            },
+            {
+                  "name": "Lough Brolly",
+                  "text": "A peaceful lake located near Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055097,
+                        54.077388
                   ]
             }
       ]

@@ -793,6 +793,42 @@ export const serbiaDistrictPoi: POI[] = [
                         20.467588,
                         45.81876
                   ]
+            },
+            {
+                  "name": "Старо језеро",
+                  "text": "Ein historisches Seegebiet in Kikinda, das einen malerischen Ort zum Wandern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.466577,
+                        45.838001
+                  ]
+            },
+            {
+                  "name": "Ninano",
+                  "text": "Ein lustiger und sicherer Spielplatz in Kikinda mit verschiedenen Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.456602,
+                        45.820355
+                  ]
+            },
+            {
+                  "name": "Čarolija",
+                  "text": "Čarolija ist ein Spielplatz in Kikinda, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.461864,
+                        45.826468
+                  ]
+            },
+            {
+                  "name": "Дечија играоница Чаробни Дворац",
+                  "text": "Дечија играоница Чаробни Дворац ist ein Spielplatz in Kikinda, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.467848,
+                        45.832802
+                  ]
             }
       ],
       "hu": [
@@ -902,6 +938,42 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.467588,
                         45.81876
+                  ]
+            },
+            {
+                  "name": "Старо језеро",
+                  "text": "Történelmi tóvidék Nagykikindán, amely festői helyszínt kínál a pihenéshez és sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.466577,
+                        45.838001
+                  ]
+            },
+            {
+                  "name": "Ninano",
+                  "text": "Vidám és biztonságos játszótér Nagykikindán, amely különféle tevékenységeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        20.456602,
+                        45.820355
+                  ]
+            },
+            {
+                  "name": "Čarolija",
+                  "text": "A Čarolija egy játszótér Kikinda városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.461864,
+                        45.826468
+                  ]
+            },
+            {
+                  "name": "Дечија играоница Чаробни Дворац",
+                  "text": "A Дечија играоница Чаробни Дворац egy játszótér Kikinda városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.467848,
+                        45.832802
                   ]
             }
       ],
@@ -1013,6 +1085,42 @@ export const serbiaDistrictPoi: POI[] = [
                         20.467588,
                         45.81876
                   ]
+            },
+            {
+                  "name": "Старо језеро",
+                  "text": "O zonă de lac istorică în Kikinda, oferind un loc pitoresc pentru relaxare și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        20.466577,
+                        45.838001
+                  ]
+            },
+            {
+                  "name": "Ninano",
+                  "text": "Un loc de joacă distractiv și sigur în Kikinda, oferind diverse activități pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.456602,
+                        45.820355
+                  ]
+            },
+            {
+                  "name": "Čarolija",
+                  "text": "Čarolija este un loc de joacă în Kikinda, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.461864,
+                        45.826468
+                  ]
+            },
+            {
+                  "name": "Дечија играоница Чаробни Дворац",
+                  "text": "Дечија играоница Чаробни Дворац este un loc de joacă în Kikinda, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.467848,
+                        45.832802
+                  ]
             }
       ],
       "en": [
@@ -1122,6 +1230,42 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.467588,
                         45.81876
+                  ]
+            },
+            {
+                  "name": "Старо језеро",
+                  "text": "A historic lake area in Kikinda, offering a scenic spot for relaxation and walking.",
+                  "category": "natural",
+                  "coords": [
+                        20.466577,
+                        45.838001
+                  ]
+            },
+            {
+                  "name": "Ninano",
+                  "text": "A fun and safe playground in Kikinda, providing various activities for local families.",
+                  "category": "family",
+                  "coords": [
+                        20.456602,
+                        45.820355
+                  ]
+            },
+            {
+                  "name": "Čarolija",
+                  "text": "Čarolija is a playground in Kikinda offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.461864,
+                        45.826468
+                  ]
+            },
+            {
+                  "name": "Дечија играоница Чаробни Дворац",
+                  "text": "Дечија играоница Чаробни Дворац is a playground in Kikinda offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.467848,
+                        45.832802
                   ]
             }
       ]
@@ -1860,6 +2004,15 @@ export const serbiaDistrictPoi: POI[] = [
                         22.102527,
                         44.05576
                   ]
+            },
+            {
+                  "name": "Парк „Ракета”",
+                  "text": "Rocket Park ist ein Spielplatz in City Bor, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.099736,
+                        44.070331
+                  ]
             }
       ],
       "hu": [
@@ -1933,6 +2086,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         22.102527,
                         44.05576
+                  ]
+            },
+            {
+                  "name": "Парк „Ракета”",
+                  "text": "A Rocket Park egy játszótér City Bor városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.099736,
+                        44.070331
                   ]
             }
       ],
@@ -2008,6 +2170,15 @@ export const serbiaDistrictPoi: POI[] = [
                         22.102527,
                         44.05576
                   ]
+            },
+            {
+                  "name": "Парк „Ракета”",
+                  "text": "Rocket Park este un loc de joacă în City Bor, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.099736,
+                        44.070331
+                  ]
             }
       ],
       "en": [
@@ -2081,6 +2252,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         22.102527,
                         44.05576
+                  ]
+            },
+            {
+                  "name": "Rocket Park",
+                  "text": "Rocket Park is a playground in City Bor offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.099736,
+                        44.070331
                   ]
             }
       ]
@@ -2965,6 +3145,15 @@ export const serbiaDistrictPoi: POI[] = [
                         22.58747,
                         43.156455
                   ]
+            },
+            {
+                  "name": "Компензационо језеро",
+                  "text": "Компензационо језеро ist ein See in Pirot, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
             }
       ],
       "hu": [
@@ -3047,6 +3236,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         22.58747,
                         43.156455
+                  ]
+            },
+            {
+                  "name": "Компензационо језеро",
+                  "text": "A Компензационо језеро egy tó Pirot területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
                   ]
             }
       ],
@@ -3131,6 +3329,15 @@ export const serbiaDistrictPoi: POI[] = [
                         22.58747,
                         43.156455
                   ]
+            },
+            {
+                  "name": "Компензационо језеро",
+                  "text": "Компензационо језеро este un lac în Pirot, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
             }
       ],
       "en": [
@@ -3213,6 +3420,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         22.58747,
                         43.156455
+                  ]
+            },
+            {
+                  "name": "Компензационо језеро",
+                  "text": "Компензационо језеро is a lake in Pirot suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
                   ]
             }
       ]
@@ -3386,6 +3602,33 @@ export const serbiaDistrictPoi: POI[] = [
                         21.944323,
                         42.996235
                   ]
+            },
+            {
+                  "name": "Дечије игралиште",
+                  "text": "Dieser Kinderspielplatz in Leskovac ist ein fröhlicher Ort, an dem Familien gemeinsam Zeit verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "Der Spielplatz Zmajče in Leskovac bietet vielfältige Spielmöglichkeiten für Kinder in einer angenehmen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko Land in Leskovac ist ein attraktiver Spielbereich für Kinder, der zum Entdecken und Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
             }
       ],
       "hu": [
@@ -3468,6 +3711,33 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         21.944323,
                         42.996235
+                  ]
+            },
+            {
+                  "name": "Дечије игралиште",
+                  "text": "Ez a leskovaci játszótér egy vidám hely, ahol a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "A leskovaci Zmajče játszótér változatos játéklehetőségeket kínál a gyermekeknek kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "A leskovaci Lesko land egy vonzó játszóhely a gyermekek számára, amely felfedezésre és hancúrozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
                   ]
             }
       ],
@@ -3552,6 +3822,33 @@ export const serbiaDistrictPoi: POI[] = [
                         21.944323,
                         42.996235
                   ]
+            },
+            {
+                  "name": "Дечије игралиште",
+                  "text": "Acest loc de joacă din Leskovac este un spațiu vesel unde familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "Locul de joacă Zmajče din Leskovac oferă diverse opțiuni de joacă pentru copii într-o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko land din Leskovac este o zonă de joacă atractivă pentru copii, care invită la explorare și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
             }
       ],
       "en": [
@@ -3634,6 +3931,33 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         21.944323,
                         42.996235
+                  ]
+            },
+            {
+                  "name": "Дечије игралиште",
+                  "text": "This children's playground in Leskovac is a cheerful spot where families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "The Zmajče playground in Leskovac offers various play options for children in a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko land in Leskovac is an attractive play area for children that invites exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
                   ]
             }
       ]
@@ -4460,6 +4784,15 @@ export const serbiaDistrictPoi: POI[] = [
                         21.60424,
                         43.237676
                   ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Der Rastovničko-See in Prokuplje ist ein friedliches Ausflugsziel mit schöner Aussicht auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
             }
       ],
       "hu": [
@@ -4497,6 +4830,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         21.60424,
                         43.237676
+                  ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "A Prokuplje-i Rastovničko-tó egy békés kirándulóhely, szép kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
                   ]
             }
       ],
@@ -4536,6 +4878,15 @@ export const serbiaDistrictPoi: POI[] = [
                         21.60424,
                         43.237676
                   ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Lacul Rastovničko din Prokuplje este o destinație de excursie pașnică, cu o priveliște frumoasă asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
             }
       ],
       "en": [
@@ -4573,6 +4924,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         21.60424,
                         43.237676
+                  ]
+            },
+            {
+                  "name": "Растовничко језеро",
+                  "text": "Rastovničko Lake in Prokuplje is a peaceful excursion destination with a beautiful view of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
                   ]
             }
       ]
@@ -4621,7 +4981,196 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-012 Zlatiborski
   {
-    id: "RS-012-uzice",
+    id: "RS-012-uzice", "sights": {
+      "de": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play ist eine Spielhalle in Uzice, die verschiedene Spiele für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Велики парк",
+                  "text": "Велики парк ist ein Spielplatz in Uzice mit Spielgeräten im Freien für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom ist eine Spielhalle in Uzice, die sich für Familienunterhaltung eignet.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "ЕУ Паркић",
+                  "text": "ЕУ Паркић ist ein Spielplatz in Uzice mit Einrichtungen zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Мегдан",
+                  "text": "Мегдан ist ein Spielplatz in Uzice, der für Outdoor-Aktivitäten von Kindern konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stay play",
+                  "text": "A Stay play egy játékterem Uzice városában, amely különféle játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Велики парк",
+                  "text": "A Велики парк egy játszótér Uzice városában, ahol szabadtéri játékok várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "A Galaksija Playroom egy játékterem Uzice városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "ЕУ Паркић",
+                  "text": "Az ЕУ Паркић egy játszótér Uzice városában, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Мегдан",
+                  "text": "A Мегдан egy játszótér Uzice városában, amelyet a gyerekek szabadtéri tevékenységeihez alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play este o sală de jocuri în Uzice, oferind diverse jocuri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Велики парк",
+                  "text": "Велики парк este un teren de joacă în Uzice, oferind echipamente de joacă în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom este o sală de jocuri în Uzice, potrivită pentru divertismentul în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "ЕУ Паркић",
+                  "text": "ЕУ Паркић este un teren de joacă în Uzice, dotat cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Мегдан",
+                  "text": "Мегдан este un teren de joacă în Uzice, conceput pentru activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play is an amusement arcade in Uzice offering various games for families.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Велики парк",
+                  "text": "Велики парк is a playground in Uzice providing outdoor play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom is an amusement arcade in Uzice suitable for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "ЕУ Паркић",
+                  "text": "ЕУ Паркић is a playground in Uzice featuring facilities for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Мегдан",
+                  "text": "Мегдан is a playground in Uzice designed for children's outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-012",
     coords: [19.8425, 43.8586],
@@ -5420,6 +5969,24 @@ export const serbiaDistrictPoi: POI[] = [
                         20.655348,
                         44.876765
                   ]
+            },
+            {
+                  "name": "Пескана",
+                  "text": "Peskana ist ein See in Pancevo, der einen malerischen Ort zum Spazierengehen oder Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Топлана",
+                  "text": "Топлана ist ein Spielplatz in Pancevo, der Raum für Kinder zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
             }
       ],
       "hu": [
@@ -5583,6 +6150,24 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.655348,
                         44.876765
+                  ]
+            },
+            {
+                  "name": "Пескана",
+                  "text": "A Peskana egy tó Pancsova városában, amely festői helyet kínál sétához vagy kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Топлана",
+                  "text": "A Топлана egy játszótér Pancsova városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
                   ]
             }
       ],
@@ -5748,6 +6333,24 @@ export const serbiaDistrictPoi: POI[] = [
                         20.655348,
                         44.876765
                   ]
+            },
+            {
+                  "name": "Пескана",
+                  "text": "Peskana este un lac în Pancevo, oferind un loc pitoresc pentru plimbare sau relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Топлана",
+                  "text": "Топлана este un teren de joacă în Pancevo, oferind spațiu pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
             }
       ],
       "en": [
@@ -5911,6 +6514,24 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.655348,
                         44.876765
+                  ]
+            },
+            {
+                  "name": "Peskana",
+                  "text": "Peskana is a lake in Pancevo, offering a scenic spot for a walk or relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Топлана",
+                  "text": "Топлана is a playground in Pancevo providing space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
                   ]
             }
       ]
@@ -6757,7 +7378,124 @@ export const serbiaDistrictPoi: POI[] = [
   // RS-019 Grad Beograd
   // RS-020 Podunavski
   {
-    id: "RS-020-smederevo-city",
+    id: "RS-020-smederevo-city", "sights": {
+      "de": [
+            {
+                  "name": "Провала",
+                  "text": "Провала ist ein See in Smederevo, ideal um die natürliche Landschaft und frische Luft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Шалиначка језера",
+                  "text": "Die Šalinac-Seen befinden sich in Smederevo und bieten eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park ist ein Spielplatz in Smederevo mit Einrichtungen für Kinderspiele und Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Провала",
+                  "text": "A Провала egy tó Szendrő városában, amely ideális a természetes táj és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Шалиначка језера",
+                  "text": "A Šalinaci-tavak Szendrő városában találhatók, nyugodt környezetet biztosítva a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "A Basket Park egy játszótér Szendrő városában, ahol játékok és tevékenységek várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Провала",
+                  "text": "Провала este un lac în Smederevo, ideal pentru a te bucura de peisajul natural și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Шалиначка језера",
+                  "text": "Lacurile Šalinac sunt situate în Smederevo, oferind un mediu liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park este un teren de joacă în Smederevo, cu facilități pentru joacă și activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Провала",
+                  "text": "Провала is a lake in Smederevo, ideal for enjoying the natural scenery and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Šalinac lakes",
+                  "text": "Šalinac lakes are situated in Smederevo, providing a calm environment for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park is a playground in Smederevo with facilities for children's play and activities.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-020",
     coords: [20.9300, 44.6628],

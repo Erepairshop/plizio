@@ -4698,6 +4698,24 @@ export const portugalCities: POI[] = [
                         -7.940428,
                         37.036108
                   ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa bei Faro ist ein beeindruckendes Gewässer, das für seine natürliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Game Over (Arcade)",
+                  "text": "Game Over ist eine lebhafte Spielhalle in Faro, die Unterhaltung für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.933063,
+                        37.015405
+                  ]
             }
       ],
       "hu": [
@@ -4951,6 +4969,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.940428,
                         37.036108
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "A Faro melletti Ria Formosa egy lenyűgöző vízfelület, amely természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Game Over (Arcade)",
+                  "text": "A Game Over egy élénk játékterem Faróban, amely minden korosztály számára kínál szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        -7.933063,
+                        37.015405
                   ]
             }
       ],
@@ -5206,6 +5242,24 @@ export const portugalCities: POI[] = [
                         -7.940428,
                         37.036108
                   ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa de lângă Faro este o zonă de apă impresionantă, cunoscută pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Game Over (Arcade)",
+                  "text": "Game Over este o sală de jocuri plină de viață din Faro ce oferă divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -7.933063,
+                        37.015405
+                  ]
             }
       ],
       "en": [
@@ -5459,6 +5513,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.940428,
                         37.036108
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa near Faro is an impressive body of water known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Game Over (Arcade)",
+                  "text": "Game Over is a lively amusement arcade in Faro offering entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -7.933063,
+                        37.015405
                   ]
             }
       ]
@@ -6955,6 +7027,51 @@ export const portugalCities: POI[] = [
                         -7.911046,
                         38.566359
                   ]
+            },
+            {
+                  "name": "Albufeira da Quinta da Cartuxa",
+                  "text": "Ein Stausee bei Évora, der eine ruhige Landschaft für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922571,
+                        38.585472
+                  ]
+            },
+            {
+                  "name": "Nora do Escurinho",
+                  "text": "Dieses Gewässer in Évora ist ein ruhiger Ort, der sich für eine kurze Rast eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.930702,
+                        38.564735
+                  ]
+            },
+            {
+                  "name": "Albufeira do Torres",
+                  "text": "Dieser Stausee in der Nähe von Évora bietet eine weite Wasserfläche in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -7.858595,
+                        38.512704
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Câmara",
+                  "text": "Ein lokaler Spielplatz in Évora, der Kindern der Nachbarschaft Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.899752,
+                        38.570338
+                  ]
+            },
+            {
+                  "name": "Villas do Alcaide",
+                  "text": "Ein Spielbereich in Évora, der familienfreundliche Aktivitäten im Freien ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -7.89975,
+                        38.549063
+                  ]
             }
       ],
       "hu": [
@@ -7271,6 +7388,51 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.911046,
                         38.566359
+                  ]
+            },
+            {
+                  "name": "Albufeira da Quinta da Cartuxa",
+                  "text": "Egy Évora melletti víztározó, amely nyugodt tájat kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922571,
+                        38.585472
+                  ]
+            },
+            {
+                  "name": "Nora do Escurinho",
+                  "text": "Ez az Évorában található vízfelület egy csendes hely, amely alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.930702,
+                        38.564735
+                  ]
+            },
+            {
+                  "name": "Albufeira do Torres",
+                  "text": "Ez az Évora környéki víztározó tágas vízfelületet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.858595,
+                        38.512704
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Câmara",
+                  "text": "Helyi játszótér Évorában, amely teret biztosít a környékbeli gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.899752,
+                        38.570338
+                  ]
+            },
+            {
+                  "name": "Villas do Alcaide",
+                  "text": "Egy Évora-i játszórész, amely családbarát szabadtéri tevékenységeket tesz lehetővé.",
+                  "category": "family",
+                  "coords": [
+                        -7.89975,
+                        38.549063
                   ]
             }
       ],
@@ -7589,6 +7751,51 @@ export const portugalCities: POI[] = [
                         -7.911046,
                         38.566359
                   ]
+            },
+            {
+                  "name": "Albufeira da Quinta da Cartuxa",
+                  "text": "Un lac de acumulare lângă Évora, care oferă un peisaj liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922571,
+                        38.585472
+                  ]
+            },
+            {
+                  "name": "Nora do Escurinho",
+                  "text": "Această apă din Évora este un loc liniștit, potrivit pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        -7.930702,
+                        38.564735
+                  ]
+            },
+            {
+                  "name": "Albufeira do Torres",
+                  "text": "Acest lac de acumulare de lângă Évora oferă o suprafață vastă de apă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.858595,
+                        38.512704
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Câmara",
+                  "text": "Un loc de joacă local în Évora care oferă spațiu de joacă copiilor din cartier.",
+                  "category": "family",
+                  "coords": [
+                        -7.899752,
+                        38.570338
+                  ]
+            },
+            {
+                  "name": "Villas do Alcaide",
+                  "text": "O zonă de joacă în Évora care permite activități în aer liber pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -7.89975,
+                        38.549063
+                  ]
             }
       ],
       "en": [
@@ -7905,6 +8112,51 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.911046,
                         38.566359
+                  ]
+            },
+            {
+                  "name": "Albufeira da Quinta da Cartuxa",
+                  "text": "A reservoir near Évora offering a peaceful landscape for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922571,
+                        38.585472
+                  ]
+            },
+            {
+                  "name": "Nora do Escurinho",
+                  "text": "This water feature in Évora is a quiet spot suitable for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        -7.930702,
+                        38.564735
+                  ]
+            },
+            {
+                  "name": "Albufeira do Torres",
+                  "text": "This reservoir near Évora offers an expansive water surface in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -7.858595,
+                        38.512704
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro da Câmara",
+                  "text": "A local playground in Évora providing space for neighborhood children to play.",
+                  "category": "family",
+                  "coords": [
+                        -7.899752,
+                        38.570338
+                  ]
+            },
+            {
+                  "name": "Villas do Alcaide",
+                  "text": "A play area in Évora allowing for family-friendly outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -7.89975,
+                        38.549063
                   ]
             }
       ]
@@ -9274,6 +9526,114 @@ export const portugalCities: POI[] = [
                         -7.912659,
                         40.659593
                   ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Ein See in Viseu, der sich gut für einen ruhigen Spaziergang am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.970907,
+                        40.68075
+                  ]
+            },
+            {
+                  "name": "Reservatório Água",
+                  "text": "Ein kleineres Gewässer in Viseu, das eine friedliche Atmosphäre ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914715,
+                        40.685886
+                  ]
+            },
+            {
+                  "name": "Pia de Lages",
+                  "text": "Dieser See in Viseu ist ein schönes Ziel für Naturbeobachtungen in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.905994,
+                        40.641388
+                  ]
+            },
+            {
+                  "name": "Mina de Lages",
+                  "text": "Ein stiller See in Viseu, ideal zum Entspannen abseits des Trubels.",
+                  "category": "natural",
+                  "coords": [
+                        -7.906596,
+                        40.640415
+                  ]
+            },
+            {
+                  "name": "Polar & Brincar",
+                  "text": "Ein überdachter oder geschützter Spielbereich in Viseu für Spielspaß bei jedem Wetter.",
+                  "category": "family",
+                  "coords": [
+                        -7.910817,
+                        40.643636
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santiago",
+                  "text": "Ein freundlicher Spielplatz in Viseu, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -7.902087,
+                        40.667018
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Marzovelos",
+                  "text": "Dieser Spielplatz in Viseu bietet Kindern eine sichere Umgebung für ihre Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        -7.924266,
+                        40.65438
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Santo Estevão",
+                  "text": "Ein lokaler Spielplatz in Viseu mit verschiedenen Spielgeräten für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -7.928373,
+                        40.670677
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Gumirães",
+                  "text": "Dieser Spielplatz in Viseu ist ein Treffpunkt für Kinder und Familien der Region.",
+                  "category": "family",
+                  "coords": [
+                        -7.89529,
+                        40.663203
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Colina Verde",
+                  "text": "Ein kleinerer Spielplatz in Viseu, der sich gut für eine kurze Spielpause eignet.",
+                  "category": "family",
+                  "coords": [
+                        -7.932511,
+                        40.645699
+                  ]
+            },
+            {
+                  "name": "Parque de Travassos de Baixo",
+                  "text": "Ein Spielplatz in Viseu, der Kindern Abwechslung und Bewegung an der frischen Luft bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.886881,
+                        40.677657
+                  ]
+            },
+            {
+                  "name": "Parque Infantil São Salvador",
+                  "text": "Dieser Spielplatz in Viseu bietet klassische Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -7.932983,
+                        40.652642
+                  ]
             }
       ],
       "hu": [
@@ -9527,6 +9887,114 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.912659,
                         40.659593
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Tó Viseu területén, amely alkalmas egy csendes sétára a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -7.970907,
+                        40.68075
+                  ]
+            },
+            {
+                  "name": "Reservatório Água",
+                  "text": "Kisebb vízfelület Viseu városában, amely nyugodt légkört áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914715,
+                        40.685886
+                  ]
+            },
+            {
+                  "name": "Pia de Lages",
+                  "text": "Ez a viseui tó szép célpont a régió természetmegfigyeléseihez.",
+                  "category": "natural",
+                  "coords": [
+                        -7.905994,
+                        40.641388
+                  ]
+            },
+            {
+                  "name": "Mina de Lages",
+                  "text": "Csendes tó Viseu területén, ideális a kikapcsolódásra a nyüzsgéstől távol.",
+                  "category": "natural",
+                  "coords": [
+                        -7.906596,
+                        40.640415
+                  ]
+            },
+            {
+                  "name": "Polar & Brincar",
+                  "text": "Fedett vagy védett játszóhely Viseu városában, szórakozást kínálva minden időben.",
+                  "category": "family",
+                  "coords": [
+                        -7.910817,
+                        40.643636
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santiago",
+                  "text": "Barátságos játszótér Viseu területén, amely felfedezésre és játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        -7.902087,
+                        40.667018
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Marzovelos",
+                  "text": "Ez a viseui játszótér biztonságos környezetet nyújt a gyerekeknek a szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        -7.924266,
+                        40.65438
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Santo Estevão",
+                  "text": "Helyi játszótér Viseu városában, különféle játékokkal a környékbelieknek.",
+                  "category": "family",
+                  "coords": [
+                        -7.928373,
+                        40.670677
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Gumirães",
+                  "text": "Ez a viseui játszótér találkozóhely a régió gyermekei és családjai számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.89529,
+                        40.663203
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Colina Verde",
+                  "text": "Kisebb játszótér Viseu területén, amely alkalmas egy rövid játékra.",
+                  "category": "family",
+                  "coords": [
+                        -7.932511,
+                        40.645699
+                  ]
+            },
+            {
+                  "name": "Parque de Travassos de Baixo",
+                  "text": "Viseui játszótér, amely változatosságot és mozgást kínál a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        -7.886881,
+                        40.677657
+                  ]
+            },
+            {
+                  "name": "Parque Infantil São Salvador",
+                  "text": "Ez a viseui játszótér klasszikus játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -7.932983,
+                        40.652642
                   ]
             }
       ],
@@ -9782,6 +10250,114 @@ export const portugalCities: POI[] = [
                         -7.912659,
                         40.659593
                   ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Un lac în Viseu, potrivit pentru o plimbare liniștită pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.970907,
+                        40.68075
+                  ]
+            },
+            {
+                  "name": "Reservatório Água",
+                  "text": "O mică întindere de apă în Viseu, care emană o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914715,
+                        40.685886
+                  ]
+            },
+            {
+                  "name": "Pia de Lages",
+                  "text": "Acest lac din Viseu este o destinație frumoasă pentru observarea naturii în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -7.905994,
+                        40.641388
+                  ]
+            },
+            {
+                  "name": "Mina de Lages",
+                  "text": "Un lac liniștit în Viseu, ideal pentru relaxare departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        -7.906596,
+                        40.640415
+                  ]
+            },
+            {
+                  "name": "Polar & Brincar",
+                  "text": "O zonă de joacă acoperită sau protejată în Viseu, pentru distracție pe orice vreme.",
+                  "category": "family",
+                  "coords": [
+                        -7.910817,
+                        40.643636
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santiago",
+                  "text": "Un loc de joacă prietenos în Viseu, care invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -7.902087,
+                        40.667018
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Marzovelos",
+                  "text": "Acest loc de joacă din Viseu oferă copiilor un mediu sigur pentru timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.924266,
+                        40.65438
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Santo Estevão",
+                  "text": "Un loc de joacă local în Viseu, cu diverse dotări pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        -7.928373,
+                        40.670677
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Gumirães",
+                  "text": "Acest loc de joacă din Viseu este un punct de întâlnire pentru copiii și familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        -7.89529,
+                        40.663203
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Colina Verde",
+                  "text": "Un loc de joacă mai mic în Viseu, potrivit pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -7.932511,
+                        40.645699
+                  ]
+            },
+            {
+                  "name": "Parque de Travassos de Baixo",
+                  "text": "Un loc de joacă în Viseu care oferă copiilor diversitate și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.886881,
+                        40.677657
+                  ]
+            },
+            {
+                  "name": "Parque Infantil São Salvador",
+                  "text": "Acest loc de joacă din Viseu oferă modalități clasice de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.932983,
+                        40.652642
+                  ]
             }
       ],
       "en": [
@@ -10035,6 +10611,114 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.912659,
                         40.659593
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "A lake in Viseu, suitable for a quiet walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -7.970907,
+                        40.68075
+                  ]
+            },
+            {
+                  "name": "Reservatório Água",
+                  "text": "A smaller body of water in Viseu that radiates a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914715,
+                        40.685886
+                  ]
+            },
+            {
+                  "name": "Pia de Lages",
+                  "text": "This lake in Viseu is a nice destination for nature observation in the region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.905994,
+                        40.641388
+                  ]
+            },
+            {
+                  "name": "Mina de Lages",
+                  "text": "A quiet lake in Viseu, ideal for relaxing away from the hustle and bustle.",
+                  "category": "natural",
+                  "coords": [
+                        -7.906596,
+                        40.640415
+                  ]
+            },
+            {
+                  "name": "Polar & Brincar",
+                  "text": "A sheltered play area in Viseu for fun and games regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        -7.910817,
+                        40.643636
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santiago",
+                  "text": "A friendly playground in Viseu that invites exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        -7.902087,
+                        40.667018
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Marzovelos",
+                  "text": "This playground in Viseu provides a safe environment for children's leisure time.",
+                  "category": "family",
+                  "coords": [
+                        -7.924266,
+                        40.65438
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Santo Estevão",
+                  "text": "A local playground in Viseu with various play equipment for the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -7.928373,
+                        40.670677
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Gumirães",
+                  "text": "This playground in Viseu is a meeting spot for local children and families.",
+                  "category": "family",
+                  "coords": [
+                        -7.89529,
+                        40.663203
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Colina Verde",
+                  "text": "A smaller playground in Viseu, good for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        -7.932511,
+                        40.645699
+                  ]
+            },
+            {
+                  "name": "Parque de Travassos de Baixo",
+                  "text": "A playground in Viseu offering children variety and exercise in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -7.886881,
+                        40.677657
+                  ]
+            },
+            {
+                  "name": "Parque Infantil São Salvador",
+                  "text": "This playground in Viseu offers classic play options for children.",
+                  "category": "family",
+                  "coords": [
+                        -7.932983,
+                        40.652642
                   ]
             }
       ]
@@ -10747,6 +11431,42 @@ export const portugalCities: POI[] = [
                         -8.802754,
                         39.746471
                   ]
+            },
+            {
+                  "name": "poço",
+                  "text": "Ein natürliches Gewässer in Leiria, das Ruhe und Entspannung in der Natur verspricht.",
+                  "category": "natural",
+                  "coords": [
+                        -8.878718,
+                        39.710292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Ponte dos Caniços",
+                  "text": "Ein Spielplatz in Leiria, der Kindern einen Platz zum Toben in der Nähe des Wassers bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.798951,
+                        39.740088
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Almuinha Grande",
+                  "text": "Dieser großzügige Spielplatz in Leiria ist ideal für einen ausgiebigen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -8.810075,
+                        39.751597
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Largo da Cruz da Areia",
+                  "text": "Ein zentral gelegener Spielplatz in Leiria, der leicht für Familien erreichbar ist.",
+                  "category": "family",
+                  "coords": [
+                        -8.809642,
+                        39.726893
+                  ]
             }
       ],
       "hu": [
@@ -10919,6 +11639,42 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.802754,
                         39.746471
+                  ]
+            },
+            {
+                  "name": "poço",
+                  "text": "Természetes vízfelület Leiria területén, amely nyugalmat és kikapcsolódást ígér.",
+                  "category": "natural",
+                  "coords": [
+                        -8.878718,
+                        39.710292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Ponte dos Caniços",
+                  "text": "Játszótér Leiria városában, amely helyet biztosít a gyerekeknek a játékhoz a víz közelében.",
+                  "category": "family",
+                  "coords": [
+                        -8.798951,
+                        39.740088
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Almuinha Grande",
+                  "text": "Ez a tágas leiriai játszótér ideális egy tartalmas családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.810075,
+                        39.751597
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Largo da Cruz da Areia",
+                  "text": "Központi elhelyezkedésű játszótér Leiria területén, amely könnyen elérhető a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -8.809642,
+                        39.726893
                   ]
             }
       ],
@@ -11093,6 +11849,42 @@ export const portugalCities: POI[] = [
                         -8.802754,
                         39.746471
                   ]
+            },
+            {
+                  "name": "poço",
+                  "text": "O întindere de apă naturală în Leiria, care promite liniște și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.878718,
+                        39.710292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Ponte dos Caniços",
+                  "text": "Un loc de joacă în Leiria care oferă copiilor un spațiu de joacă în apropierea apei.",
+                  "category": "family",
+                  "coords": [
+                        -8.798951,
+                        39.740088
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Almuinha Grande",
+                  "text": "Acest loc de joacă spațios din Leiria este ideal pentru o ieșire lungă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -8.810075,
+                        39.751597
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Largo da Cruz da Areia",
+                  "text": "Un loc de joacă situat central în Leiria, ușor accesibil pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -8.809642,
+                        39.726893
+                  ]
             }
       ],
       "en": [
@@ -11265,6 +12057,42 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.802754,
                         39.746471
+                  ]
+            },
+            {
+                  "name": "poço",
+                  "text": "A natural body of water in Leiria that promises peace and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -8.878718,
+                        39.710292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Ponte dos Caniços",
+                  "text": "A playground in Leiria offering children a place to play near the water.",
+                  "category": "family",
+                  "coords": [
+                        -8.798951,
+                        39.740088
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Almuinha Grande",
+                  "text": "This spacious playground in Leiria is ideal for an extensive family outing.",
+                  "category": "family",
+                  "coords": [
+                        -8.810075,
+                        39.751597
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Largo da Cruz da Areia",
+                  "text": "A centrally located playground in Leiria, easily accessible for families.",
+                  "category": "family",
+                  "coords": [
+                        -8.809642,
+                        39.726893
                   ]
             }
       ]
@@ -11493,6 +12321,24 @@ export const portugalCities: POI[] = [
                         -8.538167,
                         37.136935
                   ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Ein ruhiger Stausee bei Portimão, der zur Beobachtung der lokalen Flora und Fauna einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Barragem do Morgado",
+                  "text": "Dieser Staudamm bei Portimão bildet einen See, der eine friedliche Atmosphäre ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.563186,
+                        37.20118
+                  ]
             }
       ],
       "hu": [
@@ -11674,6 +12520,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.538167,
                         37.136935
+                  ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Egy csendes víztározó Portimão közelében, amely a helyi élővilág megfigyelésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Barragem do Morgado",
+                  "text": "Ez a Portimão melletti gát egy tavat alkot, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.563186,
+                        37.20118
                   ]
             }
       ],
@@ -11857,6 +12721,24 @@ export const portugalCities: POI[] = [
                         -8.538167,
                         37.136935
                   ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Un lac de acumulare liniștit lângă Portimão, care invită la observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Barragem do Morgado",
+                  "text": "Acest baraj de lângă Portimão formează un lac care emană o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        -8.563186,
+                        37.20118
+                  ]
             }
       ],
       "en": [
@@ -12038,6 +12920,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.538167,
                         37.136935
+                  ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "A quiet reservoir near Portimão inviting observation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Barragem do Morgado",
+                  "text": "This dam near Portimão forms a lake that radiates a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -8.563186,
+                        37.20118
                   ]
             }
       ]
@@ -13471,6 +14371,33 @@ export const portugalCities: POI[] = [
                         -16.910364,
                         32.659606
                   ]
+            },
+            {
+                  "name": "Poço do Furão",
+                  "text": "Ein idyllischer See bei Funchal, der eine malerische Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.933051,
+                        32.676674
+                  ]
+            },
+            {
+                  "name": "Várzea Park Playground",
+                  "text": "Dieser Spielplatz in Funchal bietet Spielspaß für Kinder in schöner Parkumgebung.",
+                  "category": "family",
+                  "coords": [
+                        -16.941033,
+                        32.649605
+                  ]
+            },
+            {
+                  "name": "Campo da Quinta Deão",
+                  "text": "Ein attraktiver Spielplatz in Funchal, der zum Klettern und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -16.913436,
+                        32.655221
+                  ]
             }
       ],
       "hu": [
@@ -13868,6 +14795,33 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -16.910364,
                         32.659606
+                  ]
+            },
+            {
+                  "name": "Poço do Furão",
+                  "text": "Idilli tó Funchal közelében, amely festői kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.933051,
+                        32.676674
+                  ]
+            },
+            {
+                  "name": "Várzea Park Playground",
+                  "text": "Ez a funchali játszótér szép parki környezetben kínál szórakozást a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -16.941033,
+                        32.649605
+                  ]
+            },
+            {
+                  "name": "Campo da Quinta Deão",
+                  "text": "Vonzó játszótér Funchal területén, amely mászásra és játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        -16.913436,
+                        32.655221
                   ]
             }
       ],
@@ -14267,6 +15221,33 @@ export const portugalCities: POI[] = [
                         -16.910364,
                         32.659606
                   ]
+            },
+            {
+                  "name": "Poço do Furão",
+                  "text": "Un lac idilic lângă Funchal, care oferă o priveliște pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -16.933051,
+                        32.676674
+                  ]
+            },
+            {
+                  "name": "Várzea Park Playground",
+                  "text": "Acest loc de joacă din Funchal oferă distracție copiilor într-un cadru frumos de parc.",
+                  "category": "family",
+                  "coords": [
+                        -16.941033,
+                        32.649605
+                  ]
+            },
+            {
+                  "name": "Campo da Quinta Deão",
+                  "text": "Un loc de joacă atractiv în Funchal, care invită copiii la cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -16.913436,
+                        32.655221
+                  ]
             }
       ],
       "en": [
@@ -14664,6 +15645,33 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -16.910364,
                         32.659606
+                  ]
+            },
+            {
+                  "name": "Poço do Furão",
+                  "text": "An idyllic lake near Funchal offering a picturesque view.",
+                  "category": "natural",
+                  "coords": [
+                        -16.933051,
+                        32.676674
+                  ]
+            },
+            {
+                  "name": "Várzea Park Playground",
+                  "text": "This playground in Funchal offers fun for children in a beautiful park setting.",
+                  "category": "family",
+                  "coords": [
+                        -16.941033,
+                        32.649605
+                  ]
+            },
+            {
+                  "name": "Campo da Quinta Deão",
+                  "text": "An attractive playground in Funchal that invites climbing and play.",
+                  "category": "family",
+                  "coords": [
+                        -16.913436,
+                        32.655221
                   ]
             }
       ]
@@ -15645,7 +16653,268 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-tomar",
+    id: "city-tomar", "sights": {
+      "de": [
+            {
+                  "name": "Tanque Pequeno Renascentista",
+                  "text": "Ein historisches Becken in Tomar, das Teil der architektonischen Geschichte der Stadt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.418371,
+                        39.601539
+                  ]
+            },
+            {
+                  "name": "Tanque Grande Renascentista",
+                  "text": "Ein bedeutendes historisches Wasserbecken in Tomar mit kulturellem Hintergrund.",
+                  "category": "natural",
+                  "coords": [
+                        -8.419396,
+                        39.601736
+                  ]
+            },
+            {
+                  "name": "Tanque da Cadeira d’El-Rei",
+                  "text": "Ein weiteres sehenswertes Wasserbecken in Tomar, eingebettet in die historische Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -8.427261,
+                        39.603197
+                  ]
+            },
+            {
+                  "name": "Albufeira do Carril",
+                  "text": "Dieser See bei Tomar bietet eine ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355467,
+                        39.616875
+                  ]
+            },
+            {
+                  "name": "Skatepark",
+                  "text": "Eine Anlage in Tomar, die Raum für sportliche Aktivitäten und Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.412554,
+                        39.598743
+                  ]
+            },
+            {
+                  "name": "Parque Estrada do Barreiro",
+                  "text": "Ein lokaler Spielplatz in Tomar für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -8.400615,
+                        39.607337
+                  ]
+            },
+            {
+                  "name": "Parque escola infantil de trânsito",
+                  "text": "Ein spezieller Übungsplatz in Tomar, auf dem Kinder spielerisch das Verhalten im Verkehr lernen.",
+                  "category": "family",
+                  "coords": [
+                        -8.403948,
+                        39.600823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanque Pequeno Renascentista",
+                  "text": "Történelmi medence Tomarban, amely a város építészeti történelmének része.",
+                  "category": "natural",
+                  "coords": [
+                        -8.418371,
+                        39.601539
+                  ]
+            },
+            {
+                  "name": "Tanque Grande Renascentista",
+                  "text": "Jelentős történelmi vízmedence Tomarban, kulturális háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        -8.419396,
+                        39.601736
+                  ]
+            },
+            {
+                  "name": "Tanque da Cadeira d’El-Rei",
+                  "text": "Újabb látványos vízmedence Tomarban, a történelmi környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        -8.427261,
+                        39.603197
+                  ]
+            },
+            {
+                  "name": "Albufeira do Carril",
+                  "text": "Ez a Tomar közeli tó nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355467,
+                        39.616875
+                  ]
+            },
+            {
+                  "name": "Skatepark",
+                  "text": "Létesítmény Tomarban, amely helyet biztosít a sportoláshoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.412554,
+                        39.598743
+                  ]
+            },
+            {
+                  "name": "Parque Estrada do Barreiro",
+                  "text": "Helyi játszótér Tomar területén a környéken élő gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.400615,
+                        39.607337
+                  ]
+            },
+            {
+                  "name": "Parque escola infantil de trânsito",
+                  "text": "Speciális gyakorlópálya Tomarban, ahol a gyerekek játékosan tanulják a közlekedést.",
+                  "category": "family",
+                  "coords": [
+                        -8.403948,
+                        39.600823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanque Pequeno Renascentista",
+                  "text": "Un bazin istoric în Tomar, care face parte din istoria arhitecturală a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -8.418371,
+                        39.601539
+                  ]
+            },
+            {
+                  "name": "Tanque Grande Renascentista",
+                  "text": "Un bazin de apă istoric important în Tomar, cu semnificație culturală.",
+                  "category": "natural",
+                  "coords": [
+                        -8.419396,
+                        39.601736
+                  ]
+            },
+            {
+                  "name": "Tanque da Cadeira d’El-Rei",
+                  "text": "Un alt bazin de apă demn de văzut în Tomar, integrat în cadrul istoric.",
+                  "category": "natural",
+                  "coords": [
+                        -8.427261,
+                        39.603197
+                  ]
+            },
+            {
+                  "name": "Albufeira do Carril",
+                  "text": "Acest lac de lângă Tomar oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355467,
+                        39.616875
+                  ]
+            },
+            {
+                  "name": "Skatepark",
+                  "text": "O facilitate în Tomar care oferă spațiu pentru activități sportive și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -8.412554,
+                        39.598743
+                  ]
+            },
+            {
+                  "name": "Parque Estrada do Barreiro",
+                  "text": "Un loc de joacă local în Tomar pentru copiii din împrejurimi.",
+                  "category": "family",
+                  "coords": [
+                        -8.400615,
+                        39.607337
+                  ]
+            },
+            {
+                  "name": "Parque escola infantil de trânsito",
+                  "text": "Un loc special în Tomar unde copiii învață prin joacă regulile de circulație.",
+                  "category": "family",
+                  "coords": [
+                        -8.403948,
+                        39.600823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanque Pequeno Renascentista",
+                  "text": "A historical basin in Tomar, part of the city's architectural history.",
+                  "category": "natural",
+                  "coords": [
+                        -8.418371,
+                        39.601539
+                  ]
+            },
+            {
+                  "name": "Tanque Grande Renascentista",
+                  "text": "An important historical water basin in Tomar with a cultural background.",
+                  "category": "natural",
+                  "coords": [
+                        -8.419396,
+                        39.601736
+                  ]
+            },
+            {
+                  "name": "Tanque da Cadeira d’El-Rei",
+                  "text": "Another noteworthy water basin in Tomar, set against a historical backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -8.427261,
+                        39.603197
+                  ]
+            },
+            {
+                  "name": "Albufeira do Carril",
+                  "text": "This lake near Tomar provides a quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355467,
+                        39.616875
+                  ]
+            },
+            {
+                  "name": "Skatepark",
+                  "text": "A facility in Tomar providing space for sports activities and exercise.",
+                  "category": "family",
+                  "coords": [
+                        -8.412554,
+                        39.598743
+                  ]
+            },
+            {
+                  "name": "Parque Estrada do Barreiro",
+                  "text": "A local playground in Tomar for children from the surrounding area.",
+                  "category": "family",
+                  "coords": [
+                        -8.400615,
+                        39.607337
+                  ]
+            },
+            {
+                  "name": "Parque escola infantil de trânsito",
+                  "text": "A special practice area in Tomar where children learn traffic rules through play.",
+                  "category": "family",
+                  "coords": [
+                        -8.403948,
+                        39.600823
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.4114, 39.6032],
@@ -15951,6 +17220,78 @@ export const portugalCities: POI[] = [
                         -8.834402,
                         41.691451
                   ]
+            },
+            {
+                  "name": "Lago dos Patos",
+                  "text": "Ein Ententeich in Viana do Castelo, der ein beliebtes Ziel für kurze Spaziergänge ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.835482,
+                        41.692131
+                  ]
+            },
+            {
+                  "name": "Poço do cascudo",
+                  "text": "Ein natürliches Gewässer in Viana do Castelo, das eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.847952,
+                        41.722784
+                  ]
+            },
+            {
+                  "name": "Lavadouro Público",
+                  "text": "Ein historisches Gewässer in Viana do Castelo, das einen Einblick in die lokale Tradition bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.811359,
+                        41.715861
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Ein kleines Wasserbecken in Viana do Castelo, das sich für eine kurze Pause eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.831027,
+                        41.730291
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Brejo",
+                  "text": "Ein Spielplatz in Viana do Castelo, auf dem Kinder in einer sicheren Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -8.827452,
+                        41.702298
+                  ]
+            },
+            {
+                  "name": "Feijão Verde",
+                  "text": "Ein Indoor- oder Outdoor-Spielbereich in Viana do Castelo für aktive Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -8.831585,
+                        41.695654
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Ein allgemeiner Parkbereich in Viana do Castelo mit Möglichkeiten zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -8.808438,
+                        41.706126
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Marina",
+                  "text": "Ein Spielplatz am Hafen von Viana do Castelo, ideal für Familien beim Stadtbummel.",
+                  "category": "family",
+                  "coords": [
+                        -8.825048,
+                        41.691939
+                  ]
             }
       ],
       "hu": [
@@ -16213,6 +17554,78 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.834402,
                         41.691451
+                  ]
+            },
+            {
+                  "name": "Lago dos Patos",
+                  "text": "Egy kacsás tó Viana do Castelo-ban, amely népszerű célpontja a rövid sétáknak.",
+                  "category": "natural",
+                  "coords": [
+                        -8.835482,
+                        41.692131
+                  ]
+            },
+            {
+                  "name": "Poço do cascudo",
+                  "text": "Természetes vízfelület Viana do Castelo-ban, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -8.847952,
+                        41.722784
+                  ]
+            },
+            {
+                  "name": "Lavadouro Público",
+                  "text": "Történelmi vízfelület Viana do Castelo-ban, amely betekintést nyújt a helyi hagyományokba.",
+                  "category": "natural",
+                  "coords": [
+                        -8.811359,
+                        41.715861
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Egy kis víztározó Viana do Castelo-ban, amely alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.831027,
+                        41.730291
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Brejo",
+                  "text": "Játszótér Viana do Castelo-ban, ahol a gyerekek biztonságos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -8.827452,
+                        41.702298
+                  ]
+            },
+            {
+                  "name": "Feijão Verde",
+                  "text": "Fedett vagy szabadtéri játszóhely Viana do Castelo-ban az aktív családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        -8.831585,
+                        41.695654
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Általános parkrész Viana do Castelo-ban játéklehetőségekkel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.808438,
+                        41.706126
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Marina",
+                  "text": "Játszótér a Viana do Castelo-i kikötőnél, ideális családoknak városi séta közben.",
+                  "category": "family",
+                  "coords": [
+                        -8.825048,
+                        41.691939
                   ]
             }
       ],
@@ -16477,6 +17890,78 @@ export const portugalCities: POI[] = [
                         -8.834402,
                         41.691451
                   ]
+            },
+            {
+                  "name": "Lago dos Patos",
+                  "text": "Un lac cu rațe în Viana do Castelo, fiind o destinație populară pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        -8.835482,
+                        41.692131
+                  ]
+            },
+            {
+                  "name": "Poço do cascudo",
+                  "text": "O acumulare de apă naturală în Viana do Castelo, care oferă un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -8.847952,
+                        41.722784
+                  ]
+            },
+            {
+                  "name": "Lavadouro Público",
+                  "text": "O acumulare de apă istorică în Viana do Castelo, oferind o privire asupra tradiției locale.",
+                  "category": "natural",
+                  "coords": [
+                        -8.811359,
+                        41.715861
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Un mic rezervor de apă în Viana do Castelo, potrivit pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        -8.831027,
+                        41.730291
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Brejo",
+                  "text": "Un loc de joacă în Viana do Castelo unde copiii se pot juca într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        -8.827452,
+                        41.702298
+                  ]
+            },
+            {
+                  "name": "Feijão Verde",
+                  "text": "O zonă de joacă interioară sau exterioară în Viana do Castelo pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.831585,
+                        41.695654
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "O zonă generală de parc în Viana do Castelo cu oportunități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -8.808438,
+                        41.706126
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Marina",
+                  "text": "Un loc de joacă lângă marina din Viana do Castelo, ideal pentru familii în timpul unei plimbări.",
+                  "category": "family",
+                  "coords": [
+                        -8.825048,
+                        41.691939
+                  ]
             }
       ],
       "en": [
@@ -16740,6 +18225,78 @@ export const portugalCities: POI[] = [
                         -8.834402,
                         41.691451
                   ]
+            },
+            {
+                  "name": "Lago dos Patos",
+                  "text": "A duck pond in Viana do Castelo that is a popular destination for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        -8.835482,
+                        41.692131
+                  ]
+            },
+            {
+                  "name": "Poço do cascudo",
+                  "text": "A natural water feature in Viana do Castelo offering a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        -8.847952,
+                        41.722784
+                  ]
+            },
+            {
+                  "name": "Lavadouro Público",
+                  "text": "A historical water feature in Viana do Castelo offering a glimpse into local tradition.",
+                  "category": "natural",
+                  "coords": [
+                        -8.811359,
+                        41.715861
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "A small water basin in Viana do Castelo suitable for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        -8.831027,
+                        41.730291
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Brejo",
+                  "text": "A playground in Viana do Castelo where children can play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        -8.827452,
+                        41.702298
+                  ]
+            },
+            {
+                  "name": "Feijão Verde",
+                  "text": "An indoor or outdoor play area in Viana do Castelo for active family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -8.831585,
+                        41.695654
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "A general park area in Viana do Castelo with play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.808438,
+                        41.706126
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Marina",
+                  "text": "A playground by the marina in Viana do Castelo, ideal for families during a city stroll.",
+                  "category": "family",
+                  "coords": [
+                        -8.825048,
+                        41.691939
+                  ]
             }
       ]
 },
@@ -16994,6 +18551,42 @@ export const portugalCities: POI[] = [
                         -7.644296,
                         37.128342
                   ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Das Reservatório de Santo Estêvão ist ein ruhiges Gewässer in Tavira, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros ist ein kleiner See in Tavira, der sich harmonisch in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Dieser See in Tavira bietet eine friedliche Atmosphäre für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa in Tavira ist ein bedeutendes Feuchtgebiet mit einer faszinierenden Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
             }
       ],
       "hu": [
@@ -17202,6 +18795,42 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.644296,
                         37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "A Reservatório de Santo Estêvão egy csendes víztározó Tavirában, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "A Filtros egy kis tó Tavirában, amely harmonikusan illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Ez a tavirai tó békés légkört biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "A Tavirában található Ria Formosa egy jelentős vizes élőhely lenyűgöző vízi tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
                   ]
             }
       ],
@@ -17412,6 +19041,42 @@ export const portugalCities: POI[] = [
                         -7.644296,
                         37.128342
                   ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Reservatório de Santo Estêvão este o acumulare de apă liniștită din Tavira, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros este un mic lac din Tavira care se integrează armonios în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Acest lac din Tavira oferă o atmosferă pașnică pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa din Tavira este o zonă umedă importantă, cu un peisaj acvatic fascinant.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
             }
       ],
       "en": [
@@ -17620,6 +19285,42 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.644296,
                         37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Reservatório de Santo Estêvão is a calm reservoir in Tavira, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros is a small lake in Tavira that blends harmoniously into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "This lake in Tavira offers a peaceful atmosphere for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ria Formosa in Tavira is an important wetland with a fascinating aquatic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
                   ]
             }
       ]
@@ -18189,6 +19890,24 @@ export const portugalCities: POI[] = [
                         -8.43998,
                         37.18896
                   ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Dieser Stausee bei Silves bietet eine malerische Kulisse inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Albufeira do Arade",
+                  "text": "Ein bedeutender Stausee bei Silves, der für seine Landschaft und Ruhe bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.379443,
+                        37.248168
+                  ]
             }
       ],
       "hu": [
@@ -18262,6 +19981,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.43998,
                         37.18896
+                  ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Ez a Silves melletti víztározó festői környezetet kínál a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Albufeira do Arade",
+                  "text": "Egy jelentős víztározó Silves közelében, amely tájáról és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.379443,
+                        37.248168
                   ]
             }
       ],
@@ -18337,6 +20074,24 @@ export const portugalCities: POI[] = [
                         -8.43998,
                         37.18896
                   ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "Acest lac de acumulare de lângă Silves oferă un cadru pitoresc în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Albufeira do Arade",
+                  "text": "Un lac de acumulare important lângă Silves, cunoscut pentru peisajul și liniștea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -8.379443,
+                        37.248168
+                  ]
             }
       ],
       "en": [
@@ -18410,6 +20165,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.43998,
                         37.18896
+                  ]
+            },
+            {
+                  "name": "Albufeira do Morgado de Arge",
+                  "text": "This reservoir near Silves offers a scenic backdrop in the heart of nature.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52323,
+                        37.185646
+                  ]
+            },
+            {
+                  "name": "Albufeira do Arade",
+                  "text": "A significant reservoir near Silves known for its landscape and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        -8.379443,
+                        37.248168
                   ]
             }
       ]
@@ -18933,6 +20706,24 @@ export const portugalCities: POI[] = [
                         -7.491142,
                         41.729044
                   ]
+            },
+            {
+                  "name": "Albufeira de Vale de Anta",
+                  "text": "Dieser See in der Nähe von Chaves bietet eine ruhige Atmosphäre für Erholungsuchende.",
+                  "category": "natural",
+                  "coords": [
+                        -7.522352,
+                        41.734541
+                  ]
+            },
+            {
+                  "name": "Parque das Caldas",
+                  "text": "Ein Park mit Spielmöglichkeiten in Chaves, der ideal für Familien und Kinder ist.",
+                  "category": "family",
+                  "coords": [
+                        -7.472214,
+                        41.73703
+                  ]
             }
       ],
       "hu": [
@@ -19060,6 +20851,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.491142,
                         41.729044
+                  ]
+            },
+            {
+                  "name": "Albufeira de Vale de Anta",
+                  "text": "Ez a Chaves környéki tó nyugodt légkört kínál a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.522352,
+                        41.734541
+                  ]
+            },
+            {
+                  "name": "Parque das Caldas",
+                  "text": "Játszólehetőségekkel teli park Chaves-ben, amely ideális családok és gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.472214,
+                        41.73703
                   ]
             }
       ],
@@ -19189,6 +20998,24 @@ export const portugalCities: POI[] = [
                         -7.491142,
                         41.729044
                   ]
+            },
+            {
+                  "name": "Albufeira de Vale de Anta",
+                  "text": "Acest lac de lângă Chaves oferă o atmosferă liniștită pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.522352,
+                        41.734541
+                  ]
+            },
+            {
+                  "name": "Parque das Caldas",
+                  "text": "Un parc cu facilități de joacă în Chaves, ideal pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.472214,
+                        41.73703
+                  ]
             }
       ],
       "en": [
@@ -19316,6 +21143,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.491142,
                         41.729044
+                  ]
+            },
+            {
+                  "name": "Albufeira de Vale de Anta",
+                  "text": "This lake near Chaves offers a calm atmosphere for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.522352,
+                        41.734541
+                  ]
+            },
+            {
+                  "name": "Parque das Caldas",
+                  "text": "A park with play facilities in Chaves, ideal for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -7.472214,
+                        41.73703
                   ]
             }
       ]
@@ -19615,6 +21460,15 @@ export const portugalCities: POI[] = [
                         -7.429355,
                         39.297961
                   ]
+            },
+            {
+                  "name": "Albufeira da Apartadura",
+                  "text": "Dieser See bei Portalegre ist ein schöner Ort für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -7.380114,
+                        39.344187
+                  ]
             }
       ],
       "hu": [
@@ -19823,6 +21677,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.429355,
                         39.297961
+                  ]
+            },
+            {
+                  "name": "Albufeira da Apartadura",
+                  "text": "Ez a Portalegre közeli tó szép hely egy természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.380114,
+                        39.344187
                   ]
             }
       ],
@@ -20033,6 +21896,15 @@ export const portugalCities: POI[] = [
                         -7.429355,
                         39.297961
                   ]
+            },
+            {
+                  "name": "Albufeira da Apartadura",
+                  "text": "Acest lac de lângă Portalegre este un loc frumos pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.380114,
+                        39.344187
+                  ]
             }
       ],
       "en": [
@@ -20241,6 +22113,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.429355,
                         39.297961
+                  ]
+            },
+            {
+                  "name": "Albufeira da Apartadura",
+                  "text": "This lake near Portalegre is a lovely spot for a nature trip.",
+                  "category": "natural",
+                  "coords": [
+                        -7.380114,
+                        39.344187
                   ]
             }
       ]
@@ -20469,6 +22350,42 @@ export const portugalCities: POI[] = [
                         -7.491361,
                         39.820764
                   ]
+            },
+            {
+                  "name": "Embalse de Cedillo",
+                  "text": "Ein Stausee an der Grenze bei Castelo Branco, der sich durch seine weite Natur auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.213228,
+                        39.678281
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta Doutor Beirão",
+                  "text": "Ein Spielplatz in Castelo Branco, der Kindern eine sichere Fläche für Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.498489,
+                        39.815098
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Granja Park",
+                  "text": "Ein moderner Spielplatz in Castelo Branco, ideal für die Freizeitgestaltung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        -7.507215,
+                        39.818137
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 1",
+                  "text": "Ein zentraler Spielbereich in Castelo Branco für Kinder unterschiedlicher Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -7.503273,
+                        39.815924
+                  ]
             }
       ],
       "hu": [
@@ -20650,6 +22567,42 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.491361,
                         39.820764
+                  ]
+            },
+            {
+                  "name": "Embalse de Cedillo",
+                  "text": "Egy határmenti víztározó Castelo Branco-nál, amely tágas természetével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -7.213228,
+                        39.678281
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta Doutor Beirão",
+                  "text": "Játszótér Castelo Branco-ban, amely biztonságos területet nyújt a gyerekek mozgásához.",
+                  "category": "family",
+                  "coords": [
+                        -7.498489,
+                        39.815098
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Granja Park",
+                  "text": "Modern játszótér Castelo Branco-ban, ideális a családok szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        -7.507215,
+                        39.818137
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 1",
+                  "text": "Központi játszórész Castelo Branco-ban különböző korosztályú gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.503273,
+                        39.815924
                   ]
             }
       ],
@@ -20833,6 +22786,42 @@ export const portugalCities: POI[] = [
                         -7.491361,
                         39.820764
                   ]
+            },
+            {
+                  "name": "Embalse de Cedillo",
+                  "text": "Un lac de acumulare la graniță lângă Castelo Branco, remarcabil prin natura sa vastă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.213228,
+                        39.678281
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta Doutor Beirão",
+                  "text": "Un loc de joacă în Castelo Branco care oferă copiilor o suprafață sigură pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -7.498489,
+                        39.815098
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Granja Park",
+                  "text": "Un loc de joacă modern în Castelo Branco, ideal pentru activitățile de timp liber ale familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -7.507215,
+                        39.818137
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 1",
+                  "text": "O zonă de joacă centrală în Castelo Branco pentru copii de diferite grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        -7.503273,
+                        39.815924
+                  ]
             }
       ],
       "en": [
@@ -21015,6 +23004,42 @@ export const portugalCities: POI[] = [
                         -7.491361,
                         39.820764
                   ]
+            },
+            {
+                  "name": "Embalse de Cedillo",
+                  "text": "A reservoir on the border near Castelo Branco, notable for its vast natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -7.213228,
+                        39.678281
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta Doutor Beirão",
+                  "text": "A playground in Castelo Branco offering children a safe area for exercise.",
+                  "category": "family",
+                  "coords": [
+                        -7.498489,
+                        39.815098
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Granja Park",
+                  "text": "A modern playground in Castelo Branco, ideal for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -7.507215,
+                        39.818137
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 1",
+                  "text": "A central play area in Castelo Branco for children of different age groups.",
+                  "category": "family",
+                  "coords": [
+                        -7.503273,
+                        39.815924
+                  ]
             }
       ]
 },
@@ -21061,7 +23086,916 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-vila-real",
+    id: "city-vila-real", "sights": {
+      "de": [
+            {
+                  "name": "Albufeira do Sordo",
+                  "text": "Die Albufeira do Sordo ist ein Stausee bei Vila Real, der von einer reizvollen Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.792164,
+                        41.270077
+                  ]
+            },
+            {
+                  "name": "Lagoa de Arejamento/Regularização",
+                  "text": "Dieser See in Vila Real dient der Wasserregulierung und bietet einen ruhigen Anblick.",
+                  "category": "natural",
+                  "coords": [
+                        -7.71385,
+                        41.253208
+                  ]
+            },
+            {
+                  "name": "Fonte da Nossa Senhora da Conceição",
+                  "text": "Die Fonte da Nossa Senhora da Conceição ist ein kleines Gewässer in Vila Real in friedlicher Lage.",
+                  "category": "natural",
+                  "coords": [
+                        -7.74368,
+                        41.30523
+                  ]
+            },
+            {
+                  "name": "Espelho de Água da UTAD",
+                  "text": "Der Espelho de Água da UTAD ist eine dekorative Wasserfläche auf dem Campus in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.73803,
+                        41.289489
+                  ]
+            },
+            {
+                  "name": "Lago da ECHS - Pólo 1",
+                  "text": "Der See am ECHS - Pólo 1 bereichert die Außenanlagen der Universität in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.745729,
+                        41.284384
+                  ]
+            },
+            {
+                  "name": "Tanque de Dona Leonor",
+                  "text": "Der Tanque de Dona Leonor ist ein historisches Wasserbecken in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713243,
+                        41.296502
+                  ]
+            },
+            {
+                  "name": "Tanque Oval",
+                  "text": "Der Tanque Oval ist ein architektonisch gestaltetes Wasserbecken in der Stadt Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713976,
+                        41.294159
+                  ]
+            },
+            {
+                  "name": "Albufeira Cimeira do Alvão",
+                  "text": "Die Albufeira Cimeira do Alvão ist ein hochgelegener Bergsee bei Vila Real mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -7.795949,
+                        41.352876
+                  ]
+            },
+            {
+                  "name": "Albufeira do Terragido",
+                  "text": "Die Albufeira do Terragido ist ein ruhiger Stausee in der Region von Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.748189,
+                        41.287973
+                  ]
+            },
+            {
+                  "name": "Albufeira Fundeira do Alvão",
+                  "text": "Die Albufeira Fundeira do Alvão bietet eine beeindruckende Naturkulisse in der Nähe von Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.799155,
+                        41.358024
+                  ]
+            },
+            {
+                  "name": "Kids Only",
+                  "text": "Kids Only ist ein moderner Spielplatz in Vila Real, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        -7.744388,
+                        41.307552
+                  ]
+            },
+            {
+                  "name": "Game Zone",
+                  "text": "Die Game Zone in Vila Real bietet abwechslungsreiche elektronische Spiele für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -7.734507,
+                        41.297075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Habutad",
+                  "text": "Der Parque Infantil da Habutad ist ein schöner Ort für Kinder in Vila Real zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -7.729885,
+                        41.289108
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Estação",
+                  "text": "Der Parque Infantil da Estação liegt verkehrsgünstig in Vila Real und bietet Spaß für kleine Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -7.738384,
+                        41.294745
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Mundo da Criança",
+                  "text": "Mundo da Criança ist ein fantasievoller Spielplatz in Vila Real, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -7.745926,
+                        41.304861
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta de Santa Iria",
+                  "text": "Dieser Spielplatz an der Praceta de Santa Iria in Vila Real bietet sichere Spielgeräte im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -7.742421,
+                        41.306062
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Der Parque Infantil de Santo António ist eine beliebte Freizeitanlage für Familien in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.727521,
+                        41.29411
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Carreira",
+                  "text": "Der Spielplatz im Jardim da Carreira in Vila Real ist in eine schöne Parkanlage eingebettet.",
+                  "category": "family",
+                  "coords": [
+                        -7.741137,
+                        41.301422
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro",
+                  "text": "Der Parque Infantil do Bairro bietet den Kindern der Nachbarschaft in Vila Real Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        -7.741801,
+                        41.309853
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Flores",
+                  "text": "Der Parque Infantil das Flores ist ein bunter Spielplatz in Vila Real, der Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -7.731663,
+                        41.31495
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Superior do Parque Corgo",
+                  "text": "Dieser obere Spielplatz im Parque Corgo in Vila Real bietet tolle Spielmöglichkeiten im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        -7.735953,
+                        41.299087
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta das Hortas",
+                  "text": "Der Parque Infantil da Quinta das Hortas ist eine moderne Anlage für Kinder in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.739062,
+                        41.305228
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Villa Sol",
+                  "text": "Der Parque Infantil Villa Sol bietet eine freundliche Atmosphäre für Familien in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.722819,
+                        41.306278
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Piaget",
+                  "text": "Der Parque Infantil do Piaget ist ein sicherer Spielort für Kinder in der Stadt Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.75383,
+                        41.29793
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Alameda de Grasse",
+                  "text": "Dieser Spielplatz an der Alameda de Grasse lädt Kinder in Vila Real zum aktiven Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        -7.732803,
+                        41.298344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albufeira do Sordo",
+                  "text": "Az Albufeira do Sordo egy víztározó Vila Real közelében, amelyet vonzó táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -7.792164,
+                        41.270077
+                  ]
+            },
+            {
+                  "name": "Lagoa de Arejamento/Regularização",
+                  "text": "Ez a Vila Real-i tó a vízszabályozást szolgálja, és nyugodt látványt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.71385,
+                        41.253208
+                  ]
+            },
+            {
+                  "name": "Fonte da Nossa Senhora da Conceição",
+                  "text": "A Fonte da Nossa Senhora da Conceição egy kis vízfelület Vila Realban, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -7.74368,
+                        41.30523
+                  ]
+            },
+            {
+                  "name": "Espelho de Água da UTAD",
+                  "text": "Az Espelho de Água da UTAD egy dekoratív vízfelület a Vila Real-i egyetemi campuson.",
+                  "category": "natural",
+                  "coords": [
+                        -7.73803,
+                        41.289489
+                  ]
+            },
+            {
+                  "name": "Lago da ECHS - Pólo 1",
+                  "text": "Az ECHS - Pólo 1 melletti tó gazdagítja a Vila Real-i egyetem külső területeit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.745729,
+                        41.284384
+                  ]
+            },
+            {
+                  "name": "Tanque de Dona Leonor",
+                  "text": "A Tanque de Dona Leonor egy történelmi víztározó Vila Realban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713243,
+                        41.296502
+                  ]
+            },
+            {
+                  "name": "Tanque Oval",
+                  "text": "A Tanque Oval egy építészetileg kialakított vízmedence Vila Real városában.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713976,
+                        41.294159
+                  ]
+            },
+            {
+                  "name": "Albufeira Cimeira do Alvão",
+                  "text": "Az Albufeira Cimeira do Alvão egy magasan fekvő hegyi tó Vila Real közelében, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -7.795949,
+                        41.352876
+                  ]
+            },
+            {
+                  "name": "Albufeira do Terragido",
+                  "text": "Az Albufeira do Terragido egy csendes víztározó Vila Real régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -7.748189,
+                        41.287973
+                  ]
+            },
+            {
+                  "name": "Albufeira Fundeira do Alvão",
+                  "text": "Az Albufeira Fundeira do Alvão lenyűgöző természeti környezetet kínál Vila Real közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -7.799155,
+                        41.358024
+                  ]
+            },
+            {
+                  "name": "Kids Only",
+                  "text": "A Kids Only egy modern játszótér Vila Realban, amelyet kifejezetten a gyermekek igényeire terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -7.744388,
+                        41.307552
+                  ]
+            },
+            {
+                  "name": "Game Zone",
+                  "text": "A Vila Real-i Game Zone változatos elektronikus játékokat kínál a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.734507,
+                        41.297075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Habutad",
+                  "text": "A Parque Infantil da Habutad egy szép hely a gyerekeknek Vila Realban a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.729885,
+                        41.289108
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Estação",
+                  "text": "A Parque Infantil da Estação kényelmes helyen található Vila Realban, és szórakozást nyújt a kis látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        -7.738384,
+                        41.294745
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Mundo da Criança",
+                  "text": "A Mundo da Criança egy ötletes játszótér Vila Realban, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -7.745926,
+                        41.304861
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta de Santa Iria",
+                  "text": "Ez a játszótér a Vila Real-i Praceta de Santa Iriánál biztonságos szabadtéri játékokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        -7.742421,
+                        41.306062
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "A Parque Infantil de Santo António egy népszerű szabadidős létesítmény a családok számára Vila Realban.",
+                  "category": "family",
+                  "coords": [
+                        -7.727521,
+                        41.29411
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Carreira",
+                  "text": "A Vila Real-i Jardim da Carreira játszótere egy szép parkosított környezetben található.",
+                  "category": "family",
+                  "coords": [
+                        -7.741137,
+                        41.301422
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro",
+                  "text": "A Parque Infantil do Bairro helyet biztosít a környékbeli gyerekeknek Vila Realban a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.741801,
+                        41.309853
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Flores",
+                  "text": "A Parque Infantil das Flores egy színes játszótér Vila Realban, amely örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -7.731663,
+                        41.31495
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Superior do Parque Corgo",
+                  "text": "Ez a Vila Real-i Parque Corgo felső részén található játszótér remek játéklehetőségeket kínál a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        -7.735953,
+                        41.299087
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta das Hortas",
+                  "text": "A Parque Infantil da Quinta das Hortas egy modern létesítmény a gyerekek számára Vila Realban.",
+                  "category": "family",
+                  "coords": [
+                        -7.739062,
+                        41.305228
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Villa Sol",
+                  "text": "A Parque Infantil Villa Sol barátságos légkört biztosít a családok számára Vila Realban.",
+                  "category": "family",
+                  "coords": [
+                        -7.722819,
+                        41.306278
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Piaget",
+                  "text": "A Parque Infantil do Piaget egy biztonságos játszóhely a gyerekeknek Vila Real városában.",
+                  "category": "family",
+                  "coords": [
+                        -7.75383,
+                        41.29793
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Alameda de Grasse",
+                  "text": "Ez az Alameda de Grasse-nál található játszótér aktív játékra hívja a gyerekeket Vila Realban.",
+                  "category": "family",
+                  "coords": [
+                        -7.732803,
+                        41.298344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albufeira do Sordo",
+                  "text": "Albufeira do Sordo este un lac de acumulare de lângă Vila Real, înconjurat de un peisaj atractiv.",
+                  "category": "natural",
+                  "coords": [
+                        -7.792164,
+                        41.270077
+                  ]
+            },
+            {
+                  "name": "Lagoa de Arejamento/Regularização",
+                  "text": "Acest lac din Vila Real servește la reglarea apei și oferă o priveliște liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.71385,
+                        41.253208
+                  ]
+            },
+            {
+                  "name": "Fonte da Nossa Senhora da Conceição",
+                  "text": "Fonte da Nossa Senhora da Conceição este o mică zonă de apă din Vila Real, situată într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.74368,
+                        41.30523
+                  ]
+            },
+            {
+                  "name": "Espelho de Água da UTAD",
+                  "text": "Espelho de Água da UTAD este o suprafață de apă decorativă din campusul universitar din Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.73803,
+                        41.289489
+                  ]
+            },
+            {
+                  "name": "Lago da ECHS - Pólo 1",
+                  "text": "Lacul de la ECHS - Pólo 1 îmbogățește spațiile exterioare ale universității din Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.745729,
+                        41.284384
+                  ]
+            },
+            {
+                  "name": "Tanque de Dona Leonor",
+                  "text": "Tanque de Dona Leonor este un bazin de apă istoric din Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713243,
+                        41.296502
+                  ]
+            },
+            {
+                  "name": "Tanque Oval",
+                  "text": "Tanque Oval este un bazin de apă cu design arhitectural din orașul Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713976,
+                        41.294159
+                  ]
+            },
+            {
+                  "name": "Albufeira Cimeira do Alvão",
+                  "text": "Albufeira Cimeira do Alvão este un lac montan situat la înălțime lângă Vila Real, cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.795949,
+                        41.352876
+                  ]
+            },
+            {
+                  "name": "Albufeira do Terragido",
+                  "text": "Albufeira do Terragido este un lac de acumulare liniștit din regiunea Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.748189,
+                        41.287973
+                  ]
+            },
+            {
+                  "name": "Albufeira Fundeira do Alvão",
+                  "text": "Albufeira Fundeira do Alvão oferă un cadru natural impresionant în apropiere de Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.799155,
+                        41.358024
+                  ]
+            },
+            {
+                  "name": "Kids Only",
+                  "text": "Kids Only este un loc de joacă modern din Vila Real, conceput special pentru nevoile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -7.744388,
+                        41.307552
+                  ]
+            },
+            {
+                  "name": "Game Zone",
+                  "text": "Game Zone din Vila Real oferă jocuri electronice variate pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        -7.734507,
+                        41.297075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Habutad",
+                  "text": "Parque Infantil da Habutad este un loc plăcut pentru copiii din Vila Real pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.729885,
+                        41.289108
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Estação",
+                  "text": "Parque Infantil da Estação este situat convenabil în Vila Real și oferă distracție micilor vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -7.738384,
+                        41.294745
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Mundo da Criança",
+                  "text": "Mundo da Criança este un loc de joacă plin de imaginație din Vila Real care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        -7.745926,
+                        41.304861
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta de Santa Iria",
+                  "text": "Acest loc de joacă de la Praceta de Santa Iria din Vila Real oferă echipamente de joacă sigure în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.742421,
+                        41.306062
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Parque Infantil de Santo António este o facilitate de recreere populară pentru familiile din Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.727521,
+                        41.29411
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Carreira",
+                  "text": "Locul de joacă din Jardim da Carreira din Vila Real este integrat într-o zonă frumoasă de parc.",
+                  "category": "family",
+                  "coords": [
+                        -7.741137,
+                        41.301422
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro",
+                  "text": "Parque Infantil do Bairro oferă copiilor din cartierul din Vila Real spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -7.741801,
+                        41.309853
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Flores",
+                  "text": "Parque Infantil das Flores este un loc de joacă colorat din Vila Real care aduce bucurie.",
+                  "category": "family",
+                  "coords": [
+                        -7.731663,
+                        41.31495
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Superior do Parque Corgo",
+                  "text": "Acest loc de joacă superior din Parque Corgo din Vila Real oferă posibilități de joacă minunate în natură.",
+                  "category": "family",
+                  "coords": [
+                        -7.735953,
+                        41.299087
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta das Hortas",
+                  "text": "Parque Infantil da Quinta das Hortas este o facilitate modernă pentru copiii din Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.739062,
+                        41.305228
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Villa Sol",
+                  "text": "Parque Infantil Villa Sol oferă o atmosferă prietenoasă pentru familiile din Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.722819,
+                        41.306278
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Piaget",
+                  "text": "Parque Infantil do Piaget este un loc de joacă sigur pentru copiii din orașul Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.75383,
+                        41.29793
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Alameda de Grasse",
+                  "text": "Acest loc de joacă de la Alameda de Grasse invită copiii din Vila Real la joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        -7.732803,
+                        41.298344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albufeira do Sordo",
+                  "text": "Albufeira do Sordo is a reservoir near Vila Real surrounded by an attractive landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.792164,
+                        41.270077
+                  ]
+            },
+            {
+                  "name": "Lagoa de Arejamento/Regularização",
+                  "text": "This lake in Vila Real serves for water regulation and offers a peaceful sight.",
+                  "category": "natural",
+                  "coords": [
+                        -7.71385,
+                        41.253208
+                  ]
+            },
+            {
+                  "name": "Fonte da Nossa Senhora da Conceição",
+                  "text": "Fonte da Nossa Senhora da Conceição is a small body of water in Vila Real located in peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -7.74368,
+                        41.30523
+                  ]
+            },
+            {
+                  "name": "Espelho de Água da UTAD",
+                  "text": "Espelho de Água da UTAD is a decorative water surface on the university campus in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.73803,
+                        41.289489
+                  ]
+            },
+            {
+                  "name": "Lago da ECHS - Pólo 1",
+                  "text": "The lake at ECHS - Pólo 1 enriches the outdoor areas of the university in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.745729,
+                        41.284384
+                  ]
+            },
+            {
+                  "name": "Tanque de Dona Leonor",
+                  "text": "Tanque de Dona Leonor is a historic water basin in Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713243,
+                        41.296502
+                  ]
+            },
+            {
+                  "name": "Tanque Oval",
+                  "text": "Tanque Oval is an architecturally designed water basin in the city of Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.713976,
+                        41.294159
+                  ]
+            },
+            {
+                  "name": "Albufeira Cimeira do Alvão",
+                  "text": "Albufeira Cimeira do Alvão is a high-altitude mountain lake near Vila Real with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        -7.795949,
+                        41.352876
+                  ]
+            },
+            {
+                  "name": "Albufeira do Terragido",
+                  "text": "Albufeira do Terragido is a calm reservoir in the Vila Real region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.748189,
+                        41.287973
+                  ]
+            },
+            {
+                  "name": "Albufeira Fundeira do Alvão",
+                  "text": "Albufeira Fundeira do Alvão offers an impressive natural setting near Vila Real.",
+                  "category": "natural",
+                  "coords": [
+                        -7.799155,
+                        41.358024
+                  ]
+            },
+            {
+                  "name": "Kids Only",
+                  "text": "Kids Only is a modern playground in Vila Real specifically tailored to the needs of children.",
+                  "category": "family",
+                  "coords": [
+                        -7.744388,
+                        41.307552
+                  ]
+            },
+            {
+                  "name": "Game Zone",
+                  "text": "Game Zone in Vila Real offers a variety of electronic games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -7.734507,
+                        41.297075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Habutad",
+                  "text": "Parque Infantil da Habutad is a nice place for children in Vila Real for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -7.729885,
+                        41.289108
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Estação",
+                  "text": "Parque Infantil da Estação is conveniently located in Vila Real and offers fun for small visitors.",
+                  "category": "family",
+                  "coords": [
+                        -7.738384,
+                        41.294745
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Mundo da Criança",
+                  "text": "Mundo da Criança is an imaginative playground in Vila Real that invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        -7.745926,
+                        41.304861
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta de Santa Iria",
+                  "text": "This playground at Praceta de Santa Iria in Vila Real offers safe outdoor play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -7.742421,
+                        41.306062
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Parque Infantil de Santo António is a popular recreational facility for families in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.727521,
+                        41.29411
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim da Carreira",
+                  "text": "The playground in Jardim da Carreira in Vila Real is nestled in a beautiful park setting.",
+                  "category": "family",
+                  "coords": [
+                        -7.741137,
+                        41.301422
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Bairro",
+                  "text": "Parque Infantil do Bairro provides space for neighborhood children in Vila Real to play.",
+                  "category": "family",
+                  "coords": [
+                        -7.741801,
+                        41.309853
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Flores",
+                  "text": "Parque Infantil das Flores is a colorful playground in Vila Real that brings joy.",
+                  "category": "family",
+                  "coords": [
+                        -7.731663,
+                        41.31495
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Superior do Parque Corgo",
+                  "text": "This upper playground in Parque Corgo in Vila Real offers great play opportunities in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        -7.735953,
+                        41.299087
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Quinta das Hortas",
+                  "text": "Parque Infantil da Quinta das Hortas is a modern facility for children in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.739062,
+                        41.305228
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Villa Sol",
+                  "text": "Parque Infantil Villa Sol offers a friendly atmosphere for families in Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.722819,
+                        41.306278
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Piaget",
+                  "text": "Parque Infantil do Piaget is a safe play area for children in the city of Vila Real.",
+                  "category": "family",
+                  "coords": [
+                        -7.75383,
+                        41.29793
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Alameda de Grasse",
+                  "text": "This playground at Alameda de Grasse invites children in Vila Real to active play.",
+                  "category": "family",
+                  "coords": [
+                        -7.732803,
+                        41.298344
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.7441, 41.3006],
@@ -21105,7 +24039,304 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-covilha",
+    id: "city-covilha", "sights": {
+      "de": [
+            {
+                  "name": "Lago da Sereia",
+                  "text": "Ein malerischer See in Covilhã, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.496242,
+                        40.274525
+                  ]
+            },
+            {
+                  "name": "Reservatório do Ferro",
+                  "text": "Ein Wasserbecken in Covilhã, das sich in die bergige Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.428307,
+                        40.235674
+                  ]
+            },
+            {
+                  "name": "Reservatório do Fundão",
+                  "text": "Ein weiteres Wasserreservoir in Covilhã mit funktionalem und landschaftlichem Aspekt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.487466,
+                        40.212826
+                  ]
+            },
+            {
+                  "name": "Câmara de carga da Central Hidroeléctrica da Pedra da Figueira",
+                  "text": "Ein technisches Gewässer in Covilhã, das Teil der lokalen Industriegeschichte ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.591567,
+                        40.286543
+                  ]
+            },
+            {
+                  "name": "Piscina das Penhas da Saúde",
+                  "text": "Ein hochgelegenes Gewässer in Covilhã, das für seine frische Bergluft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.554129,
+                        40.310482
+                  ]
+            },
+            {
+                  "name": "Lago do Viriato",
+                  "text": "Dieser See in Covilhã ist ein schönes Ziel für Wanderer und Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563733,
+                        40.311227
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Saudade",
+                  "text": "Ein Spielplatz in Covilhã, der Kindern Platz für Aktivitäten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.51005,
+                        40.279646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Dieser Spielplatz in Covilhã ist ein guter Ort für Familien zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        -7.51377,
+                        40.268807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago da Sereia",
+                  "text": "Festői tó Covilhã területén, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -7.496242,
+                        40.274525
+                  ]
+            },
+            {
+                  "name": "Reservatório do Ferro",
+                  "text": "Vízmedence Covilhã területén, amely illeszkedik a hegyvidéki tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -7.428307,
+                        40.235674
+                  ]
+            },
+            {
+                  "name": "Reservatório do Fundão",
+                  "text": "Újabb víztározó Covilhãban, amely funkcionális és tájképi szempontból is érdekes.",
+                  "category": "natural",
+                  "coords": [
+                        -7.487466,
+                        40.212826
+                  ]
+            },
+            {
+                  "name": "Câmara de carga da Central Hidroeléctrica da Pedra da Figueira",
+                  "text": "Ipari vízfelület Covilhã területén, amely a helyi ipartörténet része.",
+                  "category": "natural",
+                  "coords": [
+                        -7.591567,
+                        40.286543
+                  ]
+            },
+            {
+                  "name": "Piscina das Penhas da Saúde",
+                  "text": "Magasan fekvő vízfelület Covilhãban, amely friss hegyi levegőjéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.554129,
+                        40.310482
+                  ]
+            },
+            {
+                  "name": "Lago do Viriato",
+                  "text": "Ez a Covilhã területén található tó szép célpont a túrázók és természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563733,
+                        40.311227
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Saudade",
+                  "text": "Játszótér Covilhã területén, amely helyet biztosít a gyerekeknek a szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -7.51005,
+                        40.279646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Ez a Covilhã-i játszótér jó hely a családok számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.51377,
+                        40.268807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago da Sereia",
+                  "text": "Un lac pitoresc în Covilhã, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.496242,
+                        40.274525
+                  ]
+            },
+            {
+                  "name": "Reservatório do Ferro",
+                  "text": "Un bazin de apă în Covilhã, care se integrează în peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        -7.428307,
+                        40.235674
+                  ]
+            },
+            {
+                  "name": "Reservatório do Fundão",
+                  "text": "Un alt rezervor de apă în Covilhã, cu aspecte funcționale și peisajere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.487466,
+                        40.212826
+                  ]
+            },
+            {
+                  "name": "Câmara de carga da Central Hidroeléctrica da Pedra da Figueira",
+                  "text": "O acumulare de apă tehnică în Covilhã, parte a istoriei industriale locale.",
+                  "category": "natural",
+                  "coords": [
+                        -7.591567,
+                        40.286543
+                  ]
+            },
+            {
+                  "name": "Piscina das Penhas da Saúde",
+                  "text": "O întindere de apă la altitudine în Covilhã, cunoscută pentru aerul curat de munte.",
+                  "category": "natural",
+                  "coords": [
+                        -7.554129,
+                        40.310482
+                  ]
+            },
+            {
+                  "name": "Lago do Viriato",
+                  "text": "Acest lac din Covilhã este o destinație frumoasă pentru drumeți și iubitori de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563733,
+                        40.311227
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Saudade",
+                  "text": "Un loc de joacă în Covilhã care oferă copiilor spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.51005,
+                        40.279646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "Acest loc de joacă din Covilhã este un loc bun pentru recreerea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -7.51377,
+                        40.268807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lago da Sereia",
+                  "text": "A picturesque lake in Covilhã offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.496242,
+                        40.274525
+                  ]
+            },
+            {
+                  "name": "Reservatório do Ferro",
+                  "text": "A water basin in Covilhã that blends into the mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.428307,
+                        40.235674
+                  ]
+            },
+            {
+                  "name": "Reservatório do Fundão",
+                  "text": "Another water reservoir in Covilhã with functional and scenic aspects.",
+                  "category": "natural",
+                  "coords": [
+                        -7.487466,
+                        40.212826
+                  ]
+            },
+            {
+                  "name": "Câmara de carga da Central Hidroeléctrica da Pedra da Figueira",
+                  "text": "A technical body of water in Covilhã, part of the local industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        -7.591567,
+                        40.286543
+                  ]
+            },
+            {
+                  "name": "Piscina das Penhas da Saúde",
+                  "text": "A high-altitude body of water in Covilhã, known for its fresh mountain air.",
+                  "category": "natural",
+                  "coords": [
+                        -7.554129,
+                        40.310482
+                  ]
+            },
+            {
+                  "name": "Lago do Viriato",
+                  "text": "This lake in Covilhã is a nice destination for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563733,
+                        40.311227
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Saudade",
+                  "text": "A playground in Covilhã offering space for children's outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -7.51005,
+                        40.279646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Santo António",
+                  "text": "This playground in Covilhã is a good spot for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        -7.51377,
+                        40.268807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.5026, 40.2806],

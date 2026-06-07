@@ -1701,6 +1701,51 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         17.17894,
                         44.769948
                   ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "Ein spannendes Escape-Room-Erlebnis für Kindern im Geschäftsviertel von Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Ein Spielplatz im Geschäftsviertel von Banja Luka für eine Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Ein familienfreundlicher Spielplatz in Banja Luka für Spiel und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Ein fantasievoller Spielplatz für Kinder im Herzen von Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Ein origineller Spielplatz in Banja Luka, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
             }
       ],
       "hu": [
@@ -2008,6 +2053,51 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         17.17894,
                         44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "Izgalmas szabadulószoba-élmény gyerekeknek Banja Luka üzleti negyedében.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Játszótér Banja Luka üzleti negyedében egy családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Családbarát játszótér Banja Luka városában játékhoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Egy ötletes játszótér gyerekeknek Banja Luka szívében.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Egy eredeti játszótér Banja Luka területén, amely játékra és felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
                   ]
             }
       ],
@@ -2317,6 +2407,51 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         17.17894,
                         44.769948
                   ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "O experiență captivantă de escape room pentru copii în districtul de afaceri din Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Un loc de joacă în districtul de afaceri din Banja Luka pentru o pauză cu familia.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Un loc de joacă pentru familii în Banja Luka pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Un loc de joacă plin de imaginație pentru copii în inima orașului Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Un loc de joacă original în Banja Luka, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
             }
       ],
       "en": [
@@ -2624,6 +2759,51 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         17.17894,
                         44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "An exciting escape room experience for kids in the Banja Luka business district.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "A playground in the Banja Luka business district for a break with the family.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "A family-friendly playground in Banja Luka for play and recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "An imaginative playground for children in the heart of Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "An original playground in Banja Luka that invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
                   ]
             }
       ]
@@ -3061,6 +3241,69 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.382638,
                         43.852599
                   ]
+            },
+            {
+                  "name": "Dobrinja",
+                  "text": "Dobrinja bei Sase ist ein ruhiger Ort am Wasser, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.348083,
+                        43.830701
+                  ]
+            },
+            {
+                  "name": "Jezero Toplik",
+                  "text": "Das Jezero Toplik in Sase bietet eine friedliche Umgebung für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.379302,
+                        43.816414
+                  ]
+            },
+            {
+                  "name": "Igralište Ciciban - Jukićeva",
+                  "text": "Ein lokaler Spielplatz in Sarajevo Stock Exchange Sase für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        18.402801,
+                        43.875605
+                  ]
+            },
+            {
+                  "name": "Ljuljačka",
+                  "text": "Dieser Spielplatz in Sarajevo Stock Exchange Sase bietet Schaukeln für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.403428,
+                        43.876823
+                  ]
+            },
+            {
+                  "name": "Kocka",
+                  "text": "Ein Spielbereich für Familien in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.404151,
+                        43.869517
+                  ]
+            },
+            {
+                  "name": "Turski park",
+                  "text": "Ein Spielplatz im Turski park in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.398709,
+                        43.852971
+                  ]
+            },
+            {
+                  "name": "Parkić",
+                  "text": "Ein kleiner Park mit Spielmöglichkeiten in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.406787,
+                        43.865029
+                  ]
             }
       ],
       "hu": [
@@ -3449,6 +3692,69 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.382638,
                         43.852599
+                  ]
+            },
+            {
+                  "name": "Dobrinja",
+                  "text": "A Sase közelében fekvő Dobrinja nyugodt hely a vízparton, amely kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.348083,
+                        43.830701
+                  ]
+            },
+            {
+                  "name": "Jezero Toplik",
+                  "text": "A Sase városában található Jezero Toplik nyugodt környezetet biztosít a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.379302,
+                        43.816414
+                  ]
+            },
+            {
+                  "name": "Igralište Ciciban - Jukićeva",
+                  "text": "Helyi játszótér Szarajevóban (Sarajevo Stock Exchange Sase), ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        18.402801,
+                        43.875605
+                  ]
+            },
+            {
+                  "name": "Ljuljačka",
+                  "text": "Ez a szarajevói játszótér (Sarajevo Stock Exchange Sase) hintákat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.403428,
+                        43.876823
+                  ]
+            },
+            {
+                  "name": "Kocka",
+                  "text": "Családi játszóhely Szarajevóban (Sarajevo Stock Exchange Sase).",
+                  "category": "family",
+                  "coords": [
+                        18.404151,
+                        43.869517
+                  ]
+            },
+            {
+                  "name": "Turski park",
+                  "text": "Játszótér a Turski parkban, Szarajevóban (Sarajevo Stock Exchange Sase).",
+                  "category": "family",
+                  "coords": [
+                        18.398709,
+                        43.852971
+                  ]
+            },
+            {
+                  "name": "Parkić",
+                  "text": "Egy kis park játéklehetőségekkel Szarajevóban (Sarajevo Stock Exchange Sase).",
+                  "category": "family",
+                  "coords": [
+                        18.406787,
+                        43.865029
                   ]
             }
       ],
@@ -3839,6 +4145,69 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.382638,
                         43.852599
                   ]
+            },
+            {
+                  "name": "Dobrinja",
+                  "text": "Dobrinja de lângă Sase este un loc liniștit la malul apei, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.348083,
+                        43.830701
+                  ]
+            },
+            {
+                  "name": "Jezero Toplik",
+                  "text": "Lacul Toplik din Sase oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.379302,
+                        43.816414
+                  ]
+            },
+            {
+                  "name": "Igralište Ciciban - Jukićeva",
+                  "text": "Un teren de joacă local în Sarajevo Stock Exchange Sase pentru recreerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.402801,
+                        43.875605
+                  ]
+            },
+            {
+                  "name": "Ljuljačka",
+                  "text": "Acest loc de joacă din Sarajevo Stock Exchange Sase oferă leagăne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.403428,
+                        43.876823
+                  ]
+            },
+            {
+                  "name": "Kocka",
+                  "text": "O zonă de joacă pentru familii în Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.404151,
+                        43.869517
+                  ]
+            },
+            {
+                  "name": "Turski park",
+                  "text": "Un teren de joacă în parcul Turski din Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.398709,
+                        43.852971
+                  ]
+            },
+            {
+                  "name": "Parkić",
+                  "text": "Un mic parc cu facilități de joacă în Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.406787,
+                        43.865029
+                  ]
             }
       ],
       "en": [
@@ -4227,6 +4596,69 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.382638,
                         43.852599
+                  ]
+            },
+            {
+                  "name": "Dobrinja",
+                  "text": "Dobrinja near Sase is a quiet spot by the water that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.348083,
+                        43.830701
+                  ]
+            },
+            {
+                  "name": "Jezero Toplik",
+                  "text": "Toplik Lake in Sase provides a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.379302,
+                        43.816414
+                  ]
+            },
+            {
+                  "name": "Igralište Ciciban - Jukićeva",
+                  "text": "A local playground in Sarajevo Stock Exchange Sase for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        18.402801,
+                        43.875605
+                  ]
+            },
+            {
+                  "name": "Ljuljačka",
+                  "text": "This playground in Sarajevo Stock Exchange Sase features swings for children.",
+                  "category": "family",
+                  "coords": [
+                        18.403428,
+                        43.876823
+                  ]
+            },
+            {
+                  "name": "Kocka",
+                  "text": "A play area for families in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.404151,
+                        43.869517
+                  ]
+            },
+            {
+                  "name": "Turski park",
+                  "text": "A playground located in Turski park in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.398709,
+                        43.852971
+                  ]
+            },
+            {
+                  "name": "Parkić",
+                  "text": "A small park with play facilities in Sarajevo Stock Exchange Sase.",
+                  "category": "family",
+                  "coords": [
+                        18.406787,
+                        43.865029
                   ]
             }
       ]

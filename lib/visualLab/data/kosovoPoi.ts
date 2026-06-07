@@ -867,6 +867,24 @@ export const kosovoPois: POI[] = [
                         20.671333,
                         41.942289
                   ]
+            },
+            {
+                  "name": "Shutman-See",
+                  "text": "Der Shutman-See bei Restelica ist ein Bergsee mit beeindruckender Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        20.734479,
+                        41.920238
+                  ]
+            },
+            {
+                  "name": "Srebreno ezero 2.182 masl",
+                  "text": "Dieser hochgelegene See bei Restelica bietet eine einzigartige Kulisse in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        20.740962,
+                        41.89282
+                  ]
             }
       ],
       "hu": [
@@ -913,6 +931,24 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.671333,
                         41.942289
+                  ]
+            },
+            {
+                  "name": "Liqeni i Shutmanit",
+                  "text": "A Shutman-tó Restelica közelében egy hegyi tó lenyűgöző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        20.734479,
+                        41.920238
+                  ]
+            },
+            {
+                  "name": "Srebreno ezero 2.182 masl",
+                  "text": "Ez a magasan fekvő tó Restelica közelében egyedülálló környezetet kínál a hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        20.740962,
+                        41.89282
                   ]
             }
       ],
@@ -961,6 +997,24 @@ export const kosovoPois: POI[] = [
                         20.671333,
                         41.942289
                   ]
+            },
+            {
+                  "name": "Liqeni i Shutmanit",
+                  "text": "Lacul Shutman de lângă Restelica este un lac montan cu vederi impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        20.734479,
+                        41.920238
+                  ]
+            },
+            {
+                  "name": "Srebreno ezero 2.182 masl",
+                  "text": "Acest lac situat la mare altitudine lângă Restelica oferă un cadru montan unic.",
+                  "category": "natural",
+                  "coords": [
+                        20.740962,
+                        41.89282
+                  ]
             }
       ],
       "en": [
@@ -1007,6 +1061,24 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.671333,
                         41.942289
+                  ]
+            },
+            {
+                  "name": "Liqeni i Shutmanit",
+                  "text": "Shutman Lake near Restelica is a mountain lake with impressive views.",
+                  "category": "natural",
+                  "coords": [
+                        20.734479,
+                        41.920238
+                  ]
+            },
+            {
+                  "name": "Srebreno ezero 2.182 masl",
+                  "text": "This high-altitude lake near Restelica offers a unique setting in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        20.740962,
+                        41.89282
                   ]
             }
       ]
@@ -1187,6 +1259,15 @@ export const kosovoPois: POI[] = [
                         20.732654,
                         42.21031
                   ]
+            },
+            {
+                  "name": "Bowlingo & Playpark",
+                  "text": "Ein Unterhaltungszentrum in Prizren mit Bowling und Spielpark.",
+                  "category": "family",
+                  "coords": [
+                        20.722661,
+                        42.216583
+                  ]
             }
       ],
       "hu": [
@@ -1332,6 +1413,15 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.732654,
                         42.21031
+                  ]
+            },
+            {
+                  "name": "Bowlingo & Playpark",
+                  "text": "Szórakoztató központ Prizrenben bowlinggal és játékparkkal.",
+                  "category": "family",
+                  "coords": [
+                        20.722661,
+                        42.216583
                   ]
             }
       ],
@@ -1479,6 +1569,15 @@ export const kosovoPois: POI[] = [
                         20.732654,
                         42.21031
                   ]
+            },
+            {
+                  "name": "Bowlingo & Playpark",
+                  "text": "Un centru de divertisment în Prizren cu bowling și parc de joacă.",
+                  "category": "family",
+                  "coords": [
+                        20.722661,
+                        42.216583
+                  ]
             }
       ],
       "en": [
@@ -1625,6 +1724,15 @@ export const kosovoPois: POI[] = [
                         20.732654,
                         42.21031
                   ]
+            },
+            {
+                  "name": "Bowlingo & Playpark",
+                  "text": "An entertainment center in Prizren featuring bowling and a play park.",
+                  "category": "family",
+                  "coords": [
+                        20.722661,
+                        42.216583
+                  ]
             }
       ]
 }, type: "city", parent: "XK-004", coords: [20.7397, 42.2138],
@@ -1765,6 +1873,42 @@ export const kosovoPois: POI[] = [
                         21.467761,
                         42.467784
                   ]
+            },
+            {
+                  "name": "Liqeni i Livoqit",
+                  "text": "Der Livoq-See ist ein See in Gjilan, der eine ruhige Umgebung zum Wandern und Betrachten der Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.415784,
+                        42.464353
+                  ]
+            },
+            {
+                  "name": "VENDI LOJRAVE",
+                  "text": "VENDI LOJRAVE ist ein lebhafter Spielplatz in Gjilan, ideal für einen unterhaltsamen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.478845,
+                        42.470501
+                  ]
+            },
+            {
+                  "name": "Playstation Center Buli",
+                  "text": "Das Playstation Center Buli ist eine Spielhalle in Gjilan, die aufregende Unterhaltung für Familien und junge Gamer bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.466463,
+                        42.468606
+                  ]
+            },
+            {
+                  "name": "Sony Playstation",
+                  "text": "Sony Playstation ist ein thematischer Spielplatz in Gjilan, der Kindern einen einzigartigen Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.474078,
+                        42.462179
+                  ]
             }
       ],
       "hu": [
@@ -1838,6 +1982,42 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         21.467761,
                         42.467784
+                  ]
+            },
+            {
+                  "name": "Liqeni i Livoqit",
+                  "text": "A Livoq-See egy tó Gjilanban, amely nyugodt környezetet biztosít a sétához és a táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.415784,
+                        42.464353
+                  ]
+            },
+            {
+                  "name": "VENDI LOJRAVE",
+                  "text": "A VENDI LOJRAVE egy élénk játszótér Gjilanban, amely tökéletes egy vidám családi kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        21.478845,
+                        42.470501
+                  ]
+            },
+            {
+                  "name": "Playstation Center Buli",
+                  "text": "A Playstation Center Buli egy szórakoztató központ Gjilanban, amely izgalmas szórakozást nyújt családoknak és fiatal játékosoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.466463,
+                        42.468606
+                  ]
+            },
+            {
+                  "name": "Sony Playstation",
+                  "text": "A Sony Playstation egy tematikus játszótér Gjilanban, amely egyedülálló helyet biztosít a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        21.474078,
+                        42.462179
                   ]
             }
       ],
@@ -1913,6 +2093,42 @@ export const kosovoPois: POI[] = [
                         21.467761,
                         42.467784
                   ]
+            },
+            {
+                  "name": "Liqeni i Livoqit",
+                  "text": "Livoq-See este un lac în Gjilan, oferind un mediu liniștit pentru plimbare și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        21.415784,
+                        42.464353
+                  ]
+            },
+            {
+                  "name": "VENDI LOJRAVE",
+                  "text": "VENDI LOJRAVE este un loc de joacă vibrant în Gjilan, perfect pentru o zi distractivă în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        21.478845,
+                        42.470501
+                  ]
+            },
+            {
+                  "name": "Playstation Center Buli",
+                  "text": "Playstation Center Buli este o sală de jocuri în Gjilan, oferind divertisment captivant pentru familii și tineri pasionați de jocuri.",
+                  "category": "family",
+                  "coords": [
+                        21.466463,
+                        42.468606
+                  ]
+            },
+            {
+                  "name": "Sony Playstation",
+                  "text": "Sony Playstation este un loc de joacă tematic în Gjilan, oferind un spațiu unic pentru copii, unde se pot juca și explora.",
+                  "category": "family",
+                  "coords": [
+                        21.474078,
+                        42.462179
+                  ]
             }
       ],
       "en": [
@@ -1986,6 +2202,42 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         21.467761,
                         42.467784
+                  ]
+            },
+            {
+                  "name": "Livoq-See",
+                  "text": "Livoq-See is a lake in Gjilan, offering a tranquil environment for walking and viewing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.415784,
+                        42.464353
+                  ]
+            },
+            {
+                  "name": "VENDI LOJRAVE",
+                  "text": "VENDI LOJRAVE is a vibrant playground in Gjilan, perfect for a fun family day out with children.",
+                  "category": "family",
+                  "coords": [
+                        21.478845,
+                        42.470501
+                  ]
+            },
+            {
+                  "name": "Playstation Center Buli",
+                  "text": "Playstation Center Buli is an amusement arcade in Gjilan, offering exciting entertainment for families and young gamers.",
+                  "category": "family",
+                  "coords": [
+                        21.466463,
+                        42.468606
+                  ]
+            },
+            {
+                  "name": "Sony Playstation",
+                  "text": "Sony Playstation is a themed playground in Gjilan, providing a unique space for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        21.474078,
+                        42.462179
                   ]
             }
       ]

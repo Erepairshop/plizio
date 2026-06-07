@@ -1547,6 +1547,114 @@ export const andorraCities: POI[] = [
                         1.539947,
                         42.513037
                   ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Ein bekannter Bergsee in Andorra, ideal für Wanderungen und Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Ein hochgelegener Bergsee in den Pyrenäen für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Ein kleinerer Bergsee in der Nähe des Estany Gran de la Pera.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Ein Bergsee in Escaldes Engordany mit beeindruckender Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Ein abgeschiedener Bergsee in Andorra für ruhige Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Kleine Bergseen in der Region Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Der Estany Blau ist ein malerischer See in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Die Estanys de Perafita sind malerische Seen in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Der Estany de Serramitjana ist ein ruhiger See in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Die els Estanyons sind kleine, malerische Seen in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Der Estany Moreno ist ein idyllischer See in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Der Estany Sec ist ein See in Escaldes Engordany, der für seine Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
             }
       ],
       "hu": [
@@ -1782,6 +1890,114 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.539947,
                         42.513037
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Ismert hegyi tó Andorrában, ideális túrázáshoz és kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Magaslati hegyi tó a Pireneusokban a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Kisebb hegyi tó az Estany Gran de la Pera közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Hegyi tó Escaldes Engordanyban, lenyűgöző háttérrel.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Elszigetelt hegyi tó Andorrában a csendes természetélményért.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Apró hegyi tavak Escaldes Engordany régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Az Estany Blau egy festői tó Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Az Estanys de Perafita festői tavak Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Az Estany de Serramitjana egy csendes tó Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Az els Estanyons kisméretű, festői tavak Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Az Estany Moreno egy idilli tó Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Az Estany Sec egy természetközeli tó Escaldes Engordany területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
                   ]
             }
       ],
@@ -2019,6 +2235,114 @@ export const andorraCities: POI[] = [
                         1.539947,
                         42.513037
                   ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Un lac montan cunoscut în Andorra, ideal pentru drumeții și panorame.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Un lac montan situat la înălțime în Pirinei pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Un lac montan mai mic în apropiere de Estany Gran de la Pera.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Un lac montan în Escaldes Engordany, cu un cadru impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Un lac montan retras în Andorra pentru experiențe liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Mici lacuri montane în regiunea Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau este un lac pitoresc în Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita sunt lacuri pitorești în Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Estany de Serramitjana este un lac liniștit în Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Els Estanyons sunt lacuri mici și pitorești în Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno este un lac idilic în Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Estany Sec este un lac în Escaldes Engordany, cunoscut pentru natura sa.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
             }
       ],
       "en": [
@@ -2255,6 +2579,114 @@ export const andorraCities: POI[] = [
                         1.539947,
                         42.513037
                   ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A well-known mountain lake in Andorra, ideal for hiking and views.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "A high-altitude mountain lake in the Pyrenees for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "A smaller mountain lake near Estany Gran de la Pera.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "A mountain lake in Escaldes Engordany with an impressive backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "A secluded mountain lake in Andorra for quiet nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Small mountain lakes in the Escaldes Engordany region.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau is a scenic lake in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita are scenic lakes in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Estany de Serramitjana is a quiet lake in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Els Estanyons are small, scenic lakes in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno is an idyllic lake in Escaldes Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Estany Sec is a lake in Escaldes Engordany known for its natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
             }
       ]
 },
@@ -2301,7 +2733,844 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/escaldes-engordany-caldea-spa.webp"
   },
   {
-    id: "city-encamp",
+    id: "city-encamp", "sights": {
+      "de": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Der Llac d'Engolasters in Encamp ist ein atemberaubender See, ideal zum Wandern und Genießen der atemberaubenden Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "el Forn in Encamp ist ein ruhiges Gewässer, ideal für einen friedlichen Spaziergang und zum Genießen der natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Der Estany de la Nou ist ein malerischer Bergsee in Encamp, ideal für eine ruhige Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Der Estany de les Fonts ist ein ruhiger Natursee in Encamp, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Estany del Cap dels Pessons",
+                  "text": "Der Estany del Cap dels Pessons ist ein beeindruckender See in Encamp, umgeben von herrlicher Bergkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        1.665114,
+                        42.511998
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Der Estany del Meligar ist ein friedlicher See in Encamp, ideal für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        1.674562,
+                        42.518309
+                  ]
+            },
+            {
+                  "name": "Estany de Ribuls",
+                  "text": "Der Estany de Ribuls ist ein kleiner, malerischer Bergsee in Encamp mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        1.672094,
+                        42.512924
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Die Basses Roges sind natürliche Wasserbecken in Encamp, die für ihre ruhige Umgebung bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Der Sisè Estany ist ein abgelegener Bergsee in Encamp, perfekt für eine anspruchsvolle Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Die Estanys d'Ensagents sind eine Gruppe von Bergseen in Encamp, die eine herrliche Landschaft bieten.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Der Estany Forcat ist ein charakteristischer Hochgebirgssee in Encamp, umgeben von schroffen Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        1.638223,
+                        42.494218
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Der Estany Blau ist bekannt für sein klares, blaues Wasser und liegt malerisch in Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estany de la Bova",
+                  "text": "Der Estany de la Bova ist ein ruhiger See in Encamp, ideal für einen Ausflug in die unberührte Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.651076,
+                        42.489371
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Die Estanys de Perafita sind idyllische Bergseen in Encamp, die ein beliebtes Wanderziel darstellen.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany d'Encamp",
+                  "text": "Der Estany d'Encamp ist ein lokales Gewässer, das zur landschaftlichen Schönheit von Encamp beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        1.657156,
+                        42.502394
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Die Estanys de la Vall del Riu sind beeindruckende Hochgebirgsseen im Tal von Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Der Estany de Serramitjana ist ein friedlicher Bergsee in Encamp, umgeben von alpiner Flora.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Els Estanyons sind kleine, versteckte Bergseen in Encamp, ideal für Entdecker und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Der Llac del Cubil ist ein kleiner See in Encamp, der eine wunderbare Aussicht auf die umliegenden Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Der Estany Moreno ist ein idyllischer See in Encamp, der perfekt für eine kurze Rast in der Natur ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Der Estany Sec ist ein saisonaler See in Encamp, der je nach Jahreszeit ein unterschiedliches Bild bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
+            },
+            {
+                  "name": "Estany de l'Illa",
+                  "text": "Der Estany de l'Illa ist ein großer Hochgebirgssee in Encamp mit einer markanten Insel.",
+                  "category": "natural",
+                  "coords": [
+                        1.658434,
+                        42.497898
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Der Estany Gran de la Vall del Riu ist der größte See in diesem Tal und bietet beeindruckende Panoramablicke.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Az Encampban található Llac d'Engolasters egy lenyűgöző tó, amely ideális túrázáshoz és a lélegzetelállító hegyi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Az Encampban található el Forn egy nyugodt vízfelület, amely tökéletes egy békés sétához és a természeti környezet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Az Estany de la Nou egy festői hegyi tó Encamp közelében, amely ideális egy csendes túrához.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Az Estany de les Fonts egy nyugodt természetes tó Encamp területén, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Estany del Cap dels Pessons",
+                  "text": "Az Estany del Cap dels Pessons egy lenyűgöző tó Encampban, csodálatos hegyi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.665114,
+                        42.511998
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Az Estany del Meligar egy békés tó Encamp területén, ideális a természet kedvelőinek és a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.674562,
+                        42.518309
+                  ]
+            },
+            {
+                  "name": "Estany de Ribuls",
+                  "text": "Az Estany de Ribuls egy kicsi, festői hegyi tó Encampban, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        1.672094,
+                        42.512924
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "A Basses Roges természetes tavacskák Encampban, amelyek nyugodt környezetükről ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "A Sisè Estany egy eldugott hegyi tó Encampban, tökéletes egy kihívást jelentő túrához.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Az Estanys d'Ensagents hegyi tavak csoportja Encampban, amelyek csodálatos tájat kínálnak.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Az Estany Forcat egy jellegzetes magashegyi tó Encampban, zord csúcsokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.638223,
+                        42.494218
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Az Estany Blau tiszta, kék vizéről ismert, és festői környezetben fekszik Encampban.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estany de la Bova",
+                  "text": "Az Estany de la Bova egy nyugodt tó Encampban, ideális kiránduláshoz az érintetlen természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        1.651076,
+                        42.489371
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Az Estanys de Perafita idilli hegyi tavak Encampban, amelyek népszerű túracélpontok.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany d'Encamp",
+                  "text": "Az Estany d'Encamp egy helyi vízfelület, amely hozzájárul Encamp táji szépségéhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.657156,
+                        42.502394
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Az Estanys de la Vall del Riu lenyűgöző magashegyi tavak Encamp völgyében.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Az Estany de Serramitjana egy békés hegyi tó Encampban, alpesi flórával körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "Az els Estanyons kicsi, rejtett hegyi tavak Encampban, ideálisak felfedezőknek és túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "A Llac del Cubil egy kis tó Encampban, amely csodálatos kilátást nyújt a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Az Estany Moreno egy idilli tó Encampban, amely tökéletes egy rövid pihenőhöz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Az Estany Sec egy időszakos tó Encampban, amely évszaktól függően különböző látványt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
+            },
+            {
+                  "name": "Estany de l'Illa",
+                  "text": "Az Estany de l'Illa egy nagy magashegyi tó Encampban, egy jellegzetes szigettel.",
+                  "category": "natural",
+                  "coords": [
+                        1.658434,
+                        42.497898
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Az Estany Gran de la Vall del Riu a völgy legnagyobb tava, lenyűgöző panorámát nyújtva.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters din Encamp este un lac uimitor, ideal pentru drumeții și pentru a admira peisajele montane spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "el Forn din Encamp este o întindere de apă liniștită, perfectă pentru o plimbare calmă și pentru a te bucura de mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou este un lac montan pitoresc în Encamp, ideal pentru o drumeție liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Estany de les Fonts este un lac natural liniștit în Encamp, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Estany del Cap dels Pessons",
+                  "text": "Estany del Cap dels Pessons este un lac impresionant în Encamp, înconjurat de un peisaj montan superb.",
+                  "category": "natural",
+                  "coords": [
+                        1.665114,
+                        42.511998
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Estany del Meligar este un lac liniștit în Encamp, ideal pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        1.674562,
+                        42.518309
+                  ]
+            },
+            {
+                  "name": "Estany de Ribuls",
+                  "text": "Estany de Ribuls este un lac montan mic și pitoresc în Encamp, oferind priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        1.672094,
+                        42.512924
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges sunt bazine naturale în Encamp, cunoscute pentru mediul lor liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Sisè Estany este un lac montan retras în Encamp, perfect pentru o drumeție solicitantă.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Estanys d'Ensagents sunt un grup de lacuri montane în Encamp, oferind un peisaj magnific.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat este un lac de înaltă munte caracteristic în Encamp, înconjurat de vârfuri abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        1.638223,
+                        42.494218
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau este cunoscut pentru apa sa albastră clară și este situat pitoresc în Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estany de la Bova",
+                  "text": "Estany de la Bova este un lac liniștit în Encamp, ideal pentru o excursie în natura neatinsă.",
+                  "category": "natural",
+                  "coords": [
+                        1.651076,
+                        42.489371
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita sunt lacuri montane idilice în Encamp, reprezentând o destinație populară de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany d'Encamp",
+                  "text": "Estany d'Encamp este un corp de apă local care contribuie la frumusețea peisajului din Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.657156,
+                        42.502394
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu sunt lacuri montane impresionante în valea din Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Estany de Serramitjana este un lac montan liniștit în Encamp, înconjurat de floră alpină.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "els Estanyons sunt lacuri montane mici și ascunse în Encamp, ideale pentru exploratori și drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Llac del Cubil este un lac mic în Encamp, oferind o vedere minunată asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno este un lac idilic în Encamp, perfect pentru un scurt popas în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Estany Sec este un lac sezonier în Encamp, oferind o imagine diferită în funcție de anotimp.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
+            },
+            {
+                  "name": "Estany de l'Illa",
+                  "text": "Estany de l'Illa este un lac montan mare în Encamp, cu o insulă distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        1.658434,
+                        42.497898
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu este cel mai mare lac din această vale și oferă vederi panoramice impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters in Encamp is a stunning lake, ideal for hiking and enjoying breathtaking mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "el Forn in Encamp is a tranquil body of water, perfect for a peaceful stroll and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou is a scenic mountain lake in Encamp, ideal for a peaceful hike.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Estany de les Fonts is a calm natural lake in Encamp, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Estany del Cap dels Pessons",
+                  "text": "Estany del Cap dels Pessons is an impressive lake in Encamp, surrounded by great mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.665114,
+                        42.511998
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Estany del Meligar is a peaceful lake in Encamp, ideal for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        1.674562,
+                        42.518309
+                  ]
+            },
+            {
+                  "name": "Estany de Ribuls",
+                  "text": "Estany de Ribuls is a small, scenic mountain lake in Encamp with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        1.672094,
+                        42.512924
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges are natural ponds in Encamp, known for their peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Sisè Estany is a remote mountain lake in Encamp, perfect for a challenging hike.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Estanys d'Ensagents are a group of mountain lakes in Encamp offering magnificent scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat is a characteristic high mountain lake in Encamp, surrounded by rugged peaks.",
+                  "category": "natural",
+                  "coords": [
+                        1.638223,
+                        42.494218
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau is known for its clear blue water and is picturesquely located in Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Estany de la Bova",
+                  "text": "Estany de la Bova is a quiet lake in Encamp, ideal for a trip into untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.651076,
+                        42.489371
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita are idyllic mountain lakes in Encamp, serving as a popular hiking destination.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Estany d'Encamp",
+                  "text": "Estany d'Encamp is a local body of water contributing to the scenic beauty of Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.657156,
+                        42.502394
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu are impressive high mountain lakes in the valley of Encamp.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Estany de Serramitjana",
+                  "text": "Estany de Serramitjana is a peaceful mountain lake in Encamp, surrounded by alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        1.611631,
+                        42.475031
+                  ]
+            },
+            {
+                  "name": "els Estanyons",
+                  "text": "els Estanyons are small, hidden mountain lakes in Encamp, ideal for explorers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        1.623083,
+                        42.473996
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Llac del Cubil is a small lake in Encamp offering wonderful views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno is an idyllic lake in Encamp, perfect for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany Sec",
+                  "text": "Estany Sec is a seasonal lake in Encamp, offering a different view depending on the season.",
+                  "category": "natural",
+                  "coords": [
+                        1.621204,
+                        42.472593
+                  ]
+            },
+            {
+                  "name": "Estany de l'Illa",
+                  "text": "Estany de l'Illa is a large high mountain lake in Encamp with a distinctive island.",
+                  "category": "natural",
+                  "coords": [
+                        1.658434,
+                        42.497898
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu is the largest lake in this valley, offering impressive panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.5833, 42.5362],
@@ -2472,6 +3741,177 @@ export const andorraCities: POI[] = [
                         1.409221,
                         42.577049
                   ]
+            },
+            {
+                  "name": "Estany d'Areste",
+                  "text": "Der Estany d'Areste ist ein klarer Bergsee in der Nähe von La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.40375,
+                        42.638403
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Der Estany de Baiau bei La Massana beeindruckt durch seine alpine Lage.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Der Estany Forcat in den Bergen von La Massana ist ein Ziel für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Étang de la Gardelle",
+                  "text": "Der See Gardelle bei La Massana bietet eine friedliche Atmosphäre in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        1.423843,
+                        42.642811
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Der kleine See Estanyet de Baiau ist ein verstecktes Juwel bei La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Vell",
+                  "text": "Der Estany del Port Vell in La Massana besticht durch seine ruhige Gebirgslage.",
+                  "category": "natural",
+                  "coords": [
+                        1.411102,
+                        42.631887
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Der See Port Dret bei La Massana ist ein malerisches Gewässer in den Pyrenäen.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Die Seen von Montmantell bei La Massana bieten eine beeindruckende Hochgebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Estany Fondo",
+                  "text": "Estany Fondo in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.394105,
+                        42.646208
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig in La Massana ist ein malerischer See, der sich ideal für entspannte Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
             }
       ],
       "hu": [
@@ -2599,6 +4039,177 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.409221,
                         42.577049
+                  ]
+            },
+            {
+                  "name": "Estany d'Areste",
+                  "text": "Az Estany d'Areste egy tiszta hegyi tó La Massana közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.40375,
+                        42.638403
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Az Estany de Baiau La Massana közelében lenyűgöző alpesi fekvésével.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Az Estany Forcat La Massana hegyei között a túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Étang de la Gardelle",
+                  "text": "A Gardelle-tó La Massana közelében békés hangulatot áraszt a hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        1.423843,
+                        42.642811
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Az Estanyet de Baiau kis tó egy rejtett ékszer La Massana közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Vell",
+                  "text": "Az Estany del Port Vell La Massana területén csendes hegyi fekvésével hódít.",
+                  "category": "natural",
+                  "coords": [
+                        1.411102,
+                        42.631887
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "A Port Dret-tó La Massana közelében egy festői állóvíz a Pireneusokban.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "A Montmantell-tavak La Massana közelében lenyűgöző magashegyi tájat kínálnak.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "A La Massana városában található Estanys de l'Angonella egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "A La Massana városában található Estanys de l'Angonella (Llac de Mes Avall) egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "A La Massana városában található Estanys de l'Angonella (Llac de Mes Amunt) egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "A La Massana városában található Estanys de l'Angonella (Llac del Mig) egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "A La Massana városában található Estanys de Comapedrosa egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "A La Massana városában található Estany de les Truites egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "A La Massana városában található Estany Negre egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "A La Massana városában található Bassa de les Granotes egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Estany Fondo",
+                  "text": "A La Massana városában található Estany Fondo egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.394105,
+                        42.646208
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "A La Massana városában található Bass del Racó egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "A La Massana városában található El dipòsit de Grau Roig egy festői tó, amely ideális kikapcsolódáshoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
                   ]
             }
       ],
@@ -2728,6 +4339,177 @@ export const andorraCities: POI[] = [
                         1.409221,
                         42.577049
                   ]
+            },
+            {
+                  "name": "Estany d'Areste",
+                  "text": "Estany d'Areste este un lac montan limpede situat lângă La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.40375,
+                        42.638403
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Estany de Baiau de lângă La Massana impresionează prin locația sa alpină.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat din munții La Massana este o destinație pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Étang de la Gardelle",
+                  "text": "Lacul Gardelle de lângă La Massana oferă o atmosferă liniștită în munți.",
+                  "category": "natural",
+                  "coords": [
+                        1.423843,
+                        42.642811
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Micuțul lac Estanyet de Baiau este o bijuterie ascunsă lângă La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Vell",
+                  "text": "Estany del Port Vell din La Massana impresionează prin locația sa montană liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        1.411102,
+                        42.631887
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Lacul Port Dret de lângă La Massana este un corp de apă pitoresc în Pirinei.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Lacurile din Montmantell de lângă La Massana oferă un peisaj montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Estany Fondo",
+                  "text": "Estany Fondo din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.394105,
+                        42.646208
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig din La Massana este un lac pitoresc, perfect pentru o plimbare relaxantă și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
             }
       ],
       "en": [
@@ -2856,6 +4638,177 @@ export const andorraCities: POI[] = [
                         1.409221,
                         42.577049
                   ]
+            },
+            {
+                  "name": "Estany d'Areste",
+                  "text": "Estany d'Areste is a clear mountain lake located near La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.40375,
+                        42.638403
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Estany de Baiau near La Massana impresses with its alpine setting.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat in the mountains of La Massana is a destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Étang de la Gardelle",
+                  "text": "Étang de la Gardelle near La Massana offers a peaceful atmosphere in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        1.423843,
+                        42.642811
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "The small lake Estanyet de Baiau is a hidden gem near La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Vell",
+                  "text": "Estany del Port Vell in La Massana stands out with its quiet mountain location.",
+                  "category": "natural",
+                  "coords": [
+                        1.411102,
+                        42.631887
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret near La Massana is a picturesque body of water in the Pyrenees.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell near La Massana offer an impressive high-mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Estany Fondo",
+                  "text": "Estany Fondo in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.394105,
+                        42.646208
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig in La Massana is a scenic lake, perfect for a relaxing walk and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
             }
       ]
 },
@@ -2902,7 +4855,556 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/la-massana-mountain-view.webp"
   },
   {
-    id: "city-ordino",
+    id: "city-ordino", "sights": {
+      "de": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Der Llac d'Engolasters ist ein bekannter See bei Ordino, ideal zum Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Der el Forn ist ein malerischer Bergsee in der Region Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Der Estany del Port Dret ist ein abgelegener Bergsee bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Die Estanys de Montmantell sind kristallklare Bergseen bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Die Estanys de l'Angonella sind wunderschöne Hochgebirgsseen bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Dieser untere See der Angonella-Gruppe liegt in einer malerischen Berglandschaft bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Der obere See der Angonella-Gruppe bietet beeindruckende Aussichten bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Der mittlere See der Angonella-Gruppe ist ein ruhiges Ausflugsziel bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Der Estany de les Truites ist ein klarer Bergsee in der Nähe von Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Der Estany de l'Estanyó ist ein hochgelegener See bei Ordino mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Die Estanys de la Vall del Riu sind malerische Bergseen im Tal bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Die Bassa de les Granotes ist ein kleiner, naturbelassener See bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Der Bass del Racó ist ein ruhiger Gebirgssee in der Umgebung von Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "Der dipòsit de Grau Roig ist ein See in der Bergregion bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Der Estany Gran de la Vall del Riu ist der größte See in diesem Gebirgstal bei Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A Llac d'Engolasters egy ismert tó Ordino közelében, amely ideális túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Az el Forn egy festői hegyi tó Ordino régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Az Estany del Port Dret egy eldugott hegyi tó Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Az Estanys de Montmantell kristálytiszta hegyi tavak Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Az Estanys de l'Angonella gyönyörű magashegyi tavak Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Az Angonella-csoport ezen alsó tava festői hegyi környezetben fekszik Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Az Angonella-csoport felső tava lenyűgöző kilátást nyújt Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Az Angonella-csoport középső tava egy nyugodt úti cél Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Az Estany de les Truites egy tiszta hegyi tó Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Az Estany de l'Estanyó egy magasan fekvő tó Ordino közelében, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Az Estanys de la Vall del Riu festői hegyi tavak az Ordino melletti völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "A Bassa de les Granotes egy kicsi, természetes tó Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "A Bass del Racó egy csendes hegyi tó Ordino környékén.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "Az El dipòsit de Grau Roig egy tó Ordino hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Az Estany Gran de la Vall del Riu a legnagyobb tó ebben a hegyi völgyben Ordino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters este un lac cunoscut lângă Ordino, ideal pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "El Forn este un lac montan pitoresc în regiunea Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret este un lac montan retras lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell sunt lacuri montane cu apă cristalină lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella sunt lacuri montane superbe lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Acest lac inferior din grupul Angonella este situat într-un peisaj montan pitoresc lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Lacul superior din grupul Angonella oferă priveliști impresionante lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Lacul mijlociu din grupul Angonella este o destinație liniștită lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites este un lac montan limpede în apropiere de Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Estany de l'Estanyó este un lac la altitudine lângă Ordino, cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu sunt lacuri montane pitorești în valea de lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes este un lac mic și natural lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó este un lac montan liniștit în împrejurimile localității Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig este un lac în regiunea montană de lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu este cel mai mare lac din această vale montană de lângă Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters is a well-known lake near Ordino, ideal for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "El Forn is a scenic mountain lake in the Ordino region.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret is a secluded mountain lake near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell are crystal-clear mountain lakes near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella are beautiful high-mountain lakes near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "This lower lake of the Angonella group is situated in a scenic mountain landscape near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "The upper lake of the Angonella group offers impressive views near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "The middle lake of the Angonella group is a peaceful destination near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites is a clear mountain lake located near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Estany de l'Estanyó is a high-altitude lake near Ordino with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu are scenic mountain lakes in the valley near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes is a small, natural lake near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó is a quiet mountain lake in the surroundings of Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig is a lake in the mountain region near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu is the largest lake in this mountain valley near Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.5332, 42.5562],
@@ -3109,6 +5611,204 @@ export const andorraCities: POI[] = [
                         1.59398,
                         42.560361
                   ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Der Llac d'Engolasters ist ein leicht erreichbarer und beliebter See bei Canillo für Familienausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Ransol",
+                  "text": "Der Estany de Ransol ist ein schöner Bergsee bei Canillo, umgeben von saftigen grünen Wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        1.614645,
+                        42.619347
+                  ]
+            },
+            {
+                  "name": "Estany Mort",
+                  "text": "Der Estany Mort ist ein ruhiger See in Canillo, der für seine friedliche und stille Atmosphäre geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        1.621895,
+                        42.624661
+                  ]
+            },
+            {
+                  "name": "Estanyo de Ransol",
+                  "text": "Der Estanyo de Ransol ist ein kleinerer See in Canillo, ideal für Wanderer, die die Stille suchen.",
+                  "category": "natural",
+                  "coords": [
+                        1.617283,
+                        42.617191
+                  ]
+            },
+            {
+                  "name": "Estany dels Meners de la Coma",
+                  "text": "Der Estany dels Meners de la Coma ist ein abgelegener See in Canillo mit einer interessanten Bergbaugeschichte.",
+                  "category": "natural",
+                  "coords": [
+                        1.608585,
+                        42.623722
+                  ]
+            },
+            {
+                  "name": "Estany de Querol",
+                  "text": "Der Estany de Querol ist ein malerischer See in Canillo, der ein perfektes Ziel für Naturfotografen ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.660363,
+                        42.600097
+                  ]
+            },
+            {
+                  "name": "Basses de les Salamandres",
+                  "text": "Die Basses de les Salamandres sind kleine Naturteiche in Canillo, bekannt für ihre alpine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        1.662816,
+                        42.604456
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Der See El Forn liegt in der Nähe von Canillo und ist Teil einer wunderschönen Hochgebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Der Estany de les Fonts bei Canillo ist ein ruhiger Rückzugsort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Der Sisè Estany bei Canillo bietet Wanderern ein ruhiges und naturnahes Erlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Die Estanys d'Ensagents sind beeindruckende Bergseen bei Canillo, ideal für Outdoor-Aktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Bassot dels Clots de Massat",
+                  "text": "Der Bassot dels Clots de Massat ist ein kleiner, versteckter See in Canillo, umgeben von Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        1.696041,
+                        42.568195
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Der Estany Blau bei Canillo besticht durch seine Farbe und die alpine Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Basses del Pic",
+                  "text": "Die Basses del Pic sind Hochgebirgsteiche in Canillo, die einen tollen Blick auf die Gipfel bieten.",
+                  "category": "natural",
+                  "coords": [
+                        1.619453,
+                        42.620161
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Der Estany de l'Estanyó ist ein glasklarer See in Canillo, ideal für eine Wanderung in luftiger Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Die Estanys de la Vall del Riu bieten eine spektakuläre Seekulisse im Gebiet von Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Der Llac del Cubil bei Canillo ist ein friedlicher Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Der Estany Moreno bei Canillo lädt zu einer entspannten Pause während einer Bergwanderung ein.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Der Estany del Meligar ist ein idyllischer Gebirgssee in Canillo, perfekt für Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        1.660612,
+                        42.527597
+                  ]
+            },
+            {
+                  "name": "Basses de la Cebollera",
+                  "text": "Die Basses de la Cebollera sind kleine Teiche in Canillo, die die alpine Landschaft bereichern.",
+                  "category": "natural",
+                  "coords": [
+                        1.586424,
+                        42.630503
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Der Estany Gran de la Vall del Riu bei Canillo ist bekannt für seine Größe und natürliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            },
+            {
+                  "name": "Estany de Cabana Sorda",
+                  "text": "Der Estany de Cabana Sorda ist ein beliebtes Wanderziel in Canillo mit einer nahegelegenen Schutzhütte.",
+                  "category": "natural",
+                  "coords": [
+                        1.670598,
+                        42.613511
+                  ]
             }
       ],
       "hu": [
@@ -3272,6 +5972,204 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.59398,
                         42.560361
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A Llac d'Engolasters egy könnyen megközelíthető és népszerű tó Canillo közelében családi kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Ransol",
+                  "text": "Az Estany de Ransol egy szép hegyi tó Canillo közelében, dús zöld rétekkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.614645,
+                        42.619347
+                  ]
+            },
+            {
+                  "name": "Estany Mort",
+                  "text": "Az Estany Mort egy nyugodt tó Canillo területén, amelyet békés és csendes légköréért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        1.621895,
+                        42.624661
+                  ]
+            },
+            {
+                  "name": "Estanyo de Ransol",
+                  "text": "Az Estanyo de Ransol egy kisebb tó Canillo közelében, ideális a csendet kereső túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.617283,
+                        42.617191
+                  ]
+            },
+            {
+                  "name": "Estany dels Meners de la Coma",
+                  "text": "Az Estany dels Meners de la Coma egy eldugott tó Canillo területén, érdekes bányászati múlttal.",
+                  "category": "natural",
+                  "coords": [
+                        1.608585,
+                        42.623722
+                  ]
+            },
+            {
+                  "name": "Estany de Querol",
+                  "text": "Az Estany de Querol egy festői tó Canillo közelében, amely tökéletes célpont természetfotósoknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.660363,
+                        42.600097
+                  ]
+            },
+            {
+                  "name": "Basses de les Salamandres",
+                  "text": "A Basses de les Salamandres kis természetes tavak Canillo közelében, alpesi élővilágukról ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        1.662816,
+                        42.604456
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Az El Forn tó Canillo közelében található, egy gyönyörű magashegyi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Az Estany de les Fonts Canillo közelében egy nyugodt búvóhely a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "A Sisè Estany Canillo közelében nyugodt és természetközeli élményt nyújt a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Az Estanys d'Ensagents lenyűgöző hegyi tavak Canillo közelében, ideálisak szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Bassot dels Clots de Massat",
+                  "text": "Az Bassot dels Clots de Massat egy kicsi, rejtett tó Canillo közelében, hegyekkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.696041,
+                        42.568195
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Az Estany Blau Canillo közelében színével és alpesi környezetével nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Basses del Pic",
+                  "text": "A Basses del Pic magashegyi tavak Canillo területén, nagyszerű kilátást nyújtva a csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        1.619453,
+                        42.620161
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Az Estany de l'Estanyó egy kristálytiszta tó Canillo közelében, ideális túrázáshoz a magasban.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Az Estanys de la Vall del Riu látványos tavakat kínál Canillo környékén.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "A Llac del Cubil Canillo közelében békés hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Az Estany Moreno Canillo közelében pihentető szünetre hív egy hegyi túra során.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Az Estany del Meligar egy idilli hegyi tó Canillo közelében, tökéletes a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.660612,
+                        42.527597
+                  ]
+            },
+            {
+                  "name": "Basses de la Cebollera",
+                  "text": "A Basses de la Cebollera kis tavak Canillo területén, amelyek gazdagítják az alpesi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        1.586424,
+                        42.630503
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Az Estany Gran de la Vall del Riu Canillo közelében méretéről és természetes szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            },
+            {
+                  "name": "Estany de Cabana Sorda",
+                  "text": "Az Estany de Cabana Sorda népszerű túracélpont Canillo közelében, egy közeli menedékházzal.",
+                  "category": "natural",
+                  "coords": [
+                        1.670598,
+                        42.613511
                   ]
             }
       ],
@@ -3437,6 +6335,204 @@ export const andorraCities: POI[] = [
                         1.59398,
                         42.560361
                   ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters este un lac popular și ușor accesibil lângă Canillo, ideal pentru excursii în familie.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Ransol",
+                  "text": "Estany de Ransol este un lac montan frumos lângă Canillo, înconjurat de pajiști verzi luxuriante.",
+                  "category": "natural",
+                  "coords": [
+                        1.614645,
+                        42.619347
+                  ]
+            },
+            {
+                  "name": "Estany Mort",
+                  "text": "Estany Mort este un lac liniștit în Canillo, apreciat pentru atmosfera sa pașnică și tăcută.",
+                  "category": "natural",
+                  "coords": [
+                        1.621895,
+                        42.624661
+                  ]
+            },
+            {
+                  "name": "Estanyo de Ransol",
+                  "text": "Estanyo de Ransol este un lac mai mic în Canillo, ideal pentru drumeții care caută liniștea.",
+                  "category": "natural",
+                  "coords": [
+                        1.617283,
+                        42.617191
+                  ]
+            },
+            {
+                  "name": "Estany dels Meners de la Coma",
+                  "text": "Estany dels Meners de la Coma este un lac izolat în Canillo, cu o istorie minieră interesantă.",
+                  "category": "natural",
+                  "coords": [
+                        1.608585,
+                        42.623722
+                  ]
+            },
+            {
+                  "name": "Estany de Querol",
+                  "text": "Estany de Querol este un lac pitoresc în Canillo, fiind o destinație perfectă pentru fotografii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.660363,
+                        42.600097
+                  ]
+            },
+            {
+                  "name": "Basses de les Salamandres",
+                  "text": "Basses de les Salamandres sunt mici iazuri naturale în Canillo, cunoscute pentru biodiversitatea lor alpină.",
+                  "category": "natural",
+                  "coords": [
+                        1.662816,
+                        42.604456
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "Lacul el Forn este situat lângă Canillo și face parte dintr-un peisaj montan superb.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Estany de les Fonts lângă Canillo este un refugiu liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Sisè Estany lângă Canillo oferă drumeților o experiență liniștită și aproape de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Estanys d'Ensagents sunt lacuri montane impresionante lângă Canillo, ideale pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Bassot dels Clots de Massat",
+                  "text": "Bassot dels Clots de Massat este un lac mic și ascuns în Canillo, înconjurat de munți.",
+                  "category": "natural",
+                  "coords": [
+                        1.696041,
+                        42.568195
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau de lângă Canillo impresionează prin culoarea sa și mediul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Basses del Pic",
+                  "text": "Basses del Pic sunt iazuri de înaltă munte în Canillo, oferind o vedere excelentă asupra vârfurilor.",
+                  "category": "natural",
+                  "coords": [
+                        1.619453,
+                        42.620161
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Estany de l'Estanyó este un lac cristalin în Canillo, ideal pentru o drumeție la înălțime.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu oferă un decor spectaculos de lacuri în zona Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Llac del Cubil lângă Canillo este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno lângă Canillo invită la o pauză relaxantă în timpul unei drumeții montane.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Estany del Meligar este un lac montan idilic în Canillo, perfect pentru cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        1.660612,
+                        42.527597
+                  ]
+            },
+            {
+                  "name": "Basses de la Cebollera",
+                  "text": "Basses de la Cebollera sunt iazuri mici în Canillo care îmbogățesc peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        1.586424,
+                        42.630503
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu lângă Canillo este cunoscut pentru dimensiunea și frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            },
+            {
+                  "name": "Estany de Cabana Sorda",
+                  "text": "Estany de Cabana Sorda este o destinație populară de drumeție în Canillo, cu un refugiu montan în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        1.670598,
+                        42.613511
+                  ]
             }
       ],
       "en": [
@@ -3600,6 +6696,204 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.59398,
                         42.560361
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Lake Engolasters is an easily accessible and popular lake near Canillo, great for family outings.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Ransol",
+                  "text": "Estany de Ransol is a beautiful mountain lake near Canillo, surrounded by lush green meadows.",
+                  "category": "natural",
+                  "coords": [
+                        1.614645,
+                        42.619347
+                  ]
+            },
+            {
+                  "name": "Estany Mort",
+                  "text": "Estany Mort is a quiet lake in Canillo, valued for its peaceful and silent atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        1.621895,
+                        42.624661
+                  ]
+            },
+            {
+                  "name": "Estanyo de Ransol",
+                  "text": "Estanyo de Ransol is a smaller lake in Canillo, ideal for hikers seeking solitude.",
+                  "category": "natural",
+                  "coords": [
+                        1.617283,
+                        42.617191
+                  ]
+            },
+            {
+                  "name": "Estany dels Meners de la Coma",
+                  "text": "Estany dels Meners de la Coma is a remote lake in Canillo with an interesting mining history.",
+                  "category": "natural",
+                  "coords": [
+                        1.608585,
+                        42.623722
+                  ]
+            },
+            {
+                  "name": "Estany de Querol",
+                  "text": "Estany de Querol is a scenic lake in Canillo, making it a perfect destination for nature photographers.",
+                  "category": "natural",
+                  "coords": [
+                        1.660363,
+                        42.600097
+                  ]
+            },
+            {
+                  "name": "Basses de les Salamandres",
+                  "text": "Basses de les Salamandres are small natural ponds in Canillo, known for their alpine biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        1.662816,
+                        42.604456
+                  ]
+            },
+            {
+                  "name": "el Forn",
+                  "text": "The el Forn lake is located near Canillo and is part of a beautiful high mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.611217,
+                        42.553391
+                  ]
+            },
+            {
+                  "name": "Estany de les Fonts",
+                  "text": "Estany de les Fonts near Canillo is a quiet retreat in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.667903,
+                        42.515864
+                  ]
+            },
+            {
+                  "name": "Sisè Estany",
+                  "text": "Sisè Estany near Canillo offers hikers a quiet and nature-filled experience.",
+                  "category": "natural",
+                  "coords": [
+                        1.671354,
+                        42.517564
+                  ]
+            },
+            {
+                  "name": "Estanys d'Ensagents",
+                  "text": "Estanys d'Ensagents are impressive mountain lakes near Canillo, ideal for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        1.645693,
+                        42.519524
+                  ]
+            },
+            {
+                  "name": "Bassot dels Clots de Massat",
+                  "text": "Bassot dels Clots de Massat is a small, hidden lake in Canillo, surrounded by mountains.",
+                  "category": "natural",
+                  "coords": [
+                        1.696041,
+                        42.568195
+                  ]
+            },
+            {
+                  "name": "Estany Blau",
+                  "text": "Estany Blau near Canillo impresses with its color and alpine surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.620901,
+                        42.496755
+                  ]
+            },
+            {
+                  "name": "Basses del Pic",
+                  "text": "Basses del Pic are high mountain ponds in Canillo offering great views of the peaks.",
+                  "category": "natural",
+                  "coords": [
+                        1.619453,
+                        42.620161
+                  ]
+            },
+            {
+                  "name": "Estany de l'Estanyó",
+                  "text": "Estany de l'Estanyó is a crystal-clear lake in Canillo, ideal for a hike at high altitudes.",
+                  "category": "natural",
+                  "coords": [
+                        1.579123,
+                        42.609685
+                  ]
+            },
+            {
+                  "name": "Estanys de la Vall del Riu",
+                  "text": "Estanys de la Vall del Riu offer a spectacular lake setting in the Canillo area.",
+                  "category": "natural",
+                  "coords": [
+                        1.59719,
+                        42.606336
+                  ]
+            },
+            {
+                  "name": "Llac del Cubil",
+                  "text": "Llac del Cubil near Canillo is a peaceful spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        1.669009,
+                        42.536597
+                  ]
+            },
+            {
+                  "name": "Estany Moreno",
+                  "text": "Estany Moreno near Canillo invites a relaxing break during a mountain hike.",
+                  "category": "natural",
+                  "coords": [
+                        1.638032,
+                        42.515016
+                  ]
+            },
+            {
+                  "name": "Estany del Meligar",
+                  "text": "Estany del Meligar is an idyllic mountain lake in Canillo, perfect for those seeking tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        1.660612,
+                        42.527597
+                  ]
+            },
+            {
+                  "name": "Basses de la Cebollera",
+                  "text": "Basses de la Cebollera are small ponds in Canillo that enrich the alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.586424,
+                        42.630503
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Vall del Riu",
+                  "text": "Estany Gran de la Vall del Riu near Canillo is known for its size and natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        1.593506,
+                        42.600835
+                  ]
+            },
+            {
+                  "name": "Estany de Cabana Sorda",
+                  "text": "Estany de Cabana Sorda is a popular hiking destination in Canillo with a nearby mountain hut.",
+                  "category": "natural",
+                  "coords": [
+                        1.670598,
+                        42.613511
                   ]
             }
       ]

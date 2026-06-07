@@ -22,6 +22,42 @@ export const swedenCitiesV2: POI[] = [
                         12.686914,
                         56.044109
                   ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan ist eine Minigolfanlage in Helsingborg, die Familienspaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan ist ein Spielplatz in Helsingborg, auf dem Kinder verschiedene Spielaktivitäten im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat ist ein Spielplatz in Helsingborg, der einen unterhaltsamen Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan ist ein thematischer Spielplatz in Helsingborg, der Familienunterhaltung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
             }
       ],
       "hu": [
@@ -41,6 +77,42 @@ export const swedenCitiesV2: POI[] = [
                   "coords": [
                         12.686914,
                         56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "A BGK Viskan egy minigolfpálya Helsingborgban, amely minden korosztály számára családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "A Surflekan egy játszótér Helsingborgban, ahol a gyerekek különféle szabadtéri játékokat élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "A Gott och blandat egy játszótér Helsingborgban, amely szórakoztató helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "A Dinosaurielekan egy tematikus játszótér Helsingborgban, amely szabadtéri szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
                   ]
             }
       ],
@@ -62,6 +134,42 @@ export const swedenCitiesV2: POI[] = [
                         12.686914,
                         56.044109
                   ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan este un teren de minigolf în Helsingborg, oferind distracție în familie pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan este un teren de joacă în Helsingborg, unde copiii se pot bucura de diverse activități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat este un teren de joacă în Helsingborg, oferind un spațiu distractiv de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan este un teren de joacă tematic în Helsingborg, oferind divertisment în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
             }
       ],
       "en": [
@@ -81,6 +189,42 @@ export const swedenCitiesV2: POI[] = [
                   "coords": [
                         12.686914,
                         56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan is a miniature golf course in Helsingborg, offering family fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan is a playground in Helsingborg where children can enjoy various outdoor play activities.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat is a playground in Helsingborg providing a fun space for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan is a themed playground in Helsingborg offering outdoor entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
                   ]
             }
       ]
@@ -437,6 +581,87 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                         16.206439,
                         58.609805
                   ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen ist ein See in Norrkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.115357,
+                        58.621687
+                  ]
+            },
+            {
+                  "name": "Ensjön",
+                  "text": "Ensjön ist ein See in Norrkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.209414,
+                        58.541486
+                  ]
+            },
+            {
+                  "name": "Glan",
+                  "text": "Glan ist ein See in Norrkoeping, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.963851,
+                        58.638203
+                  ]
+            },
+            {
+                  "name": "Busfabriken",
+                  "text": "Busfabriken ist ein Spielplatz in Norrkoeping, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.168273,
+                        58.609721
+                  ]
+            },
+            {
+                  "name": "Tuppenparken",
+                  "text": "Tuppenparken ist ein Spielplatz in Norrkoeping, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.181359,
+                        58.59267
+                  ]
+            },
+            {
+                  "name": "Lundshagen Minigolf",
+                  "text": "Lundshagen Minigolf ist ein Minigolfplatz in Norrkoeping für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.149937,
+                        58.594484
+                  ]
+            },
+            {
+                  "name": "KFUM Minigolf",
+                  "text": "KFUM Minigolf ist ein Minigolfplatz in Norrkoeping für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.165184,
+                        58.590257
+                  ]
+            },
+            {
+                  "name": "Kottebanan",
+                  "text": "Kottebanan ist ein Spielplatz in Norrkoeping, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.190849,
+                        58.569467
+                  ]
+            },
+            {
+                  "name": "Blomsterängen lekmiljö",
+                  "text": "Blomsterängen lekmiljö ist ein Spielplatz in Norrkoeping, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.164559,
+                        58.60467
+                  ]
             }
       ],
       "hu": [
@@ -744,6 +969,87 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                   "coords": [
                         16.206439,
                         58.609805
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "A Dammen egy tó Norrkoeping területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        16.115357,
+                        58.621687
+                  ]
+            },
+            {
+                  "name": "Ensjön",
+                  "text": "Az Ensjön egy tó Norrkoeping területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        16.209414,
+                        58.541486
+                  ]
+            },
+            {
+                  "name": "Glan",
+                  "text": "A Glan egy tó Norrkoeping területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        15.963851,
+                        58.638203
+                  ]
+            },
+            {
+                  "name": "Busfabriken",
+                  "text": "A Busfabriken egy játszótér Norrkoeping városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.168273,
+                        58.609721
+                  ]
+            },
+            {
+                  "name": "Tuppenparken",
+                  "text": "A Tuppenparken egy játszótér Norrkoeping városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.181359,
+                        58.59267
+                  ]
+            },
+            {
+                  "name": "Lundshagen Minigolf",
+                  "text": "A Lundshagen Minigolf egy minigolfpálya Norrkoeping városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.149937,
+                        58.594484
+                  ]
+            },
+            {
+                  "name": "KFUM Minigolf",
+                  "text": "A KFUM Minigolf egy minigolfpálya Norrkoeping városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.165184,
+                        58.590257
+                  ]
+            },
+            {
+                  "name": "Kottebanan",
+                  "text": "A Kottebanan egy játszótér Norrkoeping városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.190849,
+                        58.569467
+                  ]
+            },
+            {
+                  "name": "Blomsterängen lekmiljö",
+                  "text": "A Blomsterängen lekmiljö egy játszótér Norrkoeping városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.164559,
+                        58.60467
                   ]
             }
       ],
@@ -1053,6 +1359,87 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                         16.206439,
                         58.609805
                   ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen este un lac în Norrkoeping, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.115357,
+                        58.621687
+                  ]
+            },
+            {
+                  "name": "Ensjön",
+                  "text": "Ensjön este un lac în Norrkoeping, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.209414,
+                        58.541486
+                  ]
+            },
+            {
+                  "name": "Glan",
+                  "text": "Glan este un lac în Norrkoeping, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.963851,
+                        58.638203
+                  ]
+            },
+            {
+                  "name": "Busfabriken",
+                  "text": "Busfabriken este un loc de joacă în Norrkoeping, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.168273,
+                        58.609721
+                  ]
+            },
+            {
+                  "name": "Tuppenparken",
+                  "text": "Tuppenparken este un loc de joacă în Norrkoeping, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.181359,
+                        58.59267
+                  ]
+            },
+            {
+                  "name": "Lundshagen Minigolf",
+                  "text": "Lundshagen Minigolf este un teren de minigolf în Norrkoeping pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.149937,
+                        58.594484
+                  ]
+            },
+            {
+                  "name": "KFUM Minigolf",
+                  "text": "KFUM Minigolf este un teren de minigolf în Norrkoeping pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.165184,
+                        58.590257
+                  ]
+            },
+            {
+                  "name": "Kottebanan",
+                  "text": "Kottebanan este un loc de joacă în Norrkoeping, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.190849,
+                        58.569467
+                  ]
+            },
+            {
+                  "name": "Blomsterängen lekmiljö",
+                  "text": "Blomsterängen lekmiljö este un loc de joacă în Norrkoeping, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.164559,
+                        58.60467
+                  ]
             }
       ],
       "en": [
@@ -1361,6 +1748,87 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                         16.206439,
                         58.609805
                   ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen is a lake in Norrkoeping suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.115357,
+                        58.621687
+                  ]
+            },
+            {
+                  "name": "Ensjön",
+                  "text": "Ensjön is a lake in Norrkoeping suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.209414,
+                        58.541486
+                  ]
+            },
+            {
+                  "name": "Glan",
+                  "text": "Glan is a lake in Norrkoeping suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.963851,
+                        58.638203
+                  ]
+            },
+            {
+                  "name": "Busfabriken",
+                  "text": "Busfabriken is a playground in Norrkoeping offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.168273,
+                        58.609721
+                  ]
+            },
+            {
+                  "name": "Tuppenparken",
+                  "text": "Tuppenparken is a playground in Norrkoeping offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.181359,
+                        58.59267
+                  ]
+            },
+            {
+                  "name": "Lundshagen Minigolf",
+                  "text": "Lundshagen Minigolf is a miniature golf course in Norrkoeping for family fun.",
+                  "category": "family",
+                  "coords": [
+                        16.149937,
+                        58.594484
+                  ]
+            },
+            {
+                  "name": "KFUM Minigolf",
+                  "text": "KFUM Minigolf is a miniature golf course in Norrkoeping for family fun.",
+                  "category": "family",
+                  "coords": [
+                        16.165184,
+                        58.590257
+                  ]
+            },
+            {
+                  "name": "Kottebanan",
+                  "text": "Kottebanan is a playground in Norrkoeping offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.190849,
+                        58.569467
+                  ]
+            },
+            {
+                  "name": "Blomsterängen lekmiljö",
+                  "text": "Blomsterängen lekmiljö is a playground in Norrkoeping offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.164559,
+                        58.60467
+                  ]
             }
       ]
 },
@@ -1554,6 +2022,231 @@ imageHint: "Industrial landscape of Norrköping along the river",
                         12.935864,
                         57.717833
                   ]
+            },
+            {
+                  "name": "Gasslången",
+                  "text": "Gasslången in Boras ist ein malerischer See, der eine ruhige Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.881789,
+                        57.692513
+                  ]
+            },
+            {
+                  "name": "Lilla Tosserydssjön",
+                  "text": "Lilla Tosserydssjön in Boras bietet eine idyllische Kulisse für entspannte Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        12.975187,
+                        57.753364
+                  ]
+            },
+            {
+                  "name": "Stora Tosserydssjön",
+                  "text": "Stora Tosserydssjön in Boras ist ein friedliches Gewässer, ideal zum Genießen der Natur und Stille.",
+                  "category": "natural",
+                  "coords": [
+                        12.978863,
+                        57.754941
+                  ]
+            },
+            {
+                  "name": "Kolbränningen",
+                  "text": "Kolbränningen in Boras ist ein schöner Ort für Ausflüge ins Grüne und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.902023,
+                        57.722421
+                  ]
+            },
+            {
+                  "name": "Ramnasjön",
+                  "text": "Der Ramnasjön in Boras ist ein zentraler See, der zu gemütlichen Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.921389,
+                        57.719916
+                  ]
+            },
+            {
+                  "name": "Skräppesjön",
+                  "text": "Skräppesjön in Boras bietet eine ruhige Atmosphäre für erholsame Stunden an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        12.882801,
+                        57.678517
+                  ]
+            },
+            {
+                  "name": "Gravsjön",
+                  "text": "Der Gravsjön in Boras ist ein naturbelassener See, der sich ideal für Wanderungen in der Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.910031,
+                        57.778938
+                  ]
+            },
+            {
+                  "name": "Flysjön",
+                  "text": "Flysjön in Boras besticht durch seine stille Lage und lädt zu erholsamen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        12.961685,
+                        57.694879
+                  ]
+            },
+            {
+                  "name": "Rueredssjön",
+                  "text": "Rueredssjön in Boras bietet eine friedliche Kulisse für Spaziergänger und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        12.965827,
+                        57.686268
+                  ]
+            },
+            {
+                  "name": "Fjällsjön",
+                  "text": "Fjällsjön in Boras ist ein idyllisch gelegener See, der zum Entspannen in der schwedischen Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.917152,
+                        57.759343
+                  ]
+            },
+            {
+                  "name": "Abborrsjön",
+                  "text": "Der Abborrsjön in Boras ist ein ruhiges Gewässer, ideal für eine Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        12.913313,
+                        57.756276
+                  ]
+            },
+            {
+                  "name": "Kyperedsjön",
+                  "text": "Kyperedsjön in Boras bietet eine angenehme Atmosphäre für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.892306,
+                        57.757583
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön in Boras ist ein friedlicher See, der sich hervorragend für kurze Ausflüge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.875585,
+                        57.71451
+                  ]
+            },
+            {
+                  "name": "Stora Nabbasjön",
+                  "text": "Stora Nabbasjön in Boras bietet eine schöne Umgebung für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        12.815297,
+                        57.697591
+                  ]
+            },
+            {
+                  "name": "Guttasjö",
+                  "text": "Guttasjö in Boras ist ein ruhig gelegener See, der Entspannung und Erholung im Freien ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        12.902569,
+                        57.6766
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Der See Dammen in Boras ist ein kleines, friedliches Gewässer in einer grünen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        12.899634,
+                        57.732932
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Der Kroksjön in Boras bietet eine malerische Kulisse für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.86177,
+                        57.660813
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön in Boras ist ein idyllischer See, der sich gut für Spaziergänge und zum Verweilen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.879446,
+                        57.656388
+                  ]
+            },
+            {
+                  "name": "Lilla stjärnsjön",
+                  "text": "Lilla stjärnsjön in Boras besticht durch seine ruhige Atmosphäre inmitten der schwedischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.86713,
+                        57.677239
+                  ]
+            },
+            {
+                  "name": "Stora stjärnsjön",
+                  "text": "Stora stjärnsjön in Boras bietet einen friedlichen Rückzugsort für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        12.866128,
+                        57.67526
+                  ]
+            },
+            {
+                  "name": "Funningesjön",
+                  "text": "Funningesjön in Boras ist ein ruhig gelegener See, der zu entspannten Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.871115,
+                        57.684809
+                  ]
+            },
+            {
+                  "name": "Lilla Transåssjön",
+                  "text": "Lilla Transåssjön in Boras bietet eine angenehme Umgebung für Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        12.947901,
+                        57.696197
+                  ]
+            },
+            {
+                  "name": "Karpdammen",
+                  "text": "Der Karpdammen in Boras ist ein friedliches Gewässer, ideal für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        12.958697,
+                        57.729425
+                  ]
+            },
+            {
+                  "name": "Hultasjön",
+                  "text": "Hultasjön in Boras ist ein naturbelassener See, der Entspannung in einer ruhigen Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.968374,
+                        57.718824
+                  ]
+            },
+            {
+                  "name": "Stora sjön",
+                  "text": "Stora sjön in Boras ist ein weitläufiges Gewässer, das zum Spazierengehen und Genießen der Aussicht einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.969562,
+                        57.722244
+                  ]
             }
       ],
       "hu": [
@@ -1699,6 +2392,231 @@ imageHint: "Industrial landscape of Norrköping along the river",
                   "coords": [
                         12.935864,
                         57.717833
+                  ]
+            },
+            {
+                  "name": "Gasslången",
+                  "text": "A Boras településen található Gasslången egy festői tó, amely nyugodt környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.881789,
+                        57.692513
+                  ]
+            },
+            {
+                  "name": "Lilla Tosserydssjön",
+                  "text": "A Boras-i Lilla Tosserydssjön idilli hátteret biztosít a pihentető parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.975187,
+                        57.753364
+                  ]
+            },
+            {
+                  "name": "Stora Tosserydssjön",
+                  "text": "A Boras-i Stora Tosserydssjön egy békés tó, amely ideális a természet és a csend élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.978863,
+                        57.754941
+                  ]
+            },
+            {
+                  "name": "Kolbränningen",
+                  "text": "A Boras településen lévő Kolbränningen szép hely a zöldövezeti kirándulásokhoz és vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.902023,
+                        57.722421
+                  ]
+            },
+            {
+                  "name": "Ramnasjön",
+                  "text": "A Boras-i Ramnasjön egy központi fekvésű tó, amely kellemes természetközeli sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.921389,
+                        57.719916
+                  ]
+            },
+            {
+                  "name": "Skräppesjön",
+                  "text": "A Boras-i Skräppesjön nyugodt légkört biztosít a friss levegőn töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.882801,
+                        57.678517
+                  ]
+            },
+            {
+                  "name": "Gravsjön",
+                  "text": "A Boras településen fekvő Gravsjön egy természetközeli tó, amely ideális a környékbeli túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.910031,
+                        57.778938
+                  ]
+            },
+            {
+                  "name": "Flysjön",
+                  "text": "A Boras-i Flysjön csendes fekvésével tűnik ki, és pihentető pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        12.961685,
+                        57.694879
+                  ]
+            },
+            {
+                  "name": "Rueredssjön",
+                  "text": "A Boras-i Rueredssjön békés hátteret biztosít a sétálók és a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        12.965827,
+                        57.686268
+                  ]
+            },
+            {
+                  "name": "Fjällsjön",
+                  "text": "A Boras-i Fjällsjön egy idilli fekvésű tó, amely pihenésre hív a svéd természetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.917152,
+                        57.759343
+                  ]
+            },
+            {
+                  "name": "Abborrsjön",
+                  "text": "A Boras-i Abborrsjön egy csendes tó, amely ideális a zöldövezeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.913313,
+                        57.756276
+                  ]
+            },
+            {
+                  "name": "Kyperedsjön",
+                  "text": "A Boras településen lévő Kyperedsjön kellemes hangulatot biztosít a pihentető természetbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.892306,
+                        57.757583
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Boras-i Kvarnsjön egy békés tó, amely kiválóan alkalmas rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.875585,
+                        57.71451
+                  ]
+            },
+            {
+                  "name": "Stora Nabbasjön",
+                  "text": "A Boras-i Stora Nabbasjön szép környezetet biztosít a sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.815297,
+                        57.697591
+                  ]
+            },
+            {
+                  "name": "Guttasjö",
+                  "text": "A Boras településen fekvő Guttasjö egy csendes fekvésű tó, amely kikapcsolódást és pihenést kínál a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        12.902569,
+                        57.6766
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "A Boras-i Dammen tó egy kicsi, békés vízfelület zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.899634,
+                        57.732932
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "A Boras településen található Kroksjön festői környezetet biztosít a természetben töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.86177,
+                        57.660813
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "A Boras-i Ängsjön egy idilli tó, amely kiválóan alkalmas sétákra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        12.879446,
+                        57.656388
+                  ]
+            },
+            {
+                  "name": "Lilla stjärnsjön",
+                  "text": "A Boras-i Lilla stjärnsjön nyugodt légkörével tűnik ki a svéd táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        12.86713,
+                        57.677239
+                  ]
+            },
+            {
+                  "name": "Stora stjärnsjön",
+                  "text": "A Boras-i Stora stjärnsjön békés menedéket nyújt a természetkedvelőknek és a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.866128,
+                        57.67526
+                  ]
+            },
+            {
+                  "name": "Funningesjön",
+                  "text": "A Boras-i Funningesjön egy csendes fekvésű tó, amely pihentető vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.871115,
+                        57.684809
+                  ]
+            },
+            {
+                  "name": "Lilla Transåssjön",
+                  "text": "A Boras településen lévő Lilla Transåssjön kellemes környezetet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.947901,
+                        57.696197
+                  ]
+            },
+            {
+                  "name": "Karpdammen",
+                  "text": "A Boras-i Karpdammen egy békés tó, amely ideális egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        12.958697,
+                        57.729425
+                  ]
+            },
+            {
+                  "name": "Hultasjön",
+                  "text": "A Boras településen fekvő Hultasjön egy természetközeli tó, amely pihenést kínál nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.968374,
+                        57.718824
+                  ]
+            },
+            {
+                  "name": "Stora sjön",
+                  "text": "A Boras-i Stora sjön egy kiterjedt vízfelület, amely sétálásra és a kilátás élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        12.969562,
+                        57.722244
                   ]
             }
       ],
@@ -1846,6 +2764,231 @@ imageHint: "Industrial landscape of Norrköping along the river",
                         12.935864,
                         57.717833
                   ]
+            },
+            {
+                  "name": "Gasslången",
+                  "text": "Gasslången din Boras este un lac pitoresc care oferă un mediu liniștit pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.881789,
+                        57.692513
+                  ]
+            },
+            {
+                  "name": "Lilla Tosserydssjön",
+                  "text": "Lilla Tosserydssjön din Boras oferă un cadru idilic pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.975187,
+                        57.753364
+                  ]
+            },
+            {
+                  "name": "Stora Tosserydssjön",
+                  "text": "Stora Tosserydssjön din Boras este un lac pașnic, ideal pentru a te bucura de natură și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        12.978863,
+                        57.754941
+                  ]
+            },
+            {
+                  "name": "Kolbränningen",
+                  "text": "Kolbränningen din Boras este un loc frumos pentru excursii în natură și plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.902023,
+                        57.722421
+                  ]
+            },
+            {
+                  "name": "Ramnasjön",
+                  "text": "Ramnasjön din Boras este un lac central care invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.921389,
+                        57.719916
+                  ]
+            },
+            {
+                  "name": "Skräppesjön",
+                  "text": "Skräppesjön din Boras oferă o atmosferă liniștită pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.882801,
+                        57.678517
+                  ]
+            },
+            {
+                  "name": "Gravsjön",
+                  "text": "Gravsjön din Boras este un lac natural, ideal pentru drumeții în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        12.910031,
+                        57.778938
+                  ]
+            },
+            {
+                  "name": "Flysjön",
+                  "text": "Flysjön din Boras impresionează prin locația sa liniștită și invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.961685,
+                        57.694879
+                  ]
+            },
+            {
+                  "name": "Rueredssjön",
+                  "text": "Rueredssjön din Boras oferă un cadru pașnic pentru plimbăreți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.965827,
+                        57.686268
+                  ]
+            },
+            {
+                  "name": "Fjällsjön",
+                  "text": "Fjällsjön din Boras este un lac situat idilic, care invită la relaxare în natura suedeză.",
+                  "category": "natural",
+                  "coords": [
+                        12.917152,
+                        57.759343
+                  ]
+            },
+            {
+                  "name": "Abborrsjön",
+                  "text": "Abborrsjön din Boras este un lac liniștit, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.913313,
+                        57.756276
+                  ]
+            },
+            {
+                  "name": "Kyperedsjön",
+                  "text": "Kyperedsjön din Boras oferă o atmosferă plăcută pentru plimbări relaxante în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.892306,
+                        57.757583
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön din Boras este un lac pașnic, excelent pentru excursii scurte.",
+                  "category": "natural",
+                  "coords": [
+                        12.875585,
+                        57.71451
+                  ]
+            },
+            {
+                  "name": "Stora Nabbasjön",
+                  "text": "Stora Nabbasjön din Boras oferă un mediu frumos pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.815297,
+                        57.697591
+                  ]
+            },
+            {
+                  "name": "Guttasjö",
+                  "text": "Guttasjö din Boras este un lac situat liniștit, care permite relaxarea și recreerea în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.902569,
+                        57.6766
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Lacul Dammen din Boras este o apă mică și pașnică într-un cadru verde.",
+                  "category": "natural",
+                  "coords": [
+                        12.899634,
+                        57.732932
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Kroksjön din Boras oferă un cadru pitoresc pentru ore de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.86177,
+                        57.660813
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön din Boras este un lac idilic, potrivit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.879446,
+                        57.656388
+                  ]
+            },
+            {
+                  "name": "Lilla stjärnsjön",
+                  "text": "Lilla stjärnsjön din Boras impresionează prin atmosfera sa liniștită în mijlocul peisajului suedez.",
+                  "category": "natural",
+                  "coords": [
+                        12.86713,
+                        57.677239
+                  ]
+            },
+            {
+                  "name": "Stora stjärnsjön",
+                  "text": "Stora stjärnsjön din Boras oferă un refugiu pașnic pentru iubitorii de natură și drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        12.866128,
+                        57.67526
+                  ]
+            },
+            {
+                  "name": "Funningesjön",
+                  "text": "Funningesjön din Boras este un lac situat liniștit, care invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.871115,
+                        57.684809
+                  ]
+            },
+            {
+                  "name": "Lilla Transåssjön",
+                  "text": "Lilla Transåssjön din Boras oferă un mediu plăcut pentru activități recreative în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.947901,
+                        57.696197
+                  ]
+            },
+            {
+                  "name": "Karpdammen",
+                  "text": "Karpdammen din Boras este un lac pașnic, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.958697,
+                        57.729425
+                  ]
+            },
+            {
+                  "name": "Hultasjön",
+                  "text": "Hultasjön din Boras este un lac natural, care oferă relaxare într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        12.968374,
+                        57.718824
+                  ]
+            },
+            {
+                  "name": "Stora sjön",
+                  "text": "Stora sjön din Boras este o apă întinsă care invită la plimbare și la admirarea priveliștii.",
+                  "category": "natural",
+                  "coords": [
+                        12.969562,
+                        57.722244
+                  ]
             }
       ],
       "en": [
@@ -1991,6 +3134,231 @@ imageHint: "Industrial landscape of Norrköping along the river",
                   "coords": [
                         12.935864,
                         57.717833
+                  ]
+            },
+            {
+                  "name": "Gasslången",
+                  "text": "Gasslången in Boras is a picturesque lake offering a calm environment for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.881789,
+                        57.692513
+                  ]
+            },
+            {
+                  "name": "Lilla Tosserydssjön",
+                  "text": "Lilla Tosserydssjön in Boras provides an idyllic backdrop for relaxed walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        12.975187,
+                        57.753364
+                  ]
+            },
+            {
+                  "name": "Stora Tosserydssjön",
+                  "text": "Stora Tosserydssjön in Boras is a peaceful body of water, ideal for enjoying nature and silence.",
+                  "category": "natural",
+                  "coords": [
+                        12.978863,
+                        57.754941
+                  ]
+            },
+            {
+                  "name": "Kolbränningen",
+                  "text": "Kolbränningen in Boras is a beautiful spot for trips into the greenery and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.902023,
+                        57.722421
+                  ]
+            },
+            {
+                  "name": "Ramnasjön",
+                  "text": "Ramnasjön in Boras is a central lake that invites pleasant walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.921389,
+                        57.719916
+                  ]
+            },
+            {
+                  "name": "Skräppesjön",
+                  "text": "Skräppesjön in Boras offers a quiet atmosphere for relaxing hours in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        12.882801,
+                        57.678517
+                  ]
+            },
+            {
+                  "name": "Gravsjön",
+                  "text": "Gravsjön in Boras is a natural lake, ideal for hiking in the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        12.910031,
+                        57.778938
+                  ]
+            },
+            {
+                  "name": "Flysjön",
+                  "text": "Flysjön in Boras stands out for its quiet location and invites relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.961685,
+                        57.694879
+                  ]
+            },
+            {
+                  "name": "Rueredssjön",
+                  "text": "Rueredssjön in Boras provides a peaceful setting for walkers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        12.965827,
+                        57.686268
+                  ]
+            },
+            {
+                  "name": "Fjällsjön",
+                  "text": "Fjällsjön in Boras is an idyllically located lake that invites relaxation in the Swedish nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.917152,
+                        57.759343
+                  ]
+            },
+            {
+                  "name": "Abborrsjön",
+                  "text": "Abborrsjön in Boras is a quiet body of water, ideal for a break in the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        12.913313,
+                        57.756276
+                  ]
+            },
+            {
+                  "name": "Kyperedsjön",
+                  "text": "Kyperedsjön in Boras offers a pleasant atmosphere for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.892306,
+                        57.757583
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön in Boras is a peaceful lake, excellent for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        12.875585,
+                        57.71451
+                  ]
+            },
+            {
+                  "name": "Stora Nabbasjön",
+                  "text": "Stora Nabbasjön in Boras offers a beautiful environment for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        12.815297,
+                        57.697591
+                  ]
+            },
+            {
+                  "name": "Guttasjö",
+                  "text": "Guttasjö in Boras is a quietly located lake that allows for relaxation and recreation outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        12.902569,
+                        57.6766
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "The Dammen lake in Boras is a small, peaceful body of water in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        12.899634,
+                        57.732932
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Kroksjön in Boras offers a picturesque setting for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.86177,
+                        57.660813
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön in Boras is an idyllic lake, well-suited for walks and lingering.",
+                  "category": "natural",
+                  "coords": [
+                        12.879446,
+                        57.656388
+                  ]
+            },
+            {
+                  "name": "Lilla stjärnsjön",
+                  "text": "Lilla stjärnsjön in Boras stands out with its quiet atmosphere in the middle of the Swedish countryside.",
+                  "category": "natural",
+                  "coords": [
+                        12.86713,
+                        57.677239
+                  ]
+            },
+            {
+                  "name": "Stora stjärnsjön",
+                  "text": "Stora stjärnsjön in Boras offers a peaceful retreat for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        12.866128,
+                        57.67526
+                  ]
+            },
+            {
+                  "name": "Funningesjön",
+                  "text": "Funningesjön in Boras is a quietly located lake that invites relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        12.871115,
+                        57.684809
+                  ]
+            },
+            {
+                  "name": "Lilla Transåssjön",
+                  "text": "Lilla Transåssjön in Boras provides a pleasant environment for outdoor recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        12.947901,
+                        57.696197
+                  ]
+            },
+            {
+                  "name": "Karpdammen",
+                  "text": "Karpdammen in Boras is a peaceful body of water, ideal for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.958697,
+                        57.729425
+                  ]
+            },
+            {
+                  "name": "Hultasjön",
+                  "text": "Hultasjön in Boras is a natural lake offering relaxation in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        12.968374,
+                        57.718824
+                  ]
+            },
+            {
+                  "name": "Stora sjön",
+                  "text": "Stora sjön in Boras is an extensive body of water that invites walking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        12.969562,
+                        57.722244
                   ]
             }
       ]
@@ -2284,6 +3652,78 @@ imageHint: "Modern street art and sculptures in Borås city center",
                         16.499485,
                         59.357425
                   ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön ist ein See in Eskilstuna, der ein friedliches Plätzchen zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren ist ein See in Eskilstuna, ideal für einen ruhigen Spaziergang oder zum Entspannen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken ist ein See in Eskilstuna, der eine malerische Aussicht und eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren ist ein großer See in Eskilstuna, ideal um die Landschaft am Wasser und Spaziergänge zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein bedeutender See in Eskilstuna, der eine schöne Landschaft für die Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön ist ein See in Eskilstuna, ideal für einen friedlichen Spaziergang inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark ist ein Spielplatz in Eskilstuna, auf dem Kinder im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen ist ein Spielplatz in Eskilstuna mit Outdoor-Geräten zur Unterhaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
             }
       ],
       "hu": [
@@ -2528,6 +3968,78 @@ imageHint: "Modern street art and sculptures in Borås city center",
                   "coords": [
                         16.499485,
                         59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "A Tacktorpsjön egy tó Eskilstuna városában, amely nyugodt helyet kínál a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "A Skiren egy tó Eskilstuna városában, amely alkalmas egy csendes sétára vagy vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "A Kvicken egy tó Eskilstuna városában, amely festői kilátást és nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "A Hjälmaren egy nagy tó Eskilstuna városában, amely tökéletes a vízparti táj és a séták élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy jelentős tó Eskilstuna városában, amely gyönyörű tájat kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "A Bergssjön egy tó Eskilstuna városában, amely ideális egy békés sétához a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "A Måsta lekpark egy játszótér Eskilstuna városában, ahol a gyerekek a szabadban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "A Tornlekplatsen egy játszótér Eskilstuna városában, ahol szabadtéri eszközök várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
                   ]
             }
       ],
@@ -2774,6 +4286,78 @@ imageHint: "Modern street art and sculptures in Borås city center",
                         16.499485,
                         59.357425
                   ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön este un lac în Eskilstuna, oferind un loc liniștit pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren este un lac în Eskilstuna, potrivit pentru o plimbare liniștită sau relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken este un lac în Eskilstuna, oferind vedere pitorească și un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren este un lac mare în Eskilstuna, perfect pentru a te bucura de peisajul de pe malul apei și de plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac proeminent în Eskilstuna, oferind un peisaj frumos pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön este un lac în Eskilstuna, ideal pentru o plimbare liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark este un teren de joacă în Eskilstuna, unde copiii se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen este un teren de joacă în Eskilstuna, dotat cu echipamente în aer liber pentru divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
             }
       ],
       "en": [
@@ -3018,6 +4602,78 @@ imageHint: "Modern street art and sculptures in Borås city center",
                   "coords": [
                         16.499485,
                         59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön is a lake in Eskilstuna, providing a peaceful spot for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren is a lake in Eskilstuna, suitable for a quiet walk or relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken is a lake in Eskilstuna offering scenic views and a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren is a large lake in Eskilstuna, perfect for enjoying waterfront scenery and walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a prominent lake in Eskilstuna, offering beautiful scenery for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön is a lake in Eskilstuna, ideal for a peaceful walk surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark is a playground in Eskilstuna where children can play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen is a playground in Eskilstuna featuring outdoor equipment for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
                   ]
             }
       ]
@@ -3410,6 +5066,204 @@ imageHint: "Eskilstuna city center river view",
                         17.190389,
                         60.677786
                   ]
+            },
+            {
+                  "name": "Kastsjön",
+                  "text": "Kastsjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.255683,
+                        60.678769
+                  ]
+            },
+            {
+                  "name": "Per-Månsviken",
+                  "text": "Per-Månsviken ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.267923,
+                        60.677713
+                  ]
+            },
+            {
+                  "name": "Rudsjön",
+                  "text": "Rudsjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.245076,
+                        60.681744
+                  ]
+            },
+            {
+                  "name": "Lillån",
+                  "text": "Lillån ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.154514,
+                        60.678319
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.257769,
+                        60.670962
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.089064,
+                        60.686723
+                  ]
+            },
+            {
+                  "name": "Sälgsjön",
+                  "text": "Sälgsjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.099972,
+                        60.613404
+                  ]
+            },
+            {
+                  "name": "Hillesjön",
+                  "text": "Hillesjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.206956,
+                        60.743895
+                  ]
+            },
+            {
+                  "name": "Hemlingbysjön",
+                  "text": "Hemlingbysjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.181697,
+                        60.62522
+                  ]
+            },
+            {
+                  "name": "Abborrtärnan",
+                  "text": "Abborrtärnan ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.199574,
+                        60.617372
+                  ]
+            },
+            {
+                  "name": "Älgsjön",
+                  "text": "Älgsjön ist ein See in Gaevle, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.23297,
+                        60.623131
+                  ]
+            },
+            {
+                  "name": "Vesslevägen",
+                  "text": "Vesslevägen ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.135408,
+                        60.662588
+                  ]
+            },
+            {
+                  "name": "Apelgatan",
+                  "text": "Apelgatan ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.166536,
+                        60.661228
+                  ]
+            },
+            {
+                  "name": "Almvägen",
+                  "text": "Almvägen ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.12261,
+                        60.657876
+                  ]
+            },
+            {
+                  "name": "Videkullen",
+                  "text": "Videkullen ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.126801,
+                        60.656139
+                  ]
+            },
+            {
+                  "name": "Höjersdalsparken",
+                  "text": "Höjersdalsparken ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.12506,
+                        60.654168
+                  ]
+            },
+            {
+                  "name": "Leklandet Delfinen",
+                  "text": "Leklandet Delfinen ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.133661,
+                        60.683264
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome ist ein Trampolinpark in Gaevle, der aktiven Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.158082,
+                        60.658883
+                  ]
+            },
+            {
+                  "name": "Ulvsmygen",
+                  "text": "Ulvsmygen ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.114256,
+                        60.69462
+                  ]
+            },
+            {
+                  "name": "Nynäsplan",
+                  "text": "Nynäsplan ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.129063,
+                        60.679474
+                  ]
+            },
+            {
+                  "name": "Esplanaden",
+                  "text": "Esplanaden ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.139535,
+                        60.679236
+                  ]
+            },
+            {
+                  "name": "Stormgatan",
+                  "text": "Stormgatan ist ein Spielplatz in Gaevle, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.146751,
+                        60.652261
+                  ]
             }
       ],
       "hu": [
@@ -3753,6 +5607,204 @@ imageHint: "Eskilstuna city center river view",
                   "coords": [
                         17.190389,
                         60.677786
+                  ]
+            },
+            {
+                  "name": "Kastsjön",
+                  "text": "A Kastsjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.255683,
+                        60.678769
+                  ]
+            },
+            {
+                  "name": "Per-Månsviken",
+                  "text": "A Per-Månsviken egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.267923,
+                        60.677713
+                  ]
+            },
+            {
+                  "name": "Rudsjön",
+                  "text": "A Rudsjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.245076,
+                        60.681744
+                  ]
+            },
+            {
+                  "name": "Lillån",
+                  "text": "A Lillån egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.154514,
+                        60.678319
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.257769,
+                        60.670962
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Az Igeltjärnen egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.089064,
+                        60.686723
+                  ]
+            },
+            {
+                  "name": "Sälgsjön",
+                  "text": "A Sälgsjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.099972,
+                        60.613404
+                  ]
+            },
+            {
+                  "name": "Hillesjön",
+                  "text": "A Hillesjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.206956,
+                        60.743895
+                  ]
+            },
+            {
+                  "name": "Hemlingbysjön",
+                  "text": "A Hemlingbysjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.181697,
+                        60.62522
+                  ]
+            },
+            {
+                  "name": "Abborrtärnan",
+                  "text": "Az Abborrtärnan egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.199574,
+                        60.617372
+                  ]
+            },
+            {
+                  "name": "Älgsjön",
+                  "text": "Az Älgsjön egy tó Gaevle területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        17.23297,
+                        60.623131
+                  ]
+            },
+            {
+                  "name": "Vesslevägen",
+                  "text": "A Vesslevägen egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.135408,
+                        60.662588
+                  ]
+            },
+            {
+                  "name": "Apelgatan",
+                  "text": "Az Apelgatan egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.166536,
+                        60.661228
+                  ]
+            },
+            {
+                  "name": "Almvägen",
+                  "text": "Az Almvägen egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.12261,
+                        60.657876
+                  ]
+            },
+            {
+                  "name": "Videkullen",
+                  "text": "A Videkullen egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.126801,
+                        60.656139
+                  ]
+            },
+            {
+                  "name": "Höjersdalsparken",
+                  "text": "A Höjersdalsparken egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.12506,
+                        60.654168
+                  ]
+            },
+            {
+                  "name": "Leklandet Delfinen",
+                  "text": "A Leklandet Delfinen egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.133661,
+                        60.683264
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "A The Dome egy trambulinpark Gaevle városában, amely aktív szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.158082,
+                        60.658883
+                  ]
+            },
+            {
+                  "name": "Ulvsmygen",
+                  "text": "Az Ulvsmygen egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.114256,
+                        60.69462
+                  ]
+            },
+            {
+                  "name": "Nynäsplan",
+                  "text": "A Nynäsplan egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.129063,
+                        60.679474
+                  ]
+            },
+            {
+                  "name": "Esplanaden",
+                  "text": "Az Esplanaden egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.139535,
+                        60.679236
+                  ]
+            },
+            {
+                  "name": "Stormgatan",
+                  "text": "A Stormgatan egy játszótér Gaevle városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.146751,
+                        60.652261
                   ]
             }
       ],
@@ -4098,6 +6150,204 @@ imageHint: "Eskilstuna city center river view",
                         17.190389,
                         60.677786
                   ]
+            },
+            {
+                  "name": "Kastsjön",
+                  "text": "Kastsjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.255683,
+                        60.678769
+                  ]
+            },
+            {
+                  "name": "Per-Månsviken",
+                  "text": "Per-Månsviken este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.267923,
+                        60.677713
+                  ]
+            },
+            {
+                  "name": "Rudsjön",
+                  "text": "Rudsjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.245076,
+                        60.681744
+                  ]
+            },
+            {
+                  "name": "Lillån",
+                  "text": "Lillån este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.154514,
+                        60.678319
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.257769,
+                        60.670962
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.089064,
+                        60.686723
+                  ]
+            },
+            {
+                  "name": "Sälgsjön",
+                  "text": "Sälgsjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.099972,
+                        60.613404
+                  ]
+            },
+            {
+                  "name": "Hillesjön",
+                  "text": "Hillesjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.206956,
+                        60.743895
+                  ]
+            },
+            {
+                  "name": "Hemlingbysjön",
+                  "text": "Hemlingbysjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.181697,
+                        60.62522
+                  ]
+            },
+            {
+                  "name": "Abborrtärnan",
+                  "text": "Abborrtärnan este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.199574,
+                        60.617372
+                  ]
+            },
+            {
+                  "name": "Älgsjön",
+                  "text": "Älgsjön este un lac în Gaevle, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.23297,
+                        60.623131
+                  ]
+            },
+            {
+                  "name": "Vesslevägen",
+                  "text": "Vesslevägen este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.135408,
+                        60.662588
+                  ]
+            },
+            {
+                  "name": "Apelgatan",
+                  "text": "Apelgatan este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.166536,
+                        60.661228
+                  ]
+            },
+            {
+                  "name": "Almvägen",
+                  "text": "Almvägen este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.12261,
+                        60.657876
+                  ]
+            },
+            {
+                  "name": "Videkullen",
+                  "text": "Videkullen este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.126801,
+                        60.656139
+                  ]
+            },
+            {
+                  "name": "Höjersdalsparken",
+                  "text": "Höjersdalsparken este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.12506,
+                        60.654168
+                  ]
+            },
+            {
+                  "name": "Leklandet Delfinen",
+                  "text": "Leklandet Delfinen este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.133661,
+                        60.683264
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome este un parc de trambuline în Gaevle care oferă distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.158082,
+                        60.658883
+                  ]
+            },
+            {
+                  "name": "Ulvsmygen",
+                  "text": "Ulvsmygen este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.114256,
+                        60.69462
+                  ]
+            },
+            {
+                  "name": "Nynäsplan",
+                  "text": "Nynäsplan este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.129063,
+                        60.679474
+                  ]
+            },
+            {
+                  "name": "Esplanaden",
+                  "text": "Esplanaden este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.139535,
+                        60.679236
+                  ]
+            },
+            {
+                  "name": "Stormgatan",
+                  "text": "Stormgatan este un loc de joacă în Gaevle, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.146751,
+                        60.652261
+                  ]
             }
       ],
       "en": [
@@ -4441,6 +6691,204 @@ imageHint: "Eskilstuna city center river view",
                   "coords": [
                         17.190389,
                         60.677786
+                  ]
+            },
+            {
+                  "name": "Kastsjön",
+                  "text": "Kastsjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.255683,
+                        60.678769
+                  ]
+            },
+            {
+                  "name": "Per-Månsviken",
+                  "text": "Per-Månsviken is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.267923,
+                        60.677713
+                  ]
+            },
+            {
+                  "name": "Rudsjön",
+                  "text": "Rudsjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.245076,
+                        60.681744
+                  ]
+            },
+            {
+                  "name": "Lillån",
+                  "text": "Lillån is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.154514,
+                        60.678319
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.257769,
+                        60.670962
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.089064,
+                        60.686723
+                  ]
+            },
+            {
+                  "name": "Sälgsjön",
+                  "text": "Sälgsjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.099972,
+                        60.613404
+                  ]
+            },
+            {
+                  "name": "Hillesjön",
+                  "text": "Hillesjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.206956,
+                        60.743895
+                  ]
+            },
+            {
+                  "name": "Hemlingbysjön",
+                  "text": "Hemlingbysjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.181697,
+                        60.62522
+                  ]
+            },
+            {
+                  "name": "Abborrtärnan",
+                  "text": "Abborrtärnan is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.199574,
+                        60.617372
+                  ]
+            },
+            {
+                  "name": "Älgsjön",
+                  "text": "Älgsjön is a lake in Gaevle suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.23297,
+                        60.623131
+                  ]
+            },
+            {
+                  "name": "Vesslevägen",
+                  "text": "Vesslevägen is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.135408,
+                        60.662588
+                  ]
+            },
+            {
+                  "name": "Apelgatan",
+                  "text": "Apelgatan is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.166536,
+                        60.661228
+                  ]
+            },
+            {
+                  "name": "Almvägen",
+                  "text": "Almvägen is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.12261,
+                        60.657876
+                  ]
+            },
+            {
+                  "name": "Videkullen",
+                  "text": "Videkullen is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.126801,
+                        60.656139
+                  ]
+            },
+            {
+                  "name": "Höjersdalsparken",
+                  "text": "Höjersdalsparken is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.12506,
+                        60.654168
+                  ]
+            },
+            {
+                  "name": "Leklandet Delfinen",
+                  "text": "Leklandet Delfinen is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.133661,
+                        60.683264
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome is a trampoline park in Gaevle offering active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.158082,
+                        60.658883
+                  ]
+            },
+            {
+                  "name": "Ulvsmygen",
+                  "text": "Ulvsmygen is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.114256,
+                        60.69462
+                  ]
+            },
+            {
+                  "name": "Nynäsplan",
+                  "text": "Nynäsplan is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.129063,
+                        60.679474
+                  ]
+            },
+            {
+                  "name": "Esplanaden",
+                  "text": "Esplanaden is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.139535,
+                        60.679236
+                  ]
+            },
+            {
+                  "name": "Stormgatan",
+                  "text": "Stormgatan is a playground in Gaevle offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.146751,
+                        60.652261
                   ]
             }
       ]
@@ -5752,7 +8200,592 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
     },
     image: "/poi-images/sweden-sodertalje-cities-v2.webp",
 },  {
-    id: "sweden-trollhattan-cities-v2",
+    id: "sweden-trollhattan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hullsjön",
+                  "text": "Hullsjön ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.378666,
+                        58.280967
+                  ]
+            },
+            {
+                  "name": "Åkers sjö",
+                  "text": "Åkers sjö ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.267432,
+                        58.267519
+                  ]
+            },
+            {
+                  "name": "Gamledalen",
+                  "text": "Gamledalen ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.261806,
+                        58.267123
+                  ]
+            },
+            {
+                  "name": "Höljan",
+                  "text": "Höljan ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.260151,
+                        58.265174
+                  ]
+            },
+            {
+                  "name": "Skogsbosjön",
+                  "text": "Skogsbosjön ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.300763,
+                        58.22076
+                  ]
+            },
+            {
+                  "name": "Vassbotten",
+                  "text": "Vassbotten ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.305981,
+                        58.363472
+                  ]
+            },
+            {
+                  "name": "Öresjö",
+                  "text": "Öresjö ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.142345,
+                        58.272944
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.25703,
+                        58.209572
+                  ]
+            },
+            {
+                  "name": "Skogssäterssjön",
+                  "text": "Skogssäterssjön ist ein See in Trollhaettan, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.216638,
+                        58.301308
+                  ]
+            },
+            {
+                  "name": "Skofteby torg",
+                  "text": "Skofteby torg ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.275935,
+                        58.265998
+                  ]
+            },
+            {
+                  "name": "Macken-lekplatsen",
+                  "text": "Macken-lekplatsen ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.292869,
+                        58.283904
+                  ]
+            },
+            {
+                  "name": "Båtlekplatsen",
+                  "text": "Båtlekplatsen ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.306108,
+                        58.288086
+                  ]
+            },
+            {
+                  "name": "Rönnhagens Lekplats",
+                  "text": "Rönnhagens Lekplats ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.311935,
+                        58.284709
+                  ]
+            },
+            {
+                  "name": "Skrotnisses lekplats",
+                  "text": "Skrotnisses lekplats ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.286733,
+                        58.288376
+                  ]
+            },
+            {
+                  "name": "Rymdlekplatsen",
+                  "text": "Rymdlekplatsen ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.302753,
+                        58.269419
+                  ]
+            },
+            {
+                  "name": "Vattenkraftens lekplats",
+                  "text": "Vattenkraftens lekplats ist ein Spielplatz in Trollhaettan, der Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.274627,
+                        58.275879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hullsjön",
+                  "text": "A Hullsjön egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.378666,
+                        58.280967
+                  ]
+            },
+            {
+                  "name": "Åkers sjö",
+                  "text": "Az Åkers sjö egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.267432,
+                        58.267519
+                  ]
+            },
+            {
+                  "name": "Gamledalen",
+                  "text": "A Gamledalen egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.261806,
+                        58.267123
+                  ]
+            },
+            {
+                  "name": "Höljan",
+                  "text": "A Höljan egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.260151,
+                        58.265174
+                  ]
+            },
+            {
+                  "name": "Skogsbosjön",
+                  "text": "A Skogsbosjön egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.300763,
+                        58.22076
+                  ]
+            },
+            {
+                  "name": "Vassbotten",
+                  "text": "A Vassbotten egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.305981,
+                        58.363472
+                  ]
+            },
+            {
+                  "name": "Öresjö",
+                  "text": "Az Öresjö egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.142345,
+                        58.272944
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "A Trehörningen egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.25703,
+                        58.209572
+                  ]
+            },
+            {
+                  "name": "Skogssäterssjön",
+                  "text": "A Skogssäterssjön egy tó Trollhaettan területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.216638,
+                        58.301308
+                  ]
+            },
+            {
+                  "name": "Skofteby torg",
+                  "text": "A Skofteby torg egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.275935,
+                        58.265998
+                  ]
+            },
+            {
+                  "name": "Macken-lekplatsen",
+                  "text": "A Macken-lekplatsen egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.292869,
+                        58.283904
+                  ]
+            },
+            {
+                  "name": "Båtlekplatsen",
+                  "text": "A Båtlekplatsen egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.306108,
+                        58.288086
+                  ]
+            },
+            {
+                  "name": "Rönnhagens Lekplats",
+                  "text": "A Rönnhagens Lekplats egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.311935,
+                        58.284709
+                  ]
+            },
+            {
+                  "name": "Skrotnisses lekplats",
+                  "text": "A Skrotnisses lekplats egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.286733,
+                        58.288376
+                  ]
+            },
+            {
+                  "name": "Rymdlekplatsen",
+                  "text": "A Rymdlekplatsen egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.302753,
+                        58.269419
+                  ]
+            },
+            {
+                  "name": "Vattenkraftens lekplats",
+                  "text": "A Vattenkraftens lekplats egy játszótér Trollhaettan városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.274627,
+                        58.275879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hullsjön",
+                  "text": "Hullsjön este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.378666,
+                        58.280967
+                  ]
+            },
+            {
+                  "name": "Åkers sjö",
+                  "text": "Åkers sjö este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.267432,
+                        58.267519
+                  ]
+            },
+            {
+                  "name": "Gamledalen",
+                  "text": "Gamledalen este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.261806,
+                        58.267123
+                  ]
+            },
+            {
+                  "name": "Höljan",
+                  "text": "Höljan este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.260151,
+                        58.265174
+                  ]
+            },
+            {
+                  "name": "Skogsbosjön",
+                  "text": "Skogsbosjön este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.300763,
+                        58.22076
+                  ]
+            },
+            {
+                  "name": "Vassbotten",
+                  "text": "Vassbotten este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.305981,
+                        58.363472
+                  ]
+            },
+            {
+                  "name": "Öresjö",
+                  "text": "Öresjö este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.142345,
+                        58.272944
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.25703,
+                        58.209572
+                  ]
+            },
+            {
+                  "name": "Skogssäterssjön",
+                  "text": "Skogssäterssjön este un lac în Trollhaettan, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.216638,
+                        58.301308
+                  ]
+            },
+            {
+                  "name": "Skofteby torg",
+                  "text": "Skofteby torg este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.275935,
+                        58.265998
+                  ]
+            },
+            {
+                  "name": "Macken-lekplatsen",
+                  "text": "Macken-lekplatsen este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.292869,
+                        58.283904
+                  ]
+            },
+            {
+                  "name": "Båtlekplatsen",
+                  "text": "Båtlekplatsen este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.306108,
+                        58.288086
+                  ]
+            },
+            {
+                  "name": "Rönnhagens Lekplats",
+                  "text": "Rönnhagens Lekplats este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.311935,
+                        58.284709
+                  ]
+            },
+            {
+                  "name": "Skrotnisses lekplats",
+                  "text": "Skrotnisses lekplats este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.286733,
+                        58.288376
+                  ]
+            },
+            {
+                  "name": "Rymdlekplatsen",
+                  "text": "Rymdlekplatsen este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.302753,
+                        58.269419
+                  ]
+            },
+            {
+                  "name": "Vattenkraftens lekplats",
+                  "text": "Vattenkraftens lekplats este un loc de joacă în Trollhaettan, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.274627,
+                        58.275879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hullsjön",
+                  "text": "Hullsjön is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.378666,
+                        58.280967
+                  ]
+            },
+            {
+                  "name": "Åkers sjö",
+                  "text": "Åkers sjö is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.267432,
+                        58.267519
+                  ]
+            },
+            {
+                  "name": "Gamledalen",
+                  "text": "Gamledalen is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.261806,
+                        58.267123
+                  ]
+            },
+            {
+                  "name": "Höljan",
+                  "text": "Höljan is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.260151,
+                        58.265174
+                  ]
+            },
+            {
+                  "name": "Skogsbosjön",
+                  "text": "Skogsbosjön is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.300763,
+                        58.22076
+                  ]
+            },
+            {
+                  "name": "Vassbotten",
+                  "text": "Vassbotten is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.305981,
+                        58.363472
+                  ]
+            },
+            {
+                  "name": "Öresjö",
+                  "text": "Öresjö is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.142345,
+                        58.272944
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.25703,
+                        58.209572
+                  ]
+            },
+            {
+                  "name": "Skogssäterssjön",
+                  "text": "Skogssäterssjön is a lake in Trollhaettan suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.216638,
+                        58.301308
+                  ]
+            },
+            {
+                  "name": "Skofteby torg",
+                  "text": "Skofteby torg is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.275935,
+                        58.265998
+                  ]
+            },
+            {
+                  "name": "Macken-lekplatsen",
+                  "text": "Macken-lekplatsen is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.292869,
+                        58.283904
+                  ]
+            },
+            {
+                  "name": "Båtlekplatsen",
+                  "text": "Båtlekplatsen is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.306108,
+                        58.288086
+                  ]
+            },
+            {
+                  "name": "Rönnhagens Lekplats",
+                  "text": "Rönnhagens Lekplats is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.311935,
+                        58.284709
+                  ]
+            },
+            {
+                  "name": "Skrotnisses lekplats",
+                  "text": "Skrotnisses lekplats is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.286733,
+                        58.288376
+                  ]
+            },
+            {
+                  "name": "Rymdlekplatsen",
+                  "text": "Rymdlekplatsen is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.302753,
+                        58.269419
+                  ]
+            },
+            {
+                  "name": "Vattenkraftens lekplats",
+                  "text": "Vattenkraftens lekplats is a playground in Trollhaettan offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.274627,
+                        58.275879
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Trollhättan", hu: "Trollhättan", ro: "Trollhättan", en: "Trollhättan"},
@@ -6051,6 +9084,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.629547,
                         60.614408
                   ]
+            },
+            {
+                  "name": "Tisken",
+                  "text": "Der Tisken in Falun bietet eine schöne Kulisse für Spaziergänge in der Nähe des Stadtzentrums.",
+                  "category": "natural",
+                  "coords": [
+                        15.644617,
+                        60.599595
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön in Falun ist ein ruhig gelegener See, der sich ideal für Ausflüge in die Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.491002,
+                        60.587186
+                  ]
+            },
+            {
+                  "name": "Varbotjärnen",
+                  "text": "Varbotjärnen in Falun besticht durch seine stille Lage und lädt zum Entspannen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        15.573991,
+                        60.654204
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Nydammen in Falun bietet eine friedliche Atmosphäre für erholsame Stunden an der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        15.513998,
+                        60.61751
+                  ]
+            },
+            {
+                  "name": "Stålmyren",
+                  "text": "Stålmyren in Falun ist ein kleines Gewässer, das von schöner schwedischer Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.523644,
+                        60.61452
+                  ]
+            },
+            {
+                  "name": "Kniptjärnen",
+                  "text": "Kniptjärnen in Falun ist ein idyllischer See, der eine ruhige Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.551972,
+                        60.569834
+                  ]
+            },
+            {
+                  "name": "Lilla Vällan",
+                  "text": "Lilla Vällan in Falun bietet eine angenehme Umgebung für Spaziergänge und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.527474,
+                        60.58945
+                  ]
+            },
+            {
+                  "name": "Fisklösen",
+                  "text": "Der Fisklösen ist ein ruhiger See in Falun, der sich ideal für erholsame Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.528458,
+                        60.572243
+                  ]
+            },
+            {
+                  "name": "Karlslundstjärnen",
+                  "text": "Der Karlslundstjärnen bietet eine malerische Kulisse für Ausflüge am Wasser in der Umgebung von Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.768406,
+                        60.580596
+                  ]
+            },
+            {
+                  "name": "Korsnäsströmmen",
+                  "text": "Die Korsnäsströmmen ist ein schönes Gewässer in Falun, das zum Verweilen und Genießen der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.722729,
+                        60.589977
+                  ]
+            },
+            {
+                  "name": "Hosjön",
+                  "text": "Der Hosjön in Falun ist ein beliebter See für Naturliebhaber und bietet eine ruhige Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        15.743636,
+                        60.597639
+                  ]
+            },
+            {
+                  "name": "Djuptjärn",
+                  "text": "Der Djuptjärn ist ein kleinerer See in Falun, der von einer reizvollen Waldlandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.510329,
+                        60.622707
+                  ]
+            },
+            {
+                  "name": "Karlsbotjärnen",
+                  "text": "Der Karlsbotjärnen bei Falun ist ein naturbelassener See, der sich hervorragend für eine Wanderung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.510067,
+                        60.607536
+                  ]
+            },
+            {
+                  "name": "Ormpussen",
+                  "text": "Der Ormpussen ist ein ruhiges Gewässer in Falun, das eine friedliche Umgebung für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.523426,
+                        60.574257
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Der Igeltjärnen in Falun lädt zu entspannten Stunden am Wasser in einer grünen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        15.51655,
+                        60.631688
+                  ]
+            },
+            {
+                  "name": "Karlbergsdammen",
+                  "text": "Der Karlbergsdammen ist ein zentral gelegener See in Falun, ideal für einen kurzen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        15.631126,
+                        60.624176
+                  ]
+            },
+            {
+                  "name": "Holmstetstjärnen",
+                  "text": "Der Holmstetstjärnen bietet Besuchern in Falun eine ruhige Kulisse für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.77155,
+                        60.605469
+                  ]
+            },
+            {
+                  "name": "Ruddammen",
+                  "text": "Der Ruddammen ist ein friedlicher kleiner See in Falun, der sich gut für eine Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.578686,
+                        60.599478
+                  ]
+            },
+            {
+                  "name": "Krondiket",
+                  "text": "Der Krondiket in Falun ist ein interessantes Gewässer, das die lokale Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        15.580652,
+                        60.596199
+                  ]
+            },
+            {
+                  "name": "Lilla Åltjärnen",
+                  "text": "Der Lilla Åltjärnen ist ein idyllischer See in Falun, der Ruhe und Entspannung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.52255,
+                        60.643202
+                  ]
+            },
+            {
+                  "name": "Stora Åltjärnen",
+                  "text": "Der Stora Åltjärnen ist ein größerer See bei Falun, ideal für Naturerkundungen und Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        15.516756,
+                        60.64459
+                  ]
+            },
+            {
+                  "name": "Stångtjärn",
+                  "text": "Der Stångtjärn ist ein beliebtes Ziel in Falun für Aktivitäten im Freien und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.551223,
+                        60.630419
+                  ]
+            },
+            {
+                  "name": "Varpan",
+                  "text": "Der Varpan ist ein weitläufiger See in Falun, der eine beeindruckende Aussicht auf die umliegende Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.598336,
+                        60.645823
+                  ]
+            },
+            {
+                  "name": "Runn",
+                  "text": "Der Runn ist ein großer See bei Falun, bekannt für seine weiten Wasserflächen und Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        15.681628,
+                        60.531981
+                  ]
             }
       ],
       "hu": [
@@ -6304,6 +9553,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.629547,
                         60.614408
+                  ]
+            },
+            {
+                  "name": "Tisken",
+                  "text": "A faluni Tisken szép hátteret biztosít a városközpont közelében tett sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.644617,
+                        60.599595
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "A faluni Mörtsjön egy csendes fekvésű tó, amely ideális a természetközeli kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.491002,
+                        60.587186
+                  ]
+            },
+            {
+                  "name": "Varbotjärnen",
+                  "text": "A faluni Varbotjärnen csendes fekvésével tűnik ki, és pihenésre hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        15.573991,
+                        60.654204
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "A faluni Nydammen békés légkört biztosít a friss levegőn töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.513998,
+                        60.61751
+                  ]
+            },
+            {
+                  "name": "Stålmyren",
+                  "text": "A faluni Stålmyren egy kis tó, amelyet szép svéd természet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        15.523644,
+                        60.61452
+                  ]
+            },
+            {
+                  "name": "Kniptjärnen",
+                  "text": "A faluni Kniptjärnen egy idilli tó, amely nyugodt hátteret biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        15.551972,
+                        60.569834
+                  ]
+            },
+            {
+                  "name": "Lilla Vällan",
+                  "text": "A faluni Lilla Vällan kellemes környezetet biztosít a sétákhoz és a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.527474,
+                        60.58945
+                  ]
+            },
+            {
+                  "name": "Fisklösen",
+                  "text": "A Fisklösen egy csendes tó Falunban, amely ideális a pihentető természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.528458,
+                        60.572243
+                  ]
+            },
+            {
+                  "name": "Karlslundstjärnen",
+                  "text": "A Karlslundstjärnen festői környezetet biztosít a vízparti kirándulásokhoz Falun környékén.",
+                  "category": "natural",
+                  "coords": [
+                        15.768406,
+                        60.580596
+                  ]
+            },
+            {
+                  "name": "Korsnäsströmmen",
+                  "text": "A Korsnäsströmmen egy szép vízfelület Falunban, amely pihenésre és a táj élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        15.722729,
+                        60.589977
+                  ]
+            },
+            {
+                  "name": "Hosjön",
+                  "text": "A faluni Hosjön a természetkedvelők kedvelt tava, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        15.743636,
+                        60.597639
+                  ]
+            },
+            {
+                  "name": "Djuptjärn",
+                  "text": "A Djuptjärn egy kisebb tó Falunban, amelyet elbűvölő erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        15.510329,
+                        60.622707
+                  ]
+            },
+            {
+                  "name": "Karlsbotjärnen",
+                  "text": "A Falun melletti Karlsbotjärnen egy érintetlen tó, amely kiválóan alkalmas túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        15.510067,
+                        60.607536
+                  ]
+            },
+            {
+                  "name": "Ormpussen",
+                  "text": "Az Ormpussen egy csendes vízfelület Falunban, amely nyugodt környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.523426,
+                        60.574257
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "A faluni Igeltjärnen pihentető órákra hív a vízparton, zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.51655,
+                        60.631688
+                  ]
+            },
+            {
+                  "name": "Karlbergsdammen",
+                  "text": "A Karlbergsdammen egy központi fekvésű tó Falunban, ideális egy rövid szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        15.631126,
+                        60.624176
+                  ]
+            },
+            {
+                  "name": "Holmstetstjärnen",
+                  "text": "A Holmstetstjärnen nyugodt környezetet biztosít a látogatóknak Falunban a természetbeli kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.77155,
+                        60.605469
+                  ]
+            },
+            {
+                  "name": "Ruddammen",
+                  "text": "A Ruddammen egy békés kis tó Falunban, amely kiválóan alkalmas egy zöldben töltött pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        15.578686,
+                        60.599478
+                  ]
+            },
+            {
+                  "name": "Krondiket",
+                  "text": "A faluni Krondiket egy érdekes vízfelület, amely gazdagítja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        15.580652,
+                        60.596199
+                  ]
+            },
+            {
+                  "name": "Lilla Åltjärnen",
+                  "text": "A Lilla Åltjärnen egy idilli tó Falunban, amely nyugalmat és kikapcsolódást nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        15.52255,
+                        60.643202
+                  ]
+            },
+            {
+                  "name": "Stora Åltjärnen",
+                  "text": "A Stora Åltjärnen egy nagyobb tó Falun közelében, ideális természetjáráshoz és túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.516756,
+                        60.64459
+                  ]
+            },
+            {
+                  "name": "Stångtjärn",
+                  "text": "A Stångtjärn népszerű úti cél Falunban szabadtéri tevékenységekhez és vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.551223,
+                        60.630419
+                  ]
+            },
+            {
+                  "name": "Varpan",
+                  "text": "A Varpan egy kiterjedt tó Falunban, amely lenyűgöző kilátást nyújt a környező régióra.",
+                  "category": "natural",
+                  "coords": [
+                        15.598336,
+                        60.645823
+                  ]
+            },
+            {
+                  "name": "Runn",
+                  "text": "A Runn egy nagy tó Falun közelében, amely tágas vízfelületeiről és szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.681628,
+                        60.531981
                   ]
             }
       ],
@@ -6559,6 +10024,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.629547,
                         60.614408
                   ]
+            },
+            {
+                  "name": "Tisken",
+                  "text": "Tisken din Falun oferă un cadru frumos pentru plimbări în apropierea centrului orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.644617,
+                        60.599595
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön din Falun este un lac situat liniștit, ideal pentru excursii în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.491002,
+                        60.587186
+                  ]
+            },
+            {
+                  "name": "Varbotjärnen",
+                  "text": "Varbotjärnen din Falun impresionează prin locația sa liniștită și invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.573991,
+                        60.654204
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Nydammen din Falun oferă o atmosferă pașnică pentru ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.513998,
+                        60.61751
+                  ]
+            },
+            {
+                  "name": "Stålmyren",
+                  "text": "Stålmyren din Falun este o apă mică, înconjurată de natura suedeză frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        15.523644,
+                        60.61452
+                  ]
+            },
+            {
+                  "name": "Kniptjärnen",
+                  "text": "Kniptjärnen din Falun este un lac idilic care oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.551972,
+                        60.569834
+                  ]
+            },
+            {
+                  "name": "Lilla Vällan",
+                  "text": "Lilla Vällan din Falun oferă un mediu plăcut pentru plimbări și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.527474,
+                        60.58945
+                  ]
+            },
+            {
+                  "name": "Fisklösen",
+                  "text": "Fisklösen este un lac liniștit din Falun, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.528458,
+                        60.572243
+                  ]
+            },
+            {
+                  "name": "Karlslundstjärnen",
+                  "text": "Karlslundstjärnen oferă un cadru pitoresc pentru excursii pe malul apei în zona Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.768406,
+                        60.580596
+                  ]
+            },
+            {
+                  "name": "Korsnäsströmmen",
+                  "text": "Korsnäsströmmen este un curs de apă frumos din Falun, care invită la relaxare și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        15.722729,
+                        60.589977
+                  ]
+            },
+            {
+                  "name": "Hosjön",
+                  "text": "Hosjön din Falun este un lac popular pentru iubitorii de natură, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        15.743636,
+                        60.597639
+                  ]
+            },
+            {
+                  "name": "Djuptjärn",
+                  "text": "Djuptjärn este un lac mai mic din Falun, înconjurat de un peisaj forestier încântător.",
+                  "category": "natural",
+                  "coords": [
+                        15.510329,
+                        60.622707
+                  ]
+            },
+            {
+                  "name": "Karlsbotjärnen",
+                  "text": "Karlsbotjärnen de lângă Falun este un lac natural, excelent pentru o drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        15.510067,
+                        60.607536
+                  ]
+            },
+            {
+                  "name": "Ormpussen",
+                  "text": "Ormpussen este un corp de apă liniștit din Falun, oferind un mediu pașnic pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.523426,
+                        60.574257
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen din Falun invită la ore relaxante pe malul apei, într-un mediu verde.",
+                  "category": "natural",
+                  "coords": [
+                        15.51655,
+                        60.631688
+                  ]
+            },
+            {
+                  "name": "Karlbergsdammen",
+                  "text": "Karlbergsdammen este un lac situat central în Falun, ideal pentru o scurtă plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.631126,
+                        60.624176
+                  ]
+            },
+            {
+                  "name": "Holmstetstjärnen",
+                  "text": "Holmstetstjärnen oferă vizitatorilor din Falun un cadru liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.77155,
+                        60.605469
+                  ]
+            },
+            {
+                  "name": "Ruddammen",
+                  "text": "Ruddammen este un lac mic și liniștit din Falun, potrivit pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.578686,
+                        60.599478
+                  ]
+            },
+            {
+                  "name": "Krondiket",
+                  "text": "Krondiket din Falun este un corp de apă interesant care îmbogățește peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        15.580652,
+                        60.596199
+                  ]
+            },
+            {
+                  "name": "Lilla Åltjärnen",
+                  "text": "Lilla Åltjärnen este un lac idilic din Falun, care oferă liniște și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.52255,
+                        60.643202
+                  ]
+            },
+            {
+                  "name": "Stora Åltjärnen",
+                  "text": "Stora Åltjärnen este un lac mai mare lângă Falun, ideal pentru explorarea naturii și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        15.516756,
+                        60.64459
+                  ]
+            },
+            {
+                  "name": "Stångtjärn",
+                  "text": "Stångtjärn este o destinație populară în Falun pentru activități în aer liber și recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.551223,
+                        60.630419
+                  ]
+            },
+            {
+                  "name": "Varpan",
+                  "text": "Varpan este un lac întins din Falun, oferind o priveliște impresionantă asupra regiunii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        15.598336,
+                        60.645823
+                  ]
+            },
+            {
+                  "name": "Runn",
+                  "text": "Runn este un lac mare lângă Falun, cunoscut pentru suprafețele sale vaste de apă și oportunitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        15.681628,
+                        60.531981
+                  ]
             }
       ],
       "en": [
@@ -6812,6 +10493,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.629547,
                         60.614408
+                  ]
+            },
+            {
+                  "name": "Tisken",
+                  "text": "Tisken in Falun provides a beautiful backdrop for walks near the city center.",
+                  "category": "natural",
+                  "coords": [
+                        15.644617,
+                        60.599595
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön in Falun is a quietly located lake, ideal for trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.491002,
+                        60.587186
+                  ]
+            },
+            {
+                  "name": "Varbotjärnen",
+                  "text": "Varbotjärnen in Falun stands out with its quiet location and invites relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.573991,
+                        60.654204
+                  ]
+            },
+            {
+                  "name": "Nydammen",
+                  "text": "Nydammen in Falun offers a peaceful atmosphere for relaxing hours in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        15.513998,
+                        60.61751
+                  ]
+            },
+            {
+                  "name": "Stålmyren",
+                  "text": "Stålmyren in Falun is a small body of water surrounded by beautiful Swedish nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.523644,
+                        60.61452
+                  ]
+            },
+            {
+                  "name": "Kniptjärnen",
+                  "text": "Kniptjärnen in Falun is an idyllic lake providing a quiet setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        15.551972,
+                        60.569834
+                  ]
+            },
+            {
+                  "name": "Lilla Vällan",
+                  "text": "Lilla Vällan in Falun offers a pleasant environment for walks and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.527474,
+                        60.58945
+                  ]
+            },
+            {
+                  "name": "Fisklösen",
+                  "text": "Fisklösen is a peaceful lake in Falun, ideal for relaxing nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.528458,
+                        60.572243
+                  ]
+            },
+            {
+                  "name": "Karlslundstjärnen",
+                  "text": "Karlslundstjärnen offers a picturesque setting for waterside trips in the Falun area.",
+                  "category": "natural",
+                  "coords": [
+                        15.768406,
+                        60.580596
+                  ]
+            },
+            {
+                  "name": "Korsnäsströmmen",
+                  "text": "Korsnäsströmmen is a beautiful body of water in Falun, inviting visitors to relax and enjoy the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.722729,
+                        60.589977
+                  ]
+            },
+            {
+                  "name": "Hosjön",
+                  "text": "Hosjön in Falun is a popular lake for nature lovers, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        15.743636,
+                        60.597639
+                  ]
+            },
+            {
+                  "name": "Djuptjärn",
+                  "text": "Djuptjärn is a smaller lake in Falun surrounded by a charming forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.510329,
+                        60.622707
+                  ]
+            },
+            {
+                  "name": "Karlsbotjärnen",
+                  "text": "Karlsbotjärnen near Falun is a natural lake, excellent for a hike.",
+                  "category": "natural",
+                  "coords": [
+                        15.510067,
+                        60.607536
+                  ]
+            },
+            {
+                  "name": "Ormpussen",
+                  "text": "Ormpussen is a quiet body of water in Falun, providing a peaceful environment for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        15.523426,
+                        60.574257
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen in Falun invites visitors to relaxing hours by the water in a green setting.",
+                  "category": "natural",
+                  "coords": [
+                        15.51655,
+                        60.631688
+                  ]
+            },
+            {
+                  "name": "Karlbergsdammen",
+                  "text": "Karlbergsdammen is a centrally located lake in Falun, ideal for a short outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        15.631126,
+                        60.624176
+                  ]
+            },
+            {
+                  "name": "Holmstetstjärnen",
+                  "text": "Holmstetstjärnen provides visitors in Falun with a quiet backdrop for nature recreation.",
+                  "category": "natural",
+                  "coords": [
+                        15.77155,
+                        60.605469
+                  ]
+            },
+            {
+                  "name": "Ruddammen",
+                  "text": "Ruddammen is a peaceful small lake in Falun, well-suited for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.578686,
+                        60.599478
+                  ]
+            },
+            {
+                  "name": "Krondiket",
+                  "text": "Krondiket in Falun is an interesting waterway that enriches the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.580652,
+                        60.596199
+                  ]
+            },
+            {
+                  "name": "Lilla Åltjärnen",
+                  "text": "Lilla Åltjärnen is an idyllic lake in Falun offering peace and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.52255,
+                        60.643202
+                  ]
+            },
+            {
+                  "name": "Stora Åltjärnen",
+                  "text": "Stora Åltjärnen is a larger lake near Falun, ideal for nature exploration and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        15.516756,
+                        60.64459
+                  ]
+            },
+            {
+                  "name": "Stångtjärn",
+                  "text": "Stångtjärn is a popular destination in Falun for outdoor activities and lakeside recreation.",
+                  "category": "natural",
+                  "coords": [
+                        15.551223,
+                        60.630419
+                  ]
+            },
+            {
+                  "name": "Varpan",
+                  "text": "Varpan is an expansive lake in Falun offering impressive views of the surrounding region.",
+                  "category": "natural",
+                  "coords": [
+                        15.598336,
+                        60.645823
+                  ]
+            },
+            {
+                  "name": "Runn",
+                  "text": "Runn is a large lake near Falun, known for its vast water areas and recreational possibilities.",
+                  "category": "natural",
+                  "coords": [
+                        15.681628,
+                        60.531981
                   ]
             }
       ]
@@ -8091,6 +11988,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.145235,
                         56.02016
                   ]
+            },
+            {
+                  "name": "Hammarsjön",
+                  "text": "Der Hammarsjön in Kristianstad ist ein bedeutendes Gewässer in einer artenreichen Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.206699,
+                        55.987786
+                  ]
+            },
+            {
+                  "name": "Råbelövssjön",
+                  "text": "Der Råbelövssjön bei Kristianstad bietet eine ruhige Umgebung für entspannte Beobachtungen am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        14.228169,
+                        56.10268
+                  ]
+            },
+            {
+                  "name": "Araslövssjön",
+                  "text": "Der Araslövssjön ist ein naturnaher See in Kristianstad, der sich ideal für Naturwanderungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.120862,
+                        56.06102
+                  ]
+            },
+            {
+                  "name": "Murarevägens lekplats",
+                  "text": "Der Murarevägens lekplats ist ein familienfreundlicher Spielplatz in Kristianstad mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        14.168196,
+                        56.050135
+                  ]
             }
       ],
       "hu": [
@@ -8236,6 +12169,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.145235,
                         56.02016
+                  ]
+            },
+            {
+                  "name": "Hammarsjön",
+                  "text": "A kristianstadi Hammarsjön egy jelentős vízfelület egy fajokban gazdag természeti tájban.",
+                  "category": "natural",
+                  "coords": [
+                        14.206699,
+                        55.987786
+                  ]
+            },
+            {
+                  "name": "Råbelövssjön",
+                  "text": "A Kristianstad közeli Råbelövssjön nyugodt környezetet biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.228169,
+                        56.10268
+                  ]
+            },
+            {
+                  "name": "Araslövssjön",
+                  "text": "Az Araslövssjön egy természetközeli tó Kristianstadban, amely ideális természeti túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.120862,
+                        56.06102
+                  ]
+            },
+            {
+                  "name": "Murarevägens lekplats",
+                  "text": "A Murarevägens lekplats egy családbarát játszótér Kristianstadban, különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        14.168196,
+                        56.050135
                   ]
             }
       ],
@@ -8383,6 +12352,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.145235,
                         56.02016
                   ]
+            },
+            {
+                  "name": "Hammarsjön",
+                  "text": "Hammarsjön din Kristianstad este un corp de apă important într-un peisaj natural bogat în specii.",
+                  "category": "natural",
+                  "coords": [
+                        14.206699,
+                        55.987786
+                  ]
+            },
+            {
+                  "name": "Råbelövssjön",
+                  "text": "Råbelövssjön de lângă Kristianstad oferă un mediu liniștit pentru observații relaxate pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        14.228169,
+                        56.10268
+                  ]
+            },
+            {
+                  "name": "Araslövssjön",
+                  "text": "Araslövssjön este un lac natural din Kristianstad, ideal pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.120862,
+                        56.06102
+                  ]
+            },
+            {
+                  "name": "Murarevägens lekplats",
+                  "text": "Murarevägens lekplats este un loc de joacă pentru familii din Kristianstad, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.168196,
+                        56.050135
+                  ]
             }
       ],
       "en": [
@@ -8528,6 +12533,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.145235,
                         56.02016
+                  ]
+            },
+            {
+                  "name": "Hammarsjön",
+                  "text": "Hammarsjön in Kristianstad is a significant body of water in a biodiverse natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.206699,
+                        55.987786
+                  ]
+            },
+            {
+                  "name": "Råbelövssjön",
+                  "text": "Råbelövssjön near Kristianstad offers a peaceful environment for relaxed observations on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        14.228169,
+                        56.10268
+                  ]
+            },
+            {
+                  "name": "Araslövssjön",
+                  "text": "Araslövssjön is a nature-focused lake in Kristianstad, ideal for nature hikes.",
+                  "category": "natural",
+                  "coords": [
+                        14.120862,
+                        56.06102
+                  ]
+            },
+            {
+                  "name": "Murarevägens lekplats",
+                  "text": "Murarevägens lekplats is a family-friendly playground in Kristianstad with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        14.168196,
+                        56.050135
                   ]
             }
       ]
@@ -8678,6 +12719,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.83138,
                         55.873609
                   ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "Lagunen Skate Park ist ein Spielplatz in Landskrona, der Raum für Outdoor-Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
             }
       ],
       "hu": [
@@ -8778,6 +12828,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.83138,
                         55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "A Lagunen Skate Park egy játszótér Landskrona városában, amely helyet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
                   ]
             }
       ],
@@ -8880,6 +12939,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.83138,
                         55.873609
                   ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "Lagunen Skate Park este un teren de joacă în Landskrona, oferind spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
             }
       ],
       "en": [
@@ -8980,6 +13048,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.83138,
                         55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen Skate Park",
+                  "text": "Lagunen Skate Park is a playground in Landskrona offering space for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
                   ]
             }
       ]
@@ -9211,6 +13288,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.018577,
                         58.529829
                   ]
+            },
+            {
+                  "name": "Torvsjön",
+                  "text": "Torvsjön ist ein See in Motala, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.120139,
+                        58.586759
+                  ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Vättern ist ein See in Motala, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Boren",
+                  "text": "Boren ist ein See in Motala, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.17925,
+                        58.558792
+                  ]
+            },
+            {
+                  "name": "Lindgården",
+                  "text": "Lindgården ist ein Minigolfplatz in Motala für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        15.007028,
+                        58.548297
+                  ]
             }
       ],
       "hu": [
@@ -9392,6 +13505,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.018577,
                         58.529829
+                  ]
+            },
+            {
+                  "name": "Torvsjön",
+                  "text": "A Torvsjön egy tó Motala területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        15.120139,
+                        58.586759
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Vättern egy tó Motala területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Boren",
+                  "text": "A Boren egy tó Motala területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        15.17925,
+                        58.558792
+                  ]
+            },
+            {
+                  "name": "Lindgården",
+                  "text": "A Lindgården egy minigolfpálya Motala városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        15.007028,
+                        58.548297
                   ]
             }
       ],
@@ -9575,6 +13724,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.018577,
                         58.529829
                   ]
+            },
+            {
+                  "name": "Torvsjön",
+                  "text": "Torvsjön este un lac în Motala, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.120139,
+                        58.586759
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern este un lac în Motala, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Boren",
+                  "text": "Boren este un lac în Motala, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.17925,
+                        58.558792
+                  ]
+            },
+            {
+                  "name": "Lindgården",
+                  "text": "Lindgården este un teren de minigolf în Motala pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.007028,
+                        58.548297
+                  ]
             }
       ],
       "en": [
@@ -9757,6 +13942,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.018577,
                         58.529829
                   ]
+            },
+            {
+                  "name": "Torvsjön",
+                  "text": "Torvsjön is a lake in Motala suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.120139,
+                        58.586759
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern is a lake in Motala suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Boren",
+                  "text": "Boren is a lake in Motala suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.17925,
+                        58.558792
+                  ]
+            },
+            {
+                  "name": "Lindgården",
+                  "text": "Lindgården is a miniature golf course in Motala for family fun.",
+                  "category": "family",
+                  "coords": [
+                        15.007028,
+                        58.548297
+                  ]
             }
       ]
 },
@@ -9879,6 +14100,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.601988,
                         56.201416
                   ]
+            },
+            {
+                  "name": "Grevagrundet",
+                  "text": "Grevagrundet ist ein einladender Spielplatz in Karlskrona, der Kindern viel Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.581401,
+                        56.161735
+                  ]
+            },
+            {
+                  "name": "Dragsö Äventyrsminigolf",
+                  "text": "Dragsö Äventyrsminigolf ist eine spannende Minigolfanlage in Karlskrona mit abwechslungsreichen Bahnen.",
+                  "category": "family",
+                  "coords": [
+                        15.567882,
+                        56.173237
+                  ]
             }
       ],
       "hu": [
@@ -9952,6 +14191,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.601988,
                         56.201416
+                  ]
+            },
+            {
+                  "name": "Grevagrundet",
+                  "text": "A Grevagrundet egy hívogató játszótér Karlskronában, amely sok helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.581401,
+                        56.161735
+                  ]
+            },
+            {
+                  "name": "Dragsö Äventyrsminigolf",
+                  "text": "A Dragsö Äventyrsminigolf egy izgalmas minigolfpálya Karlskronában, változatos pályákkal.",
+                  "category": "family",
+                  "coords": [
+                        15.567882,
+                        56.173237
                   ]
             }
       ],
@@ -10027,6 +14284,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.601988,
                         56.201416
                   ]
+            },
+            {
+                  "name": "Grevagrundet",
+                  "text": "Grevagrundet este un loc de joacă primitor din Karlskrona, care oferă copiilor mult spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.581401,
+                        56.161735
+                  ]
+            },
+            {
+                  "name": "Dragsö Äventyrsminigolf",
+                  "text": "Dragsö Äventyrsminigolf este un teren de minigolf captivant în Karlskrona, cu trasee variate.",
+                  "category": "family",
+                  "coords": [
+                        15.567882,
+                        56.173237
+                  ]
             }
       ],
       "en": [
@@ -10101,6 +14376,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.601988,
                         56.201416
                   ]
+            },
+            {
+                  "name": "Grevagrundet",
+                  "text": "Grevagrundet is an inviting playground in Karlskrona, offering children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        15.581401,
+                        56.161735
+                  ]
+            },
+            {
+                  "name": "Dragsö Äventyrsminigolf",
+                  "text": "Dragsö Äventyrsminigolf is an exciting miniature golf course in Karlskrona with varied tracks.",
+                  "category": "family",
+                  "coords": [
+                        15.567882,
+                        56.173237
+                  ]
             }
       ]
 },
@@ -10150,7 +14443,916 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-uddevalla-cities-v2",
+    id: "sweden-uddevalla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hundegäddevattnet",
+                  "text": "Hundegäddevattnet ist ein See in Uddevalla, ideal um die ruhige Landschaft am Seeufer zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.861194,
+                        58.396498
+                  ]
+            },
+            {
+                  "name": "Limsjön",
+                  "text": "Limsjön ist ein See in Uddevalla, der eine ruhige Umgebung für einen Spaziergang oder zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.877226,
+                        58.3871
+                  ]
+            },
+            {
+                  "name": "Gäddevattnet",
+                  "text": "Gäddevattnet ist ein See in Uddevalla, an dem Besucher die natürliche Landschaft genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        11.850175,
+                        58.386673
+                  ]
+            },
+            {
+                  "name": "Svartvattnet",
+                  "text": "Svartvattnet ist ein See in Uddevalla, der ein friedliches Plätzchen für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.831453,
+                        58.38492
+                  ]
+            },
+            {
+                  "name": "Snarvattnet",
+                  "text": "Snarvattnet ist ein See in Uddevalla, der eine ruhige Umgebung bietet, um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.89164,
+                        58.41499
+                  ]
+            },
+            {
+                  "name": "Kodesjö",
+                  "text": "Kodesjö ist ein See in Uddevalla, ideal für einen ruhigen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.039271,
+                        58.348327
+                  ]
+            },
+            {
+                  "name": "Surveln",
+                  "text": "Surveln ist ein See in Uddevalla, der Besuchern eine malerische und friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.013593,
+                        58.35532
+                  ]
+            },
+            {
+                  "name": "Runnevattnet",
+                  "text": "Runnevattnet ist ein See in Uddevalla, ideal um die ruhige Aussicht auf die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.977701,
+                        58.372659
+                  ]
+            },
+            {
+                  "name": "Mörken",
+                  "text": "Mörken ist ein See in Uddevalla, der ein ruhiges Plätzchen zur Entspannung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.878891,
+                        58.388481
+                  ]
+            },
+            {
+                  "name": "Lommern",
+                  "text": "Lommern ist ein See in Uddevalla, der eine friedliche Atmosphäre für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.955459,
+                        58.285059
+                  ]
+            },
+            {
+                  "name": "Hogsjön",
+                  "text": "Hogsjön ist ein See in Uddevalla, ideal um einen ruhigen Tag am Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.979954,
+                        58.392943
+                  ]
+            },
+            {
+                  "name": "Lilla Örevattnet",
+                  "text": "Lilla Örevattnet ist ein See in Uddevalla, der einen malerischen Ort für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.837107,
+                        58.389418
+                  ]
+            },
+            {
+                  "name": "Lilla Abboretjärnen",
+                  "text": "Lilla Abboretjärnen ist ein See in Uddevalla, der eine ruhige Umgebung in einer natürlichen Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.017004,
+                        58.379032
+                  ]
+            },
+            {
+                  "name": "Lommersjön",
+                  "text": "Lommersjön ist ein See in Uddevalla, an dem Besucher die friedliche Atmosphäre am Seeufer genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        11.996526,
+                        58.374278
+                  ]
+            },
+            {
+                  "name": "Stora Köperödssjön",
+                  "text": "Stora Köperödssjön ist ein See in Uddevalla, der eine schöne Aussicht und einen Ort zum Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.014473,
+                        58.363098
+                  ]
+            },
+            {
+                  "name": "Furuvattnet",
+                  "text": "Furuvattnet ist ein See in Uddevalla, ideal für einen ruhigen Spaziergang inmitten der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        11.878312,
+                        58.404164
+                  ]
+            },
+            {
+                  "name": "Smedvattnet",
+                  "text": "Smedvattnet ist ein See in Uddevalla, der eine ruhige Umgebung für den Genuss im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.82305,
+                        58.386244
+                  ]
+            },
+            {
+                  "name": "Liaresjön",
+                  "text": "Liaresjön ist ein See in Uddevalla, der ein friedliches Plätzchen zum Genießen der Natur und der frischen Luft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.882967,
+                        58.41309
+                  ]
+            },
+            {
+                  "name": "Karusedammen",
+                  "text": "Karusedammen ist ein See in Uddevalla, der eine ruhige Umgebung für einen Spaziergang oder zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.999847,
+                        58.287231
+                  ]
+            },
+            {
+                  "name": "Ormevattnet",
+                  "text": "Ormevattnet ist ein See in Uddevalla, an dem Besucher eine ruhige Atmosphäre erleben können.",
+                  "category": "natural",
+                  "coords": [
+                        11.870206,
+                        58.408597
+                  ]
+            },
+            {
+                  "name": "Stora Kölnevattnet",
+                  "text": "Stora Kölnevattnet ist ein See in Uddevalla, der eine malerische Aussicht auf die umgebende Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.852146,
+                        58.402451
+                  ]
+            },
+            {
+                  "name": "Blyvattnet",
+                  "text": "Blyvattnet ist ein See in Uddevalla, ideal für einen friedlichen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        11.830811,
+                        58.388251
+                  ]
+            },
+            {
+                  "name": "Timmerskiten",
+                  "text": "Timmerskiten ist ein See in Uddevalla, der ein ruhiges Plätzchen bietet, um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        11.86244,
+                        58.407123
+                  ]
+            },
+            {
+                  "name": "Klaren",
+                  "text": "Klaren ist ein See in Uddevalla, der eine ruhige Umgebung für Outdoor-Aktivitäten und Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.879125,
+                        58.390364
+                  ]
+            },
+            {
+                  "name": "Skräppen",
+                  "text": "Skräppen ist ein See in Uddevalla, an dem man eine friedliche Umgebung in der Natur genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        11.876575,
+                        58.393176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundegäddevattnet",
+                  "text": "A Hundegäddevattnet egy tó Uddevalla városában, amely tökéletes a nyugodt vízparti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.861194,
+                        58.396498
+                  ]
+            },
+            {
+                  "name": "Limsjön",
+                  "text": "A Limsjön egy tó Uddevalla városában, amely nyugodt környezetet kínál sétához vagy kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.877226,
+                        58.3871
+                  ]
+            },
+            {
+                  "name": "Gäddevattnet",
+                  "text": "A Gäddevattnet egy tó Uddevalla városában, ahol a látogatók élvezhetik a természetes tájat.",
+                  "category": "natural",
+                  "coords": [
+                        11.850175,
+                        58.386673
+                  ]
+            },
+            {
+                  "name": "Svartvattnet",
+                  "text": "A Svartvattnet egy tó Uddevalla városában, amely nyugodt helyet kínál egy természetjáró sétához.",
+                  "category": "natural",
+                  "coords": [
+                        11.831453,
+                        58.38492
+                  ]
+            },
+            {
+                  "name": "Snarvattnet",
+                  "text": "A Snarvattnet egy tó Uddevalla városában, amely nyugodt környezetet biztosít a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.89164,
+                        58.41499
+                  ]
+            },
+            {
+                  "name": "Kodesjö",
+                  "text": "A Kodesjö egy tó Uddevalla városában, amely tökéletes egy csendes vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        12.039271,
+                        58.348327
+                  ]
+            },
+            {
+                  "name": "Surveln",
+                  "text": "A Surveln egy tó Uddevalla városában, amely festői és nyugodt környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.013593,
+                        58.35532
+                  ]
+            },
+            {
+                  "name": "Runnevattnet",
+                  "text": "A Runnevattnet egy tó Uddevalla városában, amely alkalmas a természet nyugodt látványának élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.977701,
+                        58.372659
+                  ]
+            },
+            {
+                  "name": "Mörken",
+                  "text": "A Mörken egy tó Uddevalla városában, amely nyugodt helyet biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.878891,
+                        58.388481
+                  ]
+            },
+            {
+                  "name": "Lommern",
+                  "text": "A Lommern egy tó Uddevalla városában, amely nyugodt légkört kínál egy természetjáró sétához.",
+                  "category": "natural",
+                  "coords": [
+                        11.955459,
+                        58.285059
+                  ]
+            },
+            {
+                  "name": "Hogsjön",
+                  "text": "A Hogsjön egy tó Uddevalla városában, amely ideális egy nyugodt nap eltöltéséhez a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        11.979954,
+                        58.392943
+                  ]
+            },
+            {
+                  "name": "Lilla Örevattnet",
+                  "text": "A Lilla Örevattnet egy tó Uddevalla városában, amely festői helyet kínál a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        11.837107,
+                        58.389418
+                  ]
+            },
+            {
+                  "name": "Lilla Abboretjärnen",
+                  "text": "A Lilla Abboretjärnen egy tó Uddevalla városában, amely nyugodt környezetet biztosít természetes közegben.",
+                  "category": "natural",
+                  "coords": [
+                        12.017004,
+                        58.379032
+                  ]
+            },
+            {
+                  "name": "Lommersjön",
+                  "text": "A Lommersjön egy tó Uddevalla városában, ahol a látogatók élvezhetik a nyugodt vízparti légkört.",
+                  "category": "natural",
+                  "coords": [
+                        11.996526,
+                        58.374278
+                  ]
+            },
+            {
+                  "name": "Stora Köperödssjön",
+                  "text": "A Stora Köperödssjön egy tó Uddevalla városában, amely gyönyörű kilátást és kikapcsolódási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        12.014473,
+                        58.363098
+                  ]
+            },
+            {
+                  "name": "Furuvattnet",
+                  "text": "A Furuvattnet egy tó Uddevalla városában, amely tökéletes egy csendes sétához a helyi tájon.",
+                  "category": "natural",
+                  "coords": [
+                        11.878312,
+                        58.404164
+                  ]
+            },
+            {
+                  "name": "Smedvattnet",
+                  "text": "A Smedvattnet egy tó Uddevalla városában, amely nyugodt környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.82305,
+                        58.386244
+                  ]
+            },
+            {
+                  "name": "Liaresjön",
+                  "text": "A Liaresjön egy tó Uddevalla városában, amely nyugodt helyet kínál a természet és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.882967,
+                        58.41309
+                  ]
+            },
+            {
+                  "name": "Karusedammen",
+                  "text": "A Karusedammen egy tó Uddevalla városában, amely nyugodt környezetet biztosít a sétához vagy kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.999847,
+                        58.287231
+                  ]
+            },
+            {
+                  "name": "Ormevattnet",
+                  "text": "Az Ormevattnet egy tó Uddevalla városában, ahol a látogatók nyugodt légkört tapasztalhatnak meg.",
+                  "category": "natural",
+                  "coords": [
+                        11.870206,
+                        58.408597
+                  ]
+            },
+            {
+                  "name": "Stora Kölnevattnet",
+                  "text": "A Stora Kölnevattnet egy tó Uddevalla városában, amely festői kilátást nyújt a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        11.852146,
+                        58.402451
+                  ]
+            },
+            {
+                  "name": "Blyvattnet",
+                  "text": "A Blyvattnet egy tó Uddevalla városában, amely ideális egy békés vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        11.830811,
+                        58.388251
+                  ]
+            },
+            {
+                  "name": "Timmerskiten",
+                  "text": "A Timmerskiten egy tó Uddevalla városában, amely nyugodt helyet kínál a helyi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        11.86244,
+                        58.407123
+                  ]
+            },
+            {
+                  "name": "Klaren",
+                  "text": "A Klaren egy tó Uddevalla városában, amely nyugodt környezetet biztosít a szabadtéri tevékenységekhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.879125,
+                        58.390364
+                  ]
+            },
+            {
+                  "name": "Skräppen",
+                  "text": "A Skräppen egy tó Uddevalla városában, ahol békés környezetben élvezheti a természetet.",
+                  "category": "natural",
+                  "coords": [
+                        11.876575,
+                        58.393176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundegäddevattnet",
+                  "text": "Hundegäddevattnet este un lac în Uddevalla, perfect pentru a te bucura de peisajul liniștit de pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        11.861194,
+                        58.396498
+                  ]
+            },
+            {
+                  "name": "Limsjön",
+                  "text": "Limsjön este un lac în Uddevalla, oferind un mediu liniștit pentru o plimbare sau relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        11.877226,
+                        58.3871
+                  ]
+            },
+            {
+                  "name": "Gäddevattnet",
+                  "text": "Gäddevattnet este un lac în Uddevalla, unde vizitatorii se pot bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        11.850175,
+                        58.386673
+                  ]
+            },
+            {
+                  "name": "Svartvattnet",
+                  "text": "Svartvattnet este un lac în Uddevalla, oferind un loc liniștit pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.831453,
+                        58.38492
+                  ]
+            },
+            {
+                  "name": "Snarvattnet",
+                  "text": "Snarvattnet este un lac în Uddevalla, oferind un cadru liniștit pentru a te bucura de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        11.89164,
+                        58.41499
+                  ]
+            },
+            {
+                  "name": "Kodesjö",
+                  "text": "Kodesjö este un lac în Uddevalla, perfect pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.039271,
+                        58.348327
+                  ]
+            },
+            {
+                  "name": "Surveln",
+                  "text": "Surveln este un lac în Uddevalla, oferind un mediu pitoresc și liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        12.013593,
+                        58.35532
+                  ]
+            },
+            {
+                  "name": "Runnevattnet",
+                  "text": "Runnevattnet este un lac în Uddevalla, potrivit pentru a te bucura de vederea senină a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        11.977701,
+                        58.372659
+                  ]
+            },
+            {
+                  "name": "Mörken",
+                  "text": "Mörken este un lac în Uddevalla, oferind un loc liniștit pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.878891,
+                        58.388481
+                  ]
+            },
+            {
+                  "name": "Lommern",
+                  "text": "Lommern este un lac în Uddevalla, oferind o atmosferă liniștită pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.955459,
+                        58.285059
+                  ]
+            },
+            {
+                  "name": "Hogsjön",
+                  "text": "Hogsjön este un lac în Uddevalla, ideal pentru a te bucura de o zi liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.979954,
+                        58.392943
+                  ]
+            },
+            {
+                  "name": "Lilla Örevattnet",
+                  "text": "Lilla Örevattnet este un lac în Uddevalla, oferind un loc pitoresc pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        11.837107,
+                        58.389418
+                  ]
+            },
+            {
+                  "name": "Lilla Abboretjärnen",
+                  "text": "Lilla Abboretjärnen este un lac în Uddevalla, oferind un cadru liniștit într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        12.017004,
+                        58.379032
+                  ]
+            },
+            {
+                  "name": "Lommersjön",
+                  "text": "Lommersjön este un lac în Uddevalla, unde vizitatorii se pot bucura de atmosfera liniștită de pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        11.996526,
+                        58.374278
+                  ]
+            },
+            {
+                  "name": "Stora Köperödssjön",
+                  "text": "Stora Köperödssjön este un lac în Uddevalla, oferind vederi frumoase și un loc de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.014473,
+                        58.363098
+                  ]
+            },
+            {
+                  "name": "Furuvattnet",
+                  "text": "Furuvattnet este un lac în Uddevalla, perfect pentru o plimbare liniștită în mijlocul peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        11.878312,
+                        58.404164
+                  ]
+            },
+            {
+                  "name": "Smedvattnet",
+                  "text": "Smedvattnet este un lac în Uddevalla, oferind un mediu liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        11.82305,
+                        58.386244
+                  ]
+            },
+            {
+                  "name": "Liaresjön",
+                  "text": "Liaresjön este un lac în Uddevalla, oferind un loc liniștit pentru a te bucura de natură și aer curat.",
+                  "category": "natural",
+                  "coords": [
+                        11.882967,
+                        58.41309
+                  ]
+            },
+            {
+                  "name": "Karusedammen",
+                  "text": "Karusedammen este un lac în Uddevalla, oferind un mediu liniștit pentru o plimbare sau relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        11.999847,
+                        58.287231
+                  ]
+            },
+            {
+                  "name": "Ormevattnet",
+                  "text": "Ormevattnet este un lac în Uddevalla, unde vizitatorii pot experimenta o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        11.870206,
+                        58.408597
+                  ]
+            },
+            {
+                  "name": "Stora Kölnevattnet",
+                  "text": "Stora Kölnevattnet este un lac în Uddevalla, oferind vederi pitorești ale naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        11.852146,
+                        58.402451
+                  ]
+            },
+            {
+                  "name": "Blyvattnet",
+                  "text": "Blyvattnet este un lac în Uddevalla, ideal pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.830811,
+                        58.388251
+                  ]
+            },
+            {
+                  "name": "Timmerskiten",
+                  "text": "Timmerskiten este un lac în Uddevalla, oferind un loc liniștit pentru a te bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        11.86244,
+                        58.407123
+                  ]
+            },
+            {
+                  "name": "Klaren",
+                  "text": "Klaren este un lac în Uddevalla, oferind un cadru liniștit pentru activități în aer liber și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        11.879125,
+                        58.390364
+                  ]
+            },
+            {
+                  "name": "Skräppen",
+                  "text": "Skräppen este un lac în Uddevalla, unde se poate bucura de un mediu liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.876575,
+                        58.393176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundegäddevattnet",
+                  "text": "Hundegäddevattnet is a lake in Uddevalla, perfect for enjoying the quiet lakeside scenery.",
+                  "category": "natural",
+                  "coords": [
+                        11.861194,
+                        58.396498
+                  ]
+            },
+            {
+                  "name": "Limsjön",
+                  "text": "Limsjön is a lake in Uddevalla offering a calm environment for a walk or relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        11.877226,
+                        58.3871
+                  ]
+            },
+            {
+                  "name": "Gäddevattnet",
+                  "text": "Gäddevattnet is a lake in Uddevalla where visitors can enjoy the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.850175,
+                        58.386673
+                  ]
+            },
+            {
+                  "name": "Svartvattnet",
+                  "text": "Svartvattnet is a lake in Uddevalla, providing a peaceful spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.831453,
+                        58.38492
+                  ]
+            },
+            {
+                  "name": "Snarvattnet",
+                  "text": "Snarvattnet is a lake in Uddevalla offering a calm setting for enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        11.89164,
+                        58.41499
+                  ]
+            },
+            {
+                  "name": "Kodesjö",
+                  "text": "Kodesjö is a lake in Uddevalla, perfect for a quiet walk along the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.039271,
+                        58.348327
+                  ]
+            },
+            {
+                  "name": "Surveln",
+                  "text": "Surveln is a lake in Uddevalla offering a scenic and peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        12.013593,
+                        58.35532
+                  ]
+            },
+            {
+                  "name": "Runnevattnet",
+                  "text": "Runnevattnet is a lake in Uddevalla, suitable for enjoying the serene views of nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.977701,
+                        58.372659
+                  ]
+            },
+            {
+                  "name": "Mörken",
+                  "text": "Mörken is a lake in Uddevalla providing a quiet spot for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.878891,
+                        58.388481
+                  ]
+            },
+            {
+                  "name": "Lommern",
+                  "text": "Lommern is a lake in Uddevalla, offering a peaceful atmosphere for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.955459,
+                        58.285059
+                  ]
+            },
+            {
+                  "name": "Hogsjön",
+                  "text": "Hogsjön is a lake in Uddevalla, ideal for enjoying a calm day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.979954,
+                        58.392943
+                  ]
+            },
+            {
+                  "name": "Lilla Örevattnet",
+                  "text": "Lilla Örevattnet is a lake in Uddevalla providing a scenic spot for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        11.837107,
+                        58.389418
+                  ]
+            },
+            {
+                  "name": "Lilla Abboretjärnen",
+                  "text": "Lilla Abboretjärnen is a lake in Uddevalla offering a quiet setting in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        12.017004,
+                        58.379032
+                  ]
+            },
+            {
+                  "name": "Lommersjön",
+                  "text": "Lommersjön is a lake in Uddevalla where visitors can enjoy the peaceful lakeside atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        11.996526,
+                        58.374278
+                  ]
+            },
+            {
+                  "name": "Stora Köperödssjön",
+                  "text": "Stora Köperödssjön is a lake in Uddevalla, offering beautiful views and a spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.014473,
+                        58.363098
+                  ]
+            },
+            {
+                  "name": "Furuvattnet",
+                  "text": "Furuvattnet is a lake in Uddevalla, perfect for a quiet walk amidst the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.878312,
+                        58.404164
+                  ]
+            },
+            {
+                  "name": "Smedvattnet",
+                  "text": "Smedvattnet is a lake in Uddevalla offering a calm environment for outdoor enjoyment.",
+                  "category": "natural",
+                  "coords": [
+                        11.82305,
+                        58.386244
+                  ]
+            },
+            {
+                  "name": "Liaresjön",
+                  "text": "Liaresjön is a lake in Uddevalla, providing a peaceful spot for enjoying nature and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        11.882967,
+                        58.41309
+                  ]
+            },
+            {
+                  "name": "Karusedammen",
+                  "text": "Karusedammen is a lake in Uddevalla, offering a quiet environment for a walk or relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        11.999847,
+                        58.287231
+                  ]
+            },
+            {
+                  "name": "Ormevattnet",
+                  "text": "Ormevattnet is a lake in Uddevalla where visitors can experience a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        11.870206,
+                        58.408597
+                  ]
+            },
+            {
+                  "name": "Stora Kölnevattnet",
+                  "text": "Stora Kölnevattnet is a lake in Uddevalla providing scenic views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.852146,
+                        58.402451
+                  ]
+            },
+            {
+                  "name": "Blyvattnet",
+                  "text": "Blyvattnet is a lake in Uddevalla, ideal for a peaceful stroll along the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.830811,
+                        58.388251
+                  ]
+            },
+            {
+                  "name": "Timmerskiten",
+                  "text": "Timmerskiten is a lake in Uddevalla offering a quiet spot to enjoy the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        11.86244,
+                        58.407123
+                  ]
+            },
+            {
+                  "name": "Klaren",
+                  "text": "Klaren is a lake in Uddevalla, providing a calm setting for outdoor activities and walks.",
+                  "category": "natural",
+                  "coords": [
+                        11.879125,
+                        58.390364
+                  ]
+            },
+            {
+                  "name": "Skräppen",
+                  "text": "Skräppen is a lake in Uddevalla where one can enjoy a peaceful environment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.876575,
+                        58.393176
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Uddevalla", hu: "Uddevalla", ro: "Uddevalla", en: "Uddevalla"},
@@ -10333,6 +15535,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.250648,
                         57.12496
                   ]
+            },
+            {
+                  "name": "Burggraben",
+                  "text": "Vallgraven ist ein See in Varberg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.241846,
+                        57.10646
+                  ]
+            },
+            {
+                  "name": "Vita havet",
+                  "text": "Vita havet ist ein See in Varberg, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.266781,
+                        57.119422
+                  ]
+            },
+            {
+                  "name": "Vita dammen",
+                  "text": "Vita dammen ist ein See in Varberg, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.288181,
+                        57.107147
+                  ]
+            },
+            {
+                  "name": "Ageflo",
+                  "text": "Ageflo ist ein See in Varberg, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.267738,
+                        57.172259
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen ist ein See in Varberg, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.256312,
+                        57.166392
+                  ]
+            },
+            {
+                  "name": "Rottemossen",
+                  "text": "Rottemossen ist ein See in Varberg, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.288139,
+                        57.147494
+                  ]
+            },
+            {
+                  "name": "Söderhöjds Lekplats",
+                  "text": "Söderhöjds Lekplats ist ein Spielplatz in Varberg, der zum Spielen für Kinder einlädt.",
+                  "category": "family",
+                  "coords": [
+                        12.264708,
+                        57.091641
+                  ]
+            },
+            {
+                  "name": "Gillestugan",
+                  "text": "Gillestugan ist eine Minigolfanlage in Varberg, die Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.252733,
+                        57.085484
+                  ]
+            },
+            {
+                  "name": "Societetetsparkens Bangolf",
+                  "text": "Societetetsparkens Bangolf ist eine Minigolfanlage in Varberg, die Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.243371,
+                        57.107731
+                  ]
+            },
+            {
+                  "name": "Prins Julians lekplats",
+                  "text": "Prins Julians lekplats ist ein Spielplatz in Varberg, der zum Spielen für Kinder einlädt.",
+                  "category": "family",
+                  "coords": [
+                        12.253307,
+                        57.126812
+                  ]
             }
       ],
       "hu": [
@@ -10469,6 +15761,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.250648,
                         57.12496
+                  ]
+            },
+            {
+                  "name": "Vallgraven",
+                  "text": "A Vallgraven egy tó Varberg területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.241846,
+                        57.10646
+                  ]
+            },
+            {
+                  "name": "Vita havet",
+                  "text": "A Vita havet egy tó Varberg területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.266781,
+                        57.119422
+                  ]
+            },
+            {
+                  "name": "Vita dammen",
+                  "text": "A Vita dammen egy tó Varberg területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.288181,
+                        57.107147
+                  ]
+            },
+            {
+                  "name": "Ageflo",
+                  "text": "Az Ageflo egy tó Varberg területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.267738,
+                        57.172259
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "A Fågeldammen egy tó Varberg területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.256312,
+                        57.166392
+                  ]
+            },
+            {
+                  "name": "Rottemossen",
+                  "text": "A Rottemossen egy tó Varberg területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.288139,
+                        57.147494
+                  ]
+            },
+            {
+                  "name": "Söderhöjds Lekplats",
+                  "text": "A Söderhöjds Lekplats egy játszótér Varberg területén, amelyet gyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        12.264708,
+                        57.091641
+                  ]
+            },
+            {
+                  "name": "Gillestugan",
+                  "text": "A Gillestugan egy minigolfpálya Varberg területén, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.252733,
+                        57.085484
+                  ]
+            },
+            {
+                  "name": "Societetetsparkens Bangolf",
+                  "text": "A Societetetsparkens Bangolf egy minigolfpálya Varberg területén, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.243371,
+                        57.107731
+                  ]
+            },
+            {
+                  "name": "Prins Julians lekplats",
+                  "text": "A Prins Julians lekplats egy játszótér Varberg területén, amelyet gyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        12.253307,
+                        57.126812
                   ]
             }
       ],
@@ -10607,6 +15989,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.250648,
                         57.12496
                   ]
+            },
+            {
+                  "name": "Vallgraven",
+                  "text": "Vallgraven este un lac în Varberg, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.241846,
+                        57.10646
+                  ]
+            },
+            {
+                  "name": "Vita havet",
+                  "text": "Vita havet este un lac din Varberg înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.266781,
+                        57.119422
+                  ]
+            },
+            {
+                  "name": "Vita dammen",
+                  "text": "Vita dammen este un lac din Varberg înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.288181,
+                        57.107147
+                  ]
+            },
+            {
+                  "name": "Ageflo",
+                  "text": "Ageflo este un lac din Varberg înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.267738,
+                        57.172259
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen este un lac din Varberg înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.256312,
+                        57.166392
+                  ]
+            },
+            {
+                  "name": "Rottemossen",
+                  "text": "Rottemossen este un lac din Varberg înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.288139,
+                        57.147494
+                  ]
+            },
+            {
+                  "name": "Söderhöjds Lekplats",
+                  "text": "Söderhöjds Lekplats este un loc de joacă din Varberg conceput pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.264708,
+                        57.091641
+                  ]
+            },
+            {
+                  "name": "Gillestugan",
+                  "text": "Gillestugan este un teren de minigolf din Varberg care oferă distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.252733,
+                        57.085484
+                  ]
+            },
+            {
+                  "name": "Societetetsparkens Bangolf",
+                  "text": "Societetetsparkens Bangolf este un teren de minigolf din Varberg care oferă distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.243371,
+                        57.107731
+                  ]
+            },
+            {
+                  "name": "Prins Julians lekplats",
+                  "text": "Prins Julians lekplats este un loc de joacă din Varberg conceput pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.253307,
+                        57.126812
+                  ]
             }
       ],
       "en": [
@@ -10744,6 +16216,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.250648,
                         57.12496
                   ]
+            },
+            {
+                  "name": "Vallgraven",
+                  "text": "Vallgraven is a lake in Varberg suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.241846,
+                        57.10646
+                  ]
+            },
+            {
+                  "name": "Vita havet",
+                  "text": "Vita havet is a lake in Varberg surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.266781,
+                        57.119422
+                  ]
+            },
+            {
+                  "name": "Vita dammen",
+                  "text": "Vita dammen is a lake in Varberg surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.288181,
+                        57.107147
+                  ]
+            },
+            {
+                  "name": "Ageflo",
+                  "text": "Ageflo is a lake in Varberg surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.267738,
+                        57.172259
+                  ]
+            },
+            {
+                  "name": "Fågeldammen",
+                  "text": "Fågeldammen is a lake in Varberg surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.256312,
+                        57.166392
+                  ]
+            },
+            {
+                  "name": "Rottemossen",
+                  "text": "Rottemossen is a lake in Varberg surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.288139,
+                        57.147494
+                  ]
+            },
+            {
+                  "name": "Söderhöjds Lekplats",
+                  "text": "Söderhöjds Lekplats is a playground in Varberg designed for children's play.",
+                  "category": "family",
+                  "coords": [
+                        12.264708,
+                        57.091641
+                  ]
+            },
+            {
+                  "name": "Gillestugan",
+                  "text": "Gillestugan is a miniature golf course in Varberg offering family fun.",
+                  "category": "family",
+                  "coords": [
+                        12.252733,
+                        57.085484
+                  ]
+            },
+            {
+                  "name": "Societetetsparkens Bangolf",
+                  "text": "Societetetsparkens Bangolf is a miniature golf course in Varberg offering family fun.",
+                  "category": "family",
+                  "coords": [
+                        12.243371,
+                        57.107731
+                  ]
+            },
+            {
+                  "name": "Prins Julians lekplats",
+                  "text": "Prins Julians lekplats is a playground in Varberg designed for children's play.",
+                  "category": "family",
+                  "coords": [
+                        12.253307,
+                        57.126812
+                  ]
             }
       ]
 },
@@ -10875,6 +16437,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.150643,
                         55.376144
                   ]
+            },
+            {
+                  "name": "Hatlemossen",
+                  "text": "Der Hatlemossen ist ein ruhiger kleiner See in Trelleborg, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        13.128892,
+                        55.443866
+                  ]
+            },
+            {
+                  "name": "Ysle mosse",
+                  "text": "Der Ysle mosse in Trelleborg ist ein naturbelassenes Gewässer in einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        13.118849,
+                        55.422249
+                  ]
+            },
+            {
+                  "name": "Flaningen",
+                  "text": "Der Flaningen ist ein kleiner See in Trelleborg, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.132053,
+                        55.37773
+                  ]
+            },
+            {
+                  "name": "Åmossarna",
+                  "text": "Die Åmossarna in Trelleborg bieten eine ruhige Wasserlandschaft für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        13.160282,
+                        55.434874
+                  ]
+            },
+            {
+                  "name": "Kattebäcks Lekplats",
+                  "text": "Die Kattebäcks Lekplatz ist ein schöner Spielplatz in Trelleborg für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        13.142753,
+                        55.377748
+                  ]
             }
       ],
       "hu": [
@@ -10957,6 +16564,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.150643,
                         55.376144
+                  ]
+            },
+            {
+                  "name": "Hatlemossen",
+                  "text": "A Hatlemossen egy csendes kis tó Trelleborgban, ideális egy természeti pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        13.128892,
+                        55.443866
+                  ]
+            },
+            {
+                  "name": "Ysle mosse",
+                  "text": "A trelleborgi Ysle mosse egy érintetlen vízfelület nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.118849,
+                        55.422249
+                  ]
+            },
+            {
+                  "name": "Flaningen",
+                  "text": "A Flaningen egy kis tó Trelleborgban, amely kiválóan alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        13.132053,
+                        55.37773
+                  ]
+            },
+            {
+                  "name": "Åmossarna",
+                  "text": "A trelleborgi Åmossarna nyugodt vízparti tájat kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.160282,
+                        55.434874
+                  ]
+            },
+            {
+                  "name": "Kattebäcks Lekplats",
+                  "text": "A Kattebäcks Lekplats egy szép játszótér Trelleborgban minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        13.142753,
+                        55.377748
                   ]
             }
       ],
@@ -11041,6 +16693,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.150643,
                         55.376144
                   ]
+            },
+            {
+                  "name": "Hatlemossen",
+                  "text": "Hatlemossen este un lac mic și liniștit din Trelleborg, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.128892,
+                        55.443866
+                  ]
+            },
+            {
+                  "name": "Ysle mosse",
+                  "text": "Ysle mosse din Trelleborg este un corp de apă natural într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        13.118849,
+                        55.422249
+                  ]
+            },
+            {
+                  "name": "Flaningen",
+                  "text": "Flaningen este un lac mic din Trelleborg, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        13.132053,
+                        55.37773
+                  ]
+            },
+            {
+                  "name": "Åmossarna",
+                  "text": "Åmossarna din Trelleborg oferă un peisaj acvatic liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.160282,
+                        55.434874
+                  ]
+            },
+            {
+                  "name": "Kattebäcks Lekplats",
+                  "text": "Kattebäcks Lekplats este un loc de joacă frumos din Trelleborg pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        13.142753,
+                        55.377748
+                  ]
             }
       ],
       "en": [
@@ -11123,6 +16820,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.150643,
                         55.376144
+                  ]
+            },
+            {
+                  "name": "Hatlemossen",
+                  "text": "Hatlemossen is a quiet small lake in Trelleborg, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.128892,
+                        55.443866
+                  ]
+            },
+            {
+                  "name": "Ysle mosse",
+                  "text": "Ysle mosse in Trelleborg is a natural body of water in a peaceful setting.",
+                  "category": "natural",
+                  "coords": [
+                        13.118849,
+                        55.422249
+                  ]
+            },
+            {
+                  "name": "Flaningen",
+                  "text": "Flaningen is a small lake in Trelleborg, well-suited for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        13.132053,
+                        55.37773
+                  ]
+            },
+            {
+                  "name": "Åmossarna",
+                  "text": "Åmossarna in Trelleborg offer a peaceful waterscape for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        13.160282,
+                        55.434874
+                  ]
+            },
+            {
+                  "name": "Kattebäcks Lekplats",
+                  "text": "Kattebäcks Lekplats is a lovely playground in Trelleborg for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        13.142753,
+                        55.377748
                   ]
             }
       ]
@@ -12305,6 +18047,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.4836,
                         65.318367
                   ]
+            },
+            {
+                  "name": "Avan",
+                  "text": "Der Avan in Piteå ist ein ruhiger See, der sich ideal für entspannte Momente am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.433323,
+                        65.272331
+                  ]
+            },
+            {
+                  "name": "Bullerviken",
+                  "text": "Der Bullerviken bietet eine malerische Umgebung in Piteå für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.39118,
+                        65.314088
+                  ]
+            },
+            {
+                  "name": "Stor-Djupviken",
+                  "text": "Der Stor-Djupviken ist ein schönes Gewässer bei Piteå, ideal für Erholung und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        21.376257,
+                        65.320286
+                  ]
+            },
+            {
+                  "name": "Lomtjärn",
+                  "text": "Der Lomtjärn in Piteå ist ein kleiner, friedlicher See inmitten einer grünen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        21.432377,
+                        65.324659
+                  ]
+            },
+            {
+                  "name": "Aborrtjärnen",
+                  "text": "Der Aborrtjärnen bietet Besuchern in Piteå eine ruhige Kulisse für entspannte Stunden am See.",
+                  "category": "natural",
+                  "coords": [
+                        21.316986,
+                        65.290412
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Der Höträsket ist ein naturnaher See bei Piteå, der zum Wandern und Entdecken einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.39037,
+                        65.271722
+                  ]
+            },
+            {
+                  "name": "Ängesviken",
+                  "text": "Der Ängesviken in Piteå ist ein malerischer Ort am Wasser für ruhige Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        21.351763,
+                        65.306982
+                  ]
+            },
+            {
+                  "name": "Aronstjärnen",
+                  "text": "Der Aronstjärnen ist ein friedlicher See in Piteå, ideal für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        21.387232,
+                        65.320012
+                  ]
+            },
+            {
+                  "name": "Klösviken",
+                  "text": "Der Klösviken bietet eine schöne Naturkulisse in Piteå für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        21.383333,
+                        65.319956
+                  ]
+            },
+            {
+                  "name": "Lill-Djupviken",
+                  "text": "Der Lill-Djupviken ist ein ruhiges Gewässer bei Piteå, das zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.379708,
+                        65.321382
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Der Igeltjärnen in Piteå ist ein kleiner See, der eine friedliche Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.330263,
+                        65.28826
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Der Lillsjön in Piteå ist ein idyllischer See, der sich gut für kurze Wanderungen in der Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.585896,
+                        65.289691
+                  ]
+            },
+            {
+                  "name": "Ogeltjärnen",
+                  "text": "Der Ogeltjärnen ist ein naturbelassener See bei Piteå, der Ruhe und Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.554493,
+                        65.312089
+                  ]
+            },
+            {
+                  "name": "Ökvistviken",
+                  "text": "Der Ökvistviken bietet in Piteå eine reizvolle Kulisse für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        21.571725,
+                        65.3194
+                  ]
+            },
+            {
+                  "name": "Furuholmstjärnen",
+                  "text": "Der Furuholmstjärnen ist ein kleiner See in Piteå, ideal für einen ruhigen Moment im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        21.374783,
+                        65.325126
+                  ]
+            },
+            {
+                  "name": "Halssjön",
+                  "text": "Der Halssjön bei Piteå ist ein schönes Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.573956,
+                        65.286127
+                  ]
+            },
+            {
+                  "name": "Ringiusviken",
+                  "text": "Der Ringiusviken in Piteå bietet eine friedliche Atmosphäre für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        21.512362,
+                        65.304571
+                  ]
+            },
+            {
+                  "name": "Grundviken",
+                  "text": "Der Grundviken ist ein ruhig gelegener See bei Piteå, ideal für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        21.459298,
+                        65.259902
+                  ]
+            },
+            {
+                  "name": "Lill-Sandholmsviken",
+                  "text": "Der Lill-Sandholmsviken bietet eine malerische Wasserlandschaft in der Umgebung von Piteå.",
+                  "category": "natural",
+                  "coords": [
+                        21.604778,
+                        65.30833
+                  ]
+            },
+            {
+                  "name": "Djurmanbodtjärnen",
+                  "text": "Der Djurmanbodtjärnen ist ein abgeschiedener See bei Piteå, der Ruhe und Stille bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.579153,
+                        65.271958
+                  ]
+            },
+            {
+                  "name": "Hedtjärn",
+                  "text": "Der Hedtjärn in Piteå lädt zu erholsamen Spaziergängen in einer natürlichen Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        21.574469,
+                        65.282229
+                  ]
+            },
+            {
+                  "name": "Bramsträsket",
+                  "text": "Der Bramsträsket ist ein schöner See bei Piteå, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        21.445363,
+                        65.367025
+                  ]
+            },
+            {
+                  "name": "Getviken",
+                  "text": "Der Getviken bietet Besuchern in Piteå einen friedlichen Ort für eine Pause am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        21.441444,
+                        65.353937
+                  ]
+            },
+            {
+                  "name": "Pullskäret",
+                  "text": "Der Pullskäret ist ein interessantes Gewässer bei Piteå, das zum Entdecken einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.484887,
+                        65.367792
+                  ]
+            },
+            {
+                  "name": "Tojavan",
+                  "text": "Der Tojavan in Piteå ist ein ruhig gelegener See, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.446976,
+                        65.371762
+                  ]
             }
       ],
       "hu": [
@@ -12369,6 +18336,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         21.4836,
                         65.318367
+                  ]
+            },
+            {
+                  "name": "Avan",
+                  "text": "A Piteåban található Avan egy csendes tó, amely ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.433323,
+                        65.272331
+                  ]
+            },
+            {
+                  "name": "Bullerviken",
+                  "text": "A Bullerviken festői környezetet biztosít Piteåban a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.39118,
+                        65.314088
+                  ]
+            },
+            {
+                  "name": "Stor-Djupviken",
+                  "text": "A Stor-Djupviken egy szép vízfelület Piteå közelében, ideális pihenésre és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        21.376257,
+                        65.320286
+                  ]
+            },
+            {
+                  "name": "Lomtjärn",
+                  "text": "A piteåi Lomtjärn egy kicsi, békés tó zöld táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        21.432377,
+                        65.324659
+                  ]
+            },
+            {
+                  "name": "Aborrtjärnen",
+                  "text": "Az Aborrtjärnen nyugodt környezetet biztosít a látogatóknak Piteåban a tónál töltött pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.316986,
+                        65.290412
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "A Höträsket egy természetközeli tó Piteå közelében, amely túrázásra és felfedezésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        21.39037,
+                        65.271722
+                  ]
+            },
+            {
+                  "name": "Ängesviken",
+                  "text": "A piteåi Ängesviken egy festői hely a vízparton a csendes megfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.351763,
+                        65.306982
+                  ]
+            },
+            {
+                  "name": "Aronstjärnen",
+                  "text": "Az Aronstjärnen egy békés tó Piteåban, ideális egy kis szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        21.387232,
+                        65.320012
+                  ]
+            },
+            {
+                  "name": "Klösviken",
+                  "text": "A Klösviken szép természeti környezetet biztosít Piteåban a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.383333,
+                        65.319956
+                  ]
+            },
+            {
+                  "name": "Lill-Djupviken",
+                  "text": "A Lill-Djupviken egy csendes vízfelület Piteå közelében, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.379708,
+                        65.321382
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "A piteåi Igeltjärnen egy kis tó, amely nyugodt környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        21.330263,
+                        65.28826
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A piteåi Lillsjön egy idilli tó, amely kiválóan alkalmas rövid környékbeli túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        21.585896,
+                        65.289691
+                  ]
+            },
+            {
+                  "name": "Ogeltjärnen",
+                  "text": "Az Ogeltjärnen egy érintetlen tó Piteå közelében, amely nyugalmat és pihenést nyújt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        21.554493,
+                        65.312089
+                  ]
+            },
+            {
+                  "name": "Ökvistviken",
+                  "text": "Az Ökvistviken Piteåban vonzó környezetet biztosít a sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.571725,
+                        65.3194
+                  ]
+            },
+            {
+                  "name": "Furuholmstjärnen",
+                  "text": "A Furuholmstjärnen egy kis tó Piteåban, ideális egy csendes pillanatra a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        21.374783,
+                        65.325126
+                  ]
+            },
+            {
+                  "name": "Halssjön",
+                  "text": "A Piteå közeli Halssjön egy szép vízfelület, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.573956,
+                        65.286127
+                  ]
+            },
+            {
+                  "name": "Ringiusviken",
+                  "text": "A piteåi Ringiusviken békés légkört biztosít a vízparton töltött pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        21.512362,
+                        65.304571
+                  ]
+            },
+            {
+                  "name": "Grundviken",
+                  "text": "A Grundviken egy csendes fekvésű tó Piteå közelében, ideális a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.459298,
+                        65.259902
+                  ]
+            },
+            {
+                  "name": "Lill-Sandholmsviken",
+                  "text": "A Lill-Sandholmsviken festői vízparti tájat kínál Piteå környékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.604778,
+                        65.30833
+                  ]
+            },
+            {
+                  "name": "Djurmanbodtjärnen",
+                  "text": "A Djurmanbodtjärnen egy eldugott tó Piteå közelében, amely nyugalmat és csendet áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        21.579153,
+                        65.271958
+                  ]
+            },
+            {
+                  "name": "Hedtjärn",
+                  "text": "A piteåi Hedtjärn pihentető sétákra hív természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.574469,
+                        65.282229
+                  ]
+            },
+            {
+                  "name": "Bramsträsket",
+                  "text": "A Bramsträsket egy szép tó Piteå közelében, ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        21.445363,
+                        65.367025
+                  ]
+            },
+            {
+                  "name": "Getviken",
+                  "text": "A Getviken békés helyet kínál a látogatóknak Piteåban egy vízparti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        21.441444,
+                        65.353937
+                  ]
+            },
+            {
+                  "name": "Pullskäret",
+                  "text": "A Pullskäret egy érdekes vízfelület Piteå közelében, amely felfedezésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        21.484887,
+                        65.367792
+                  ]
+            },
+            {
+                  "name": "Tojavan",
+                  "text": "A piteåi Tojavan egy csendes fekvésű tó, amely kiválóan alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        21.446976,
+                        65.371762
                   ]
             }
       ],
@@ -12435,6 +18627,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.4836,
                         65.318367
                   ]
+            },
+            {
+                  "name": "Avan",
+                  "text": "Avan din Piteå este un lac liniștit, ideal pentru momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.433323,
+                        65.272331
+                  ]
+            },
+            {
+                  "name": "Bullerviken",
+                  "text": "Bullerviken oferă un cadru pitoresc în Piteå pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.39118,
+                        65.314088
+                  ]
+            },
+            {
+                  "name": "Stor-Djupviken",
+                  "text": "Stor-Djupviken este un corp de apă frumos lângă Piteå, ideal pentru recreere și bucuria naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.376257,
+                        65.320286
+                  ]
+            },
+            {
+                  "name": "Lomtjärn",
+                  "text": "Lomtjärn din Piteå este un lac mic și pașnic în mijlocul unui peisaj verde.",
+                  "category": "natural",
+                  "coords": [
+                        21.432377,
+                        65.324659
+                  ]
+            },
+            {
+                  "name": "Aborrtjärnen",
+                  "text": "Aborrtjärnen oferă vizitatorilor din Piteå un cadru liniștit pentru ore relaxante la lac.",
+                  "category": "natural",
+                  "coords": [
+                        21.316986,
+                        65.290412
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Höträsket este un lac natural lângă Piteå, care invită la drumeții și explorare.",
+                  "category": "natural",
+                  "coords": [
+                        21.39037,
+                        65.271722
+                  ]
+            },
+            {
+                  "name": "Ängesviken",
+                  "text": "Ängesviken din Piteå este un loc pitoresc pe malul apei pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        21.351763,
+                        65.306982
+                  ]
+            },
+            {
+                  "name": "Aronstjärnen",
+                  "text": "Aronstjärnen este un lac liniștit în Piteå, ideal pentru o mică pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        21.387232,
+                        65.320012
+                  ]
+            },
+            {
+                  "name": "Klösviken",
+                  "text": "Klösviken oferă un cadru natural frumos în Piteå pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        21.383333,
+                        65.319956
+                  ]
+            },
+            {
+                  "name": "Lill-Djupviken",
+                  "text": "Lill-Djupviken este un corp de apă liniștit lângă Piteå, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.379708,
+                        65.321382
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen din Piteå este un lac mic care oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.330263,
+                        65.28826
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön din Piteå este un lac idilic, potrivit pentru scurte drumeții în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        21.585896,
+                        65.289691
+                  ]
+            },
+            {
+                  "name": "Ogeltjärnen",
+                  "text": "Ogeltjärnen este un lac natural lângă Piteå, care oferă liniște și recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.554493,
+                        65.312089
+                  ]
+            },
+            {
+                  "name": "Ökvistviken",
+                  "text": "Ökvistviken oferă în Piteå un cadru încântător pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.571725,
+                        65.3194
+                  ]
+            },
+            {
+                  "name": "Furuholmstjärnen",
+                  "text": "Furuholmstjärnen este un lac mic în Piteå, ideal pentru un moment de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.374783,
+                        65.325126
+                  ]
+            },
+            {
+                  "name": "Halssjön",
+                  "text": "Halssjön de lângă Piteå este un corp de apă frumos, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.573956,
+                        65.286127
+                  ]
+            },
+            {
+                  "name": "Ringiusviken",
+                  "text": "Ringiusviken din Piteå oferă o atmosferă pașnică pentru ore relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.512362,
+                        65.304571
+                  ]
+            },
+            {
+                  "name": "Grundviken",
+                  "text": "Grundviken este un lac liniștit lângă Piteå, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.459298,
+                        65.259902
+                  ]
+            },
+            {
+                  "name": "Lill-Sandholmsviken",
+                  "text": "Lill-Sandholmsviken oferă un peisaj acvatic pitoresc în zona Piteå.",
+                  "category": "natural",
+                  "coords": [
+                        21.604778,
+                        65.30833
+                  ]
+            },
+            {
+                  "name": "Djurmanbodtjärnen",
+                  "text": "Djurmanbodtjärnen este un lac izolat lângă Piteå, care oferă liniște și pace.",
+                  "category": "natural",
+                  "coords": [
+                        21.579153,
+                        65.271958
+                  ]
+            },
+            {
+                  "name": "Hedtjärn",
+                  "text": "Hedtjärn din Piteå invită la plimbări relaxante într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        21.574469,
+                        65.282229
+                  ]
+            },
+            {
+                  "name": "Bramsträsket",
+                  "text": "Bramsträsket este un lac frumos lângă Piteå, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        21.445363,
+                        65.367025
+                  ]
+            },
+            {
+                  "name": "Getviken",
+                  "text": "Getviken oferă vizitatorilor din Piteå un loc pașnic pentru o pauză pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.441444,
+                        65.353937
+                  ]
+            },
+            {
+                  "name": "Pullskäret",
+                  "text": "Pullskäret este un corp de apă interesant lângă Piteå, care invită la explorare.",
+                  "category": "natural",
+                  "coords": [
+                        21.484887,
+                        65.367792
+                  ]
+            },
+            {
+                  "name": "Tojavan",
+                  "text": "Tojavan din Piteå este un lac liniștit, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.446976,
+                        65.371762
+                  ]
             }
       ],
       "en": [
@@ -12500,6 +18917,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.4836,
                         65.318367
                   ]
+            },
+            {
+                  "name": "Avan",
+                  "text": "Avan in Piteå is a peaceful lake, ideal for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.433323,
+                        65.272331
+                  ]
+            },
+            {
+                  "name": "Bullerviken",
+                  "text": "Bullerviken offers a picturesque setting in Piteå for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.39118,
+                        65.314088
+                  ]
+            },
+            {
+                  "name": "Stor-Djupviken",
+                  "text": "Stor-Djupviken is a beautiful body of water near Piteå, ideal for recreation and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.376257,
+                        65.320286
+                  ]
+            },
+            {
+                  "name": "Lomtjärn",
+                  "text": "Lomtjärn in Piteå is a small, peaceful lake in the middle of a green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.432377,
+                        65.324659
+                  ]
+            },
+            {
+                  "name": "Aborrtjärnen",
+                  "text": "Aborrtjärnen provides visitors in Piteå with a quiet backdrop for relaxing hours by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        21.316986,
+                        65.290412
+                  ]
+            },
+            {
+                  "name": "Höträsket",
+                  "text": "Höträsket is a nature-focused lake near Piteå, inviting visitors to hike and explore.",
+                  "category": "natural",
+                  "coords": [
+                        21.39037,
+                        65.271722
+                  ]
+            },
+            {
+                  "name": "Ängesviken",
+                  "text": "Ängesviken in Piteå is a picturesque spot by the water for quiet observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.351763,
+                        65.306982
+                  ]
+            },
+            {
+                  "name": "Aronstjärnen",
+                  "text": "Aronstjärnen is a peaceful lake in Piteå, ideal for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        21.387232,
+                        65.320012
+                  ]
+            },
+            {
+                  "name": "Klösviken",
+                  "text": "Klösviken offers a beautiful natural setting in Piteå for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        21.383333,
+                        65.319956
+                  ]
+            },
+            {
+                  "name": "Lill-Djupviken",
+                  "text": "Lill-Djupviken is a quiet body of water near Piteå, inviting visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.379708,
+                        65.321382
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen in Piteå is a small lake offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        21.330263,
+                        65.28826
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön in Piteå is an idyllic lake, well-suited for short hikes in the area.",
+                  "category": "natural",
+                  "coords": [
+                        21.585896,
+                        65.289691
+                  ]
+            },
+            {
+                  "name": "Ogeltjärnen",
+                  "text": "Ogeltjärnen is a natural lake near Piteå, offering peace and recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.554493,
+                        65.312089
+                  ]
+            },
+            {
+                  "name": "Ökvistviken",
+                  "text": "Ökvistviken in Piteå offers a charming setting for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.571725,
+                        65.3194
+                  ]
+            },
+            {
+                  "name": "Furuholmstjärnen",
+                  "text": "Furuholmstjärnen is a small lake in Piteå, ideal for a quiet moment in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.374783,
+                        65.325126
+                  ]
+            },
+            {
+                  "name": "Halssjön",
+                  "text": "Halssjön near Piteå is a beautiful body of water, inviting visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.573956,
+                        65.286127
+                  ]
+            },
+            {
+                  "name": "Ringiusviken",
+                  "text": "Ringiusviken in Piteå offers a peaceful atmosphere for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.512362,
+                        65.304571
+                  ]
+            },
+            {
+                  "name": "Grundviken",
+                  "text": "Grundviken is a quietly located lake near Piteå, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        21.459298,
+                        65.259902
+                  ]
+            },
+            {
+                  "name": "Lill-Sandholmsviken",
+                  "text": "Lill-Sandholmsviken offers a picturesque waterscape in the Piteå area.",
+                  "category": "natural",
+                  "coords": [
+                        21.604778,
+                        65.30833
+                  ]
+            },
+            {
+                  "name": "Djurmanbodtjärnen",
+                  "text": "Djurmanbodtjärnen is a secluded lake near Piteå, offering peace and quiet.",
+                  "category": "natural",
+                  "coords": [
+                        21.579153,
+                        65.271958
+                  ]
+            },
+            {
+                  "name": "Hedtjärn",
+                  "text": "Hedtjärn in Piteå invites visitors for restful walks in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        21.574469,
+                        65.282229
+                  ]
+            },
+            {
+                  "name": "Bramsträsket",
+                  "text": "Bramsträsket is a beautiful lake near Piteå, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        21.445363,
+                        65.367025
+                  ]
+            },
+            {
+                  "name": "Getviken",
+                  "text": "Getviken offers visitors in Piteå a peaceful spot for a break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.441444,
+                        65.353937
+                  ]
+            },
+            {
+                  "name": "Pullskäret",
+                  "text": "Pullskäret is an interesting body of water near Piteå, inviting visitors to explore.",
+                  "category": "natural",
+                  "coords": [
+                        21.484887,
+                        65.367792
+                  ]
+            },
+            {
+                  "name": "Tojavan",
+                  "text": "Tojavan in Piteå is a quietly located lake, well-suited for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        21.446976,
+                        65.371762
+                  ]
             }
       ]
 },
@@ -12549,7 +19191,520 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-skelleftea-cities-v2",
+    id: "sweden-skelleftea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Falkträsket",
+                  "text": "Falkträsket ist ein See in Skelleftea, der einen schönen Ort zum Schwimmen oder Entspannen am Ufer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.897925,
+                        64.731775
+                  ]
+            },
+            {
+                  "name": "Djuptjärnen",
+                  "text": "Djuptjärnen ist ein See in Skelleftea, der eine ruhige Umgebung bietet, um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.954839,
+                        64.717162
+                  ]
+            },
+            {
+                  "name": "Prästfädbodtjärnen",
+                  "text": "Prästfädbodtjärnen ist ein See in Skelleftea, der malerische Ausblicke und eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.941885,
+                        64.778528
+                  ]
+            },
+            {
+                  "name": "Östra. Vitbergstjärnen",
+                  "text": "Östra Vitbergstjärnen ist ein See in Skelleftea, ideal für einen friedlichen Spaziergang in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        20.976592,
+                        64.769823
+                  ]
+            },
+            {
+                  "name": "Västra Vitbergstjärnen",
+                  "text": "Västra Vitbergstjärnen ist ein See in Skelleftea, der ein ruhiges Plätzchen zur Entspannung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.969771,
+                        64.770341
+                  ]
+            },
+            {
+                  "name": "Dödmanstjärnen",
+                  "text": "Dödmanstjärnen ist ein See in Skelleftea, der Besuchern eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.941273,
+                        64.766802
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Kroksjön ist ein See in Skelleftea, ideal um einen ruhigen Tag inmitten der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.908224,
+                        64.692117
+                  ]
+            },
+            {
+                  "name": "Skellefteå Bangolfklubb",
+                  "text": "Skellefteå Bangolfklubb ist eine Minigolfanlage in Skelleftea, die Familienunterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.970827,
+                        64.755526
+                  ]
+            },
+            {
+                  "name": "Golf & Skytteakademin",
+                  "text": "Golf & Skytteakademin ist ein Freizeitzentrum in Skelleftea, das Aktivitäten für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.973162,
+                        64.73553
+                  ]
+            },
+            {
+                  "name": "Alhems Lekpark",
+                  "text": "Alhems Lekpark ist ein Spielplatz in Skelleftea, auf dem Kinder im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        20.976322,
+                        64.758507
+                  ]
+            },
+            {
+                  "name": "Nordanå lekpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Skellefteå, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.938917,
+                        64.7487
+                  ]
+            },
+            {
+                  "name": "Ekorrvägens lekpark",
+                  "text": "Ein schöner Spielplatz in Skellefteå für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        20.914078,
+                        64.743716
+                  ]
+            },
+            {
+                  "name": "Rymdlekparken",
+                  "text": "Dieser Spielplatz in Skellefteå bietet eine tolle Umgebung für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.927609,
+                        64.741922
+                  ]
+            },
+            {
+                  "name": "Sjungande Dalens Lekpark",
+                  "text": "Ein lokaler Spielplatz in Skellefteå, ideal für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        20.92799,
+                        64.763094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falkträsket",
+                  "text": "A Falkträsket egy tó Skellefteå városában, amely szép helyet kínál úszáshoz vagy a parton való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.897925,
+                        64.731775
+                  ]
+            },
+            {
+                  "name": "Djuptjärnen",
+                  "text": "A Djuptjärnen egy tó Skellefteå városában, amely nyugodt környezetet biztosít a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.954839,
+                        64.717162
+                  ]
+            },
+            {
+                  "name": "Prästfädbodtjärnen",
+                  "text": "A Prästfädbodtjärnen egy tó Skellefteå városában, amely festői kilátást és nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.941885,
+                        64.778528
+                  ]
+            },
+            {
+                  "name": "Östra. Vitbergstjärnen",
+                  "text": "Az Östra Vitbergstjärnen egy tó Skellefteå városában, amely tökéletes egy nyugodt sétához természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.976592,
+                        64.769823
+                  ]
+            },
+            {
+                  "name": "Västra Vitbergstjärnen",
+                  "text": "A Västra Vitbergstjärnen egy tó Skellefteå városában, amely nyugodt helyet biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.969771,
+                        64.770341
+                  ]
+            },
+            {
+                  "name": "Dödmanstjärnen",
+                  "text": "A Dödmanstjärnen egy tó Skellefteå városában, amely nyugodt légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.941273,
+                        64.766802
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "A Kroksjön egy tó Skellefteå városában, amely ideális egy nyugodt nap eltöltéséhez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        20.908224,
+                        64.692117
+                  ]
+            },
+            {
+                  "name": "Skellefteå Bangolfklubb",
+                  "text": "A Skellefteå Bangolfklubb egy minigolfpálya Skellefteå városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        20.970827,
+                        64.755526
+                  ]
+            },
+            {
+                  "name": "Golf & Skytteakademin",
+                  "text": "A Golf & Skytteakademin egy szórakoztató központ Skellefteå városában, amely minden korosztálynak kínál tevékenységeket.",
+                  "category": "family",
+                  "coords": [
+                        20.973162,
+                        64.73553
+                  ]
+            },
+            {
+                  "name": "Alhems Lekpark",
+                  "text": "Az Alhems Lekpark egy játszótér Skellefteå városában, ahol a gyerekek a szabadban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        20.976322,
+                        64.758507
+                  ]
+            },
+            {
+                  "name": "Nordanå lekpark",
+                  "text": "Családbarát játszótér Skellefteå területén, amely kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.938917,
+                        64.7487
+                  ]
+            },
+            {
+                  "name": "Ekorrvägens lekpark",
+                  "text": "Szép játszótér Skellefteå városában, ahol a gyerekek szabadon játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        20.914078,
+                        64.743716
+                  ]
+            },
+            {
+                  "name": "Rymdlekparken",
+                  "text": "Ez a Skellefteå-i játszótér remek környezetet biztosít a játszani vágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.927609,
+                        64.741922
+                  ]
+            },
+            {
+                  "name": "Sjungande Dalens Lekpark",
+                  "text": "Helyi játszótér Skellefteå városában, amely ideális egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.92799,
+                        64.763094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falkträsket",
+                  "text": "Falkträsket este un lac în Skelleftea, oferind un loc frumos pentru înot sau relaxare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        20.897925,
+                        64.731775
+                  ]
+            },
+            {
+                  "name": "Djuptjärnen",
+                  "text": "Djuptjärnen este un lac în Skelleftea, oferind un mediu liniștit pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.954839,
+                        64.717162
+                  ]
+            },
+            {
+                  "name": "Prästfädbodtjärnen",
+                  "text": "Prästfädbodtjärnen este un lac în Skelleftea, oferind vederi pitorești și o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        20.941885,
+                        64.778528
+                  ]
+            },
+            {
+                  "name": "Östra. Vitbergstjärnen",
+                  "text": "Östra Vitbergstjärnen este un lac în Skelleftea, perfect pentru o plimbare liniștită într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        20.976592,
+                        64.769823
+                  ]
+            },
+            {
+                  "name": "Västra Vitbergstjärnen",
+                  "text": "Västra Vitbergstjärnen este un lac în Skelleftea, oferind un loc liniștit pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        20.969771,
+                        64.770341
+                  ]
+            },
+            {
+                  "name": "Dödmanstjärnen",
+                  "text": "Dödmanstjärnen este un lac în Skelleftea, oferind o atmosferă senină pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        20.941273,
+                        64.766802
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Kroksjön este un lac în Skelleftea, ideal pentru a te bucura de o zi liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.908224,
+                        64.692117
+                  ]
+            },
+            {
+                  "name": "Skellefteå Bangolfklubb",
+                  "text": "Skellefteå Bangolfklubb este un teren de minigolf în Skelleftea, oferind divertisment pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        20.970827,
+                        64.755526
+                  ]
+            },
+            {
+                  "name": "Golf & Skytteakademin",
+                  "text": "Golf & Skytteakademin este un centru de divertisment în Skelleftea, oferind activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        20.973162,
+                        64.73553
+                  ]
+            },
+            {
+                  "name": "Alhems Lekpark",
+                  "text": "Alhems Lekpark este un teren de joacă în Skelleftea, unde copiii se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.976322,
+                        64.758507
+                  ]
+            },
+            {
+                  "name": "Nordanå lekpark",
+                  "text": "Un loc de joacă pentru familii în Skellefteå, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.938917,
+                        64.7487
+                  ]
+            },
+            {
+                  "name": "Ekorrvägens lekpark",
+                  "text": "Un loc de joacă frumos în Skellefteå unde copiii se pot juca și pot explora.",
+                  "category": "family",
+                  "coords": [
+                        20.914078,
+                        64.743716
+                  ]
+            },
+            {
+                  "name": "Rymdlekparken",
+                  "text": "Acest loc de joacă din Skellefteå oferă un mediu plăcut pentru copiii care vor să se joace.",
+                  "category": "family",
+                  "coords": [
+                        20.927609,
+                        64.741922
+                  ]
+            },
+            {
+                  "name": "Sjungande Dalens Lekpark",
+                  "text": "Un loc de joacă local în Skellefteå, ideal pentru o ieșire cu familia și copiii.",
+                  "category": "family",
+                  "coords": [
+                        20.92799,
+                        64.763094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falkträsket",
+                  "text": "Falkträsket is a lake in Skelleftea, offering a beautiful spot for swimming or relaxing by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        20.897925,
+                        64.731775
+                  ]
+            },
+            {
+                  "name": "Djuptjärnen",
+                  "text": "Djuptjärnen is a lake in Skelleftea, providing a calm environment for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.954839,
+                        64.717162
+                  ]
+            },
+            {
+                  "name": "Prästfädbodtjärnen",
+                  "text": "Prästfädbodtjärnen is a lake in Skelleftea offering scenic views and a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        20.941885,
+                        64.778528
+                  ]
+            },
+            {
+                  "name": "Östra. Vitbergstjärnen",
+                  "text": "Östra Vitbergstjärnen is a lake in Skelleftea, perfect for a peaceful walk in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        20.976592,
+                        64.769823
+                  ]
+            },
+            {
+                  "name": "Västra Vitbergstjärnen",
+                  "text": "Västra Vitbergstjärnen is a lake in Skelleftea offering a calm spot for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        20.969771,
+                        64.770341
+                  ]
+            },
+            {
+                  "name": "Dödmanstjärnen",
+                  "text": "Dödmanstjärnen is a lake in Skelleftea providing a serene atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.941273,
+                        64.766802
+                  ]
+            },
+            {
+                  "name": "Kroksjön",
+                  "text": "Kroksjön is a lake in Skelleftea, ideal for enjoying a quiet day surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.908224,
+                        64.692117
+                  ]
+            },
+            {
+                  "name": "Skellefteå Bangolfklubb",
+                  "text": "Skellefteå Bangolfklubb is a miniature golf course in Skelleftea providing family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        20.970827,
+                        64.755526
+                  ]
+            },
+            {
+                  "name": "Golf & Skytteakademin",
+                  "text": "Golf & Skytteakademin is an amusement center in Skelleftea offering activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        20.973162,
+                        64.73553
+                  ]
+            },
+            {
+                  "name": "Alhems Lekpark",
+                  "text": "Alhems Lekpark is a playground in Skelleftea where children can enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        20.976322,
+                        64.758507
+                  ]
+            },
+            {
+                  "name": "Nordanå lekpark",
+                  "text": "A family-friendly playground in Skellefteå offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.938917,
+                        64.7487
+                  ]
+            },
+            {
+                  "name": "Ekorrvägens lekpark",
+                  "text": "A nice playground in Skellefteå for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        20.914078,
+                        64.743716
+                  ]
+            },
+            {
+                  "name": "Rymdlekparken",
+                  "text": "This playground in Skellefteå provides a great environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.927609,
+                        64.741922
+                  ]
+            },
+            {
+                  "name": "Sjungande Dalens Lekpark",
+                  "text": "A local playground in Skellefteå, ideal for a family outing with children.",
+                  "category": "family",
+                  "coords": [
+                        20.92799,
+                        64.763094
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Skellefteå", hu: "Skellefteå", ro: "Skellefteå", en: "Skellefteå"},
@@ -13411,6 +20566,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.708054,
                         57.737503
                   ]
+            },
+            {
+                  "name": "Maren",
+                  "text": "Maren ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.507626,
+                        57.730875
+                  ]
+            },
+            {
+                  "name": "Stora Svinnaren",
+                  "text": "Stora Svinnaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.496724,
+                        57.765034
+                  ]
+            },
+            {
+                  "name": "Kvännaren",
+                  "text": "Kvännaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.589876,
+                        57.751538
+                  ]
+            },
+            {
+                  "name": "Hästhagssjön",
+                  "text": "Hästhagssjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.660554,
+                        57.719537
+                  ]
+            },
+            {
+                  "name": "Tjutingen",
+                  "text": "Tjutingen ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.555057,
+                        57.715396
+                  ]
+            },
+            {
+                  "name": "Hjorten",
+                  "text": "Hjorten ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.521181,
+                        57.776439
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.539125,
+                        57.797855
+                  ]
+            },
+            {
+                  "name": "Gagnaren",
+                  "text": "Gagnaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.549215,
+                        57.798333
+                  ]
+            },
+            {
+                  "name": "Fågöl",
+                  "text": "Fågöl ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.526974,
+                        57.711597
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.540884,
+                        57.718235
+                  ]
+            },
+            {
+                  "name": "Mjösjön",
+                  "text": "Mjösjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.662747,
+                        57.713752
+                  ]
+            },
+            {
+                  "name": "Kilen",
+                  "text": "Kilen ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.596076,
+                        57.718428
+                  ]
+            },
+            {
+                  "name": "Friskjön",
+                  "text": "Friskjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.688695,
+                        57.801618
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.624479,
+                        57.713533
+                  ]
+            },
+            {
+                  "name": "Gagern",
+                  "text": "Gagern ist ein See in Vaestervik, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.526331,
+                        57.810986
+                  ]
             }
       ],
       "hu": [
@@ -13430,6 +20720,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.708054,
                         57.737503
+                  ]
+            },
+            {
+                  "name": "Maren",
+                  "text": "A Maren egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.507626,
+                        57.730875
+                  ]
+            },
+            {
+                  "name": "Stora Svinnaren",
+                  "text": "A Stora Svinnaren egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.496724,
+                        57.765034
+                  ]
+            },
+            {
+                  "name": "Kvännaren",
+                  "text": "A Kvännaren egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.589876,
+                        57.751538
+                  ]
+            },
+            {
+                  "name": "Hästhagssjön",
+                  "text": "A Hästhagssjön egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.660554,
+                        57.719537
+                  ]
+            },
+            {
+                  "name": "Tjutingen",
+                  "text": "A Tjutingen egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.555057,
+                        57.715396
+                  ]
+            },
+            {
+                  "name": "Hjorten",
+                  "text": "A Hjorten egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.521181,
+                        57.776439
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Kvarnsjön egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.539125,
+                        57.797855
+                  ]
+            },
+            {
+                  "name": "Gagnaren",
+                  "text": "A Gagnaren egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.549215,
+                        57.798333
+                  ]
+            },
+            {
+                  "name": "Fågöl",
+                  "text": "A Fågöl egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.526974,
+                        57.711597
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "A Dammen egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.540884,
+                        57.718235
+                  ]
+            },
+            {
+                  "name": "Mjösjön",
+                  "text": "A Mjösjön egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.662747,
+                        57.713752
+                  ]
+            },
+            {
+                  "name": "Kilen",
+                  "text": "A Kilen egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.596076,
+                        57.718428
+                  ]
+            },
+            {
+                  "name": "Friskjön",
+                  "text": "A Friskjön egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.688695,
+                        57.801618
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Az Ängsjön egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.624479,
+                        57.713533
+                  ]
+            },
+            {
+                  "name": "Gagern",
+                  "text": "A Gagern egy tó Vaestervik területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.526331,
+                        57.810986
                   ]
             }
       ],
@@ -13451,6 +20876,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.708054,
                         57.737503
                   ]
+            },
+            {
+                  "name": "Maren",
+                  "text": "Maren este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.507626,
+                        57.730875
+                  ]
+            },
+            {
+                  "name": "Stora Svinnaren",
+                  "text": "Stora Svinnaren este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.496724,
+                        57.765034
+                  ]
+            },
+            {
+                  "name": "Kvännaren",
+                  "text": "Kvännaren este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.589876,
+                        57.751538
+                  ]
+            },
+            {
+                  "name": "Hästhagssjön",
+                  "text": "Hästhagssjön este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.660554,
+                        57.719537
+                  ]
+            },
+            {
+                  "name": "Tjutingen",
+                  "text": "Tjutingen este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.555057,
+                        57.715396
+                  ]
+            },
+            {
+                  "name": "Hjorten",
+                  "text": "Hjorten este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.521181,
+                        57.776439
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.539125,
+                        57.797855
+                  ]
+            },
+            {
+                  "name": "Gagnaren",
+                  "text": "Gagnaren este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.549215,
+                        57.798333
+                  ]
+            },
+            {
+                  "name": "Fågöl",
+                  "text": "Fågöl este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.526974,
+                        57.711597
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.540884,
+                        57.718235
+                  ]
+            },
+            {
+                  "name": "Mjösjön",
+                  "text": "Mjösjön este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.662747,
+                        57.713752
+                  ]
+            },
+            {
+                  "name": "Kilen",
+                  "text": "Kilen este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.596076,
+                        57.718428
+                  ]
+            },
+            {
+                  "name": "Friskjön",
+                  "text": "Friskjön este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.688695,
+                        57.801618
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.624479,
+                        57.713533
+                  ]
+            },
+            {
+                  "name": "Gagern",
+                  "text": "Gagern este un lac din Vaestervik înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.526331,
+                        57.810986
+                  ]
             }
       ],
       "en": [
@@ -13470,6 +21030,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.708054,
                         57.737503
+                  ]
+            },
+            {
+                  "name": "Maren",
+                  "text": "Maren is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.507626,
+                        57.730875
+                  ]
+            },
+            {
+                  "name": "Stora Svinnaren",
+                  "text": "Stora Svinnaren is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.496724,
+                        57.765034
+                  ]
+            },
+            {
+                  "name": "Kvännaren",
+                  "text": "Kvännaren is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.589876,
+                        57.751538
+                  ]
+            },
+            {
+                  "name": "Hästhagssjön",
+                  "text": "Hästhagssjön is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.660554,
+                        57.719537
+                  ]
+            },
+            {
+                  "name": "Tjutingen",
+                  "text": "Tjutingen is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.555057,
+                        57.715396
+                  ]
+            },
+            {
+                  "name": "Hjorten",
+                  "text": "Hjorten is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.521181,
+                        57.776439
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.539125,
+                        57.797855
+                  ]
+            },
+            {
+                  "name": "Gagnaren",
+                  "text": "Gagnaren is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.549215,
+                        57.798333
+                  ]
+            },
+            {
+                  "name": "Fågöl",
+                  "text": "Fågöl is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.526974,
+                        57.711597
+                  ]
+            },
+            {
+                  "name": "Dammen",
+                  "text": "Dammen is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.540884,
+                        57.718235
+                  ]
+            },
+            {
+                  "name": "Mjösjön",
+                  "text": "Mjösjön is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.662747,
+                        57.713752
+                  ]
+            },
+            {
+                  "name": "Kilen",
+                  "text": "Kilen is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.596076,
+                        57.718428
+                  ]
+            },
+            {
+                  "name": "Friskjön",
+                  "text": "Friskjön is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.688695,
+                        57.801618
+                  ]
+            },
+            {
+                  "name": "Ängsjön",
+                  "text": "Ängsjön is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.624479,
+                        57.713533
+                  ]
+            },
+            {
+                  "name": "Gagern",
+                  "text": "Gagern is a lake in Vaestervik surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.526331,
+                        57.810986
                   ]
             }
       ]
@@ -15619,6 +23314,213 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.903714,
                         62.61167
                   ]
+            },
+            {
+                  "name": "Godstjärn",
+                  "text": "Godstjärn ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.903716,
+                        62.641081
+                  ]
+            },
+            {
+                  "name": "Kragomsviken",
+                  "text": "Kragomsviken ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.852309,
+                        62.684736
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Abborrtjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.880141,
+                        62.57134
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.896456,
+                        62.571473
+                  ]
+            },
+            {
+                  "name": "Vittjärnen",
+                  "text": "Vittjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.897216,
+                        62.568308
+                  ]
+            },
+            {
+                  "name": "Värptjärnen",
+                  "text": "Värptjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.859482,
+                        62.595936
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.855522,
+                        62.591066
+                  ]
+            },
+            {
+                  "name": "Björntjärnen",
+                  "text": "Björntjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.871149,
+                        62.571178
+                  ]
+            },
+            {
+                  "name": "Kallsjön",
+                  "text": "Kallsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.044449,
+                        62.685542
+                  ]
+            },
+            {
+                  "name": "Gräshamnstjärnen",
+                  "text": "Gräshamnstjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.078275,
+                        62.644366
+                  ]
+            },
+            {
+                  "name": "Helgumstjärnen",
+                  "text": "Helgumstjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.826481,
+                        62.622905
+                  ]
+            },
+            {
+                  "name": "Dalatjärnen",
+                  "text": "Dalatjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.792981,
+                        62.637892
+                  ]
+            },
+            {
+                  "name": "Lapptjärnen",
+                  "text": "Lapptjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.001659,
+                        62.619992
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.753327,
+                        62.631583
+                  ]
+            },
+            {
+                  "name": "Klubbsjön",
+                  "text": "Klubbsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.042995,
+                        62.601596
+                  ]
+            },
+            {
+                  "name": "Nässjön",
+                  "text": "Nässjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.861209,
+                        62.630647
+                  ]
+            },
+            {
+                  "name": "Örsjön",
+                  "text": "Örsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.005811,
+                        62.597028
+                  ]
+            },
+            {
+                  "name": "Solumssjön",
+                  "text": "Solumssjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.976134,
+                        62.586623
+                  ]
+            },
+            {
+                  "name": "Bondsjön",
+                  "text": "Bondsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.892306,
+                        62.635901
+                  ]
+            },
+            {
+                  "name": "Finsviken",
+                  "text": "Finsviken ist ein See in Haernoesand, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.917641,
+                        62.685801
+                  ]
+            },
+            {
+                  "name": "Härnösands Golf & Glass",
+                  "text": "Härnösands Golf & Glass ist eine Minigolfanlage in Haernoesand, die Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.937318,
+                        62.63561
+                  ]
+            },
+            {
+                  "name": "Mellanholmens lekpark",
+                  "text": "Mellanholmens lekpark ist ein Spielplatz in Haernoesand, der zum Spielen für Kinder einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.936046,
+                        62.631535
+                  ]
+            },
+            {
+                  "name": "Berggatans lekplats",
+                  "text": "Berggatans lekplats ist ein Spielplatz in Haernoesand, der zum Spielen für Kinder einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.943111,
+                        62.635882
+                  ]
             }
       ],
       "hu": [
@@ -15782,6 +23684,213 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.903714,
                         62.61167
+                  ]
+            },
+            {
+                  "name": "Godstjärn",
+                  "text": "A Godstjärn egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.903716,
+                        62.641081
+                  ]
+            },
+            {
+                  "name": "Kragomsviken",
+                  "text": "A Kragomsviken egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.852309,
+                        62.684736
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Az Abborrtjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.880141,
+                        62.57134
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "A Svarttjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.896456,
+                        62.571473
+                  ]
+            },
+            {
+                  "name": "Vittjärnen",
+                  "text": "A Vittjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.897216,
+                        62.568308
+                  ]
+            },
+            {
+                  "name": "Värptjärnen",
+                  "text": "A Värptjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.859482,
+                        62.595936
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "A Lomtjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.855522,
+                        62.591066
+                  ]
+            },
+            {
+                  "name": "Björntjärnen",
+                  "text": "A Björntjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.871149,
+                        62.571178
+                  ]
+            },
+            {
+                  "name": "Kallsjön",
+                  "text": "A Kallsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.044449,
+                        62.685542
+                  ]
+            },
+            {
+                  "name": "Gräshamnstjärnen",
+                  "text": "A Gräshamnstjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.078275,
+                        62.644366
+                  ]
+            },
+            {
+                  "name": "Helgumstjärnen",
+                  "text": "A Helgumstjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.826481,
+                        62.622905
+                  ]
+            },
+            {
+                  "name": "Dalatjärnen",
+                  "text": "A Dalatjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.792981,
+                        62.637892
+                  ]
+            },
+            {
+                  "name": "Lapptjärnen",
+                  "text": "A Lapptjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.001659,
+                        62.619992
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Långsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.753327,
+                        62.631583
+                  ]
+            },
+            {
+                  "name": "Klubbsjön",
+                  "text": "A Klubbsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.042995,
+                        62.601596
+                  ]
+            },
+            {
+                  "name": "Nässjön",
+                  "text": "A Nässjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.861209,
+                        62.630647
+                  ]
+            },
+            {
+                  "name": "Örsjön",
+                  "text": "Az Örsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.005811,
+                        62.597028
+                  ]
+            },
+            {
+                  "name": "Solumssjön",
+                  "text": "A Solumssjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.976134,
+                        62.586623
+                  ]
+            },
+            {
+                  "name": "Bondsjön",
+                  "text": "A Bondsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.892306,
+                        62.635901
+                  ]
+            },
+            {
+                  "name": "Finsviken",
+                  "text": "A Finsviken egy tó Haernoesand területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.917641,
+                        62.685801
+                  ]
+            },
+            {
+                  "name": "Härnösands Golf & Glass",
+                  "text": "A Härnösands Golf & Glass egy minigolfpálya Haernoesand területén, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        17.937318,
+                        62.63561
+                  ]
+            },
+            {
+                  "name": "Mellanholmens lekpark",
+                  "text": "A Mellanholmens lekpark egy játszótér Haernoesand területén, amelyet gyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        17.936046,
+                        62.631535
+                  ]
+            },
+            {
+                  "name": "Berggatans lekplats",
+                  "text": "A Berggatans lekplats egy játszótér Haernoesand területén, amelyet gyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        17.943111,
+                        62.635882
                   ]
             }
       ],
@@ -15947,6 +24056,213 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.903714,
                         62.61167
                   ]
+            },
+            {
+                  "name": "Godstjärn",
+                  "text": "Godstjärn este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.903716,
+                        62.641081
+                  ]
+            },
+            {
+                  "name": "Kragomsviken",
+                  "text": "Kragomsviken este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.852309,
+                        62.684736
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Abborrtjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.880141,
+                        62.57134
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.896456,
+                        62.571473
+                  ]
+            },
+            {
+                  "name": "Vittjärnen",
+                  "text": "Vittjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.897216,
+                        62.568308
+                  ]
+            },
+            {
+                  "name": "Värptjärnen",
+                  "text": "Värptjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.859482,
+                        62.595936
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.855522,
+                        62.591066
+                  ]
+            },
+            {
+                  "name": "Björntjärnen",
+                  "text": "Björntjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.871149,
+                        62.571178
+                  ]
+            },
+            {
+                  "name": "Kallsjön",
+                  "text": "Kallsjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.044449,
+                        62.685542
+                  ]
+            },
+            {
+                  "name": "Gräshamnstjärnen",
+                  "text": "Gräshamnstjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.078275,
+                        62.644366
+                  ]
+            },
+            {
+                  "name": "Helgumstjärnen",
+                  "text": "Helgumstjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.826481,
+                        62.622905
+                  ]
+            },
+            {
+                  "name": "Dalatjärnen",
+                  "text": "Dalatjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.792981,
+                        62.637892
+                  ]
+            },
+            {
+                  "name": "Lapptjärnen",
+                  "text": "Lapptjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.001659,
+                        62.619992
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.753327,
+                        62.631583
+                  ]
+            },
+            {
+                  "name": "Klubbsjön",
+                  "text": "Klubbsjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.042995,
+                        62.601596
+                  ]
+            },
+            {
+                  "name": "Nässjön",
+                  "text": "Nässjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.861209,
+                        62.630647
+                  ]
+            },
+            {
+                  "name": "Örsjön",
+                  "text": "Örsjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.005811,
+                        62.597028
+                  ]
+            },
+            {
+                  "name": "Solumssjön",
+                  "text": "Solumssjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.976134,
+                        62.586623
+                  ]
+            },
+            {
+                  "name": "Bondsjön",
+                  "text": "Bondsjön este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.892306,
+                        62.635901
+                  ]
+            },
+            {
+                  "name": "Finsviken",
+                  "text": "Finsviken este un lac din Haernoesand înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.917641,
+                        62.685801
+                  ]
+            },
+            {
+                  "name": "Härnösands Golf & Glass",
+                  "text": "Härnösands Golf & Glass este un teren de minigolf din Haernoesand care oferă distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.937318,
+                        62.63561
+                  ]
+            },
+            {
+                  "name": "Mellanholmens lekpark",
+                  "text": "Mellanholmens lekpark este un loc de joacă din Haernoesand conceput pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.936046,
+                        62.631535
+                  ]
+            },
+            {
+                  "name": "Berggatans lekplats",
+                  "text": "Berggatans lekplats este un loc de joacă din Haernoesand conceput pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        17.943111,
+                        62.635882
+                  ]
             }
       ],
       "en": [
@@ -16110,6 +24426,213 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.903714,
                         62.61167
+                  ]
+            },
+            {
+                  "name": "Godstjärn",
+                  "text": "Godstjärn is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.903716,
+                        62.641081
+                  ]
+            },
+            {
+                  "name": "Kragomsviken",
+                  "text": "Kragomsviken is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.852309,
+                        62.684736
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Abborrtjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.880141,
+                        62.57134
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.896456,
+                        62.571473
+                  ]
+            },
+            {
+                  "name": "Vittjärnen",
+                  "text": "Vittjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.897216,
+                        62.568308
+                  ]
+            },
+            {
+                  "name": "Värptjärnen",
+                  "text": "Värptjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.859482,
+                        62.595936
+                  ]
+            },
+            {
+                  "name": "Lomtjärnen",
+                  "text": "Lomtjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.855522,
+                        62.591066
+                  ]
+            },
+            {
+                  "name": "Björntjärnen",
+                  "text": "Björntjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.871149,
+                        62.571178
+                  ]
+            },
+            {
+                  "name": "Kallsjön",
+                  "text": "Kallsjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.044449,
+                        62.685542
+                  ]
+            },
+            {
+                  "name": "Gräshamnstjärnen",
+                  "text": "Gräshamnstjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.078275,
+                        62.644366
+                  ]
+            },
+            {
+                  "name": "Helgumstjärnen",
+                  "text": "Helgumstjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.826481,
+                        62.622905
+                  ]
+            },
+            {
+                  "name": "Dalatjärnen",
+                  "text": "Dalatjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.792981,
+                        62.637892
+                  ]
+            },
+            {
+                  "name": "Lapptjärnen",
+                  "text": "Lapptjärnen is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.001659,
+                        62.619992
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.753327,
+                        62.631583
+                  ]
+            },
+            {
+                  "name": "Klubbsjön",
+                  "text": "Klubbsjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.042995,
+                        62.601596
+                  ]
+            },
+            {
+                  "name": "Nässjön",
+                  "text": "Nässjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.861209,
+                        62.630647
+                  ]
+            },
+            {
+                  "name": "Örsjön",
+                  "text": "Örsjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.005811,
+                        62.597028
+                  ]
+            },
+            {
+                  "name": "Solumssjön",
+                  "text": "Solumssjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.976134,
+                        62.586623
+                  ]
+            },
+            {
+                  "name": "Bondsjön",
+                  "text": "Bondsjön is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.892306,
+                        62.635901
+                  ]
+            },
+            {
+                  "name": "Finsviken",
+                  "text": "Finsviken is a lake in Haernoesand surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.917641,
+                        62.685801
+                  ]
+            },
+            {
+                  "name": "Härnösands Golf & Glass",
+                  "text": "Härnösands Golf & Glass is a miniature golf course in Haernoesand offering family fun.",
+                  "category": "family",
+                  "coords": [
+                        17.937318,
+                        62.63561
+                  ]
+            },
+            {
+                  "name": "Mellanholmens lekpark",
+                  "text": "Mellanholmens lekpark is a playground in Haernoesand designed for children's play.",
+                  "category": "family",
+                  "coords": [
+                        17.936046,
+                        62.631535
+                  ]
+            },
+            {
+                  "name": "Berggatans lekplats",
+                  "text": "Berggatans lekplats is a playground in Haernoesand designed for children's play.",
+                  "category": "family",
+                  "coords": [
+                        17.943111,
+                        62.635882
                   ]
             }
       ]
@@ -16359,6 +24882,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.66512,
                         63.165203
                   ]
+            },
+            {
+                  "name": "Rannåstjärnen",
+                  "text": "Der Rannåstjärnen bei Östersund bietet eine friedliche Kulisse für erholsame Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        14.679855,
+                        63.197142
+                  ]
+            },
+            {
+                  "name": "Torråstjärnen",
+                  "text": "Der Torråstjärnen ist ein kleinerer See in Östersund, der zur Entspannung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.713084,
+                        63.197405
+                  ]
+            },
+            {
+                  "name": "Branddamm",
+                  "text": "Der Branddamm in Östersund ist ein ruhiges Gewässer, das sich gut für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.638672,
+                        63.221538
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Der Storsjön ist ein großer See in Östersund, der schöne Aussichten und Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.395388,
+                        63.052087
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Der Lillsjön ist ein See in Östersund, der sich für Spaziergänge und Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.701852,
+                        63.165188
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Norra sjön",
+                  "text": "Tysjöarna Norra sjön ist ein See in Östersund, ideal für Naturspaziergänge und Vogelbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        14.63384,
+                        63.239151
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Södra sjön",
+                  "text": "Tysjöarna Södra sjön ist ein See in Östersund, der für seine friedliche Umgebung und Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.630227,
+                        63.230155
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Dieser Minigolfplatz in Östersund bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.656712,
+                        63.162162
+                  ]
+            },
+            {
+                  "name": "Hornsbergs lekplats",
+                  "text": "Hornsbergs lekplats ist ein Spielplatz in Östersund mit verschiedenen Spielbereichen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.620973,
+                        63.185616
+                  ]
+            },
+            {
+                  "name": "Birgerparken",
+                  "text": "Birgerparken ist ein beliebter Spielplatz in Östersund, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.621299,
+                        63.180983
+                  ]
+            },
+            {
+                  "name": "Tallbacksvägen",
+                  "text": "Tallbacksvägen ist ein Spielplatz in Östersund, der einen sicheren Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.648665,
+                        63.194571
+                  ]
             }
       ],
       "hu": [
@@ -16558,6 +25180,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.66512,
                         63.165203
+                  ]
+            },
+            {
+                  "name": "Rannåstjärnen",
+                  "text": "Az Östersund melletti Rannåstjärnen békés környezetet biztosít a pihentető szabadtéri időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.679855,
+                        63.197142
+                  ]
+            },
+            {
+                  "name": "Torråstjärnen",
+                  "text": "A Torråstjärnen egy kisebb tó Östersundban, amely vízparti pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        14.713084,
+                        63.197405
+                  ]
+            },
+            {
+                  "name": "Branddamm",
+                  "text": "Az östersundi Branddamm egy csendes vízfelület, amely kiválóan alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        14.638672,
+                        63.221538
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "A Storsjön egy nagy tó Östersundban, amely szép kilátást és sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.395388,
+                        63.052087
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy tó Östersundban, amely alkalmas sétákra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        14.701852,
+                        63.165188
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Norra sjön",
+                  "text": "A Tysjöarna Norra sjön egy tó Östersundban, amely ideális természetjáráshoz és madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.63384,
+                        63.239151
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Södra sjön",
+                  "text": "A Tysjöarna Södra sjön egy tó Östersundban, amely nyugodt környezetéről és tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.630227,
+                        63.230155
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Ez az östersundi minigolfpálya szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.656712,
+                        63.162162
+                  ]
+            },
+            {
+                  "name": "Hornsbergs lekplats",
+                  "text": "A Hornsbergs lekplats egy játszótér Östersundban, különféle játéklehetőségekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.620973,
+                        63.185616
+                  ]
+            },
+            {
+                  "name": "Birgerparken",
+                  "text": "A Birgerparken egy népszerű játszótér Östersundban, amely tökéletes a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.621299,
+                        63.180983
+                  ]
+            },
+            {
+                  "name": "Tallbacksvägen",
+                  "text": "A Tallbacksvägen egy játszótér Östersundban, amely biztonságos helyet nyújt a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        14.648665,
+                        63.194571
                   ]
             }
       ],
@@ -16759,6 +25480,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.66512,
                         63.165203
                   ]
+            },
+            {
+                  "name": "Rannåstjärnen",
+                  "text": "Rannåstjärnen de lângă Östersund oferă un cadru pașnic pentru ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.679855,
+                        63.197142
+                  ]
+            },
+            {
+                  "name": "Torråstjärnen",
+                  "text": "Torråstjärnen este un lac mai mic din Östersund, care invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.713084,
+                        63.197405
+                  ]
+            },
+            {
+                  "name": "Branddamm",
+                  "text": "Branddamm din Östersund este un corp de apă liniștit, potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.638672,
+                        63.221538
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Storsjön este un lac mare din Östersund, oferind priveliști pitorești și trasee de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.395388,
+                        63.052087
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac din Östersund, potrivit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.701852,
+                        63.165188
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Norra sjön",
+                  "text": "Tysjöarna Norra sjön este un lac din Östersund, ideal pentru plimbări în natură și observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        14.63384,
+                        63.239151
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Södra sjön",
+                  "text": "Tysjöarna Södra sjön este un lac din Östersund, cunoscut pentru mediul său liniștit și peisajele sale.",
+                  "category": "natural",
+                  "coords": [
+                        14.630227,
+                        63.230155
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Acest teren de minigolf din Östersund oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.656712,
+                        63.162162
+                  ]
+            },
+            {
+                  "name": "Hornsbergs lekplats",
+                  "text": "Hornsbergs lekplats este un loc de joacă din Östersund, cu diverse zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.620973,
+                        63.185616
+                  ]
+            },
+            {
+                  "name": "Birgerparken",
+                  "text": "Birgerparken este un loc de joacă popular din Östersund, perfect pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        14.621299,
+                        63.180983
+                  ]
+            },
+            {
+                  "name": "Tallbacksvägen",
+                  "text": "Tallbacksvägen este un loc de joacă din Östersund care oferă un spațiu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.648665,
+                        63.194571
+                  ]
             }
       ],
       "en": [
@@ -16958,6 +25778,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.66512,
                         63.165203
+                  ]
+            },
+            {
+                  "name": "Rannåstjärnen",
+                  "text": "Rannåstjärnen near Östersund offers a peaceful backdrop for relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        14.679855,
+                        63.197142
+                  ]
+            },
+            {
+                  "name": "Torråstjärnen",
+                  "text": "Torråstjärnen is a smaller lake in Östersund, inviting visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.713084,
+                        63.197405
+                  ]
+            },
+            {
+                  "name": "Branddamm",
+                  "text": "Branddamm in Östersund is a quiet body of water, well-suited for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.638672,
+                        63.221538
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Storsjön is a large lake in Oestersund, offering scenic views and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        14.395388,
+                        63.052087
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Oestersund, suitable for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.701852,
+                        63.165188
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Norra sjön",
+                  "text": "Tysjöarna Norra sjön is a lake in Oestersund, ideal for nature walks and bird watching.",
+                  "category": "natural",
+                  "coords": [
+                        14.63384,
+                        63.239151
+                  ]
+            },
+            {
+                  "name": "Tysjöarna Södra sjön",
+                  "text": "Tysjöarna Södra sjön is a lake in Oestersund, known for its peaceful environment and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.630227,
+                        63.230155
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "This miniature golf course in Oestersund offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.656712,
+                        63.162162
+                  ]
+            },
+            {
+                  "name": "Hornsbergs lekplats",
+                  "text": "Hornsbergs lekplats is a playground in Oestersund with various play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        14.620973,
+                        63.185616
+                  ]
+            },
+            {
+                  "name": "Birgerparken",
+                  "text": "Birgerparken is a popular playground in Oestersund, perfect for families with kids.",
+                  "category": "family",
+                  "coords": [
+                        14.621299,
+                        63.180983
+                  ]
+            },
+            {
+                  "name": "Tallbacksvägen",
+                  "text": "Tallbacksvägen is a playground in Oestersund providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.648665,
+                        63.194571
                   ]
             }
       ]
@@ -17471,7 +26390,736 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-oskarshamn-cities-v2",
+    id: "sweden-oskarshamn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forshultesjön",
+                  "text": "Ein ruhiger See bei Oskarshamn, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.310337,
+                        57.253324
+                  ]
+            },
+            {
+                  "name": "Tjuståsasjön",
+                  "text": "Ein See in der Umgebung von Oskarshamn, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        16.351686,
+                        57.216187
+                  ]
+            },
+            {
+                  "name": "Rungeln",
+                  "text": "Ein Gewässer bei Oskarshamn, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.421625,
+                        57.312875
+                  ]
+            },
+            {
+                  "name": "Nybogölen",
+                  "text": "Ein kleiner See bei Oskarshamn, umgeben von der typischen lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.386318,
+                        57.303367
+                  ]
+            },
+            {
+                  "name": "Brokegöl",
+                  "text": "Ein friedlicher See in Oskarshamn, der eine schöne Kulisse für Wanderungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.346322,
+                        57.311452
+                  ]
+            },
+            {
+                  "name": "Stärringen",
+                  "text": "Dieser See bei Oskarshamn liegt eingebettet in die natürliche Umgebung der Region.",
+                  "category": "natural",
+                  "coords": [
+                        16.465192,
+                        57.336607
+                  ]
+            },
+            {
+                  "name": "Brukssjön",
+                  "text": "Ein lokaler See in Oskarshamn, der sich gut für die Freizeitgestaltung im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.324468,
+                        57.259983
+                  ]
+            },
+            {
+                  "name": "Djupeträsk",
+                  "text": "Ein landschaftlich reizvoller See bei Oskarshamn, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        16.362196,
+                        57.26961
+                  ]
+            },
+            {
+                  "name": "Avegöl",
+                  "text": "Ein See in der Nähe von Oskarshamn, der Teil der lokalen Seenlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.327198,
+                        57.288405
+                  ]
+            },
+            {
+                  "name": "Tranegöl",
+                  "text": "Ein kleinerer See bei Oskarshamn, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.364437,
+                        57.307026
+                  ]
+            },
+            {
+                  "name": "Korvgölen",
+                  "text": "Ein Gewässer in Oskarshamn, das sich durch seine ruhige Lage auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        16.387983,
+                        57.306527
+                  ]
+            },
+            {
+                  "name": "Molande gölen",
+                  "text": "Ein See bei Oskarshamn, der zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.376984,
+                        57.28543
+                  ]
+            },
+            {
+                  "name": "Lilla Tomgölen",
+                  "text": "Ein friedlicher See in der Umgebung von Oskarshamn für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        16.336053,
+                        57.26977
+                  ]
+            },
+            {
+                  "name": "Haregöl",
+                  "text": "Ein kleiner See bei Oskarshamn, der ein schönes Ziel für kurze Ausflüge ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.350863,
+                        57.278834
+                  ]
+            },
+            {
+                  "name": "Djupe floe",
+                  "text": "Ein See in Oskarshamn, der die natürliche Schönheit der Gegend widerspiegelt.",
+                  "category": "natural",
+                  "coords": [
+                        16.318365,
+                        57.280764
+                  ]
+            },
+            {
+                  "name": "Stora Tomgölen",
+                  "text": "Ein See bei Oskarshamn, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.31932,
+                        57.271033
+                  ]
+            },
+            {
+                  "name": "Lammhultesjön",
+                  "text": "Ein lokaler See bei Oskarshamn, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.343061,
+                        57.253262
+                  ]
+            },
+            {
+                  "name": "Eckern",
+                  "text": "Ein See in Oskarshamn, eingebettet in eine waldreiche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        16.341906,
+                        57.295577
+                  ]
+            },
+            {
+                  "name": "Äventyrsbanan",
+                  "text": "Ein abenteuerlicher Spielplatz in Oskarshamn mit verschiedenen Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        16.470469,
+                        57.281021
+                  ]
+            },
+            {
+                  "name": "Rådjurstigens lekplats",
+                  "text": "Ein kinderfreundlicher Spielplatz in Oskarshamn für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.438706,
+                        57.269582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forshultesjön",
+                  "text": "Csendes tó Oskarshamn közelében, amely kiválóan alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.310337,
+                        57.253324
+                  ]
+            },
+            {
+                  "name": "Tjuståsasjön",
+                  "text": "Tó Oskarshamn környékén, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.351686,
+                        57.216187
+                  ]
+            },
+            {
+                  "name": "Rungeln",
+                  "text": "Vízfelület Oskarshamn közelében, amely hívogató a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        16.421625,
+                        57.312875
+                  ]
+            },
+            {
+                  "name": "Nybogölen",
+                  "text": "Kisebb tó Oskarshamn mellett, a tipikus helyi tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        16.386318,
+                        57.303367
+                  ]
+            },
+            {
+                  "name": "Brokegöl",
+                  "text": "Békés tó Oskarshamnban, amely szép hátteret biztosít a túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.346322,
+                        57.311452
+                  ]
+            },
+            {
+                  "name": "Stärringen",
+                  "text": "Ez az Oskarshamn melletti tó a régió természetes környezetében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        16.465192,
+                        57.336607
+                  ]
+            },
+            {
+                  "name": "Brukssjön",
+                  "text": "Helyi tó Oskarshamnban, amely alkalmas a szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.324468,
+                        57.259983
+                  ]
+            },
+            {
+                  "name": "Djupeträsk",
+                  "text": "Tájképi szempontból vonzó tó Oskarshamn közelében, ideális pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        16.362196,
+                        57.26961
+                  ]
+            },
+            {
+                  "name": "Avegöl",
+                  "text": "Oskarshamn közeli tó, amely a helyi tóvidék részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        16.327198,
+                        57.288405
+                  ]
+            },
+            {
+                  "name": "Tranegöl",
+                  "text": "Kisebb tó Oskarshamn mellett, amely nyugalmat és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.364437,
+                        57.307026
+                  ]
+            },
+            {
+                  "name": "Korvgölen",
+                  "text": "Oskarshamn-i vízfelület, amelyet csendes elhelyezkedése jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        16.387983,
+                        57.306527
+                  ]
+            },
+            {
+                  "name": "Molande gölen",
+                  "text": "Tó Oskarshamn közelében, amely vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        16.376984,
+                        57.28543
+                  ]
+            },
+            {
+                  "name": "Lilla Tomgölen",
+                  "text": "Békés tó Oskarshamn környékén a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        16.336053,
+                        57.26977
+                  ]
+            },
+            {
+                  "name": "Haregöl",
+                  "text": "Kisebb tó Oskarshamn mellett, amely kedvelt célpontja a rövid kirándulásoknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.350863,
+                        57.278834
+                  ]
+            },
+            {
+                  "name": "Djupe floe",
+                  "text": "Oskarshamn-i tó, amely a környék természetes szépségét tükrözi.",
+                  "category": "natural",
+                  "coords": [
+                        16.318365,
+                        57.280764
+                  ]
+            },
+            {
+                  "name": "Stora Tomgölen",
+                  "text": "Tó Oskarshamn közelében, ideális a természetben töltött csendes percekhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.31932,
+                        57.271033
+                  ]
+            },
+            {
+                  "name": "Lammhultesjön",
+                  "text": "Helyi tó Oskarshamn közelében, amely pihentető légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        16.343061,
+                        57.253262
+                  ]
+            },
+            {
+                  "name": "Eckern",
+                  "text": "Tó Oskarshamnban, erdős környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        16.341906,
+                        57.295577
+                  ]
+            },
+            {
+                  "name": "Äventyrsbanan",
+                  "text": "Kalandos játszótér Oskarshamnban, különféle mászási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        16.470469,
+                        57.281021
+                  ]
+            },
+            {
+                  "name": "Rådjurstigens lekplats",
+                  "text": "Gyerekbarát játszótér Oskarshamnban a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.438706,
+                        57.269582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forshultesjön",
+                  "text": "Un lac liniștit lângă Oskarshamn, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.310337,
+                        57.253324
+                  ]
+            },
+            {
+                  "name": "Tjuståsasjön",
+                  "text": "Un lac în zona Oskarshamn, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        16.351686,
+                        57.216187
+                  ]
+            },
+            {
+                  "name": "Rungeln",
+                  "text": "O masă de apă lângă Oskarshamn, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.421625,
+                        57.312875
+                  ]
+            },
+            {
+                  "name": "Nybogölen",
+                  "text": "Un lac mic lângă Oskarshamn, înconjurat de peisajul local tipic.",
+                  "category": "natural",
+                  "coords": [
+                        16.386318,
+                        57.303367
+                  ]
+            },
+            {
+                  "name": "Brokegöl",
+                  "text": "Un lac liniștit în Oskarshamn, care oferă un cadru frumos pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        16.346322,
+                        57.311452
+                  ]
+            },
+            {
+                  "name": "Stärringen",
+                  "text": "Acest lac de lângă Oskarshamn este situat în mediul natural al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        16.465192,
+                        57.336607
+                  ]
+            },
+            {
+                  "name": "Brukssjön",
+                  "text": "Un lac local în Oskarshamn, potrivit pentru activități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.324468,
+                        57.259983
+                  ]
+            },
+            {
+                  "name": "Djupeträsk",
+                  "text": "Un lac pitoresc lângă Oskarshamn, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.362196,
+                        57.26961
+                  ]
+            },
+            {
+                  "name": "Avegöl",
+                  "text": "Un lac în apropiere de Oskarshamn, care face parte din zona lacustră locală.",
+                  "category": "natural",
+                  "coords": [
+                        16.327198,
+                        57.288405
+                  ]
+            },
+            {
+                  "name": "Tranegöl",
+                  "text": "Un lac mai mic lângă Oskarshamn, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.364437,
+                        57.307026
+                  ]
+            },
+            {
+                  "name": "Korvgölen",
+                  "text": "O masă de apă din Oskarshamn, caracterizată prin locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        16.387983,
+                        57.306527
+                  ]
+            },
+            {
+                  "name": "Molande gölen",
+                  "text": "Un lac lângă Oskarshamn, care invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.376984,
+                        57.28543
+                  ]
+            },
+            {
+                  "name": "Lilla Tomgölen",
+                  "text": "Un lac liniștit în zona Oskarshamn pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.336053,
+                        57.26977
+                  ]
+            },
+            {
+                  "name": "Haregöl",
+                  "text": "Un lac mic lângă Oskarshamn, care este o destinație frumoasă pentru excursii scurte.",
+                  "category": "natural",
+                  "coords": [
+                        16.350863,
+                        57.278834
+                  ]
+            },
+            {
+                  "name": "Djupe floe",
+                  "text": "Un lac în Oskarshamn, care reflectă frumusețea naturală a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        16.318365,
+                        57.280764
+                  ]
+            },
+            {
+                  "name": "Stora Tomgölen",
+                  "text": "Un lac lângă Oskarshamn, ideal pentru momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.31932,
+                        57.271033
+                  ]
+            },
+            {
+                  "name": "Lammhultesjön",
+                  "text": "Un lac local lângă Oskarshamn, care oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        16.343061,
+                        57.253262
+                  ]
+            },
+            {
+                  "name": "Eckern",
+                  "text": "Un lac în Oskarshamn, situat într-un mediu împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        16.341906,
+                        57.295577
+                  ]
+            },
+            {
+                  "name": "Äventyrsbanan",
+                  "text": "Un loc de joacă plin de aventură în Oskarshamn, cu diverse posibilități de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        16.470469,
+                        57.281021
+                  ]
+            },
+            {
+                  "name": "Rådjurstigens lekplats",
+                  "text": "Un loc de joacă pentru copii în Oskarshamn, pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.438706,
+                        57.269582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forshultesjön",
+                  "text": "A quiet lake near Oskarshamn, suitable for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        16.310337,
+                        57.253324
+                  ]
+            },
+            {
+                  "name": "Tjuståsasjön",
+                  "text": "A lake in the Oskarshamn area, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        16.351686,
+                        57.216187
+                  ]
+            },
+            {
+                  "name": "Rungeln",
+                  "text": "A body of water near Oskarshamn that invites you to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.421625,
+                        57.312875
+                  ]
+            },
+            {
+                  "name": "Nybogölen",
+                  "text": "A small lake near Oskarshamn, surrounded by the typical local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.386318,
+                        57.303367
+                  ]
+            },
+            {
+                  "name": "Brokegöl",
+                  "text": "A peaceful lake in Oskarshamn, providing a nice backdrop for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        16.346322,
+                        57.311452
+                  ]
+            },
+            {
+                  "name": "Stärringen",
+                  "text": "This lake near Oskarshamn is nestled in the natural environment of the region.",
+                  "category": "natural",
+                  "coords": [
+                        16.465192,
+                        57.336607
+                  ]
+            },
+            {
+                  "name": "Brukssjön",
+                  "text": "A local lake in Oskarshamn, suitable for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        16.324468,
+                        57.259983
+                  ]
+            },
+            {
+                  "name": "Djupeträsk",
+                  "text": "A scenic lake near Oskarshamn, ideal for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.362196,
+                        57.26961
+                  ]
+            },
+            {
+                  "name": "Avegöl",
+                  "text": "A lake near Oskarshamn, which is part of the local lake district.",
+                  "category": "natural",
+                  "coords": [
+                        16.327198,
+                        57.288405
+                  ]
+            },
+            {
+                  "name": "Tranegöl",
+                  "text": "A smaller lake near Oskarshamn offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.364437,
+                        57.307026
+                  ]
+            },
+            {
+                  "name": "Korvgölen",
+                  "text": "A body of water in Oskarshamn, characterized by its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        16.387983,
+                        57.306527
+                  ]
+            },
+            {
+                  "name": "Molande gölen",
+                  "text": "A lake near Oskarshamn that invites you to take walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        16.376984,
+                        57.28543
+                  ]
+            },
+            {
+                  "name": "Lilla Tomgölen",
+                  "text": "A peaceful lake in the Oskarshamn area for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.336053,
+                        57.26977
+                  ]
+            },
+            {
+                  "name": "Haregöl",
+                  "text": "A small lake near Oskarshamn, which is a nice destination for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        16.350863,
+                        57.278834
+                  ]
+            },
+            {
+                  "name": "Djupe floe",
+                  "text": "A lake in Oskarshamn reflecting the natural beauty of the area.",
+                  "category": "natural",
+                  "coords": [
+                        16.318365,
+                        57.280764
+                  ]
+            },
+            {
+                  "name": "Stora Tomgölen",
+                  "text": "A lake near Oskarshamn, ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.31932,
+                        57.271033
+                  ]
+            },
+            {
+                  "name": "Lammhultesjön",
+                  "text": "A local lake near Oskarshamn offering a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        16.343061,
+                        57.253262
+                  ]
+            },
+            {
+                  "name": "Eckern",
+                  "text": "A lake in Oskarshamn, nestled in a forested environment.",
+                  "category": "natural",
+                  "coords": [
+                        16.341906,
+                        57.295577
+                  ]
+            },
+            {
+                  "name": "Adventure Track",
+                  "text": "An adventurous playground in Oskarshamn with various climbing possibilities.",
+                  "category": "family",
+                  "coords": [
+                        16.470469,
+                        57.281021
+                  ]
+            },
+            {
+                  "name": "Rådjurstigens lekplats",
+                  "text": "A kid-friendly playground in Oskarshamn for playing and having fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        16.438706,
+                        57.269582
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Oskarshamn", hu: "Oskarshamn", ro: "Oskarshamn", en: "Oskarshamn"},
@@ -17971,6 +27619,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.401379,
                         60.483558
                   ]
+            },
+            {
+                  "name": "Dalsjön",
+                  "text": "Dalsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.526276,
+                        60.487745
+                  ]
+            },
+            {
+                  "name": "Lilla Holmsjön",
+                  "text": "Lilla Holmsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.533422,
+                        60.443159
+                  ]
+            },
+            {
+                  "name": "Stora Holmsjön",
+                  "text": "Stora Holmsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.54534,
+                        60.446502
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.509377,
+                        60.417613
+                  ]
+            },
+            {
+                  "name": "Lilla Aspan",
+                  "text": "Lilla Aspan ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.530236,
+                        60.534354
+                  ]
+            },
+            {
+                  "name": "Dammyran",
+                  "text": "Dammyran ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.355594,
+                        60.46954
+                  ]
+            },
+            {
+                  "name": "Havtrollet",
+                  "text": "Havtrollet ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.331415,
+                        60.52616
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.459727,
+                        60.538558
+                  ]
+            },
+            {
+                  "name": "Hessesjön",
+                  "text": "Hessesjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.470653,
+                        60.442144
+                  ]
+            },
+            {
+                  "name": "Kålsjön",
+                  "text": "Kålsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.564842,
+                        60.460256
+                  ]
+            },
+            {
+                  "name": "Kaplanstjärnen",
+                  "text": "Kaplanstjärnen ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.576696,
+                        60.464165
+                  ]
+            },
+            {
+                  "name": "Sellnässjön",
+                  "text": "Sellnässjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.388609,
+                        60.414891
+                  ]
+            },
+            {
+                  "name": "Vassjön",
+                  "text": "Vassjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.378499,
+                        60.533557
+                  ]
+            },
+            {
+                  "name": "Båtstadsjön",
+                  "text": "Der Båtstadsjön-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.376316,
+                        60.509304
+                  ]
+            },
+            {
+                  "name": "Onstjärnen",
+                  "text": "Der Onstjärnen-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.341514,
+                        60.467346
+                  ]
+            },
+            {
+                  "name": "Kärleken",
+                  "text": "Der Kärleken-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.492603,
+                        60.550248
+                  ]
+            },
+            {
+                  "name": "Tron",
+                  "text": "Der Tron-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.498662,
+                        60.547669
+                  ]
+            },
+            {
+                  "name": "Kalven",
+                  "text": "Der Kalven-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.504184,
+                        60.423444
+                  ]
+            },
+            {
+                  "name": "Tjärnasjön",
+                  "text": "Der Tjärnasjön-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.402931,
+                        60.496194
+                  ]
+            },
+            {
+                  "name": "Nedre Glian",
+                  "text": "Der Nedre Glian-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.375367,
+                        60.551494
+                  ]
+            },
+            {
+                  "name": "Rudputten",
+                  "text": "Der Rudputten-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.368441,
+                        60.546288
+                  ]
+            },
+            {
+                  "name": "Gräntjärn",
+                  "text": "Der Gräntjärn-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.35461,
+                        60.518589
+                  ]
+            },
+            {
+                  "name": "Lisselsjön",
+                  "text": "Der Lisselsjön-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.364845,
+                        60.515025
+                  ]
+            },
+            {
+                  "name": "Ävjesjön",
+                  "text": "Der Ävjesjön-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.37833,
+                        60.541689
+                  ]
+            },
+            {
+                  "name": "Ötjärnen",
+                  "text": "Der Ötjärnen-See in Borlaenge ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.477461,
+                        60.533198
+                  ]
             }
       ],
       "hu": [
@@ -18080,6 +27953,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.401379,
                         60.483558
+                  ]
+            },
+            {
+                  "name": "Dalsjön",
+                  "text": "A Dalsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.526276,
+                        60.487745
+                  ]
+            },
+            {
+                  "name": "Lilla Holmsjön",
+                  "text": "A Lilla Holmsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.533422,
+                        60.443159
+                  ]
+            },
+            {
+                  "name": "Stora Holmsjön",
+                  "text": "A Stora Holmsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.54534,
+                        60.446502
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Långsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.509377,
+                        60.417613
+                  ]
+            },
+            {
+                  "name": "Lilla Aspan",
+                  "text": "A Lilla Aspan egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.530236,
+                        60.534354
+                  ]
+            },
+            {
+                  "name": "Dammyran",
+                  "text": "A Dammyran egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.355594,
+                        60.46954
+                  ]
+            },
+            {
+                  "name": "Havtrollet",
+                  "text": "A Havtrollet egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.331415,
+                        60.52616
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Az Igeltjärnen egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.459727,
+                        60.538558
+                  ]
+            },
+            {
+                  "name": "Hessesjön",
+                  "text": "A Hessesjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.470653,
+                        60.442144
+                  ]
+            },
+            {
+                  "name": "Kålsjön",
+                  "text": "A Kålsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.564842,
+                        60.460256
+                  ]
+            },
+            {
+                  "name": "Kaplanstjärnen",
+                  "text": "A Kaplanstjärnen egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.576696,
+                        60.464165
+                  ]
+            },
+            {
+                  "name": "Sellnässjön",
+                  "text": "A Sellnässjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.388609,
+                        60.414891
+                  ]
+            },
+            {
+                  "name": "Vassjön",
+                  "text": "A Vassjön egy tó Borlaenge területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.378499,
+                        60.533557
+                  ]
+            },
+            {
+                  "name": "Båtstadsjön",
+                  "text": "A Borlaenge területén található Båtstadsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.376316,
+                        60.509304
+                  ]
+            },
+            {
+                  "name": "Onstjärnen",
+                  "text": "A Borlaenge területén található Onstjärnen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.341514,
+                        60.467346
+                  ]
+            },
+            {
+                  "name": "Kärleken",
+                  "text": "A Borlaenge területén található Kärleken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.492603,
+                        60.550248
+                  ]
+            },
+            {
+                  "name": "Tron",
+                  "text": "A Borlaenge területén található Tron-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.498662,
+                        60.547669
+                  ]
+            },
+            {
+                  "name": "Kalven",
+                  "text": "A Borlaenge területén található Kalven-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.504184,
+                        60.423444
+                  ]
+            },
+            {
+                  "name": "Tjärnasjön",
+                  "text": "A Borlaenge területén található Tjärnasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.402931,
+                        60.496194
+                  ]
+            },
+            {
+                  "name": "Nedre Glian",
+                  "text": "A Borlaenge területén található Nedre Glian-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.375367,
+                        60.551494
+                  ]
+            },
+            {
+                  "name": "Rudputten",
+                  "text": "A Borlaenge területén található Rudputten-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.368441,
+                        60.546288
+                  ]
+            },
+            {
+                  "name": "Gräntjärn",
+                  "text": "A Borlaenge területén található Gräntjärn-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.35461,
+                        60.518589
+                  ]
+            },
+            {
+                  "name": "Lisselsjön",
+                  "text": "A Borlaenge területén található Lisselsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.364845,
+                        60.515025
+                  ]
+            },
+            {
+                  "name": "Ävjesjön",
+                  "text": "A Borlaenge területén található Ävjesjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.37833,
+                        60.541689
+                  ]
+            },
+            {
+                  "name": "Ötjärnen",
+                  "text": "A Borlaenge területén található Ötjärnen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.477461,
+                        60.533198
                   ]
             }
       ],
@@ -18191,6 +28289,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.401379,
                         60.483558
                   ]
+            },
+            {
+                  "name": "Dalsjön",
+                  "text": "Dalsjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.526276,
+                        60.487745
+                  ]
+            },
+            {
+                  "name": "Lilla Holmsjön",
+                  "text": "Lilla Holmsjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.533422,
+                        60.443159
+                  ]
+            },
+            {
+                  "name": "Stora Holmsjön",
+                  "text": "Stora Holmsjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.54534,
+                        60.446502
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.509377,
+                        60.417613
+                  ]
+            },
+            {
+                  "name": "Lilla Aspan",
+                  "text": "Lilla Aspan este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.530236,
+                        60.534354
+                  ]
+            },
+            {
+                  "name": "Dammyran",
+                  "text": "Dammyran este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.355594,
+                        60.46954
+                  ]
+            },
+            {
+                  "name": "Havtrollet",
+                  "text": "Havtrollet este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.331415,
+                        60.52616
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.459727,
+                        60.538558
+                  ]
+            },
+            {
+                  "name": "Hessesjön",
+                  "text": "Hessesjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.470653,
+                        60.442144
+                  ]
+            },
+            {
+                  "name": "Kålsjön",
+                  "text": "Kålsjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.564842,
+                        60.460256
+                  ]
+            },
+            {
+                  "name": "Kaplanstjärnen",
+                  "text": "Kaplanstjärnen este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.576696,
+                        60.464165
+                  ]
+            },
+            {
+                  "name": "Sellnässjön",
+                  "text": "Sellnässjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.388609,
+                        60.414891
+                  ]
+            },
+            {
+                  "name": "Vassjön",
+                  "text": "Vassjön este un lac din Borlaenge înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.378499,
+                        60.533557
+                  ]
+            },
+            {
+                  "name": "Båtstadsjön",
+                  "text": "Lacul Båtstadsjön din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.376316,
+                        60.509304
+                  ]
+            },
+            {
+                  "name": "Onstjärnen",
+                  "text": "Lacul Onstjärnen din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.341514,
+                        60.467346
+                  ]
+            },
+            {
+                  "name": "Kärleken",
+                  "text": "Lacul Kärleken din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.492603,
+                        60.550248
+                  ]
+            },
+            {
+                  "name": "Tron",
+                  "text": "Lacul Tron din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.498662,
+                        60.547669
+                  ]
+            },
+            {
+                  "name": "Kalven",
+                  "text": "Lacul Kalven din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.504184,
+                        60.423444
+                  ]
+            },
+            {
+                  "name": "Tjärnasjön",
+                  "text": "Lacul Tjärnasjön din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.402931,
+                        60.496194
+                  ]
+            },
+            {
+                  "name": "Nedre Glian",
+                  "text": "Lacul Nedre Glian din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.375367,
+                        60.551494
+                  ]
+            },
+            {
+                  "name": "Rudputten",
+                  "text": "Lacul Rudputten din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.368441,
+                        60.546288
+                  ]
+            },
+            {
+                  "name": "Gräntjärn",
+                  "text": "Lacul Gräntjärn din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.35461,
+                        60.518589
+                  ]
+            },
+            {
+                  "name": "Lisselsjön",
+                  "text": "Lacul Lisselsjön din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.364845,
+                        60.515025
+                  ]
+            },
+            {
+                  "name": "Ävjesjön",
+                  "text": "Lacul Ävjesjön din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.37833,
+                        60.541689
+                  ]
+            },
+            {
+                  "name": "Ötjärnen",
+                  "text": "Lacul Ötjärnen din Borlaenge este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.477461,
+                        60.533198
+                  ]
             }
       ],
       "en": [
@@ -18300,6 +28623,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.401379,
                         60.483558
+                  ]
+            },
+            {
+                  "name": "Dalsjön",
+                  "text": "Dalsjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.526276,
+                        60.487745
+                  ]
+            },
+            {
+                  "name": "Lilla Holmsjön",
+                  "text": "Lilla Holmsjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.533422,
+                        60.443159
+                  ]
+            },
+            {
+                  "name": "Stora Holmsjön",
+                  "text": "Stora Holmsjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.54534,
+                        60.446502
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.509377,
+                        60.417613
+                  ]
+            },
+            {
+                  "name": "Lilla Aspan",
+                  "text": "Lilla Aspan is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.530236,
+                        60.534354
+                  ]
+            },
+            {
+                  "name": "Dammyran",
+                  "text": "Dammyran is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.355594,
+                        60.46954
+                  ]
+            },
+            {
+                  "name": "Havtrollet",
+                  "text": "Havtrollet is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.331415,
+                        60.52616
+                  ]
+            },
+            {
+                  "name": "Igeltjärnen",
+                  "text": "Igeltjärnen is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.459727,
+                        60.538558
+                  ]
+            },
+            {
+                  "name": "Hessesjön",
+                  "text": "Hessesjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.470653,
+                        60.442144
+                  ]
+            },
+            {
+                  "name": "Kålsjön",
+                  "text": "Kålsjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.564842,
+                        60.460256
+                  ]
+            },
+            {
+                  "name": "Kaplanstjärnen",
+                  "text": "Kaplanstjärnen is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.576696,
+                        60.464165
+                  ]
+            },
+            {
+                  "name": "Sellnässjön",
+                  "text": "Sellnässjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.388609,
+                        60.414891
+                  ]
+            },
+            {
+                  "name": "Vassjön",
+                  "text": "Vassjön is a lake in Borlaenge surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.378499,
+                        60.533557
+                  ]
+            },
+            {
+                  "name": "Båtstadsjön",
+                  "text": "Båtstadsjön lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.376316,
+                        60.509304
+                  ]
+            },
+            {
+                  "name": "Onstjärnen",
+                  "text": "Onstjärnen lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.341514,
+                        60.467346
+                  ]
+            },
+            {
+                  "name": "Kärleken",
+                  "text": "Kärleken lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.492603,
+                        60.550248
+                  ]
+            },
+            {
+                  "name": "Tron",
+                  "text": "Tron lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.498662,
+                        60.547669
+                  ]
+            },
+            {
+                  "name": "Kalven",
+                  "text": "Kalven lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.504184,
+                        60.423444
+                  ]
+            },
+            {
+                  "name": "Tjärnasjön",
+                  "text": "Tjärnasjön lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.402931,
+                        60.496194
+                  ]
+            },
+            {
+                  "name": "Nedre Glian",
+                  "text": "Nedre Glian lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.375367,
+                        60.551494
+                  ]
+            },
+            {
+                  "name": "Rudputten",
+                  "text": "Rudputten lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.368441,
+                        60.546288
+                  ]
+            },
+            {
+                  "name": "Gräntjärn",
+                  "text": "Gräntjärn lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.35461,
+                        60.518589
+                  ]
+            },
+            {
+                  "name": "Lisselsjön",
+                  "text": "Lisselsjön lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.364845,
+                        60.515025
+                  ]
+            },
+            {
+                  "name": "Ävjesjön",
+                  "text": "Ävjesjön lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.37833,
+                        60.541689
+                  ]
+            },
+            {
+                  "name": "Ötjärnen",
+                  "text": "Ötjärnen lake in Borlaenge is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.477461,
+                        60.533198
                   ]
             }
       ]
@@ -19250,6 +29798,186 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.521121,
                         59.329077
                   ]
+            },
+            {
+                  "name": "Fisksjön",
+                  "text": "Der Fisksjön ist ein See in Karlskoga, der Naturliebhabern eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.461439,
+                        59.307381
+                  ]
+            },
+            {
+                  "name": "Timsälven, utlopp",
+                  "text": "Timsälven, utlopp ist ein malerisches Gewässer in Karlskoga, ideal zum Wandern und Betrachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.549203,
+                        59.327246
+                  ]
+            },
+            {
+                  "name": "Dussmossetjärn",
+                  "text": "Der Dussmossetjärn ist ein See in Karlskoga, ideal für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.580012,
+                        59.321746
+                  ]
+            },
+            {
+                  "name": "Tolen",
+                  "text": "Der Tolen ist ein See in Karlskoga, der von Natur umgeben ist und schöne Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.614991,
+                        59.315319
+                  ]
+            },
+            {
+                  "name": "Paddtjärn",
+                  "text": "Der Paddtjärn ist ein kleiner See in Karlskoga, der eine ruhige Umgebung zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.41009,
+                        59.3485
+                  ]
+            },
+            {
+                  "name": "Grottsjön",
+                  "text": "Der Grottsjön ist ein See in Karlskoga, der für seine natürliche Schönheit und friedliche Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.461763,
+                        59.338608
+                  ]
+            },
+            {
+                  "name": "Kvarndammen",
+                  "text": "Der Kvarndammen ist ein malerischer See in Karlskoga, ideal für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.375776,
+                        59.344361
+                  ]
+            },
+            {
+                  "name": "Stora Lysingen",
+                  "text": "Der Stora Lysingen ist ein großer See in Karlskoga, der eine schöne Landschaft und Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.591171,
+                        59.280335
+                  ]
+            },
+            {
+                  "name": "Våtsjön",
+                  "text": "Der Våtsjön ist ein See in Karlskoga, ideal um einen ruhigen Moment in der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        14.653761,
+                        59.285876
+                  ]
+            },
+            {
+                  "name": "Möckeln",
+                  "text": "Der Möckeln ist ein bedeutender See in Karlskoga, der für seine Aussichten und Freizeitmöglichkeiten beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.512896,
+                        59.28821
+                  ]
+            },
+            {
+                  "name": "Alkvettern",
+                  "text": "Der Alkvettern ist ein See in Karlskoga, der eine malerische Umgebung für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.375572,
+                        59.394897
+                  ]
+            },
+            {
+                  "name": "Lonnen",
+                  "text": "Der Lonnen ist ein See in Karlskoga, ideal für Naturspaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        14.449969,
+                        59.387676
+                  ]
+            },
+            {
+                  "name": "Dammtjärnen",
+                  "text": "Der Dammtjärnen ist ein See in Karlskoga, der eine friedliche Umgebung inmitten der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.378148,
+                        59.315397
+                  ]
+            },
+            {
+                  "name": "Angsjön",
+                  "text": "Der Angsjön ist ein See in Karlskoga, der schöne Ausblicke auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.602688,
+                        59.297873
+                  ]
+            },
+            {
+                  "name": "Högforsdammen",
+                  "text": "Högforsdammen ist ein See in Karlskoga, ideal für einen ruhigen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.578298,
+                        59.396172
+                  ]
+            },
+            {
+                  "name": "Björktjärnen",
+                  "text": "Der Björktjärnen ist ein See in Karlskoga, der für seine ruhige natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.437801,
+                        59.336267
+                  ]
+            },
+            {
+                  "name": "Hemsjön",
+                  "text": "Der Hemsjön ist ein See in Karlskoga, der einen friedlichen Ort zur Naturbetrachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.654664,
+                        59.322609
+                  ]
+            },
+            {
+                  "name": "Knektåsparken",
+                  "text": "Knektåsparken ist ein familienfreundlicher Spielplatz in Karlskoga mit viel Platz zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.557116,
+                        59.334083
+                  ]
+            },
+            {
+                  "name": "Traktorparken",
+                  "text": "Traktorparken ist ein toller Spielplatz in Karlskoga, der bei einheimischen Familien beliebt ist.",
+                  "category": "family",
+                  "coords": [
+                        14.50054,
+                        59.331609
+                  ]
+            },
+            {
+                  "name": "Skiftesparken",
+                  "text": "Skiftesparken ist ein moderner Spielplatz in Karlskoga, ideal für Kinder zum Erkunden.",
+                  "category": "family",
+                  "coords": [
+                        14.477059,
+                        59.316832
+                  ]
             }
       ],
       "hu": [
@@ -19332,6 +30060,186 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.521121,
                         59.329077
+                  ]
+            },
+            {
+                  "name": "Fisksjön",
+                  "text": "A Fisksjön egy tó Karlskogában, amely nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        14.461439,
+                        59.307381
+                  ]
+            },
+            {
+                  "name": "Timsälven, utlopp",
+                  "text": "A Timsälven, utlopp egy festői vízfelület Karlskogában, amely ideális sétákhoz és a táj megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.549203,
+                        59.327246
+                  ]
+            },
+            {
+                  "name": "Dussmossetjärn",
+                  "text": "A Dussmossetjärn egy tó Karlskogában, amely tökéletes egy csendes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.580012,
+                        59.321746
+                  ]
+            },
+            {
+                  "name": "Tolen",
+                  "text": "A Tolen egy tó Karlskogában, amelyet természet vesz körül, és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.614991,
+                        59.315319
+                  ]
+            },
+            {
+                  "name": "Paddtjärn",
+                  "text": "A Paddtjärn egy kis tó Karlskogában, amely nyugodt környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.41009,
+                        59.3485
+                  ]
+            },
+            {
+                  "name": "Grottsjön",
+                  "text": "A Grottsjön egy tó Karlskogában, amely természeti szépségéről és nyugodt légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.461763,
+                        59.338608
+                  ]
+            },
+            {
+                  "name": "Kvarndammen",
+                  "text": "A Kvarndammen egy festői tó Karlskogában, amely ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.375776,
+                        59.344361
+                  ]
+            },
+            {
+                  "name": "Stora Lysingen",
+                  "text": "A Stora Lysingen egy nagy tó Karlskogában, amely szép tájat és gyalogutakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.591171,
+                        59.280335
+                  ]
+            },
+            {
+                  "name": "Våtsjön",
+                  "text": "A Våtsjön egy tó Karlskogában, amely tökéletes a természetben való csendes elvonuláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.653761,
+                        59.285876
+                  ]
+            },
+            {
+                  "name": "Möckeln",
+                  "text": "A Möckeln egy jelentős tó Karlskogában, amely kilátása és szabadidős lehetőségei miatt népszerű.",
+                  "category": "natural",
+                  "coords": [
+                        14.512896,
+                        59.28821
+                  ]
+            },
+            {
+                  "name": "Alkvettern",
+                  "text": "Az Alkvettern egy tó Karlskogában, amely festői környezetet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.375572,
+                        59.394897
+                  ]
+            },
+            {
+                  "name": "Lonnen",
+                  "text": "A Lonnen egy tó Karlskogában, amely ideális természetjáráshoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.449969,
+                        59.387676
+                  ]
+            },
+            {
+                  "name": "Dammtjärnen",
+                  "text": "A Dammtjärnen egy tó Karlskogában, amely nyugodt környezetet biztosít a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        14.378148,
+                        59.315397
+                  ]
+            },
+            {
+                  "name": "Angsjön",
+                  "text": "Az Angsjön egy tó Karlskogában, amely szép kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        14.602688,
+                        59.297873
+                  ]
+            },
+            {
+                  "name": "Högforsdammen",
+                  "text": "A Högforsdammen egy tó Karlskogában, amely tökéletes egy nyugodt vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.578298,
+                        59.396172
+                  ]
+            },
+            {
+                  "name": "Björktjärnen",
+                  "text": "A Björktjärnen egy tó Karlskogában, amely nyugodt természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.437801,
+                        59.336267
+                  ]
+            },
+            {
+                  "name": "Hemsjön",
+                  "text": "A Hemsjön egy tó Karlskogában, amely nyugodt helyet kínál a természet értékeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.654664,
+                        59.322609
+                  ]
+            },
+            {
+                  "name": "Knektåsparken",
+                  "text": "A Knektåsparken egy családbarát játszótér Karlskogában, bőséges hellyel a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        14.557116,
+                        59.334083
+                  ]
+            },
+            {
+                  "name": "Traktorparken",
+                  "text": "A Traktorparken egy szórakoztató játszótér Karlskogában, amely népszerű a helyi családok körében.",
+                  "category": "family",
+                  "coords": [
+                        14.50054,
+                        59.331609
+                  ]
+            },
+            {
+                  "name": "Skiftesparken",
+                  "text": "A Skiftesparken egy modern játszótér Karlskogában, amely tökéletes a gyermekek számára a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.477059,
+                        59.316832
                   ]
             }
       ],
@@ -19416,6 +30324,186 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.521121,
                         59.329077
                   ]
+            },
+            {
+                  "name": "Fisksjön",
+                  "text": "Fisksjön este un lac din Karlskoga, oferind un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.461439,
+                        59.307381
+                  ]
+            },
+            {
+                  "name": "Timsälven, utlopp",
+                  "text": "Timsälven, utlopp este o zonă cu apă pitorească din Karlskoga, ideală pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        14.549203,
+                        59.327246
+                  ]
+            },
+            {
+                  "name": "Dussmossetjärn",
+                  "text": "Dussmossetjärn este un lac din Karlskoga, perfect pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.580012,
+                        59.321746
+                  ]
+            },
+            {
+                  "name": "Tolen",
+                  "text": "Tolen este un lac din Karlskoga înconjurat de natură, oferind priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.614991,
+                        59.315319
+                  ]
+            },
+            {
+                  "name": "Paddtjärn",
+                  "text": "Paddtjärn este un lac mic din Karlskoga, oferind un mediu calm pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.41009,
+                        59.3485
+                  ]
+            },
+            {
+                  "name": "Grottsjön",
+                  "text": "Grottsjön este un lac din Karlskoga, cunoscut pentru frumusețea sa naturală și atmosfera liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.461763,
+                        59.338608
+                  ]
+            },
+            {
+                  "name": "Kvarndammen",
+                  "text": "Kvarndammen este un lac pitoresc din Karlskoga, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.375776,
+                        59.344361
+                  ]
+            },
+            {
+                  "name": "Stora Lysingen",
+                  "text": "Stora Lysingen este un lac mare din Karlskoga, oferind peisaje frumoase și trasee de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        14.591171,
+                        59.280335
+                  ]
+            },
+            {
+                  "name": "Våtsjön",
+                  "text": "Våtsjön este un lac din Karlskoga, perfect pentru a te bucura de un moment de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.653761,
+                        59.285876
+                  ]
+            },
+            {
+                  "name": "Möckeln",
+                  "text": "Möckeln este un lac important din Karlskoga, popular pentru priveliștile sale și oportunitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        14.512896,
+                        59.28821
+                  ]
+            },
+            {
+                  "name": "Alkvettern",
+                  "text": "Alkvettern este un lac din Karlskoga, oferind un mediu pitoresc pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.375572,
+                        59.394897
+                  ]
+            },
+            {
+                  "name": "Lonnen",
+                  "text": "Lonnen este un lac din Karlskoga, ideal pentru plimbări în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.449969,
+                        59.387676
+                  ]
+            },
+            {
+                  "name": "Dammtjärnen",
+                  "text": "Dammtjärnen este un lac din Karlskoga, oferind un cadru liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.378148,
+                        59.315397
+                  ]
+            },
+            {
+                  "name": "Angsjön",
+                  "text": "Angsjön este un lac din Karlskoga, oferind priveliști frumoase asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        14.602688,
+                        59.297873
+                  ]
+            },
+            {
+                  "name": "Högforsdammen",
+                  "text": "Högforsdammen este un lac din Karlskoga, perfect pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.578298,
+                        59.396172
+                  ]
+            },
+            {
+                  "name": "Björktjärnen",
+                  "text": "Björktjärnen este un lac din Karlskoga, cunoscut pentru împrejurimile sale naturale liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        14.437801,
+                        59.336267
+                  ]
+            },
+            {
+                  "name": "Hemsjön",
+                  "text": "Hemsjön este un lac din Karlskoga, oferind un loc liniștit pentru aprecierea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.654664,
+                        59.322609
+                  ]
+            },
+            {
+                  "name": "Knektåsparken",
+                  "text": "Knektåsparken este un loc de joacă pentru familii din Karlskoga, cu mult spațiu pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.557116,
+                        59.334083
+                  ]
+            },
+            {
+                  "name": "Traktorparken",
+                  "text": "Traktorparken este un loc de joacă distractiv din Karlskoga, popular printre familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        14.50054,
+                        59.331609
+                  ]
+            },
+            {
+                  "name": "Skiftesparken",
+                  "text": "Skiftesparken este un loc de joacă modern din Karlskoga, perfect pentru explorarea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.477059,
+                        59.316832
+                  ]
             }
       ],
       "en": [
@@ -19498,6 +30586,186 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.521121,
                         59.329077
+                  ]
+            },
+            {
+                  "name": "Fisksjön",
+                  "text": "Fisksjön is a lake in Karlskoga, offering a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.461439,
+                        59.307381
+                  ]
+            },
+            {
+                  "name": "Timsälven, utlopp",
+                  "text": "Timsälven, utlopp is a scenic water area in Karlskoga, ideal for walking and viewing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.549203,
+                        59.327246
+                  ]
+            },
+            {
+                  "name": "Dussmossetjärn",
+                  "text": "Dussmossetjärn is a lake in Karlskoga, perfect for a quiet walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.580012,
+                        59.321746
+                  ]
+            },
+            {
+                  "name": "Tolen",
+                  "text": "Tolen is a lake in Karlskoga surrounded by nature, offering beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.614991,
+                        59.315319
+                  ]
+            },
+            {
+                  "name": "Paddtjärn",
+                  "text": "Paddtjärn is a small lake in Karlskoga, providing a calm environment for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.41009,
+                        59.3485
+                  ]
+            },
+            {
+                  "name": "Grottsjön",
+                  "text": "Grottsjön is a lake in Karlskoga, known for its natural beauty and peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.461763,
+                        59.338608
+                  ]
+            },
+            {
+                  "name": "Kvarndammen",
+                  "text": "Kvarndammen is a scenic lake in Karlskoga, ideal for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.375776,
+                        59.344361
+                  ]
+            },
+            {
+                  "name": "Stora Lysingen",
+                  "text": "Stora Lysingen is a large lake in Karlskoga, offering beautiful scenery and walking trails.",
+                  "category": "natural",
+                  "coords": [
+                        14.591171,
+                        59.280335
+                  ]
+            },
+            {
+                  "name": "Våtsjön",
+                  "text": "Våtsjön is a lake in Karlskoga, perfect for enjoying a quiet moment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.653761,
+                        59.285876
+                  ]
+            },
+            {
+                  "name": "Möckeln",
+                  "text": "Möckeln is a major lake in Karlskoga, popular for its views and recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        14.512896,
+                        59.28821
+                  ]
+            },
+            {
+                  "name": "Alkvettern",
+                  "text": "Alkvettern is a lake in Karlskoga, offering a scenic environment for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        14.375572,
+                        59.394897
+                  ]
+            },
+            {
+                  "name": "Lonnen",
+                  "text": "Lonnen is a lake in Karlskoga, ideal for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.449969,
+                        59.387676
+                  ]
+            },
+            {
+                  "name": "Dammtjärnen",
+                  "text": "Dammtjärnen is a lake in Karlskoga, providing a peaceful setting amidst nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.378148,
+                        59.315397
+                  ]
+            },
+            {
+                  "name": "Angsjön",
+                  "text": "Angsjön is a lake in Karlskoga, offering beautiful landscape views.",
+                  "category": "natural",
+                  "coords": [
+                        14.602688,
+                        59.297873
+                  ]
+            },
+            {
+                  "name": "Högforsdammen",
+                  "text": "Högforsdammen is a lake in Karlskoga, perfect for a calm walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.578298,
+                        59.396172
+                  ]
+            },
+            {
+                  "name": "Björktjärnen",
+                  "text": "Björktjärnen is a lake in Karlskoga, known for its tranquil natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.437801,
+                        59.336267
+                  ]
+            },
+            {
+                  "name": "Hemsjön",
+                  "text": "Hemsjön is a lake in Karlskoga, offering a peaceful spot for nature appreciation.",
+                  "category": "natural",
+                  "coords": [
+                        14.654664,
+                        59.322609
+                  ]
+            },
+            {
+                  "name": "Knektåsparken",
+                  "text": "Knektåsparken is a family-friendly playground in Karlskoga with plenty of space for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        14.557116,
+                        59.334083
+                  ]
+            },
+            {
+                  "name": "Traktorparken",
+                  "text": "Traktorparken is a fun playground in Karlskoga, popular with local families.",
+                  "category": "family",
+                  "coords": [
+                        14.50054,
+                        59.331609
+                  ]
+            },
+            {
+                  "name": "Skiftesparken",
+                  "text": "Skiftesparken is a modern playground in Karlskoga, perfect for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        14.477059,
+                        59.316832
                   ]
             }
       ]
@@ -19637,6 +30905,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.5187,
                         57.937593
                   ]
+            },
+            {
+                  "name": "Timmersjön",
+                  "text": "Ein ruhiger See bei Alingsås, ideal zum Entspannen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.459167,
+                        57.974151
+                  ]
+            },
+            {
+                  "name": "Lersjön",
+                  "text": "Ein See in der Umgebung von Alingsås, der sich gut für Wanderungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.463402,
+                        57.969786
+                  ]
+            },
+            {
+                  "name": "Brunnsjön",
+                  "text": "Ein malerischer See bei Alingsås, eingebettet in die schwedische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.462222,
+                        57.963505
+                  ]
+            },
+            {
+                  "name": "Kråkevattnet",
+                  "text": "Ein naturbelassener See in Alingsås, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.45562,
+                        57.964509
+                  ]
+            },
+            {
+                  "name": "Stora Fjällsjön",
+                  "text": "Ein größerer See bei Alingsås, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        12.485051,
+                        57.951971
+                  ]
+            },
+            {
+                  "name": "Lilla Fjällsjön",
+                  "text": "Ein kleinerer See in Alingsås, der eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.480408,
+                        57.950299
+                  ]
+            },
+            {
+                  "name": "Grässjön",
+                  "text": "Ein lokaler See bei Alingsås für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.485635,
+                        57.945464
+                  ]
+            },
+            {
+                  "name": "Valsjön",
+                  "text": "Ein landschaftlich schöner See in der Nähe von Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.500848,
+                        57.959569
+                  ]
+            },
+            {
+                  "name": "Lilla Mörken",
+                  "text": "Ein kleiner See bei Alingsås, umgeben von Wald und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.504058,
+                        57.963448
+                  ]
+            },
+            {
+                  "name": "Stora Mörken",
+                  "text": "Ein See in Alingsås, der sich durch seine natürliche Lage auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        12.507535,
+                        57.964994
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Ein Gewässer bei Alingsås, ideal für kurze Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.516075,
+                        57.950811
+                  ]
+            },
+            {
+                  "name": "Mårsjön",
+                  "text": "Ein ruhiger See in Alingsås für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        12.517242,
+                        57.966
+                  ]
+            },
+            {
+                  "name": "Lille-Trän",
+                  "text": "Ein See bei Alingsås, der Teil der lokalen Seenlandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.525061,
+                        57.971893
+                  ]
+            },
+            {
+                  "name": "Kedjesjön",
+                  "text": "Ein lokaler See in der Umgebung von Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.5285,
+                        57.957155
+                  ]
+            },
+            {
+                  "name": "Dammsjön",
+                  "text": "Ein kleiner See bei Alingsås, ideal für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        12.525392,
+                        57.96032
+                  ]
+            },
+            {
+                  "name": "Hötjärnen",
+                  "text": "Ein kleiner See in Alingsås, umgeben von typisch schwedischer Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.540439,
+                        57.959876
+                  ]
+            },
+            {
+                  "name": "Blåtjärnen",
+                  "text": "Ein ruhiger See bei Alingsås, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.537104,
+                        57.965907
+                  ]
+            },
+            {
+                  "name": "Kroppetjärnen",
+                  "text": "Ein See in Alingsås, eingebettet in die bewaldete Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        12.492339,
+                        57.962576
+                  ]
+            },
+            {
+                  "name": "Lommasjön",
+                  "text": "Ein Gewässer bei Alingsås, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        12.486532,
+                        57.964402
+                  ]
+            },
+            {
+                  "name": "Hjällnäs mörk",
+                  "text": "Ein lokaler See in Alingsås, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.4834,
+                        57.966009
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Ein See bei Alingsås, der typisch für die Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.494262,
+                        57.966068
+                  ]
+            },
+            {
+                  "name": "Lilla Hyggesjön",
+                  "text": "Ein kleiner See in Alingsås für ruhige Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.484165,
+                        57.990156
+                  ]
+            },
+            {
+                  "name": "Namnsjön",
+                  "text": "Ein Gewässer bei Alingsås, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.494607,
+                        57.991446
+                  ]
+            },
+            {
+                  "name": "Gransjön",
+                  "text": "Ein See in Alingsås, ideal für Beobachtungen der Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        12.534385,
+                        57.993593
+                  ]
+            },
+            {
+                  "name": "Anders-Perssjön",
+                  "text": "Ein ruhiger See bei Alingsås für eine Pause vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        12.525836,
+                        57.98471
+                  ]
             }
       ],
       "hu": [
@@ -19728,6 +31221,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.5187,
                         57.937593
+                  ]
+            },
+            {
+                  "name": "Timmersjön",
+                  "text": "Csendes tó Alingsås közelében, ideális a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        12.459167,
+                        57.974151
+                  ]
+            },
+            {
+                  "name": "Lersjön",
+                  "text": "Tó Alingsås környékén, amely kiválóan alkalmas túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        12.463402,
+                        57.969786
+                  ]
+            },
+            {
+                  "name": "Brunnsjön",
+                  "text": "Festői tó Alingsås közelében, a svéd tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        12.462222,
+                        57.963505
+                  ]
+            },
+            {
+                  "name": "Kråkevattnet",
+                  "text": "Természetközeli tó Alingsåsban, amely nyugalmat és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        12.45562,
+                        57.964509
+                  ]
+            },
+            {
+                  "name": "Stora Fjällsjön",
+                  "text": "Nagyobb tó Alingsås mellett, ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.485051,
+                        57.951971
+                  ]
+            },
+            {
+                  "name": "Lilla Fjällsjön",
+                  "text": "Kisebb tó Alingsåsban, amely békés környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        12.480408,
+                        57.950299
+                  ]
+            },
+            {
+                  "name": "Grässjön",
+                  "text": "Helyi tó Alingsås közelében a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.485635,
+                        57.945464
+                  ]
+            },
+            {
+                  "name": "Valsjön",
+                  "text": "Tájképi szempontból szép tó Alingsås közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.500848,
+                        57.959569
+                  ]
+            },
+            {
+                  "name": "Lilla Mörken",
+                  "text": "Kisebb tó Alingsås mellett, erdővel és természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        12.504058,
+                        57.963448
+                  ]
+            },
+            {
+                  "name": "Stora Mörken",
+                  "text": "Alingsås-i tó, amelyet természetes elhelyezkedése jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        12.507535,
+                        57.964994
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Vízfelület Alingsås közelében, ideális rövid természetjáró kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.516075,
+                        57.950811
+                  ]
+            },
+            {
+                  "name": "Mårsjön",
+                  "text": "Csendes tó Alingsåsban a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.517242,
+                        57.966
+                  ]
+            },
+            {
+                  "name": "Lille-Trän",
+                  "text": "Alingsås közeli tó, amely a helyi tóvidék része.",
+                  "category": "natural",
+                  "coords": [
+                        12.525061,
+                        57.971893
+                  ]
+            },
+            {
+                  "name": "Kedjesjön",
+                  "text": "Helyi tó Alingsås környékén.",
+                  "category": "natural",
+                  "coords": [
+                        12.5285,
+                        57.957155
+                  ]
+            },
+            {
+                  "name": "Dammsjön",
+                  "text": "Kisebb tó Alingsås közelében, ideális csendes percekhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.525392,
+                        57.96032
+                  ]
+            },
+            {
+                  "name": "Hötjärnen",
+                  "text": "Kisebb tó Alingsåsban, tipikus svéd természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        12.540439,
+                        57.959876
+                  ]
+            },
+            {
+                  "name": "Blåtjärnen",
+                  "text": "Csendes tó Alingsås mellett, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.537104,
+                        57.965907
+                  ]
+            },
+            {
+                  "name": "Kroppetjärnen",
+                  "text": "Alingsås-i tó, erdős környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        12.492339,
+                        57.962576
+                  ]
+            },
+            {
+                  "name": "Lommasjön",
+                  "text": "Vízfelület Alingsås közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        12.486532,
+                        57.964402
+                  ]
+            },
+            {
+                  "name": "Hjällnäs mörk",
+                  "text": "Helyi tó Alingsåsban, amely békés légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        12.4834,
+                        57.966009
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Alingsås környéki tó, amely jellemző a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        12.494262,
+                        57.966068
+                  ]
+            },
+            {
+                  "name": "Lilla Hyggesjön",
+                  "text": "Kisebb tó Alingsåsban a csendes természetjáró kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.484165,
+                        57.990156
+                  ]
+            },
+            {
+                  "name": "Namnsjön",
+                  "text": "Alingsås melletti vízfelület, amely kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.494607,
+                        57.991446
+                  ]
+            },
+            {
+                  "name": "Gransjön",
+                  "text": "Tó Alingsåsban, ideális a növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        12.534385,
+                        57.993593
+                  ]
+            },
+            {
+                  "name": "Anders-Perssjön",
+                  "text": "Csendes tó Alingsås közelében a mindennapokból való kiszakadáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.525836,
+                        57.98471
                   ]
             }
       ],
@@ -19821,6 +31539,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.5187,
                         57.937593
                   ]
+            },
+            {
+                  "name": "Timmersjön",
+                  "text": "Un lac liniștit lângă Alingsås, ideal pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.459167,
+                        57.974151
+                  ]
+            },
+            {
+                  "name": "Lersjön",
+                  "text": "Un lac în zona Alingsås, potrivit pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        12.463402,
+                        57.969786
+                  ]
+            },
+            {
+                  "name": "Brunnsjön",
+                  "text": "Un lac pitoresc lângă Alingsås, situat în peisajul suedez.",
+                  "category": "natural",
+                  "coords": [
+                        12.462222,
+                        57.963505
+                  ]
+            },
+            {
+                  "name": "Kråkevattnet",
+                  "text": "Un lac natural în Alingsås, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.45562,
+                        57.964509
+                  ]
+            },
+            {
+                  "name": "Stora Fjällsjön",
+                  "text": "Un lac mai mare lângă Alingsås, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.485051,
+                        57.951971
+                  ]
+            },
+            {
+                  "name": "Lilla Fjällsjön",
+                  "text": "Un lac mai mic în Alingsås, care oferă un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        12.480408,
+                        57.950299
+                  ]
+            },
+            {
+                  "name": "Grässjön",
+                  "text": "Un lac local lângă Alingsås pentru ore relaxante la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.485635,
+                        57.945464
+                  ]
+            },
+            {
+                  "name": "Valsjön",
+                  "text": "Un lac pitoresc în apropiere de Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.500848,
+                        57.959569
+                  ]
+            },
+            {
+                  "name": "Lilla Mörken",
+                  "text": "Un lac mic lângă Alingsås, înconjurat de pădure și natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.504058,
+                        57.963448
+                  ]
+            },
+            {
+                  "name": "Stora Mörken",
+                  "text": "Un lac în Alingsås, caracterizat prin locația sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        12.507535,
+                        57.964994
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "O masă de apă lângă Alingsås, ideală pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.516075,
+                        57.950811
+                  ]
+            },
+            {
+                  "name": "Mårsjön",
+                  "text": "Un lac liniștit în Alingsås pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        12.517242,
+                        57.966
+                  ]
+            },
+            {
+                  "name": "Lille-Trän",
+                  "text": "Un lac lângă Alingsås, care face parte din zona lacustră locală.",
+                  "category": "natural",
+                  "coords": [
+                        12.525061,
+                        57.971893
+                  ]
+            },
+            {
+                  "name": "Kedjesjön",
+                  "text": "Un lac local în zona Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.5285,
+                        57.957155
+                  ]
+            },
+            {
+                  "name": "Dammsjön",
+                  "text": "Un lac mic lângă Alingsås, ideal pentru momente liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        12.525392,
+                        57.96032
+                  ]
+            },
+            {
+                  "name": "Hötjärnen",
+                  "text": "Un lac mic în Alingsås, înconjurat de natura tipic suedeză.",
+                  "category": "natural",
+                  "coords": [
+                        12.540439,
+                        57.959876
+                  ]
+            },
+            {
+                  "name": "Blåtjärnen",
+                  "text": "Un lac liniștit lângă Alingsås, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.537104,
+                        57.965907
+                  ]
+            },
+            {
+                  "name": "Kroppetjärnen",
+                  "text": "Un lac în Alingsås, situat în mediul împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        12.492339,
+                        57.962576
+                  ]
+            },
+            {
+                  "name": "Lommasjön",
+                  "text": "O masă de apă lângă Alingsås, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.486532,
+                        57.964402
+                  ]
+            },
+            {
+                  "name": "Hjällnäs mörk",
+                  "text": "Un lac local în Alingsås, care oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        12.4834,
+                        57.966009
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "Un lac lângă Alingsås, tipic pentru regiune.",
+                  "category": "natural",
+                  "coords": [
+                        12.494262,
+                        57.966068
+                  ]
+            },
+            {
+                  "name": "Lilla Hyggesjön",
+                  "text": "Un lac mic în Alingsås pentru excursii liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.484165,
+                        57.990156
+                  ]
+            },
+            {
+                  "name": "Namnsjön",
+                  "text": "O masă de apă lângă Alingsås, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.494607,
+                        57.991446
+                  ]
+            },
+            {
+                  "name": "Gransjön",
+                  "text": "Un lac în Alingsås, ideal pentru observarea florei și faunei.",
+                  "category": "natural",
+                  "coords": [
+                        12.534385,
+                        57.993593
+                  ]
+            },
+            {
+                  "name": "Anders-Perssjön",
+                  "text": "Un lac liniștit lângă Alingsås pentru o pauză de la viața de zi cu zi.",
+                  "category": "natural",
+                  "coords": [
+                        12.525836,
+                        57.98471
+                  ]
             }
       ],
       "en": [
@@ -19912,6 +31855,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.5187,
                         57.937593
+                  ]
+            },
+            {
+                  "name": "Timmersjön",
+                  "text": "A quiet lake near Alingsås, ideal for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.459167,
+                        57.974151
+                  ]
+            },
+            {
+                  "name": "Lersjön",
+                  "text": "A lake in the Alingsås area, suitable for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        12.463402,
+                        57.969786
+                  ]
+            },
+            {
+                  "name": "Brunnsjön",
+                  "text": "A scenic lake near Alingsås, nestled in the Swedish landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.462222,
+                        57.963505
+                  ]
+            },
+            {
+                  "name": "Kråkevattnet",
+                  "text": "A natural lake in Alingsås offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.45562,
+                        57.964509
+                  ]
+            },
+            {
+                  "name": "Stora Fjällsjön",
+                  "text": "A larger lake near Alingsås, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        12.485051,
+                        57.951971
+                  ]
+            },
+            {
+                  "name": "Lilla Fjällsjön",
+                  "text": "A smaller lake in Alingsås providing a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        12.480408,
+                        57.950299
+                  ]
+            },
+            {
+                  "name": "Grässjön",
+                  "text": "A local lake near Alingsås for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.485635,
+                        57.945464
+                  ]
+            },
+            {
+                  "name": "Valsjön",
+                  "text": "A scenically beautiful lake near Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.500848,
+                        57.959569
+                  ]
+            },
+            {
+                  "name": "Lilla Mörken",
+                  "text": "A small lake near Alingsås, surrounded by forest and nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.504058,
+                        57.963448
+                  ]
+            },
+            {
+                  "name": "Stora Mörken",
+                  "text": "A lake in Alingsås, characterized by its natural location.",
+                  "category": "natural",
+                  "coords": [
+                        12.507535,
+                        57.964994
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A body of water near Alingsås, ideal for short trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.516075,
+                        57.950811
+                  ]
+            },
+            {
+                  "name": "Mårsjön",
+                  "text": "A quiet lake in Alingsås for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.517242,
+                        57.966
+                  ]
+            },
+            {
+                  "name": "Lille-Trän",
+                  "text": "A lake near Alingsås, which is part of the local lake district.",
+                  "category": "natural",
+                  "coords": [
+                        12.525061,
+                        57.971893
+                  ]
+            },
+            {
+                  "name": "Kedjesjön",
+                  "text": "A local lake in the Alingsås area.",
+                  "category": "natural",
+                  "coords": [
+                        12.5285,
+                        57.957155
+                  ]
+            },
+            {
+                  "name": "Dammsjön",
+                  "text": "A small lake near Alingsås, ideal for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        12.525392,
+                        57.96032
+                  ]
+            },
+            {
+                  "name": "Hötjärnen",
+                  "text": "A small lake in Alingsås, surrounded by typical Swedish nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.540439,
+                        57.959876
+                  ]
+            },
+            {
+                  "name": "Blåtjärnen",
+                  "text": "A quiet lake near Alingsås that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        12.537104,
+                        57.965907
+                  ]
+            },
+            {
+                  "name": "Kroppetjärnen",
+                  "text": "A lake in Alingsås, nestled in the forested surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        12.492339,
+                        57.962576
+                  ]
+            },
+            {
+                  "name": "Lommasjön",
+                  "text": "A body of water near Alingsås, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        12.486532,
+                        57.964402
+                  ]
+            },
+            {
+                  "name": "Hjällnäs mörk",
+                  "text": "A local lake in Alingsås offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        12.4834,
+                        57.966009
+                  ]
+            },
+            {
+                  "name": "Abborrtjärnen",
+                  "text": "A lake near Alingsås, typical of the region.",
+                  "category": "natural",
+                  "coords": [
+                        12.494262,
+                        57.966068
+                  ]
+            },
+            {
+                  "name": "Lilla Hyggesjön",
+                  "text": "A small lake in Alingsås for quiet trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.484165,
+                        57.990156
+                  ]
+            },
+            {
+                  "name": "Namnsjön",
+                  "text": "A body of water near Alingsås that invites you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        12.494607,
+                        57.991446
+                  ]
+            },
+            {
+                  "name": "Gransjön",
+                  "text": "A lake in Alingsås, ideal for observing flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        12.534385,
+                        57.993593
+                  ]
+            },
+            {
+                  "name": "Anders-Perssjön",
+                  "text": "A quiet lake near Alingsås for a break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        12.525836,
+                        57.98471
                   ]
             }
       ]
@@ -20024,6 +32192,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.437233,
                         58.386684
                   ]
+            },
+            {
+                  "name": "Hornborgasjön",
+                  "text": "Der Hornborga-See in Skara ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.545425,
+                        58.316858
+                  ]
+            },
+            {
+                  "name": "Karpsjön",
+                  "text": "Der Karpsjön-See in Skara ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.551258,
+                        58.408582
+                  ]
             }
       ],
       "hu": [
@@ -20088,6 +32274,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.437233,
                         58.386684
+                  ]
+            },
+            {
+                  "name": "Hornborgasjön",
+                  "text": "A Skara területén található Hornborga-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.545425,
+                        58.316858
+                  ]
+            },
+            {
+                  "name": "Karpsjön",
+                  "text": "A Skara területén található Karpsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.551258,
+                        58.408582
                   ]
             }
       ],
@@ -20154,6 +32358,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.437233,
                         58.386684
                   ]
+            },
+            {
+                  "name": "Hornborgasjön",
+                  "text": "Lacul Hornborga din Skara este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.545425,
+                        58.316858
+                  ]
+            },
+            {
+                  "name": "Karpsjön",
+                  "text": "Lacul Karpsjön din Skara este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.551258,
+                        58.408582
+                  ]
             }
       ],
       "en": [
@@ -20218,6 +32440,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.437233,
                         58.386684
+                  ]
+            },
+            {
+                  "name": "Lake Hornborga",
+                  "text": "Lake Hornborga in Skara is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.545425,
+                        58.316858
+                  ]
+            },
+            {
+                  "name": "Karpsjön",
+                  "text": "Karpsjön lake in Skara is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.551258,
+                        58.408582
                   ]
             }
       ]
@@ -20303,6 +32543,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.695044,
                         57.657331
                   ]
+            },
+            {
+                  "name": "Gisshultasjön",
+                  "text": "Der Gisshultasjön ist ein See in Nässjö, der eine friedliche Umgebung und schöne Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.786066,
+                        57.624818
+                  ]
+            },
+            {
+                  "name": "Runnerydssjön",
+                  "text": "Der Runnerydssjön ist ein See in Nässjö, ideal für Naturspaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        14.685798,
+                        57.654266
+                  ]
+            },
+            {
+                  "name": "Ingsbergssjön",
+                  "text": "Der Ingsbergssjön ist ein malerischer See in Nässjö, der Besuchern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.704406,
+                        57.654085
+                  ]
+            },
+            {
+                  "name": "Handskerydssjön",
+                  "text": "Der Handskerydssjön ist ein See in Nässjö, der für seine ruhige Atmosphäre und Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.698477,
+                        57.642094
+                  ]
+            },
+            {
+                  "name": "Dissedala göl",
+                  "text": "Dissedala göl ist ein See in Nässjö, ideal um eine ruhige Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        14.773403,
+                        57.599807
+                  ]
+            },
+            {
+                  "name": "Träsländagölen",
+                  "text": "Träsländagölen ist ein See in Nässjö, der einen friedlichen Ort im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.71639,
+                        57.679848
+                  ]
+            },
+            {
+                  "name": "Fallegölen",
+                  "text": "Fallegölen ist ein kleiner See in Nässjö, der von einer natürlichen Umgebung umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.725872,
+                        57.699246
+                  ]
+            },
+            {
+                  "name": "Målegärde damm",
+                  "text": "Målegärde damm ist ein See in Nässjö, ideal für einen friedlichen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.777147,
+                        57.695763
+                  ]
+            },
+            {
+                  "name": "Ryssbysjön",
+                  "text": "Der Ryssbysjön ist ein See in Nässjö, der malerische Ausblicke und eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.637509,
+                        57.703288
+                  ]
+            },
+            {
+                  "name": "Sjunnarydssjön",
+                  "text": "Der Sjunnarydssjön ist ein See in Nässjö, ideal für alle, die Natur und Erholung suchen.",
+                  "category": "natural",
+                  "coords": [
+                        14.823131,
+                        57.651502
+                  ]
             }
       ],
       "hu": [
@@ -20340,6 +32670,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.695044,
                         57.657331
+                  ]
+            },
+            {
+                  "name": "Gisshultasjön",
+                  "text": "A Gisshultasjön egy tó Nässjöben, amely nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.786066,
+                        57.624818
+                  ]
+            },
+            {
+                  "name": "Runnerydssjön",
+                  "text": "A Runnerydssjön egy tó Nässjöben, amely ideális természetjáráshoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.685798,
+                        57.654266
+                  ]
+            },
+            {
+                  "name": "Ingsbergssjön",
+                  "text": "Az Ingsbergssjön egy festői tó Nässjöben, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.704406,
+                        57.654085
+                  ]
+            },
+            {
+                  "name": "Handskerydssjön",
+                  "text": "A Handskerydssjön egy tó Nässjöben, amely nyugodt légköréről és természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.698477,
+                        57.642094
+                  ]
+            },
+            {
+                  "name": "Dissedala göl",
+                  "text": "A Dissedala göl egy tó Nässjöben, amely tökéletes a csendes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.773403,
+                        57.599807
+                  ]
+            },
+            {
+                  "name": "Träsländagölen",
+                  "text": "A Träsländagölen egy tó Nässjöben, amely nyugodt helyet kínál a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        14.71639,
+                        57.679848
+                  ]
+            },
+            {
+                  "name": "Fallegölen",
+                  "text": "A Fallegölen egy kis tó Nässjöben, amelyet természetes környezet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        14.725872,
+                        57.699246
+                  ]
+            },
+            {
+                  "name": "Målegärde damm",
+                  "text": "A Målegärde damm egy tó Nässjöben, amely ideális egy nyugodt természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.777147,
+                        57.695763
+                  ]
+            },
+            {
+                  "name": "Ryssbysjön",
+                  "text": "A Ryssbysjön egy tó Nässjöben, amely festői kilátást és nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.637509,
+                        57.703288
+                  ]
+            },
+            {
+                  "name": "Sjunnarydssjön",
+                  "text": "A Sjunnarydssjön egy tó Nässjöben, amely tökéletes a természetet és kikapcsolódást keresőknek.",
+                  "category": "natural",
+                  "coords": [
+                        14.823131,
+                        57.651502
                   ]
             }
       ],
@@ -20379,6 +32799,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.695044,
                         57.657331
                   ]
+            },
+            {
+                  "name": "Gisshultasjön",
+                  "text": "Gisshultasjön este un lac din Naessjoe, oferind un mediu liniștit și priveliști pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.786066,
+                        57.624818
+                  ]
+            },
+            {
+                  "name": "Runnerydssjön",
+                  "text": "Runnerydssjön este un lac din Naessjoe, ideal pentru plimbări în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.685798,
+                        57.654266
+                  ]
+            },
+            {
+                  "name": "Ingsbergssjön",
+                  "text": "Ingsbergssjön este un lac pitoresc din Naessjoe, oferind un cadru calm pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        14.704406,
+                        57.654085
+                  ]
+            },
+            {
+                  "name": "Handskerydssjön",
+                  "text": "Handskerydssjön este un lac din Naessjoe, cunoscut pentru atmosfera sa liniștită și natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.698477,
+                        57.642094
+                  ]
+            },
+            {
+                  "name": "Dissedala göl",
+                  "text": "Dissedala göl este un lac din Naessjoe, perfect pentru a te bucura de un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.773403,
+                        57.599807
+                  ]
+            },
+            {
+                  "name": "Träsländagölen",
+                  "text": "Träsländagölen este un lac din Naessjoe, oferind un loc liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.71639,
+                        57.679848
+                  ]
+            },
+            {
+                  "name": "Fallegölen",
+                  "text": "Fallegölen este un lac mic din Naessjoe, înconjurat de un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        14.725872,
+                        57.699246
+                  ]
+            },
+            {
+                  "name": "Målegärde damm",
+                  "text": "Målegärde damm este un lac din Naessjoe, ideal pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.777147,
+                        57.695763
+                  ]
+            },
+            {
+                  "name": "Ryssbysjön",
+                  "text": "Ryssbysjön este un lac din Naessjoe, oferind priveliști pitorești și o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        14.637509,
+                        57.703288
+                  ]
+            },
+            {
+                  "name": "Sjunnarydssjön",
+                  "text": "Sjunnarydssjön este un lac din Naessjoe, perfect pentru cei care caută natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.823131,
+                        57.651502
+                  ]
             }
       ],
       "en": [
@@ -20416,6 +32926,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.695044,
                         57.657331
+                  ]
+            },
+            {
+                  "name": "Gisshultasjön",
+                  "text": "Gisshultasjön is a lake in Naessjoe, offering a peaceful environment and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.786066,
+                        57.624818
+                  ]
+            },
+            {
+                  "name": "Runnerydssjön",
+                  "text": "Runnerydssjön is a lake in Naessjoe, ideal for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.685798,
+                        57.654266
+                  ]
+            },
+            {
+                  "name": "Ingsbergssjön",
+                  "text": "Ingsbergssjön is a scenic lake in Naessjoe, providing a calm setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        14.704406,
+                        57.654085
+                  ]
+            },
+            {
+                  "name": "Handskerydssjön",
+                  "text": "Handskerydssjön is a lake in Naessjoe, known for its tranquil atmosphere and nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.698477,
+                        57.642094
+                  ]
+            },
+            {
+                  "name": "Dissedala göl",
+                  "text": "Dissedala göl is a lake in Naessjoe, perfect for enjoying quiet scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.773403,
+                        57.599807
+                  ]
+            },
+            {
+                  "name": "Träsländagölen",
+                  "text": "Träsländagölen is a lake in Naessjoe, offering a peaceful spot in the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        14.71639,
+                        57.679848
+                  ]
+            },
+            {
+                  "name": "Fallegölen",
+                  "text": "Fallegölen is a small lake in Naessjoe surrounded by a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.725872,
+                        57.699246
+                  ]
+            },
+            {
+                  "name": "Målegärde damm",
+                  "text": "Målegärde damm is a lake in Naessjoe, ideal for a peaceful walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.777147,
+                        57.695763
+                  ]
+            },
+            {
+                  "name": "Ryssbysjön",
+                  "text": "Ryssbysjön is a lake in Naessjoe, offering scenic views and a quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        14.637509,
+                        57.703288
+                  ]
+            },
+            {
+                  "name": "Sjunnarydssjön",
+                  "text": "Sjunnarydssjön is a lake in Naessjoe, perfect for those seeking nature and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.823131,
+                        57.651502
                   ]
             }
       ]
@@ -20645,6 +33245,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.892355,
                         58.447656
                   ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Der Vättern-See in Vadstena ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
             }
       ],
       "hu": [
@@ -20736,6 +33345,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.892355,
                         58.447656
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Vadstena területén található Vättern-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
                   ]
             }
       ],
@@ -20829,6 +33447,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.892355,
                         58.447656
                   ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Lacul Vättern din Vadstena este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
             }
       ],
       "en": [
@@ -20920,6 +33547,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.892355,
                         58.447656
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern lake in Vadstena is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
                   ]
             }
       ]
@@ -21275,6 +33911,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.358492,
                         58.465435
                   ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Ein kleiner See bei Söderköping, ideal für ruhige Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        16.252996,
+                        58.512143
+                  ]
+            },
+            {
+                  "name": "Mariehovssjön",
+                  "text": "Ein ruhiger See in Söderköping, der zur Erholung im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.27045,
+                        58.507678
+                  ]
+            },
+            {
+                  "name": "Klarsjön",
+                  "text": "Ein landschaftlich schöner See in der Umgebung von Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.2229,
+                        58.4415
+                  ]
+            },
+            {
+                  "name": "Oxtorpesjön",
+                  "text": "Ein lokaler See bei Söderköping, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.350608,
+                        58.495844
+                  ]
+            },
+            {
+                  "name": "Strodammen",
+                  "text": "Ein Gewässer bei Söderköping, das Ruhe und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.38028,
+                        58.465894
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Ein kleiner See in Söderköping, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.217733,
+                        58.438953
+                  ]
+            },
+            {
+                  "name": "Tettingen",
+                  "text": "Ein See bei Söderköping, eingebettet in die natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        16.333928,
+                        58.41352
+                  ]
+            },
+            {
+                  "name": "Vätern",
+                  "text": "Ein Gewässer in Söderköping für erholsame Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        16.215297,
+                        58.503791
+                  ]
+            },
+            {
+                  "name": "Venasjön",
+                  "text": "Ein lokaler See in Söderköping, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        16.19223,
+                        58.455202
+                  ]
             }
       ],
       "hu": [
@@ -21348,6 +34065,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.358492,
                         58.465435
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Kisebb tó Söderköping közelében, ideális csendes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.252996,
+                        58.512143
+                  ]
+            },
+            {
+                  "name": "Mariehovssjön",
+                  "text": "Csendes tó Söderköpingben, amely szabadtéri pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        16.27045,
+                        58.507678
+                  ]
+            },
+            {
+                  "name": "Klarsjön",
+                  "text": "Tájképi szempontból szép tó Söderköping környékén.",
+                  "category": "natural",
+                  "coords": [
+                        16.2229,
+                        58.4415
+                  ]
+            },
+            {
+                  "name": "Oxtorpesjön",
+                  "text": "Helyi tó Söderköping közelében, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        16.350608,
+                        58.495844
+                  ]
+            },
+            {
+                  "name": "Strodammen",
+                  "text": "Vízfelület Söderköping közelében, amely nyugalmat és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.38028,
+                        58.465894
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Kisebb tó Söderköpingben, ideális természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.217733,
+                        58.438953
+                  ]
+            },
+            {
+                  "name": "Tettingen",
+                  "text": "Tó Söderköping mellett, a természetes környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        16.333928,
+                        58.41352
+                  ]
+            },
+            {
+                  "name": "Vätern",
+                  "text": "Söderköping-i vízfelület a pihentető szabadtéri percekhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.215297,
+                        58.503791
+                  ]
+            },
+            {
+                  "name": "Venasjön",
+                  "text": "Helyi tó Söderköpingben, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        16.19223,
+                        58.455202
                   ]
             }
       ],
@@ -21423,6 +34221,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.358492,
                         58.465435
                   ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Un lac mic lângă Söderköping, ideal pentru experiențe liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.252996,
+                        58.512143
+                  ]
+            },
+            {
+                  "name": "Mariehovssjön",
+                  "text": "Un lac liniștit în Söderköping, care invită la recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.27045,
+                        58.507678
+                  ]
+            },
+            {
+                  "name": "Klarsjön",
+                  "text": "Un lac pitoresc în zona Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.2229,
+                        58.4415
+                  ]
+            },
+            {
+                  "name": "Oxtorpesjön",
+                  "text": "Un lac local lângă Söderköping, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        16.350608,
+                        58.495844
+                  ]
+            },
+            {
+                  "name": "Strodammen",
+                  "text": "O masă de apă lângă Söderköping, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.38028,
+                        58.465894
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Un lac mic în Söderköping, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.217733,
+                        58.438953
+                  ]
+            },
+            {
+                  "name": "Tettingen",
+                  "text": "Un lac lângă Söderköping, situat în mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        16.333928,
+                        58.41352
+                  ]
+            },
+            {
+                  "name": "Vätern",
+                  "text": "O masă de apă în Söderköping pentru momente relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.215297,
+                        58.503791
+                  ]
+            },
+            {
+                  "name": "Venasjön",
+                  "text": "Un lac local în Söderköping, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.19223,
+                        58.455202
+                  ]
             }
       ],
       "en": [
@@ -21496,6 +34375,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.358492,
                         58.465435
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A small lake near Söderköping, ideal for quiet nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        16.252996,
+                        58.512143
+                  ]
+            },
+            {
+                  "name": "Mariehovssjön",
+                  "text": "A quiet lake in Söderköping that invites you to outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.27045,
+                        58.507678
+                  ]
+            },
+            {
+                  "name": "Klarsjön",
+                  "text": "A scenically beautiful lake in the Söderköping area.",
+                  "category": "natural",
+                  "coords": [
+                        16.2229,
+                        58.4415
+                  ]
+            },
+            {
+                  "name": "Oxtorpesjön",
+                  "text": "A local lake near Söderköping, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.350608,
+                        58.495844
+                  ]
+            },
+            {
+                  "name": "Strodammen",
+                  "text": "A body of water near Söderköping offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.38028,
+                        58.465894
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "A small lake in Söderköping, ideal for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.217733,
+                        58.438953
+                  ]
+            },
+            {
+                  "name": "Tettingen",
+                  "text": "A lake near Söderköping, nestled in the natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        16.333928,
+                        58.41352
+                  ]
+            },
+            {
+                  "name": "Vätern",
+                  "text": "A body of water in Söderköping for relaxing moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        16.215297,
+                        58.503791
+                  ]
+            },
+            {
+                  "name": "Venasjön",
+                  "text": "A local lake in Söderköping, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.19223,
+                        58.455202
                   ]
             }
       ]
@@ -21635,6 +34595,114 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.469214,
                         58.023896
                   ]
+            },
+            {
+                  "name": "Övre Kvarnasjön",
+                  "text": "Der Övre Kvarnasjön-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.472596,
+                        57.970943
+                  ]
+            },
+            {
+                  "name": "Bergadammen",
+                  "text": "Der Bergadammen-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.465096,
+                        58.015235
+                  ]
+            },
+            {
+                  "name": "Söderbydammen",
+                  "text": "Der Söderbydammen-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.460795,
+                        58.013469
+                  ]
+            },
+            {
+                  "name": "Godebrunnasjön",
+                  "text": "Der Godebrunnasjön-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.569834,
+                        58.056384
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Der Långsjön-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.561792,
+                        58.049917
+                  ]
+            },
+            {
+                  "name": "Röttleån",
+                  "text": "Der Röttleån-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.430751,
+                        57.993921
+                  ]
+            },
+            {
+                  "name": "Gränna badlagun",
+                  "text": "Der Gränna badlagun-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.455352,
+                        58.027244
+                  ]
+            },
+            {
+                  "name": "Iglasjön",
+                  "text": "Der Iglasjön-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.498831,
+                        58.015671
+                  ]
+            },
+            {
+                  "name": "Bunn",
+                  "text": "Der Bunn-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.508671,
+                        57.968733
+                  ]
+            },
+            {
+                  "name": "Ören",
+                  "text": "Der Ören-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.578713,
+                        57.972508
+                  ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Der Vättern-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Nedre Kvarnasjön",
+                  "text": "Der Nedre Kvarnasjön-See in Graenna ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.460872,
+                        57.96185
+                  ]
             }
       ],
       "hu": [
@@ -21726,6 +34794,114 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.469214,
                         58.023896
+                  ]
+            },
+            {
+                  "name": "Övre Kvarnasjön",
+                  "text": "A Graenna területén található Övre Kvarnasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.472596,
+                        57.970943
+                  ]
+            },
+            {
+                  "name": "Bergadammen",
+                  "text": "A Graenna területén található Bergadammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.465096,
+                        58.015235
+                  ]
+            },
+            {
+                  "name": "Söderbydammen",
+                  "text": "A Graenna területén található Söderbydammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.460795,
+                        58.013469
+                  ]
+            },
+            {
+                  "name": "Godebrunnasjön",
+                  "text": "A Graenna területén található Godebrunnasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.569834,
+                        58.056384
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Graenna területén található Långsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.561792,
+                        58.049917
+                  ]
+            },
+            {
+                  "name": "Röttleån",
+                  "text": "A Graenna területén található Röttleån-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.430751,
+                        57.993921
+                  ]
+            },
+            {
+                  "name": "Gränna badlagun",
+                  "text": "A Graenna területén található Gränna badlagun-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.455352,
+                        58.027244
+                  ]
+            },
+            {
+                  "name": "Iglasjön",
+                  "text": "A Graenna területén található Iglasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.498831,
+                        58.015671
+                  ]
+            },
+            {
+                  "name": "Bunn",
+                  "text": "A Graenna területén található Bunn-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.508671,
+                        57.968733
+                  ]
+            },
+            {
+                  "name": "Ören",
+                  "text": "A Graenna területén található Ören-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.578713,
+                        57.972508
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Graenna területén található Vättern-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Nedre Kvarnasjön",
+                  "text": "A Graenna területén található Nedre Kvarnasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.460872,
+                        57.96185
                   ]
             }
       ],
@@ -21819,6 +34995,114 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.469214,
                         58.023896
                   ]
+            },
+            {
+                  "name": "Övre Kvarnasjön",
+                  "text": "Lacul Övre Kvarnasjön din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.472596,
+                        57.970943
+                  ]
+            },
+            {
+                  "name": "Bergadammen",
+                  "text": "Lacul Bergadammen din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.465096,
+                        58.015235
+                  ]
+            },
+            {
+                  "name": "Söderbydammen",
+                  "text": "Lacul Söderbydammen din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.460795,
+                        58.013469
+                  ]
+            },
+            {
+                  "name": "Godebrunnasjön",
+                  "text": "Lacul Godebrunnasjön din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.569834,
+                        58.056384
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Lacul Långsjön din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.561792,
+                        58.049917
+                  ]
+            },
+            {
+                  "name": "Röttleån",
+                  "text": "Lacul Röttleån din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.430751,
+                        57.993921
+                  ]
+            },
+            {
+                  "name": "Gränna badlagun",
+                  "text": "Lacul Gränna badlagun din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.455352,
+                        58.027244
+                  ]
+            },
+            {
+                  "name": "Iglasjön",
+                  "text": "Lacul Iglasjön din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.498831,
+                        58.015671
+                  ]
+            },
+            {
+                  "name": "Bunn",
+                  "text": "Lacul Bunn din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.508671,
+                        57.968733
+                  ]
+            },
+            {
+                  "name": "Ören",
+                  "text": "Lacul Ören din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.578713,
+                        57.972508
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Lacul Vättern din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Nedre Kvarnasjön",
+                  "text": "Lacul Nedre Kvarnasjön din Graenna este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.460872,
+                        57.96185
+                  ]
             }
       ],
       "en": [
@@ -21910,6 +35194,114 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.469214,
                         58.023896
+                  ]
+            },
+            {
+                  "name": "Övre Kvarnasjön",
+                  "text": "Övre Kvarnasjön lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.472596,
+                        57.970943
+                  ]
+            },
+            {
+                  "name": "Bergadammen",
+                  "text": "Bergadammen lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.465096,
+                        58.015235
+                  ]
+            },
+            {
+                  "name": "Söderbydammen",
+                  "text": "Söderbydammen lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.460795,
+                        58.013469
+                  ]
+            },
+            {
+                  "name": "Godebrunnasjön",
+                  "text": "Godebrunnasjön lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.569834,
+                        58.056384
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.561792,
+                        58.049917
+                  ]
+            },
+            {
+                  "name": "Röttleån",
+                  "text": "Röttleån lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.430751,
+                        57.993921
+                  ]
+            },
+            {
+                  "name": "Gränna badlagun",
+                  "text": "Gränna badlagun lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.455352,
+                        58.027244
+                  ]
+            },
+            {
+                  "name": "Iglasjön",
+                  "text": "Iglasjön lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.498831,
+                        58.015671
+                  ]
+            },
+            {
+                  "name": "Bunn",
+                  "text": "Bunn lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.508671,
+                        57.968733
+                  ]
+            },
+            {
+                  "name": "Ören",
+                  "text": "Ören lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.578713,
+                        57.972508
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            },
+            {
+                  "name": "Nedre Kvarnasjön",
+                  "text": "Nedre Kvarnasjön lake in Graenna is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.460872,
+                        57.96185
                   ]
             }
       ]
@@ -22013,6 +35405,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.547832,
                         58.902329
                   ]
+            },
+            {
+                  "name": "Ringsjön",
+                  "text": "Der Ringsjön ist ein See in Trosa, der einen schönen Rahmen für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.436613,
+                        58.892871
+                  ]
+            },
+            {
+                  "name": "Norasjön",
+                  "text": "Der Norasjön ist ein See in Trosa, ideal um die Natur und die frische Luft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        17.548673,
+                        58.962612
+                  ]
+            },
+            {
+                  "name": "Trosa parkgolf",
+                  "text": "Trosa Parkgolf ist eine Minigolfanlage, die in Trosa Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.549894,
+                        58.905209
+                  ]
             }
       ],
       "hu": [
@@ -22068,6 +35487,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.547832,
                         58.902329
+                  ]
+            },
+            {
+                  "name": "Ringsjön",
+                  "text": "A Ringsjön egy tó Trosában, amely szép környezetet biztosít a szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.436613,
+                        58.892871
+                  ]
+            },
+            {
+                  "name": "Norasjön",
+                  "text": "A Norasjön egy tó Trosában, amely ideális a természeti táj és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.548673,
+                        58.962612
+                  ]
+            },
+            {
+                  "name": "Trosa parkgolf",
+                  "text": "A Trosa parkgolf egy minigolfpálya, amely családi szórakozást nyújt Trosában.",
+                  "category": "family",
+                  "coords": [
+                        17.549894,
+                        58.905209
                   ]
             }
       ],
@@ -22125,6 +35571,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.547832,
                         58.902329
                   ]
+            },
+            {
+                  "name": "Ringsjön",
+                  "text": "Ringsjön este un lac din Trosa, oferind un cadru frumos pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.436613,
+                        58.892871
+                  ]
+            },
+            {
+                  "name": "Norasjön",
+                  "text": "Norasjön este un lac din Trosa, ideal pentru a te bucura de peisajul natural și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        17.548673,
+                        58.962612
+                  ]
+            },
+            {
+                  "name": "Trosa parkgolf",
+                  "text": "Trosa parkgolf este un teren de minigolf care oferă divertisment pentru familie în Trosa.",
+                  "category": "family",
+                  "coords": [
+                        17.549894,
+                        58.905209
+                  ]
             }
       ],
       "en": [
@@ -22180,6 +35653,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.547832,
                         58.902329
+                  ]
+            },
+            {
+                  "name": "Ringsjön",
+                  "text": "Ringsjön is a lake in Trosa, providing a beautiful setting for outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.436613,
+                        58.892871
+                  ]
+            },
+            {
+                  "name": "Norasjön",
+                  "text": "Norasjön is a lake in Trosa, ideal for enjoying natural scenery and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        17.548673,
+                        58.962612
+                  ]
+            },
+            {
+                  "name": "Trosa parkgolf",
+                  "text": "Trosa parkgolf is a miniature golf course that provides family entertainment in Trosa.",
+                  "category": "family",
+                  "coords": [
+                        17.549894,
+                        58.905209
                   ]
             }
       ]
@@ -22292,6 +35792,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.252804,
                         58.31123
                   ]
+            },
+            {
+                  "name": "Dicksonsdammen",
+                  "text": "Ein ruhiger See bei Hjo, ideal zum Entspannen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.211419,
+                        58.264827
+                  ]
+            },
+            {
+                  "name": "Eriksonsdammen",
+                  "text": "Eriksonsdammen ist ein ruhiger See in Hjo, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.20624,
+                        58.279521
+                  ]
+            },
+            {
+                  "name": "Hållsdammen",
+                  "text": "Hållsdammen ist ein See in Hjo, der sich ideal für einen entspannten Spaziergang am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.210967,
+                        58.268079
+                  ]
+            },
+            {
+                  "name": "Mellandammen",
+                  "text": "Mellandammen ist ein malerischer See in Hjo, der eine schöne Kulisse für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.209347,
+                        58.271801
+                  ]
+            },
+            {
+                  "name": "Ramadammen",
+                  "text": "Ramadammen ist ein ruhiger See in Hjo, ideal für eine kleine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        14.207368,
+                        58.27659
+                  ]
+            },
+            {
+                  "name": "Munkdammarna",
+                  "text": "Munkdammarna ist ein See in Hjo, der zu einem erholsamen Aufenthalt im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.260541,
+                        58.248417
+                  ]
+            },
+            {
+                  "name": "Gärdsbodammen",
+                  "text": "Gärdsbodammen ist ein kleiner See in Hjo, perfekt für einen kurzen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.339969,
+                        58.365735
+                  ]
+            },
+            {
+                  "name": "Stora Hultadammen",
+                  "text": "Stora Hultadammen ist ein See in Hjo, der eine friedliche Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.24901,
+                        58.346437
+                  ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Der Vättern ist ein bedeutender See bei Hjo, bekannt für seine weite Wasserfläche und schöne Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
             }
       ],
       "hu": [
@@ -22356,6 +35937,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.252804,
                         58.31123
+                  ]
+            },
+            {
+                  "name": "Dicksonsdammen",
+                  "text": "Csendes tó Hjo közelében, ideális a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        14.211419,
+                        58.264827
+                  ]
+            },
+            {
+                  "name": "Eriksonsdammen",
+                  "text": "Az Eriksonsdammen egy csendes tó Hjo területén, amely hívogató helyszín a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.20624,
+                        58.279521
+                  ]
+            },
+            {
+                  "name": "Hållsdammen",
+                  "text": "A Hållsdammen egy tó Hjo területén, amely ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.210967,
+                        58.268079
+                  ]
+            },
+            {
+                  "name": "Mellandammen",
+                  "text": "A Mellandammen egy festői tó Hjo területén, amely szép környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        14.209347,
+                        58.271801
+                  ]
+            },
+            {
+                  "name": "Ramadammen",
+                  "text": "A Ramadammen egy nyugodt tó Hjo területén, amely ideális egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        14.207368,
+                        58.27659
+                  ]
+            },
+            {
+                  "name": "Munkdammarna",
+                  "text": "A Munkdammarna egy tó Hjo területén, amely pihentető kikapcsolódást kínál a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        14.260541,
+                        58.248417
+                  ]
+            },
+            {
+                  "name": "Gärdsbodammen",
+                  "text": "A Gärdsbodammen egy kis tó Hjo területén, amely tökéletes egy rövid sétához a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.339969,
+                        58.365735
+                  ]
+            },
+            {
+                  "name": "Stora Hultadammen",
+                  "text": "A Stora Hultadammen egy tó Hjo területén, amely békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.24901,
+                        58.346437
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Vättern egy jelentős tó Hjo mellett, amely tágas vízfelületéről és szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
                   ]
             }
       ],
@@ -22422,6 +36084,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.252804,
                         58.31123
                   ]
+            },
+            {
+                  "name": "Dicksonsdammen",
+                  "text": "Un lac liniștit lângă Hjo, ideal pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.211419,
+                        58.264827
+                  ]
+            },
+            {
+                  "name": "Eriksonsdammen",
+                  "text": "Eriksonsdammen este un lac liniștit în Hjo, care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.20624,
+                        58.279521
+                  ]
+            },
+            {
+                  "name": "Hållsdammen",
+                  "text": "Hållsdammen este un lac în Hjo, ideal pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.210967,
+                        58.268079
+                  ]
+            },
+            {
+                  "name": "Mellandammen",
+                  "text": "Mellandammen este un lac pitoresc în Hjo, oferind un cadru frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.209347,
+                        58.271801
+                  ]
+            },
+            {
+                  "name": "Ramadammen",
+                  "text": "Ramadammen este un lac liniștit în Hjo, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.207368,
+                        58.27659
+                  ]
+            },
+            {
+                  "name": "Munkdammarna",
+                  "text": "Munkdammarna este un lac în Hjo, care invită la o ședere relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.260541,
+                        58.248417
+                  ]
+            },
+            {
+                  "name": "Gärdsbodammen",
+                  "text": "Gärdsbodammen este un lac mic în Hjo, perfect pentru o scurtă plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.339969,
+                        58.365735
+                  ]
+            },
+            {
+                  "name": "Stora Hultadammen",
+                  "text": "Stora Hultadammen este un lac în Hjo, care oferă o atmosferă liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.24901,
+                        58.346437
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern este un lac important lângă Hjo, cunoscut pentru suprafața sa vastă de apă și vederile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
             }
       ],
       "en": [
@@ -22486,6 +36229,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.252804,
                         58.31123
+                  ]
+            },
+            {
+                  "name": "Dicksonsdammen",
+                  "text": "A quiet lake near Hjo, ideal for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.211419,
+                        58.264827
+                  ]
+            },
+            {
+                  "name": "Eriksonsdammen",
+                  "text": "Eriksonsdammen is a peaceful lake in Hjo, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.20624,
+                        58.279521
+                  ]
+            },
+            {
+                  "name": "Hållsdammen",
+                  "text": "Hållsdammen is a lake in Hjo, perfect for a relaxing stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.210967,
+                        58.268079
+                  ]
+            },
+            {
+                  "name": "Mellandammen",
+                  "text": "Mellandammen is a scenic lake in Hjo, providing a beautiful backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.209347,
+                        58.271801
+                  ]
+            },
+            {
+                  "name": "Ramadammen",
+                  "text": "Ramadammen is a tranquil lake in Hjo, ideal for a short break in the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        14.207368,
+                        58.27659
+                  ]
+            },
+            {
+                  "name": "Munkdammarna",
+                  "text": "Munkdammarna is a lake in Hjo, inviting visitors for a relaxing stay outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        14.260541,
+                        58.248417
+                  ]
+            },
+            {
+                  "name": "Gärdsbodammen",
+                  "text": "Gärdsbodammen is a small lake in Hjo, perfect for a short walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.339969,
+                        58.365735
+                  ]
+            },
+            {
+                  "name": "Stora Hultadammen",
+                  "text": "Stora Hultadammen is a lake in Hjo, offering a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.24901,
+                        58.346437
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern is a major lake near Hjo, known for its vast waters and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
                   ]
             }
       ]
@@ -23093,6 +36917,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.969678,
                         59.376094
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Der Laduviken ist ein See in Sundbyberg, der eine ruhige Umgebung für Naturspaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Der Ösbysjön ist ein See in Sundbyberg, der für seine malerische Aussicht und ruhige Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Der Ekebysjön ist ein See in Sundbyberg, ideal für ruhige Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk ist ein natürliches Seegebiet in Sundbyberg, ideal zur Beobachtung der Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Der Lillsjön ist ein See in Sundbyberg, der einen malerischen Rahmen für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Der Trekanten ist ein beliebter See in Sundbyberg, ideal für Spaziergänge und Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Der Kyrksjön ist ein ruhiger See in Sundbyberg, der schöne Aussichten und Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Der Judarn ist ein von Natur umgebener See in Sundbyberg, ideal für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen ist ein malerisches Gewässer in Sundbyberg, ideal zur Entspannung und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken ist ein Seegebiet in Sundbyberg, das eine einzigartige Landschaft für Erkundungen im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm ist ein kleiner See in Sundbyberg, der einen ruhigen Ort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Der Mälaren ist ein bedeutender See in Sundbyberg, bekannt für seine weiten Ausblicke und Erholungsmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Der Råstasjön ist ein See in Sundbyberg, der für seine natürliche Umgebung und Vogelwelt beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken ist ein malerisches Gewässer in Sundbyberg, das Besuchern schöne Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Der Lappkärret ist ein kleiner See in Sundbyberg, ideal für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen ist ein malerischer See in Sundbyberg, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen ist ein friedlicher See in Sundbyberg, ideal um das Freie zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Der Lötsjön ist ein See in Sundbyberg, der für seine schöne Umgebung und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden ist ein prominentes Gewässer in Sundbyberg, das malerische Ausblicke auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk ist ein ruhiger See in Sundbyberg, ideal für Naturspaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden ist ein malerischer See in Sundbyberg, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet ist ein schöner See in Sundbyberg, ideal für einen erholsamen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet ist ein ruhiger See in Sundbyberg, der eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken ist ein malerischer See in Sundbyberg, perfekt zum Entspannen in natürlicher Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
+            },
+            {
+                  "name": "Brunnsviken",
+                  "text": "Brunnsviken ist ein bekannter See in Sundbyberg, der schöne Aussichten und ruhige Wege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.035005,
+                        59.365615
+                  ]
             }
       ],
       "hu": [
@@ -23382,6 +37431,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.969678,
                         59.376094
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Laduviken egy tó Sundbybergben, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Az Ösbysjön egy tó Sundbybergben, amely festői kilátásáról és nyugodt légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Az Ekebysjön egy tó Sundbybergben, amely ideális nyugodt sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "A Nora träsk egy természetes tóvidék Sundbybergben, amely tökéletes a vadvilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy tó Sundbybergben, amely festői környezetet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "A Trekanten egy népszerű tó Sundbybergben, amely ideális sétákhoz és szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "A Kyrksjön egy nyugodt tó Sundbybergben, amely szép kilátást és sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "A Judarn egy tó Sundbybergben, amelyet természet vesz körül, tökéletes egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "A Näckrosdammen egy festői vízfelület Sundbybergben, amely ideális a kikapcsolódáshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Husarviken egy tóvidék Sundbybergben, amely egyedülálló tájat kínál a szabadtéri felfedezéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Az Ärvinge Groddamm egy kis tó Sundbybergben, amely nyugodt helyet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy jelentős tó Sundbybergben, amely széles kilátásairól és szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "A Råstasjön egy tó Sundbybergben, amely természeti környezete és madárvilága miatt népszerű.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Az Edsviken egy festői vízfelület Sundbybergben, amely szép kilátást nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "A Lappkärret egy kis tó Sundbybergben, amely ideális egy nyugodt természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Az Olovslundsdammen egy festői tó Sundbybergben, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "A Spegeldammen egy nyugodt tó Sundbybergben, amely tökéletes a szabadban való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "A Lötsjön egy tó Sundbybergben, amely szép környezetéről és sétautairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "A Riddarfjärden egy kiemelkedő vízfelület Sundbybergben, amely festői kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "A Råcksta träsk egy csendes tó Sundbyberg területén, amely tökéletes természeti sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "A Mariebergsfjärden egy festői tó Sundbyberg területén, amely nyugodt pillanatokat kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Az Essingedjupet egy szép tó Sundbyberg területén, amely ideális egy pihentető kiránduláshoz a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Az Essingesundet egy csendes tó Sundbyberg területén, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "A Liljeholmsviken egy festői tó Sundbyberg területén, amely tökéletes a kikapcsolódáshoz természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
+            },
+            {
+                  "name": "Brunnsviken",
+                  "text": "A Brunnsviken egy ismert tó Sundbyberg területén, amely szép kilátást és csendes ösvényeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.035005,
+                        59.365615
                   ]
             }
       ],
@@ -23673,6 +37947,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.969678,
                         59.376094
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken este un lac din Sundbyberg, oferind un mediu liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön este un lac din Sundbyberg, cunoscut pentru priveliștile sale pitorești și atmosfera calmă.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön este un lac din Sundbyberg, ideal pentru plimbări liniștite și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk este o zonă lacustră naturală din Sundbyberg, perfectă pentru observarea vieții sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac din Sundbyberg, oferind un cadru pitoresc pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten este un lac popular din Sundbyberg, ideal pentru plimbări și petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Kyrksjön este un lac liniștit din Sundbyberg, oferind priveliști frumoase și trasee de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Judarn este un lac din Sundbyberg înconjurat de natură, perfect pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen este o zonă cu apă pitorească din Sundbyberg, ideală pentru relaxare și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken este o zonă lacustră din Sundbyberg, oferind un peisaj unic pentru explorarea în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm este un lac mic din Sundbyberg, oferind un loc liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac major din Sundbyberg, cunoscut pentru priveliștile sale vaste și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön este un lac din Sundbyberg, popular pentru mediul său natural și viața păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken este o zonă cu apă pitorească din Sundbyberg, oferind priveliști frumoase pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret este un lac mic din Sundbyberg, ideal pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen este un lac pitoresc din Sundbyberg, oferind un mediu calm.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen este un lac liniștit din Sundbyberg, perfect pentru a te bucura de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön este un lac din Sundbyberg, cunoscut pentru împrejurimile sale frumoase și traseele de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden este o zonă cu apă proeminentă din Sundbyberg, oferind priveliști pitorești ale peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk este un lac liniștit din Sundbyberg, perfect pentru plimbări în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden este un lac pitoresc din Sundbyberg, oferind momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet este un lac frumos din Sundbyberg, ideal pentru o excursie relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet este un lac liniștit din Sundbyberg, oferind un mediu pașnic pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken este un lac pitoresc din Sundbyberg, perfect pentru relaxare într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
+            },
+            {
+                  "name": "Brunnsviken",
+                  "text": "Brunnsviken este un lac cunoscut din Sundbyberg, oferind priveliști frumoase și poteci liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        18.035005,
+                        59.365615
+                  ]
             }
       ],
       "en": [
@@ -23962,6 +38461,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.969678,
                         59.376094
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken is a lake in Sundbyberg, offering a quiet environment for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön is a lake in Sundbyberg, known for its scenic views and calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön is a lake in Sundbyberg, ideal for peaceful strolls and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk is a natural lake area in Sundbyberg, perfect for observing wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Sundbyberg, providing a scenic setting for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten is a popular lake in Sundbyberg, ideal for walks and leisure.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Kyrksjön is a tranquil lake in Sundbyberg, offering beautiful views and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Judarn is a lake in Sundbyberg surrounded by nature, perfect for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen is a scenic water area in Sundbyberg, ideal for relaxation and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken is a lake area in Sundbyberg, offering a unique landscape for outdoor exploration.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm is a small lake in Sundbyberg, providing a quiet spot in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a major lake in Sundbyberg, known for its extensive views and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön is a lake in Sundbyberg, popular for its natural environment and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken is a scenic water area in Sundbyberg, offering beautiful views for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret is a small lake in Sundbyberg, ideal for a quiet stroll in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen is a scenic lake in Sundbyberg, providing a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen is a peaceful lake in Sundbyberg, perfect for enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön is a lake in Sundbyberg, known for its beautiful surroundings and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden is a prominent water area in Sundbyberg, offering scenic views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk is a quiet lake in Sundbyberg, perfect for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden is a scenic lake in Sundbyberg, offering peaceful moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet is a beautiful lake in Sundbyberg, ideal for a relaxing outing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet is a quiet lake in Sundbyberg, providing a peaceful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken is a scenic lake in Sundbyberg, perfect for relaxing in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
+            },
+            {
+                  "name": "Brunnsviken",
+                  "text": "Brunnsviken is a well-known lake in Sundbyberg, offering beautiful views and quiet paths.",
+                  "category": "natural",
+                  "coords": [
+                        18.035005,
+                        59.365615
                   ]
             }
       ]
@@ -24542,6 +39266,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.020181,
                         59.342518
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken ist ein malerischer See in Solna, der sich hervorragend für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Der Ösbysjön in Solna ist ein beliebter See für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön ist ein ruhiger See in Solna, der eine natürliche Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk ist ein See in Solna, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond ist ein kleiner See in Solna, der zu entspannten Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein See in Solna, der eine angenehme Umgebung für Freizeitaktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten ist ein zentral gelegener See in Solna, ideal für eine Pause am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Der Kyrksjön in Solna bietet eine ruhige Atmosphäre für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Judarn ist ein See in Solna, der inmitten einer schönen Naturlandschaft zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen ist ein idyllischer See in Solna, bekannt für seine ruhige und grüne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken ist ein See in Solna, der sich gut für Erkundungen in der ufernahen Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm ist ein kleiner See in Solna, der ein natürliches Refugium in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein großer See bei Solna, der vielfältige Möglichkeiten für Aktivitäten am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön in Solna ist ein beliebter Ort für Spaziergänge und zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken ist ein See in Solna, der mit seinen schönen Uferwegen zu Ausflügen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret ist ein kleiner See in Solna, der eine ruhige Oase für Naturliebhaber darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen ist ein See in Solna, der eine friedliche Umgebung für Freizeit im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen ist ein ruhiger See in Solna, perfekt für einen entspannten Moment am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön ist ein See in Solna, der sich hervorragend für Spaziergänge und zum Entspannen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden in Solna bietet weite Ausblicke und eine maritime Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk ist ein See in Solna, bekannt für seine natürliche Umgebung und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden ist ein See in Solna, ideal für Aktivitäten und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet ist ein See in Solna, der eine schöne Wasserlandschaft für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet ist ein See in Solna, der zu Entdeckungen entlang des Wassers einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken ist ein See in Solna, der eine attraktive Umgebung für Freizeit am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
             }
       ],
       "hu": [
@@ -25074,6 +40023,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.020181,
                         59.342518
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Laduviken egy festői tó Solna területén, amely kiválóan alkalmas természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Az Ösbysjön Solna területén egy népszerű tó a szabadban töltött nyugodt pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Az Ekebysjön egy csendes tó Solna területén, amely természetes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "A Nora träsk egy tó Solna területén, amely ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Swan Pond egy kis tó Solna területén, amely pihentető vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy tó Solna területén, amely kellemes környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "A Trekanten egy központi elhelyezkedésű tó Solna területén, ideális egy vízparti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "A Kyrksjön Solna területén nyugodt légkört kínál a sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "A Judarn egy tó Solna területén, amely szép természeti környezetben kínál pihenési lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "A Näckrosdammen egy idilli tó Solna területén, amely csendes és zöld környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Husarviken egy tó Solna területén, amely alkalmas a vízparti természet felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Az Ärvinge Groddamm egy kis tó Solna területén, amely természetes menedéket nyújt a városban.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy nagy tó Solna közelében, amely változatos lehetőségeket kínál a vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "A Råstasjön Solna területén népszerű hely a sétákhoz és madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Az Edsviken egy tó Solna területén, amely szép parti útjaival hívogat kirándulásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "A Lappkärret egy kis tó Solna területén, amely csendes oázist jelent a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Az Olovslundsdammen egy tó Solna területén, amely békés környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "A Spegeldammen egy nyugodt tó Solna területén, tökéletes egy vízparti pihentető pillanathoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "A Lötsjön egy tó Solna területén, amely kiválóan alkalmas sétákhoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "A Riddarfjärden Solna területén tágas kilátást és tengerparti hangulatot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "A Råcksta träsk egy tó Solna területén, amely természetes környezetéről és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "A Mariebergsfjärden egy tó Solna területén, ideális vízparti tevékenységekhez és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Az Essingedjupet egy tó Solna területén, amely szép vízparti tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Az Essingesundet egy tó Solna területén, amely vízparti felfedezésekre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "A Liljeholmsviken egy tó Solna területén, amely vonzó környezetet biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
                   ]
             }
       ],
@@ -25608,6 +40782,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.020181,
                         59.342518
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken este un lac pitoresc în Solna, excelent pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön în Solna este un lac popular pentru momente de liniște în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön este un lac liniștit în Solna, oferind un mediu natural pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk este un lac în Solna, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond este un lac mic în Solna, care invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac în Solna, oferind un mediu plăcut pentru activități recreative în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten este un lac situat central în Solna, ideal pentru o pauză lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Kyrksjön în Solna oferă o atmosferă liniștită pentru plimbări și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Judarn este un lac în Solna, care invită la recreere în mijlocul unui peisaj natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen este un lac idilic în Solna, cunoscut pentru împrejurimile sale liniștite și verzi.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken este un lac în Solna, potrivit pentru explorarea naturii de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm este un lac mic în Solna, oferind un refugiu natural în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac mare lângă Solna, oferind diverse posibilități pentru activități pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön în Solna este un loc popular pentru plimbări și observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken este un lac în Solna, care invită la excursii cu potecile sale frumoase de pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret este un lac mic în Solna, reprezentând o oază de liniște pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen este un lac în Solna, oferind un mediu liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen este un lac liniștit în Solna, perfect pentru un moment de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön este un lac în Solna, excelent pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden în Solna oferă vederi largi și o atmosferă maritimă.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk este un lac în Solna, cunoscut pentru mediul său natural și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden este un lac în Solna, ideal pentru activități și recreere pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet este un lac în Solna, oferind un peisaj acvatic frumos pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet este un lac în Solna, care invită la explorări de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken este un lac în Solna, oferind un mediu atractiv pentru recreere pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
             }
       ],
       "en": [
@@ -26141,6 +41540,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.020181,
                         59.342518
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken is a scenic lake in Solna, great for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön in Solna is a popular lake for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön is a peaceful lake in Solna, offering a natural setting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Nora träsk",
+                  "text": "Nora träsk is a lake in Solna, ideal for observing the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.01107,
+                        59.404155
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond is a small lake in Solna, inviting for relaxed strolls by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Solna, providing a pleasant setting for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.957366,
+                        59.340979
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten is a centrally located lake in Solna, ideal for a break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Kyrksjön",
+                  "text": "Kyrksjön in Solna offers a peaceful atmosphere for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.915843,
+                        59.349653
+                  ]
+            },
+            {
+                  "name": "Judarn",
+                  "text": "Judarn is a lake in Solna, inviting for recreation in a beautiful natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.914332,
+                        59.337128
+                  ]
+            },
+            {
+                  "name": "Näckrosdammen",
+                  "text": "Näckrosdammen is an idyllic lake in Solna, known for its quiet and green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        17.986662,
+                        59.368501
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken is a lake in Solna, well-suited for exploring the nature along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm is a small lake in Solna, offering a natural refuge within the city.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a large lake near Solna, offering diverse opportunities for waterfront activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Råstasjön",
+                  "text": "Råstasjön in Solna is a popular spot for walks and birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        17.988997,
+                        59.372169
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken is a lake in Solna, inviting for excursions with its beautiful coastal paths.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Lappkärret",
+                  "text": "Lappkärret is a small lake in Solna, representing a peaceful oasis for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.068433,
+                        59.368685
+                  ]
+            },
+            {
+                  "name": "Olovslundsdammen",
+                  "text": "Olovslundsdammen is a lake in Solna, providing a peaceful environment for outdoor leisure.",
+                  "category": "natural",
+                  "coords": [
+                        17.940851,
+                        59.329808
+                  ]
+            },
+            {
+                  "name": "Spegeldammen",
+                  "text": "Spegeldammen is a tranquil lake in Solna, perfect for a relaxing moment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.078455,
+                        59.365531
+                  ]
+            },
+            {
+                  "name": "Lötsjön",
+                  "text": "Lötsjön is a lake in Solna, excellent for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.967545,
+                        59.371636
+                  ]
+            },
+            {
+                  "name": "Riddarfjärden",
+                  "text": "Riddarfjärden in Solna offers wide views and a maritime atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.045576,
+                        59.324361
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk is a lake in Solna, known for its natural setting and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Mariebergsfjärden",
+                  "text": "Mariebergsfjärden is a lake in Solna, ideal for activities and recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.01772,
+                        59.323707
+                  ]
+            },
+            {
+                  "name": "Essingedjupet",
+                  "text": "Essingedjupet is a lake in Solna, offering a beautiful waterscape for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        17.999574,
+                        59.323522
+                  ]
+            },
+            {
+                  "name": "Essingesundet",
+                  "text": "Essingesundet is a lake in Solna, inviting for discovery along the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.992273,
+                        59.317522
+                  ]
+            },
+            {
+                  "name": "Liljeholmsviken",
+                  "text": "Liljeholmsviken is a lake in Solna, providing an attractive setting for leisure by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.023153,
+                        59.315771
+                  ]
             }
       ]
 },
@@ -26351,6 +41975,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.110119,
                         59.361271
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Der Laduviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Der Ösbysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Der Ekebysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Der Swan Pond-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Der Träsksjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Der Långsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Der Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Der Sågsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Der Breviksdammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Der Kocktorpssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Der Tollareträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Der Sarvträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Der Övre Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Der Svartpotten-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Der Jordbrodammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Der Näckdjupet-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Der Karbosjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Der Krokträsken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Der Bastusjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Der Husarviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Der Ekholmsnässjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Der Gråviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Der Rudträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Der Kolbottensjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Der Hejesjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
             }
       ],
       "hu": [
@@ -26514,6 +42363,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.110119,
                         59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Lidingoe területén található Laduviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "A Lidingoe területén található Ösbysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "A Lidingoe területén található Ekebysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Lidingoe területén található Swan Pond-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "A Lidingoe területén található Träsksjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Lidingoe területén található Långsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "A Lidingoe területén található Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "A Lidingoe területén található Sågsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "A Lidingoe területén található Breviksdammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "A Lidingoe területén található Kocktorpssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "A Lidingoe területén található Tollareträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "A Lidingoe területén található Sarvträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "A Lidingoe területén található Övre Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "A Lidingoe területén található Svartpotten-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "A Lidingoe területén található Jordbrodammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "A Lidingoe területén található Näckdjupet-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "A Lidingoe területén található Karbosjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "A Lidingoe területén található Krokträsken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "A Lidingoe területén található Bastusjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Lidingoe területén található Husarviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "A Lidingoe területén található Ekholmsnässjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "A Lidingoe területén található Gråviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "A Lidingoe területén található Rudträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "A Lidingoe területén található Kolbottensjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "A Lidingoe területén található Hejesjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
                   ]
             }
       ],
@@ -26679,6 +42753,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.110119,
                         59.361271
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Lacul Laduviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Lacul Ösbysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Lacul Ekebysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Lacul Swan Pond din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Lacul Träsksjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Lacul Långsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Lacul Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Lacul Sågsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Lacul Breviksdammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Lacul Kocktorpssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Lacul Tollareträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Lacul Sarvträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Lacul Övre Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Lacul Svartpotten din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Lacul Jordbrodammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Lacul Näckdjupet din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Lacul Karbosjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Lacul Krokträsken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Lacul Bastusjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Lacul Husarviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Lacul Ekholmsnässjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Lacul Gråviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Lacul Rudträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Lacul Kolbottensjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Lacul Hejesjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
             }
       ],
       "en": [
@@ -26842,6 +43141,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.110119,
                         59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Träsksjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Jordbrodammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Karbosjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Gråviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Rudträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Hejesjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
                   ]
             }
       ]
@@ -27071,6 +43595,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.142914,
                         59.307266
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken ist ein friedlicher See in Nacka, ideal für Beobachtungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond ist ein charmanter See in Nacka, der eine ruhige Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk ist ein ruhiger See in Nacka, perfekt für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön ist ein friedlicher See in Nacka, der zu gemütlichen Wanderungen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön ist ein klarer See in Nacka, ideal für Erholung und Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten ist ein beliebter See in Nacka, der eine angenehme Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön ist ein malerischer See in Nacka, perfekt für Naturliebhaber und Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön ist ein ruhiger See in Nacka, ideal für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen ist ein kleiner, friedlicher See in Nacka, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön ist ein schöner See in Nacka, umgeben von einer ruhigen Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk ist ein naturbelassener See in Nacka, ideal für ruhige Erkundungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk ist ein malerischer See in Nacka, der sich perfekt für einen Spaziergang im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön ist ein ruhiger See in Nacka, ideal für Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten ist ein kleiner, idyllischer See in Nacka, perfekt für einen Moment der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket ist ein friedlicher See in Nacka, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen ist ein ruhiger See in Nacka, umgeben von einer entspannten Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet ist ein malerischer See in Nacka, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken ist ein friedlicher See in Nacka, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön ist ein attraktiver See in Nacka, perfekt für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön ist ein ruhiger See in Nacka, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön ist ein klarer See in Nacka, ideal für eine Pause in einer friedlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön ist ein schöner See in Nacka, perfekt für Naturerlebnisse mit der Familie.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken ist ein ruhiger See in Nacka, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön ist ein malerischer See in Nacka, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
             }
       ],
       "hu": [
@@ -27252,6 +43992,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.142914,
                         59.307266
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Laduviken egy békés tó Nacka területén, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Swan Pond egy bájos tó Nacka területén, amely nyugodt légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Az Abborrträsk egy csendes tó Nacka területén, amely tökéletes egy rövid pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Az Ulvsjön egy békés tó Nacka területén, amely kellemes túrákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "A Glasbrukssjön egy tiszta tó Nacka területén, amely ideális kikapcsolódáshoz és szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "A Trekanten egy népszerű tó Nacka területén, amely kellemes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "A Sågsjön egy festői tó Nacka területén, amely tökéletes a természet kedvelőinek és a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "A Bagarsjön egy csendes tó Nacka területén, amely ideális egy pihentető naphoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "A Breviksdammen egy kis, békés tó Nacka területén, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "A Kocktorpssjön egy szép tó Nacka területén, amelyet csendes erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "A Tollareträsk egy természetközeli tó Nacka területén, amely ideális a csendes felfedezéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "A Sarvträsk egy festői tó Nacka területén, amely tökéletes egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Az Övre Glasbrukssjön egy csendes tó Nacka területén, amely ideális a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "A Svartpotten egy kis, idilli tó Nacka területén, amely tökéletes egy pillanatnyi nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "A Knipträsket egy békés tó Nacka területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "A Skinnmossen egy csendes tó Nacka területén, nyugodt környezettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "A Näckdjupet egy festői tó Nacka területén, amely békét és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "A Krokträsken egy békés tó Nacka területén, amely ideális a természetben töltött csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "A Sandasjön egy vonzó tó Nacka területén, amely tökéletes a vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "A Bastusjön egy csendes tó Nacka területén, amely alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "A Strålsjön egy tiszta tó Nacka területén, amely ideális egy pihenőhöz egy békés tájon.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "A Söderbysjön egy szép tó Nacka területén, amely tökéletes családi természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Husarviken egy csendes tó Nacka területén, amely pihentető órákra hív a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Az Ekholmsnässjön egy festői tó Nacka területén, amely ideális egy kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
                   ]
             }
       ],
@@ -27435,6 +44391,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.142914,
                         59.307266
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken este un lac pașnic din Nacka, ideal pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond este un lac fermecător din Nacka, oferind o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk este un lac liniștit din Nacka, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön este un lac pașnic din Nacka, care invită la drumeții plăcute în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön este un lac limpede din Nacka, ideal pentru relaxare și activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten este un lac popular din Nacka, oferind un mediu plăcut pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön este un lac pitoresc din Nacka, perfect pentru iubitorii de natură și cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön este un lac liniștit din Nacka, ideal pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen este un lac mic și pașnic din Nacka, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön este un lac frumos din Nacka, înconjurat de un peisaj forestier liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk este un lac natural din Nacka, ideal pentru explorări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk este un lac pitoresc din Nacka, perfect pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön este un lac liniștit din Nacka, ideal pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten este un lac mic și idilic din Nacka, perfect pentru un moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket este un lac pașnic din Nacka, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen este un lac liniștit din Nacka, înconjurat de un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet este un lac pitoresc din Nacka, oferind liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken este un lac pașnic din Nacka, ideal pentru momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön este un lac atractiv din Nacka, perfect pentru activități de agrement pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön este un lac liniștit din Nacka, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön este un lac limpede din Nacka, ideal pentru o pauză într-un peisaj pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön este un lac frumos din Nacka, perfect pentru experiențe în natură cu familia.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken este un lac liniștit din Nacka, invitând la ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön este un lac pitoresc din Nacka, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
             }
       ],
       "en": [
@@ -27617,6 +44789,222 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.142914,
                         59.307266
                   ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken is a peaceful lake in Nacka, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond is a charming lake in Nacka, providing a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk is a quiet lake in Nacka, perfect for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön is a peaceful lake in Nacka, inviting pleasant hikes in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön is a clear lake in Nacka, ideal for relaxation and outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten is a popular lake in Nacka, providing a pleasant environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön is a scenic lake in Nacka, perfect for nature lovers and those seeking peace.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön is a quiet lake in Nacka, ideal for a relaxed day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen is a small, peaceful lake in Nacka, inviting visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön is a beautiful lake in Nacka, surrounded by a quiet forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk is a natural lake in Nacka, ideal for quiet exploration.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk is a scenic lake in Nacka, perfect for an outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön is a quiet lake in Nacka, ideal for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten is a small, idyllic lake in Nacka, perfect for a moment of quiet.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket is a peaceful lake in Nacka, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen is a quiet lake in Nacka, surrounded by a relaxed environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet is a scenic lake in Nacka, providing peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken is a peaceful lake in Nacka, ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön is an attractive lake in Nacka, perfect for leisure activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön is a quiet lake in Nacka, well-suited for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön is a clear lake in Nacka, ideal for a break in a peaceful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön is a beautiful lake in Nacka, perfect for nature experiences with the family.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken is a quiet lake in Nacka, inviting relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön is a scenic lake in Nacka, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
             }
       ]
 },
@@ -27755,6 +45143,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.07391,
                         59.531343
                   ]
+            },
+            {
+                  "name": "Ullnasjön",
+                  "text": "Ullnasjön ist ein See in Vallentuna, ideal für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.147935,
+                        59.481864
+                  ]
+            },
+            {
+                  "name": "Rönningesjön",
+                  "text": "Rönningesjön ist ein See in Vallentuna, der eine malerische Kulisse für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.108056,
+                        59.462091
+                  ]
+            },
+            {
+                  "name": "Gullsjön",
+                  "text": "Gullsjön ist ein ruhiger See in Vallentuna, perfekt für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.083697,
+                        59.478485
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Storsjön ist ein See in Vallentuna, der weite Wasserflächen und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.115111,
+                        59.577538
+                  ]
+            },
+            {
+                  "name": "Issjön",
+                  "text": "Issjön ist ein See in Vallentuna, der zu entspannten Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.192745,
+                        59.511736
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein See in Vallentuna, ideal für kurze Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        18.11935,
+                        59.586251
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön ist ein ruhiger See in Vallentuna, der sich gut zum Entspannen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Vivelstasjön",
+                  "text": "Vivelstasjön ist ein malerischer See in Vallentuna, eingebettet in eine schöne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.053038,
+                        59.59292
+                  ]
+            },
+            {
+                  "name": "Solsjön",
+                  "text": "Solsjön ist ein See in Vallentuna, der friedliche Ausblicke und Natur pur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.164121,
+                        59.52655
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Der Vallentunasjön ist ein bekannter See in Vallentuna, ideal für vielfältige Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken ist ein See in Vallentuna, der für seine schöne Umgebung und Wasserfreizeit beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Lovisedalsslingan 102B",
+                  "text": "Lovisedalsslingan 102B ist ein Spielplatz in Vallentuna, der Kindern sicheren Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.059119,
+                        59.511519
+                  ]
+            },
+            {
+                  "name": "Lovisedalhöjden 34 B",
+                  "text": "Der Spielplatz Lovisedalhöjden 34 B in Vallentuna ist ein toller Ort für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        18.057579,
+                        59.512569
+                  ]
+            },
+            {
+                  "name": "Bergvägen 44B",
+                  "text": "Bergvägen 44B ist ein lokaler Spielplatz in Vallentuna mit verschiedenen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.091055,
+                        59.526564
+                  ]
+            },
+            {
+                  "name": "Bergvägen 20C",
+                  "text": "Bergvägen 20C ist ein kleiner Spielplatz in Vallentuna, ideal für das tägliche Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        18.089843,
+                        59.526929
+                  ]
+            },
+            {
+                  "name": "Svampskogsvägen 19C",
+                  "text": "Svampskogsvägen 19C ist ein Spielplatz in Vallentuna, der zum Toben und Klettern einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.082407,
+                        59.511453
+                  ]
+            },
+            {
+                  "name": "Östergården",
+                  "text": "Östergården ist ein familienfreundlicher Spielplatz in Vallentuna in einer angenehmen Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        18.071594,
+                        59.549596
+                  ]
+            },
+            {
+                  "name": "Hasseluddsvägen 6B",
+                  "text": "Hasseluddsvägen 6B ist ein Spielplatz in Vallentuna, der Unterhaltung für jüngere Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.054174,
+                        59.511049
+                  ]
+            },
+            {
+                  "name": "Slånbärsvägen 20B",
+                  "text": "Slånbärsvägen 20B ist ein Spielplatz in Vallentuna, perfekt für eine kurze Spielpause zwischendurch.",
+                  "category": "family",
+                  "coords": [
+                        18.101797,
+                        59.544039
+                  ]
+            },
+            {
+                  "name": "Åbyholms lekplats",
+                  "text": "Åbyholms lekplats ist ein beliebter Treffpunkt für Familien mit Kindern in Vallentuna.",
+                  "category": "family",
+                  "coords": [
+                        18.091213,
+                        59.532423
+                  ]
+            },
+            {
+                  "name": "Skoggläntanslekplats",
+                  "text": "Skoggläntanslekplats ist ein naturnah gelegener Spielplatz in Vallentuna zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        18.10954,
+                        59.523926
+                  ]
             }
       ],
       "hu": [
@@ -27846,6 +45423,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.07391,
                         59.531343
+                  ]
+            },
+            {
+                  "name": "Ullnasjön",
+                  "text": "Az Ullnasjön egy tó Vallentuna területén, ideális a pihentető természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.147935,
+                        59.481864
+                  ]
+            },
+            {
+                  "name": "Rönningesjön",
+                  "text": "A Rönningesjön egy tó Vallentuna területén, amely festői környezetet kínál a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.108056,
+                        59.462091
+                  ]
+            },
+            {
+                  "name": "Gullsjön",
+                  "text": "A Gullsjön egy csendes tó Vallentuna területén, tökéletes egy pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        18.083697,
+                        59.478485
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "A Storsjön egy tó Vallentuna területén, amely tágas vízfelületet és természeti élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.115111,
+                        59.577538
+                  ]
+            },
+            {
+                  "name": "Issjön",
+                  "text": "Az Issjön egy tó Vallentuna területén, amely pihentető pillanatokra hívogat a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.192745,
+                        59.511736
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy tó Vallentuna területén, ideális rövid vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.11935,
+                        59.586251
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Kvarnsjön egy nyugodt tó Vallentuna területén, amely kiválóan alkalmas a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Vivelstasjön",
+                  "text": "A Vivelstasjön egy festői tó Vallentuna területén, szép tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        18.053038,
+                        59.59292
+                  ]
+            },
+            {
+                  "name": "Solsjön",
+                  "text": "A Solsjön egy tó Vallentuna területén, amely békés kilátást és tiszta természetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.164121,
+                        59.52655
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "A Vallentunasjön egy ismert tó Vallentuna területén, ideális különféle szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "A Norrviken egy tó Vallentuna területén, amely szép környezetéről és vízi kikapcsolódási lehetőségeiről kedvelt.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Lovisedalsslingan 102B",
+                  "text": "A Lovisedalsslingan 102B egy játszótér Vallentunában, amely biztonságos helyet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.059119,
+                        59.511519
+                  ]
+            },
+            {
+                  "name": "Lovisedalhöjden 34 B",
+                  "text": "A Lovisedalhöjden 34 B játszótér Vallentunában remek helyszín a családi kiruccanásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.057579,
+                        59.512569
+                  ]
+            },
+            {
+                  "name": "Bergvägen 44B",
+                  "text": "A Bergvägen 44B egy helyi játszótér Vallentunában, különféle játékokkal a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.091055,
+                        59.526564
+                  ]
+            },
+            {
+                  "name": "Bergvägen 20C",
+                  "text": "A Bergvägen 20C egy kis játszótér Vallentunában, ideális a mindennapi szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.089843,
+                        59.526929
+                  ]
+            },
+            {
+                  "name": "Svampskogsvägen 19C",
+                  "text": "A Svampskogsvägen 19C egy játszótér Vallentunában, amely hívogató hely a hancúrozáshoz és mászáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.082407,
+                        59.511453
+                  ]
+            },
+            {
+                  "name": "Östergården",
+                  "text": "Az Östergården egy családbarát játszótér Vallentunában, egy kellemes lakóövezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.071594,
+                        59.549596
+                  ]
+            },
+            {
+                  "name": "Hasseluddsvägen 6B",
+                  "text": "A Hasseluddsvägen 6B egy játszótér Vallentunában, amely szórakozást nyújt a kisebb gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.054174,
+                        59.511049
+                  ]
+            },
+            {
+                  "name": "Slånbärsvägen 20B",
+                  "text": "A Slånbärsvägen 20B egy játszótér Vallentunában, tökéletes egy rövid játékidőre.",
+                  "category": "family",
+                  "coords": [
+                        18.101797,
+                        59.544039
+                  ]
+            },
+            {
+                  "name": "Åbyholms lekplats",
+                  "text": "Az Åbyholms lekplats népszerű találkozóhely a gyermekes családok számára Vallentunában.",
+                  "category": "family",
+                  "coords": [
+                        18.091213,
+                        59.532423
+                  ]
+            },
+            {
+                  "name": "Skoggläntanslekplats",
+                  "text": "A Skoggläntanslekplats egy természetközeli játszótér Vallentunában a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.10954,
+                        59.523926
                   ]
             }
       ],
@@ -27939,6 +45705,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.07391,
                         59.531343
                   ]
+            },
+            {
+                  "name": "Ullnasjön",
+                  "text": "Ullnasjön este un lac în Vallentuna, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.147935,
+                        59.481864
+                  ]
+            },
+            {
+                  "name": "Rönningesjön",
+                  "text": "Rönningesjön este un lac în Vallentuna, oferind un cadru pitoresc pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        18.108056,
+                        59.462091
+                  ]
+            },
+            {
+                  "name": "Gullsjön",
+                  "text": "Gullsjön este un lac liniștit în Vallentuna, perfect pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.083697,
+                        59.478485
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Storsjön este un lac în Vallentuna, oferind suprafețe de apă vaste și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.115111,
+                        59.577538
+                  ]
+            },
+            {
+                  "name": "Issjön",
+                  "text": "Issjön este un lac în Vallentuna, care invită la momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.192745,
+                        59.511736
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac în Vallentuna, ideal pentru scurte plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.11935,
+                        59.586251
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön este un lac liniștit în Vallentuna, potrivit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Vivelstasjön",
+                  "text": "Vivelstasjön este un lac pitoresc în Vallentuna, situat într-un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.053038,
+                        59.59292
+                  ]
+            },
+            {
+                  "name": "Solsjön",
+                  "text": "Solsjön este un lac în Vallentuna, oferind vederi liniștite și natură pură.",
+                  "category": "natural",
+                  "coords": [
+                        18.164121,
+                        59.52655
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön este un lac cunoscut în Vallentuna, ideal pentru diverse activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken este un lac în Vallentuna, popular pentru mediul său frumos și recreerea pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Lovisedalsslingan 102B",
+                  "text": "Lovisedalsslingan 102B este un teren de joacă în Vallentuna, oferind copiilor un spațiu sigur de joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.059119,
+                        59.511519
+                  ]
+            },
+            {
+                  "name": "Lovisedalhöjden 34 B",
+                  "text": "Terenul de joacă Lovisedalhöjden 34 B în Vallentuna este un loc minunat pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.057579,
+                        59.512569
+                  ]
+            },
+            {
+                  "name": "Bergvägen 44B",
+                  "text": "Bergvägen 44B este un teren de joacă local în Vallentuna, cu diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.091055,
+                        59.526564
+                  ]
+            },
+            {
+                  "name": "Bergvägen 20C",
+                  "text": "Bergvägen 20C este un teren de joacă mic în Vallentuna, ideal pentru joaca zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.089843,
+                        59.526929
+                  ]
+            },
+            {
+                  "name": "Svampskogsvägen 19C",
+                  "text": "Svampskogsvägen 19C este un teren de joacă în Vallentuna, care invită la joacă și cățărat.",
+                  "category": "family",
+                  "coords": [
+                        18.082407,
+                        59.511453
+                  ]
+            },
+            {
+                  "name": "Östergården",
+                  "text": "Östergården este un teren de joacă prietenos pentru familii în Vallentuna, într-un cartier plăcut.",
+                  "category": "family",
+                  "coords": [
+                        18.071594,
+                        59.549596
+                  ]
+            },
+            {
+                  "name": "Hasseluddsvägen 6B",
+                  "text": "Hasseluddsvägen 6B este un teren de joacă în Vallentuna, oferind divertisment pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        18.054174,
+                        59.511049
+                  ]
+            },
+            {
+                  "name": "Slånbärsvägen 20B",
+                  "text": "Slånbärsvägen 20B este un teren de joacă în Vallentuna, perfect pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.101797,
+                        59.544039
+                  ]
+            },
+            {
+                  "name": "Åbyholms lekplats",
+                  "text": "Åbyholms lekplats este un loc de întâlnire popular pentru familiile cu copii în Vallentuna.",
+                  "category": "family",
+                  "coords": [
+                        18.091213,
+                        59.532423
+                  ]
+            },
+            {
+                  "name": "Skoggläntanslekplats",
+                  "text": "Skoggläntanslekplats este un teren de joacă situat aproape de natură în Vallentuna, pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.10954,
+                        59.523926
+                  ]
             }
       ],
       "en": [
@@ -28030,6 +45985,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.07391,
                         59.531343
+                  ]
+            },
+            {
+                  "name": "Ullnasjön",
+                  "text": "Ullnasjön is a lake in Vallentuna, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.147935,
+                        59.481864
+                  ]
+            },
+            {
+                  "name": "Rönningesjön",
+                  "text": "Rönningesjön is a lake in Vallentuna, offering a scenic backdrop for outings.",
+                  "category": "natural",
+                  "coords": [
+                        18.108056,
+                        59.462091
+                  ]
+            },
+            {
+                  "name": "Gullsjön",
+                  "text": "Gullsjön is a peaceful lake in Vallentuna, perfect for a break in the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.083697,
+                        59.478485
+                  ]
+            },
+            {
+                  "name": "Storsjön",
+                  "text": "Storsjön is a lake in Vallentuna, offering wide waters and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        18.115111,
+                        59.577538
+                  ]
+            },
+            {
+                  "name": "Issjön",
+                  "text": "Issjön is a lake in Vallentuna, inviting for relaxed moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.192745,
+                        59.511736
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a lake in Vallentuna, ideal for short walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.11935,
+                        59.586251
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön is a tranquil lake in Vallentuna, well-suited for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Vivelstasjön",
+                  "text": "Vivelstasjön is a scenic lake in Vallentuna, nestled in a beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.053038,
+                        59.59292
+                  ]
+            },
+            {
+                  "name": "Solsjön",
+                  "text": "Solsjön is a lake in Vallentuna, offering peaceful views and pure nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.164121,
+                        59.52655
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön is a well-known lake in Vallentuna, ideal for various leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken is a lake in Vallentuna, popular for its beautiful setting and waterfront leisure.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Lovisedalsslingan 102B",
+                  "text": "Lovisedalsslingan 102B is a playground in Vallentuna, providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        18.059119,
+                        59.511519
+                  ]
+            },
+            {
+                  "name": "Lovisedalhöjden 34 B",
+                  "text": "The Lovisedalhöjden 34 B playground in Vallentuna is a great spot for family outings.",
+                  "category": "family",
+                  "coords": [
+                        18.057579,
+                        59.512569
+                  ]
+            },
+            {
+                  "name": "Bergvägen 44B",
+                  "text": "Bergvägen 44B is a local playground in Vallentuna with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        18.091055,
+                        59.526564
+                  ]
+            },
+            {
+                  "name": "Bergvägen 20C",
+                  "text": "Bergvägen 20C is a small playground in Vallentuna, ideal for daily outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        18.089843,
+                        59.526929
+                  ]
+            },
+            {
+                  "name": "Svampskogsvägen 19C",
+                  "text": "Svampskogsvägen 19C is a playground in Vallentuna, inviting for active play and climbing.",
+                  "category": "family",
+                  "coords": [
+                        18.082407,
+                        59.511453
+                  ]
+            },
+            {
+                  "name": "Östergården",
+                  "text": "Östergården is a family-friendly playground in Vallentuna located in a pleasant neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        18.071594,
+                        59.549596
+                  ]
+            },
+            {
+                  "name": "Hasseluddsvägen 6B",
+                  "text": "Hasseluddsvägen 6B is a playground in Vallentuna offering entertainment for younger children.",
+                  "category": "family",
+                  "coords": [
+                        18.054174,
+                        59.511049
+                  ]
+            },
+            {
+                  "name": "Slånbärsvägen 20B",
+                  "text": "Slånbärsvägen 20B is a playground in Vallentuna, perfect for a quick play session.",
+                  "category": "family",
+                  "coords": [
+                        18.101797,
+                        59.544039
+                  ]
+            },
+            {
+                  "name": "Åbyholms lekplats",
+                  "text": "Åbyholms lekplats is a popular meeting spot for families with children in Vallentuna.",
+                  "category": "family",
+                  "coords": [
+                        18.091213,
+                        59.532423
+                  ]
+            },
+            {
+                  "name": "Skoggläntanslekplats",
+                  "text": "Skoggläntanslekplats is a playground in Vallentuna located near nature for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        18.10954,
+                        59.523926
                   ]
             }
       ]
@@ -28214,6 +46358,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.91195,
                         59.519571
                   ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Der Väsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Der Fjäturen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Der Lillsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Der Snuggan-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Der Kvarnsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Der Oxundasjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Der Översjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Der Fysingen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Der Vallentunasjön ist ein See in Upplands Väsby, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein bedeutender See bei Upplands Väsby, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Der See Ravalen in Upplands Väsby bietet eine ruhige Umgebung für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken ist ein See in Upplands Väsby, der für seine schöne Landschaft und Freizeitmöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Der Edssjön in Upplands Väsby ist ein lokaler See, der zu Aktivitäten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder ist ein familienfreundlicher Spielplatz in Upplands Väsby mit kreativen Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
             }
       ],
       "hu": [
@@ -28350,6 +46620,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.91195,
                         59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "A Upplands Vaesby területén található Väsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "A Upplands Vaesby területén található Fjäturen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Upplands Vaesby területén található Lillsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "A Upplands Vaesby területén található Snuggan-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Upplands Vaesby területén található Kvarnsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "A Upplands Vaesby területén található Oxundasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "A Upplands Vaesby területén található Översjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "A Upplands Vaesby területén található Fysingen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "A Vallentunasjön egy tó Upplands Väsby területén, amely kiváló helyszín a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy jelentős tó Upplands Väsby közelében, amely változatos kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "A Ravalen tó Upplands Väsby területén nyugodt környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken egy tó Upplands Väsby területén, amely szép tájáról és szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Az Edssjön egy helyi tó Upplands Väsby területén, amely szabadtéri tevékenységekre invitál.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "A Barnens Wäsby Verkstäder egy családbarát játszótér Upplands Väsby területén, kreatív játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
                   ]
             }
       ],
@@ -28488,6 +46884,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.91195,
                         59.519571
                   ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Lacul Väsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Lacul Fjäturen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lacul Lillsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Lacul Snuggan din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Lacul Kvarnsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Lacul Oxundasjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Lacul Översjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Lacul Fysingen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön este un lac în Upplands Väsby, ideal pentru plimbări în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac important lângă Upplands Väsby, oferind numeroase oportunități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Lacul Ravalen din Upplands Väsby oferă un cadru liniștit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken este un lac în Upplands Väsby, cunoscut pentru peisajele sale frumoase și posibilitățile de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Edssjön din Upplands Väsby este un lac local care invită la activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder este un loc de joacă prietenos pentru familii în Upplands Väsby, cu zone de joacă creative.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
             }
       ],
       "en": [
@@ -28624,6 +47146,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.91195,
                         59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Väsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Fjäturen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Snuggan lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Oxundasjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Översjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Fysingen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön is a lake in Upplands Väsby, ideal for nature walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a major lake near Upplands Väsby, offering various opportunities for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "The lake Ravalen in Upplands Väsby offers a quiet environment for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken is a lake in Upplands Väsby, known for its beautiful landscape and recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Edssjön in Upplands Väsby is a local lake that invites outdoor activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder is a family-friendly playground in Upplands Väsby with creative play areas.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
                   ]
             }
       ]
@@ -28781,6 +47429,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.304404,
                         59.246808
                   ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön ist ein friedlicher See in Tyresö, ideal für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Grändalssjön",
+                  "text": "Grändalssjön ist ein ruhiger See in Tyresö, perfekt für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.293781,
+                        59.212791
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein kleiner, malerischer See in Tyresö, der Ruhe und Natur pur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.283459,
+                        59.196749
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen ist ein friedlicher See in Tyresö, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen ist ein idyllischer See in Tyresö, umgeben von einer schönen Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön ist ein ruhiger See in Tyresö, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen ist ein schöner See in Tyresö, ideal für Wanderungen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.298446,
+                        59.196497
+                  ]
+            },
+            {
+                  "name": "Kolardammarna",
+                  "text": "Kolardammarna ist ein ruhiges Seengebiet in Tyresö, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.259834,
+                        59.242858
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket ist ein friedlicher See in Tyresö, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen ist ein ruhiger See in Tyresö, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Karptjärnen",
+                  "text": "Karptjärnen ist ein idyllischer See in Tyresö, der eine angenehme Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.285559,
+                        59.246622
+                  ]
+            },
+            {
+                  "name": "Övre Kärret",
+                  "text": "Övre Kärret ist ein friedlicher See in Tyresö, ideal für Momente der Ruhe in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.27968,
+                        59.210255
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön ist ein schöner See in Tyresö, perfekt für Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön ist ein klarer See in Tyresö, der Ruhe und eine schöne Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön ist ein beliebter See in Tyresö, ideal für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Alkärret",
+                  "text": "Alkärret ist ein kleiner, ruhiger See in Tyresö, perfekt für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.261788,
+                        59.24093
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön ist ein attraktiver See in Tyresö, ideal für einen Ausflug mit der Familie.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Droppen",
+                  "text": "Droppen ist ein friedlicher See in Tyresö, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.289647,
+                        59.240891
+                  ]
+            },
+            {
+                  "name": "Tranmyradammen",
+                  "text": "Tranmyradammen ist ein ruhiger See in Tyresö, umgeben von einer entspannten Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        18.306731,
+                        59.240263
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten ist ein schöner See in Tyresö, ideal für Spaziergänge und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön ist ein friedlicher See in Tyresö, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Storkällan",
+                  "text": "Storkällan ist ein ruhiger See in Tyresö, der eine harmonische Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.210507,
+                        59.254828
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken ist ein großer See in Tyresö, ideal für verschiedene Aktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Källtorpssjön ist ein malerischer See in Tyresö, perfekt für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen ist ein schöner See in Tyresö, der zu entspannten Stunden am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
             }
       ],
       "hu": [
@@ -28890,6 +47763,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.304404,
                         59.246808
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Az Ulvsjön egy békés tó Tyresö területén, amely ideális pihentető sétákhoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Grändalssjön",
+                  "text": "A Grändalssjön egy csendes tó Tyresö területén, amely tökéletes egy kis szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.293781,
+                        59.212791
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy kicsi, festői tó Tyresö területén, amely békét és tiszta természetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.283459,
+                        59.196749
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "A Gammeldammen egy békés tó Tyresö területén, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Az Årsjötjärnen egy idilli tó Tyresö területén, amelyet szép erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "A Bylsjön egy csendes tó Tyresö területén, amely tökéletes egy pihentető naphoz a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "A Trehörningen egy szép tó Tyresö területén, amely ideális a környékbeli túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.298446,
+                        59.196497
+                  ]
+            },
+            {
+                  "name": "Kolardammarna",
+                  "text": "A Kolardammarna egy csendes tóvidék Tyresö területén, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.259834,
+                        59.242858
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "A Knipträsket egy békés tó Tyresö területén, amely ideális egy kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "A Skinnmossen egy csendes tó Tyresö területén, amely tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Karptjärnen",
+                  "text": "A Karptjärnen egy idilli tó Tyresö területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.285559,
+                        59.246622
+                  ]
+            },
+            {
+                  "name": "Övre Kärret",
+                  "text": "Az Övre Kärret egy békés tó Tyresö területén, amely ideális a természetben töltött csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.27968,
+                        59.210255
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "A Sandasjön egy szép tó Tyresö területén, amely tökéletes a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "A Strålsjön egy tiszta tó Tyresö területén, amely békét és szép környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "A Söderbysjön egy népszerű tó Tyresö területén, amely ideális a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Alkärret",
+                  "text": "Az Alkärret egy kicsi, csendes tó Tyresö területén, amely tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.261788,
+                        59.24093
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "A Barnsjön egy vonzó tó Tyresö területén, amely ideális egy családi kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Droppen",
+                  "text": "A Droppen egy békés tó Tyresö területén, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.289647,
+                        59.240891
+                  ]
+            },
+            {
+                  "name": "Tranmyradammen",
+                  "text": "A Tranmyradammen egy csendes tó Tyresö területén, nyugodt légkörrel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        18.306731,
+                        59.240263
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "A Flaten egy szép tó Tyresö területén, amely ideális sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "A Kolbottensjön egy békés tó Tyresö területén, amely tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Storkällan",
+                  "text": "A Storkällan egy csendes tó Tyresö területén, amely harmonikus környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        18.210507,
+                        59.254828
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "A Drevviken egy nagy tó Tyresö területén, amely ideális különféle vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "A Källtorpssjön egy festői tó Tyresö területén, amely tökéletes a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "A Magelungen egy szép tó Tyresö területén, amely pihentető órákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
                   ]
             }
       ],
@@ -29001,6 +48099,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.304404,
                         59.246808
                   ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön este un lac pașnic din Tyresö, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Grändalssjön",
+                  "text": "Grändalssjön este un lac liniștit din Tyresö, perfect pentru o mică pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.293781,
+                        59.212791
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac mic și pitoresc din Tyresö, oferind liniște și natură pură.",
+                  "category": "natural",
+                  "coords": [
+                        18.283459,
+                        59.196749
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen este un lac pașnic din Tyresö, ideal pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen este un lac idilic din Tyresö, înconjurat de un frumos peisaj forestier.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön este un lac liniștit din Tyresö, perfect pentru o zi relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen este un lac frumos din Tyresö, ideal pentru drumeții în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        18.298446,
+                        59.196497
+                  ]
+            },
+            {
+                  "name": "Kolardammarna",
+                  "text": "Kolardammarna este o zonă lacustră liniștită din Tyresö, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.259834,
+                        59.242858
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket este un lac pașnic din Tyresö, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen este un lac liniștit din Tyresö, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Karptjärnen",
+                  "text": "Karptjärnen este un lac idilic din Tyresö, oferind un mediu plăcut pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.285559,
+                        59.246622
+                  ]
+            },
+            {
+                  "name": "Övre Kärret",
+                  "text": "Övre Kärret este un lac pașnic din Tyresö, ideal pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.27968,
+                        59.210255
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön este un lac frumos din Tyresö, perfect pentru activități de agrement în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön este un lac limpede din Tyresö, oferind liniște și un cadru frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön este un lac popular din Tyresö, ideal pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Alkärret",
+                  "text": "Alkärret este un lac mic și liniștit din Tyresö, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.261788,
+                        59.24093
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön este un lac atractiv din Tyresö, ideal pentru o excursie cu familia.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Droppen",
+                  "text": "Droppen este un lac pașnic din Tyresö, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.289647,
+                        59.240891
+                  ]
+            },
+            {
+                  "name": "Tranmyradammen",
+                  "text": "Tranmyradammen este un lac liniștit din Tyresö, înconjurat de o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.306731,
+                        59.240263
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten este un lac frumos din Tyresö, ideal pentru plimbări și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön este un lac pașnic din Tyresö, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Storkällan",
+                  "text": "Storkällan este un lac liniștit din Tyresö, oferind un mediu armonios.",
+                  "category": "natural",
+                  "coords": [
+                        18.210507,
+                        59.254828
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken este un lac mare din Tyresö, ideal pentru diverse activități pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Källtorpssjön este un lac pitoresc din Tyresö, perfect pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen este un lac frumos din Tyresö, invitând la ore relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
             }
       ],
       "en": [
@@ -29111,6 +48434,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.304404,
                         59.246808
                   ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön is a peaceful lake in Tyresoe, ideal for restful walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Grändalssjön",
+                  "text": "Grändalssjön is a quiet lake in Tyresoe, perfect for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.293781,
+                        59.212791
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is a small, scenic lake in Tyresoe, offering peace and pure nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.283459,
+                        59.196749
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen is a peaceful lake in Tyresoe, ideal for nature watching.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen is an idyllic lake in Tyresoe, surrounded by a beautiful forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön is a quiet lake in Tyresoe, perfect for a relaxed day by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen is a beautiful lake in Tyresoe, ideal for hikes in the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.298446,
+                        59.196497
+                  ]
+            },
+            {
+                  "name": "Kolardammarna",
+                  "text": "Kolardammarna is a quiet lake area in Tyresoe, inviting visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.259834,
+                        59.242858
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket is a peaceful lake in Tyresoe, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen is a quiet lake in Tyresoe, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Karptjärnen",
+                  "text": "Karptjärnen is an idyllic lake in Tyresoe, providing a pleasant setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.285559,
+                        59.246622
+                  ]
+            },
+            {
+                  "name": "Övre Kärret",
+                  "text": "Övre Kärret is a peaceful lake in Tyresoe, ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.27968,
+                        59.210255
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön is a beautiful lake in Tyresoe, perfect for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön is a clear lake in Tyresoe, offering peace and a lovely setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön is a popular lake in Tyresoe, ideal for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Alkärret",
+                  "text": "Alkärret is a small, quiet lake in Tyresoe, perfect for a relaxed stroll.",
+                  "category": "natural",
+                  "coords": [
+                        18.261788,
+                        59.24093
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön is an attractive lake in Tyresoe, ideal for a family outing.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Droppen",
+                  "text": "Droppen is a peaceful lake in Tyresoe, inviting visitors to enjoy the nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.289647,
+                        59.240891
+                  ]
+            },
+            {
+                  "name": "Tranmyradammen",
+                  "text": "Tranmyradammen is a quiet lake in Tyresoe, surrounded by a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.306731,
+                        59.240263
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten is a beautiful lake in Tyresoe, ideal for walks and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön is a peaceful lake in Tyresoe, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Storkällan",
+                  "text": "Storkällan is a quiet lake in Tyresoe, providing a harmonious setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.210507,
+                        59.254828
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken is a large lake in Tyresoe, ideal for various activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Källtorpssjön",
+                  "text": "Källtorpssjön is a scenic lake in Tyresoe, perfect for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.166542,
+                        59.290698
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen is a beautiful lake in Tyresoe, inviting relaxed hours on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
             }
       ]
 },
@@ -29177,6 +48725,168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.792666,
                         59.452215
                   ]
+            },
+            {
+                  "name": "Djupan",
+                  "text": "Djupan ist ein ruhiger See in Järfälla, der eine natürliche Umgebung zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.887923,
+                        59.428611
+                  ]
+            },
+            {
+                  "name": "Vegadammen (Drakulasjön)",
+                  "text": "Vegadammen ist ein See in Järfälla, ideal für einen erholsamen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        17.827914,
+                        59.392978
+                  ]
+            },
+            {
+                  "name": "Veddestadammen",
+                  "text": "Veddestadammen ist ein See in Järfälla, der eine friedliche Atmosphäre im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.826796,
+                        59.403104
+                  ]
+            },
+            {
+                  "name": "Kallhällsparkdammen",
+                  "text": "Kallhällsparkdammen ist ein kleiner See in Järfälla, eingebettet in eine Parklandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.815732,
+                        59.455909
+                  ]
+            },
+            {
+                  "name": "paddling pool",
+                  "text": "Das Planschbecken in Järfälla bietet eine erfrischende Wasserfläche in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        17.848327,
+                        59.414887
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm ist ein malerischer See in Jaerfaella, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Säbysjön",
+                  "text": "Säbysjön ist ein schöner See in Jaerfaella, der zu Naturbeobachtungen und Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.867441,
+                        59.434071
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Översjön ist ein ruhiger See in Jaerfaella, ideal zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Der Mälaren in Jaerfaella bietet weite Wasserflächen und schöne Wege für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Ravalen ist ein friedlicher See in Jaerfaella, perfekt für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken ist ein malerisches Gewässer in Jaerfaella, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk ist ein kleiner See in Jaerfaella, der eine ruhige Umgebung für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken ist ein weitläufiger See in Jaerfaella, ideal für Naturfreunde und erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Finnkärret",
+                  "text": "Finnkärret ist ein ruhiger See in Jaerfaella, der zu einer Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.772835,
+                        59.477082
+                  ]
+            },
+            {
+                  "name": "Jumpyard",
+                  "text": "Jumpyard in Jaerfaella ist ein spannender Trampolinpark, der aktiven Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.840542,
+                        59.409138
+                  ]
+            },
+            {
+                  "name": "Grodparken",
+                  "text": "Grodparken ist ein schöner Spielplatz in Jaerfaella, der Kindern viel Raum zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.807439,
+                        59.412873
+                  ]
+            },
+            {
+                  "name": "Ålstaparken",
+                  "text": "Ålstaparken ist ein kinderfreundlicher Spielplatz in Jaerfaella, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        17.866432,
+                        59.418221
+                  ]
+            },
+            {
+                  "name": "Semesterparken",
+                  "text": "Semesterparken ist ein beliebter Spielplatz in Jaerfaella, der zum Toben und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.811042,
+                        59.428172
+                  ]
             }
       ],
       "hu": [
@@ -29196,6 +48906,168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.792666,
                         59.452215
+                  ]
+            },
+            {
+                  "name": "Djupan",
+                  "text": "A Djupan egy csendes tó Järfälla területén, amely természetes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.887923,
+                        59.428611
+                  ]
+            },
+            {
+                  "name": "Vegadammen (Drakulasjön)",
+                  "text": "A Vegadammen egy tó Järfälla területén, ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.827914,
+                        59.392978
+                  ]
+            },
+            {
+                  "name": "Veddestadammen",
+                  "text": "A Veddestadammen egy tó Järfälla területén, amely békés hangulatot áraszt a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        17.826796,
+                        59.403104
+                  ]
+            },
+            {
+                  "name": "Kallhällsparkdammen",
+                  "text": "A Kallhällsparkdammen egy kis tó Järfälla területén, parkos környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        17.815732,
+                        59.455909
+                  ]
+            },
+            {
+                  "name": "paddling pool",
+                  "text": "A Järfälla területén található pancsoló frissítő vízfelületet kínál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        17.848327,
+                        59.414887
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Az Ärvinge Groddamm egy festői tó Jaerfaella területén, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Säbysjön",
+                  "text": "A Säbysjön egy szép tó Jaerfaella városában, amely természetjárásra és sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        17.867441,
+                        59.434071
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Az Översjön egy nyugodt tó Jaerfaella területén, amely kiváló túrázáshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren Jaerfaella városánál tágas vízfelületeket és szép sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "A Ravalen egy békés tó Jaerfaella területén, amely tökéletes egy természetközeli kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Az Edsviken egy festői vízfelület Jaerfaella városában, amely ideális partmenti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "A Råcksta träsk egy kis tó Jaerfaella területén, amely nyugodt környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "A Norrviken egy kiterjedt tó Jaerfaella városában, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Finnkärret",
+                  "text": "A Finnkärret egy nyugodt tó Jaerfaella területén, amely egy kis zöldövezeti pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        17.772835,
+                        59.477082
+                  ]
+            },
+            {
+                  "name": "Jumpyard",
+                  "text": "A Jumpyard Jaerfaella városában egy izgalmas trambulinpark, amely aktív szórakozást nyújt a családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.840542,
+                        59.409138
+                  ]
+            },
+            {
+                  "name": "Grodparken",
+                  "text": "A Grodparken egy kedves játszótér Jaerfaella városában, ahol a gyerekek a szabadban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        17.807439,
+                        59.412873
+                  ]
+            },
+            {
+                  "name": "Ålstaparken",
+                  "text": "Az Ålstaparken egy gyerekbarát játszótér Jaerfaella területén, amely ideális egy családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.866432,
+                        59.418221
+                  ]
+            },
+            {
+                  "name": "Semesterparken",
+                  "text": "A Semesterparken egy népszerű játszótér Jaerfaella városában, amely játékra és mozgásra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        17.811042,
+                        59.428172
                   ]
             }
       ],
@@ -29217,6 +49089,168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.792666,
                         59.452215
                   ]
+            },
+            {
+                  "name": "Djupan",
+                  "text": "Djupan este un lac liniștit în Järfälla, oferind un mediu natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.887923,
+                        59.428611
+                  ]
+            },
+            {
+                  "name": "Vegadammen (Drakulasjön)",
+                  "text": "Vegadammen este un lac în Järfälla, ideal pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        17.827914,
+                        59.392978
+                  ]
+            },
+            {
+                  "name": "Veddestadammen",
+                  "text": "Veddestadammen este un lac în Järfälla, care oferă o atmosferă liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.826796,
+                        59.403104
+                  ]
+            },
+            {
+                  "name": "Kallhällsparkdammen",
+                  "text": "Kallhällsparkdammen este un lac mic în Järfälla, situat într-un cadru de parc.",
+                  "category": "natural",
+                  "coords": [
+                        17.815732,
+                        59.455909
+                  ]
+            },
+            {
+                  "name": "paddling pool",
+                  "text": "Piscina pentru copii din Järfälla oferă o suprafață de apă răcoritoare în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        17.848327,
+                        59.414887
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm este un lac pitoresc în Jaerfaella, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Säbysjön",
+                  "text": "Säbysjön este un lac frumos în Jaerfaella, care invită la observarea naturii și la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.867441,
+                        59.434071
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Översjön este un lac liniștit în Jaerfaella, ideal pentru drumeții și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren din Jaerfaella oferă suprafețe vaste de apă și trasee frumoase pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Ravalen este un lac liniștit în Jaerfaella, perfect pentru o ieșire în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken este o zonă de apă pitorească în Jaerfaella, ideală pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk este un lac mic în Jaerfaella, care oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken este un lac întins în Jaerfaella, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Finnkärret",
+                  "text": "Finnkärret este un lac liniștit în Jaerfaella, care invită la o pauză în mijlocul verdeții.",
+                  "category": "natural",
+                  "coords": [
+                        17.772835,
+                        59.477082
+                  ]
+            },
+            {
+                  "name": "Jumpyard",
+                  "text": "Jumpyard din Jaerfaella este un parc de trambuline palpitant, oferind distracție activă pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        17.840542,
+                        59.409138
+                  ]
+            },
+            {
+                  "name": "Grodparken",
+                  "text": "Grodparken este un loc de joacă frumos în Jaerfaella, oferind copiilor spațiu de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        17.807439,
+                        59.412873
+                  ]
+            },
+            {
+                  "name": "Ålstaparken",
+                  "text": "Ålstaparken este un loc de joacă prietenos pentru copii în Jaerfaella, ideal pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.866432,
+                        59.418221
+                  ]
+            },
+            {
+                  "name": "Semesterparken",
+                  "text": "Semesterparken este un loc de joacă popular în Jaerfaella, care invită copiii la joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        17.811042,
+                        59.428172
+                  ]
             }
       ],
       "en": [
@@ -29236,6 +49270,168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.792666,
                         59.452215
+                  ]
+            },
+            {
+                  "name": "Djupan",
+                  "text": "Djupan is a peaceful lake in Järfälla, offering a natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.887923,
+                        59.428611
+                  ]
+            },
+            {
+                  "name": "Vegadammen (Drakulasjön)",
+                  "text": "Vegadammen is a lake in Järfälla, ideal for a relaxing stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.827914,
+                        59.392978
+                  ]
+            },
+            {
+                  "name": "Veddestadammen",
+                  "text": "Veddestadammen is a lake in Järfälla, providing a peaceful outdoor atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.826796,
+                        59.403104
+                  ]
+            },
+            {
+                  "name": "Kallhällsparkdammen",
+                  "text": "Kallhällsparkdammen is a small lake in Järfälla, set within a park environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.815732,
+                        59.455909
+                  ]
+            },
+            {
+                  "name": "paddling pool",
+                  "text": "The paddling pool in Järfälla offers a refreshing water area within the city.",
+                  "category": "natural",
+                  "coords": [
+                        17.848327,
+                        59.414887
+                  ]
+            },
+            {
+                  "name": "Ärvinge Groddamm",
+                  "text": "Ärvinge Groddamm is a scenic lake in Jaerfaella, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.931062,
+                        59.396953
+                  ]
+            },
+            {
+                  "name": "Säbysjön",
+                  "text": "Säbysjön is a beautiful lake in Jaerfaella, perfect for nature walks and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        17.867441,
+                        59.434071
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Översjön is a peaceful lake in Jaerfaella, ideal for hiking and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren in Jaerfaella offers vast water views and beautiful paths for a scenic walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Ravalen is a peaceful lake in Jaerfaella, perfect for a quiet outing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Edsviken",
+                  "text": "Edsviken is a scenic body of water in Jaerfaella, ideal for walks along the shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        17.994309,
+                        59.41461
+                  ]
+            },
+            {
+                  "name": "Råcksta träsk",
+                  "text": "Råcksta träsk is a small lake in Jaerfaella providing a quiet setting for a nature walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.875108,
+                        59.352421
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken is a large lake in Jaerfaella, perfect for nature enthusiasts and relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Finnkärret",
+                  "text": "Finnkärret is a peaceful lake in Jaerfaella, inviting visitors for a quiet break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.772835,
+                        59.477082
+                  ]
+            },
+            {
+                  "name": "Jumpyard",
+                  "text": "Jumpyard in Jaerfaella is an exciting trampoline park offering active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.840542,
+                        59.409138
+                  ]
+            },
+            {
+                  "name": "Grodparken",
+                  "text": "Grodparken is a lovely playground in Jaerfaella, offering plenty of outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        17.807439,
+                        59.412873
+                  ]
+            },
+            {
+                  "name": "Ålstaparken",
+                  "text": "Ålstaparken is a kid-friendly playground in Jaerfaella, perfect for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        17.866432,
+                        59.418221
+                  ]
+            },
+            {
+                  "name": "Semesterparken",
+                  "text": "Semesterparken is a popular playground in Jaerfaella, inviting children to play and enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        17.811042,
+                        59.428172
                   ]
             }
       ]
@@ -30626,6 +50822,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.128561,
                         59.161733
                   ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran ist ein friedlicher See in Haninge, umgeben von schöner Natur für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön ist ein klarer See in Haninge, ideal für Erholung und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön ist ein malerischer See in Haninge, der eine ruhige Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön ist ein kleiner, ruhiger See in Haninge, perfekt für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein idyllischer See in Haninge, ideal für einen erholsamen Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen ist ein friedlicher Teich in Haninge, der zu ruhigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen ist ein kleiner Waldsee in Haninge, der eine unberührte Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön ist ein schöner See in Haninge, ideal für Wanderungen und das Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön ist ein ruhiger See in Haninge, der eine friedliche Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön ist ein familienfreundlicher See in Haninge, ideal für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön ist ein idyllischer See in Haninge, perfekt für eine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen ist ein kleiner, friedlicher See in Haninge, umgeben von schöner Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten ist ein beliebter See in Haninge, der gute Möglichkeiten für Spaziergänge im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket ist ein ruhiges Gewässer in Haninge, ideal für eine entspannte Zeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken ist ein großer See in Haninge, der weite Ausblicke und schöne Uferwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen ist ein malerischer See in Haninge, ideal für ausgedehnte Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången ist ein weitläufiger See in Haninge, der eine abwechslungsreiche Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön ist ein schöner See in Haninge, ideal für einen erholsamen Nachmittag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön ist ein ruhiger Waldsee in Haninge, perfekt für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön ist ein friedlicher See in Haninge, der zu Entspannung und Naturbeobachtung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön ist ein idyllischer See in Haninge, ideal für Wanderungen in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten ist ein malerischer See in Haninge, der schöne Ausblicke auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran ist ein ruhiger See in Haninge, ideal für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen ist ein kleiner See in Haninge, der eine friedliche Atmosphäre zum Verweilen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön ist ein schöner, langer See in Haninge, ideal für Spaziergänge entlang des Wassers.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
             }
       ],
       "hu": [
@@ -30672,6 +51093,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.128561,
                         59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Az Ådran egy békés tó Haninge területén, amelyet szép természet övez a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "A Nedre Rudansjön egy tiszta vizű tó Haninge városában, amely ideális kikapcsolódásra és vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Az Övre Rudansjön egy festői tó Haninge területén, amely nyugodt környezetet nyújt a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Kvarnsjön egy kis, nyugodt tó Haninge városában, amely tökéletes egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy idilli tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "A Gammeldammen egy békés tó Haninge városában, amely nyugodt sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Az Årsjötjärnen egy kis erdei tó Haninge területén, amely érintetlen természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "A Bylsjön egy szép tó Haninge városában, amely ideális túrázáshoz és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "A Mörtsjön egy nyugodt tó Haninge területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "A Barnsjön egy családbarát tó Haninge városában, amely kiváló sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "A Lissmasjön egy idilli tó Haninge területén, amely tökéletes egy kis természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "A Trylen egy kis, békés tó Haninge városában, amelyet szép erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "A Flaten egy népszerű tó Haninge területén, amely remek lehetőségeket kínál a zöldben való sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "A Rudträsket egy nyugodt vízfelület Haninge városában, amely ideális a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "A Drevviken egy nagy tó Haninge területén, amely tágas kilátást és szép partmenti utakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "A Magelungen egy festői tó Haninge városában, amely ideális hosszú vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Az Orlången egy kiterjedt tó Haninge területén, amely változatos természeti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "A Lycksjön egy szép tó Haninge városában, amely ideális egy pihentető délutánhoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "A Svartsjön egy nyugodt erdei tó Haninge területén, amely tökéletes a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "A Ramsjön egy békés tó Haninge városában, amely pihenésre és természetfigyelésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Az Årsjön egy idilli tó Haninge területén, amely ideális túrázáshoz nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "A Tyresö-Flaten egy festői tó Haninge városában, amely szép kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Az Öran egy nyugodt tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "A Trehörningen egy kis tó Haninge városában, amely békés környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Långsjön egy szép, hosszú tó Haninge területén, amely ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
                   ]
             }
       ],
@@ -30720,6 +51366,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.128561,
                         59.161733
                   ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran este un lac liniștit în Haninge, înconjurat de natură frumoasă pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön este un lac cu apă limpede în Haninge, ideal pentru recreere și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön este un lac pitoresc în Haninge, oferind un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön este un lac mic și liniștit în Haninge, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac idilic în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen este un lac liniștit în Haninge, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen este un lac mic de pădure în Haninge, oferind un cadru natural nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön este un lac frumos în Haninge, ideal pentru drumeții și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön este un lac liniștit în Haninge, oferind o atmosferă pașnică vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön este un lac prietenos pentru familii în Haninge, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön este un lac idilic în Haninge, perfect pentru o evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen este un lac mic și liniștit în Haninge, înconjurat de un peisaj forestier frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten este un lac popular în Haninge, oferind oportunități bune pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket este o zonă de apă liniștită în Haninge, ideală pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken este un lac mare în Haninge, oferind priveliști vaste și trasee frumoase pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen este un lac pitoresc în Haninge, ideal pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången este un lac întins în Haninge, oferind un peisaj natural variat.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön este un lac frumos în Haninge, ideal pentru o după-amiază de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön este un lac de pădure liniștit în Haninge, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön este un lac liniștit în Haninge, care invită la relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön este un lac idilic în Haninge, ideal pentru drumeții într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten este un lac pitoresc în Haninge, oferind priveliști frumoase asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran este un lac liniștit în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen este un lac mic în Haninge, oferind o atmosferă pașnică pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön este un lac frumos și lung în Haninge, ideal pentru plimbări de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
             }
       ],
       "en": [
@@ -30766,6 +51637,231 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.128561,
                         59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran is a peaceful lake in Haninge, surrounded by beautiful nature for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön is a clear lake in Haninge, perfect for recreation and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön is a scenic lake in Haninge, providing a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön is a small, quiet lake in Haninge, perfect for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is an idyllic lake in Haninge, perfect for a relaxing day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen is a peaceful pond in Haninge, inviting visitors for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen is a small forest lake in Haninge, offering a pristine natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön is a lovely lake in Haninge, perfect for hiking and enjoying the views.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön is a quiet lake in Haninge, offering a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön is a family-friendly lake in Haninge, ideal for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön is an idyllic lake in Haninge, perfect for a quiet getaway in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen is a small, peaceful lake in Haninge, surrounded by beautiful woodland.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten is a popular lake in Haninge, offering great opportunities for walks in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket is a calm body of water in Haninge, ideal for a relaxing time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken is a large lake in Haninge, offering wide views and beautiful shoreline paths.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen is a scenic lake in Haninge, perfect for long walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången is a spacious lake in Haninge, offering a diverse natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön is a lovely lake in Haninge, perfect for a relaxing afternoon outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön is a quiet forest lake in Haninge, perfect for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön is a peaceful lake in Haninge, inviting relaxation and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön is an idyllic lake in Haninge, perfect for hiking in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten is a scenic lake in Haninge, offering beautiful views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran is a quiet lake in Haninge, perfect for a relaxing day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen is a small lake in Haninge, providing a peaceful atmosphere for a break.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön is a lovely, long lake in Haninge, perfect for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
                   ]
             }
       ]

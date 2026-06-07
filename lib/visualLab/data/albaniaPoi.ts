@@ -475,6 +475,168 @@ export const albaniaCities: POI[] = [
                         19.810467,
                         41.308256
                   ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Malerischer See bei Tirana, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Ein friedliches Gewässer in Tirana, perfekt für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni i Farkës",
+                  "text": "Ein bekannter See bei Tirana, der zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.863906,
+                        41.314961
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Ruhiger See in der Nähe von Tirana, umgeben von Hügeln und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Surelit",
+                  "text": "Ein abgelegener See bei Tirana, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.897949,
+                        41.33526
+                  ]
+            },
+            {
+                  "name": "Liqeni Linzës",
+                  "text": "Kleiner See in Tirana, ideal für einen kurzen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.87645,
+                        41.356889
+                  ]
+            },
+            {
+                  "name": "Tirana-See",
+                  "text": "Zentraler künstlicher See in Tirana, beliebt für Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        19.818544,
+                        41.309644
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein ruhiges Wasserreservoir bei Tirana, eingebettet in die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.755682,
+                        41.293236
+                  ]
+            },
+            {
+                  "name": "Rezervuar i Sharrës",
+                  "text": "Ein friedlicher See in der Region Tirana, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.78714,
+                        41.299044
+                  ]
+            },
+            {
+                  "name": "Liqeni i Thatë",
+                  "text": "Ein kleiner See bei Tirana, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.816218,
+                        41.303155
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash",
+                  "text": "Ein lokaler Spielplatz in Tirana, auf dem Kinder aktiv sein können.",
+                  "category": "family",
+                  "coords": [
+                        19.807165,
+                        41.333922
+                  ]
+            },
+            {
+                  "name": "Akademia e Çiklizmit",
+                  "text": "Ein spezieller Spielbereich in Tirana, der Kindern Spaß an der Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.819726,
+                        41.306423
+                  ]
+            },
+            {
+                  "name": "Dodo Playground",
+                  "text": "Ein einladender Spielplatz in Tirana, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        19.838433,
+                        41.339155
+                  ]
+            },
+            {
+                  "name": "Mini Railway",
+                  "text": "Ein origineller Spielbereich in Tirana, der Kindern Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        19.818505,
+                        41.313024
+                  ]
+            },
+            {
+                  "name": "Shesh Rekreativ",
+                  "text": "Ein öffentlicher Erholungsplatz in Tirana mit Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.820083,
+                        41.319624
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ tek ish ATSh",
+                  "text": "Ein gepflegter Spielplatz in Tirana für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        19.826412,
+                        41.328054
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Blloku 1 Maji",
+                  "text": "Ein zentraler Ort zum Spielen und Verweilen für Familien in Tirana.",
+                  "category": "family",
+                  "coords": [
+                        19.806287,
+                        41.32011
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Sali Butka",
+                  "text": "Ein schöner Spielplatz in Tirana, der Kindern Raum zum Toben gibt.",
+                  "category": "family",
+                  "coords": [
+                        19.799474,
+                        41.322899
+                  ]
             }
       ],
       "hu": [
@@ -890,6 +1052,168 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.810467,
                         41.308256
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Festői tó Tirana közelében, ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Békés vízfelület Tirana területén, tökéletes a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni i Farkës",
+                  "text": "Ismert tó Tirana közelében, amely parti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        19.863906,
+                        41.314961
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Nyugodt tó Tirana szomszédságában, dombokkal és természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Surelit",
+                  "text": "Félreeső tó Tirana közelében, amely nyugalmat és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.897949,
+                        41.33526
+                  ]
+            },
+            {
+                  "name": "Liqeni Linzës",
+                  "text": "Kis tó Tirana területén, ideális egy rövid természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.87645,
+                        41.356889
+                  ]
+            },
+            {
+                  "name": "Liqeni i Tiranës",
+                  "text": "Központi mesterséges tó Tirana szívében, népszerű a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.818544,
+                        41.309644
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Nyugodt víztározó Tirana közelében, a tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        19.755682,
+                        41.293236
+                  ]
+            },
+            {
+                  "name": "Rezervuar i Sharrës",
+                  "text": "Békés tó Tirana régiójában, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.78714,
+                        41.299044
+                  ]
+            },
+            {
+                  "name": "Liqeni i Thatë",
+                  "text": "Kis tó Tirana közelében, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.816218,
+                        41.303155
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash",
+                  "text": "Helyi játszótér Tirana területén, ahol a gyerekek aktívak lehetnek.",
+                  "category": "family",
+                  "coords": [
+                        19.807165,
+                        41.333922
+                  ]
+            },
+            {
+                  "name": "Akademia e Çiklizmit",
+                  "text": "Különleges játszóterület Tirana területén, amely mozgásörömöt kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.819726,
+                        41.306423
+                  ]
+            },
+            {
+                  "name": "Dodo Playground",
+                  "text": "Hívogató játszótér Tirana területén, ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.838433,
+                        41.339155
+                  ]
+            },
+            {
+                  "name": "Mini Railway",
+                  "text": "Eredeti játszóterület Tirana területén, amely örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.818505,
+                        41.313024
+                  ]
+            },
+            {
+                  "name": "Shesh Rekreativ",
+                  "text": "Nyilvános pihenőhely Tirana területén játéklehetőségekkel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.820083,
+                        41.319624
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ tek ish ATSh",
+                  "text": "Gondozott játszótér Tirana területén a mindennapi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.826412,
+                        41.328054
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Blloku 1 Maji",
+                  "text": "Központi hely a játékhoz és pihenéshez családok számára Tirana területén.",
+                  "category": "family",
+                  "coords": [
+                        19.806287,
+                        41.32011
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Sali Butka",
+                  "text": "Szép játszótér Tirana területén, amely teret ad a gyerekeknek a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.799474,
+                        41.322899
                   ]
             }
       ],
@@ -1307,6 +1631,168 @@ export const albaniaCities: POI[] = [
                         19.810467,
                         41.308256
                   ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Lac pitoresc lângă Tirana, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Liqeni i Paskuqanit",
+                  "text": "Un lac liniștit în Tirana, perfect pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni i Farkës",
+                  "text": "Un lac cunoscut lângă Tirana, care invită la plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        19.863906,
+                        41.314961
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Lac liniștit în apropiere de Tirana, înconjurat de dealuri și natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Surelit",
+                  "text": "Un lac retras lângă Tirana, oferind liniște și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.897949,
+                        41.33526
+                  ]
+            },
+            {
+                  "name": "Liqeni Linzës",
+                  "text": "Un lac mic în Tirana, ideal pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.87645,
+                        41.356889
+                  ]
+            },
+            {
+                  "name": "Liqeni i Tiranës",
+                  "text": "Lac artificial central în Tirana, popular pentru activități de agrement în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.818544,
+                        41.309644
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Un rezervor de apă liniștit lângă Tirana, integrat în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        19.755682,
+                        41.293236
+                  ]
+            },
+            {
+                  "name": "Rezervuar i Sharrës",
+                  "text": "Un lac liniștit în regiunea Tirana, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.78714,
+                        41.299044
+                  ]
+            },
+            {
+                  "name": "Liqeni i Thatë",
+                  "text": "Un lac mic lângă Tirana, oferind un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.816218,
+                        41.303155
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash",
+                  "text": "Un loc de joacă local în Tirana, unde copiii pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        19.807165,
+                        41.333922
+                  ]
+            },
+            {
+                  "name": "Akademia e Çiklizmit",
+                  "text": "O zonă de joacă specială în Tirana, oferind copiilor bucuria mișcării.",
+                  "category": "family",
+                  "coords": [
+                        19.819726,
+                        41.306423
+                  ]
+            },
+            {
+                  "name": "Dodo Playground",
+                  "text": "Un loc de joacă primitor în Tirana, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        19.838433,
+                        41.339155
+                  ]
+            },
+            {
+                  "name": "Mini Railway",
+                  "text": "O zonă de joacă originală în Tirana, care aduce bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.818505,
+                        41.313024
+                  ]
+            },
+            {
+                  "name": "Shesh Rekreativ",
+                  "text": "Un spațiu public de recreere în Tirana, cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.820083,
+                        41.319624
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ tek ish ATSh",
+                  "text": "Un loc de joacă bine întreținut în Tirana pentru recreere zilnică.",
+                  "category": "family",
+                  "coords": [
+                        19.826412,
+                        41.328054
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Blloku 1 Maji",
+                  "text": "Un loc central pentru joacă și relaxare pentru familiile din Tirana.",
+                  "category": "family",
+                  "coords": [
+                        19.806287,
+                        41.32011
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Sali Butka",
+                  "text": "Un loc de joacă frumos în Tirana, oferind copiilor spațiu de zbânțuială.",
+                  "category": "family",
+                  "coords": [
+                        19.799474,
+                        41.322899
+                  ]
             }
       ],
       "en": [
@@ -1722,6 +2208,168 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.810467,
                         41.308256
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Kasharit",
+                  "text": "Scenic lake near Tirana, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.725096,
+                        41.353264
+                  ]
+            },
+            {
+                  "name": "Paskuqan Lake",
+                  "text": "A peaceful body of water in Tirana, perfect for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        19.794808,
+                        41.363432
+                  ]
+            },
+            {
+                  "name": "Liqeni i Farkës",
+                  "text": "A well-known lake near Tirana, inviting for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        19.863906,
+                        41.314961
+                  ]
+            },
+            {
+                  "name": "Liqeni i Prushit",
+                  "text": "Quiet lake in the vicinity of Tirana, surrounded by hills and nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.737585,
+                        41.311271
+                  ]
+            },
+            {
+                  "name": "Liqeni Surelit",
+                  "text": "A secluded lake near Tirana, offering peace and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.897949,
+                        41.33526
+                  ]
+            },
+            {
+                  "name": "Liqeni Linzës",
+                  "text": "Small lake in Tirana, ideal for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.87645,
+                        41.356889
+                  ]
+            },
+            {
+                  "name": "Liqeni i Tiranës",
+                  "text": "Central artificial lake in Tirana, popular for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        19.818544,
+                        41.309644
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "A quiet water reservoir near Tirana, nestled in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.755682,
+                        41.293236
+                  ]
+            },
+            {
+                  "name": "Rezervuar i Sharrës",
+                  "text": "A peaceful lake in the Tirana region, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.78714,
+                        41.299044
+                  ]
+            },
+            {
+                  "name": "Liqeni i Thatë",
+                  "text": "A small lake near Tirana, providing a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.816218,
+                        41.303155
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash",
+                  "text": "A local playground in Tirana where children can be active.",
+                  "category": "family",
+                  "coords": [
+                        19.807165,
+                        41.333922
+                  ]
+            },
+            {
+                  "name": "Cycling Academy",
+                  "text": "A special play area in Tirana offering children fun through movement.",
+                  "category": "family",
+                  "coords": [
+                        19.819726,
+                        41.306423
+                  ]
+            },
+            {
+                  "name": "Dodo Playground",
+                  "text": "An inviting playground in Tirana, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        19.838433,
+                        41.339155
+                  ]
+            },
+            {
+                  "name": "Mini Railway",
+                  "text": "An original play area in Tirana that brings joy to children.",
+                  "category": "family",
+                  "coords": [
+                        19.818505,
+                        41.313024
+                  ]
+            },
+            {
+                  "name": "Shesh Rekreativ",
+                  "text": "A public recreational space in Tirana with play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        19.820083,
+                        41.319624
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ tek ish ATSh",
+                  "text": "A well-maintained playground in Tirana for daily recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.826412,
+                        41.328054
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Blloku 1 Maji",
+                  "text": "A central place for playing and relaxing for families in Tirana.",
+                  "category": "family",
+                  "coords": [
+                        19.806287,
+                        41.32011
+                  ]
+            },
+            {
+                  "name": "Sheshi Rekreativ Sali Butka",
+                  "text": "A nice playground in Tirana giving children space to romp around.",
+                  "category": "family",
+                  "coords": [
+                        19.799474,
+                        41.322899
                   ]
             }
       ]
@@ -2560,7 +3208,124 @@ export const albaniaCities: POI[] = [
       fr: ["La ville possède un grand amphithéâtre romain.", "Elle fut autrefois la capitale de l'Albanie.", "Durrës est une destination prisée pour les vacances à la plage."],
     }, image: "/poi-images/city-durres.webp"},
   {
-    id: "city-vlore",
+    id: "city-vlore", "sights": {
+      "de": [
+            {
+                  "name": "Ujëmbajtësja e Zvërnecit",
+                  "text": "Ein See bei Vlora, der in einer malerischen Küstenregion zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.429852,
+                        40.504601
+                  ]
+            },
+            {
+                  "name": "Laguna e Nartës",
+                  "text": "Eine große Lagune bei Vlora, bekannt für ihre beeindruckende Natur und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        19.423789,
+                        40.531662
+                  ]
+            },
+            {
+                  "name": "Parku Aulona",
+                  "text": "Ein Park mit Spielmöglichkeiten in Vlora, ideal für einen entspannten Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        19.488077,
+                        40.459376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ujëmbajtësja e Zvërnecit",
+                  "text": "Vlora melletti tó, amely festői tengerparti környezetben kínál pihenést.",
+                  "category": "natural",
+                  "coords": [
+                        19.429852,
+                        40.504601
+                  ]
+            },
+            {
+                  "name": "Laguna e Nartës",
+                  "text": "Vlora melletti nagy lagúna, amely lenyűgöző természetéről és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.423789,
+                        40.531662
+                  ]
+            },
+            {
+                  "name": "Parku Aulona",
+                  "text": "Park játszalehetőségekkel Vlorában, ideális egy pihentető családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.488077,
+                        40.459376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ujëmbajtësja e Zvërnecit",
+                  "text": "Un lac lângă Vlorë, situat într-o regiune de coastă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        19.429852,
+                        40.504601
+                  ]
+            },
+            {
+                  "name": "Laguna e Nartës",
+                  "text": "O lagună mare lângă Vlorë, cunoscută pentru natura impresionantă și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        19.423789,
+                        40.531662
+                  ]
+            },
+            {
+                  "name": "Parku Aulona",
+                  "text": "Un parc cu spații de joacă în Vlorë, ideal pentru o după-amiază relaxantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.488077,
+                        40.459376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ujëmbajtësja e Zvërnecit",
+                  "text": "A lake near Vlorë, located in a picturesque coastal region.",
+                  "category": "natural",
+                  "coords": [
+                        19.429852,
+                        40.504601
+                  ]
+            },
+            {
+                  "name": "Laguna e Nartës",
+                  "text": "A large lagoon near Vlorë, known for its impressive nature and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        19.423789,
+                        40.531662
+                  ]
+            },
+            {
+                  "name": "Parku Aulona",
+                  "text": "A park with play areas in Vlorë, ideal for a relaxed family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        19.488077,
+                        40.459376
+                  ]
+            }
+      ]
+},
     name: { de: "Vlorë", hu: "Vlorë", ro: "Vlorë", en: "Vlorë" },
     description: { de: "Stadt der Unabhängigkeit", hu: "A függetlenség városa", ro: "Orașul independenței", en: "City of independence" , es: "Ciudad de la independencia.", pt: "Cidade da independência.", fr: "Ville de l'indépendance."},
     descriptionAdvanced: {
@@ -2901,6 +3666,51 @@ export const albaniaCities: POI[] = [
                         19.508701,
                         42.065421
                   ]
+            },
+            {
+                  "name": "Liqeni i Vau i Dejës",
+                  "text": "Großer Stausee bei Shkodra, bekannt für seine beeindruckende Naturkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        19.716414,
+                        42.059438
+                  ]
+            },
+            {
+                  "name": "Skutarisee",
+                  "text": "Ein bedeutender See bei Shkodra, ideal für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
+            },
+            {
+                  "name": "Lojra Fëmijësh",
+                  "text": "Ein lokaler Spielbereich in Shkodra, der Kindern Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.498048,
+                        42.053889
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash për Fëmijë",
+                  "text": "Ein kinderfreundlicher Spielplatz in Shkodra für Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        19.515347,
+                        42.066072
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Ein Spielplatz in Shkodra, an dem Kinder gemeinsam Zeit verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        19.509257,
+                        42.059746
+                  ]
             }
       ],
       "hu": [
@@ -3208,6 +4018,51 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.508701,
                         42.065421
+                  ]
+            },
+            {
+                  "name": "Liqeni i Vau i Dejës",
+                  "text": "Nagy víztározó Shkodra közelében, amely lenyűgöző természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.716414,
+                        42.059438
+                  ]
+            },
+            {
+                  "name": "Shkodrai-tó",
+                  "text": "Jelentős tó Shkodra közelében, ideális természetmegfigyeléshez és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
+            },
+            {
+                  "name": "Lojra Fëmijësh",
+                  "text": "Helyi játszóterület Shkodra területén, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.498048,
+                        42.053889
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash për Fëmijë",
+                  "text": "Gyermekbarát játszótér Shkodra területén a szabadtéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.515347,
+                        42.066072
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Játszótér Shkodra területén, ahol a gyerekek együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        19.509257,
+                        42.059746
                   ]
             }
       ],
@@ -3517,6 +4372,51 @@ export const albaniaCities: POI[] = [
                         19.508701,
                         42.065421
                   ]
+            },
+            {
+                  "name": "Liqeni i Vau i Dejës",
+                  "text": "Rezervor mare lângă Shkodra, cunoscut pentru cadrul natural impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        19.716414,
+                        42.059438
+                  ]
+            },
+            {
+                  "name": "Skadarsko jezero / Liqeni i Shkodrës",
+                  "text": "Un lac important lângă Shkodra, ideal pentru observarea naturii și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
+            },
+            {
+                  "name": "Lojra Fëmijësh",
+                  "text": "O zonă de joacă locală în Shkodra, oferind spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.498048,
+                        42.053889
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash për Fëmijë",
+                  "text": "Un loc de joacă prietenos pentru copii în Shkodra pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.515347,
+                        42.066072
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Un loc de joacă în Shkodra unde copiii pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        19.509257,
+                        42.059746
+                  ]
             }
       ],
       "en": [
@@ -3825,6 +4725,51 @@ export const albaniaCities: POI[] = [
                         19.508701,
                         42.065421
                   ]
+            },
+            {
+                  "name": "Liqeni i Vau i Dejës",
+                  "text": "Large reservoir near Shkodra, known for its impressive natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.716414,
+                        42.059438
+                  ]
+            },
+            {
+                  "name": "Lake Skadar",
+                  "text": "A significant lake near Shkodra, ideal for nature observation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.280295,
+                        42.195311
+                  ]
+            },
+            {
+                  "name": "Lojra Fëmijësh",
+                  "text": "A local play area in Shkodra providing space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.498048,
+                        42.053889
+                  ]
+            },
+            {
+                  "name": "Kënd Lojrash për Fëmijë",
+                  "text": "A child-friendly playground in Shkodra for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        19.515347,
+                        42.066072
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "A playground in Shkodra where children can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        19.509257,
+                        42.059746
+                  ]
             }
       ]
 },
@@ -3979,6 +4924,42 @@ export const albaniaCities: POI[] = [
                         20.784138,
                         40.624942
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein lokaler See in Korce, der eine ruhige Umgebung für die Freizeitgestaltung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.758065,
+                        40.610974
+                  ]
+            },
+            {
+                  "name": "Park One",
+                  "text": "Ein moderner Spielplatz in Korce, der Kindern viel Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.788447,
+                        40.611589
+                  ]
+            },
+            {
+                  "name": "Game Over",
+                  "text": "Diese Spielhalle in Korce bietet verschiedene Unterhaltungsmöglichkeiten für Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        20.771446,
+                        40.617813
+                  ]
+            },
+            {
+                  "name": "Level Up Gaming Space",
+                  "text": "Ein Ort für Gaming-Fans in Korce mit modernen Geräten und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        20.783113,
+                        40.618793
+                  ]
             }
       ],
       "hu": [
@@ -4097,6 +5078,42 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         20.784138,
                         40.624942
+                  ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Helyi tó Korçë városában, amely nyugodt környezetet biztosít a szabadidő eltöltéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.758065,
+                        40.610974
+                  ]
+            },
+            {
+                  "name": "Park One",
+                  "text": "Modern játszótér Korçëban, amely tágas teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.788447,
+                        40.611589
+                  ]
+            },
+            {
+                  "name": "Game Over",
+                  "text": "Ez a korçëi játékterem különféle szórakozási lehetőségeket kínál a fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        20.771446,
+                        40.617813
+                  ]
+            },
+            {
+                  "name": "Level Up Gaming Space",
+                  "text": "Hely a játékrajongók számára Korçëban, modern eszközökkel és játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        20.783113,
+                        40.618793
                   ]
             }
       ],
@@ -4217,6 +5234,42 @@ export const albaniaCities: POI[] = [
                         20.784138,
                         40.624942
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "Un lac local în Korce, care oferă un mediu liniștit pentru activități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        20.758065,
+                        40.610974
+                  ]
+            },
+            {
+                  "name": "Park One",
+                  "text": "Un loc de joacă modern în Korce, care oferă copiilor mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        20.788447,
+                        40.611589
+                  ]
+            },
+            {
+                  "name": "Game Over",
+                  "text": "Această sală de jocuri din Korce oferă diverse opțiuni de divertisment pentru tineri.",
+                  "category": "family",
+                  "coords": [
+                        20.771446,
+                        40.617813
+                  ]
+            },
+            {
+                  "name": "Level Up Gaming Space",
+                  "text": "Un loc pentru fanii jocurilor în Korce, dotat cu echipamente și jocuri moderne.",
+                  "category": "family",
+                  "coords": [
+                        20.783113,
+                        40.618793
+                  ]
             }
       ],
       "en": [
@@ -4336,6 +5389,42 @@ export const albaniaCities: POI[] = [
                         20.784138,
                         40.624942
                   ]
+            },
+            {
+                  "name": "Rezervuar",
+                  "text": "A local lake in Korce providing a quiet environment for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        20.758065,
+                        40.610974
+                  ]
+            },
+            {
+                  "name": "Park One",
+                  "text": "A modern playground in Korce offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        20.788447,
+                        40.611589
+                  ]
+            },
+            {
+                  "name": "Game Over",
+                  "text": "This amusement arcade in Korce offers various entertainment options for young people.",
+                  "category": "family",
+                  "coords": [
+                        20.771446,
+                        40.617813
+                  ]
+            },
+            {
+                  "name": "Level Up Gaming Space",
+                  "text": "A place for gaming fans in Korce with modern equipment and games.",
+                  "category": "family",
+                  "coords": [
+                        20.783113,
+                        40.618793
+                  ]
             }
       ]
 },
@@ -4427,6 +5516,24 @@ export const albaniaCities: POI[] = [
                         19.556988,
                         40.727012
                   ]
+            },
+            {
+                  "name": "Genie's Land",
+                  "text": "Ein Unterhaltungsbereich für Kindern in Fier, der Spiel und Spaß kombiniert.",
+                  "category": "family",
+                  "coords": [
+                        19.557002,
+                        40.722843
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Ein lokaler Spielplatz in Fier, der Kindern Raum für Bewegung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.555852,
+                        40.724157
+                  ]
             }
       ],
       "hu": [
@@ -4482,6 +5589,24 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.556988,
                         40.727012
+                  ]
+            },
+            {
+                  "name": "Genie's Land",
+                  "text": "Gyermekszórakoztató központ Fier városában, amely ötvözi a játékot és a szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        19.557002,
+                        40.722843
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Helyi játszótér Fierben, amely mozgásteret biztosít a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        19.555852,
+                        40.724157
                   ]
             }
       ],
@@ -4539,6 +5664,24 @@ export const albaniaCities: POI[] = [
                         19.556988,
                         40.727012
                   ]
+            },
+            {
+                  "name": "Genie's Land",
+                  "text": "O zonă de divertisment pentru copii în Fier, care îmbină joaca și distracția.",
+                  "category": "family",
+                  "coords": [
+                        19.557002,
+                        40.722843
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "Un loc de joacă local în Fier, oferind copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.555852,
+                        40.724157
+                  ]
             }
       ],
       "en": [
@@ -4594,6 +5737,24 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.556988,
                         40.727012
+                  ]
+            },
+            {
+                  "name": "Genie's Land",
+                  "text": "An entertainment area for children in Fier, combining play and fun.",
+                  "category": "family",
+                  "coords": [
+                        19.557002,
+                        40.722843
+                  ]
+            },
+            {
+                  "name": "Kend Lojrash",
+                  "text": "A local playground in Fier, offering children space for outdoor activity.",
+                  "category": "family",
+                  "coords": [
+                        19.555852,
+                        40.724157
                   ]
             }
       ]

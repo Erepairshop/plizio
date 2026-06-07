@@ -692,7 +692,52 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "venice",
+    id: "venice", "sights": {
+      "de": [
+            {
+                  "name": "Lagune von Venedig",
+                  "text": "Die Lagune von Venedig ist ein weitläufiges Gewässer, das für seine einzigartige Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.334722,
+                        45.364202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna di Venezia",
+                  "text": "A Velencei-lagúna egy kiterjedt vízfelület, amely egyedülálló elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.334722,
+                        45.364202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna di Venezia",
+                  "text": "Laguna Venețiană este o întindere vastă de apă, cunoscută pentru locația sa unică.",
+                  "category": "natural",
+                  "coords": [
+                        12.334722,
+                        45.364202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Venetian Lagoon",
+                  "text": "The Venetian Lagoon is a vast body of water known for its unique location.",
+                  "category": "natural",
+                  "coords": [
+                        12.334722,
+                        45.364202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-veneto",
     coords: [12.3155, 45.4408],
@@ -2893,6 +2938,42 @@ export const italyCities: POI[] = [
                         18.169327,
                         40.351777
                   ]
+            },
+            {
+                  "name": "Colella Games Cocktails Food",
+                  "text": "Diese Spielhalle in Lecce bietet verschiedene Spiele und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.166279,
+                        40.349648
+                  ]
+            },
+            {
+                  "name": "Parco dei Colori",
+                  "text": "Dieser Spielplatz in Lecce bietet Kindern farbenfrohe Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        18.153727,
+                        40.359068
+                  ]
+            },
+            {
+                  "name": "Parco Lavinia",
+                  "text": "Ein familienfreundlicher Spielplatz in Lecce, der zu Bewegung und Spiel einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.144306,
+                        40.349133
+                  ]
+            },
+            {
+                  "name": "Parco Adele Savio di Bernstiel",
+                  "text": "Dieser Spielplatz in Lecce ist ein schöner Ort für Kinder, um sicher zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.180851,
+                        40.331945
+                  ]
             }
       ],
       "hu": [
@@ -3038,6 +3119,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         18.169327,
                         40.351777
+                  ]
+            },
+            {
+                  "name": "Colella Games Cocktails Food",
+                  "text": "Ez a Lecce városában található játékterem különféle játékokat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.166279,
+                        40.349648
+                  ]
+            },
+            {
+                  "name": "Parco dei Colori",
+                  "text": "Ez a Lecce városában található játszótér színes játéklehetőségeket kínál a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        18.153727,
+                        40.359068
+                  ]
+            },
+            {
+                  "name": "Parco Lavinia",
+                  "text": "Családbarát játszótér Lecce városában, amely mozgásra és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        18.144306,
+                        40.349133
+                  ]
+            },
+            {
+                  "name": "Parco Adele Savio di Bernstiel",
+                  "text": "Ez a Lecce városában található játszótér remek hely a gyerekeknek a biztonságos játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.180851,
+                        40.331945
                   ]
             }
       ],
@@ -3185,6 +3302,42 @@ export const italyCities: POI[] = [
                         18.169327,
                         40.351777
                   ]
+            },
+            {
+                  "name": "Colella Games Cocktails Food",
+                  "text": "Această sală de jocuri din Lecce oferă diverse jocuri și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.166279,
+                        40.349648
+                  ]
+            },
+            {
+                  "name": "Parco dei Colori",
+                  "text": "Acest loc de joacă din Lecce oferă copiilor posibilități colorate de distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        18.153727,
+                        40.359068
+                  ]
+            },
+            {
+                  "name": "Parco Lavinia",
+                  "text": "Un loc de joacă pentru familii din Lecce, care invită la mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.144306,
+                        40.349133
+                  ]
+            },
+            {
+                  "name": "Parco Adele Savio di Bernstiel",
+                  "text": "Acest loc de joacă din Lecce este un loc plăcut unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        18.180851,
+                        40.331945
+                  ]
             }
       ],
       "en": [
@@ -3330,6 +3483,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         18.169327,
                         40.351777
+                  ]
+            },
+            {
+                  "name": "Colella Games Cocktails Food",
+                  "text": "This amusement arcade in Lecce provides various games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.166279,
+                        40.349648
+                  ]
+            },
+            {
+                  "name": "Parco dei Colori",
+                  "text": "This playground in Lecce offers children colorful play opportunities outdoors.",
+                  "category": "family",
+                  "coords": [
+                        18.153727,
+                        40.359068
+                  ]
+            },
+            {
+                  "name": "Parco Lavinia",
+                  "text": "A family-friendly playground in Lecce that invites movement and play.",
+                  "category": "family",
+                  "coords": [
+                        18.144306,
+                        40.349133
+                  ]
+            },
+            {
+                  "name": "Parco Adele Savio di Bernstiel",
+                  "text": "This playground in Lecce is a nice place for children to play safely.",
+                  "category": "family",
+                  "coords": [
+                        18.180851,
+                        40.331945
                   ]
             }
       ]
@@ -3614,6 +3803,42 @@ export const italyCities: POI[] = [
                         16.8671,
                         41.126612
                   ]
+            },
+            {
+                  "name": "Ludoteca",
+                  "text": "Eine Ludothek in Bari, die Kindern verschiedene Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.875707,
+                        41.101463
+                  ]
+            },
+            {
+                  "name": "Perris Park",
+                  "text": "Ein Freizeitpark für Kinder in Bari mit verschiedenen Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        16.864124,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Gomma Park",
+                  "text": "Ein Indoor-Spielplatz in Bari mit Hüpfburgen und weichen Spielflächen.",
+                  "category": "family",
+                  "coords": [
+                        16.874335,
+                        41.104422
+                  ]
+            },
+            {
+                  "name": "Ludoteca Play Park",
+                  "text": "Ein Spielzentrum in Bari für Kindergeburtstage und Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.843333,
+                        41.108123
+                  ]
             }
       ],
       "hu": [
@@ -3813,6 +4038,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         16.8671,
                         41.126612
+                  ]
+            },
+            {
+                  "name": "Ludoteca",
+                  "text": "Játszóház Bariban, amely különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.875707,
+                        41.101463
+                  ]
+            },
+            {
+                  "name": "Perris Park",
+                  "text": "Szórakoztató park gyerekeknek Bariban különféle attrakciókkal.",
+                  "category": "family",
+                  "coords": [
+                        16.864124,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Gomma Park",
+                  "text": "Fedett játszóház Bariban ugrálóvárakkal és puha játékfelületekkel.",
+                  "category": "family",
+                  "coords": [
+                        16.874335,
+                        41.104422
+                  ]
+            },
+            {
+                  "name": "Ludoteca Play Park",
+                  "text": "Játszóközpont Bariban születésnapokra és szabadidős szórakozásra.",
+                  "category": "family",
+                  "coords": [
+                        16.843333,
+                        41.108123
                   ]
             }
       ],
@@ -4014,6 +4275,42 @@ export const italyCities: POI[] = [
                         16.8671,
                         41.126612
                   ]
+            },
+            {
+                  "name": "Ludoteca",
+                  "text": "O ludotecă în Bari care oferă copiilor diverse oportunități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.875707,
+                        41.101463
+                  ]
+            },
+            {
+                  "name": "Perris Park",
+                  "text": "Un parc de distracții pentru copii în Bari cu diverse atracții.",
+                  "category": "family",
+                  "coords": [
+                        16.864124,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Gomma Park",
+                  "text": "Un teren de joacă interior în Bari cu castele gonflabile și suprafețe moi.",
+                  "category": "family",
+                  "coords": [
+                        16.874335,
+                        41.104422
+                  ]
+            },
+            {
+                  "name": "Ludoteca Play Park",
+                  "text": "Un centru de joacă în Bari pentru aniversări și distracție în timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        16.843333,
+                        41.108123
+                  ]
             }
       ],
       "en": [
@@ -4213,6 +4510,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         16.8671,
                         41.126612
+                  ]
+            },
+            {
+                  "name": "Ludoteca",
+                  "text": "A ludotheque in Bari offering children various play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        16.875707,
+                        41.101463
+                  ]
+            },
+            {
+                  "name": "Perris Park",
+                  "text": "An amusement park for children in Bari with various attractions.",
+                  "category": "family",
+                  "coords": [
+                        16.864124,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Gomma Park",
+                  "text": "An indoor playground in Bari with bouncy castles and soft play areas.",
+                  "category": "family",
+                  "coords": [
+                        16.874335,
+                        41.104422
+                  ]
+            },
+            {
+                  "name": "Ludoteca Play Park",
+                  "text": "A play center in Bari for birthdays and recreational fun.",
+                  "category": "family",
+                  "coords": [
+                        16.843333,
+                        41.108123
                   ]
             }
       ]
@@ -6005,6 +6338,51 @@ export const italyCities: POI[] = [
                         10.033078,
                         45.135268
                   ]
+            },
+            {
+                  "name": "Bodrio Canova Sabbioni",
+                  "text": "Der Bodrio Canova Sabbioni ist ein See in Cremona, der sich für ruhige Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        10.079227,
+                        45.088526
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "Der lago di cava ist ein lokaler See in Cremona, der malerische Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.027402,
+                        45.082563
+                  ]
+            },
+            {
+                  "name": "Lanca Livrini",
+                  "text": "Lanca Livrini ist ein See in Cremona, ideal für einen friedlichen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.005208,
+                        45.118961
+                  ]
+            },
+            {
+                  "name": "Piazza Albero della Libertà",
+                  "text": "Der Piazza Albero della Libertà verfügt über einen Spielplatz in Cremona, auf dem Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        10.050225,
+                        45.131476
+                  ]
+            },
+            {
+                  "name": "Giardino Louis Braille",
+                  "text": "Der Giardino Louis Braille ist ein öffentlicher Garten mit einem Spielplatz in Cremona für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.04681,
+                        45.130912
+                  ]
             }
       ],
       "hu": [
@@ -6096,6 +6474,51 @@ export const italyCities: POI[] = [
                   "coords": [
                         10.033078,
                         45.135268
+                  ]
+            },
+            {
+                  "name": "Bodrio Canova Sabbioni",
+                  "text": "A Bodrio Canova Sabbioni egy tó Cremonában, amely alkalmas csendes sétákra és a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        10.079227,
+                        45.088526
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "A lago di cava egy helyi tó Cremonában, amely festői kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        10.027402,
+                        45.082563
+                  ]
+            },
+            {
+                  "name": "Lanca Livrini",
+                  "text": "A Lanca Livrini egy tó Cremonában, ideális egy békés természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.005208,
+                        45.118961
+                  ]
+            },
+            {
+                  "name": "Piazza Albero della Libertà",
+                  "text": "A Piazza Albero della Libertà egy játszótérrel várja a gyerekeket Cremonában.",
+                  "category": "family",
+                  "coords": [
+                        10.050225,
+                        45.131476
+                  ]
+            },
+            {
+                  "name": "Giardino Louis Braille",
+                  "text": "A Giardino Louis Braille egy nyilvános kert játszótérrel Cremonában a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.04681,
+                        45.130912
                   ]
             }
       ],
@@ -6189,6 +6612,51 @@ export const italyCities: POI[] = [
                         10.033078,
                         45.135268
                   ]
+            },
+            {
+                  "name": "Bodrio Canova Sabbioni",
+                  "text": "Bodrio Canova Sabbioni este un lac din Cremona, potrivit pentru plimbări liniștite și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.079227,
+                        45.088526
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "Lago di cava este un lac local din Cremona care oferă vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        10.027402,
+                        45.082563
+                  ]
+            },
+            {
+                  "name": "Lanca Livrini",
+                  "text": "Lanca Livrini este un lac din Cremona, ideal pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.005208,
+                        45.118961
+                  ]
+            },
+            {
+                  "name": "Piazza Albero della Libertà",
+                  "text": "Piazza Albero della Libertà dispune de un teren de joacă în Cremona pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.050225,
+                        45.131476
+                  ]
+            },
+            {
+                  "name": "Giardino Louis Braille",
+                  "text": "Giardino Louis Braille este o grădină publică cu un teren de joacă în Cremona pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.04681,
+                        45.130912
+                  ]
             }
       ],
       "en": [
@@ -6280,6 +6748,51 @@ export const italyCities: POI[] = [
                   "coords": [
                         10.033078,
                         45.135268
+                  ]
+            },
+            {
+                  "name": "Bodrio Canova Sabbioni",
+                  "text": "The Bodrio Canova Sabbioni is a lake in Cremona, suitable for quiet walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        10.079227,
+                        45.088526
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "The lago di cava is a local lake in Cremona offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        10.027402,
+                        45.082563
+                  ]
+            },
+            {
+                  "name": "Lanca Livrini",
+                  "text": "Lanca Livrini is a lake in Cremona, ideal for a peaceful walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.005208,
+                        45.118961
+                  ]
+            },
+            {
+                  "name": "Piazza Albero della Libertà",
+                  "text": "Piazza Albero della Libertà features a playground in Cremona for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        10.050225,
+                        45.131476
+                  ]
+            },
+            {
+                  "name": "Giardino Louis Braille",
+                  "text": "Giardino Louis Braille is a public garden with a playground in Cremona for families.",
+                  "category": "family",
+                  "coords": [
+                        10.04681,
+                        45.130912
                   ]
             }
       ]

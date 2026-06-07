@@ -94,6 +94,78 @@ export const sloveniaCitiesV2: POI[] = [
                         15.117093,
                         46.364871
                   ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Družmirsko jezero ist ein See in Velenje, der für sein ruhiges Wasser bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Podkrajsko otroško igrišče ist ein Spielplatz in Velenje, ideal für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Igrišče čebelice Maje ist ein Themen-Spielplatz in Velenje für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Pozojevo igrišče ist ein Spielplatz in Velenje, der für Familien geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče ist ein Spielplatz in Velenje, der Platz für Spiele im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Rožletovo igrišče ist ein Spielplatz in Velenje für Kinder und Eltern.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Otroški zabaviščni park Velenje ist ein Vergnügungsspielplatz in Velenje für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče ist ein städtischer Spielplatz in Velenje, ideal für einen kurzen Besuch.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
             }
       ],
       "hu": [
@@ -185,6 +257,78 @@ export const sloveniaCitiesV2: POI[] = [
                   "coords": [
                         15.117093,
                         46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "A Družmirsko jezero egy tó Velenje városában, amely nyugodt vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "A Podkrajsko otroško igrišče egy játszótér Velenje területén, amely tökéletes a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Az Igrišče čebelice Maje egy tematikus játszótér Velenje városában a családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "A Pozojevo igrišče egy játszótér Velenje területén, amely alkalmas családok számára.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "A Mastodontovo igrišče egy játszótér Velenje városában, amely helyet kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "A Rožletovo igrišče egy játszótér Velenje területén gyerekeknek és szülőknek.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Az Otroški zabaviščni park Velenje egy szórakoztató játszótér Velenje városában családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "A Mestno otroško igrišče egy városi játszótér Velenje területén, amely tökéletes egy rövid látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
                   ]
             }
       ],
@@ -278,6 +422,78 @@ export const sloveniaCitiesV2: POI[] = [
                         15.117093,
                         46.364871
                   ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Družmirsko jezero este un lac din Velenje, cunoscut pentru apele sale calme.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Podkrajsko otroško igrišče este un teren de joacă din Velenje, perfect pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Igrišče čebelice Maje este un teren de joacă tematic în Velenje pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Pozojevo igrišče este un teren de joacă situat în Velenje, potrivit pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče este un teren de joacă din Velenje, oferind spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Rožletovo igrišče este un teren de joacă în Velenje pentru copii și părinți.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Otroški zabaviščni park Velenje este un parc de distracții pentru copii în Velenje, pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče este un teren de joacă orășenesc în Velenje, perfect pentru o vizită scurtă.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
             }
       ],
       "en": [
@@ -369,6 +585,78 @@ export const sloveniaCitiesV2: POI[] = [
                   "coords": [
                         15.117093,
                         46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Družmirsko jezero is a lake in Velenje, known for its calm waters.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Podkrajsko otroško igrišče is a playground in Velenje, perfect for kids.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Igrišče čebelice Maje is a themed playground in Velenje for family fun.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Pozojevo igrišče is a playground located in Velenje, suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče is a playground in Velenje, offering space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Rožletovo igrišče is a playground in Velenje for children and parents.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Otroški zabaviščni park Velenje is an amusement playground in Velenje for families.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče is a city playground in Velenje, perfect for a short visit.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
                   ]
             }
       ]
@@ -509,6 +797,15 @@ imageHint: "Velenje Castle and modern city skyline",
                         15.153474,
                         45.812423
                   ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Der Spielplatz Pedenjped in Novo Mesto ist ein einladender Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
             }
       ],
       "hu": [
@@ -600,6 +897,15 @@ imageHint: "Velenje Castle and modern city skyline",
                   "coords": [
                         15.153474,
                         45.812423
+                  ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "A Novo Mesto-i Pedenjped játszótér hívogató hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
                   ]
             }
       ],
@@ -693,6 +999,15 @@ imageHint: "Velenje Castle and modern city skyline",
                         15.153474,
                         45.812423
                   ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Locul de joacă Pedenjped din Novo Mesto este un spațiu primitor pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
             }
       ],
       "en": [
@@ -785,6 +1100,15 @@ imageHint: "Velenje Castle and modern city skyline",
                         15.153474,
                         45.812423
                   ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Vrtec Pedenjped playground in Novo Mesto is an inviting space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
             }
       ]
 },
@@ -833,7 +1157,196 @@ imageHint: "Novo Mesto historic center on Krka river loop",
     },
     image: "/poi-images/slovenia-novo-mesto-cities-v2.webp",
 },  {
-    id: "slovenia-ptuj-cities-v2",
+    id: "slovenia-ptuj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje ist ein See in Ptuj. Die Gegend lädt zum Entspannen und zu Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Pettauer See",
+                  "text": "Ptujsko jezero ist ein See bei Ptuj. Er ist ein beliebtes Ziel für Spaziergänge und um die Aussicht auf das Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            },
+            {
+                  "name": "Igrišče Mestni park",
+                  "text": "Igrišče Mestni park ist ein Spielplatz in Ptuj. Er bietet einen familienfreundlichen Raum für Spiel und Spaß im Stadtpark.",
+                  "category": "family",
+                  "coords": [
+                        15.872161,
+                        46.41709
+                  ]
+            },
+            {
+                  "name": "ArbadaPark",
+                  "text": "ArbadaPark ist ein Trampolinpark in Ptuj. Er bietet aktiven Freizeitspaß für die ganze Familie im Innenbereich.",
+                  "category": "family",
+                  "coords": [
+                        15.886562,
+                        46.42297
+                  ]
+            },
+            {
+                  "name": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica",
+                  "text": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica verfügt über einen Spielplatz in Ptuj. Ein sicherer Ort für Kinder zum Spielen und für gemeinsame Familienzeit.",
+                  "category": "family",
+                  "coords": [
+                        15.867819,
+                        46.431495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "A Gramoznica Pleterje egy tó Ptuj városában. A környék pihenésre és vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "A Ptujsko jezero egy tó Ptuj mellett. Kedvelt célpont sétákhoz és a vízi kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            },
+            {
+                  "name": "Igrišče Mestni park",
+                  "text": "Az Igrišče Mestni park egy játszótér Ptujban. Családbarát helyszínt biztosít a játékhoz és szórakozáshoz a városi parkban.",
+                  "category": "family",
+                  "coords": [
+                        15.872161,
+                        46.41709
+                  ]
+            },
+            {
+                  "name": "ArbadaPark",
+                  "text": "Az ArbadaPark egy trambulinpark Ptujban. Aktív szabadidős szórakozást kínál az egész családnak beltéren.",
+                  "category": "family",
+                  "coords": [
+                        15.886562,
+                        46.42297
+                  ]
+            },
+            {
+                  "name": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica",
+                  "text": "A Zasebni vrtec VILINSKI GAJ, PE Mezinčica játszótérrel rendelkezik Ptujban. Biztonságos hely a gyerekeknek a játékra és a családi időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        15.867819,
+                        46.431495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje este un lac în Ptuj. Zona invită la relaxare și la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "Ptujsko jezero este un lac lângă Ptuj. Este o destinație populară pentru plimbări și pentru a admira priveliștea apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            },
+            {
+                  "name": "Igrišče Mestni park",
+                  "text": "Igrišče Mestni park este un teren de joacă în Ptuj. Oferă un spațiu prietenos pentru familii pentru joacă și distracție în parcul orașului.",
+                  "category": "family",
+                  "coords": [
+                        15.872161,
+                        46.41709
+                  ]
+            },
+            {
+                  "name": "ArbadaPark",
+                  "text": "ArbadaPark este un parc de trambuline în Ptuj. Oferă distracție activă în interior pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.886562,
+                        46.42297
+                  ]
+            },
+            {
+                  "name": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica",
+                  "text": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica dispune de un spațiu de joacă în Ptuj. Un loc sigur pentru copii pentru joacă și timp petrecut cu familia.",
+                  "category": "family",
+                  "coords": [
+                        15.867819,
+                        46.431495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje is a lake in Ptuj. The area invites for relaxation and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "Ptujsko jezero is a lake near Ptuj. It is a popular destination for walks and enjoying the water views.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            },
+            {
+                  "name": "Igrišče Mestni park",
+                  "text": "Igrišče Mestni park is a playground in Ptuj. It offers a family-friendly space for play and fun in the city park.",
+                  "category": "family",
+                  "coords": [
+                        15.872161,
+                        46.41709
+                  ]
+            },
+            {
+                  "name": "ArbadaPark",
+                  "text": "ArbadaPark is a trampoline park in Ptuj. It offers active indoor fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.886562,
+                        46.42297
+                  ]
+            },
+            {
+                  "name": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica",
+                  "text": "Zasebni vrtec VILINSKI GAJ, PE Mezinčica features a playground area in Ptuj. A safe place for children to play and for family time.",
+                  "category": "family",
+                  "coords": [
+                        15.867819,
+                        46.431495
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "city",
     name: { de: "Ptuj", hu: "Ptuj", ro: "Ptuj", en: "Ptuj"},
@@ -1376,6 +1889,15 @@ imageHint: "Kamnik town center with Alps in background",
                         15.05565,
                         46.134998
                   ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu ist ein Spielplatz in Trbovlje zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
             }
       ],
       "hu": [
@@ -1422,6 +1944,15 @@ imageHint: "Kamnik town center with Alps in background",
                   "coords": [
                         15.05565,
                         46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Az Otroško igrišče na Logu egy játszótér Trbovlje városában a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
                   ]
             }
       ],
@@ -1470,6 +2001,15 @@ imageHint: "Kamnik town center with Alps in background",
                         15.05565,
                         46.134998
                   ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu este un teren de joacă în Trbovlje pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
             }
       ],
       "en": [
@@ -1516,6 +2056,15 @@ imageHint: "Kamnik town center with Alps in background",
                   "coords": [
                         15.05565,
                         46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu is a playground in Trbovlje for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
                   ]
             }
       ]
@@ -2107,6 +2656,42 @@ imageHint: "Jesenice city view with steel works and mountains",
                         16.170088,
                         46.657794
                   ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica ist ein See in Murska Sobota. Er ist ein schöner Ort für einen entspannten Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci ist ein See in Murska Sobota. Er bietet eine friedliche Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
+            },
+            {
+                  "name": "gramoznica Nemščak",
+                  "text": "gramoznica Nemščak ist ein See in Murska Sobota, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.18347,
+                        46.592205
+                  ]
+            },
+            {
+                  "name": "Športno igrišče",
+                  "text": "Športno igrišče ist ein Spielplatz in Murska Sobota. Er bietet Platz für sportliche Aktivitäten und Spielspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.143176,
+                        46.678188
+                  ]
             }
       ],
       "hu": [
@@ -2162,6 +2747,42 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.170088,
                         46.657794
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "A Soboška Kamenščica egy tó Murska Sobota városában. Szép hely egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "A Gramoznica Tešanovci egy tó Murska Sobota közelében. Békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
+            },
+            {
+                  "name": "gramoznica Nemščak",
+                  "text": "A gramoznica Nemščak egy tó Murska Sobota közelében, ideális egy kis természetbeni pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        16.18347,
+                        46.592205
+                  ]
+            },
+            {
+                  "name": "Športno igrišče",
+                  "text": "A Športno igrišče egy játszótér Murska Sobota városában. Helyet biztosít a sportoláshoz és a családok szórakozásához.",
+                  "category": "family",
+                  "coords": [
+                        16.143176,
+                        46.678188
                   ]
             }
       ],
@@ -2219,6 +2840,42 @@ imageHint: "Jesenice city view with steel works and mountains",
                         16.170088,
                         46.657794
                   ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica este un lac în Murska Sobota. Este un loc frumos pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci este un lac în Murska Sobota. Oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
+            },
+            {
+                  "name": "gramoznica Nemščak",
+                  "text": "gramoznica Nemščak este un lac în Murska Sobota, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.18347,
+                        46.592205
+                  ]
+            },
+            {
+                  "name": "Športno igrišče",
+                  "text": "Športno igrišče este un teren de joacă în Murska Sobota. Oferă spațiu pentru activități sportive și joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.143176,
+                        46.678188
+                  ]
             }
       ],
       "en": [
@@ -2274,6 +2931,42 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.170088,
                         46.657794
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica is a lake in Murska Sobota. It is a nice spot for a relaxing walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci is a lake in Murska Sobota. It offers a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
+            },
+            {
+                  "name": "gramoznica Nemščak",
+                  "text": "gramoznica Nemščak is a lake in Murska Sobota, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.18347,
+                        46.592205
+                  ]
+            },
+            {
+                  "name": "Športno igrišče",
+                  "text": "Športno igrišče is a playground in Murska Sobota. It offers space for sports activities and play fun for families.",
+                  "category": "family",
+                  "coords": [
+                        16.143176,
+                        46.678188
                   ]
             }
       ]
@@ -2702,6 +3395,33 @@ imageHint: "Murska Sobota Castle in the city park",
                         13.650843,
                         45.960206
                   ]
+            },
+            {
+                  "name": "Borov gozdiček - igrišče",
+                  "text": "Borov gozdiček bietet Spielplätze in Nova Gorica für das Vergnügen der Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.651183,
+                        45.956225
+                  ]
+            },
+            {
+                  "name": "Bevkov trg - igrišče",
+                  "text": "Bevkov trg bietet Spielplätze im Zentrum von Nova Gorica für Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.646957,
+                        45.957337
+                  ]
+            },
+            {
+                  "name": "Na krogih",
+                  "text": "Na krogih ist ein Spielplatz in Nova Gorica, geeignet für lokale Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        13.645648,
+                        45.959214
+                  ]
             }
       ],
       "hu": [
@@ -3081,6 +3801,33 @@ imageHint: "Murska Sobota Castle in the city park",
                   "coords": [
                         13.650843,
                         45.960206
+                  ]
+            },
+            {
+                  "name": "Borov gozdiček - igrišče",
+                  "text": "A Borov gozdiček játszótereket kínál Nova Gorica városában a gyermekek örömére.",
+                  "category": "family",
+                  "coords": [
+                        13.651183,
+                        45.956225
+                  ]
+            },
+            {
+                  "name": "Bevkov trg - igrišče",
+                  "text": "A Bevkov trg játszótereket kínál Nova Gorica központjában családok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.646957,
+                        45.957337
+                  ]
+            },
+            {
+                  "name": "Na krogih",
+                  "text": "A Na krogih egy játszótér Nova Gorica területén, amely alkalmas a helyi családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.645648,
+                        45.959214
                   ]
             }
       ],
@@ -3462,6 +4209,33 @@ imageHint: "Murska Sobota Castle in the city park",
                         13.650843,
                         45.960206
                   ]
+            },
+            {
+                  "name": "Borov gozdiček - igrišče",
+                  "text": "Borov gozdiček dispune de terenuri de joacă în Nova Gorica pentru bucuria copiilor.",
+                  "category": "family",
+                  "coords": [
+                        13.651183,
+                        45.956225
+                  ]
+            },
+            {
+                  "name": "Bevkov trg - igrišče",
+                  "text": "Bevkov trg oferă terenuri de joacă în centrul orașului Nova Gorica pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.646957,
+                        45.957337
+                  ]
+            },
+            {
+                  "name": "Na krogih",
+                  "text": "Na krogih este un teren de joacă în Nova Gorica, potrivit pentru ieșiri locale în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.645648,
+                        45.959214
+                  ]
             }
       ],
       "en": [
@@ -3841,6 +4615,33 @@ imageHint: "Murska Sobota Castle in the city park",
                   "coords": [
                         13.650843,
                         45.960206
+                  ]
+            },
+            {
+                  "name": "Borov gozdiček - playgrounds",
+                  "text": "Borov gozdiček features playgrounds in Nova Gorica for children's enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        13.651183,
+                        45.956225
+                  ]
+            },
+            {
+                  "name": "Bevkov trg - playgrounds",
+                  "text": "Bevkov trg offers playgrounds in the center of Nova Gorica for families.",
+                  "category": "family",
+                  "coords": [
+                        13.646957,
+                        45.957337
+                  ]
+            },
+            {
+                  "name": "Na krogih",
+                  "text": "Na krogih is a playground in Nova Gorica, suitable for local family outings.",
+                  "category": "family",
+                  "coords": [
+                        13.645648,
+                        45.959214
                   ]
             }
       ]
@@ -7237,6 +8038,24 @@ imageHint: "Vrhnika town center and Cankar memorial house",
                         15.480151,
                         45.93849
                   ]
+            },
+            {
+                  "name": "Ribnik",
+                  "text": "Ribnik ist ein See in Krsko. Er bietet eine ruhige Atmosphäre für einen Aufenthalt am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.496166,
+                        46.00582
+                  ]
+            },
+            {
+                  "name": "Ribnik Resa",
+                  "text": "Ribnik Resa ist ein See in Krsko. Die Umgebung lädt zu einem entspannten Spaziergang in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        15.503595,
+                        45.959274
+                  ]
             }
       ],
       "hu": [
@@ -7283,6 +8102,24 @@ imageHint: "Vrhnika town center and Cankar memorial house",
                   "coords": [
                         15.480151,
                         45.93849
+                  ]
+            },
+            {
+                  "name": "Ribnik",
+                  "text": "A Ribnik egy tó Krsko városában. Nyugodt légkört biztosít a vízparti tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.496166,
+                        46.00582
+                  ]
+            },
+            {
+                  "name": "Ribnik Resa",
+                  "text": "A Ribnik Resa egy tó Krsko városában. A környék pihentető természetbeni sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.503595,
+                        45.959274
                   ]
             }
       ],
@@ -7331,6 +8168,24 @@ imageHint: "Vrhnika town center and Cankar memorial house",
                         15.480151,
                         45.93849
                   ]
+            },
+            {
+                  "name": "Ribnik",
+                  "text": "Ribnik este un lac în Krsko. Oferă o atmosferă liniștită pentru a petrece timpul lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        15.496166,
+                        46.00582
+                  ]
+            },
+            {
+                  "name": "Ribnik Resa",
+                  "text": "Ribnik Resa este un lac în Krsko. Zona invită la o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.503595,
+                        45.959274
+                  ]
             }
       ],
       "en": [
@@ -7377,6 +8232,24 @@ imageHint: "Vrhnika town center and Cankar memorial house",
                   "coords": [
                         15.480151,
                         45.93849
+                  ]
+            },
+            {
+                  "name": "Ribnik",
+                  "text": "Ribnik is a lake in Krsko. It provides a quiet atmosphere for spending time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.496166,
+                        46.00582
+                  ]
+            },
+            {
+                  "name": "Ribnik Resa",
+                  "text": "Ribnik Resa is a lake in Krsko. The surrounding area invites for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.503595,
+                        45.959274
                   ]
             }
       ]
@@ -9855,6 +10728,24 @@ imageHint: "Crnomelj town center at river confluence",
                         14.972828,
                         46.516688
                   ]
+            },
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero ist ein See in Ravne Na Koroskem, der eine angenehme natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "Večnamensko igrišče Trg svobode",
+                  "text": "Večnamensko igrišče Trg svobode ist ein Mehrzweck-Spielplatz in Ravne Na Koroskem.",
+                  "category": "family",
+                  "coords": [
+                        14.966113,
+                        46.543951
+                  ]
             }
       ],
       "hu": [
@@ -9910,6 +10801,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.972828,
                         46.516688
+                  ]
+            },
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Az Ivarčko jezero egy tó Ravne Na Koroskem városában, amely kellemes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "Večnamensko igrišče Trg svobode",
+                  "text": "A Večnamensko igrišče Trg svobode egy többcélú játszótér Ravne Na Koroskem területén.",
+                  "category": "family",
+                  "coords": [
+                        14.966113,
+                        46.543951
                   ]
             }
       ],
@@ -9967,6 +10876,24 @@ imageHint: "Crnomelj town center at river confluence",
                         14.972828,
                         46.516688
                   ]
+            },
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero este un lac din Ravne Na Koroskem, oferind un cadru natural plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "Večnamensko igrišče Trg svobode",
+                  "text": "Večnamensko igrišče Trg svobode este un teren de joacă polivalent în Ravne Na Koroskem.",
+                  "category": "family",
+                  "coords": [
+                        14.966113,
+                        46.543951
+                  ]
             }
       ],
       "en": [
@@ -10022,6 +10949,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.972828,
                         46.516688
+                  ]
+            },
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero is a lake in Ravne Na Koroskem, offering a pleasant natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "Večnamensko igrišče Trg svobode",
+                  "text": "Večnamensko igrišče Trg svobode is a multi-purpose playground in Ravne Na Koroskem.",
+                  "category": "family",
+                  "coords": [
+                        14.966113,
+                        46.543951
                   ]
             }
       ]
@@ -10127,6 +11072,15 @@ imageHint: "Crnomelj town center at river confluence",
                         14.652939,
                         45.955371
                   ]
+            },
+            {
+                  "name": "Ribnik Boštanj",
+                  "text": "Ribnik Boštanj ist ein ruhiger See in Grosuplje, ideal für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.673493,
+                        45.932244
+                  ]
             }
       ],
       "hu": [
@@ -10182,6 +11136,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.652939,
                         45.955371
+                  ]
+            },
+            {
+                  "name": "Ribnik Boštanj",
+                  "text": "A Ribnik Boštanj egy csendes tó Grosuplje területén, ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.673493,
+                        45.932244
                   ]
             }
       ],
@@ -10239,6 +11202,15 @@ imageHint: "Crnomelj town center at river confluence",
                         14.652939,
                         45.955371
                   ]
+            },
+            {
+                  "name": "Ribnik Boštanj",
+                  "text": "Ribnik Boštanj este un lac liniștit în Grosuplje, ideal pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.673493,
+                        45.932244
+                  ]
             }
       ],
       "en": [
@@ -10294,6 +11266,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.652939,
                         45.955371
+                  ]
+            },
+            {
+                  "name": "Ribnik Boštanj",
+                  "text": "Ribnik Boštanj is a peaceful lake in Grosuplje, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.673493,
+                        45.932244
                   ]
             }
       ]
@@ -10460,6 +11441,33 @@ imageHint: "Crnomelj town center at river confluence",
                         14.391386,
                         46.146567
                   ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "Lake Trboje ist ein See in Medvode. Er bietet eine malerische Umgebung für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Zbiljsko jezero",
+                  "text": "Zbiljsko jezero ist ein See in Medvode. Ein beliebtes Ziel für einen Ausflug in die Natur und zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        14.420531,
+                        46.156577
+                  ]
+            },
+            {
+                  "name": "Igrišče za otroke OŠ Preska 1.-3. razred",
+                  "text": "Igrišče za otroke OŠ Preska 1.-3. razred ist ein Spielplatz in Medvode. Er bietet Kindern einen geschützten Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        14.410796,
+                        46.133259
+                  ]
             }
       ],
       "hu": [
@@ -10578,6 +11586,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.391386,
                         46.146567
+                  ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "A Lake Trboje egy tó Medvode közelében. Festői környezetet biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Zbiljsko jezero",
+                  "text": "A Zbiljsko jezero egy tó Medvode városában. Kedvelt úti cél a természetbe vágyóknak és a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.420531,
+                        46.156577
+                  ]
+            },
+            {
+                  "name": "Igrišče za otroke OŠ Preska 1.-3. razred",
+                  "text": "Az Igrišče za otroke OŠ Preska 1.-3. razred egy játszótér Medvodében. Biztonságos helyet nyújt a gyerekeknek a mozgáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.410796,
+                        46.133259
                   ]
             }
       ],
@@ -10698,6 +11733,33 @@ imageHint: "Crnomelj town center at river confluence",
                         14.391386,
                         46.146567
                   ]
+            },
+            {
+                  "name": "Trbojsko jezero",
+                  "text": "Lake Trboje este un lac în Medvode. Oferă un cadru pitoresc pentru recreere lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Zbiljsko jezero",
+                  "text": "Zbiljsko jezero este un lac în Medvode. O destinație populară pentru o ieșire în natură și pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.420531,
+                        46.156577
+                  ]
+            },
+            {
+                  "name": "Igrišče za otroke OŠ Preska 1.-3. razred",
+                  "text": "Igrišče za otroke OŠ Preska 1.-3. razred este un teren de joacă în Medvode. Oferă copiilor un spațiu protejat pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.410796,
+                        46.133259
+                  ]
             }
       ],
       "en": [
@@ -10816,6 +11878,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.391386,
                         46.146567
+                  ]
+            },
+            {
+                  "name": "Lake Trboje",
+                  "text": "Lake Trboje is a lake in Medvode. It offers a scenic setting for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.403652,
+                        46.199231
+                  ]
+            },
+            {
+                  "name": "Zbiljsko jezero",
+                  "text": "Zbiljsko jezero is a lake in Medvode. A popular destination for a trip into nature and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.420531,
+                        46.156577
+                  ]
+            },
+            {
+                  "name": "Igrišče za otroke OŠ Preska 1.-3. razred",
+                  "text": "Igrišče za otroke OŠ Preska 1.-3. razred is a playground in Medvode. It offers children a protected space for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        14.410796,
+                        46.133259
                   ]
             }
       ]
@@ -11315,6 +12404,33 @@ imageHint: "Crnomelj town center at river confluence",
                         15.829956,
                         46.576368
                   ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero ist ein See in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.722831,
+                        46.595542
+                  ]
+            },
+            {
+                  "name": "Jezero Komarnik",
+                  "text": "Jezero Komarnik ist ein malerischer See in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.805661,
+                        46.570601
+                  ]
+            },
+            {
+                  "name": "Jezero Radehova",
+                  "text": "Jezero Radehova ist ein See in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.840172,
+                        46.563261
+                  ]
             }
       ],
       "hu": [
@@ -11325,6 +12441,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.829956,
                         46.576368
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "A Perniško jezero egy tó Lenart V Slovenskih Goricah városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.722831,
+                        46.595542
+                  ]
+            },
+            {
+                  "name": "Jezero Komarnik",
+                  "text": "A Jezero Komarnik egy festői tó Lenart V Slovenskih Goricah területén.",
+                  "category": "natural",
+                  "coords": [
+                        15.805661,
+                        46.570601
+                  ]
+            },
+            {
+                  "name": "Jezero Radehova",
+                  "text": "A Jezero Radehova egy tó Lenart V Slovenskih Goricah városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.840172,
+                        46.563261
                   ]
             }
       ],
@@ -11337,6 +12480,33 @@ imageHint: "Crnomelj town center at river confluence",
                         15.829956,
                         46.576368
                   ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero este un lac situat în Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.722831,
+                        46.595542
+                  ]
+            },
+            {
+                  "name": "Jezero Komarnik",
+                  "text": "Jezero Komarnik este un lac pitoresc în Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.805661,
+                        46.570601
+                  ]
+            },
+            {
+                  "name": "Jezero Radehova",
+                  "text": "Jezero Radehova este un lac din Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.840172,
+                        46.563261
+                  ]
             }
       ],
       "en": [
@@ -11347,6 +12517,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.829956,
                         46.576368
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero is a lake located in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.722831,
+                        46.595542
+                  ]
+            },
+            {
+                  "name": "Jezero Komarnik",
+                  "text": "Jezero Komarnik is a scenic lake in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.805661,
+                        46.570601
+                  ]
+            },
+            {
+                  "name": "Jezero Radehova",
+                  "text": "Jezero Radehova is a lake in Lenart V Slovenskih Goricah.",
+                  "category": "natural",
+                  "coords": [
+                        15.840172,
+                        46.563261
                   ]
             }
       ]
@@ -11432,6 +12629,24 @@ imageHint: "Crnomelj town center at river confluence",
                         15.522495,
                         46.224877
                   ]
+            },
+            {
+                  "name": "Slivniško jezero",
+                  "text": "Der Slivniško jezero ist ein malerischer See bei Šmarje pri Jelšah, der zum Wandern einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.449549,
+                        46.192198
+                  ]
+            },
+            {
+                  "name": "Zmajevo jezero",
+                  "text": "Zmajevo jezero ist ein kleiner See in Šmarje pri Jelšah mit einer friedlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.553758,
+                        46.151435
+                  ]
             }
       ],
       "hu": [
@@ -11469,6 +12684,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.522495,
                         46.224877
+                  ]
+            },
+            {
+                  "name": "Slivniško jezero",
+                  "text": "A Slivniško jezero egy festői tó Šmarje pri Jelšah közelében, amely kirándulásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.449549,
+                        46.192198
+                  ]
+            },
+            {
+                  "name": "Zmajevo jezero",
+                  "text": "A Zmajevo jezero egy kis tó Šmarje pri Jelšah területén, békés környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.553758,
+                        46.151435
                   ]
             }
       ],
@@ -11508,6 +12741,24 @@ imageHint: "Crnomelj town center at river confluence",
                         15.522495,
                         46.224877
                   ]
+            },
+            {
+                  "name": "Slivniško jezero",
+                  "text": "Slivniško jezero este un lac pitoresc de lângă Šmarje pri Jelšah, ideal pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        15.449549,
+                        46.192198
+                  ]
+            },
+            {
+                  "name": "Zmajevo jezero",
+                  "text": "Zmajevo jezero este un lac mic din Šmarje pri Jelšah, cu o ambianță liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        15.553758,
+                        46.151435
+                  ]
             }
       ],
       "en": [
@@ -11545,6 +12796,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.522495,
                         46.224877
+                  ]
+            },
+            {
+                  "name": "Slivniško jezero",
+                  "text": "Slivniško jezero is a scenic lake near Smarje Pri Jelsah, perfect for walking and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.449549,
+                        46.192198
+                  ]
+            },
+            {
+                  "name": "Zmajevo jezero",
+                  "text": "Zmajevo jezero is a small lake in Smarje Pri Jelsah with a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        15.553758,
+                        46.151435
                   ]
             }
       ]
@@ -11593,7 +12862,52 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-smarje-pri-jelsah-cities-v2.webp",
   },
   {
-    id: "slovenia-litija-cities-v2",
+    id: "slovenia-litija-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ribnik Mačkovna",
+                  "text": "Ribnik Mačkovna ist ein See in Litija. Er bietet eine ruhige Kulisse für einen Aufenthalt in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.872554,
+                        46.082628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ribnik Mačkovna",
+                  "text": "A Ribnik Mačkovna egy tó Litija közelében. Csendes környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.872554,
+                        46.082628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ribnik Mačkovna",
+                  "text": "Ribnik Mačkovna este un lac în Litija. Oferă un cadru liniștit pentru petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.872554,
+                        46.082628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ribnik Mačkovna",
+                  "text": "Ribnik Mačkovna is a lake in Litija. It offers a quiet backdrop for spending time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.872554,
+                        46.082628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Litija", hu: "Litija", ro: "Litija", en: "Litija" },
@@ -11638,7 +12952,232 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-litija-cities-v2.webp",
   },
   {
-    id: "slovenia-duplek-cities-v2",
+    id: "slovenia-duplek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Jezero Rogoza ist ein See in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka ist ein See in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 2",
+                  "text": "Vodnjak Bohova 2 ist ein Gewässer in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.668237,
+                        46.512909
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 1",
+                  "text": "Vodnjak Bohova 1 ist ein See in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.670526,
+                        46.514797
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek ist ein See in Spodnji Duplek, der oft wegen seiner Aussicht besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero ist ein See in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.729291,
+                        46.585433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "A Jezero Rogoza egy tó Spodnji Duplek területén.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "A Miklavška mlaka egy tó Spodnji Duplek városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 2",
+                  "text": "A Vodnjak Bohova 2 egy vízfelület Spodnji Duplek területén.",
+                  "category": "natural",
+                  "coords": [
+                        15.668237,
+                        46.512909
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 1",
+                  "text": "A Vodnjak Bohova 1 egy tó Spodnji Duplek városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.670526,
+                        46.514797
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "A Gramoznica Duplek egy tó Spodnji Duplek területén, amelyet gyakran látogatnak a kilátás miatt.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "A Perniško jezero egy tó Spodnji Duplek városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.729291,
+                        46.585433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Jezero Rogoza este un lac situat în Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka este un lac situat în Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 2",
+                  "text": "Vodnjak Bohova 2 este o întindere de apă în Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.668237,
+                        46.512909
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 1",
+                  "text": "Vodnjak Bohova 1 este un lac situat în Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.670526,
+                        46.514797
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek este un lac din Spodnji Duplek, adesea vizitat pentru priveliștile sale.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero este un lac în Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.729291,
+                        46.585433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Jezero Rogoza is a lake situated in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka is a lake located in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 2",
+                  "text": "Vodnjak Bohova 2 is a body of water in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.668237,
+                        46.512909
+                  ]
+            },
+            {
+                  "name": "Vodnjak Bohova 1",
+                  "text": "Vodnjak Bohova 1 is a lake located in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.670526,
+                        46.514797
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek is a lake in Spodnji Duplek, often visited for its views.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
+            },
+            {
+                  "name": "Perniško jezero",
+                  "text": "Perniško jezero is a lake in Spodnji Duplek.",
+                  "category": "natural",
+                  "coords": [
+                        15.729291,
+                        46.585433
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Spodnji Duplek", hu: "Spodnji Duplek", ro: "Spodnji Duplek", en: "Spodnji Duplek" },
@@ -11702,6 +13241,24 @@ imageHint: "Crnomelj town center at river confluence",
                         13.834807,
                         45.47724
                   ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Der Vanganelsko jezero bei Hrastovlje ist ein ruhiger See, der von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Izvir Rižane",
+                  "text": "Rižana swelling pot ist ein besonderer kleiner See in Hrastovlje mit klarem Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.88538,
+                        45.527987
+                  ]
             }
       ],
       "hu": [
@@ -11721,6 +13278,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         13.834807,
                         45.47724
+                  ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "A Hrastovlje melletti Vanganelsko jezero egy csendes tó, amelyet természet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Izvir Rižane",
+                  "text": "A Rižana swelling pot egy különleges kis tó Hrastovlje területén, tiszta vízzel.",
+                  "category": "natural",
+                  "coords": [
+                        13.88538,
+                        45.527987
                   ]
             }
       ],
@@ -11742,6 +13317,24 @@ imageHint: "Crnomelj town center at river confluence",
                         13.834807,
                         45.47724
                   ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Vanganelsko jezero de lângă Hrastovlje este un lac liniștit, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Izvir Rižane",
+                  "text": "Rižana swelling pot este un lac mic special din Hrastovlje, cu ape limpezi.",
+                  "category": "natural",
+                  "coords": [
+                        13.88538,
+                        45.527987
+                  ]
             }
       ],
       "en": [
@@ -11761,6 +13354,24 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         13.834807,
                         45.47724
+                  ]
+            },
+            {
+                  "name": "Vanganelsko jezero",
+                  "text": "Vanganelsko jezero near Hrastovlje is a calm lake surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.779023,
+                        45.509218
+                  ]
+            },
+            {
+                  "name": "Rižana swelling pot",
+                  "text": "Rižana swelling pot is a unique small lake in Hrastovlje with clear waters.",
+                  "category": "natural",
+                  "coords": [
+                        13.88538,
+                        45.527987
                   ]
             }
       ]
@@ -11819,6 +13430,33 @@ imageHint: "Crnomelj town center at river confluence",
                         16.218892,
                         46.668092
                   ]
+            },
+            {
+                  "name": "Bukovniško jezero / Bakónaki-tó",
+                  "text": "Bukovniško jezero / Bakónaki-tó ist ein See in Bodjanci. Er ist bekannt für seine ruhige Atmosphäre und schöne Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        16.335631,
+                        46.674115
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica ist ein See in Bodjanci. Ein angenehmer Ort für einen Spaziergang und zur Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci ist ein See in Bodjanci. Er bietet eine natürliche Umgebung für eine entspannte Zeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
             }
       ],
       "hu": [
@@ -11829,6 +13467,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         16.218892,
                         46.668092
+                  ]
+            },
+            {
+                  "name": "Bakónaki-tó",
+                  "text": "A Bukovniško jezero / Bakónaki-tó egy tó Bodjanci közelében. Ismert a nyugodt légköréről és szép túraútvonalairól.",
+                  "category": "natural",
+                  "coords": [
+                        16.335631,
+                        46.674115
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "A Soboška Kamenščica egy tó Bodjanci területén. Kellemes hely egy sétához és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "A Gramoznica Tešanovci egy tó Bodjanci közelében. Természetes környezetet kínál a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
                   ]
             }
       ],
@@ -11841,6 +13506,33 @@ imageHint: "Crnomelj town center at river confluence",
                         16.218892,
                         46.668092
                   ]
+            },
+            {
+                  "name": "Bukovniško jezero / Bakónaki-tó",
+                  "text": "Bukovniško jezero / Bakónaki-tó este un lac în Bodjanci. Este cunoscut pentru atmosfera liniștită și traseele frumoase de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        16.335631,
+                        46.674115
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica este un lac în Bodjanci. Un loc plăcut pentru o plimbare și pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci este un lac în Bodjanci. Oferă un mediu natural pentru o perioadă relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
+                  ]
             }
       ],
       "en": [
@@ -11851,6 +13543,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         16.218892,
                         46.668092
+                  ]
+            },
+            {
+                  "name": "Bukovniško jezero / Bakónaki-tó",
+                  "text": "Bukovniško jezero / Bakónaki-tó is a lake in Bodjanci. It is known for its peaceful atmosphere and nice walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        16.335631,
+                        46.674115
+                  ]
+            },
+            {
+                  "name": "Soboška Kamenščica",
+                  "text": "Soboška Kamenščica is a lake in Bodjanci. A pleasant spot for a walk and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.173623,
+                        46.641014
+                  ]
+            },
+            {
+                  "name": "Gramoznica Tešanovci",
+                  "text": "Gramoznica Tešanovci is a lake in Bodjanci. It offers a natural setting for a relaxed time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        16.222179,
+                        46.675523
                   ]
             }
       ]
@@ -11909,6 +13628,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.171278,
                         46.601659
                   ]
+            },
+            {
+                  "name": "Trbonjsko jezero",
+                  "text": "Trbonjsko jezero ist ein See in Vuzenica.",
+                  "category": "natural",
+                  "coords": [
+                        15.126157,
+                        46.592793
+                  ]
             }
       ],
       "hu": [
@@ -11919,6 +13647,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.171278,
                         46.601659
+                  ]
+            },
+            {
+                  "name": "Trbonjsko jezero",
+                  "text": "A Trbonjsko jezero egy tó Vuzenica területén.",
+                  "category": "natural",
+                  "coords": [
+                        15.126157,
+                        46.592793
                   ]
             }
       ],
@@ -11931,6 +13668,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.171278,
                         46.601659
                   ]
+            },
+            {
+                  "name": "Trbonjsko jezero",
+                  "text": "Trbonjsko jezero este un lac situat în Vuzenica.",
+                  "category": "natural",
+                  "coords": [
+                        15.126157,
+                        46.592793
+                  ]
             }
       ],
       "en": [
@@ -11941,6 +13687,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.171278,
                         46.601659
+                  ]
+            },
+            {
+                  "name": "Trbonjsko jezero",
+                  "text": "Trbonjsko jezero is a lake located in Vuzenica.",
+                  "category": "natural",
+                  "coords": [
+                        15.126157,
+                        46.592793
                   ]
             }
       ]
@@ -12115,7 +13870,52 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-radlje-ob-dravi-cities-v2.webp",
   },
   {
-    id: "slovenia-selnica-ob-dravi-cities-v2",
+    id: "slovenia-selnica-ob-dravi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otroško igrišče Selnica ob Dravi",
+                  "text": "Otroško igrišče Selnica ob Dravi ist ein Spielplatz in Selnica Ob Dravi. Er bietet einen sicheren Bereich für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.489624,
+                        46.550359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otroško igrišče Selnica ob Dravi",
+                  "text": "Az Otroško igrišče Selnica ob Dravi egy játszótér Selnica Ob Dravi városában. Biztonságos területet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.489624,
+                        46.550359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otroško igrišče Selnica ob Dravi",
+                  "text": "Otroško igrišče Selnica ob Dravi este un teren de joacă în Selnica Ob Dravi. Oferă o zonă sigură pentru copii pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.489624,
+                        46.550359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otroško igrišče Selnica ob Dravi",
+                  "text": "Otroško igrišče Selnica ob Dravi is a playground in Selnica Ob Dravi. It offers a safe area for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        15.489624,
+                        46.550359
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Selnica ob Dravi", hu: "Selnica ob Dravi", ro: "Selnica ob Dravi", en: "Selnica ob Dravi" },
@@ -12224,6 +14024,42 @@ imageHint: "Crnomelj town center at river confluence",
                         15.735257,
                         46.452714
                   ]
+            },
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Der Jezero Rogoza in Starše ist ein naturbelassener See, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka ist ein kleiner Teich in Starše in einer grünen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje ist ein Baggersee in Starše, der oft zum Entspannen besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek ist ein See in Starše, der eine angenehme Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
             }
       ],
       "hu": [
@@ -12243,6 +14079,42 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.735257,
                         46.452714
+                  ]
+            },
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "A staršei Jezero Rogoza egy természetes tó, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "A Miklavška mlaka egy kis tó Starše területén, zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "A Gramoznica Pleterje egy bányató Starše területén, amelyet gyakran látogatnak pihenés céljából.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "A Gramoznica Duplek egy tó Starše területén, amely kellemes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
                   ]
             }
       ],
@@ -12264,6 +14136,42 @@ imageHint: "Crnomelj town center at river confluence",
                         15.735257,
                         46.452714
                   ]
+            },
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Jezero Rogoza din Starše este un lac natural care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka este un iaz mic din Starše, situat într-un peisaj verde.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje este un lac de balastieră în Starše, vizitat adesea pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek este un lac din Starše care oferă un cadru natural plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
+                  ]
             }
       ],
       "en": [
@@ -12283,6 +14191,42 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.735257,
                         46.452714
+                  ]
+            },
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Jezero Rogoza in Starse is a natural lake providing a quiet spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.667987,
+                        46.492256
+                  ]
+            },
+            {
+                  "name": "Miklavška mlaka",
+                  "text": "Miklavška mlaka is a small pond in Starse set in a green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.720206,
+                        46.500353
+                  ]
+            },
+            {
+                  "name": "Gramoznica Pleterje",
+                  "text": "Gramoznica Pleterje is a gravel pit lake in Starse often visited for leisure.",
+                  "category": "natural",
+                  "coords": [
+                        15.758239,
+                        46.427762
+                  ]
+            },
+            {
+                  "name": "Gramoznica Duplek",
+                  "text": "Gramoznica Duplek is a lake in Starse offering a pleasant natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        15.732356,
+                        46.503827
                   ]
             }
       ]
@@ -12331,7 +14275,88 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-starse-cities-v2.webp",
   },
   {
-    id: "slovenia-prevalje-cities-v2",
+    id: "slovenia-prevalje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero ist ein See in Prevalje. Er ist ein idealer Ort für Erholungssuchende und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "School plazground",
+                  "text": "School plazground ist ein Spielplatz in Prevalje. Er bietet Schülern und Kindern Möglichkeiten für aktive Pausen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.923749,
+                        46.547786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Az Ivarčko jezero egy tó Prevalje közelében. Ideális hely a pihenni vágyók és a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "School plazground",
+                  "text": "A School plazground egy játszótér Prevalje városában. Aktív szabadtéri kikapcsolódást kínál a diákoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.923749,
+                        46.547786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero este un lac în Prevalje. Este un loc ideal pentru cei care caută relaxare și pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "School plazground",
+                  "text": "School plazground este un teren de joacă în Prevalje. Oferă elevilor și copiilor oportunități pentru pauze active în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.923749,
+                        46.547786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ivarčko jezero",
+                  "text": "Ivarčko jezero is a lake in Prevalje. It is an ideal spot for those seeking relaxation and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.970917,
+                        46.506061
+                  ]
+            },
+            {
+                  "name": "School plazground",
+                  "text": "School plazground is a playground in Prevalje. It offers students and children opportunities for active outdoor breaks.",
+                  "category": "family",
+                  "coords": [
+                        14.923749,
+                        46.547786
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Prevalje", hu: "Prevalje", ro: "Prevalje", en: "Prevalje" },
@@ -12376,7 +14401,52 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-prevalje-cities-v2.webp",
   },
   {
-    id: "slovenia-cirkulane-cities-v2",
+    id: "slovenia-cirkulane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pettauer See",
+                  "text": "Ptujsko jezero ist ein großer See in der Nähe von Cirkulane.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "A Ptujsko jezero egy nagy tó Cirkulane közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "Ptujsko jezero este un lac mare lângă Cirkulane.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ptujsko jezero",
+                  "text": "Ptujsko jezero is a large lake near Cirkulane.",
+                  "category": "natural",
+                  "coords": [
+                        15.901161,
+                        46.399832
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Cirkulane", hu: "Cirkulane", ro: "Cirkulane", en: "Cirkulane" },
