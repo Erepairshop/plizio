@@ -84,3 +84,8 @@ merge_pois.py
 _safepush.sh
 public/data/_poi-url-index.json
 public/data/sight-grid/
+
+# Large FAQ monolith (169MB > GitHub limit) — shardolva commitoljuk (poi-faqs-N.json)
+public/data/poi-faqs.json
+public/data/poi-practical/*.bak
+public/data/*.before_*.bak

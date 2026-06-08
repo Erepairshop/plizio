@@ -196,9 +196,15 @@ function resolveHeroImage(poi: POI): string | null {
 type FAQItem = { q: Partial<Record<string,string>>; a: Partial<Record<string,string>> };
 let FAQS: Record<string, FAQItem[]> = {};
 try {
-  const fp = path.resolve(process.cwd(), "public", "data", "poi-faqs.json");
-  if (fs.existsSync(fp)) {
-    FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
+  // Sharded: poi-faqs-0.json .. poi-faqs-N.json (a monolit 169MB tullepi a GitHub
+  // 100MB limitet, ezert shardolva commitoljuk). Fallback a regi poi-faqs.json-ra.
+  const dataDir = path.resolve(process.cwd(), "public", "data");
+  const shards = fs.readdirSync(dataDir).filter((f) => /^poi-faqs-\d+\.json$/.test(f));
+  if (shards.length) {
+    for (const s of shards) Object.assign(FAQS, JSON.parse(fs.readFileSync(path.join(dataDir, s), "utf-8")));
+  } else {
+    const fp = path.join(dataDir, "poi-faqs.json");
+    if (fs.existsSync(fp)) FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
   }
 } catch {}
 // hr FAQ is a separate native set (different questions), populated from the
