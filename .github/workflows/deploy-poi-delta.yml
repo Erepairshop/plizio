@@ -177,7 +177,7 @@ jobs:
           set +e
           # List ALL paths written (debug — what slugs did buildPoiPath actually produce?)
           echo "## Generated paths (first 30)" >> $GITHUB_STEP_SUMMARY
-          find out_delta -name 'index.html' -type f | head -30 | while read -r f; do
+          find out_delta -name 'index.html' -type f 2>/dev/null | head -30 | while read -r f; do
             REL="${f#out_delta/}"
             URL="https://plizio.com/${REL%/index.html}/"
             CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 6 "$URL")
